@@ -43703,6 +43703,45 @@
     }
   },
   {
+    "id": 1019,
+    "name": "ps",
+    "platform": "Windows 8/Metro",
+    "category": "Programming File Types",
+    "created": 1342533527,
+    "tags": [
+      "adobe",
+      "design",
+      "software",
+      "application",
+      "files",
+      "photoshop",
+      "pixels",
+      "color",
+      "indesign",
+      "crop",
+      "form",
+      "fix",
+      "brushes",
+      "brightness",
+      "contrast",
+      "hue",
+      "typography"
+    ],
+    "files": {
+      "svg": "/SVG/Programming_File_Types/ps.svg",
+      "eps": "/EPS/Programming_File_Types/ps.eps",
+      "png": {
+        "128": "/PNG/Programming_File_Types/ps/ps-128.png",
+        "256": "/PNG/Programming_File_Types/ps/ps-256.png",
+        "64": "/PNG/Programming_File_Types/ps/ps-64.png",
+        "26": "/PNG/Programming_File_Types/ps/ps-26.png",
+        "32": "/PNG/Programming_File_Types/ps/ps-32.png",
+        "48": "/PNG/Programming_File_Types/ps/ps-48.png",
+        "512": "/PNG/Programming_File_Types/ps/ps-512.png"
+      }
+    }
+  },
+  {
     "id": 1480,
     "name": "ps1",
     "platform": "Windows 8/Metro",
