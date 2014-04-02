@@ -1214,6 +1214,32 @@
     }
   },
   {
+    "id": 3319,
+    "name": "settings",
+    "platform": "Android",
+    "category": "Very Basic",
+    "created": 1391770248,
+    "tags": [
+      "search"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Very_Basic/settings.svg",
+      "eps": "/EPS/Very_Basic/settings.eps",
+      "png": {
+        "24": "/PNG/Very_Basic/settings/settings-24.png",
+        "256": "/PNG/Very_Basic/settings/settings-256.png",
+        "32": "/PNG/Very_Basic/settings/settings-32.png",
+        "512": "/PNG/Very_Basic/settings/settings-512.png",
+        "48": "/PNG/Very_Basic/settings/settings-48.png",
+        "64": "/PNG/Very_Basic/settings/settings-64.png",
+        "36": "/PNG/Very_Basic/settings/settings-36.png",
+        "96": "/PNG/Very_Basic/settings/settings-96.png",
+        "128": "/PNG/Very_Basic/settings/settings-128.png"
+      }
+    }
+  },
+  {
     "id": 3760,
     "name": "share",
     "platform": "Android",

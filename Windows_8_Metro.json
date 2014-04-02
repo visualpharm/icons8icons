@@ -50954,7 +50954,8 @@
       "kiosk",
       "self-service",
       "business",
-      "booth"
+      "booth",
+      "virtual"
     ],
     "copyright": false,
     "files": {
@@ -68475,7 +68476,8 @@
       "image",
       "icon",
       "size",
-      "edits"
+      "edits",
+      "customer"
     ],
     "copyright": false,
     "files": {
