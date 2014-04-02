@@ -8,6 +8,7 @@
     "tags": [
       "bell"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Buzz/appointment_reminders.svg",
       "eps": "/EPS/Buzz/appointment_reminders.eps",
@@ -36,6 +37,7 @@
       "drums",
       "instrument"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Music/bass_drum.svg",
       "eps": "/EPS/Music/bass_drum.eps",
@@ -111,6 +113,7 @@
       "plastic",
       "sing"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Shopping/box.svg",
       "eps": "/EPS/Shopping/box.eps",
@@ -140,6 +143,7 @@
       "instrument",
       "orhcestra"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Music/bugle.svg",
       "eps": "/EPS/Music/bugle.eps",
@@ -186,6 +190,7 @@
       "future",
       "occasion"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Basic/calendar.svg",
       "eps": "/EPS/Basic/calendar.eps",
@@ -260,6 +265,7 @@
       "lolli",
       "l"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Christmas/candy.svg",
       "eps": "/EPS/Christmas/candy.eps",
@@ -314,6 +320,7 @@
       "stand-up",
       "virtuous"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Basic/checkmark.svg",
       "eps": "/EPS/Basic/checkmark.eps",
@@ -334,7 +341,7 @@
     "id": 3332,
     "name": "close_up_mode",
     "platform": "Android",
-    "category": "Photo Video",
+    "category": "Photo and Video",
     "created": 1391770248,
     "tags": [
       "vector",
@@ -375,6 +382,7 @@
       "symmetrical",
       "symmetry"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Photo_Video/close_up_mode.svg",
       "eps": "/EPS/Photo_Video/close_up_mode.eps",
@@ -419,6 +427,7 @@
       "avatar",
       "people icons"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Users/conference.svg",
       "eps": "/EPS/Users/conference.eps",
@@ -483,6 +492,7 @@
       "lights",
       "car mechanic"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Transport/garage.svg",
       "eps": "/EPS/Transport/garage.eps",
@@ -515,6 +525,7 @@
       "ballad",
       "rock star"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Music/guitar.svg",
       "eps": "/EPS/Music/guitar.eps",
@@ -540,6 +551,7 @@
     "tags": [
       "video"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Basic/info.svg",
       "eps": "/EPS/Basic/info.eps",
@@ -560,7 +572,7 @@
     "id": 3272,
     "name": "landscape",
     "platform": "Android",
-    "category": "Photo Video",
+    "category": "Photo and Video",
     "created": 1391770248,
     "tags": [
       "star",
@@ -599,6 +611,7 @@
       "hiking",
       "elevation"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Photo_Video/landscape.svg",
       "eps": "/EPS/Photo_Video/landscape.eps",
@@ -624,6 +637,7 @@
     "tags": [
       "play buttom"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Basic/music.svg",
       "eps": "/EPS/Basic/music.eps",
@@ -661,6 +675,7 @@
       "opera",
       "concert hall"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Music/music_conductor.svg",
       "eps": "/EPS/Music/music_conductor.eps",
@@ -681,7 +696,7 @@
     "id": 3197,
     "name": "night_landscape",
     "platform": "Android",
-    "category": "Photo Video",
+    "category": "Photo and Video",
     "created": 1391770248,
     "tags": [
       "light",
@@ -727,6 +742,7 @@
       "phase",
       "half moon"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Photo_Video/night_landscape.svg",
       "eps": "/EPS/Photo_Video/night_landscape.eps",
@@ -747,7 +763,7 @@
     "id": 3158,
     "name": "night_portrait",
     "platform": "Android",
-    "category": "Photo Video",
+    "category": "Photo and Video",
     "created": 1391770248,
     "tags": [
       "watch",
@@ -788,6 +804,7 @@
       "solar",
       "polar"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Photo_Video/night_portrait.svg",
       "eps": "/EPS/Photo_Video/night_portrait.eps",
@@ -815,6 +832,7 @@
       "music",
       "note"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Music/note.svg",
       "eps": "/EPS/Music/note.eps",
@@ -835,7 +853,7 @@
     "id": 3285,
     "name": "panorama",
     "platform": "Android",
-    "category": "Photo Video",
+    "category": "Photo and Video",
     "created": 1391770248,
     "tags": [
       "design",
@@ -874,6 +892,7 @@
       "imaginative",
       "wallpaper"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Photo_Video/panorama.svg",
       "eps": "/EPS/Photo_Video/panorama.eps",
@@ -907,6 +926,7 @@
       "mozart",
       "chopin"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Music/piano.svg",
       "eps": "/EPS/Music/piano.eps",
@@ -927,7 +947,7 @@
     "id": 3229,
     "name": "portrait_mode",
     "platform": "Android",
-    "category": "Photo Video",
+    "category": "Photo and Video",
     "created": 1391770248,
     "tags": [
       "design",
@@ -978,6 +998,7 @@
       "pattern",
       "clip-"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Photo_Video/portrait_mode.svg",
       "eps": "/EPS/Photo_Video/portrait_mode.eps",
@@ -1045,6 +1066,7 @@
       "set arrow vector",
       "way"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Shopping/return.svg",
       "eps": "/EPS/Shopping/return.eps",
@@ -1072,6 +1094,7 @@
       "favorite",
       "rating"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Basic/search.svg",
       "eps": "/EPS/Basic/search.eps",
@@ -1097,6 +1120,7 @@
     "tags": [
       "sedan"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Transport/sedan.svg",
       "eps": "/EPS/Transport/sedan.eps",
@@ -1117,7 +1141,7 @@
     "id": 3315,
     "name": "sports_mode",
     "platform": "Android",
-    "category": "Photo Video",
+    "category": "Photo and Video",
     "created": 1391770248,
     "tags": [
       "design",
@@ -1168,6 +1192,7 @@
       "jump",
       "d"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Photo_Video/sports_mode.svg",
       "eps": "/EPS/Photo_Video/sports_mode.eps",
@@ -1199,6 +1224,7 @@
       "composer",
       "composing"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Music/treble_clef.svg",
       "eps": "/EPS/Music/treble_clef.eps",
@@ -1226,6 +1252,7 @@
       "tuba",
       "http icons8 com icons 3401 clarnet"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Music/trumpet.svg",
       "eps": "/EPS/Music/trumpet.eps",
@@ -1271,6 +1298,7 @@
       "projectile",
       "pellet"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Basic/undo.svg",
       "eps": "/EPS/Basic/undo.eps",
@@ -1300,6 +1328,7 @@
       "wooden",
       "mallet"
     ],
+    "copyright": false,
     "files": {
       "svg": "/SVG/Music/xylophone.svg",
       "eps": "/EPS/Music/xylophone.eps",
