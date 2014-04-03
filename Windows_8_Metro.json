@@ -12606,7 +12606,8 @@
       "name",
       "user role",
       "identification",
-      "collaborator"
+      "collaborator",
+      "office user"
     ],
     "copyright": false,
     "files": {
