@@ -4667,7 +4667,8 @@
       "color",
       "brush",
       "pallet",
-      "hairs"
+      "hairs",
+      "color pallate"
     ],
     "copyright": false,
     "files": {
@@ -7095,6 +7096,7 @@
       "inbox",
       "post",
       "letter",
+      "camera",
       "icon",
       "open",
       "email",
@@ -12287,6 +12289,7 @@
       "decoration",
       "traditional",
       "snake",
+      "devil",
       "isolate",
       "finger",
       "tail",
@@ -12295,7 +12298,7 @@
       "twisting",
       "claw",
       "dragon",
-      "sculpture"
+      "scu"
     ],
     "copyright": false,
     "files": {
@@ -13308,10 +13311,16 @@
       "photo",
       "pictures",
       "pixels",
-      "crop",
       "editor",
-      "resize",
-      "ellipse"
+      "drawing",
+      "round",
+      "circle",
+      "oval",
+      "geometry",
+      "primitive",
+      "egg",
+      "graphics object",
+      "vector shape"
     ],
     "copyright": false,
     "files": {
@@ -21429,6 +21438,7 @@
     "category": "Mobile",
     "created": 1329300063,
     "tags": [
+      "android",
       "cell",
       "phone",
       "cellphone",
@@ -21761,7 +21771,6 @@
       "extract",
       "image",
       "illustration",
-      "camera",
       "icon",
       "coffee",
       "easy",
@@ -21785,7 +21794,8 @@
       "qualification",
       "prod",
       "faces",
-      "mimicking"
+      "mimicking",
+      "expres"
     ],
     "copyright": false,
     "files": {
@@ -23966,7 +23976,6 @@
     "created": 1325075331,
     "tags": [
       "social network",
-      "linkedin",
       "linked in"
     ],
     "copyright": false,
@@ -25655,9 +25664,8 @@
       "bold",
       "interface",
       "button",
-      "emblem",
       "limit",
-      "mult"
+      "multimedia"
     ],
     "copyright": false,
     "files": {
@@ -27664,6 +27672,7 @@
     "category": "Music",
     "created": 1319711886,
     "tags": [
+      "lightning",
       "sound",
       "music set",
       "orchestra",
@@ -30748,6 +30757,7 @@
     "category": "Very Basic",
     "created": 1345458124,
     "tags": [
+      "sound",
       "lifestyle",
       "map",
       "decors",
@@ -40298,7 +40308,8 @@
       "darkness",
       "storm",
       "bad",
-      "thunder"
+      "thunder",
+      "thunderstorm"
     ],
     "copyright": false,
     "files": {
@@ -42705,9 +42716,7 @@
       "wall clock",
       "seconds",
       "hour",
-      "window",
       "home",
-      "door",
       "drawing",
       "business",
       "work",
@@ -44230,7 +44239,6 @@
       "clock",
       "book",
       "windows",
-      "window",
       "fun",
       "doors",
       "door",
@@ -45650,6 +45658,7 @@
     "tags": [
       "appliance",
       "house",
+      "internet",
       "antenna",
       "channels",
       "movies",
@@ -46269,7 +46278,6 @@
       "money",
       "currency",
       "sign",
-      "Facebook",
       "dollar",
       "exchange",
       "forex",
@@ -46984,6 +46992,7 @@
     "category": "Messaging",
     "created": 1341483485,
     "tags": [
+      "edit",
       "house",
       "view",
       "eye",

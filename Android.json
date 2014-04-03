@@ -1105,7 +1105,6 @@
       "communication",
       "communicate",
       "group",
-      "information",
       "left",
       "arrow",
       "direction",
@@ -1140,7 +1139,8 @@
       "direct",
       "dynamic",
       "set arrow vector",
-      "way"
+      "ways",
+      "arrowhead"
     ],
     "copyright": false,
     "files": {
@@ -1262,6 +1262,8 @@
       "media",
       "graphic",
       "sign",
+      "Facebook",
+      "twitter",
       "connection",
       "flat",
       "icon",
@@ -1280,6 +1282,7 @@
       "friendship",
       "multimedia",
       "single",
+      "pinterest",
       "organic",
       "biotechnology",
       "physics",
@@ -1288,10 +1291,7 @@
       "cloud",
       "receive",
       "diagram",
-      "atom",
-      "proton",
-      "neutron",
-      "recovery"
+      "at"
     ],
     "copyright": false,
     "files": {
