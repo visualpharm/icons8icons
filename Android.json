@@ -1740,6 +1740,32 @@
     }
   },
   {
+    "id": 3227,
+    "name": "shopping_cart_filled",
+    "platform": "Android",
+    "category": "Shopping",
+    "created": 1391770248,
+    "tags": [
+      "user"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Shopping/shopping_cart_filled.svg",
+      "eps": "/EPS/Shopping/shopping_cart_filled.eps",
+      "png": {
+        "32": "/PNG/Shopping/shopping_cart_filled/shopping_cart_filled-32.png",
+        "36": "/PNG/Shopping/shopping_cart_filled/shopping_cart_filled-36.png",
+        "96": "/PNG/Shopping/shopping_cart_filled/shopping_cart_filled-96.png",
+        "128": "/PNG/Shopping/shopping_cart_filled/shopping_cart_filled-128.png",
+        "48": "/PNG/Shopping/shopping_cart_filled/shopping_cart_filled-48.png",
+        "24": "/PNG/Shopping/shopping_cart_filled/shopping_cart_filled-24.png",
+        "64": "/PNG/Shopping/shopping_cart_filled/shopping_cart_filled-64.png",
+        "256": "/PNG/Shopping/shopping_cart_filled/shopping_cart_filled-256.png",
+        "512": "/PNG/Shopping/shopping_cart_filled/shopping_cart_filled-512.png"
+      }
+    }
+  },
+  {
     "id": 3770,
     "name": "south_direction",
     "platform": "Android",
