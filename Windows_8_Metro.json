@@ -8227,10 +8227,20 @@
     "category": "Alphabet",
     "created": 1375697083,
     "tags": [
+      "windows",
+      "programming",
+      "language",
+      "code",
+      "programs",
       "letter",
+      "computer",
       "alphabet",
       "character",
-      "c"
+      "sharp",
+      "c",
+      "cpu",
+      "c sharp",
+      "envrionment"
     ],
     "copyright": false,
     "files": {
@@ -8245,6 +8255,39 @@
         "64": "/PNG/Alphabet/C/C-64.png",
         "512": "/PNG/Alphabet/C/C-512.png",
         "256": "/PNG/Alphabet/C/C-256.png"
+      }
+    }
+  },
+  {
+    "id": 3848,
+    "name": "c++",
+    "platform": "Windows 8/Metro",
+    "category": "Programming File Types",
+    "created": 1396644701,
+    "tags": [
+      "windows",
+      "programming",
+      "language",
+      "code",
+      "programs",
+      "computer",
+      "basic",
+      "c",
+      "bit",
+      "cpu"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Programming_File_Types/c++.svg",
+      "eps": "/EPS/Programming_File_Types/c++.eps",
+      "png": {
+        "32": "/PNG/Programming_File_Types/c++/c++-32.png",
+        "512": "/PNG/Programming_File_Types/c++/c++-512.png",
+        "26": "/PNG/Programming_File_Types/c++/c++-26.png",
+        "128": "/PNG/Programming_File_Types/c++/c++-128.png",
+        "48": "/PNG/Programming_File_Types/c++/c++-48.png",
+        "64": "/PNG/Programming_File_Types/c++/c++-64.png",
+        "256": "/PNG/Programming_File_Types/c++/c++-256.png"
       }
     }
   },
@@ -45056,6 +45099,7 @@
     "tags": [
       "mark",
       "tools",
+      "security",
       "internet",
       "restricted",
       "settings",
@@ -51391,7 +51435,8 @@
       "edit",
       "tools",
       "settings",
-      "gear"
+      "gear",
+      "charts"
     ],
     "copyright": false,
     "files": {
@@ -63526,16 +63571,25 @@
     "category": "Programming File Types",
     "created": 1396637495,
     "tags": [
+      "windows",
       "file",
       "message",
       "forum",
+      "language",
+      "code",
+      "computer",
+      "environment",
       "paint",
       "editor",
+      "basic",
+      "cpu",
       "message box",
       "visual basic",
       "drag drop",
       "visual editor",
-      "visual studio"
+      "visual studio",
+      "vista",
+      "vb"
     ],
     "copyright": false,
     "files": {
