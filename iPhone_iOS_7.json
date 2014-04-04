@@ -19624,6 +19624,7 @@
     "tags": [
       "games",
       "play",
+      "web",
       "cards",
       "person",
       "gamble",
@@ -30628,6 +30629,7 @@
     "category": "Photo and Video",
     "created": 1390342414,
     "tags": [
+      "fun",
       "photos",
       "slr"
     ],
@@ -31533,6 +31535,7 @@
       "mathematics",
       "plus sign",
       "sum",
+      "penicl",
       "calculator",
       "mathematical symbol",
       "calculator button",
@@ -34908,6 +34911,31 @@
         "100": "/PNG/Arrows/right/right-100.png",
         "75": "/PNG/Arrows/right/right-75.png",
         "50": "/PNG/Arrows/right/right-50.png"
+      }
+    }
+  },
+  {
+    "id": 2893,
+    "name": "right2",
+    "platform": "iPhone/iOS 7",
+    "category": "Arrows",
+    "created": 1390342414,
+    "tags": [
+      "s"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Arrows/right2.svg",
+      "eps": "/EPS/Arrows/right2.eps",
+      "png": {
+        "50": "/PNG/Arrows/right2/right2-50.png",
+        "128": "/PNG/Arrows/right2/right2-128.png",
+        "256": "/PNG/Arrows/right2/right2-256.png",
+        "100": "/PNG/Arrows/right2/right2-100.png",
+        "25": "/PNG/Arrows/right2/right2-25.png",
+        "75": "/PNG/Arrows/right2/right2-75.png",
+        "32": "/PNG/Arrows/right2/right2-32.png",
+        "512": "/PNG/Arrows/right2/right2-512.png"
       }
     }
   },
@@ -38642,7 +38670,9 @@
       "photo",
       "camera",
       "video camera",
-      "camera body"
+      "camera body",
+      "terms",
+      "terms and conditions"
     ],
     "copyright": false,
     "files": {
