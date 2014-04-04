@@ -796,6 +796,34 @@
     }
   },
   {
+    "id": 3141,
+    "name": "idea",
+    "platform": "Android",
+    "category": "Shopping",
+    "created": 1391770248,
+    "tags": [
+      "light",
+      "shine",
+      "lightbulb"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Shopping/idea.svg",
+      "eps": "/EPS/Shopping/idea.eps",
+      "png": {
+        "256": "/PNG/Shopping/idea/idea-256.png",
+        "128": "/PNG/Shopping/idea/idea-128.png",
+        "36": "/PNG/Shopping/idea/idea-36.png",
+        "24": "/PNG/Shopping/idea/idea-24.png",
+        "48": "/PNG/Shopping/idea/idea-48.png",
+        "32": "/PNG/Shopping/idea/idea-32.png",
+        "512": "/PNG/Shopping/idea/idea-512.png",
+        "96": "/PNG/Shopping/idea/idea-96.png",
+        "64": "/PNG/Shopping/idea/idea-64.png"
+      }
+    }
+  },
+  {
     "id": 3156,
     "name": "info",
     "platform": "Android",
