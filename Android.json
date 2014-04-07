@@ -897,7 +897,6 @@
     "tags": [
       "calendar",
       "date",
-      "day",
       "month",
       "year",
       "time",
@@ -916,7 +915,8 @@
       "task",
       "management",
       "future",
-      "occasion"
+      "occasion",
+      "day"
     ],
     "copyright": false,
     "files": {
@@ -1751,7 +1751,8 @@
     "category": "Weather",
     "created": 1391770248,
     "tags": [
-
+      "rain",
+      "cloud"
     ],
     "copyright": false,
     "files": {
@@ -6442,7 +6443,7 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-
+      "qww"
     ],
     "copyright": false,
     "files": {

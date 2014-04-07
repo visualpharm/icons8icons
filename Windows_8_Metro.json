@@ -4136,7 +4136,8 @@
       "eq",
       "vocal sound waves",
       "musical note",
-      "bass"
+      "bass",
+      "buy"
     ],
     "copyright": false,
     "files": {
@@ -8614,9 +8615,10 @@
       "admin",
       "tie",
       "user",
-      "business",
+      "professional",
       "man",
-      "businessman"
+      "businessman",
+      "career"
     ],
     "copyright": false,
     "files": {
@@ -10470,7 +10472,6 @@
     "category": "Messaging",
     "created": 1361189476,
     "tags": [
-      "calendar",
       "time",
       "business",
       "schedule",
@@ -10481,7 +10482,12 @@
       "planing",
       "personal organizer",
       "diary",
-      "calendar date"
+      "calendar date",
+      "sort",
+      "labels",
+      "different",
+      "categories",
+      "kinds"
     ],
     "copyright": false,
     "files": {
@@ -11094,13 +11100,13 @@
       "gas",
       "icon",
       "conversation",
-      "imagine",
       "converse",
       "visit",
       "rap",
       "chatter",
       "prattle",
-      "babble"
+      "babble",
+      "imagine"
     ],
     "copyright": false,
     "files": {
@@ -14610,7 +14616,6 @@
     "created": 1382605089,
     "tags": [
       "vector",
-      "calendar",
       "edit",
       "trash",
       "play",
@@ -14621,10 +14626,7 @@
       "setting",
       "timer",
       "video",
-      "media",
-      "photo",
       "gear",
-      "list",
       "camera",
       "three",
       "fall",
@@ -14651,7 +14653,10 @@
       "annually",
       "vacation plans",
       "vacation ideas",
-      "breaks"
+      "breaks",
+      "media",
+      "photo",
+      "list"
     ],
     "copyright": false,
     "files": {
@@ -15789,7 +15794,9 @@
     "category": "Programming File Types",
     "created": 1396651933,
     "tags": [
-
+      "net",
+      "c sharp",
+      "dot net"
     ],
     "copyright": false,
     "files": {
@@ -16894,7 +16901,8 @@
       "delete",
       "erase",
       "city",
-      "turn"
+      "turn",
+      "area"
     ],
     "copyright": false,
     "files": {
@@ -19253,9 +19261,6 @@
     "category": "Transport",
     "created": 1390996250,
     "tags": [
-      "fun",
-      "sell",
-      "business",
       "people",
       "trip",
       "driver",
@@ -19264,10 +19269,8 @@
       "man",
       "lifestyle",
       "vehicle",
+      "steering wheel",
       "auto",
-      "sales",
-      "attractive",
-      "rent",
       "dealer",
       "drivers license",
       "sitting",
@@ -21927,6 +21930,7 @@
       "messaging",
       "heart",
       "social network",
+      "twitter",
       "website",
       "f",
       "friends",
@@ -23018,7 +23022,6 @@
       "document",
       "rating",
       "yellow",
-      "car",
       "defense",
       "hot",
       "heat",
@@ -23049,7 +23052,8 @@
       "blaze",
       "glow",
       "fight",
-      "ecolo"
+      "ecology",
+      "s"
     ],
     "copyright": false,
     "files": {
@@ -34977,6 +34981,7 @@
       "temperature",
       "clouds",
       "cold",
+      "menu",
       "night",
       "interface",
       "icons",
@@ -37755,16 +37760,17 @@
     "created": 1358248683,
     "tags": [
       "calculator",
-      "calendar",
       "minus",
       "numbers",
       "sign",
+      "do not disturb",
       "mathematics",
-      "mathematical symbol",
       "calculator button",
       "exam",
       "minus sign",
-      "expressing negativity"
+      "expressing negativity",
+      "dnd",
+      "no entry"
     ],
     "copyright": false,
     "files": {
@@ -37909,7 +37915,6 @@
       "timer",
       "round",
       "machine",
-      "car",
       "speed",
       "electric",
       "graphic",
@@ -37940,7 +37945,7 @@
       "timezone",
       "maths",
       "hourglass",
-      "cl"
+      "clockw"
     ],
     "copyright": false,
     "files": {
@@ -40151,7 +40156,8 @@
       "language",
       "database",
       "server",
-      "dolphin"
+      "dolphin",
+      "txt"
     ],
     "copyright": false,
     "files": {
@@ -43237,7 +43243,8 @@
       "chapters",
       "table of contents",
       "contents",
-      "list"
+      "list",
+      "menu"
     ],
     "copyright": false,
     "files": {
@@ -43938,7 +43945,6 @@
       "pictogram",
       "seat",
       "tourist",
-      "terror",
       "hunter",
       "backside",
       "fearless",
@@ -44264,6 +44270,7 @@
     "category": "Image Editing",
     "created": 1343814206,
     "tags": [
+      "calendar",
       "pencil",
       "draw",
       "present",
@@ -44547,11 +44554,13 @@
     "tags": [
       "phone",
       "calendar",
+      "mail",
       "call",
       "dial",
       "connection",
       "office stuff",
-      "email"
+      "email",
+      "website"
     ],
     "copyright": false,
     "files": {
@@ -44620,6 +44629,7 @@
       "ring",
       "phone",
       "number",
+      "home",
       "communication",
       "communicate",
       "comms",
@@ -49732,7 +49742,8 @@
     "tags": [
       "remove user",
       "delete user",
-      "disable user"
+      "disable user",
+      "talk"
     ],
     "copyright": false,
     "files": {
@@ -50110,8 +50121,8 @@
       "eating",
       "eat",
       "dining",
-      "breakfast",
-      "fork"
+      "fork",
+      "coin"
     ],
     "copyright": false,
     "files": {
@@ -51765,7 +51776,8 @@
     "tags": [
       "fast",
       "human",
-      "run"
+      "run",
+      "man"
     ],
     "copyright": false,
     "files": {
@@ -53161,7 +53173,8 @@
       "zoom out",
       "car",
       "nail",
-      "Platform Administration"
+      "Platform Administration",
+      "weld"
     ],
     "copyright": false,
     "files": {
@@ -54743,7 +54756,6 @@
       "handy man tool",
       "craftsman tool",
       "house key",
-      "car key",
       "widget",
       "holes in keys",
       "mechanical",
@@ -54782,6 +54794,7 @@
     "tags": [
       "play",
       "off",
+      "down",
       "laptop",
       "switch",
       "computer",
@@ -54793,7 +54806,9 @@
       "power buttons",
       "saver",
       "push",
-      "spe"
+      "shut",
+      "spe",
+      "shut down"
     ],
     "copyright": false,
     "files": {
@@ -55963,6 +55978,7 @@
     "category": "Photo and Video",
     "created": 1326886315,
     "tags": [
+      "music",
       "settings",
       "photo",
       "camera",
@@ -57744,6 +57760,78 @@
     }
   },
   {
+    "id": 3858,
+    "name": "stairs",
+    "platform": "Windows 8/Metro",
+    "category": "Accommodation",
+    "created": 1396889503,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Accommodation/stairs.svg",
+      "eps": "/EPS/Accommodation/stairs.eps",
+      "png": {
+        "128": "/PNG/Accommodation/stairs/stairs-128.png",
+        "48": "/PNG/Accommodation/stairs/stairs-48.png",
+        "32": "/PNG/Accommodation/stairs/stairs-32.png",
+        "26": "/PNG/Accommodation/stairs/stairs-26.png",
+        "64": "/PNG/Accommodation/stairs/stairs-64.png",
+        "512": "/PNG/Accommodation/stairs/stairs-512.png",
+        "256": "/PNG/Accommodation/stairs/stairs-256.png"
+      }
+    }
+  },
+  {
+    "id": 3854,
+    "name": "stairs_down",
+    "platform": "Windows 8/Metro",
+    "category": "Accommodation",
+    "created": 1396889503,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Accommodation/stairs_down.svg",
+      "eps": "/EPS/Accommodation/stairs_down.eps",
+      "png": {
+        "256": "/PNG/Accommodation/stairs_down/stairs_down-256.png",
+        "128": "/PNG/Accommodation/stairs_down/stairs_down-128.png",
+        "64": "/PNG/Accommodation/stairs_down/stairs_down-64.png",
+        "512": "/PNG/Accommodation/stairs_down/stairs_down-512.png",
+        "48": "/PNG/Accommodation/stairs_down/stairs_down-48.png",
+        "26": "/PNG/Accommodation/stairs_down/stairs_down-26.png",
+        "32": "/PNG/Accommodation/stairs_down/stairs_down-32.png"
+      }
+    }
+  },
+  {
+    "id": 3856,
+    "name": "stairs_up",
+    "platform": "Windows 8/Metro",
+    "category": "Accommodation",
+    "created": 1396889503,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Accommodation/stairs_up.svg",
+      "eps": "/EPS/Accommodation/stairs_up.eps",
+      "png": {
+        "26": "/PNG/Accommodation/stairs_up/stairs_up-26.png",
+        "128": "/PNG/Accommodation/stairs_up/stairs_up-128.png",
+        "48": "/PNG/Accommodation/stairs_up/stairs_up-48.png",
+        "32": "/PNG/Accommodation/stairs_up/stairs_up-32.png",
+        "512": "/PNG/Accommodation/stairs_up/stairs_up-512.png",
+        "256": "/PNG/Accommodation/stairs_up/stairs_up-256.png",
+        "64": "/PNG/Accommodation/stairs_up/stairs_up-64.png"
+      }
+    }
+  },
+  {
     "id": 1634,
     "name": "stanley_knife",
     "platform": "Windows 8/Metro",
@@ -58079,7 +58167,8 @@
       "screen",
       "presentation",
       "monitor",
-      "projector screen"
+      "projector screen",
+      "alerts"
     ],
     "copyright": false,
     "files": {
@@ -58131,13 +58220,15 @@
     "created": 1363207523,
     "tags": [
       "drive",
+      "driver",
       "wheel",
       "rotate",
       "steering wheel",
       "turn",
       "steering",
-      "car",
-      "airbag"
+      "driving",
+      "airbag",
+      "car"
     ],
     "copyright": false,
     "files": {
@@ -58979,8 +59070,10 @@
       "web",
       "internet",
       "ruler",
+      "wrench",
       "report",
-      "ask"
+      "ask",
+      "spanner"
     ],
     "copyright": false,
     "files": {
@@ -60118,7 +60211,8 @@
       "sale",
       "tag",
       "label",
-      "tagged"
+      "tagged",
+      "stock"
     ],
     "copyright": false,
     "files": {
@@ -64779,7 +64873,8 @@
       "social network",
       "bird",
       "tweet",
-      "twitter"
+      "twitter",
+      "youtube"
     ],
     "copyright": false,
     "files": {
