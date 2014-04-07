@@ -9708,6 +9708,7 @@
         "32": "/PNG/Programming_File_types/cls/cls-32.png",
         "100": "/PNG/Programming_File_types/cls/cls-100.png",
         "512": "/PNG/Programming_File_types/cls/cls-512.png",
+        "555": "/PNG/Programming_File_types/cls/cls-555.png",
         "25": "/PNG/Programming_File_types/cls/cls-25.png",
         "256": "/PNG/Programming_File_types/cls/cls-256.png",
         "50": "/PNG/Programming_File_types/cls/cls-50.png"
@@ -25791,6 +25792,7 @@
         "32": "/PNG/Programming_File_types/jsp/jsp-32.png",
         "75": "/PNG/Programming_File_types/jsp/jsp-75.png",
         "50": "/PNG/Programming_File_types/jsp/jsp-50.png",
+        "555": "/PNG/Programming_File_types/jsp/jsp-555.png",
         "256": "/PNG/Programming_File_types/jsp/jsp-256.png",
         "128": "/PNG/Programming_File_types/jsp/jsp-128.png",
         "512": "/PNG/Programming_File_types/jsp/jsp-512.png",
@@ -46047,6 +46049,7 @@
         "256": "/PNG/Programming_File_types/sql/sql-256.png",
         "100": "/PNG/Programming_File_types/sql/sql-100.png",
         "512": "/PNG/Programming_File_types/sql/sql-512.png",
+        "555": "/PNG/Programming_File_types/sql/sql-555.png",
         "32": "/PNG/Programming_File_types/sql/sql-32.png",
         "50": "/PNG/Programming_File_types/sql/sql-50.png",
         "128": "/PNG/Programming_File_types/sql/sql-128.png"
