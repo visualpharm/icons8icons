@@ -13100,6 +13100,7 @@
       "line",
       "ruler",
       "measure",
+      "contact",
       "concept",
       "engineering",
       "engineer",
@@ -15109,6 +15110,7 @@
       "heavy",
       "lifestyle",
       "gym",
+      "tumblr",
       "lifestyles",
       "sports and fitness",
       "dumbbell",
@@ -27998,6 +28000,7 @@
     "category": "Maps",
     "created": 1395935483,
     "tags": [
+      "clock",
       "mark",
       "location",
       "coffee",
@@ -29516,6 +29519,7 @@
     "created": 1390342414,
     "tags": [
       "message",
+      "link",
       "announcement",
       "announce",
       "attention",
@@ -33961,6 +33965,7 @@
       "design",
       "vector",
       "clock",
+      "phone",
       "calendar",
       "date",
       "day",
@@ -34003,8 +34008,7 @@
       "reminder",
       "front",
       "deadline",
-      "urgency",
-      "bin"
+      "urgen"
     ],
     "copyright": false,
     "files": {
@@ -36068,6 +36072,7 @@
       "media",
       "media controls",
       "triangle",
+      "option",
       "pause"
     ],
     "copyright": false,
@@ -38773,6 +38778,7 @@
     "category": "Weather",
     "created": 1331541214,
     "tags": [
+      "wind",
       "water",
       "weather",
       "umbrella",
@@ -41556,7 +41562,7 @@
     "category": "Registration",
     "created": 1395935483,
     "tags": [
-
+      "shuffle"
     ],
     "copyright": false,
     "files": {
@@ -42137,7 +42143,6 @@
       "edit",
       "medical",
       "search",
-      "replace",
       "magnifier",
       "detect",
       "close-up",
@@ -51114,6 +51119,7 @@
       "dates",
       "point",
       "schedule",
+      "lacation",
       "table"
     ],
     "copyright": false,
@@ -53501,7 +53507,8 @@
       "move",
       "share",
       "cloud",
-      "give"
+      "give",
+      "download filled"
     ],
     "copyright": false,
     "files": {
@@ -54670,6 +54677,7 @@
     "tags": [
       "edit",
       "house",
+      "people",
       "view",
       "eye",
       "visible",
