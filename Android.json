@@ -188,7 +188,13 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
-
+      "wake up",
+      "time",
+      "sound",
+      "signal",
+      "timer",
+      "notification",
+      "reminder"
     ],
     "copyright": false,
     "files": {
@@ -895,7 +901,9 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-
+      "math",
+      "numbers",
+      "sum"
     ],
     "copyright": false,
     "files": {
@@ -1046,7 +1054,6 @@
     "category": "Christmas",
     "created": 1391770248,
     "tags": [
-      "design",
       "food",
       "fun",
       "stick",
@@ -1060,13 +1067,12 @@
       "delicious",
       "sugar",
       "sweet",
-      "motion",
       "white",
       "game",
       "childhood",
+      "kids",
       "color",
-      "wheel",
-      "shape",
+      "christmas",
       "orange",
       "toys",
       "circle",
@@ -1074,7 +1080,6 @@
       "isolated",
       "blowing",
       "spiral",
-      "object",
       "yummy",
       "dessert",
       "bright",
@@ -1082,7 +1087,6 @@
       "candy",
       "rainbow",
       "lollipop",
-      "swirl",
       "lollypop",
       "lolly",
       "colourful",
@@ -1095,7 +1099,9 @@
       "treat",
       "colour",
       "lolli",
-      "l"
+      "lolipop",
+      "confectionery",
+      "suc"
     ],
     "copyright": false,
     "files": {
@@ -1225,7 +1231,15 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
-
+      "coin",
+      "credit",
+      "hand",
+      "debit",
+      "receive",
+      "charity",
+      "reward",
+      "spend",
+      "donate"
     ],
     "copyright": false,
     "files": {
@@ -1689,7 +1703,11 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-
+      "alarm",
+      "watch",
+      "minute",
+      "hour",
+      "countdown"
     ],
     "copyright": false,
     "files": {
@@ -1740,7 +1758,6 @@
       "tulip",
       "daisy",
       "botanical",
-      "wilderness",
       "perennial",
       "flowering",
       "blossom",
@@ -1751,7 +1768,9 @@
       "summertime",
       "bud",
       "symmetrical",
-      "symmetry"
+      "symmetry",
+      "bloem",
+      "wilderness"
     ],
     "copyright": false,
     "files": {
@@ -1953,7 +1972,10 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-
+      "address book",
+      "phone book",
+      "list",
+      "friends"
     ],
     "copyright": false,
     "files": {
@@ -1979,7 +2001,14 @@
     "category": "Transport",
     "created": 1391770248,
     "tags": [
-
+      "roof",
+      "drive",
+      "luxury",
+      "car",
+      "summer",
+      "auto",
+      "cabrio",
+      "miami"
     ],
     "copyright": false,
     "files": {
@@ -2031,7 +2060,10 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-
+      "show",
+      "arrow",
+      "point",
+      "select"
     ],
     "copyright": false,
     "files": {
@@ -2135,7 +2167,11 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-
+      "remove",
+      "spam",
+      "trash can",
+      "deleted content",
+      "throw away"
     ],
     "copyright": false,
     "files": {
@@ -2265,7 +2301,11 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-
+      "file",
+      "word",
+      "text",
+      "blank",
+      "generic file"
     ],
     "copyright": false,
     "files": {
@@ -2343,7 +2383,8 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-
+      "binary data",
+      "downloaded content"
     ],
     "copyright": false,
     "files": {
@@ -2369,7 +2410,11 @@
     "category": "Folders",
     "created": 1391770248,
     "tags": [
-
+      "folder",
+      "store",
+      "download",
+      "torrent",
+      "binary data"
     ],
     "copyright": false,
     "files": {
@@ -3344,9 +3389,6 @@
       "trip",
       "location",
       "point",
-      "amusement",
-      "recreation",
-      "game",
       "pointer",
       "place",
       "contest",
@@ -3356,7 +3398,6 @@
       "task",
       "crown",
       "snake",
-      "jewelry",
       "found",
       "longitude and latitude",
       "earth point",
@@ -3368,8 +3409,7 @@
       "time pass",
       "tournament",
       "perform",
-      "participate",
-      "joke"
+      "participate"
     ],
     "copyright": false,
     "files": {
@@ -3447,7 +3487,10 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-
+      "world",
+      "earth",
+      "map",
+      "international"
     ],
     "copyright": false,
     "files": {
@@ -3629,7 +3672,17 @@
     "category": "Users",
     "created": 1391770248,
     "tags": [
-
+      "conference",
+      "discussion",
+      "discuss",
+      "users",
+      "team",
+      "forum",
+      "people",
+      "community",
+      "company",
+      "brainstorming",
+      "department"
     ],
     "copyright": false,
     "files": {
@@ -3818,7 +3871,11 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-
+      "dashboard",
+      "homepage",
+      "general",
+      "main page",
+      "principal"
     ],
     "copyright": false,
     "files": {
@@ -3896,9 +3953,12 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
+      "thought",
       "light",
+      "think",
       "shine",
-      "lightbulb"
+      "lightbulb",
+      "eureka"
     ],
     "copyright": false,
     "files": {
@@ -3950,7 +4010,12 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-      "video"
+      "information",
+      "help",
+      "support",
+      "about",
+      "more details",
+      "howto"
     ],
     "copyright": false,
     "files": {
@@ -4106,7 +4171,8 @@
     "category": "Christmas",
     "created": 1391770248,
     "tags": [
-
+      "alarm",
+      "notification"
     ],
     "copyright": false,
     "files": {
@@ -4218,7 +4284,10 @@
     "category": "Maps",
     "created": 1396572708,
     "tags": [
-
+      "photoshop",
+      "gis",
+      "layer",
+      "layered"
     ],
     "copyright": false,
     "files": {
@@ -5019,7 +5088,14 @@
     "category": "Music",
     "created": 1392587466,
     "tags": [
-
+      "sound",
+      "voice",
+      "recording",
+      "record",
+      "mic",
+      "siri",
+      "voice mail",
+      "voice note"
     ],
     "copyright": false,
     "files": {
@@ -5071,7 +5147,7 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-
+      "remove"
     ],
     "copyright": false,
     "files": {
@@ -5540,7 +5616,6 @@
     "category": "Photo and Video",
     "created": 1391770248,
     "tags": [
-      "watch",
       "planet",
       "light",
       "drawing",
@@ -5555,7 +5630,6 @@
       "night",
       "moon",
       "dark",
-      "white",
       "icon",
       "nature",
       "science",
@@ -5576,7 +5650,11 @@
       "moon light",
       "moon sight",
       "solar",
-      "polar"
+      "polar",
+      "nightlife",
+      "going out",
+      "awake at night",
+      "insomnia"
     ],
     "copyright": false,
     "files": {
@@ -5811,13 +5889,16 @@
       "modern",
       "simple",
       "template",
+      "landscape",
       "sketch",
       "decoration",
       "pattern",
       "creative",
       "texture",
       "imaginative",
-      "wallpaper"
+      "wallpaper",
+      "panoramic",
+      "360 view"
     ],
     "copyright": false,
     "files": {
@@ -5947,7 +6028,13 @@
     "category": "Christmas",
     "created": 1391770248,
     "tags": [
-
+      "animal",
+      "linux",
+      "unix",
+      "polar",
+      "africa",
+      "south pole",
+      "patagonia"
     ],
     "copyright": false,
     "files": {
@@ -6059,7 +6146,17 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-
+      "graphics",
+      "album",
+      "image",
+      "illustration",
+      "photo",
+      "art",
+      "gallery",
+      "multimedia",
+      "landscape",
+      "painting",
+      "graphic object"
     ],
     "copyright": false,
     "files": {
@@ -6111,7 +6208,11 @@
     "category": "Media Controls",
     "created": 1396644701,
     "tags": [
-
+      "start",
+      "mp3",
+      "media",
+      "go",
+      "button"
     ],
     "copyright": false,
     "files": {
@@ -6137,7 +6238,9 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-
+      "add",
+      "new",
+      "create"
     ],
     "copyright": false,
     "files": {
@@ -6469,7 +6572,14 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-
+      "match",
+      "structure",
+      "interface",
+      "plugin",
+      "piece",
+      "extension",
+      "mosaic",
+      "integration"
     ],
     "copyright": false,
     "files": {
@@ -6495,7 +6605,9 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
-
+      "scan",
+      "ticket",
+      "electronic"
     ],
     "copyright": false,
     "files": {
@@ -6599,7 +6711,12 @@
     "category": "Weather",
     "created": 1391770248,
     "tags": [
-
+      "umbrella",
+      "autumn",
+      "shower",
+      "forecast",
+      "bad weather",
+      "depression"
     ],
     "copyright": false,
     "files": {
@@ -6729,7 +6846,11 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-
+      "arrow",
+      "undo",
+      "loop",
+      "u turn",
+      "revert"
     ],
     "copyright": false,
     "files": {
@@ -7109,7 +7230,11 @@
     "category": "Photo and Video",
     "created": 1391770248,
     "tags": [
-
+      "photo",
+      "slr",
+      "horizontal",
+      "orientation",
+      "vertical"
     ],
     "copyright": false,
     "files": {
@@ -7135,7 +7260,16 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
-
+      "password",
+      "security",
+      "secret",
+      "code",
+      "protected",
+      "deposit box",
+      "encypted",
+      "rsa key",
+      "sensitive data",
+      "1password"
     ],
     "copyright": false,
     "files": {
@@ -7161,7 +7295,10 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
-
+      "discount",
+      "offer",
+      "last minute",
+      "promotion"
     ],
     "copyright": false,
     "files": {
@@ -7369,7 +7506,12 @@
     "category": "Transport",
     "created": 1391770248,
     "tags": [
-
+      "transport",
+      "hipster",
+      "vespa",
+      "yamaha",
+      "honda",
+      "moto"
     ],
     "copyright": false,
     "files": {
@@ -7395,9 +7537,15 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
+      "find",
       "control",
       "favorite",
-      "rating"
+      "magnify",
+      "zoom in",
+      "zoom out",
+      "rating",
+      "scale",
+      "finder"
     ],
     "copyright": false,
     "files": {
@@ -7449,7 +7597,16 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
-
+      "box",
+      "send",
+      "offer",
+      "hand",
+      "move",
+      "properties",
+      "give",
+      "sales",
+      "share",
+      "hold"
     ],
     "copyright": false,
     "files": {
@@ -7501,7 +7658,12 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-      "search"
+      "search",
+      "options",
+      "tune",
+      "gear",
+      "preferences",
+      "machinery"
     ],
     "copyright": false,
     "files": {
@@ -7527,7 +7689,13 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-
+      "edit",
+      "tool",
+      "settings",
+      "options",
+      "tune",
+      "utility",
+      "preferences"
     ],
     "copyright": false,
     "files": {
@@ -7573,6 +7741,7 @@
       "twitter",
       "connection",
       "flat",
+      "youtube",
       "icon",
       "links",
       "server",
@@ -7597,8 +7766,7 @@
       "element",
       "cloud",
       "receive",
-      "diagram",
-      "at"
+      "di"
     ],
     "copyright": false,
     "files": {
@@ -7624,7 +7792,12 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
-
+      "ecommerce",
+      "sell",
+      "store",
+      "building",
+      "online store",
+      "brick and mortar shop"
     ],
     "copyright": false,
     "files": {
@@ -8301,7 +8474,12 @@
     "category": "Photo and Video",
     "created": 1391770248,
     "tags": [
-
+      "album",
+      "picture",
+      "gallery",
+      "portrait",
+      "avatar",
+      "polaroid"
     ],
     "copyright": false,
     "files": {
@@ -10362,7 +10540,15 @@
     "category": "Transport",
     "created": 1391770248,
     "tags": [
-
+      "transport",
+      "cars",
+      "car",
+      "blocked",
+      "auto",
+      "parking",
+      "congestion",
+      "dealership",
+      "chaotic"
     ],
     "copyright": false,
     "files": {
@@ -10388,7 +10574,19 @@
     "category": "Transport",
     "created": 1391770248,
     "tags": [
-
+      "traffic",
+      "signal",
+      "driver",
+      "yellow",
+      "allow",
+      "green",
+      "red",
+      "auto",
+      "manage",
+      "regulate",
+      "driving",
+      "micromanagement",
+      "prohibit"
     ],
     "copyright": false,
     "files": {

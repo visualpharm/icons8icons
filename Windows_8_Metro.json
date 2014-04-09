@@ -2057,6 +2057,7 @@
     "category": "Business",
     "created": 1324991427,
     "tags": [
+      "search",
       "advertising",
       "ad",
       "megaphone"
@@ -2278,6 +2279,7 @@
       "passenger",
       "flight",
       "departure",
+      "auto",
       "aircraft",
       "airline",
       "depart"
@@ -6543,6 +6545,7 @@
     "category": "Text Formatting",
     "created": 1337587889,
     "tags": [
+      "duplicate",
       "text",
       "formatting",
       "color",
@@ -11267,6 +11270,7 @@
     "tags": [
       "good",
       "check",
+      "close",
       "image",
       "no",
       "legal",
@@ -11294,9 +11298,9 @@
       "stand-up",
       "virtuous",
       "false",
-      "tick",
       "correct",
-      "right"
+      "right",
+      "tick"
     ],
     "copyright": false,
     "files": {
@@ -13027,7 +13031,6 @@
       "exit app",
       "window control",
       "windows controls",
-      "window controls",
       "exit application",
       "program",
       "quit"
@@ -13342,7 +13345,8 @@
       "gamble",
       "casino",
       "solitaire",
-      "poker"
+      "poker",
+      "crown"
     ],
     "copyright": false,
     "files": {
@@ -21259,6 +21263,7 @@
     "category": "System",
     "created": 1323168767,
     "tags": [
+      "programming",
       "comment",
       "notice",
       "warning",
@@ -22033,6 +22038,7 @@
       "business",
       "pollution",
       "industry",
+      "oil",
       "power",
       "energy",
       "smoke",
@@ -27732,6 +27738,7 @@
       "aggroup",
       "flock",
       "couple",
+      "contact",
       "weight"
     ],
     "copyright": false,
@@ -39626,7 +39633,6 @@
     "tags": [
       "number",
       "calculator",
-      "education",
       "counting",
       "mathematics",
       "keypad",
@@ -40328,7 +40334,8 @@
     "tags": [
       "folder",
       "password",
-      "category"
+      "category",
+      "country"
     ],
     "copyright": false,
     "files": {
@@ -42936,6 +42943,7 @@
       "asterisk",
       "feature",
       "featured",
+      "tag",
       "rating"
     ],
     "copyright": false,
@@ -55026,6 +55034,7 @@
     "tags": [
       "world",
       "talk",
+      "work",
       "address",
       "maps",
       "location",
@@ -58291,6 +58300,7 @@
       "medicine",
       "health",
       "hospital",
+      "person",
       "stethoscope"
     ],
     "copyright": false,
@@ -60095,7 +60105,9 @@
       "appliance",
       "house",
       "dinner",
+      "table",
       "cooking",
+      "follow",
       "flat",
       "wooden"
     ],
@@ -61501,6 +61513,7 @@
       "watch",
       "minute",
       "hour",
+      "content",
       "measurement",
       "timer",
       "speed",
@@ -67592,7 +67605,8 @@
       "business",
       "work tool",
       "vpn",
-      "virtual private network"
+      "virtual private network",
+      "outsourcing"
     ],
     "copyright": false,
     "files": {
@@ -69456,6 +69470,7 @@
       "stock",
       "clinic",
       "service",
+      "status",
       "chair",
       "legal",
       "holidays",
@@ -71382,6 +71397,7 @@
       "online",
       "youtube",
       "stream",
+      "domain",
       "event"
     ],
     "copyright": false,
