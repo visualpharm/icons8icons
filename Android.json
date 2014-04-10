@@ -162,7 +162,15 @@
     "category": "Transport",
     "created": 1391770248,
     "tags": [
-
+      "airport",
+      "travel",
+      "leave",
+      "flight",
+      "check-in",
+      "gate",
+      "departure",
+      "aircraft",
+      "airline"
     ],
     "copyright": false,
     "files": {
@@ -454,7 +462,13 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
-
+      "cash",
+      "dollars",
+      "payment",
+      "money",
+      "pay",
+      "amount",
+      "promotions"
     ],
     "copyright": false,
     "files": {
@@ -480,7 +494,12 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
-
+      "payment",
+      "credit card",
+      "visa",
+      "master card",
+      "jcb",
+      "checkout"
     ],
     "copyright": false,
     "files": {
@@ -1205,7 +1224,13 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
-
+      "ecommerce",
+      "payment",
+      "hand",
+      "credit card",
+      "checkout",
+      "pay online",
+      "bank card"
     ],
     "copyright": false,
     "files": {
@@ -1823,7 +1848,13 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
-
+      "cash",
+      "payment",
+      "money",
+      "pay",
+      "dollar",
+      "euro",
+      "small change"
     ],
     "copyright": false,
     "files": {
@@ -2875,7 +2906,11 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
-
+      "tools",
+      "setup",
+      "install",
+      "utilities",
+      "distributive"
     ],
     "copyright": false,
     "files": {
@@ -5225,7 +5260,14 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
-
+      "savings",
+      "coin",
+      "pig",
+      "dollar",
+      "euro",
+      "spare",
+      "financial",
+      "savings account"
     ],
     "copyright": false,
     "files": {
@@ -6442,7 +6484,12 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
-
+      "discount",
+      "sale",
+      "dollar",
+      "pricing",
+      "price list",
+      "bid"
     ],
     "copyright": false,
     "files": {
@@ -6546,7 +6593,15 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
-
+      "payment",
+      "money",
+      "coins",
+      "change",
+      "pay",
+      "wallet",
+      "balance",
+      "bills",
+      "current account"
     ],
     "copyright": false,
     "files": {
@@ -7849,7 +7904,10 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
-
+      "order",
+      "items",
+      "checkout",
+      "shpping cart"
     ],
     "copyright": false,
     "files": {
@@ -7875,7 +7933,10 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
-      "grid"
+      "ecommerce",
+      "order",
+      "checkout",
+      "shopping basket"
     ],
     "copyright": false,
     "files": {
@@ -8765,7 +8826,10 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
-
+      "mark",
+      "label",
+      "keyword",
+      "tagging"
     ],
     "copyright": false,
     "files": {
@@ -11107,7 +11171,13 @@
     "category": "Users",
     "created": 1391770248,
     "tags": [
-
+      "person",
+      "contact",
+      "man",
+      "woman",
+      "employee",
+      "avatar",
+      "reader"
     ],
     "copyright": false,
     "files": {
