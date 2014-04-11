@@ -22077,31 +22077,6 @@
     }
   },
   {
-    "id": 2727,
-    "name": "hand",
-    "platform": "iPhone/iOS 7",
-    "category": "Hands",
-    "created": 1390342414,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Hands/hand.svg",
-      "eps": "/EPS/Hands/hand.eps",
-      "png": {
-        "50": "/PNG/Hands/hand/hand-50.png",
-        "25": "/PNG/Hands/hand/hand-25.png",
-        "256": "/PNG/Hands/hand/hand-256.png",
-        "75": "/PNG/Hands/hand/hand-75.png",
-        "128": "/PNG/Hands/hand/hand-128.png",
-        "512": "/PNG/Hands/hand/hand-512.png",
-        "32": "/PNG/Hands/hand/hand-32.png",
-        "100": "/PNG/Hands/hand/hand-100.png"
-      }
-    }
-  },
-  {
     "id": 2688,
     "name": "handle_with_care",
     "platform": "iPhone/iOS 7",
@@ -24715,6 +24690,7 @@
     "tags": [
       "design",
       "vector",
+      "check",
       "control",
       "communication",
       "set",
@@ -24760,7 +24736,7 @@
       "www",
       "circle",
       "isolated",
-      "abstrac"
+      "a"
     ],
     "copyright": false,
     "files": {
@@ -53509,8 +53485,6 @@
     "category": "Very Basic",
     "created": 1371509057,
     "tags": [
-      "access",
-      "keyhole",
       "locker",
       "mechanism",
       "unlock",
@@ -53521,8 +53495,10 @@
       "access granted",
       "unlocking",
       "change",
-      "open",
       "editable",
+      "access",
+      "keyhole",
+      "open",
       "public"
     ],
     "copyright": false,
