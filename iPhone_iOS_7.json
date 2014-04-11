@@ -4947,6 +4947,7 @@
       "position",
       "favorite",
       "pin",
+      "caution",
       "favorites"
     ],
     "copyright": false,
@@ -16370,8 +16371,7 @@
     "category": "Registration",
     "created": 1323168767,
     "tags": [
-      "notice",
-      "warning"
+      "dock"
     ],
     "copyright": false,
     "files": {
@@ -23742,6 +23742,7 @@
       "board",
       "contract",
       "part",
+      "luggage",
       "manuscript"
     ],
     "copyright": false,
@@ -39746,6 +39747,7 @@
     "category": "Food",
     "created": 1331029013,
     "tags": [
+      "phone",
       "games",
       "match",
       "subway",
@@ -46831,14 +46833,15 @@
     "category": "Maps",
     "created": 1353064878,
     "tags": [
-      "view",
       "maps",
       "location",
       "travel",
       "man",
       "map",
       "orientation",
-      "coordinates"
+      "coordinates",
+      "map marker",
+      "view"
     ],
     "copyright": false,
     "files": {
