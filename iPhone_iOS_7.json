@@ -11076,7 +11076,8 @@
       "copy file",
       "copy files",
       "batch",
-      "duplicate"
+      "duplicate",
+      "staging"
     ],
     "copyright": false,
     "files": {
@@ -55849,6 +55850,7 @@
     "created": 1319251300,
     "tags": [
       "cash",
+      "shopping",
       "payment methods",
       "payment",
       "money",

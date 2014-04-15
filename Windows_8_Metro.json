@@ -3384,7 +3384,8 @@
       "approve",
       "decisions",
       "solution",
-      "make a decision"
+      "make a decision",
+      "real estat"
     ],
     "copyright": false,
     "files": {
@@ -25223,10 +25224,10 @@
       "maintenance",
       "automobile",
       "inspection",
-      "car wash",
       "petrol",
       "lights",
-      "car mechanic"
+      "car mechanic",
+      "car wash"
     ],
     "copyright": false,
     "files": {
@@ -40126,7 +40127,8 @@
       "style",
       "subculture",
       "hipster",
-      "muctache"
+      "muctache",
+      "swaggy"
     ],
     "copyright": false,
     "files": {
@@ -65910,7 +65912,8 @@
       "remove",
       "pin",
       "icons",
-      "unpin"
+      "unpin",
+      "bag"
     ],
     "copyright": false,
     "files": {
@@ -68380,6 +68383,7 @@
     "created": 1319251300,
     "tags": [
       "cash",
+      "exit",
       "payment methods",
       "payment",
       "money",
