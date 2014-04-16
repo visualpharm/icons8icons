@@ -24978,9 +24978,9 @@
       "tablets",
       "ipad mini"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Mobile/ipad.svg",
+      "svg": "/SVG/Mobile/ipad_copyrighted.svg",
       "eps": "/EPS/Mobile/ipad.eps",
       "png": {
         "25": "/PNG/Mobile/ipad/ipad-25.png",
@@ -26082,9 +26082,10 @@
     "created": 1328090706,
     "tags": [
       "user",
-      "key",
       "person",
-      "accounts"
+      "accounts",
+      "key",
+      "password"
     ],
     "copyright": false,
     "files": {

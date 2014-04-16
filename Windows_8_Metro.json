@@ -21227,6 +21227,7 @@
       "correct",
       "erase",
       "eraser",
+      "empty",
       "rubber",
       "correction",
       "mistake",
@@ -31365,10 +31366,10 @@
       "ipad",
       "tablets"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Computer_Hardware/iPad.svg",
-      "svg.simplified": "/SVG_for_Font/iPad.svg",
+      "svg": "/SVG/Computer_Hardware/iPad_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/iPad_copyrighted.svg",
       "eps": "/EPS/Computer_Hardware/iPad.eps",
       "png": {
         "256": "/PNG/Computer_Hardware/iPad/iPad-256.png",
@@ -31393,10 +31394,10 @@
       "tablets",
       "ipad mini"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Computer_Hardware/iPad_mini.svg",
-      "svg.simplified": "/SVG_for_Font/iPad_mini.svg",
+      "svg": "/SVG/Computer_Hardware/iPad_mini_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/iPad_mini_copyrighted.svg",
       "eps": "/EPS/Computer_Hardware/iPad_mini.eps",
       "png": {
         "64": "/PNG/Computer_Hardware/iPad_mini/iPad_mini-64.png",
@@ -65626,6 +65627,7 @@
     "created": 1339570713,
     "tags": [
       "box",
+      "checked",
       "empty",
       "open",
       "checkbox",
