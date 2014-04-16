@@ -639,9 +639,9 @@
     "tags": [
 
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Adobe/adobe_bridge.svg",
+      "svg": "/SVG/Adobe/adobe_bridge_copyrighted.svg",
       "eps": "/EPS/Adobe/adobe_bridge.eps",
       "png": {
         "50": "/PNG/Adobe/adobe_bridge/adobe_bridge-50.png",
@@ -664,9 +664,9 @@
     "tags": [
 
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Adobe/adobe_dreamweaver.svg",
+      "svg": "/SVG/Adobe/adobe_dreamweaver_copyrighted.svg",
       "eps": "/EPS/Adobe/adobe_dreamweaver.eps",
       "png": {
         "128": "/PNG/Adobe/adobe_dreamweaver/adobe_dreamweaver-128.png",
@@ -689,9 +689,9 @@
     "tags": [
 
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Adobe/adobe_fireworks.svg",
+      "svg": "/SVG/Adobe/adobe_fireworks_copyrighted.svg",
       "eps": "/EPS/Adobe/adobe_fireworks.eps",
       "png": {
         "25": "/PNG/Adobe/adobe_fireworks/adobe_fireworks-25.png",
@@ -714,9 +714,9 @@
     "tags": [
 
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Adobe/adobe_flash.svg",
+      "svg": "/SVG/Adobe/adobe_flash_copyrighted.svg",
       "eps": "/EPS/Adobe/adobe_flash.eps",
       "png": {
         "75": "/PNG/Adobe/adobe_flash/adobe_flash-75.png",
@@ -739,9 +739,9 @@
     "tags": [
 
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Adobe/adobe_illustrator.svg",
+      "svg": "/SVG/Adobe/adobe_illustrator_copyrighted.svg",
       "eps": "/EPS/Adobe/adobe_illustrator.eps",
       "png": {
         "32": "/PNG/Adobe/adobe_illustrator/adobe_illustrator-32.png",
@@ -764,9 +764,9 @@
     "tags": [
 
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Adobe/adobe_indesign.svg",
+      "svg": "/SVG/Adobe/adobe_indesign_copyrighted.svg",
       "eps": "/EPS/Adobe/adobe_indesign.eps",
       "png": {
         "512": "/PNG/Adobe/adobe_indesign/adobe_indesign-512.png",
@@ -789,9 +789,9 @@
     "tags": [
 
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Adobe/adobe_photoshop.svg",
+      "svg": "/SVG/Adobe/adobe_photoshop_copyrighted.svg",
       "eps": "/EPS/Adobe/adobe_photoshop.eps",
       "png": {
         "100": "/PNG/Adobe/adobe_photoshop/adobe_photoshop-100.png",
@@ -1017,6 +1017,7 @@
     "created": 1390342414,
     "tags": [
       "user",
+      "checkbox",
       "holiday",
       "plai"
     ],
@@ -1470,9 +1471,9 @@
       "debt",
       "security system"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Shopping/amex.svg",
+      "svg": "/SVG/Shopping/amex_copyrighted.svg",
       "eps": "/EPS/Shopping/amex.eps",
       "png": {
         "32": "/PNG/Shopping/amex/amex-32.png",
@@ -1631,9 +1632,9 @@
       "robot",
       "beach toy"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Operating_Systems/android_os.svg",
+      "svg": "/SVG/Operating_Systems/android_os_copyrighted.svg",
       "eps": "/EPS/Operating_Systems/android_os.eps",
       "png": {
         "25": "/PNG/Operating_Systems/android_os/android_os-25.png",
@@ -5176,9 +5177,9 @@
       "digital",
       "woo"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Messaging/box.svg",
+      "svg": "/SVG/Messaging/box_copyrighted.svg",
       "eps": "/EPS/Messaging/box.eps",
       "png": {
         "100": "/PNG/Messaging/box/box-100.png",
@@ -8788,9 +8789,9 @@
       "global",
       "type"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Browsers/chrome.svg",
+      "svg": "/SVG/Browsers/chrome_copyrighted.svg",
       "eps": "/EPS/Browsers/chrome.eps",
       "png": {
         "32": "/PNG/Browsers/chrome/chrome-32.png",
@@ -9424,7 +9425,6 @@
     "category": "Very Basic",
     "created": 1391169055,
     "tags": [
-      "close",
       "window",
       "pin",
       "broken",
@@ -9445,6 +9445,7 @@
       "message box",
       "failed",
       "terminal error",
+      "close",
       "exit",
       "cancel",
       "cross",
@@ -11286,6 +11287,7 @@
     "tags": [
       "home",
       "house",
+      "sale",
       "family",
       "cottage",
       "apartment",
@@ -14933,9 +14935,9 @@
       "social",
       "dribbble"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Social_Networks/dribbble.svg",
+      "svg": "/SVG/Social_Networks/dribbble_copyrighted.svg",
       "eps": "/EPS/Social_Networks/dribbble.eps",
       "png": {
         "75": "/PNG/Social_Networks/dribbble/dribbble-75.png",
@@ -15076,9 +15078,9 @@
       "social",
       "comp"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/dropbox.svg",
+      "svg": "/SVG/Logos/dropbox_copyrighted.svg",
       "eps": "/EPS/Logos/dropbox.eps",
       "png": {
         "256": "/PNG/Logos/dropbox/dropbox-256.png",
@@ -15772,6 +15774,7 @@
     "category": "Industry",
     "created": 1372847868,
     "tags": [
+      "tie",
       "heat",
       "sign",
       "safety",
@@ -16544,9 +16547,9 @@
       "calculations",
       "formulas"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Microsoft/excel.svg",
+      "svg": "/SVG/Microsoft/excel_copyrighted.svg",
       "eps": "/EPS/Microsoft/excel.eps",
       "png": {
         "50": "/PNG/Microsoft/excel/excel-50.png",
@@ -17622,6 +17625,7 @@
       "water",
       "industry",
       "heavy",
+      "wheelchair",
       "ferry",
       "container ship",
       "industrial ship"
@@ -17692,6 +17696,7 @@
     "category": "Photo and Video",
     "created": 1356611222,
     "tags": [
+      "play",
       "film",
       "acting",
       "movie",
@@ -17822,6 +17827,7 @@
       "administrative tools",
       "finding",
       "command line",
+      "me",
       "member",
       "search"
     ],
@@ -17938,9 +17944,9 @@
       "browser",
       "firefox"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Browsers/firefox.svg",
+      "svg": "/SVG/Browsers/firefox_copyrighted.svg",
       "eps": "/EPS/Browsers/firefox.eps",
       "png": {
         "100": "/PNG/Browsers/firefox/firefox-100.png",
@@ -19927,6 +19933,7 @@
       "window",
       "display",
       "tools",
+      "drive",
       "wrench",
       "rating",
       "transportation",
@@ -19963,7 +19970,7 @@
       "car wash",
       "petrol",
       "lights",
-      "car mechanic"
+      "car me"
     ],
     "copyright": false,
     "files": {
@@ -21400,9 +21407,9 @@
       "black",
       "whit"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/google_drive.svg",
+      "svg": "/SVG/Logos/google_drive_copyrighted.svg",
       "eps": "/EPS/Logos/google_drive.eps",
       "png": {
         "25": "/PNG/Logos/google_drive/google_drive-25.png",
@@ -21842,6 +21849,7 @@
     "category": "Users",
     "created": 1371758569,
     "tags": [
+      "conference",
       "world",
       "group",
       "multiple users",
@@ -22160,6 +22168,7 @@
     "category": "Tools",
     "created": 1349348126,
     "tags": [
+      "tool",
       "diy",
       "hammer"
     ],
@@ -23439,6 +23448,7 @@
       "door",
       "start",
       "heart",
+      "events",
       "dashboard",
       "conservation",
       "default",
@@ -24198,9 +24208,9 @@
       "wired",
       "flower"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Very_Basic/icq.svg",
+      "svg": "/SVG/Very_Basic/icq_copyrighted.svg",
       "eps": "/EPS/Very_Basic/icq.eps",
       "png": {
         "128": "/PNG/Very_Basic/icq/icq-128.png",
@@ -24479,6 +24489,7 @@
       "getting help",
       "call",
       "like",
+      "log in",
       "patient"
     ],
     "copyright": false,
@@ -25011,9 +25022,9 @@
       "device",
       "iphone"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Mobile/iphone.svg",
+      "svg": "/SVG/Mobile/iphone_copyrighted.svg",
       "eps": "/EPS/Mobile/iphone.eps",
       "png": {
         "256": "/PNG/Mobile/iphone/iphone-256.png",
@@ -25279,9 +25290,9 @@
       "fruity",
       "fu"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/java_coffee_been_logo.svg",
+      "svg": "/SVG/Logos/java_coffee_been_logo_copyrighted.svg",
       "eps": "/EPS/Logos/java_coffee_been_logo.eps",
       "png": {
         "50": "/PNG/Logos/java_coffee_been_logo/java_coffee_been_logo-50.png",
@@ -25349,9 +25360,9 @@
       "mimicking",
       "expres"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/java_coffee_cup_logo.svg",
+      "svg": "/SVG/Logos/java_coffee_cup_logo_copyrighted.svg",
       "eps": "/EPS/Logos/java_coffee_cup_logo.eps",
       "png": {
         "128": "/PNG/Logos/java_coffee_cup_logo/java_coffee_cup_logo-128.png",
@@ -25427,9 +25438,9 @@
       "goodbye",
       "co"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/java_duke_logo.svg",
+      "svg": "/SVG/Logos/java_duke_logo_copyrighted.svg",
       "eps": "/EPS/Logos/java_duke_logo.eps",
       "png": {
         "75": "/PNG/Logos/java_duke_logo/java_duke_logo-75.png",
@@ -25465,9 +25476,9 @@
       "jcb",
       "jumpsuit"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Shopping/jcb.svg",
+      "svg": "/SVG/Shopping/jcb_copyrighted.svg",
       "eps": "/EPS/Shopping/jcb.eps",
       "png": {
         "128": "/PNG/Shopping/jcb/jcb-128.png",
@@ -28101,7 +28112,8 @@
       "location",
       "night",
       "coffee",
-      "effects"
+      "effects",
+      "downarrow"
     ],
     "copyright": false,
     "files": {
@@ -29282,9 +29294,9 @@
       "moneycard",
       "paying"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Shopping/mastercard.svg",
+      "svg": "/SVG/Shopping/mastercard_copyrighted.svg",
       "eps": "/EPS/Shopping/mastercard.eps",
       "png": {
         "512": "/PNG/Shopping/mastercard/mastercard-512.png",
@@ -29803,7 +29815,6 @@
       "focus",
       "sharp",
       "brain",
-      "intelligence",
       "focused",
       "mental weakness",
       "grey cells",
@@ -29818,7 +29829,8 @@
       "amnesia",
       "deja vu",
       "dumb",
-      "oriented"
+      "oriented",
+      "intelligence"
     ],
     "copyright": false,
     "files": {
@@ -29869,7 +29881,6 @@
       "text",
       "paragraph",
       "page",
-      "rows",
       "movie",
       "image",
       "illustration",
@@ -29891,7 +29902,8 @@
       "interface",
       "button",
       "limit",
-      "multimedia"
+      "multimedia",
+      "radio"
     ],
     "copyright": false,
     "files": {
@@ -29926,7 +29938,8 @@
       "tell",
       "reply",
       "communicate",
-      "comms"
+      "comms",
+      "votes"
     ],
     "copyright": false,
     "files": {
@@ -33173,6 +33186,7 @@
       "spreadsheet",
       "table",
       "order",
+      "back",
       "column",
       "arrange",
       "descending",
@@ -33682,9 +33696,9 @@
       "logos",
       "one note"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Microsoft/one_note.svg",
+      "svg": "/SVG/Microsoft/one_note_copyrighted.svg",
       "eps": "/EPS/Microsoft/one_note.eps",
       "png": {
         "75": "/PNG/Microsoft/one_note/one_note-75.png",
@@ -33774,7 +33788,6 @@
     "created": 1390342414,
     "tags": [
       "file",
-      "folder",
       "category",
       "tree",
       "structure",
@@ -33783,6 +33796,7 @@
       "finder",
       "file system",
       "catalogue",
+      "folder",
       "open down"
     ],
     "copyright": false,
@@ -33893,9 +33907,9 @@
       "global",
       "opera"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Browsers/opera.svg",
+      "svg": "/SVG/Browsers/opera_copyrighted.svg",
       "eps": "/EPS/Browsers/opera.eps",
       "png": {
         "50": "/PNG/Browsers/opera/opera-50.png",
@@ -34074,9 +34088,9 @@
       "logos",
       "outlook"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Microsoft/outlook.svg",
+      "svg": "/SVG/Microsoft/outlook_copyrighted.svg",
       "eps": "/EPS/Microsoft/outlook.eps",
       "png": {
         "100": "/PNG/Microsoft/outlook/outlook-100.png",
@@ -35792,6 +35806,7 @@
       "pushpin",
       "board",
       "white",
+      "approve",
       "needle",
       "fix",
       "nail",
@@ -35937,9 +35952,9 @@
       "pinterest",
       "social media"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Social_Networks/pinterest.svg",
+      "svg": "/SVG/Social_Networks/pinterest_copyrighted.svg",
       "eps": "/EPS/Social_Networks/pinterest.eps",
       "png": {
         "256": "/PNG/Social_Networks/pinterest/pinterest-256.png",
@@ -37943,9 +37958,9 @@
       "publisher",
       "sharepoint"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Microsoft/publisher.svg",
+      "svg": "/SVG/Microsoft/publisher_copyrighted.svg",
       "eps": "/EPS/Microsoft/publisher.eps",
       "png": {
         "25": "/PNG/Microsoft/publisher/publisher-25.png",
@@ -39362,6 +39377,7 @@
     "category": "Very Basic",
     "created": 1391169055,
     "tags": [
+      "arrow",
       "direction",
       "act",
       "undo",
@@ -39369,10 +39385,8 @@
       "curve",
       "transaction",
       "do",
-      "step",
       "re-do",
       "forward",
-      "arrow",
       "go",
       "move",
       "rotate"
@@ -40266,7 +40280,10 @@
     "category": "Military",
     "created": 1346926041,
     "tags": [
-      "military"
+      "military",
+      "weapon",
+      "gun",
+      "rifle"
     ],
     "copyright": false,
     "files": {
@@ -41478,9 +41495,9 @@
       "safri",
       "safari"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Browsers/safari.svg",
+      "svg": "/SVG/Browsers/safari_copyrighted.svg",
       "eps": "/EPS/Browsers/safari.eps",
       "png": {
         "100": "/PNG/Browsers/safari/safari-100.png",
@@ -42921,6 +42938,7 @@
     "category": "Very Basic",
     "created": 1323262362,
     "tags": [
+      "add",
       "tools",
       "save",
       "options",
@@ -42930,6 +42948,7 @@
       "menu",
       "sort",
       "history",
+      "about",
       "preferences"
     ],
     "copyright": false,
@@ -43125,7 +43144,6 @@
       "graphic",
       "sign",
       "Facebook",
-      "twitter",
       "connection",
       "flat",
       "icon",
@@ -43155,7 +43173,8 @@
       "neutron",
       "recovery",
       "blog",
-      "net"
+      "net",
+      "interfa"
     ],
     "copyright": false,
     "files": {
@@ -43253,9 +43272,9 @@
     "tags": [
 
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Microsoft/share_point.svg",
+      "svg": "/SVG/Microsoft/share_point_copyrighted.svg",
       "eps": "/EPS/Microsoft/share_point.eps",
       "png": {
         "256": "/PNG/Microsoft/share_point/share_point-256.png",
@@ -44400,9 +44419,9 @@
       "park",
       "notificat"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/skydrive.svg",
+      "svg": "/SVG/Logos/skydrive_copyrighted.svg",
       "eps": "/EPS/Logos/skydrive.eps",
       "png": {
         "75": "/PNG/Logos/skydrive/skydrive-75.png",
@@ -44436,9 +44455,9 @@
       "contacts methods",
       "wired"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Very_Basic/skype.svg",
+      "svg": "/SVG/Very_Basic/skype_copyrighted.svg",
       "eps": "/EPS/Very_Basic/skype.eps",
       "png": {
         "100": "/PNG/Very_Basic/skype/skype-100.png",
@@ -44614,6 +44633,7 @@
       "delivery",
       "calendar",
       "window",
+      "pin",
       "discount",
       "business",
       "buy",
@@ -48397,9 +48417,9 @@
       "shy",
       "characters"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Operating_Systems/symbian.svg",
+      "svg": "/SVG/Operating_Systems/symbian_copyrighted.svg",
       "eps": "/EPS/Operating_Systems/symbian.eps",
       "png": {
         "75": "/PNG/Operating_Systems/symbian/symbian-75.png",
@@ -49755,7 +49775,7 @@
     "category": "Clothing",
     "created": 1390342414,
     "tags": [
-
+      "room"
     ],
     "copyright": false,
     "files": {
@@ -51547,6 +51567,7 @@
     "tags": [
       "calendar",
       "user",
+      "time",
       "graph",
       "memo",
       "dates",
@@ -52943,7 +52964,9 @@
       "orchestra",
       "musical instrument",
       "orchester",
-      "trumpet"
+      "trumpet",
+      "golf",
+      "gol"
     ],
     "copyright": false,
     "files": {
@@ -55186,9 +55209,9 @@
       "finance",
       "financial figures"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Shopping/visa.svg",
+      "svg": "/SVG/Shopping/visa_copyrighted.svg",
       "eps": "/EPS/Shopping/visa.eps",
       "png": {
         "512": "/PNG/Shopping/visa/visa-512.png",
@@ -57839,9 +57862,9 @@
       "page",
       "formatting"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Microsoft/word.svg",
+      "svg": "/SVG/Microsoft/word_copyrighted.svg",
       "eps": "/EPS/Microsoft/word.eps",
       "png": {
         "128": "/PNG/Microsoft/word/word-128.png",

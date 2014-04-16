@@ -314,9 +314,9 @@
       "debt",
       "security system"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Shopping/amex.svg",
+      "svg": "/SVG/Shopping/amex_copyrighted.svg",
       "eps": "/EPS/Shopping/amex.eps",
       "png": {
         "32": "/PNG/Shopping/amex/amex-32.png",
@@ -971,9 +971,9 @@
       "plastic",
       "sing"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Shopping/box.svg",
+      "svg": "/SVG/Shopping/box_copyrighted.svg",
       "eps": "/EPS/Shopping/box.eps",
       "png": {
         "36": "/PNG/Shopping/box/box-36.png",
@@ -2757,8 +2757,10 @@
       "erase",
       "city",
       "spam",
+      "garbage",
       "turn",
       "area",
+      "rubbish",
       "trash can",
       "deleted content",
       "throw away"
@@ -3619,32 +3621,6 @@
         "64": "/PNG/Media_Controls/fast_forward/fast_forward-64.png",
         "128": "/PNG/Media_Controls/fast_forward/fast_forward-128.png",
         "96": "/PNG/Media_Controls/fast_forward/fast_forward-96.png"
-      }
-    }
-  },
-  {
-    "id": 3922,
-    "name": "female",
-    "platform": "Android",
-    "category": "Objects",
-    "created": 1397249506,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Objects/female.svg",
-      "eps": "/EPS/Objects/female.eps",
-      "png": {
-        "64": "/PNG/Objects/female/female-64.png",
-        "512": "/PNG/Objects/female/female-512.png",
-        "48": "/PNG/Objects/female/female-48.png",
-        "32": "/PNG/Objects/female/female-32.png",
-        "128": "/PNG/Objects/female/female-128.png",
-        "256": "/PNG/Objects/female/female-256.png",
-        "24": "/PNG/Objects/female/female-24.png",
-        "96": "/PNG/Objects/female/female-96.png",
-        "36": "/PNG/Objects/female/female-36.png"
       }
     }
   },
@@ -4802,10 +4778,8 @@
       "discuss",
       "grouping",
       "group",
-      "users",
       "multiple",
       "crowd",
-      "team",
       "teaming",
       "multiple users",
       "gather",
@@ -4815,13 +4789,15 @@
       "flock",
       "couple",
       "forum",
-      "people",
       "contact",
       "community",
       "weight",
       "company",
       "brainstorming",
-      "department"
+      "department",
+      "users",
+      "team",
+      "people"
     ],
     "copyright": false,
     "files": {
@@ -5532,9 +5508,9 @@
       "jcb",
       "jumpsuit"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Shopping/jcb.svg",
+      "svg": "/SVG/Shopping/jcb_copyrighted.svg",
       "eps": "/EPS/Shopping/jcb.eps",
       "png": {
         "36": "/PNG/Shopping/jcb/jcb-36.png",
@@ -6302,6 +6278,7 @@
       "woofer",
       "tones",
       "beat",
+      "car",
       "Dishwashers"
     ],
     "copyright": false,
@@ -6593,9 +6570,9 @@
       "moneycard",
       "paying"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Shopping/mastercard.svg",
+      "svg": "/SVG/Shopping/mastercard_copyrighted.svg",
       "eps": "/EPS/Shopping/mastercard.eps",
       "png": {
         "512": "/PNG/Shopping/mastercard/mastercard-512.png",
@@ -7991,9 +7968,9 @@
       "worldwide",
       "credit card"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Shopping/paypal.svg",
+      "svg": "/SVG/Shopping/paypal_copyrighted.svg",
       "eps": "/EPS/Shopping/paypal.eps",
       "png": {
         "256": "/PNG/Shopping/paypal/paypal-256.png",
@@ -10879,7 +10856,8 @@
       "export",
       "camera",
       "slr",
-      "slr camera"
+      "slr camera",
+      "gallery"
     ],
     "copyright": false,
     "files": {
@@ -13649,7 +13627,8 @@
       "parking",
       "congestion",
       "dealership",
-      "chaotic"
+      "chaotic",
+      "mecanico"
     ],
     "copyright": false,
     "files": {
@@ -14585,9 +14564,9 @@
       "finance",
       "financial figures"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Shopping/visa.svg",
+      "svg": "/SVG/Shopping/visa_copyrighted.svg",
       "eps": "/EPS/Shopping/visa.eps",
       "png": {
         "512": "/PNG/Shopping/visa/visa-512.png",

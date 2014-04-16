@@ -1790,10 +1790,10 @@
     "tags": [
 
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Adobe/adobe_bridge.svg",
-      "svg.simplified": "/SVG_for_Font/adobe_bridge.svg",
+      "svg": "/SVG/Adobe/adobe_bridge_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/adobe_bridge_copyrighted.svg",
       "eps": "/EPS/Adobe/adobe_bridge.eps",
       "png": {
         "512": "/PNG/Adobe/adobe_bridge/adobe_bridge-512.png",
@@ -1815,10 +1815,10 @@
     "tags": [
 
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Adobe/adobe_dreamweaver.svg",
-      "svg.simplified": "/SVG_for_Font/adobe_dreamweaver.svg",
+      "svg": "/SVG/Adobe/adobe_dreamweaver_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/adobe_dreamweaver_copyrighted.svg",
       "eps": "/EPS/Adobe/adobe_dreamweaver.eps",
       "png": {
         "128": "/PNG/Adobe/adobe_dreamweaver/adobe_dreamweaver-128.png",
@@ -1840,10 +1840,10 @@
     "tags": [
 
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Adobe/adobe_fireworks.svg",
-      "svg.simplified": "/SVG_for_Font/adobe_fireworks.svg",
+      "svg": "/SVG/Adobe/adobe_fireworks_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/adobe_fireworks_copyrighted.svg",
       "eps": "/EPS/Adobe/adobe_fireworks.eps",
       "png": {
         "48": "/PNG/Adobe/adobe_fireworks/adobe_fireworks-48.png",
@@ -1865,10 +1865,10 @@
     "tags": [
 
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Adobe/adobe_flash.svg",
-      "svg.simplified": "/SVG_for_Font/adobe_flash.svg",
+      "svg": "/SVG/Adobe/adobe_flash_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/adobe_flash_copyrighted.svg",
       "eps": "/EPS/Adobe/adobe_flash.eps",
       "png": {
         "512": "/PNG/Adobe/adobe_flash/adobe_flash-512.png",
@@ -1890,10 +1890,10 @@
     "tags": [
 
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Adobe/adobe_illustrator.svg",
-      "svg.simplified": "/SVG_for_Font/adobe_illustrator.svg",
+      "svg": "/SVG/Adobe/adobe_illustrator_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/adobe_illustrator_copyrighted.svg",
       "eps": "/EPS/Adobe/adobe_illustrator.eps",
       "png": {
         "32": "/PNG/Adobe/adobe_illustrator/adobe_illustrator-32.png",
@@ -1915,10 +1915,10 @@
     "tags": [
 
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Adobe/adobe_indesign.svg",
-      "svg.simplified": "/SVG_for_Font/adobe_indesign.svg",
+      "svg": "/SVG/Adobe/adobe_indesign_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/adobe_indesign_copyrighted.svg",
       "eps": "/EPS/Adobe/adobe_indesign.eps",
       "png": {
         "512": "/PNG/Adobe/adobe_indesign/adobe_indesign-512.png",
@@ -1941,10 +1941,10 @@
       "photoshop",
       "letters"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Adobe/adobe_photoshop.svg",
-      "svg.simplified": "/SVG_for_Font/adobe_photoshop.svg",
+      "svg": "/SVG/Adobe/adobe_photoshop_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/adobe_photoshop_copyrighted.svg",
       "eps": "/EPS/Adobe/adobe_photoshop.eps",
       "png": {
         "26": "/PNG/Adobe/adobe_photoshop/adobe_photoshop-26.png",
@@ -2770,10 +2770,10 @@
       "debt",
       "security system"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Payment_Methods/amex.svg",
-      "svg.simplified": "/SVG_for_Font/amex.svg",
+      "svg": "/SVG/Payment_Methods/amex_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/amex_copyrighted.svg",
       "eps": "/EPS/Payment_Methods/amex.eps",
       "png": {
         "32": "/PNG/Payment_Methods/amex/amex-32.png",
@@ -2948,10 +2948,10 @@
       "smart phone",
       "device"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Mobile/android.svg",
-      "svg.simplified": "/SVG_for_Font/android.svg",
+      "svg": "/SVG/Mobile/android_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/android_copyrighted.svg",
       "eps": "/EPS/Mobile/android.eps",
       "png": {
         "26": "/PNG/Mobile/android/android-26.png",
@@ -3008,10 +3008,10 @@
       "humanoid",
       "logotype"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Operating_Systems/android_os.svg",
-      "svg.simplified": "/SVG_for_Font/android_os.svg",
+      "svg": "/SVG/Operating_Systems/android_os_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/android_os_copyrighted.svg",
       "eps": "/EPS/Operating_Systems/android_os.eps",
       "png": {
         "48": "/PNG/Operating_Systems/android_os/android_os-48.png",
@@ -3039,10 +3039,10 @@
       "tablets",
       "win 8 tablet"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Computer_Hardware/android_tablet.svg",
-      "svg.simplified": "/SVG_for_Font/android_tablet.svg",
+      "svg": "/SVG/Computer_Hardware/android_tablet_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/android_tablet_copyrighted.svg",
       "eps": "/EPS/Computer_Hardware/android_tablet.eps",
       "png": {
         "128": "/PNG/Computer_Hardware/android_tablet/android_tablet-128.png",
@@ -4990,6 +4990,7 @@
       "city",
       "image",
       "icon",
+      "event",
       "clip art",
       "dollar",
       "transaction",
@@ -6526,10 +6527,10 @@
       "beos",
       "trademark"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Operating_Systems/be_os.svg",
-      "svg.simplified": "/SVG_for_Font/be_os.svg",
+      "svg": "/SVG/Operating_Systems/be_os_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/be_os_copyrighted.svg",
       "eps": "/EPS/Operating_Systems/be_os.eps",
       "png": {
         "64": "/PNG/Operating_Systems/be_os/be_os-64.png",
@@ -7154,10 +7155,10 @@
       "smart phone",
       "device"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Mobile/blackberry.svg",
-      "svg.simplified": "/SVG_for_Font/blackberry.svg",
+      "svg": "/SVG/Mobile/blackberry_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/blackberry_copyrighted.svg",
       "eps": "/EPS/Mobile/blackberry.eps",
       "png": {
         "256": "/PNG/Mobile/blackberry/blackberry-256.png",
@@ -7459,7 +7460,8 @@
     "tags": [
       "library",
       "books",
-      "printed matter"
+      "printed matter",
+      "sales"
     ],
     "copyright": false,
     "files": {
@@ -7814,10 +7816,10 @@
       "digital",
       "woo"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Ecommerce/box.svg",
-      "svg.simplified": "/SVG_for_Font/box.svg",
+      "svg": "/SVG/Ecommerce/box_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/box_copyrighted.svg",
       "eps": "/EPS/Ecommerce/box.eps",
       "png": {
         "128": "/PNG/Ecommerce/box/box-128.png",
@@ -8628,7 +8630,8 @@
       "professional",
       "man",
       "businessman",
-      "career"
+      "career",
+      "business man"
     ],
     "copyright": false,
     "files": {
@@ -8690,7 +8693,8 @@
       "management icons",
       "industry",
       "name",
-      "contact"
+      "contact",
+      "Lending"
     ],
     "copyright": false,
     "files": {
@@ -9007,6 +9011,7 @@
     "category": "Very Basic",
     "created": 1384775515,
     "tags": [
+      "box",
       "calendar",
       "date",
       "month",
@@ -9019,6 +9024,7 @@
       "past",
       "organization",
       "block",
+      "open",
       "schedule",
       "holiday",
       "week",
@@ -12187,10 +12193,10 @@
       "global",
       "type"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Browsers/chrome.svg",
-      "svg.simplified": "/SVG_for_Font/chrome.svg",
+      "svg": "/SVG/Browsers/chrome_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/chrome_copyrighted.svg",
       "eps": "/EPS/Browsers/chrome.eps",
       "png": {
         "32": "/PNG/Browsers/chrome/chrome-32.png",
@@ -12902,6 +12908,7 @@
       "time efficiency",
       "fast",
       "ready",
+      "truck",
       "complete"
     ],
     "copyright": false,
@@ -13111,10 +13118,10 @@
       "clouds",
       "logo"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/cloudflare.svg",
-      "svg.simplified": "/SVG_for_Font/cloudflare.svg",
+      "svg": "/SVG/Logos/cloudflare_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/cloudflare_copyrighted.svg",
       "eps": "/EPS/Logos/cloudflare.eps",
       "png": {
         "256": "/PNG/Logos/cloudflare/cloudflare-256.png",
@@ -13531,10 +13538,10 @@
       "coderwall",
       "so so"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/coderwall.svg",
-      "svg.simplified": "/SVG_for_Font/coderwall.svg",
+      "svg": "/SVG/Logos/coderwall_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/coderwall_copyrighted.svg",
       "eps": "/EPS/Logos/coderwall.eps",
       "png": {
         "128": "/PNG/Logos/coderwall/coderwall-128.png",
@@ -14348,6 +14355,7 @@
       "mail",
       "group",
       "team",
+      "star",
       "business",
       "human",
       "people",
@@ -18562,10 +18570,10 @@
       "operating syste",
       "dos"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Operating_Systems/dos.svg",
-      "svg.simplified": "/SVG_for_Font/dos.svg",
+      "svg": "/SVG/Operating_Systems/dos_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/dos_copyrighted.svg",
       "eps": "/EPS/Operating_Systems/dos.eps",
       "png": {
         "32": "/PNG/Operating_Systems/dos/dos-32.png",
@@ -18687,6 +18695,7 @@
     "category": "Very Basic",
     "created": 1323361504,
     "tags": [
+      "minus",
       "upload"
     ],
     "copyright": false,
@@ -19033,7 +19042,6 @@
       "container",
       "isolated",
       "model",
-      "classic",
       "cartoon",
       "lunch",
       "evening",
@@ -19053,7 +19061,8 @@
       "mark out",
       "grey scale",
       "tilt",
-      "do no"
+      "do not open",
+      "d"
     ],
     "copyright": false,
     "files": {
@@ -19233,10 +19242,10 @@
       "social",
       "dribbble"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/dribbble.svg",
-      "svg.simplified": "/SVG_for_Font/dribbble.svg",
+      "svg": "/SVG/Logos/dribbble_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/dribbble_copyrighted.svg",
       "eps": "/EPS/Logos/dribbble.eps",
       "png": {
         "512": "/PNG/Logos/dribbble/dribbble-512.png",
@@ -19372,10 +19381,10 @@
       "social",
       "comp"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/dropbox.svg",
-      "svg.simplified": "/SVG_for_Font/dropbox.svg",
+      "svg": "/SVG/Logos/dropbox_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/dropbox_copyrighted.svg",
       "eps": "/EPS/Logos/dropbox.eps",
       "png": {
         "64": "/PNG/Logos/dropbox/dropbox-64.png",
@@ -20062,6 +20071,7 @@
       "vector",
       "office",
       "supplies",
+      "add",
       "delete",
       "pencil",
       "pen",
@@ -20104,8 +20114,7 @@
       "plan",
       "literature",
       "management",
-      "article",
-      "stud"
+      "article"
     ],
     "copyright": false,
     "files": {
@@ -20825,7 +20834,8 @@
       "wastepaper",
       "paper bin",
       "empty",
-      "empty bin"
+      "empty bin",
+      "http icons8 com icons 52 full-trash"
     ],
     "copyright": false,
     "files": {
@@ -21279,7 +21289,9 @@
     "created": 1323168767,
     "tags": [
       "programming",
+      "up",
       "comment",
+      "database",
       "notice",
       "warning",
       "error"
@@ -22976,10 +22988,10 @@
       "browser",
       "firefox"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Browsers/firefox.svg",
-      "svg.simplified": "/SVG_for_Font/firefox.svg",
+      "svg": "/SVG/Browsers/firefox_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/firefox_copyrighted.svg",
       "eps": "/EPS/Browsers/firefox.eps",
       "png": {
         "256": "/PNG/Browsers/firefox/firefox-256.png",
@@ -24131,6 +24143,7 @@
       "fun",
       "play",
       "bounce",
+      "shop",
       "sports"
     ],
     "copyright": false,
@@ -24290,10 +24303,10 @@
       "tree",
       "forest"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/forrst.svg",
-      "svg.simplified": "/SVG_for_Font/forrst.svg",
+      "svg": "/SVG/Logos/forrst_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/forrst_copyrighted.svg",
       "eps": "/EPS/Logos/forrst.eps",
       "png": {
         "256": "/PNG/Logos/forrst/forrst-256.png",
@@ -26438,10 +26451,10 @@
       "logo",
       "software development"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/github.svg",
-      "svg.simplified": "/SVG_for_Font/github.svg",
+      "svg": "/SVG/Logos/github_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/github_copyrighted.svg",
       "eps": "/EPS/Logos/github.eps",
       "png": {
         "64": "/PNG/Logos/github/github-64.png",
@@ -26745,10 +26758,10 @@
       "bell",
       "google alerts"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_alerts.svg",
-      "svg.simplified": "/SVG_for_Font/google_alerts.svg",
+      "svg": "/SVG/Google_Services/google_alerts_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/google_alerts_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_alerts.eps",
       "png": {
         "32": "/PNG/Google_Services/google_alerts/google_alerts-32.png",
@@ -26774,10 +26787,10 @@
       "google blog search",
       "google blog"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_blog_search.svg",
-      "svg.simplified": "/SVG_for_Font/google_blog_search.svg",
+      "svg": "/SVG/Google_Services/google_blog_search_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/google_blog_search_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_blog_search.eps",
       "png": {
         "26": "/PNG/Google_Services/google_blog_search/google_blog_search-26.png",
@@ -26806,10 +26819,10 @@
       "scholar",
       "google code"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_code.svg",
-      "svg.simplified": "/SVG_for_Font/google_code.svg",
+      "svg": "/SVG/Google_Services/google_code_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/google_code_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_code.eps",
       "png": {
         "26": "/PNG/Google_Services/google_code/google_code-26.png",
@@ -26879,10 +26892,10 @@
       "server",
       "art"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_drive.svg",
-      "svg.simplified": "/SVG_for_Font/google_drive.svg",
+      "svg": "/SVG/Google_Services/google_drive_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/google_drive_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_drive.eps",
       "png": {
         "48": "/PNG/Google_Services/google_drive/google_drive-48.png",
@@ -26909,10 +26922,10 @@
       "translate",
       "google earth"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_earth.svg",
-      "svg.simplified": "/SVG_for_Font/google_earth.svg",
+      "svg": "/SVG/Google_Services/google_earth_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/google_earth_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_earth.eps",
       "png": {
         "32": "/PNG/Google_Services/google_earth/google_earth-32.png",
@@ -26953,10 +26966,10 @@
       "discussion groups",
       "mailing list"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_groups.svg",
-      "svg.simplified": "/SVG_for_Font/google_groups.svg",
+      "svg": "/SVG/Google_Services/google_groups_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/google_groups_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_groups.eps",
       "png": {
         "128": "/PNG/Google_Services/google_groups/google_groups-128.png",
@@ -26999,10 +27012,10 @@
       "camera",
       "photography"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_images.svg",
-      "svg.simplified": "/SVG_for_Font/google_images.svg",
+      "svg": "/SVG/Google_Services/google_images_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/google_images_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_images.eps",
       "png": {
         "26": "/PNG/Google_Services/google_images/google_images-26.png",
@@ -27043,10 +27056,10 @@
       "mobile",
       "mobile phone"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_mobile.svg",
-      "svg.simplified": "/SVG_for_Font/google_mobile.svg",
+      "svg": "/SVG/Google_Services/google_mobile_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/google_mobile_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_mobile.eps",
       "png": {
         "64": "/PNG/Google_Services/google_mobile/google_mobile-64.png",
@@ -27072,10 +27085,10 @@
       "google news",
       "news feed"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_news.svg",
-      "svg.simplified": "/SVG_for_Font/google_news.svg",
+      "svg": "/SVG/Google_Services/google_news_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/google_news_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_news.eps",
       "png": {
         "32": "/PNG/Google_Services/google_news/google_news-32.png",
@@ -27130,10 +27143,10 @@
       "google scholar",
       "scholarly papers"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_scholar.svg",
-      "svg.simplified": "/SVG_for_Font/google_scholar.svg",
+      "svg": "/SVG/Google_Services/google_scholar_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/google_scholar_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_scholar.eps",
       "png": {
         "32": "/PNG/Google_Services/google_scholar/google_scholar-32.png",
@@ -27156,10 +27169,10 @@
       "google",
       "google sketchup"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_sketchup.svg",
-      "svg.simplified": "/SVG_for_Font/google_sketchup.svg",
+      "svg": "/SVG/Google_Services/google_sketchup_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/google_sketchup_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_sketchup.eps",
       "png": {
         "128": "/PNG/Google_Services/google_sketchup/google_sketchup-128.png",
@@ -27187,10 +27200,10 @@
       "dictionary",
       "translating"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_translate.svg",
-      "svg.simplified": "/SVG_for_Font/google_translate.svg",
+      "svg": "/SVG/Google_Services/google_translate_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/google_translate_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_translate.eps",
       "png": {
         "32": "/PNG/Google_Services/google_translate/google_translate-32.png",
@@ -27225,10 +27238,10 @@
       "google scholar",
       "scholarly papers"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_web_search.svg",
-      "svg.simplified": "/SVG_for_Font/google_web_search.svg",
+      "svg": "/SVG/Google_Services/google_web_search_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/google_web_search_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_web_search.eps",
       "png": {
         "64": "/PNG/Google_Services/google_web_search/google_web_search-64.png",
@@ -28384,6 +28397,7 @@
       "working",
       "people",
       "businessman",
+      "eye",
       "success",
       "teamwork",
       "handshake",
@@ -29666,6 +29680,7 @@
       "letter",
       "email",
       "friend",
+      "kid",
       "to do",
       "tabbed"
     ],
@@ -30504,10 +30519,10 @@
       "wired",
       "flower"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Messaging/icq.svg",
-      "svg.simplified": "/SVG_for_Font/icq.svg",
+      "svg": "/SVG/Messaging/icq_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/icq_copyrighted.svg",
       "eps": "/EPS/Messaging/icq.eps",
       "png": {
         "128": "/PNG/Contact_Methods/icq/icq-128.png",
@@ -30610,10 +30625,10 @@
       "ie",
       "Browser network"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Browsers/ie.svg",
-      "svg.simplified": "/SVG_for_Font/ie.svg",
+      "svg": "/SVG/Browsers/ie_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/ie_copyrighted.svg",
       "eps": "/EPS/Browsers/ie.eps",
       "png": {
         "128": "/PNG/Browsers/ie/ie-128.png",
@@ -31038,10 +31053,10 @@
       "instapaper",
       "tags"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/instapaper.svg",
-      "svg.simplified": "/SVG_for_Font/instapaper.svg",
+      "svg": "/SVG/Logos/instapaper_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/instapaper_copyrighted.svg",
       "eps": "/EPS/Logos/instapaper.eps",
       "png": {
         "32": "/PNG/Logos/instapaper/instapaper-32.png",
@@ -31070,7 +31085,8 @@
       "computer part",
       "integrated circuit",
       "led diode",
-      "vehicle part"
+      "vehicle part",
+      "camp"
     ],
     "copyright": false,
     "files": {
@@ -31411,10 +31427,10 @@
       "apple",
       "phone"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Mobile/iphone.svg",
-      "svg.simplified": "/SVG_for_Font/iphone.svg",
+      "svg": "/SVG/Mobile/iphone_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/iphone_copyrighted.svg",
       "eps": "/EPS/Mobile/iphone.eps",
       "png": {
         "256": "/PNG/Mobile/iphone/iphone-256.png",
@@ -31817,10 +31833,10 @@
       "fruity",
       "fu"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/java_coffee_been_logo.svg",
-      "svg.simplified": "/SVG_for_Font/java_coffee_been_logo.svg",
+      "svg": "/SVG/Logos/java_coffee_been_logo_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/java_coffee_been_logo_copyrighted.svg",
       "eps": "/EPS/Logos/java_coffee_been_logo.eps",
       "png": {
         "26": "/PNG/Logos/java_coffee_been_logo/java_coffee_been_logo-26.png",
@@ -31887,10 +31903,10 @@
       "mimicking",
       "expres"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/java_coffee_cup_logo.svg",
-      "svg.simplified": "/SVG_for_Font/java_coffee_cup_logo.svg",
+      "svg": "/SVG/Logos/java_coffee_cup_logo_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/java_coffee_cup_logo_copyrighted.svg",
       "eps": "/EPS/Logos/java_coffee_cup_logo.eps",
       "png": {
         "26": "/PNG/Logos/java_coffee_cup_logo/java_coffee_cup_logo-26.png",
@@ -31965,10 +31981,10 @@
       "goodbye",
       "co"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/java_duke_logo.svg",
-      "svg.simplified": "/SVG_for_Font/java_duke_logo.svg",
+      "svg": "/SVG/Logos/java_duke_logo_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/java_duke_logo_copyrighted.svg",
       "eps": "/EPS/Logos/java_duke_logo.eps",
       "png": {
         "64": "/PNG/Logos/java_duke_logo/java_duke_logo-64.png",
@@ -32003,10 +32019,10 @@
       "jcb",
       "jumpsuit"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Payment_Methods/jcb.svg",
-      "svg.simplified": "/SVG_for_Font/jcb.svg",
+      "svg": "/SVG/Payment_Methods/jcb_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/jcb_copyrighted.svg",
       "eps": "/EPS/Payment_Methods/jcb.eps",
       "png": {
         "26": "/PNG/Payment_Methods/jcb/jcb-26.png",
@@ -32263,7 +32279,9 @@
       "game",
       "joystick",
       "move",
-      "operations"
+      "operations",
+      "controller",
+      "gaming"
     ],
     "copyright": false,
     "files": {
@@ -34319,10 +34337,10 @@
       "minifigures",
       "easy"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/lego.svg",
-      "svg.simplified": "/SVG_for_Font/lego.svg",
+      "svg": "/SVG/Logos/lego_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/lego_copyrighted.svg",
       "eps": "/EPS/Logos/lego.eps",
       "png": {
         "256": "/PNG/Logos/lego/lego-256.png",
@@ -35923,10 +35941,10 @@
       "platforms",
       "operating sysytem"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Operating_Systems/mac_os.svg",
-      "svg.simplified": "/SVG_for_Font/mac_os.svg",
+      "svg": "/SVG/Operating_Systems/mac_os_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/mac_os_copyrighted.svg",
       "eps": "/EPS/Operating_Systems/mac_os.eps",
       "png": {
         "32": "/PNG/Operating_Systems/mac_os/mac_os-32.png",
@@ -36708,10 +36726,10 @@
       "moneycard",
       "paying"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Payment_Methods/mastercard.svg",
-      "svg.simplified": "/SVG_for_Font/mastercard.svg",
+      "svg": "/SVG/Payment_Methods/mastercard_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/mastercard_copyrighted.svg",
       "eps": "/EPS/Payment_Methods/mastercard.eps",
       "png": {
         "512": "/PNG/Payment_Methods/mastercard/mastercard-512.png",
@@ -38927,6 +38945,7 @@
     "category": "Sports",
     "created": 1375785144,
     "tags": [
+      "delete",
       "sport",
       "regular biking",
       "mountain biking",
@@ -40606,10 +40625,10 @@
       "browser",
       "netscape"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Browsers/netscape.svg",
-      "svg.simplified": "/SVG_for_Font/netscape.svg",
+      "svg": "/SVG/Browsers/netscape_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/netscape_copyrighted.svg",
       "eps": "/EPS/Browsers/netscape.eps",
       "png": {
         "256": "/PNG/Browsers/netscape/netscape-256.png",
@@ -42756,10 +42775,10 @@
       "global",
       "opera"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Browsers/opera.svg",
-      "svg.simplified": "/SVG_for_Font/opera.svg",
+      "svg": "/SVG/Browsers/opera_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/opera_copyrighted.svg",
       "eps": "/EPS/Browsers/opera.eps",
       "png": {
         "26": "/PNG/Browsers/opera/opera-26.png",
@@ -42884,10 +42903,10 @@
       "operating",
       "os/2"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Operating_Systems/os2.svg",
-      "svg.simplified": "/SVG_for_Font/os2.svg",
+      "svg": "/SVG/Operating_Systems/os2_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/os2_copyrighted.svg",
       "eps": "/EPS/Operating_Systems/os2.eps",
       "png": {
         "512": "/PNG/Operating_Systems/os2/os2-512.png",
@@ -44214,10 +44233,10 @@
       "worldwide",
       "credit card"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Ecommerce/paypal.svg",
-      "svg.simplified": "/SVG_for_Font/paypal.svg",
+      "svg": "/SVG/Ecommerce/paypal_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/paypal_copyrighted.svg",
       "eps": "/EPS/Ecommerce/paypal.eps",
       "png": {
         "256": "/PNG/Ecommerce/paypal/paypal-256.png",
@@ -45323,10 +45342,10 @@
     "tags": [
 
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/pinterest.svg",
-      "svg.simplified": "/SVG_for_Font/pinterest.svg",
+      "svg": "/SVG/Logos/pinterest_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/pinterest_copyrighted.svg",
       "eps": "/EPS/Logos/pinterest.eps",
       "png": {
         "256": "/PNG/Logos/pinterest/pinterest-256.png",
@@ -46105,6 +46124,7 @@
       "hospital",
       "math",
       "couple",
+      "minus",
       "calculus",
       "equation",
       "equations",
@@ -46851,10 +46871,10 @@
       "annual report",
       "microsoft power point"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/File_Types/powerpoint.svg",
-      "svg.simplified": "/SVG_for_Font/powerpoint.svg",
+      "svg": "/SVG/File_Types/powerpoint_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/powerpoint_copyrighted.svg",
       "eps": "/EPS/File_Types/powerpoint.eps",
       "png": {
         "32": "/PNG/File_Types/powerpoint/powerpoint-32.png",
@@ -46884,10 +46904,10 @@
       "pptx",
       "presenting"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Microsoft/powerpoint_logo.svg",
-      "svg.simplified": "/SVG_for_Font/powerpoint_logo.svg",
+      "svg": "/SVG/Microsoft/powerpoint_logo_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/powerpoint_logo_copyrighted.svg",
       "eps": "/EPS/Microsoft/powerpoint_logo.eps",
       "png": {
         "26": "/PNG/Microsoft/powerpoint_logo/powerpoint_logo-26.png",
@@ -47529,10 +47549,10 @@
       "playstation",
       "xbox"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Video_Game_Consoles/ps1.svg",
-      "svg.simplified": "/SVG_for_Font/ps1.svg",
+      "svg": "/SVG/Video_Game_Consoles/ps1_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/ps1_copyrighted.svg",
       "eps": "/EPS/Video_Game_Consoles/ps1.eps",
       "png": {
         "64": "/PNG/Video_Game_Consoles/ps1/ps1-64.png",
@@ -47658,7 +47678,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg.simplified": "/SVG_for_Font/publisher.svg",
+      "svg.simplified": "/SVG_for_Font/publisher_copyrighted.svg",
       "eps": "/EPS/Microsoft/publisher.eps",
       "png": {
         "64": "/PNG/Microsoft/publisher/publisher-64.png",
@@ -49481,10 +49501,10 @@
       "mascot",
       "social bookmarking"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/reddit.svg",
-      "svg.simplified": "/SVG_for_Font/reddit.svg",
+      "svg": "/SVG/Logos/reddit_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/reddit_copyrighted.svg",
       "eps": "/EPS/Logos/reddit.eps",
       "png": {
         "64": "/PNG/Logos/reddit/reddit-64.png",
@@ -49679,10 +49699,10 @@
     "tags": [
 
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Microsoft/registry_editor.svg",
-      "svg.simplified": "/SVG_for_Font/registry_editor.svg",
+      "svg": "/SVG/Microsoft/registry_editor_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/registry_editor_copyrighted.svg",
       "eps": "/EPS/Microsoft/registry_editor.eps",
       "png": {
         "26": "/PNG/Microsoft/registry_editor/registry_editor-26.png",
@@ -52127,10 +52147,10 @@
       "browser",
       "safari"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Browsers/safari.svg",
-      "svg.simplified": "/SVG_for_Font/safari.svg",
+      "svg": "/SVG/Browsers/safari_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/safari_copyrighted.svg",
       "eps": "/EPS/Browsers/safari.eps",
       "png": {
         "64": "/PNG/Browsers/safari/safari-64.png",
@@ -54661,13 +54681,13 @@
     "category": "Ecommerce",
     "created": 1394153483,
     "tags": [
-      "delivery",
       "pay",
       "cashier",
       "product",
       "fill",
       "checkout",
-      "arow"
+      "arow",
+      "delivery"
     ],
     "copyright": false,
     "files": {
@@ -55615,9 +55635,9 @@
       "park",
       "notificat"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/skydrive.svg",
+      "svg": "/SVG/Logos/skydrive_copyrighted.svg",
       "eps": "/EPS/Logos/skydrive.eps",
       "png": {
         "64": "/PNG/Logos/skydrive/skydrive-64.png",
@@ -55650,10 +55670,10 @@
       "contacts methods",
       "wired"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Messaging/skype.svg",
-      "svg.simplified": "/SVG_for_Font/skype.svg",
+      "svg": "/SVG/Messaging/skype_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/skype_copyrighted.svg",
       "eps": "/EPS/Messaging/skype.eps",
       "png": {
         "512": "/PNG/Contact_Methods/skype/skype-512.png",
@@ -56916,10 +56936,10 @@
       "share",
       "website"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/soundcloud.svg",
-      "svg.simplified": "/SVG_for_Font/soundcloud.svg",
+      "svg": "/SVG/Logos/soundcloud_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/soundcloud_copyrighted.svg",
       "eps": "/EPS/Logos/soundcloud.eps",
       "png": {
         "48": "/PNG/Logos/soundcloud/soundcloud-48.png",
@@ -57804,10 +57824,10 @@
     "tags": [
 
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/stackoverflow.svg",
-      "svg.simplified": "/SVG_for_Font/stackoverflow.svg",
+      "svg": "/SVG/Logos/stackoverflow_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/stackoverflow_copyrighted.svg",
       "eps": "/EPS/Logos/stackoverflow.eps",
       "png": {
         "256": "/PNG/Logos/stackoverflow/stackoverflow-256.png",
@@ -58340,10 +58360,10 @@
       "steam",
       "logo"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/steam.svg",
-      "svg.simplified": "/SVG_for_Font/steam.svg",
+      "svg": "/SVG/Logos/steam_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/steam_copyrighted.svg",
       "eps": "/EPS/Logos/steam.eps",
       "png": {
         "64": "/PNG/Logos/steam/steam-64.png",
@@ -58638,8 +58658,8 @@
       "travel",
       "man",
       "map",
-      "orientation",
-      "coordinates"
+      "coordinates",
+      "orientation"
     ],
     "copyright": false,
     "files": {
@@ -58937,10 +58957,10 @@
       "website",
       "stumbleupon"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/stumbleupon.svg",
-      "svg.simplified": "/SVG_for_Font/stumbleupon.svg",
+      "svg": "/SVG/Logos/stumbleupon_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/stumbleupon_copyrighted.svg",
       "eps": "/EPS/Logos/stumbleupon.eps",
       "png": {
         "48": "/PNG/Logos/stumbleupon/stumbleupon-48.png",
@@ -60063,10 +60083,10 @@
       "shy",
       "characters"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Operating_Systems/symbian.svg",
-      "svg.simplified": "/SVG_for_Font/symbian.svg",
+      "svg": "/SVG/Operating_Systems/symbian_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/symbian_copyrighted.svg",
       "eps": "/EPS/Operating_Systems/symbian.eps",
       "png": {
         "256": "/PNG/Operating_Systems/symbian/symbian-256.png",
@@ -65217,6 +65237,7 @@
     "category": "Social Networks",
     "created": 1324900438,
     "tags": [
+      "google",
       "play",
       "headset",
       "social network",
@@ -65913,7 +65934,8 @@
       "pin",
       "icons",
       "unpin",
-      "bag"
+      "bag",
+      "insert"
     ],
     "copyright": false,
     "files": {
@@ -66456,10 +66478,10 @@
       "utorrent",
       "streaming"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/utorrent.svg",
-      "svg.simplified": "/SVG_for_Font/utorrent.svg",
+      "svg": "/SVG/Logos/utorrent_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/utorrent_copyrighted.svg",
       "eps": "/EPS/Logos/utorrent.eps",
       "png": {
         "512": "/PNG/Logos/utorrent/utorrent-512.png",
@@ -67535,10 +67557,10 @@
       "finance",
       "financial figures"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Payment_Methods/visa.svg",
-      "svg.simplified": "/SVG_for_Font/visa.svg",
+      "svg": "/SVG/Payment_Methods/visa_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/visa_copyrighted.svg",
       "eps": "/EPS/Payment_Methods/visa.eps",
       "png": {
         "512": "/PNG/Payment_Methods/visa/visa-512.png",
@@ -69881,7 +69903,8 @@
       "movies",
       "pixels",
       "shows",
-      "high definition"
+      "high definition",
+      "outdoor"
     ],
     "copyright": false,
     "files": {
@@ -69957,10 +69980,10 @@
       "tv",
       "wii"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Video_Game_Consoles/wii.svg",
-      "svg.simplified": "/SVG_for_Font/wii.svg",
+      "svg": "/SVG/Video_Game_Consoles/wii_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/wii_copyrighted.svg",
       "eps": "/EPS/Video_Game_Consoles/wii.eps",
       "png": {
         "48": "/PNG/Video_Game_Consoles/wii/wii-48.png",
@@ -70053,10 +70076,10 @@
       "upgrade",
       "pocket pc"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Operating_Systems/windows.svg",
-      "svg.simplified": "/SVG_for_Font/windows.svg",
+      "svg": "/SVG/Operating_Systems/windows_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/windows_copyrighted.svg",
       "eps": "/EPS/Operating_Systems/windows.eps",
       "png": {
         "128": "/PNG/Mobile/windows/windows-128.png",
@@ -70088,10 +70111,10 @@
       "windows 8",
       "bill gates"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Operating_Systems/windows8.svg",
-      "svg.simplified": "/SVG_for_Font/windows8.svg",
+      "svg": "/SVG/Operating_Systems/windows8_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/windows8_copyrighted.svg",
       "eps": "/EPS/Operating_Systems/windows8.eps",
       "png": {
         "512": "/PNG/Operating_Systems/windows8/windows8-512.png",
@@ -70119,10 +70142,10 @@
       "tablets",
       "win 8 tablet"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Computer_Hardware/windows8_tablet.svg",
-      "svg.simplified": "/SVG_for_Font/windows8_tablet.svg",
+      "svg": "/SVG/Computer_Hardware/windows8_tablet_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/windows8_tablet_copyrighted.svg",
       "eps": "/EPS/Computer_Hardware/windows8_tablet.eps",
       "png": {
         "64": "/PNG/Computer_Hardware/windows8_tablet/windows8_tablet-64.png",
@@ -70187,10 +70210,10 @@
       "professional",
       "microsoft windows"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Operating_Systems/windows_logo.svg",
-      "svg.simplified": "/SVG_for_Font/windows_logo.svg",
+      "svg": "/SVG/Operating_Systems/windows_logo_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/windows_logo_copyrighted.svg",
       "eps": "/EPS/Operating_Systems/windows_logo.eps",
       "png": {
         "256": "/PNG/Operating_Systems/windows_logo/windows_logo-256.png",
@@ -70295,7 +70318,8 @@
       "vine",
       "branch",
       "berry fruit",
-      "refreshment"
+      "refreshment",
+      "eee"
     ],
     "copyright": false,
     "files": {
@@ -70725,10 +70749,10 @@
       "engine",
       "orange"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/wolfram_alpha.svg",
-      "svg.simplified": "/SVG_for_Font/wolfram_alpha.svg",
+      "svg": "/SVG/Logos/wolfram_alpha_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/wolfram_alpha_copyrighted.svg",
       "eps": "/EPS/Logos/wolfram_alpha.eps",
       "png": {
         "26": "/PNG/Logos/wolfram_alpha/wolfram_alpha-26.png",
@@ -70798,10 +70822,10 @@
       "page",
       "formatting"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/File_Types/word.svg",
-      "svg.simplified": "/SVG_for_Font/word.svg",
+      "svg": "/SVG/File_Types/word_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/word_copyrighted.svg",
       "eps": "/EPS/File_Types/word.eps",
       "png": {
         "64": "/PNG/File_Types/word/word-64.png",
@@ -70871,10 +70895,10 @@
       "words",
       "macro"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Microsoft/word_logo.svg",
-      "svg.simplified": "/SVG_for_Font/word_logo.svg",
+      "svg": "/SVG/Microsoft/word_logo_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/word_logo_copyrighted.svg",
       "eps": "/EPS/Microsoft/word_logo.eps",
       "png": {
         "48": "/PNG/Microsoft/word_logo/word_logo-48.png",
@@ -71298,10 +71322,10 @@
       "xbox",
       "tv"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Video_Game_Consoles/xbox.svg",
-      "svg.simplified": "/SVG_for_Font/xbox.svg",
+      "svg": "/SVG/Video_Game_Consoles/xbox_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/xbox_copyrighted.svg",
       "eps": "/EPS/Video_Game_Consoles/xbox.eps",
       "png": {
         "26": "/PNG/Video_Game_Consoles/xbox/xbox-26.png",
@@ -71745,10 +71769,10 @@
       "domain",
       "event"
     ],
-    "copyright": false,
+    "copyright": true,
     "files": {
-      "svg": "/SVG/Logos/youtube.svg",
-      "svg.simplified": "/SVG_for_Font/youtube.svg",
+      "svg": "/SVG/Logos/youtube_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/youtube_copyrighted.svg",
       "eps": "/EPS/Logos/youtube.eps",
       "png": {
         "32": "/PNG/Logos/youtube/youtube-32.png",
