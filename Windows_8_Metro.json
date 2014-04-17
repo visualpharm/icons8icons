@@ -11115,7 +11115,6 @@
       "communication",
       "chat",
       "image",
-      "gas",
       "icon",
       "conversation",
       "converse",
@@ -11272,6 +11271,46 @@
         "26": "/PNG/Users/checked_user/checked_user-26.png",
         "48": "/PNG/Users/checked_user/checked_user-48.png",
         "32": "/PNG/Users/checked_user/checked_user-32.png"
+      }
+    }
+  },
+  {
+    "id": 3978,
+    "name": "checklist",
+    "platform": "Windows 8/Metro",
+    "category": "System",
+    "created": 1397760709,
+    "tags": [
+      "mark",
+      "check",
+      "program",
+      "list",
+      "poll",
+      "series",
+      "menu",
+      "job",
+      "schedule",
+      "task",
+      "checklist",
+      "complete",
+      "agenda",
+      "select",
+      "incomplete",
+      "lineup",
+      "catelog",
+      "to do list"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/System/checklist.svg",
+      "png": {
+        "32": "/PNG/System/checklist/checklist-32.png",
+        "256": "/PNG/System/checklist/checklist-256.png",
+        "48": "/PNG/System/checklist/checklist-48.png",
+        "26": "/PNG/System/checklist/checklist-26.png",
+        "64": "/PNG/System/checklist/checklist-64.png",
+        "128": "/PNG/System/checklist/checklist-128.png",
+        "512": "/PNG/System/checklist/checklist-512.png"
       }
     }
   },
@@ -14085,7 +14124,8 @@
       "actors",
       "role",
       "laughter",
-      "happy"
+      "happy",
+      "flight"
     ],
     "copyright": false,
     "files": {
@@ -18400,6 +18440,151 @@
         "26": "/PNG/Animals/dog/dog-26.png",
         "128": "/PNG/Animals/dog/dog-128.png",
         "32": "/PNG/Animals/dog/dog-32.png"
+      }
+    }
+  },
+  {
+    "id": 3972,
+    "name": "dog_bone",
+    "platform": "Windows 8/Metro",
+    "category": "Animals",
+    "created": 1397760709,
+    "tags": [
+      "skeleton",
+      "bone",
+      "dog bone",
+      "dog treat",
+      "chew toy",
+      "milkbone",
+      "dog toy",
+      "dog reward",
+      "dog bone clipart",
+      "dog playtime"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Animals/dog_bone.svg",
+      "png": {
+        "512": "/PNG/Animals/dog_bone/dog_bone-512.png",
+        "128": "/PNG/Animals/dog_bone/dog_bone-128.png",
+        "256": "/PNG/Animals/dog_bone/dog_bone-256.png",
+        "64": "/PNG/Animals/dog_bone/dog_bone-64.png",
+        "26": "/PNG/Animals/dog_bone/dog_bone-26.png",
+        "32": "/PNG/Animals/dog_bone/dog_bone-32.png",
+        "48": "/PNG/Animals/dog_bone/dog_bone-48.png"
+      }
+    }
+  },
+  {
+    "id": 3970,
+    "name": "dog_bowl",
+    "platform": "Windows 8/Metro",
+    "category": "Animals",
+    "created": 1397760709,
+    "tags": [
+      "dog",
+      "food",
+      "dry",
+      "dinner",
+      "eat",
+      "cup",
+      "plate",
+      "container",
+      "pan",
+      "urn",
+      "pot",
+      "feed",
+      "dish",
+      "bowl",
+      "puppy",
+      "platter",
+      "kibble",
+      "chow",
+      "bone"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Animals/dog_bowl.svg",
+      "png": {
+        "48": "/PNG/Animals/dog_bowl/dog_bowl-48.png",
+        "32": "/PNG/Animals/dog_bowl/dog_bowl-32.png",
+        "128": "/PNG/Animals/dog_bowl/dog_bowl-128.png",
+        "256": "/PNG/Animals/dog_bowl/dog_bowl-256.png",
+        "26": "/PNG/Animals/dog_bowl/dog_bowl-26.png",
+        "512": "/PNG/Animals/dog_bowl/dog_bowl-512.png",
+        "64": "/PNG/Animals/dog_bowl/dog_bowl-64.png"
+      }
+    }
+  },
+  {
+    "id": 3968,
+    "name": "dog_house",
+    "platform": "Windows 8/Metro",
+    "category": "Animals",
+    "created": 1397760709,
+    "tags": [
+      "home",
+      "dog house",
+      "dog house clipart",
+      "dog bed",
+      "dog safe haven",
+      "dog guard station",
+      "dog home",
+      "doggie house",
+      "doggie home",
+      "dogs sleepy time"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Animals/dog_house.svg",
+      "png": {
+        "26": "/PNG/Animals/dog_house/dog_house-26.png",
+        "48": "/PNG/Animals/dog_house/dog_house-48.png",
+        "32": "/PNG/Animals/dog_house/dog_house-32.png",
+        "128": "/PNG/Animals/dog_house/dog_house-128.png",
+        "512": "/PNG/Animals/dog_house/dog_house-512.png",
+        "256": "/PNG/Animals/dog_house/dog_house-256.png",
+        "64": "/PNG/Animals/dog_house/dog_house-64.png"
+      }
+    }
+  },
+  {
+    "id": 3974,
+    "name": "dog_leash",
+    "platform": "Windows 8/Metro",
+    "category": "Animals",
+    "created": 1397760709,
+    "tags": [
+      "medicine",
+      "health",
+      "hospital",
+      "heart",
+      "medical",
+      "doc",
+      "infected",
+      "doctor",
+      "chest",
+      "stethoscope",
+      "medication",
+      "sick",
+      "analysis",
+      "drug",
+      "breathe",
+      "pulse",
+      "dr",
+      "perscription"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Animals/dog_leash.svg",
+      "png": {
+        "26": "/PNG/Animals/dog_leash/dog_leash-26.png",
+        "48": "/PNG/Animals/dog_leash/dog_leash-48.png",
+        "64": "/PNG/Animals/dog_leash/dog_leash-64.png",
+        "512": "/PNG/Animals/dog_leash/dog_leash-512.png",
+        "256": "/PNG/Animals/dog_leash/dog_leash-256.png",
+        "32": "/PNG/Animals/dog_leash/dog_leash-32.png",
+        "128": "/PNG/Animals/dog_leash/dog_leash-128.png"
       }
     }
   },
@@ -23251,6 +23436,38 @@
     }
   },
   {
+    "id": 3976,
+    "name": "fire_hydrant",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1397760709,
+    "tags": [
+      "fire hydrant",
+      "firefighters",
+      "dogs favorite pee-place",
+      "summertime fun",
+      "putting out fires",
+      "water main",
+      "summertime water playtime",
+      "saving lives",
+      "fire hydrant clipart",
+      "water emergency equipment"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/fire_hydrant.svg",
+      "png": {
+        "32": "/PNG/City/fire_hydrant/fire_hydrant-32.png",
+        "128": "/PNG/City/fire_hydrant/fire_hydrant-128.png",
+        "512": "/PNG/City/fire_hydrant/fire_hydrant-512.png",
+        "26": "/PNG/City/fire_hydrant/fire_hydrant-26.png",
+        "256": "/PNG/City/fire_hydrant/fire_hydrant-256.png",
+        "48": "/PNG/City/fire_hydrant/fire_hydrant-48.png",
+        "64": "/PNG/City/fire_hydrant/fire_hydrant-64.png"
+      }
+    }
+  },
+  {
     "id": 2196,
     "name": "firing_gun",
     "platform": "Windows 8/Metro",
@@ -27115,7 +27332,8 @@
       "plus",
       "social network",
       "google plus",
-      "instagram"
+      "instagram",
+      "social"
     ],
     "copyright": false,
     "files": {
