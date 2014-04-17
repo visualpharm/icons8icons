@@ -1192,7 +1192,8 @@
       "wake up",
       "morning",
       "time",
-      "switch"
+      "switch",
+      "map"
     ],
     "copyright": false,
     "files": {
@@ -10782,31 +10783,6 @@
         "128": "/PNG/Messaging/contacts/contacts-128.png",
         "32": "/PNG/Messaging/contacts/contacts-32.png",
         "75": "/PNG/Messaging/contacts/contacts-75.png"
-      }
-    }
-  },
-  {
-    "id": 2817,
-    "name": "contact_card",
-    "platform": "iPhone/iOS 7",
-    "category": "Messaging",
-    "created": 1390342414,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Messaging/contact_card.svg",
-      "eps": "/EPS/Messaging/contact_card.eps",
-      "png": {
-        "50": "/PNG/Messaging/contact_card/contact_card-50.png",
-        "256": "/PNG/Messaging/contact_card/contact_card-256.png",
-        "75": "/PNG/Messaging/contact_card/contact_card-75.png",
-        "100": "/PNG/Messaging/contact_card/contact_card-100.png",
-        "32": "/PNG/Messaging/contact_card/contact_card-32.png",
-        "25": "/PNG/Messaging/contact_card/contact_card-25.png",
-        "128": "/PNG/Messaging/contact_card/contact_card-128.png",
-        "512": "/PNG/Messaging/contact_card/contact_card-512.png"
       }
     }
   },
@@ -32145,7 +32121,7 @@
     "category": "Media",
     "created": 1390342414,
     "tags": [
-
+      "webcam"
     ],
     "copyright": false,
     "files": {
@@ -42413,6 +42389,7 @@
       "user",
       "tick",
       "edit",
+      "star",
       "medical",
       "search",
       "magnifier",
