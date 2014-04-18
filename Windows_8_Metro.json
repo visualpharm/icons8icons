@@ -2947,7 +2947,8 @@
       "texting",
       "smartphone",
       "smart phone",
-      "device"
+      "device",
+      "server"
     ],
     "copyright": true,
     "files": {
@@ -9554,7 +9555,8 @@
       "barricade",
       "blockade",
       "lull",
-      "freeze"
+      "freeze",
+      "CANCE"
     ],
     "copyright": false,
     "files": {
@@ -12964,6 +12966,39 @@
         "32": "/PNG/Very_Basic/clock/clock-32.png",
         "64": "/PNG/Very_Basic/clock/clock-64.png",
         "512": "/PNG/Very_Basic/clock/clock-512.png"
+      }
+    }
+  },
+  {
+    "id": 3982,
+    "name": "clone",
+    "platform": "Windows 8/Metro",
+    "category": "Medicine",
+    "created": 1397832689,
+    "tags": [
+      "sustainability",
+      "direct contact",
+      "resembles other",
+      "unix and x",
+      "clone layer",
+      "from other cells",
+      "commands to monitor",
+      "made from other",
+      "two persons",
+      "aero mark",
+      "future generation"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Medicine/clone.svg",
+      "png": {
+        "512": "/PNG/Medicine/clone/clone-512.png",
+        "26": "/PNG/Medicine/clone/clone-26.png",
+        "128": "/PNG/Medicine/clone/clone-128.png",
+        "256": "/PNG/Medicine/clone/clone-256.png",
+        "64": "/PNG/Medicine/clone/clone-64.png",
+        "48": "/PNG/Medicine/clone/clone-48.png",
+        "32": "/PNG/Medicine/clone/clone-32.png"
       }
     }
   },
@@ -18524,6 +18559,13 @@
     "created": 1397760709,
     "tags": [
       "home",
+      "house",
+      "shop",
+      "entrance",
+      "class",
+      "hotel",
+      "counter",
+      "hostel",
       "dog house",
       "dog house clipart",
       "dog bed",
@@ -18532,7 +18574,9 @@
       "dog home",
       "doggie house",
       "doggie home",
-      "dogs sleepy time"
+      "dogs sleepy time",
+      "hut",
+      "shed"
     ],
     "copyright": false,
     "files": {
@@ -22250,6 +22294,7 @@
     "category": "Industry",
     "created": 1362481664,
     "tags": [
+      "cash",
       "business",
       "pollution",
       "industry",
@@ -23442,6 +23487,14 @@
     "category": "City",
     "created": 1397760709,
     "tags": [
+      "box",
+      "fire",
+      "pump",
+      "emergency",
+      "water",
+      "pipe",
+      "motor",
+      "tap",
       "fire hydrant",
       "firefighters",
       "dogs favorite pee-place",
@@ -23451,7 +23504,9 @@
       "summertime water playtime",
       "saving lives",
       "fire hydrant clipart",
-      "water emergency equipment"
+      "water emergency equipment",
+      "hose",
+      "fireextinguisher"
     ],
     "copyright": false,
     "files": {
@@ -25012,7 +25067,6 @@
       "field",
       "play",
       "run",
-      "sport",
       "muscles",
       "park",
       "action",
@@ -25020,7 +25074,8 @@
       "sports",
       "frisbee",
       "lifestyle",
-      "plate"
+      "plate",
+      "sport"
     ],
     "copyright": false,
     "files": {
@@ -25702,6 +25757,8 @@
     "category": "City",
     "created": 1330940674,
     "tags": [
+      "magnify",
+      "run",
       "transport",
       "cars",
       "city",
@@ -25715,6 +25772,7 @@
       "petrol",
       "fuel",
       "diesel",
+      "explore",
       "bunk",
       "gasohol",
       "propellant"
@@ -36220,6 +36278,7 @@
     "tags": [
       "magazine",
       "library",
+      "film",
       "printed matter",
       "news"
     ],
@@ -37715,6 +37774,40 @@
     }
   },
   {
+    "id": 3980,
+    "name": "metamorphose",
+    "platform": "Windows 8/Metro",
+    "category": "Medicine",
+    "created": 1397832689,
+    "tags": [
+      "change",
+      "switch",
+      "form",
+      "rename",
+      "different",
+      "convert",
+      "identical",
+      "transform",
+      "modify",
+      "appearance",
+      "shift",
+      "another"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Medicine/metamorphose.svg",
+      "png": {
+        "64": "/PNG/Medicine/metamorphose/metamorphose-64.png",
+        "128": "/PNG/Medicine/metamorphose/metamorphose-128.png",
+        "256": "/PNG/Medicine/metamorphose/metamorphose-256.png",
+        "48": "/PNG/Medicine/metamorphose/metamorphose-48.png",
+        "512": "/PNG/Medicine/metamorphose/metamorphose-512.png",
+        "32": "/PNG/Medicine/metamorphose/metamorphose-32.png",
+        "26": "/PNG/Medicine/metamorphose/metamorphose-26.png"
+      }
+    }
+  },
+  {
     "id": 220,
     "name": "microphone",
     "platform": "Windows 8/Metro",
@@ -39166,12 +39259,11 @@
     "category": "Sports",
     "created": 1375785144,
     "tags": [
-      "delete",
-      "sport",
       "regular biking",
       "mountain biking",
       "time trial biking",
-      "sport and activities"
+      "sport and activities",
+      "sport"
     ],
     "copyright": false,
     "files": {
@@ -40928,7 +41020,9 @@
       "tree",
       "plant",
       "plug",
-      "connections"
+      "connections",
+      "email",
+      "outlook"
     ],
     "copyright": false,
     "files": {
@@ -52978,6 +53072,38 @@
     }
   },
   {
+    "id": 3984,
+    "name": "scan_body",
+    "platform": "Windows 8/Metro",
+    "category": "Medicine",
+    "created": 1397832689,
+    "tags": [
+      "health",
+      "protection",
+      "scan",
+      "scanner",
+      "x-ray",
+      "body",
+      "scanning",
+      "see-through",
+      "reveal",
+      "undisclosure"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Medicine/scan_body.svg",
+      "png": {
+        "128": "/PNG/Medicine/scan_body/scan_body-128.png",
+        "32": "/PNG/Medicine/scan_body/scan_body-32.png",
+        "256": "/PNG/Medicine/scan_body/scan_body-256.png",
+        "26": "/PNG/Medicine/scan_body/scan_body-26.png",
+        "512": "/PNG/Medicine/scan_body/scan_body-512.png",
+        "64": "/PNG/Medicine/scan_body/scan_body-64.png",
+        "48": "/PNG/Medicine/scan_body/scan_body-48.png"
+      }
+    }
+  },
+  {
     "id": 2655,
     "name": "scarf",
     "platform": "Windows 8/Metro",
@@ -53533,6 +53659,7 @@
     "created": 1318305600,
     "tags": [
       "find",
+      "arrow",
       "search",
       "replace",
       "loupe",

@@ -1840,6 +1840,7 @@
       "property",
       "realty estate",
       "architecture",
+      "sales",
       "home",
       "house",
       "apartment"
@@ -9461,6 +9462,40 @@
     }
   },
   {
+    "id": 3983,
+    "name": "clone",
+    "platform": "iPhone/iOS 7",
+    "category": "Medicine",
+    "created": 1397832689,
+    "tags": [
+      "sustainability",
+      "direct contact",
+      "resembles other",
+      "unix and x",
+      "clone layer",
+      "from other cells",
+      "commands to monitor",
+      "made from other",
+      "two persons",
+      "aero mark",
+      "future generation"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Medicine/clone.svg",
+      "png": {
+        "25": "/PNG/Medicine/clone/clone-25.png",
+        "75": "/PNG/Medicine/clone/clone-75.png",
+        "512": "/PNG/Medicine/clone/clone-512.png",
+        "50": "/PNG/Medicine/clone/clone-50.png",
+        "128": "/PNG/Medicine/clone/clone-128.png",
+        "256": "/PNG/Medicine/clone/clone-256.png",
+        "100": "/PNG/Medicine/clone/clone-100.png",
+        "32": "/PNG/Medicine/clone/clone-32.png"
+      }
+    }
+  },
+  {
     "id": 3058,
     "name": "close",
     "platform": "iPhone/iOS 7",
@@ -14131,6 +14166,13 @@
     "created": 1397760709,
     "tags": [
       "home",
+      "house",
+      "shop",
+      "entrance",
+      "class",
+      "hotel",
+      "counter",
+      "hostel",
       "dog house",
       "dog house clipart",
       "dog bed",
@@ -14139,7 +14181,9 @@
       "dog home",
       "doggie house",
       "doggie home",
-      "dogs sleepy time"
+      "dogs sleepy time",
+      "hut",
+      "shed"
     ],
     "copyright": false,
     "files": {
@@ -16866,6 +16910,7 @@
     "category": "Image Editing",
     "created": 1363367623,
     "tags": [
+      "close",
       "arrows",
       "arrow",
       "zoom in",
@@ -18377,6 +18422,14 @@
     "category": "City",
     "created": 1397760709,
     "tags": [
+      "box",
+      "fire",
+      "pump",
+      "emergency",
+      "water",
+      "pipe",
+      "motor",
+      "tap",
       "fire hydrant",
       "firefighters",
       "dogs favorite pee-place",
@@ -18386,7 +18439,9 @@
       "summertime water playtime",
       "saving lives",
       "fire hydrant clipart",
-      "water emergency equipment"
+      "water emergency equipment",
+      "hose",
+      "fireextinguisher"
     ],
     "copyright": false,
     "files": {
@@ -22430,6 +22485,7 @@
       "graphic",
       "export",
       "sign",
+      "stop",
       "load",
       "safety",
       "thumbs",
@@ -22444,8 +22500,7 @@
       "kids",
       "icon",
       "touch",
-      "hands",
-      "truck"
+      "hands"
     ],
     "copyright": false,
     "files": {
@@ -25141,6 +25196,7 @@
     "category": "Emoticons",
     "created": 1332316180,
     "tags": [
+      "copy",
       "heart",
       "love",
       "smile",
@@ -30227,6 +30283,41 @@
     }
   },
   {
+    "id": 3981,
+    "name": "metamorphose",
+    "platform": "iPhone/iOS 7",
+    "category": "Medicine",
+    "created": 1397832689,
+    "tags": [
+      "change",
+      "switch",
+      "form",
+      "rename",
+      "different",
+      "convert",
+      "identical",
+      "transform",
+      "modify",
+      "appearance",
+      "shift",
+      "another"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Medicine/metamorphose.svg",
+      "png": {
+        "50": "/PNG/Medicine/metamorphose/metamorphose-50.png",
+        "25": "/PNG/Medicine/metamorphose/metamorphose-25.png",
+        "75": "/PNG/Medicine/metamorphose/metamorphose-75.png",
+        "128": "/PNG/Medicine/metamorphose/metamorphose-128.png",
+        "256": "/PNG/Medicine/metamorphose/metamorphose-256.png",
+        "512": "/PNG/Medicine/metamorphose/metamorphose-512.png",
+        "32": "/PNG/Medicine/metamorphose/metamorphose-32.png",
+        "100": "/PNG/Medicine/metamorphose/metamorphose-100.png"
+      }
+    }
+  },
+  {
     "id": 2830,
     "name": "micro",
     "platform": "iPhone/iOS 7",
@@ -32801,7 +32892,8 @@
       "web",
       "news",
       "dashboard",
-      "section"
+      "section",
+      "gallery"
     ],
     "copyright": false,
     "files": {
@@ -42174,6 +42266,39 @@
     }
   },
   {
+    "id": 3985,
+    "name": "scan_body",
+    "platform": "iPhone/iOS 7",
+    "category": "Medicine",
+    "created": 1397832689,
+    "tags": [
+      "health",
+      "protection",
+      "scan",
+      "scanner",
+      "x-ray",
+      "body",
+      "scanning",
+      "see-through",
+      "reveal",
+      "undisclosure"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Medicine/scan_body.svg",
+      "png": {
+        "50": "/PNG/Medicine/scan_body/scan_body-50.png",
+        "100": "/PNG/Medicine/scan_body/scan_body-100.png",
+        "128": "/PNG/Medicine/scan_body/scan_body-128.png",
+        "32": "/PNG/Medicine/scan_body/scan_body-32.png",
+        "256": "/PNG/Medicine/scan_body/scan_body-256.png",
+        "75": "/PNG/Medicine/scan_body/scan_body-75.png",
+        "512": "/PNG/Medicine/scan_body/scan_body-512.png",
+        "25": "/PNG/Medicine/scan_body/scan_body-25.png"
+      }
+    }
+  },
+  {
     "id": 2656,
     "name": "scarf",
     "platform": "iPhone/iOS 7",
@@ -43294,6 +43419,7 @@
     "category": "Very Basic",
     "created": 1390342414,
     "tags": [
+      "folder",
       "arrow",
       "settings",
       "share",
@@ -54217,6 +54343,7 @@
       "move",
       "share",
       "cloud",
+      "question",
       "give",
       "download filled"
     ],
@@ -58061,7 +58188,8 @@
       "text",
       "paragraph",
       "page",
-      "formatting"
+      "formatting",
+      "pdf"
     ],
     "copyright": true,
     "files": {

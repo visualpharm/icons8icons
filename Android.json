@@ -1558,7 +1558,8 @@
       "driver",
       "windshield",
       "car",
-      "speed"
+      "speed",
+      "competition"
     ],
     "copyright": false,
     "files": {
@@ -2588,6 +2589,7 @@
       "department",
       "avatar",
       "people icons",
+      "briefcase icon",
       "member"
     ],
     "copyright": false,
