@@ -825,7 +825,7 @@
     "id": 2206,
     "name": "7zip",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1380274068,
     "tags": [
       "file",
@@ -837,7 +837,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/7zip.svg",
+      "svg": "/SVG/Files/7zip.svg",
       "svg.simplified": "/SVG_for_Font/7zip.svg",
       "eps": "/EPS/File_Types/7zip.eps",
       "png": {
@@ -1041,7 +1041,7 @@
     "id": 523,
     "name": "about",
     "platform": "Windows 8/Metro",
-    "category": "Website Sections",
+    "category": "Very Basic",
     "created": 1327313615,
     "tags": [
       "design",
@@ -1098,7 +1098,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Website_Sections/about.svg",
+      "svg": "/SVG/Very_Basic/about.svg",
       "svg.simplified": "/SVG_for_Font/about.svg",
       "eps": "/EPS/Website_Sections/about.eps",
       "png": {
@@ -1198,7 +1198,7 @@
     "id": 612,
     "name": "action",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1330073859,
     "tags": [
       "kick",
@@ -1217,7 +1217,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/action.svg",
+      "svg": "/SVG/Cinema/action.svg",
       "svg.simplified": "/SVG_for_Font/action.svg",
       "eps": "/EPS/Movie_Genres/action.eps",
       "png": {
@@ -1235,7 +1235,7 @@
     "id": 1539,
     "name": "actions2",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1359462430,
     "tags": [
       "action",
@@ -1248,7 +1248,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/actions2.svg",
+      "svg": "/SVG/Cinema/actions2.svg",
       "svg.simplified": "/SVG_for_Font/actions2.svg",
       "eps": "/EPS/Movie_Genres/actions2.eps",
       "png": {
@@ -1415,7 +1415,7 @@
     "id": 496,
     "name": "add_file",
     "platform": "Windows 8/Metro",
-    "category": "Add",
+    "category": "Files",
     "created": 1325248441,
     "tags": [
       "create",
@@ -1423,7 +1423,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Add/add_file.svg",
+      "svg": "/SVG/Files/add_file.svg",
       "svg.simplified": "/SVG_for_Font/add_file.svg",
       "eps": "/EPS/Add/add_file.eps",
       "png": {
@@ -1441,7 +1441,7 @@
     "id": 459,
     "name": "add_folder",
     "platform": "Windows 8/Metro",
-    "category": "Add",
+    "category": "Files",
     "created": 1325248441,
     "tags": [
       "add",
@@ -1452,7 +1452,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Add/add_folder.svg",
+      "svg": "/SVG/Files/add_folder.svg",
       "svg.simplified": "/SVG_for_Font/add_folder.svg",
       "eps": "/EPS/Add/add_folder.eps",
       "png": {
@@ -1510,7 +1510,7 @@
     "id": 479,
     "name": "add_link",
     "platform": "Windows 8/Metro",
-    "category": "Add",
+    "category": "Files",
     "created": 1326451960,
     "tags": [
       "add",
@@ -1521,7 +1521,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Add/add_link.svg",
+      "svg": "/SVG/Files/add_link.svg",
       "svg.simplified": "/SVG_for_Font/add_link.svg",
       "eps": "/EPS/Add/add_link.eps",
       "png": {
@@ -1539,7 +1539,7 @@
     "id": 458,
     "name": "add_list",
     "platform": "Windows 8/Metro",
-    "category": "Add",
+    "category": "Files",
     "created": 1325248441,
     "tags": [
       "plus",
@@ -1549,7 +1549,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Add/add_list.svg",
+      "svg": "/SVG/Files/add_list.svg",
       "svg.simplified": "/SVG_for_Font/add_list.svg",
       "eps": "/EPS/Add/add_list.eps",
       "png": {
@@ -1630,14 +1630,14 @@
     "id": 3662,
     "name": "add_ticket",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1395798690,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/add_ticket.svg",
+      "svg": "/SVG/Cinema/add_ticket.svg",
       "eps": "/EPS/Movie_Genres/add_ticket.eps",
       "png": {
         "256": "/PNG/Movie_Genres/add_ticket/add_ticket-256.png",
@@ -1786,14 +1786,14 @@
     "id": 3567,
     "name": "adobe_bridge",
     "platform": "Windows 8/Metro",
-    "category": "Adobe",
+    "category": "Logos",
     "created": 1394729489,
     "tags": [
 
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Adobe/adobe_bridge_copyrighted.svg",
+      "svg": "/SVG/Logos/adobe_bridge_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/adobe_bridge_copyrighted.svg",
       "eps": "/EPS/Adobe/adobe_bridge.eps",
       "png": {
@@ -1811,14 +1811,14 @@
     "id": 3568,
     "name": "adobe_dreamweaver",
     "platform": "Windows 8/Metro",
-    "category": "Adobe",
+    "category": "Logos",
     "created": 1394729489,
     "tags": [
 
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Adobe/adobe_dreamweaver_copyrighted.svg",
+      "svg": "/SVG/Logos/adobe_dreamweaver_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/adobe_dreamweaver_copyrighted.svg",
       "eps": "/EPS/Adobe/adobe_dreamweaver.eps",
       "png": {
@@ -1836,14 +1836,14 @@
     "id": 3569,
     "name": "adobe_fireworks",
     "platform": "Windows 8/Metro",
-    "category": "Adobe",
+    "category": "Logos",
     "created": 1394729489,
     "tags": [
 
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Adobe/adobe_fireworks_copyrighted.svg",
+      "svg": "/SVG/Logos/adobe_fireworks_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/adobe_fireworks_copyrighted.svg",
       "eps": "/EPS/Adobe/adobe_fireworks.eps",
       "png": {
@@ -1861,14 +1861,14 @@
     "id": 3572,
     "name": "adobe_flash",
     "platform": "Windows 8/Metro",
-    "category": "Adobe",
+    "category": "Logos",
     "created": 1394729489,
     "tags": [
 
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Adobe/adobe_flash_copyrighted.svg",
+      "svg": "/SVG/Logos/adobe_flash_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/adobe_flash_copyrighted.svg",
       "eps": "/EPS/Adobe/adobe_flash.eps",
       "png": {
@@ -1886,14 +1886,14 @@
     "id": 3571,
     "name": "adobe_illustrator",
     "platform": "Windows 8/Metro",
-    "category": "Adobe",
+    "category": "Logos",
     "created": 1394729489,
     "tags": [
 
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Adobe/adobe_illustrator_copyrighted.svg",
+      "svg": "/SVG/Logos/adobe_illustrator_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/adobe_illustrator_copyrighted.svg",
       "eps": "/EPS/Adobe/adobe_illustrator.eps",
       "png": {
@@ -1911,14 +1911,14 @@
     "id": 3566,
     "name": "adobe_indesign",
     "platform": "Windows 8/Metro",
-    "category": "Adobe",
+    "category": "Logos",
     "created": 1394729489,
     "tags": [
 
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Adobe/adobe_indesign_copyrighted.svg",
+      "svg": "/SVG/Logos/adobe_indesign_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/adobe_indesign_copyrighted.svg",
       "eps": "/EPS/Adobe/adobe_indesign.eps",
       "png": {
@@ -1936,7 +1936,7 @@
     "id": 3570,
     "name": "adobe_photoshop",
     "platform": "Windows 8/Metro",
-    "category": "Adobe",
+    "category": "Logos",
     "created": 1394729489,
     "tags": [
       "photoshop",
@@ -1944,7 +1944,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Adobe/adobe_photoshop_copyrighted.svg",
+      "svg": "/SVG/Logos/adobe_photoshop_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/adobe_photoshop_copyrighted.svg",
       "eps": "/EPS/Adobe/adobe_photoshop.eps",
       "png": {
@@ -2030,7 +2030,7 @@
     "id": 617,
     "name": "adventures",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1330335588,
     "tags": [
       "genres",
@@ -2040,7 +2040,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/adventures.svg",
+      "svg": "/SVG/Cinema/adventures.svg",
       "svg.simplified": "/SVG_for_Font/adventures.svg",
       "eps": "/EPS/Movie_Genres/adventures.eps",
       "png": {
@@ -2156,7 +2156,7 @@
     "id": 325,
     "name": "ai",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1322654787,
     "tags": [
       "adobe",
@@ -2174,7 +2174,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/ai.svg",
+      "svg": "/SVG/Files/ai.svg",
       "svg.simplified": "/SVG_for_Font/ai.svg",
       "eps": "/EPS/File_Types/ai.eps",
       "png": {
@@ -2471,7 +2471,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Ecommerce/alarm_clock.svg",
       "svg.simplified": "/SVG_for_Font/alarm_clock.svg",
       "eps": "/EPS/Ecommerce/alarm_clock.eps",
       "png": {
@@ -2708,7 +2707,7 @@
     "id": 949,
     "name": "ambulance",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1340329025,
     "tags": [
       "medicine",
@@ -2733,7 +2732,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/ambulance.svg",
+      "svg": "/SVG/Healthcare/ambulance.svg",
       "svg.simplified": "/SVG_for_Font/ambulance.svg",
       "eps": "/EPS/Medicine/ambulance.eps",
       "png": {
@@ -2751,7 +2750,7 @@
     "id": 1432,
     "name": "amex",
     "platform": "Windows 8/Metro",
-    "category": "Payment Methods",
+    "category": "Finance",
     "created": 1356695407,
     "tags": [
       "bank",
@@ -2774,7 +2773,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Payment_Methods/amex_copyrighted.svg",
+      "svg": "/SVG/Finance/amex_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/amex_copyrighted.svg",
       "eps": "/EPS/Payment_Methods/amex.eps",
       "png": {
@@ -2818,7 +2817,7 @@
     "id": 1817,
     "name": "amputee",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1367939649,
     "tags": [
       "men",
@@ -2830,7 +2829,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/amputee.svg",
+      "svg": "/SVG/Healthcare/amputee.svg",
       "svg.simplified": "/SVG_for_Font/amputee.svg",
       "eps": "/EPS/Medicine/amputee.eps",
       "png": {
@@ -2918,7 +2917,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sea/ancore.svg",
       "svg.simplified": "/SVG_for_Font/ancore.svg",
       "eps": "/EPS/Sea/ancore.eps",
       "png": {
@@ -3075,7 +3073,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Emoticons/angel.svg",
       "svg.simplified": "/SVG_for_Font/angel.svg",
       "eps": "/EPS/Emoticons/angel.eps",
       "png": {
@@ -3102,7 +3099,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Emoticons/angry.svg",
       "svg.simplified": "/SVG_for_Font/angry.svg",
       "eps": "/EPS/Emoticons/angry.eps",
       "png": {
@@ -3163,7 +3159,7 @@
     "id": 1381,
     "name": "antiseptic_cream",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1355315169,
     "tags": [
       "medicine",
@@ -3180,7 +3176,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/antiseptic_cream.svg",
+      "svg": "/SVG/Healthcare/antiseptic_cream.svg",
       "svg.simplified": "/SVG_for_Font/antiseptic_cream.svg",
       "eps": "/EPS/Medicine/antiseptic_cream.eps",
       "png": {
@@ -3240,14 +3236,14 @@
     "id": 3481,
     "name": "apartment",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1393523484,
     "tags": [
       "edit"
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/apartment.svg",
+      "svg": "/SVG/Household/apartment.svg",
       "svg.simplified": "/SVG_for_Font/apartment.svg",
       "eps": "/EPS/Accommodation/apartment.eps",
       "png": {
@@ -3504,7 +3500,7 @@
     "id": 442,
     "name": "archive",
     "platform": "Windows 8/Metro",
-    "category": "Business",
+    "category": "Files",
     "created": 1324991427,
     "tags": [
       "file",
@@ -3513,7 +3509,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Business/archive.svg",
+      "svg": "/SVG/Files/archive.svg",
       "svg.simplified": "/SVG_for_Font/archive.svg",
       "eps": "/EPS/Business/archive.eps",
       "png": {
@@ -3531,7 +3527,7 @@
     "id": 444,
     "name": "archive2",
     "platform": "Windows 8/Metro",
-    "category": "Business",
+    "category": "Folders",
     "created": 1324991427,
     "tags": [
       "file",
@@ -3542,7 +3538,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Business/archive2.svg",
+      "svg": "/SVG/Folders/archive2.svg",
       "svg.simplified": "/SVG_for_Font/archive2.svg",
       "eps": "/EPS/Business/archive2.eps",
       "png": {
@@ -3729,7 +3725,7 @@
     "id": 2299,
     "name": "asc",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1378464254,
     "tags": [
       "file",
@@ -3740,7 +3736,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/asc.svg",
+      "svg": "/SVG/Files/asc.svg",
       "svg.simplified": "/SVG_for_Font/asc.svg",
       "eps": "/EPS/File_Types/asc.eps",
       "png": {
@@ -3804,7 +3800,7 @@
     "id": 3756,
     "name": "asp",
     "platform": "Windows 8/Metro",
-    "category": "Programming File Types",
+    "category": "Files",
     "created": 1396450308,
     "tags": [
       "design",
@@ -3855,7 +3851,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Programming_File_Types/asp.svg",
+      "svg": "/SVG/Files/asp.svg",
       "eps": "/EPS/Programming_File_Types/asp.eps",
       "png": {
         "128": "/PNG/Programming_File_Types/asp/asp-128.png",
@@ -3905,7 +3901,7 @@
     "id": 10,
     "name": "atm",
     "platform": "Windows 8/Metro",
-    "category": "Business",
+    "category": "Finance",
     "created": 1372934468,
     "tags": [
       "atm",
@@ -3918,7 +3914,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Business/atm.svg",
+      "svg": "/SVG/Finance/atm.svg",
       "svg.simplified": "/SVG_for_Font/atm.svg",
       "eps": "/EPS/Business/atm.eps",
       "png": {
@@ -3988,7 +3984,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Ecommerce/AUD.svg",
       "svg.simplified": "/SVG_for_Font/AUD.svg",
       "eps": "/EPS/Ecommerce/AUD.eps",
       "png": {
@@ -4006,7 +4001,7 @@
     "id": 1812,
     "name": "audience",
     "platform": "Windows 8/Metro",
-    "category": "Theatre Set",
+    "category": "Cinema",
     "created": 1367869517,
     "tags": [
       "crowd",
@@ -4021,7 +4016,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Theatre_Set/audience.svg",
+      "svg": "/SVG/Cinema/audience.svg",
       "svg.simplified": "/SVG_for_Font/audience.svg",
       "eps": "/EPS/Theatre_Set/audience.eps",
       "png": {
@@ -4422,7 +4417,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Ecommerce/average.svg",
       "svg.simplified": "/SVG_for_Font/average.svg",
       "eps": "/EPS/Ecommerce/average.eps",
       "png": {
@@ -4440,7 +4434,7 @@
     "id": 321,
     "name": "avi",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1322654787,
     "tags": [
       "watch",
@@ -4457,7 +4451,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/avi.svg",
+      "svg": "/SVG/Files/avi.svg",
       "svg.simplified": "/SVG_for_Font/avi.svg",
       "eps": "/EPS/File_Types/avi.eps",
       "png": {
@@ -4649,7 +4643,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/babyroom.svg",
       "svg.simplified": "/SVG_for_Font/babyroom.svg",
       "eps": "/EPS/Accommodation/babyroom.eps",
       "png": {
@@ -4774,14 +4767,14 @@
     "id": 3697,
     "name": "bacon",
     "platform": "Windows 8/Metro",
-    "category": "Subculture",
+    "category": "Food",
     "created": 1395935483,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Subculture/bacon.svg",
+      "svg": "/SVG/Food/bacon.svg",
       "eps": "/EPS/Subculture/bacon.eps",
       "png": {
         "128": "/PNG/Subculture/bacon/bacon-128.png",
@@ -4917,7 +4910,7 @@
     "id": 12,
     "name": "bandage",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1372983440,
     "tags": [
       "medicine",
@@ -4930,7 +4923,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/bandage.svg",
+      "svg": "/SVG/Healthcare/bandage.svg",
       "svg.simplified": "/SVG_for_Font/bandage.svg",
       "eps": "/EPS/Medicine/bandage.eps",
       "png": {
@@ -5020,7 +5013,7 @@
     "id": 201,
     "name": "banknotes",
     "platform": "Windows 8/Metro",
-    "category": "Payment Methods",
+    "category": "Finance",
     "created": 1319154613,
     "tags": [
       "cash",
@@ -5034,7 +5027,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Payment_Methods/banknotes.svg",
+      "svg": "/SVG/Finance/banknotes.svg",
       "svg.simplified": "/SVG_for_Font/banknotes.svg",
       "eps": "/EPS/Payment_Methods/banknotes.eps",
       "png": {
@@ -5052,7 +5045,7 @@
     "id": 200,
     "name": "bank_cards",
     "platform": "Windows 8/Metro",
-    "category": "Payment Methods",
+    "category": "Finance",
     "created": 1319154613,
     "tags": [
       "atm",
@@ -5071,7 +5064,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Payment_Methods/bank_cards.svg",
+      "svg": "/SVG/Finance/bank_cards.svg",
       "svg.simplified": "/SVG_for_Font/bank_cards.svg",
       "eps": "/EPS/Payment_Methods/bank_cards.eps",
       "png": {
@@ -5255,7 +5248,7 @@
     "id": 206,
     "name": "barcode",
     "platform": "Windows 8/Metro",
-    "category": "Payment Methods",
+    "category": "Finance",
     "created": 1319251300,
     "tags": [
       "payment methods",
@@ -5269,7 +5262,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Payment_Methods/barcode.svg",
+      "svg": "/SVG/Finance/barcode.svg",
       "svg.simplified": "/SVG_for_Font/barcode.svg",
       "eps": "/EPS/Payment_Methods/barcode.eps",
       "png": {
@@ -5302,7 +5295,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Ecommerce/barcode_scanner.svg",
       "svg.simplified": "/SVG_for_Font/barcode_scanner.svg",
       "eps": "/EPS/Ecommerce/barcode_scanner.eps",
       "png": {
@@ -5320,7 +5312,7 @@
     "id": 1831,
     "name": "barley",
     "platform": "Windows 8/Metro",
-    "category": "Plants Trees",
+    "category": "Nature",
     "created": 1369061325,
     "tags": [
       "food",
@@ -5338,7 +5330,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Plants_Trees/barley.svg",
+      "svg": "/SVG/Nature/barley.svg",
       "svg.simplified": "/SVG_for_Font/barley.svg",
       "eps": "/EPS/Plants_Trees/barley.eps",
       "png": {
@@ -5370,7 +5362,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/barn.svg",
       "svg.simplified": "/SVG_for_Font/barn.svg",
       "eps": "/EPS/Accommodation/barn.eps",
       "png": {
@@ -5420,7 +5411,7 @@
     "id": 3754,
     "name": "bas",
     "platform": "Windows 8/Metro",
-    "category": "Programming File Types",
+    "category": "Files",
     "created": 1396450308,
     "tags": [
       "church",
@@ -5474,7 +5465,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Programming_File_Types/bas.svg",
+      "svg": "/SVG/Files/bas.svg",
       "eps": "/EPS/Programming_File_Types/bas.eps",
       "png": {
         "64": "/PNG/Programming_File_Types/bas/bas-64.png",
@@ -5749,7 +5740,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/bath.svg",
       "svg.simplified": "/SVG_for_Font/bath.svg",
       "eps": "/EPS/Accommodation/bath.eps",
       "png": {
@@ -5795,7 +5785,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/bath_room.svg",
       "svg.simplified": "/SVG_for_Font/bath_room.svg",
       "eps": "/EPS/Accommodation/bath_room.eps",
       "png": {
@@ -6093,14 +6082,14 @@
     "id": 3696,
     "name": "beer",
     "platform": "Windows 8/Metro",
-    "category": "Subculture",
+    "category": "Food",
     "created": 1395935483,
     "tags": [
       "pc"
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Subculture/beer.svg",
+      "svg": "/SVG/Food/beer.svg",
       "eps": "/EPS/Subculture/beer.eps",
       "png": {
         "32": "/PNG/Subculture/beer/beer-32.png",
@@ -6181,7 +6170,7 @@
     "id": 1198,
     "name": "beeswax",
     "platform": "Windows 8/Metro",
-    "category": "Shoe Polish",
+    "category": "Clothing",
     "created": 1349176092,
     "tags": [
       "shoes",
@@ -6193,7 +6182,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Shoe_Polish/beeswax.svg",
+      "svg": "/SVG/Clothing/beeswax.svg",
       "svg.simplified": "/SVG_for_Font/beeswax.svg",
       "eps": "/EPS/Shoe_Polish/beeswax.eps",
       "png": {
@@ -6211,7 +6200,7 @@
     "id": 1199,
     "name": "beeswax2",
     "platform": "Windows 8/Metro",
-    "category": "Shoe Polish",
+    "category": "Clothing",
     "created": 1349176092,
     "tags": [
       "shoes",
@@ -6223,7 +6212,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Shoe_Polish/beeswax2.svg",
+      "svg": "/SVG/Clothing/beeswax2.svg",
       "svg.simplified": "/SVG_for_Font/beeswax2.svg",
       "eps": "/EPS/Shoe_Polish/beeswax2.eps",
       "png": {
@@ -6403,7 +6392,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/bell_service.svg",
       "svg.simplified": "/SVG_for_Font/bell_service.svg",
       "eps": "/EPS/Accommodation/bell_service.eps",
       "png": {
@@ -6421,7 +6409,7 @@
     "id": 799,
     "name": "berry",
     "platform": "Windows 8/Metro",
-    "category": "Plants Trees",
+    "category": "Nature",
     "created": 1335513247,
     "tags": [
       "tree",
@@ -6432,7 +6420,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Plants_Trees/berry.svg",
+      "svg": "/SVG/Nature/berry.svg",
       "svg.simplified": "/SVG_for_Font/berry.svg",
       "eps": "/EPS/Plants_Trees/berry.eps",
       "png": {
@@ -6609,7 +6597,7 @@
     "id": 256,
     "name": "bicycle",
     "platform": "Windows 8/Metro",
-    "category": "Subculture",
+    "category": "Transport",
     "created": 1321553630,
     "tags": [
       "play",
@@ -6624,7 +6612,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Subculture/bicycle.svg",
+      "svg": "/SVG/Transport/bicycle.svg",
       "svg.simplified": "/SVG_for_Font/bicycle.svg",
       "eps": "/EPS/Subculture/bicycle.eps",
       "png": {
@@ -6642,7 +6630,7 @@
     "id": 831,
     "name": "bill",
     "platform": "Windows 8/Metro",
-    "category": "Accounting",
+    "category": "Ecommerce",
     "created": 1336724597,
     "tags": [
       "cash",
@@ -6664,7 +6652,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accounting/bill.svg",
+      "svg": "/SVG/Ecommerce/bill.svg",
       "svg.simplified": "/SVG_for_Font/bill.svg",
       "eps": "/EPS/Accounting/bill.eps",
       "png": {
@@ -6682,7 +6670,7 @@
     "id": 431,
     "name": "billing",
     "platform": "Windows 8/Metro",
-    "category": "Business",
+    "category": "Finance",
     "created": 1324639534,
     "tags": [
       "coins",
@@ -6690,7 +6678,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Business/billing.svg",
+      "svg": "/SVG/Finance/billing.svg",
       "svg.simplified": "/SVG_for_Font/billing.svg",
       "eps": "/EPS/Business/billing.eps",
       "png": {
@@ -6918,7 +6906,7 @@
     "id": 940,
     "name": "bird",
     "platform": "Windows 8/Metro",
-    "category": "Animals",
+    "category": "Nature",
     "created": 1340091902,
     "tags": [
       "home",
@@ -6933,7 +6921,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/bird.svg",
+      "svg": "/SVG/Nature/bird.svg",
       "svg.simplified": "/SVG_for_Font/bird.svg",
       "eps": "/EPS/Animals/bird.eps",
       "png": {
@@ -7075,7 +7063,7 @@
     "id": 3548,
     "name": "bitcoin",
     "platform": "Windows 8/Metro",
-    "category": "Ecommerce",
+    "category": "Finance",
     "created": 1394545829,
     "tags": [
       "design",
@@ -7129,7 +7117,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Ecommerce/bitcoin.svg",
+      "svg": "/SVG/Finance/bitcoin.svg",
       "eps": "/EPS/Ecommerce/bitcoin.eps",
       "png": {
         "128": "/PNG/Ecommerce/bitcoin/bitcoin-128.png",
@@ -7283,7 +7271,7 @@
     "id": 1445,
     "name": "blu_ray",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1357817801,
     "tags": [
       "data",
@@ -7297,7 +7285,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/blu_ray.svg",
+      "svg": "/SVG/Files/blu_ray.svg",
       "svg.simplified": "/SVG_for_Font/blu_ray.svg",
       "eps": "/EPS/File_Types/blu_ray.eps",
       "png": {
@@ -7324,7 +7312,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sewing/bobbin.svg",
       "svg.simplified": "/SVG_for_Font/bobbin.svg",
       "eps": "/EPS/Sewing/bobbin.eps",
       "png": {
@@ -7396,7 +7383,7 @@
     "id": 453,
     "name": "book",
     "platform": "Windows 8/Metro",
-    "category": "Printed Matter",
+    "category": "Printing",
     "created": 1325168663,
     "tags": [
       "book",
@@ -7405,7 +7392,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Printed_Matter/book.svg",
+      "svg": "/SVG/Printing/book.svg",
       "svg.simplified": "/SVG_for_Font/book.svg",
       "eps": "/EPS/Printed_Matter/book.eps",
       "png": {
@@ -7458,7 +7445,7 @@
     "id": 457,
     "name": "books",
     "platform": "Windows 8/Metro",
-    "category": "Printed Matter",
+    "category": "Printing",
     "created": 1325168663,
     "tags": [
       "library",
@@ -7468,7 +7455,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Printed_Matter/books.svg",
+      "svg": "/SVG/Printing/books.svg",
       "svg.simplified": "/SVG_for_Font/books.svg",
       "eps": "/EPS/Printed_Matter/books.eps",
       "png": {
@@ -7486,7 +7473,7 @@
     "id": 456,
     "name": "book_stack",
     "platform": "Windows 8/Metro",
-    "category": "Printed Matter",
+    "category": "Printing",
     "created": 1325168663,
     "tags": [
       "math",
@@ -7501,7 +7488,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Printed_Matter/book_stack.svg",
+      "svg": "/SVG/Printing/book_stack.svg",
       "svg.simplified": "/SVG_for_Font/book_stack.svg",
       "eps": "/EPS/Printed_Matter/book_stack.eps",
       "png": {
@@ -7662,7 +7649,7 @@
     "id": 1495,
     "name": "bottom",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1356437137,
     "tags": [
       "genres",
@@ -7689,7 +7676,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/bottom.svg",
+      "svg": "/SVG/Cinema/bottom.svg",
       "svg.simplified": "/SVG_for_Font/bottom.svg",
       "eps": "/EPS/Movie_Genres/bottom.eps",
       "png": {
@@ -7923,7 +7910,7 @@
     "id": 2069,
     "name": "brain",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1372454584,
     "tags": [
       "medicine",
@@ -7933,7 +7920,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/brain.svg",
+      "svg": "/SVG/Healthcare/brain.svg",
       "svg.simplified": "/SVG_for_Font/brain.svg",
       "eps": "/EPS/Medicine/brain.eps",
       "png": {
@@ -8024,7 +8011,7 @@
     "id": 1494,
     "name": "breast",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1356437137,
     "tags": [
       "bin",
@@ -8058,7 +8045,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/breast.svg",
+      "svg": "/SVG/Cinema/breast.svg",
       "svg.simplified": "/SVG_for_Font/breast.svg",
       "eps": "/EPS/Movie_Genres/breast.eps",
       "png": {
@@ -8223,7 +8210,7 @@
     "id": 2578,
     "name": "broom",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1390342413,
     "tags": [
       "print",
@@ -8269,7 +8256,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/broom.svg",
+      "svg": "/SVG/Household/broom.svg",
       "svg.simplified": "/SVG_for_Font/broom.svg",
       "eps": "/EPS/Accommodation/broom.eps",
       "png": {
@@ -8316,7 +8303,7 @@
     "id": 416,
     "name": "bug",
     "platform": "Windows 8/Metro",
-    "category": "Debug",
+    "category": "Programming",
     "created": 1324466649,
     "tags": [
       "virus",
@@ -8325,7 +8312,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Debug/bug.svg",
+      "svg": "/SVG/Programming/bug.svg",
       "svg.simplified": "/SVG_for_Font/bug.svg",
       "eps": "/EPS/Debug/bug.eps",
       "png": {
@@ -8410,7 +8397,7 @@
     "id": 588,
     "name": "bunch_flowers",
     "platform": "Windows 8/Metro",
-    "category": "Theatre Set",
+    "category": "Cinema",
     "created": 1329818067,
     "tags": [
       "music",
@@ -8434,7 +8421,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Theatre_Set/bunch_flowers.svg",
+      "svg": "/SVG/Cinema/bunch_flowers.svg",
       "svg.simplified": "/SVG_for_Font/bunch_flowers.svg",
       "eps": "/EPS/Theatre_Set/bunch_flowers.eps",
       "png": {
@@ -8486,14 +8473,14 @@
     "id": 3480,
     "name": "bungalow",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1393523484,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/bungalow.svg",
+      "svg": "/SVG/Household/bungalow.svg",
       "svg.simplified": "/SVG_for_Font/bungalow.svg",
       "eps": "/EPS/Accommodation/bungalow.eps",
       "png": {
@@ -8718,7 +8705,7 @@
     "id": 1330,
     "name": "button",
     "platform": "Windows 8/Metro",
-    "category": "Sewing",
+    "category": "Clothing",
     "created": 1354015028,
     "tags": [
       "textile",
@@ -8733,7 +8720,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sewing/button.svg",
+      "svg": "/SVG/Clothing/button.svg",
       "svg.simplified": "/SVG_for_Font/button.svg",
       "eps": "/EPS/Sewing/button.eps",
       "png": {
@@ -8926,7 +8913,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Ecommerce/CAD.svg",
       "svg.simplified": "/SVG_for_Font/CAD.svg",
       "eps": "/EPS/Ecommerce/CAD.eps",
       "png": {
@@ -9342,7 +9328,7 @@
     "id": 2511,
     "name": "campfire",
     "platform": "Windows 8/Metro",
-    "category": "Camping Equipment",
+    "category": "Camping",
     "created": 1390342413,
     "tags": [
       "mark",
@@ -9388,7 +9374,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Camping_Equipment/campfire.svg",
+      "svg": "/SVG/Camping/campfire.svg",
       "svg.simplified": "/SVG_for_Font/campfire.svg",
       "eps": "/EPS/Camping_Equipment/campfire.eps",
       "png": {
@@ -9406,7 +9392,7 @@
     "id": 2424,
     "name": "camping_gas_burner",
     "platform": "Windows 8/Metro",
-    "category": "Camping Equipment",
+    "category": "Camping",
     "created": 1390342413,
     "tags": [
       "design",
@@ -9452,7 +9438,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Camping_Equipment/camping_gas_burner.svg",
+      "svg": "/SVG/Camping/camping_gas_burner.svg",
       "svg.simplified": "/SVG_for_Font/camping_gas_burner.svg",
       "eps": "/EPS/Camping_Equipment/camping_gas_burner.eps",
       "png": {
@@ -9470,7 +9456,7 @@
     "id": 2573,
     "name": "camping_tent",
     "platform": "Windows 8/Metro",
-    "category": "Camping Equipment",
+    "category": "Camping",
     "created": 1390342413,
     "tags": [
       "copy",
@@ -9511,7 +9497,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Camping_Equipment/camping_tent.svg",
+      "svg": "/SVG/Camping/camping_tent.svg",
       "svg.simplified": "/SVG_for_Font/camping_tent.svg",
       "eps": "/EPS/Camping_Equipment/camping_tent.eps",
       "png": {
@@ -9578,7 +9564,7 @@
     "id": 3550,
     "name": "cancel_file",
     "platform": "Windows 8/Metro",
-    "category": "Add",
+    "category": "Files",
     "created": 1394545829,
     "tags": [
       "software",
@@ -9634,7 +9620,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Add/cancel_file.svg",
+      "svg": "/SVG/Files/cancel_file.svg",
       "eps": "/EPS/Add/cancel_file.eps",
       "png": {
         "512": "/PNG/Add/cancel_file/cancel_file-512.png",
@@ -10143,7 +10129,7 @@
     "id": 204,
     "name": "card_inserting",
     "platform": "Windows 8/Metro",
-    "category": "Payment Methods",
+    "category": "Finance",
     "created": 1319154613,
     "tags": [
       "atm",
@@ -10159,7 +10145,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Payment_Methods/card_inserting.svg",
+      "svg": "/SVG/Finance/card_inserting.svg",
       "svg.simplified": "/SVG_for_Font/card_inserting.svg",
       "eps": "/EPS/Payment_Methods/card_inserting.eps",
       "png": {
@@ -10177,7 +10163,7 @@
     "id": 214,
     "name": "card_in_use",
     "platform": "Windows 8/Metro",
-    "category": "Payment Methods",
+    "category": "Finance",
     "created": 1319457557,
     "tags": [
       "bank",
@@ -10194,7 +10180,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Payment_Methods/card_in_use.svg",
+      "svg": "/SVG/Finance/card_in_use.svg",
       "svg.simplified": "/SVG_for_Font/card_in_use.svg",
       "eps": "/EPS/Payment_Methods/card_in_use.eps",
       "png": {
@@ -10353,7 +10339,7 @@
     "id": 211,
     "name": "cash_receiving",
     "platform": "Windows 8/Metro",
-    "category": "Payment Methods",
+    "category": "Finance",
     "created": 1319457557,
     "tags": [
       "bank",
@@ -10373,7 +10359,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Payment_Methods/cash_receiving.svg",
+      "svg": "/SVG/Finance/cash_receiving.svg",
       "svg.simplified": "/SVG_for_Font/cash_receiving.svg",
       "eps": "/EPS/Payment_Methods/cash_receiving.eps",
       "png": {
@@ -10461,7 +10447,7 @@
     "id": 822,
     "name": "cat",
     "platform": "Windows 8/Metro",
-    "category": "Animals",
+    "category": "Nature",
     "created": 1336168619,
     "tags": [
       "cat",
@@ -10470,7 +10456,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/cat.svg",
+      "svg": "/SVG/Nature/cat.svg",
       "svg.simplified": "/SVG_for_Font/cat.svg",
       "eps": "/EPS/Tracks_Footprints/cat.eps",
       "png": {
@@ -10597,7 +10583,7 @@
     "id": 1444,
     "name": "cd",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1357817801,
     "tags": [
       "film",
@@ -10624,7 +10610,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/cd.svg",
+      "svg": "/SVG/Files/cd.svg",
       "svg.simplified": "/SVG_for_Font/cd.svg",
       "eps": "/EPS/File_Types/cd.eps",
       "png": {
@@ -10786,7 +10772,7 @@
     "id": 2643,
     "name": "centre_of_gravity",
     "platform": "Windows 8/Metro",
-    "category": "Ecommerce",
+    "category": "Sports",
     "created": 1390342413,
     "tags": [
       "cross",
@@ -10837,7 +10823,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Ecommerce/centre_of_gravity.svg",
+      "svg": "/SVG/Sports/centre_of_gravity.svg",
       "svg.simplified": "/SVG_for_Font/centre_of_gravity.svg",
       "eps": "/EPS/Ecommerce/centre_of_gravity.eps",
       "png": {
@@ -11182,7 +11168,7 @@
     "id": 830,
     "name": "check",
     "platform": "Windows 8/Metro",
-    "category": "Accounting",
+    "category": "Ecommerce",
     "created": 1336724597,
     "tags": [
       "cash",
@@ -11201,7 +11187,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accounting/check.svg",
+      "svg": "/SVG/Ecommerce/check.svg",
       "svg.simplified": "/SVG_for_Font/check.svg",
       "eps": "/EPS/Accounting/check.eps",
       "png": {
@@ -11410,7 +11396,7 @@
     "id": 213,
     "name": "check_book",
     "platform": "Windows 8/Metro",
-    "category": "Payment Methods",
+    "category": "Finance",
     "created": 1319457557,
     "tags": [
       "bank",
@@ -11430,7 +11416,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Payment_Methods/check_book.svg",
+      "svg": "/SVG/Finance/check_book.svg",
       "svg.simplified": "/SVG_for_Font/check_book.svg",
       "eps": "/EPS/Payment_Methods/check_book.eps",
       "png": {
@@ -11550,7 +11536,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Ecommerce/CHF.svg",
       "svg.simplified": "/SVG_for_Font/CHF.svg",
       "eps": "/EPS/Ecommerce/CHF.eps",
       "png": {
@@ -11623,14 +11608,14 @@
     "id": 3587,
     "name": "chicken",
     "platform": "Windows 8/Metro",
-    "category": "Animals",
+    "category": "Nature",
     "created": 1394776288,
     "tags": [
       "engineering"
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/chicken.svg",
+      "svg": "/SVG/Nature/chicken.svg",
       "svg.simplified": "/SVG_for_Font/chicken.svg",
       "eps": "/EPS/Animals/chicken.eps",
       "png": {
@@ -12351,7 +12336,7 @@
     "id": 1531,
     "name": "citrus",
     "platform": "Windows 8/Metro",
-    "category": "Plants Trees",
+    "category": "Nature",
     "created": 1359029883,
     "tags": [
       "food",
@@ -12374,7 +12359,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Plants_Trees/citrus.svg",
+      "svg": "/SVG/Nature/citrus.svg",
       "svg.simplified": "/SVG_for_Font/citrus.svg",
       "eps": "/EPS/Plants_Trees/citrus.eps",
       "png": {
@@ -12805,7 +12790,7 @@
     "id": 1781,
     "name": "clinic",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1366652184,
     "tags": [
       "hospital",
@@ -12822,7 +12807,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/clinic.svg",
+      "svg": "/SVG/Healthcare/clinic.svg",
       "svg.simplified": "/SVG_for_Font/clinic.svg",
       "eps": "/EPS/Medicine/clinic.eps",
       "png": {
@@ -12865,7 +12850,7 @@
     "id": 1618,
     "name": "cloakroom",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1384943270,
     "tags": [
       "textile",
@@ -12909,7 +12894,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/cloakroom.svg",
+      "svg": "/SVG/Household/cloakroom.svg",
       "svg.simplified": "/SVG_for_Font/cloakroom.svg",
       "eps": "/EPS/Accommodation/cloakroom.eps",
       "png": {
@@ -12971,7 +12956,7 @@
     "id": 3982,
     "name": "clone",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1397832689,
     "tags": [
       "communication",
@@ -13000,7 +12985,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/clone.svg",
+      "svg": "/SVG/Healthcare/clone.svg",
       "png": {
         "512": "/PNG/Medicine/clone/clone-512.png",
         "26": "/PNG/Medicine/clone/clone-26.png",
@@ -13342,7 +13327,7 @@
     "id": 3026,
     "name": "clown_fish",
     "platform": "Windows 8/Metro",
-    "category": "Sea",
+    "category": "Nature",
     "created": 1390565309,
     "tags": [
       "animal",
@@ -13368,7 +13353,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sea/clown_fish.svg",
+      "svg": "/SVG/Nature/clown_fish.svg",
       "svg.simplified": "/SVG_for_Font/clown_fish.svg",
       "eps": "/EPS/Sea/clown_fish.eps",
       "png": {
@@ -13386,7 +13371,7 @@
     "id": 3762,
     "name": "cls",
     "platform": "Windows 8/Metro",
-    "category": "Programming File Types",
+    "category": "Files",
     "created": 1396551100,
     "tags": [
       "paper",
@@ -13420,7 +13405,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Programming_File_Types/cls.svg",
+      "svg": "/SVG/Files/cls.svg",
       "eps": "/EPS/Programming_File_Types/cls.eps",
       "png": {
         "26": "/PNG/Programming_File_Types/cls/cls-26.png",
@@ -13764,7 +13749,7 @@
     "id": 203,
     "name": "coins",
     "platform": "Windows 8/Metro",
-    "category": "Payment Methods",
+    "category": "Finance",
     "created": 1319154613,
     "tags": [
       "payment",
@@ -13780,7 +13765,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Payment_Methods/coins.svg",
+      "svg": "/SVG/Finance/coins.svg",
       "svg.simplified": "/SVG_for_Font/coins.svg",
       "eps": "/EPS/Payment_Methods/coins.eps",
       "png": {
@@ -14090,7 +14075,7 @@
     "id": 597,
     "name": "comedy",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1330034484,
     "tags": [
       "show",
@@ -14103,7 +14088,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/comedy.svg",
+      "svg": "/SVG/Cinema/comedy.svg",
       "svg.simplified": "/SVG_for_Font/comedy.svg",
       "eps": "/EPS/Movie_Genres/comedy.eps",
       "png": {
@@ -14121,7 +14106,7 @@
     "id": 599,
     "name": "comedy2",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1330034484,
     "tags": [
       "show",
@@ -14136,7 +14121,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/comedy2.svg",
+      "svg": "/SVG/Cinema/comedy2.svg",
       "svg.simplified": "/SVG_for_Font/comedy2.svg",
       "eps": "/EPS/Movie_Genres/comedy2.eps",
       "png": {
@@ -14154,7 +14139,7 @@
     "id": 216,
     "name": "comedy_mask",
     "platform": "Windows 8/Metro",
-    "category": "Theatre Set",
+    "category": "Cinema",
     "created": 1319548792,
     "tags": [
       "watch",
@@ -14174,7 +14159,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Theatre_Set/comedy_mask.svg",
+      "svg": "/SVG/Cinema/comedy_mask.svg",
       "svg.simplified": "/SVG_for_Font/comedy_mask.svg",
       "eps": "/EPS/Theatre_Set/comedy_mask.eps",
       "png": {
@@ -14520,7 +14505,7 @@
     "id": 825,
     "name": "coniferous_tree",
     "platform": "Windows 8/Metro",
-    "category": "Plants Trees",
+    "category": "Nature",
     "created": 1336654847,
     "tags": [
       "park",
@@ -14536,7 +14521,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Plants_Trees/coniferous_tree.svg",
+      "svg": "/SVG/Nature/coniferous_tree.svg",
       "svg.simplified": "/SVG_for_Font/coniferous_tree.svg",
       "eps": "/EPS/Plants_Trees/coniferous_tree.eps",
       "png": {
@@ -14583,7 +14568,7 @@
     "id": 2145,
     "name": "connected_no_data",
     "platform": "Windows 8/Metro",
-    "category": "Network Status",
+    "category": "It Infrastructure",
     "created": 1381836125,
     "tags": [
       "network",
@@ -14594,7 +14579,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Network_Status/connected_no_data.svg",
+      "svg": "/SVG/It_Infrastructure/connected_no_data.svg",
       "eps": "/EPS/Network_Status/connected_no_data.eps",
       "png": {
         "32": "/PNG/Network_Status/connected_no_data/connected_no_data-32.png",
@@ -14611,7 +14596,7 @@
     "id": 418,
     "name": "console",
     "platform": "Windows 8/Metro",
-    "category": "Debug",
+    "category": "Programming",
     "created": 1324466649,
     "tags": [
       "app",
@@ -14621,7 +14606,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Debug/console.svg",
+      "svg": "/SVG/Programming/console.svg",
       "svg.simplified": "/SVG_for_Font/console.svg",
       "eps": "/EPS/Debug/console.eps",
       "png": {
@@ -14668,7 +14653,7 @@
     "id": 528,
     "name": "contacts",
     "platform": "Windows 8/Metro",
-    "category": "Website Sections",
+    "category": "Very Basic",
     "created": 1327398564,
     "tags": [
       "contacts",
@@ -14677,7 +14662,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Website_Sections/contacts.svg",
+      "svg": "/SVG/Very_Basic/contacts.svg",
       "svg.simplified": "/SVG_for_Font/contacts.svg",
       "eps": "/EPS/Website_Sections/contacts.eps",
       "png": {
@@ -14695,7 +14680,7 @@
     "id": 530,
     "name": "contacts2",
     "platform": "Windows 8/Metro",
-    "category": "Website Sections",
+    "category": "Very Basic",
     "created": 1327398564,
     "tags": [
       "contacts",
@@ -14704,7 +14689,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Website_Sections/contacts2.svg",
+      "svg": "/SVG/Very_Basic/contacts2.svg",
       "svg.simplified": "/SVG_for_Font/contacts2.svg",
       "eps": "/EPS/Website_Sections/contacts2.eps",
       "png": {
@@ -14952,14 +14937,14 @@
     "id": 684,
     "name": "cool",
     "platform": "Windows 8/Metro",
-    "category": "Emoticons",
+    "category": "Messaging",
     "created": 1332146642,
     "tags": [
       "emoticons"
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Emoticons/cool.svg",
+      "svg": "/SVG/Messaging/cool.svg",
       "svg.simplified": "/SVG_for_Font/cool.svg",
       "eps": "/EPS/Emoticons/cool.eps",
       "png": {
@@ -15009,7 +14994,7 @@
     "id": 722,
     "name": "copy_link",
     "platform": "Windows 8/Metro",
-    "category": "Debug",
+    "category": "Programming",
     "created": 1333353821,
     "tags": [
       "copy",
@@ -15020,7 +15005,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Debug/copy_link.svg",
+      "svg": "/SVG/Programming/copy_link.svg",
       "svg.simplified": "/SVG_for_Font/copy_link.svg",
       "eps": "/EPS/Debug/copy_link.eps",
       "png": {
@@ -15038,7 +15023,7 @@
     "id": 3036,
     "name": "coral",
     "platform": "Windows 8/Metro",
-    "category": "Sea",
+    "category": "Nature",
     "created": 1390823452,
     "tags": [
       "design",
@@ -15083,7 +15068,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sea/coral.svg",
+      "svg": "/SVG/Nature/coral.svg",
       "svg.simplified": "/SVG_for_Font/coral.svg",
       "eps": "/EPS/Sea/coral.eps",
       "png": {
@@ -15167,7 +15152,7 @@
     "id": 1290,
     "name": "cottage",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1352808353,
     "tags": [
       "home",
@@ -15184,7 +15169,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/cottage.svg",
+      "svg": "/SVG/Household/cottage.svg",
       "svg.simplified": "/SVG_for_Font/cottage.svg",
       "eps": "/EPS/Accommodation/cottage.eps",
       "png": {
@@ -15266,7 +15251,7 @@
     "id": 3731,
     "name": "counselor",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1396036303,
     "tags": [
       "people",
@@ -15296,7 +15281,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/counselor.svg",
+      "svg": "/SVG/Healthcare/counselor.svg",
       "eps": "/EPS/Medicine/counselor.eps",
       "png": {
         "128": "/PNG/Medicine/counselor/counselor-128.png",
@@ -15380,7 +15365,7 @@
     "id": 1287,
     "name": "cow",
     "platform": "Windows 8/Metro",
-    "category": "Animals",
+    "category": "Nature",
     "created": 1352467474,
     "tags": [
       "pets",
@@ -15392,7 +15377,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/cow.svg",
+      "svg": "/SVG/Nature/cow.svg",
       "svg.simplified": "/SVG_for_Font/cow.svg",
       "eps": "/EPS/Animals/cow.eps",
       "png": {
@@ -15410,14 +15395,14 @@
     "id": 3850,
     "name": "cpp",
     "platform": "Windows 8/Metro",
-    "category": "Programming File Types",
+    "category": "Files",
     "created": 1396651933,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Programming_File_Types/cpp.svg",
+      "svg": "/SVG/Files/cpp.svg",
       "eps": "/EPS/Programming_File_Types/cpp.eps",
       "png": {
         "48": "/PNG/Programming_File_Types/cpp/cpp-48.png",
@@ -15434,7 +15419,7 @@
     "id": 43,
     "name": "crab",
     "platform": "Windows 8/Metro",
-    "category": "Animals",
+    "category": "Nature",
     "created": 1372934468,
     "tags": [
       "crab",
@@ -15444,7 +15429,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/crab.svg",
+      "svg": "/SVG/Nature/crab.svg",
       "svg.simplified": "/SVG_for_Font/crab.svg",
       "eps": "/EPS/Animals/crab.eps",
       "png": {
@@ -15462,7 +15447,7 @@
     "id": 2619,
     "name": "creek",
     "platform": "Windows 8/Metro",
-    "category": "Camping Equipment",
+    "category": "Camping",
     "created": 1390342413,
     "tags": [
       "number",
@@ -15509,7 +15494,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Camping_Equipment/creek.svg",
+      "svg": "/SVG/Camping/creek.svg",
       "svg.simplified": "/SVG_for_Font/creek.svg",
       "eps": "/EPS/Camping_Equipment/creek.eps",
       "png": {
@@ -15553,7 +15538,7 @@
     "id": 614,
     "name": "crime",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1330073859,
     "tags": [
       "genres",
@@ -15563,7 +15548,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/crime.svg",
+      "svg": "/SVG/Cinema/crime.svg",
       "svg.simplified": "/SVG_for_Font/crime.svg",
       "eps": "/EPS/Movie_Genres/crime.eps",
       "png": {
@@ -15713,7 +15698,7 @@
     "id": 3065,
     "name": "crutch",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1391176261,
     "tags": [
       "medicine",
@@ -15760,7 +15745,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/crutch.svg",
+      "svg": "/SVG/Healthcare/crutch.svg",
       "svg.simplified": "/SVG_for_Font/crutch.svg",
       "eps": "/EPS/Medicine/crutch.eps",
       "png": {
@@ -15778,7 +15763,7 @@
     "id": 692,
     "name": "crying",
     "platform": "Windows 8/Metro",
-    "category": "Emoticons",
+    "category": "Messaging",
     "created": 1332316180,
     "tags": [
       "tears",
@@ -15788,7 +15773,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Emoticons/crying.svg",
+      "svg": "/SVG/Messaging/crying.svg",
       "svg.simplified": "/SVG_for_Font/crying.svg",
       "eps": "/EPS/Emoticons/crying.eps",
       "png": {
@@ -15904,7 +15889,7 @@
     "id": 3852,
     "name": "cs",
     "platform": "Windows 8/Metro",
-    "category": "Programming File Types",
+    "category": "Files",
     "created": 1396651933,
     "tags": [
       "net",
@@ -15914,7 +15899,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Programming_File_Types/cs.svg",
+      "svg": "/SVG/Files/cs.svg",
       "eps": "/EPS/Programming_File_Types/cs.eps",
       "png": {
         "48": "/PNG/Programming_File_Types/cs/cs-48.png",
@@ -15931,7 +15916,7 @@
     "id": 1044,
     "name": "css",
     "platform": "Windows 8/Metro",
-    "category": "Programming File Types",
+    "category": "Files",
     "created": 1343297854,
     "tags": [
       "logo",
@@ -15952,7 +15937,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Programming_File_Types/css.svg",
+      "svg": "/SVG/Files/css.svg",
       "svg.simplified": "/SVG_for_Font/css.svg",
       "eps": "/EPS/Programming_File_Types/css.eps",
       "png": {
@@ -15970,14 +15955,14 @@
     "id": 2576,
     "name": "csv",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/csv.svg",
+      "svg": "/SVG/Files/csv.svg",
       "svg.simplified": "/SVG_for_Font/csv.svg",
       "eps": "/EPS/File_Types/csv.eps",
       "png": {
@@ -16027,7 +16012,7 @@
     "id": 2119,
     "name": "currency",
     "platform": "Windows 8/Metro",
-    "category": "Ecommerce",
+    "category": "Finance",
     "created": 1382090318,
     "tags": [
       "photos",
@@ -16058,7 +16043,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Ecommerce/currency.svg",
+      "svg": "/SVG/Finance/currency.svg",
       "eps": "/EPS/Ecommerce/currency.eps",
       "png": {
         "64": "/PNG/Ecommerce/currency/currency-64.png",
@@ -16462,7 +16447,7 @@
     "id": 2139,
     "name": "data_in_both_directions",
     "platform": "Windows 8/Metro",
-    "category": "Network Status",
+    "category": "It Infrastructure",
     "created": 1381836125,
     "tags": [
       "document",
@@ -16474,7 +16459,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Network_Status/data_in_both_directions.svg",
+      "svg": "/SVG/It_Infrastructure/data_in_both_directions.svg",
       "svg.simplified": "/SVG_for_Font/data_in_both_directions.svg",
       "eps": "/EPS/Network_Status/data_in_both_directions.eps",
       "png": {
@@ -16841,7 +16826,7 @@
     "id": 826,
     "name": "deciduous_tree",
     "platform": "Windows 8/Metro",
-    "category": "Plants Trees",
+    "category": "Nature",
     "created": 1336654847,
     "tags": [
       "park",
@@ -16856,7 +16841,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Plants_Trees/deciduous_tree.svg",
+      "svg": "/SVG/Nature/deciduous_tree.svg",
       "svg.simplified": "/SVG_for_Font/deciduous_tree.svg",
       "eps": "/EPS/Plants_Trees/deciduous_tree.eps",
       "png": {
@@ -17098,7 +17083,7 @@
     "id": 3551,
     "name": "delete_file",
     "platform": "Windows 8/Metro",
-    "category": "Add",
+    "category": "Files",
     "created": 1394545829,
     "tags": [
       "vector",
@@ -17143,7 +17128,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Add/delete_file.svg",
+      "svg": "/SVG/Files/delete_file.svg",
       "eps": "/EPS/Add/delete_file.eps",
       "png": {
         "64": "/PNG/Add/delete_file/delete_file-64.png",
@@ -17160,7 +17145,7 @@
     "id": 480,
     "name": "delete_link",
     "platform": "Windows 8/Metro",
-    "category": "Add",
+    "category": "Files",
     "created": 1326451960,
     "tags": [
       "delete",
@@ -17170,7 +17155,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Add/delete_link.svg",
+      "svg": "/SVG/Files/delete_link.svg",
       "svg.simplified": "/SVG_for_Font/delete_link.svg",
       "eps": "/EPS/Add/delete_link.eps",
       "png": {
@@ -17384,7 +17369,7 @@
     "id": 740,
     "name": "delete_ticket",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1333618099,
     "tags": [
       "pass",
@@ -17394,7 +17379,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/delete_ticket.svg",
+      "svg": "/SVG/Cinema/delete_ticket.svg",
       "svg.simplified": "/SVG_for_Font/delete_ticket.svg",
       "eps": "/EPS/Data/delete_ticket.eps",
       "png": {
@@ -17412,7 +17397,7 @@
     "id": 486,
     "name": "delivery",
     "platform": "Windows 8/Metro",
-    "category": "Business",
+    "category": "Ecommerce",
     "created": 1326711577,
     "tags": [
       "delivery",
@@ -17422,7 +17407,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Business/delivery.svg",
+      "svg": "/SVG/Ecommerce/delivery.svg",
       "svg.simplified": "/SVG_for_Font/delivery.svg",
       "eps": "/EPS/Business/delivery.eps",
       "png": {
@@ -17561,7 +17546,7 @@
     "id": 621,
     "name": "detective",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1330421997,
     "tags": [
       "group",
@@ -17572,7 +17557,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/detective.svg",
+      "svg": "/SVG/Cinema/detective.svg",
       "svg.simplified": "/SVG_for_Font/detective.svg",
       "eps": "/EPS/Movie_Genres/detective.eps",
       "png": {
@@ -17766,7 +17751,7 @@
     "id": 1631,
     "name": "dining_room",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1384772336,
     "tags": [
       "food",
@@ -17793,7 +17778,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/dining_room.svg",
+      "svg": "/SVG/Household/dining_room.svg",
       "svg.simplified": "/SVG_for_Font/dining_room.svg",
       "eps": "/EPS/Accommodation/dining_room.eps",
       "png": {
@@ -18130,7 +18115,7 @@
     "id": 327,
     "name": "dll",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1322740256,
     "tags": [
       "software",
@@ -18145,7 +18130,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/dll.svg",
+      "svg": "/SVG/Files/dll.svg",
       "svg.simplified": "/SVG_for_Font/dll.svg",
       "eps": "/EPS/File_Types/dll.eps",
       "png": {
@@ -18163,7 +18148,7 @@
     "id": 317,
     "name": "dmg",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1322569152,
     "tags": [
       "file types",
@@ -18180,7 +18165,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/dmg.svg",
+      "svg": "/SVG/Files/dmg.svg",
       "svg.simplified": "/SVG_for_Font/dmg.svg",
       "eps": "/EPS/File_Types/dmg.eps",
       "png": {
@@ -18296,7 +18281,7 @@
     "id": 1323,
     "name": "doctor_suitecase",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1353671680,
     "tags": [
       "medicine",
@@ -18318,7 +18303,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/doctor_suitecase.svg",
+      "svg": "/SVG/Healthcare/doctor_suitecase.svg",
       "svg.simplified": "/SVG_for_Font/doctor_suitecase.svg",
       "eps": "/EPS/Medicine/doctor_suitecase.eps",
       "png": {
@@ -18368,7 +18353,7 @@
     "id": 623,
     "name": "documentary",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1330421997,
     "tags": [
       "files",
@@ -18377,7 +18362,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/documentary.svg",
+      "svg": "/SVG/Cinema/documentary.svg",
       "svg.simplified": "/SVG_for_Font/documentary.svg",
       "eps": "/EPS/Movie_Genres/documentary.eps",
       "png": {
@@ -18420,7 +18405,7 @@
     "id": 820,
     "name": "dog",
     "platform": "Windows 8/Metro",
-    "category": "Animals",
+    "category": "Nature",
     "created": 1336168619,
     "tags": [
       "vector",
@@ -18475,7 +18460,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/dog.svg",
+      "svg": "/SVG/Nature/dog.svg",
       "svg.simplified": "/SVG_for_Font/dog.svg",
       "eps": "/EPS/Tracks_Footprints/dog.eps",
       "png": {
@@ -18493,7 +18478,7 @@
     "id": 3972,
     "name": "dog_bone",
     "platform": "Windows 8/Metro",
-    "category": "Animals",
+    "category": "Nature",
     "created": 1397760709,
     "tags": [
       "skeleton",
@@ -18509,7 +18494,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/dog_bone.svg",
+      "svg": "/SVG/Nature/dog_bone.svg",
       "png": {
         "512": "/PNG/Animals/dog_bone/dog_bone-512.png",
         "128": "/PNG/Animals/dog_bone/dog_bone-128.png",
@@ -18525,7 +18510,7 @@
     "id": 3970,
     "name": "dog_bowl",
     "platform": "Windows 8/Metro",
-    "category": "Animals",
+    "category": "Nature",
     "created": 1397760709,
     "tags": [
       "dog",
@@ -18550,7 +18535,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/dog_bowl.svg",
+      "svg": "/SVG/Nature/dog_bowl.svg",
       "png": {
         "48": "/PNG/Animals/dog_bowl/dog_bowl-48.png",
         "32": "/PNG/Animals/dog_bowl/dog_bowl-32.png",
@@ -18566,7 +18551,7 @@
     "id": 3968,
     "name": "dog_house",
     "platform": "Windows 8/Metro",
-    "category": "Animals",
+    "category": "Nature",
     "created": 1397760709,
     "tags": [
       "home",
@@ -18591,7 +18576,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/dog_house.svg",
+      "svg": "/SVG/Nature/dog_house.svg",
       "png": {
         "26": "/PNG/Animals/dog_house/dog_house-26.png",
         "48": "/PNG/Animals/dog_house/dog_house-48.png",
@@ -18607,7 +18592,7 @@
     "id": 3974,
     "name": "dog_leash",
     "platform": "Windows 8/Metro",
-    "category": "Animals",
+    "category": "Nature",
     "created": 1397760709,
     "tags": [
       "medicine",
@@ -18631,7 +18616,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/dog_leash.svg",
+      "svg": "/SVG/Nature/dog_leash.svg",
       "png": {
         "26": "/PNG/Animals/dog_leash/dog_leash-26.png",
         "48": "/PNG/Animals/dog_leash/dog_leash-48.png",
@@ -18678,7 +18663,7 @@
     "id": 3044,
     "name": "dolphin",
     "platform": "Windows 8/Metro",
-    "category": "Sea",
+    "category": "Nature",
     "created": 1390924259,
     "tags": [
       "animal",
@@ -18724,7 +18709,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sea/dolphin.svg",
+      "svg": "/SVG/Nature/dolphin.svg",
       "svg.simplified": "/SVG_for_Font/dolphin.svg",
       "eps": "/EPS/Sea/dolphin.eps",
       "png": {
@@ -19442,7 +19427,7 @@
     "id": 595,
     "name": "drama",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1329902926,
     "tags": [
       "love",
@@ -19456,7 +19441,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/drama.svg",
+      "svg": "/SVG/Cinema/drama.svg",
       "svg.simplified": "/SVG_for_Font/drama.svg",
       "eps": "/EPS/Movie_Genres/drama.eps",
       "png": {
@@ -19761,7 +19746,7 @@
     "id": 1847,
     "name": "duck",
     "platform": "Windows 8/Metro",
-    "category": "Animals",
+    "category": "Nature",
     "created": 1369395849,
     "tags": [
       "animal",
@@ -19778,7 +19763,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/duck.svg",
+      "svg": "/SVG/Nature/duck.svg",
       "svg.simplified": "/SVG_for_Font/duck.svg",
       "eps": "/EPS/Animals/duck.eps",
       "png": {
@@ -19860,7 +19845,7 @@
     "id": 1449,
     "name": "dvd",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1357817801,
     "tags": [
       "film",
@@ -19891,7 +19876,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/dvd.svg",
+      "svg": "/SVG/Files/dvd.svg",
       "svg.simplified": "/SVG_for_Font/dvd.svg",
       "eps": "/EPS/File_Types/dvd.eps",
       "png": {
@@ -20308,7 +20293,7 @@
     "id": 3549,
     "name": "edit_file",
     "platform": "Windows 8/Metro",
-    "category": "Add",
+    "category": "Files",
     "created": 1394545829,
     "tags": [
       "vector",
@@ -20361,7 +20346,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Add/edit_file.svg",
+      "svg": "/SVG/Files/edit_file.svg",
       "eps": "/EPS/Add/edit_file.eps",
       "png": {
         "256": "/PNG/Add/edit_file/edit_file-256.png",
@@ -21628,45 +21613,10 @@
     }
   },
   {
-    "id": 2135,
-    "name": "eur",
-    "platform": "Windows 8/Metro",
-    "category": "Ecommerce",
-    "created": 1381914146,
-    "tags": [
-      "bank",
-      "usd",
-      "eur",
-      "code",
-      "money",
-      "currency",
-      "sign",
-      "dollar",
-      "exchange",
-      "forex",
-      "market",
-      "euro"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Ecommerce/EUR.svg",
-      "eps": "/EPS/Ecommerce/EUR.eps",
-      "png": {
-        "512": "/PNG/Ecommerce/EUR/EUR-512.png",
-        "128": "/PNG/Ecommerce/EUR/EUR-128.png",
-        "26": "/PNG/Ecommerce/EUR/EUR-26.png",
-        "256": "/PNG/Ecommerce/EUR/EUR-256.png",
-        "32": "/PNG/Ecommerce/EUR/EUR-32.png",
-        "64": "/PNG/Ecommerce/EUR/EUR-64.png",
-        "48": "/PNG/Ecommerce/EUR/EUR-48.png"
-      }
-    }
-  },
-  {
     "id": 697,
     "name": "evil",
     "platform": "Windows 8/Metro",
-    "category": "Emoticons",
+    "category": "Messaging",
     "created": 1332405437,
     "tags": [
       "black",
@@ -21678,7 +21628,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Emoticons/evil.svg",
+      "svg": "/SVG/Messaging/evil.svg",
       "svg.simplified": "/SVG_for_Font/evil.svg",
       "eps": "/EPS/Emoticons/evil.eps",
       "png": {
@@ -21696,7 +21646,7 @@
     "id": 315,
     "name": "exe",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1322569152,
     "tags": [
       "software",
@@ -21712,7 +21662,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/exe.svg",
+      "svg": "/SVG/Files/exe.svg",
       "svg.simplified": "/SVG_for_Font/exe.svg",
       "eps": "/EPS/File_Types/exe.eps",
       "png": {
@@ -22125,7 +22075,7 @@
     "id": 741,
     "name": "external_link",
     "platform": "Windows 8/Metro",
-    "category": "Debug",
+    "category": "Programming",
     "created": 1333618099,
     "tags": [
       "up",
@@ -22134,7 +22084,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Debug/external_link.svg",
+      "svg": "/SVG/Programming/external_link.svg",
       "svg.simplified": "/SVG_for_Font/external_link.svg",
       "eps": "/EPS/Debug/external_link.eps",
       "png": {
@@ -22411,7 +22361,7 @@
     "id": 3054,
     "name": "false_teeth",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1391089846,
     "tags": [
       "design",
@@ -22441,7 +22391,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/false_teeth.svg",
+      "svg": "/SVG/Healthcare/false_teeth.svg",
       "svg.simplified": "/SVG_for_Font/false_teeth.svg",
       "eps": "/EPS/Medicine/false_teeth.eps",
       "png": {
@@ -22517,7 +22467,7 @@
     "id": 625,
     "name": "fantasy",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1330421997,
     "tags": [
       "wishes",
@@ -22532,7 +22482,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/fantasy.svg",
+      "svg": "/SVG/Cinema/fantasy.svg",
       "svg.simplified": "/SVG_for_Font/fantasy.svg",
       "eps": "/EPS/Movie_Genres/fantasy.eps",
       "png": {
@@ -23565,7 +23515,7 @@
     "id": 1065,
     "name": "first",
     "platform": "Windows 8/Metro",
-    "category": "Pager",
+    "category": "Media Controls",
     "created": 1343986765,
     "tags": [
       "buttons",
@@ -23577,7 +23527,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Pager/first.svg",
+      "svg": "/SVG/Media_Controls/first.svg",
       "svg.simplified": "/SVG_for_Font/first.svg",
       "eps": "/EPS/Pager/first.eps",
       "png": {
@@ -23688,14 +23638,14 @@
     "id": 2604,
     "name": "fish2",
     "platform": "Windows 8/Metro",
-    "category": "Animals",
+    "category": "Nature",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/fish2.svg",
+      "svg": "/SVG/Nature/fish2.svg",
       "svg.simplified": "/SVG_for_Font/fish2.svg",
       "eps": "/EPS/Animals/fish2.eps",
       "png": {
@@ -23755,7 +23705,7 @@
     "id": 855,
     "name": "fit_to_width",
     "platform": "Windows 8/Metro",
-    "category": "Print Preview",
+    "category": "Printing",
     "created": 1337324093,
     "tags": [
       "paper",
@@ -23770,7 +23720,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Print_Preview/fit_to_width.svg",
+      "svg": "/SVG/Printing/fit_to_width.svg",
       "svg.simplified": "/SVG_for_Font/fit_to_width.svg",
       "eps": "/EPS/Print_Preview/fit_to_width.eps",
       "png": {
@@ -24069,7 +24019,7 @@
     "id": 797,
     "name": "flower",
     "platform": "Windows 8/Metro",
-    "category": "Plants Trees",
+    "category": "Nature",
     "created": 1335433218,
     "tags": [
       "earth",
@@ -24087,7 +24037,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Plants_Trees/flower.svg",
+      "svg": "/SVG/Nature/flower.svg",
       "svg.simplified": "/SVG_for_Font/flower.svg",
       "eps": "/EPS/Plants_Trees/flower.eps",
       "png": {
@@ -24129,7 +24079,7 @@
     "id": 307,
     "name": "flv",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1322482296,
     "tags": [
       "adobe",
@@ -24146,7 +24096,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/flv.svg",
+      "svg": "/SVG/Files/flv.svg",
       "svg.simplified": "/SVG_for_Font/flv.svg",
       "eps": "/EPS/File_Types/flv.eps",
       "png": {
@@ -24272,7 +24222,7 @@
     "id": 1383,
     "name": "foil_space_blanket",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1355315169,
     "tags": [
       "medicine",
@@ -24285,7 +24235,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/foil_space_blanket.svg",
+      "svg": "/SVG/Healthcare/foil_space_blanket.svg",
       "svg.simplified": "/SVG_for_Font/foil_space_blanket.svg",
       "eps": "/EPS/Medicine/foil_space_blanket.eps",
       "png": {
@@ -24454,7 +24404,7 @@
     "id": 2496,
     "name": "forest",
     "platform": "Windows 8/Metro",
-    "category": "Camping Equipment",
+    "category": "Camping",
     "created": 1390342413,
     "tags": [
       "design",
@@ -24503,7 +24453,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Camping_Equipment/forest.svg",
+      "svg": "/SVG/Camping/forest.svg",
       "svg.simplified": "/SVG_for_Font/forest.svg",
       "eps": "/EPS/Camping_Equipment/forest.eps",
       "png": {
@@ -25300,7 +25250,7 @@
     "id": 1369,
     "name": "gaiters",
     "platform": "Windows 8/Metro",
-    "category": "Camping Equipment",
+    "category": "Camping",
     "created": 1354882457,
     "tags": [
       "fashion",
@@ -25326,7 +25276,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Camping_Equipment/gaiters.svg",
+      "svg": "/SVG/Camping/gaiters.svg",
       "svg.simplified": "/SVG_for_Font/gaiters.svg",
       "eps": "/EPS/Camping_Equipment/gaiters.eps",
       "png": {
@@ -25487,7 +25437,7 @@
     "id": 1624,
     "name": "garage",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1384864091,
     "tags": [
       "window",
@@ -25502,6 +25452,7 @@
       "safety",
       "headlights",
       "equipment",
+      "wood",
       "black",
       "indoors",
       "white",
@@ -25528,12 +25479,11 @@
       "inspection",
       "petrol",
       "lights",
-      "car mechanic",
-      "car wash"
+      "car mechanic"
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/garage.svg",
+      "svg": "/SVG/Household/garage.svg",
       "svg.simplified": "/SVG_for_Font/garage.svg",
       "eps": "/EPS/Accommodation/garage.eps",
       "png": {
@@ -25858,7 +25808,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Ecommerce/GBP.svg",
       "svg.simplified": "/SVG_for_Font/GBP.svg",
       "eps": "/EPS/Ecommerce/GBP.eps",
       "png": {
@@ -26284,7 +26233,7 @@
     "id": 1827,
     "name": "genie",
     "platform": "Windows 8/Metro",
-    "category": "Tales",
+    "category": "Fiction",
     "created": 1368800619,
     "tags": [
       "lamp",
@@ -26304,7 +26253,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Tales/genie.svg",
+      "svg": "/SVG/Fiction/genie.svg",
       "svg.simplified": "/SVG_for_Font/genie.svg",
       "eps": "/EPS/Tales/genie.eps",
       "png": {
@@ -26605,7 +26554,7 @@
     "id": 331,
     "name": "gif",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1322740256,
     "tags": [
       "view",
@@ -26623,7 +26572,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/gif.svg",
+      "svg": "/SVG/Files/gif.svg",
       "svg.simplified": "/SVG_for_Font/gif.svg",
       "eps": "/EPS/File_Types/gif.eps",
       "png": {
@@ -26701,7 +26650,7 @@
     "id": 2297,
     "name": "gis",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1378464254,
     "tags": [
       "file",
@@ -26713,7 +26662,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/gis.svg",
+      "svg": "/SVG/Files/gis.svg",
       "svg.simplified": "/SVG_for_Font/gis.svg",
       "eps": "/EPS/File_Types/gis.eps",
       "png": {
@@ -26763,14 +26712,14 @@
     "id": 3694,
     "name": "glasses",
     "platform": "Windows 8/Metro",
-    "category": "Subculture",
+    "category": "Clothing",
     "created": 1395935483,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Subculture/glasses.svg",
+      "svg": "/SVG/Clothing/glasses.svg",
       "eps": "/EPS/Subculture/glasses.eps",
       "png": {
         "256": "/PNG/Subculture/glasses/glasses-256.png",
@@ -27551,7 +27500,7 @@
     "id": 3042,
     "name": "gorilla",
     "platform": "Windows 8/Metro",
-    "category": "Animals",
+    "category": "Nature",
     "created": 1390924259,
     "tags": [
       "vector",
@@ -27596,7 +27545,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/gorilla.svg",
+      "svg": "/SVG/Nature/gorilla.svg",
       "svg.simplified": "/SVG_for_Font/gorilla.svg",
       "eps": "/EPS/Animals/gorilla.eps",
       "png": {
@@ -27736,7 +27685,7 @@
     "id": 2295,
     "name": "gpx",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1378464254,
     "tags": [
       "file",
@@ -27746,7 +27695,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/gpx.svg",
+      "svg": "/SVG/Files/gpx.svg",
       "svg.simplified": "/SVG_for_Font/gpx.svg",
       "eps": "/EPS/File_Types/gpx.eps",
       "png": {
@@ -27795,7 +27744,7 @@
     "id": 1825,
     "name": "grapes",
     "platform": "Windows 8/Metro",
-    "category": "Plants Trees",
+    "category": "Nature",
     "created": 1368031310,
     "tags": [
       "food",
@@ -27824,7 +27773,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Plants_Trees/grapes.svg",
+      "svg": "/SVG/Nature/grapes.svg",
       "svg.simplified": "/SVG_for_Font/grapes.svg",
       "eps": "/EPS/Plants_Trees/grapes.eps",
       "png": {
@@ -27842,7 +27791,7 @@
     "id": 801,
     "name": "grass",
     "platform": "Windows 8/Metro",
-    "category": "Plants Trees",
+    "category": "Nature",
     "created": 1335513247,
     "tags": [
       "park",
@@ -27856,7 +27805,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Plants_Trees/grass.svg",
+      "svg": "/SVG/Nature/grass.svg",
       "svg.simplified": "/SVG_for_Font/grass.svg",
       "eps": "/EPS/Plants_Trees/grass.eps",
       "png": {
@@ -27979,7 +27928,7 @@
     "id": 1259,
     "name": "grey",
     "platform": "Windows 8/Metro",
-    "category": "Aliens",
+    "category": "Fiction",
     "created": 1350643690,
     "tags": [
       "alien",
@@ -27988,7 +27937,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Aliens/grey.svg",
+      "svg": "/SVG/Fiction/grey.svg",
       "svg.simplified": "/SVG_for_Font/grey.svg",
       "eps": "/EPS/Aliens/grey.eps",
       "png": {
@@ -28086,7 +28035,7 @@
     "id": 3733,
     "name": "groups",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1396036303,
     "tags": [
       "ring",
@@ -28120,7 +28069,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/groups.svg",
+      "svg": "/SVG/Healthcare/groups.svg",
       "eps": "/EPS/Medicine/groups.eps",
       "png": {
         "128": "/PNG/Medicine/groups/groups-128.png",
@@ -28921,7 +28870,7 @@
     "id": 1923,
     "name": "hand_poking_tool",
     "platform": "Windows 8/Metro",
-    "category": "Subculture",
+    "category": "Cultures",
     "created": 1372244229,
     "tags": [
       "ink",
@@ -28940,7 +28889,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Subculture/hand_poking_tool.svg",
+      "svg": "/SVG/Cultures/hand_poking_tool.svg",
       "svg.simplified": "/SVG_for_Font/hand_poking_tool.svg",
       "eps": "/EPS/Subculture/hand_poking_tool.eps",
       "png": {
@@ -28958,7 +28907,7 @@
     "id": 675,
     "name": "happy",
     "platform": "Windows 8/Metro",
-    "category": "Emoticons",
+    "category": "Messaging",
     "created": 1331887773,
     "tags": [
       "entertainment",
@@ -28974,7 +28923,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Emoticons/happy.svg",
+      "svg": "/SVG/Messaging/happy.svg",
       "svg.simplified": "/SVG_for_Font/happy.svg",
       "eps": "/EPS/Emoticons/happy.eps",
       "png": {
@@ -29082,7 +29031,7 @@
     "id": 1522,
     "name": "hazelnut",
     "platform": "Windows 8/Metro",
-    "category": "Plants Trees",
+    "category": "Nature",
     "created": 1358857277,
     "tags": [
       "food",
@@ -29098,7 +29047,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Plants_Trees/hazelnut.svg",
+      "svg": "/SVG/Nature/hazelnut.svg",
       "svg.simplified": "/SVG_for_Font/hazelnut.svg",
       "eps": "/EPS/Plants_Trees/hazelnut.eps",
       "png": {
@@ -29316,7 +29265,7 @@
     "id": 3052,
     "name": "hearing_aid",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1391089846,
     "tags": [
       "phone",
@@ -29357,7 +29306,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/hearing_aid.svg",
+      "svg": "/SVG/Healthcare/hearing_aid.svg",
       "svg.simplified": "/SVG_for_Font/hearing_aid.svg",
       "eps": "/EPS/Medicine/hearing_aid.eps",
       "png": {
@@ -29406,7 +29355,7 @@
     "id": 955,
     "name": "heart_monitor",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1340609024,
     "tags": [
       "medicine",
@@ -29422,7 +29371,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/heart_monitor.svg",
+      "svg": "/SVG/Healthcare/heart_monitor.svg",
       "svg.simplified": "/SVG_for_Font/heart_monitor.svg",
       "eps": "/EPS/Medicine/heart_monitor.eps",
       "png": {
@@ -29440,7 +29389,7 @@
     "id": 1626,
     "name": "heating_room",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1384864091,
     "tags": [
       "design",
@@ -29494,7 +29443,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/heating_room.svg",
+      "svg": "/SVG/Household/heating_room.svg",
       "svg.simplified": "/SVG_for_Font/heating_room.svg",
       "eps": "/EPS/Accommodation/heating_room.eps",
       "png": {
@@ -29699,7 +29648,7 @@
     "id": 1350,
     "name": "hex_burner",
     "platform": "Windows 8/Metro",
-    "category": "Camping Equipment",
+    "category": "Camping",
     "created": 1354537363,
     "tags": [
       "fire",
@@ -29725,7 +29674,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Camping_Equipment/hex_burner.svg",
+      "svg": "/SVG/Camping/hex_burner.svg",
       "svg.simplified": "/SVG_for_Font/hex_burner.svg",
       "eps": "/EPS/Camping_Equipment/hex_burner.eps",
       "png": {
@@ -29743,7 +29692,7 @@
     "id": 1458,
     "name": "hibernate",
     "platform": "Windows 8/Metro",
-    "category": "Power Buttons",
+    "category": "Computer Hardware",
     "created": 1334301271,
     "tags": [
       "off",
@@ -29762,7 +29711,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Power_Buttons/hibernate.svg",
+      "svg": "/SVG/Computer_Hardware/hibernate.svg",
       "svg.simplified": "/SVG_for_Font/hibernate.svg",
       "eps": "/EPS/Power_Buttons/hibernate.eps",
       "png": {
@@ -29780,7 +29729,7 @@
     "id": 755,
     "name": "high_connection",
     "platform": "Windows 8/Metro",
-    "category": "Network Status",
+    "category": "It Infrastructure",
     "created": 1334042013,
     "tags": [
       "full",
@@ -29800,7 +29749,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Network_Status/high_connection.svg",
+      "svg": "/SVG/It_Infrastructure/high_connection.svg",
       "svg.simplified": "/SVG_for_Font/high_connection.svg",
       "eps": "/EPS/Network_Status/high_connection.eps",
       "png": {
@@ -29849,7 +29798,7 @@
     "id": 619,
     "name": "historical",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1330335588,
     "tags": [
       "hours",
@@ -29859,7 +29808,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/historical.svg",
+      "svg": "/SVG/Cinema/historical.svg",
       "svg.simplified": "/SVG_for_Font/historical.svg",
       "eps": "/EPS/Movie_Genres/historical.eps",
       "png": {
@@ -29870,49 +29819,6 @@
         "512": "/PNG/Movie_Genres/historical/historical-512.png",
         "26": "/PNG/Movie_Genres/historical/historical-26.png",
         "32": "/PNG/Movie_Genres/historical/historical-32.png"
-      }
-    }
-  },
-  {
-    "id": 2123,
-    "name": "hkd",
-    "platform": "Windows 8/Metro",
-    "category": "Ecommerce",
-    "created": 1382090318,
-    "tags": [
-      "program",
-      "world",
-      "language",
-      "photo",
-      "images",
-      "support",
-      "stock",
-      "woods",
-      "downloading",
-      "daily",
-      "millions",
-      "re seller",
-      "privacy",
-      "coupons",
-      "legal",
-      "offset",
-      "lightbox",
-      "kojihirano",
-      "licensing",
-      "policy"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Ecommerce/HKD.svg",
-      "eps": "/EPS/Ecommerce/HKD.eps",
-      "png": {
-        "512": "/PNG/Ecommerce/HKD/HKD-512.png",
-        "128": "/PNG/Ecommerce/HKD/HKD-128.png",
-        "26": "/PNG/Ecommerce/HKD/HKD-26.png",
-        "32": "/PNG/Ecommerce/HKD/HKD-32.png",
-        "256": "/PNG/Ecommerce/HKD/HKD-256.png",
-        "48": "/PNG/Ecommerce/HKD/HKD-48.png",
-        "64": "/PNG/Ecommerce/HKD/HKD-64.png"
       }
     }
   },
@@ -30026,7 +29932,7 @@
     "id": 1829,
     "name": "hops",
     "platform": "Windows 8/Metro",
-    "category": "Plants Trees",
+    "category": "Nature",
     "created": 1369061325,
     "tags": [
       "food",
@@ -30044,7 +29950,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Plants_Trees/hops.svg",
+      "svg": "/SVG/Nature/hops.svg",
       "svg.simplified": "/SVG_for_Font/hops.svg",
       "eps": "/EPS/Plants_Trees/hops.eps",
       "png": {
@@ -30062,7 +29968,7 @@
     "id": 615,
     "name": "horror",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1330073859,
     "tags": [
       "genres",
@@ -30072,7 +29978,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/horror.svg",
+      "svg": "/SVG/Cinema/horror.svg",
       "svg.simplified": "/SVG_for_Font/horror.svg",
       "eps": "/EPS/Movie_Genres/horror.eps",
       "png": {
@@ -30448,7 +30354,7 @@
     "id": 1309,
     "name": "hot_tube",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1353326857,
     "tags": [
       "symbol",
@@ -30469,7 +30375,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/hot_tube.svg",
+      "svg": "/SVG/Household/hot_tube.svg",
       "svg.simplified": "/SVG_for_Font/hot_tube.svg",
       "eps": "/EPS/Accommodation/hot_tube.eps",
       "png": {
@@ -30487,7 +30393,7 @@
     "id": 1042,
     "name": "html",
     "platform": "Windows 8/Metro",
-    "category": "Programming File Types",
+    "category": "Files",
     "created": 1343297854,
     "tags": [
       "symbols",
@@ -30511,7 +30417,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Programming_File_Types/html.svg",
+      "svg": "/SVG/Files/html.svg",
       "svg.simplified": "/SVG_for_Font/html.svg",
       "eps": "/EPS/Programming_File_Types/html.eps",
       "png": {
@@ -30863,7 +30769,7 @@
     "id": 74,
     "name": "idea",
     "platform": "Windows 8/Metro",
-    "category": "Ecommerce",
+    "category": "Very Basic",
     "created": 1371758569,
     "tags": [
       "thought",
@@ -30884,7 +30790,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Ecommerce/idea.svg",
+      "svg": "/SVG/Very_Basic/idea.svg",
       "svg.simplified": "/SVG_for_Font/idea.svg",
       "eps": "/EPS/Ecommerce/idea.eps",
       "png": {
@@ -31047,7 +30953,7 @@
     "id": 2143,
     "name": "incoming_data",
     "platform": "Windows 8/Metro",
-    "category": "Network Status",
+    "category": "It Infrastructure",
     "created": 1381836125,
     "tags": [
       "network",
@@ -31058,7 +30964,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Network_Status/incoming_data.svg",
+      "svg": "/SVG/It_Infrastructure/incoming_data.svg",
       "svg.simplified": "/SVG_for_Font/incoming_data.svg",
       "eps": "/EPS/Network_Status/incoming_data.eps",
       "png": {
@@ -31573,7 +31479,7 @@
     "id": 829,
     "name": "invoice",
     "platform": "Windows 8/Metro",
-    "category": "Accounting",
+    "category": "Finance",
     "created": 1336724597,
     "tags": [
       "cash",
@@ -31600,7 +31506,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accounting/invoice.svg",
+      "svg": "/SVG/Finance/invoice.svg",
       "svg.simplified": "/SVG_for_Font/invoice.svg",
       "eps": "/EPS/Accounting/invoice.eps",
       "png": {
@@ -31618,7 +31524,7 @@
     "id": 695,
     "name": "in_love",
     "platform": "Windows 8/Metro",
-    "category": "Emoticons",
+    "category": "Messaging",
     "created": 1332316180,
     "tags": [
       "heart",
@@ -31631,7 +31537,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Emoticons/in_love.svg",
+      "svg": "/SVG/Messaging/in_love.svg",
       "svg.simplified": "/SVG_for_Font/in_love.svg",
       "eps": "/EPS/Emoticons/in_love.eps",
       "png": {
@@ -32024,7 +31930,7 @@
     "id": 1308,
     "name": "jacuzzi",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1353326857,
     "tags": [
       "fun",
@@ -32052,7 +31958,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/jacuzzi.svg",
+      "svg": "/SVG/Household/jacuzzi.svg",
       "svg.simplified": "/SVG_for_Font/jacuzzi.svg",
       "eps": "/EPS/Accommodation/jacuzzi.eps",
       "png": {
@@ -32295,7 +32201,7 @@
     "id": 1434,
     "name": "jcb",
     "platform": "Windows 8/Metro",
-    "category": "Payment Methods",
+    "category": "Finance",
     "created": 1356788962,
     "tags": [
       "bank",
@@ -32315,7 +32221,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Payment_Methods/jcb_copyrighted.svg",
+      "svg": "/SVG/Finance/jcb_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/jcb_copyrighted.svg",
       "eps": "/EPS/Payment_Methods/jcb.eps",
       "png": {
@@ -32597,7 +32503,7 @@
     "id": 333,
     "name": "jpg",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1322740256,
     "tags": [
       "view",
@@ -32614,7 +32520,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/jpg.svg",
+      "svg": "/SVG/Files/jpg.svg",
       "svg.simplified": "/SVG_for_Font/jpg.svg",
       "eps": "/EPS/File_Types/jpg.eps",
       "png": {
@@ -32653,7 +32559,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Ecommerce/JPY.svg",
       "svg.simplified": "/SVG_for_Font/JPY.svg",
       "eps": "/EPS/Ecommerce/JPY.eps",
       "png": {
@@ -32671,7 +32576,7 @@
     "id": 1046,
     "name": "js",
     "platform": "Windows 8/Metro",
-    "category": "Programming File Types",
+    "category": "Files",
     "created": 1343297854,
     "tags": [
       "label",
@@ -32690,7 +32595,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Programming_File_Types/js.svg",
+      "svg": "/SVG/Files/js.svg",
       "svg.simplified": "/SVG_for_Font/js.svg",
       "eps": "/EPS/Programming_File_Types/js.eps",
       "png": {
@@ -32708,7 +32613,7 @@
     "id": 3763,
     "name": "jsp",
     "platform": "Windows 8/Metro",
-    "category": "Programming File Types",
+    "category": "Files",
     "created": 1396551100,
     "tags": [
       "software",
@@ -32735,7 +32640,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Programming_File_Types/jsp.svg",
+      "svg": "/SVG/Files/jsp.svg",
       "eps": "/EPS/Programming_File_Types/jsp.eps",
       "png": {
         "64": "/PNG/Programming_File_Types/jsp/jsp-64.png",
@@ -33198,7 +33103,7 @@
     "id": 693,
     "name": "kiss",
     "platform": "Windows 8/Metro",
-    "category": "Emoticons",
+    "category": "Messaging",
     "created": 1332316180,
     "tags": [
       "ring",
@@ -33213,7 +33118,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Emoticons/kiss.svg",
+      "svg": "/SVG/Messaging/kiss.svg",
       "svg.simplified": "/SVG_for_Font/kiss.svg",
       "eps": "/EPS/Emoticons/kiss.eps",
       "png": {
@@ -33231,7 +33136,7 @@
     "id": 1620,
     "name": "kitchen",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1384943270,
     "tags": [
       "vector",
@@ -33280,7 +33185,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/kitchen.svg",
+      "svg": "/SVG/Household/kitchen.svg",
       "svg.simplified": "/SVG_for_Font/kitchen.svg",
       "eps": "/EPS/Accommodation/kitchen.eps",
       "png": {
@@ -33298,7 +33203,7 @@
     "id": 2303,
     "name": "kml",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1378374542,
     "tags": [
       "files",
@@ -33308,7 +33213,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/kml.svg",
+      "svg": "/SVG/Files/kml.svg",
       "svg.simplified": "/SVG_for_Font/kml.svg",
       "eps": "/EPS/File_Types/kml.eps",
       "png": {
@@ -33326,7 +33231,7 @@
     "id": 2293,
     "name": "kmz",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1378464254,
     "tags": [
       "file",
@@ -33337,7 +33242,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/kmz.svg",
+      "svg": "/SVG/Files/kmz.svg",
       "svg.simplified": "/SVG_for_Font/kmz.svg",
       "eps": "/EPS/File_Types/kmz.eps",
       "png": {
@@ -33642,7 +33547,7 @@
     "id": 1828,
     "name": "lamp_genie",
     "platform": "Windows 8/Metro",
-    "category": "Tales",
+    "category": "Fiction",
     "created": 1368800619,
     "tags": [
       "lamp",
@@ -33662,7 +33567,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Tales/lamp_genie.svg",
+      "svg": "/SVG/Fiction/lamp_genie.svg",
       "svg.simplified": "/SVG_for_Font/lamp_genie.svg",
       "eps": "/EPS/Tales/lamp_genie.eps",
       "png": {
@@ -33680,7 +33585,7 @@
     "id": 83,
     "name": "lamp_magic",
     "platform": "Windows 8/Metro",
-    "category": "Tales",
+    "category": "Fiction",
     "created": 1293858000,
     "tags": [
       "lamp",
@@ -33693,7 +33598,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Tales/lamp_magic.svg",
+      "svg": "/SVG/Fiction/lamp_magic.svg",
       "svg.simplified": "/SVG_for_Font/lamp_magic.svg",
       "eps": "/EPS/Tales/lamp_magic.eps",
       "png": {
@@ -33886,7 +33791,7 @@
     "id": 1068,
     "name": "last",
     "platform": "Windows 8/Metro",
-    "category": "Pager",
+    "category": "Media Controls",
     "created": 1343986765,
     "tags": [
       "buttons",
@@ -33898,7 +33803,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Pager/last.svg",
+      "svg": "/SVG/Media_Controls/last.svg",
       "svg.simplified": "/SVG_for_Font/last.svg",
       "eps": "/EPS/Pager/last.eps",
       "png": {
@@ -34118,7 +34023,7 @@
     "id": 793,
     "name": "leaf",
     "platform": "Windows 8/Metro",
-    "category": "Plants Trees",
+    "category": "Nature",
     "created": 1335345088,
     "tags": [
       "wired network",
@@ -34132,7 +34037,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Plants_Trees/leaf.svg",
+      "svg": "/SVG/Nature/leaf.svg",
       "svg.simplified": "/SVG_for_Font/leaf.svg",
       "eps": "/EPS/Plants_Trees/leaf.eps",
       "png": {
@@ -34150,7 +34055,7 @@
     "id": 795,
     "name": "leaf2",
     "platform": "Windows 8/Metro",
-    "category": "Plants Trees",
+    "category": "Nature",
     "created": 1335433218,
     "tags": [
       "earth",
@@ -34165,7 +34070,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Plants_Trees/leaf2.svg",
+      "svg": "/SVG/Nature/leaf2.svg",
       "svg.simplified": "/SVG_for_Font/leaf2.svg",
       "eps": "/EPS/Plants_Trees/leaf2.eps",
       "png": {
@@ -34183,7 +34088,7 @@
     "id": 796,
     "name": "leaf3",
     "platform": "Windows 8/Metro",
-    "category": "Plants Trees",
+    "category": "Nature",
     "created": 1335433218,
     "tags": [
       "earth",
@@ -34200,7 +34105,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Plants_Trees/leaf3.svg",
+      "svg": "/SVG/Nature/leaf3.svg",
       "svg.simplified": "/SVG_for_Font/leaf3.svg",
       "eps": "/EPS/Plants_Trees/leaf3.eps",
       "png": {
@@ -35402,7 +35307,7 @@
     "id": 1777,
     "name": "listen",
     "platform": "Windows 8/Metro",
-    "category": "Volume Controls",
+    "category": "Media Controls",
     "created": 1366387977,
     "tags": [
       "noise",
@@ -35416,7 +35321,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Volume_Controls/listen.svg",
+      "svg": "/SVG/Media_Controls/listen.svg",
       "svg.simplified": "/SVG_for_Font/listen.svg",
       "eps": "/EPS/Volume_Controls/listen.eps",
       "png": {
@@ -35556,7 +35461,7 @@
     "id": 1629,
     "name": "living_room",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1384772336,
     "tags": [
       "design",
@@ -35582,7 +35487,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/living_room.svg",
+      "svg": "/SVG/Household/living_room.svg",
       "svg.simplified": "/SVG_for_Font/living_room.svg",
       "eps": "/EPS/Accommodation/living_room.eps",
       "png": {
@@ -35775,7 +35680,7 @@
     "id": 1292,
     "name": "log_cabin",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1352808353,
     "tags": [
       "home",
@@ -35789,7 +35694,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/log_cabin.svg",
+      "svg": "/SVG/Household/log_cabin.svg",
       "svg.simplified": "/SVG_for_Font/log_cabin.svg",
       "eps": "/EPS/Accommodation/log_cabin.eps",
       "png": {
@@ -35807,7 +35712,7 @@
     "id": 679,
     "name": "lol",
     "platform": "Windows 8/Metro",
-    "category": "Emoticons",
+    "category": "Messaging",
     "created": 1331887773,
     "tags": [
       "happy",
@@ -35822,7 +35727,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Emoticons/lol.svg",
+      "svg": "/SVG/Messaging/lol.svg",
       "svg.simplified": "/SVG_for_Font/lol.svg",
       "eps": "/EPS/Emoticons/lol.eps",
       "png": {
@@ -35952,7 +35857,7 @@
     "id": 754,
     "name": "low_connection",
     "platform": "Windows 8/Metro",
-    "category": "Network Status",
+    "category": "It Infrastructure",
     "created": 1334042013,
     "tags": [
       "empty",
@@ -35968,7 +35873,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Network_Status/low_connection.svg",
+      "svg": "/SVG/It_Infrastructure/low_connection.svg",
       "svg.simplified": "/SVG_for_Font/low_connection.svg",
       "eps": "/EPS/Network_Status/low_connection.eps",
       "png": {
@@ -36014,7 +35919,7 @@
     "id": 2716,
     "name": "luggage_trolley",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1390342414,
     "tags": [
       "deliver",
@@ -36064,7 +35969,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/luggage_trolley.svg",
+      "svg": "/SVG/Household/luggage_trolley.svg",
       "svg.simplified": "/SVG_for_Font/luggage_trolley.svg",
       "eps": "/EPS/Accommodation/luggage_trolley.eps",
       "png": {
@@ -36082,7 +35987,7 @@
     "id": 589,
     "name": "lyre",
     "platform": "Windows 8/Metro",
-    "category": "Theatre Set",
+    "category": "Cinema",
     "created": 1329818067,
     "tags": [
       "music",
@@ -36094,7 +35999,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Theatre_Set/lyre.svg",
+      "svg": "/SVG/Cinema/lyre.svg",
       "svg.simplified": "/SVG_for_Font/lyre.svg",
       "eps": "/EPS/Theatre_Set/lyre.eps",
       "png": {
@@ -36289,7 +36194,7 @@
     "id": 454,
     "name": "magazine",
     "platform": "Windows 8/Metro",
-    "category": "Printed Matter",
+    "category": "Printing",
     "created": 1325168663,
     "tags": [
       "magazine",
@@ -36301,7 +36206,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Printed_Matter/magazine.svg",
+      "svg": "/SVG/Printing/magazine.svg",
       "svg.simplified": "/SVG_for_Font/magazine.svg",
       "eps": "/EPS/Printed_Matter/magazine.eps",
       "png": {
@@ -36893,7 +36798,7 @@
     "id": 1260,
     "name": "martian",
     "platform": "Windows 8/Metro",
-    "category": "Aliens",
+    "category": "Fiction",
     "created": 1350643690,
     "tags": [
       "alien",
@@ -36902,7 +36807,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Aliens/martian.svg",
+      "svg": "/SVG/Fiction/martian.svg",
       "svg.simplified": "/SVG_for_Font/martian.svg",
       "eps": "/EPS/Aliens/martian.eps",
       "png": {
@@ -37003,7 +36908,7 @@
     "id": 1430,
     "name": "mastercard",
     "platform": "Windows 8/Metro",
-    "category": "Payment Methods",
+    "category": "Finance",
     "created": 1356695407,
     "tags": [
       "bank",
@@ -37025,7 +36930,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Payment_Methods/mastercard_copyrighted.svg",
+      "svg": "/SVG/Finance/mastercard_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/mastercard_copyrighted.svg",
       "eps": "/EPS/Payment_Methods/mastercard.eps",
       "png": {
@@ -37043,7 +36948,7 @@
     "id": 1356,
     "name": "matches",
     "platform": "Windows 8/Metro",
-    "category": "Camping Equipment",
+    "category": "Camping",
     "created": 1354623164,
     "tags": [
       "fire",
@@ -37069,7 +36974,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Camping_Equipment/matches.svg",
+      "svg": "/SVG/Camping/matches.svg",
       "svg.simplified": "/SVG_for_Font/matches.svg",
       "eps": "/EPS/Camping_Equipment/matches.eps",
       "png": {
@@ -37211,14 +37116,14 @@
     "id": 4010,
     "name": "medical_heart",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1398084705,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/medical_heart.svg",
+      "svg": "/SVG/Healthcare/medical_heart.svg",
       "png": {
         "256": "/PNG/Medicine/medical_heart/medical_heart-256.png",
         "48": "/PNG/Medicine/medical_heart/medical_heart-48.png",
@@ -37234,14 +37139,14 @@
     "id": 3564,
     "name": "medical_thermometer",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1394729489,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/medical_thermometer.svg",
+      "svg": "/SVG/Healthcare/medical_thermometer.svg",
       "svg.simplified": "/SVG_for_Font/medical_thermometer.svg",
       "eps": "/EPS/Medicine/medical_thermometer.eps",
       "png": {
@@ -37287,7 +37192,7 @@
     "id": 756,
     "name": "medium_connection",
     "platform": "Windows 8/Metro",
-    "category": "Network Status",
+    "category": "It Infrastructure",
     "created": 1334042013,
     "tags": [
       "web",
@@ -37303,7 +37208,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Network_Status/medium_connection.svg",
+      "svg": "/SVG/It_Infrastructure/medium_connection.svg",
       "svg.simplified": "/SVG_for_Font/medium_connection.svg",
       "eps": "/EPS/Network_Status/medium_connection.eps",
       "png": {
@@ -37584,7 +37489,7 @@
     "id": 3870,
     "name": "mental_status",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1397155911,
     "tags": [
       "memory",
@@ -37612,7 +37517,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/mental_status.svg",
+      "svg": "/SVG/Healthcare/mental_status.svg",
       "eps": "/EPS/Medicine/mental_status.eps",
       "png": {
         "26": "/PNG/Medicine/mental_status/mental_status-26.png",
@@ -37774,7 +37679,7 @@
     "id": 1354,
     "name": "mess_tin",
     "platform": "Windows 8/Metro",
-    "category": "Camping Equipment",
+    "category": "Camping",
     "created": 1354623164,
     "tags": [
       "office",
@@ -37800,7 +37705,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Camping_Equipment/mess_tin.svg",
+      "svg": "/SVG/Camping/mess_tin.svg",
       "svg.simplified": "/SVG_for_Font/mess_tin.svg",
       "eps": "/EPS/Camping_Equipment/mess_tin.eps",
       "png": {
@@ -37818,7 +37723,7 @@
     "id": 3980,
     "name": "metamorphose",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1397832689,
     "tags": [
       "drawing",
@@ -37846,7 +37751,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/metamorphose.svg",
+      "svg": "/SVG/Healthcare/metamorphose.svg",
       "png": {
         "64": "/PNG/Medicine/metamorphose/metamorphose-64.png",
         "128": "/PNG/Medicine/metamorphose/metamorphose-128.png",
@@ -37927,7 +37832,7 @@
     "id": 1377,
     "name": "micropore_tape",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1355227040,
     "tags": [
       "medicine",
@@ -37940,7 +37845,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/micropore_tape.svg",
+      "svg": "/SVG/Healthcare/micropore_tape.svg",
       "svg.simplified": "/SVG_for_Font/micropore_tape.svg",
       "eps": "/EPS/Medicine/micropore_tape.eps",
       "png": {
@@ -38779,7 +38684,7 @@
     "id": 1296,
     "name": "mobile_home",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1352894247,
     "tags": [
       "home",
@@ -38793,7 +38698,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/mobile_home.svg",
+      "svg": "/SVG/Household/mobile_home.svg",
       "svg.simplified": "/SVG_for_Font/mobile_home.svg",
       "eps": "/EPS/Accommodation/mobile_home.eps",
       "png": {
@@ -38855,7 +38760,7 @@
     "id": 210,
     "name": "moneybox",
     "platform": "Windows 8/Metro",
-    "category": "Payment Methods",
+    "category": "Finance",
     "created": 1319251300,
     "tags": [
       "coins",
@@ -38872,7 +38777,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Payment_Methods/moneybox.svg",
+      "svg": "/SVG/Finance/moneybox.svg",
       "svg.simplified": "/SVG_for_Font/moneybox.svg",
       "eps": "/EPS/Payment_Methods/moneybox.eps",
       "png": {
@@ -38890,7 +38795,7 @@
     "id": 483,
     "name": "money_bag",
     "platform": "Windows 8/Metro",
-    "category": "Business",
+    "category": "Finance",
     "created": 1326711577,
     "tags": [
       "cash",
@@ -38905,7 +38810,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Business/money_bag.svg",
+      "svg": "/SVG/Finance/money_bag.svg",
       "svg.simplified": "/SVG_for_Font/money_bag.svg",
       "eps": "/EPS/Business/money_bag.eps",
       "png": {
@@ -39133,7 +39038,7 @@
     "id": 3012,
     "name": "mortar_and_pestle",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1390395017,
     "tags": [
       "dining",
@@ -39188,7 +39093,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/mortar_and_pestle.svg",
+      "svg": "/SVG/Healthcare/mortar_and_pestle.svg",
       "svg.simplified": "/SVG_for_Font/mortar_and_pestle.svg",
       "eps": "/EPS/Medicine/mortar_and_pestle.eps",
       "png": {
@@ -39285,7 +39190,8 @@
       "cool",
       "break",
       "pizza",
-      "gasoline"
+      "gasoline",
+      "limit"
     ],
     "copyright": false,
     "files": {
@@ -39457,7 +39363,7 @@
     "id": 2431,
     "name": "mouse_trap",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1390342413,
     "tags": [
       "admin",
@@ -39512,7 +39418,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/mouse_trap.svg",
+      "svg": "/SVG/Household/mouse_trap.svg",
       "svg.simplified": "/SVG_for_Font/mouse_trap.svg",
       "eps": "/EPS/Accommodation/mouse_trap.eps",
       "png": {
@@ -39530,7 +39436,7 @@
     "id": 2669,
     "name": "mouse_trap_mouse",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1390342413,
     "tags": [
       "design",
@@ -39590,7 +39496,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/mouse_trap_mouse.svg",
+      "svg": "/SVG/Household/mouse_trap_mouse.svg",
       "svg.simplified": "/SVG_for_Font/mouse_trap_mouse.svg",
       "eps": "/EPS/Accommodation/mouse_trap_mouse.eps",
       "png": {
@@ -39608,7 +39514,7 @@
     "id": 319,
     "name": "mov",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1322654787,
     "tags": [
       "watch",
@@ -39627,7 +39533,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/mov.svg",
+      "svg": "/SVG/Files/mov.svg",
       "svg.simplified": "/SVG_for_Font/mov.svg",
       "eps": "/EPS/File_Types/mov.eps",
       "png": {
@@ -39750,7 +39656,7 @@
     "id": 1554,
     "name": "mp3",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1359722252,
     "tags": [
       "file",
@@ -39772,7 +39678,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/mp3.svg",
+      "svg": "/SVG/Files/mp3.svg",
       "svg.simplified": "/SVG_for_Font/mp3.svg",
       "eps": "/EPS/File_Types/mp3.eps",
       "png": {
@@ -39790,7 +39696,7 @@
     "id": 305,
     "name": "mpg",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1322482296,
     "tags": [
       "system",
@@ -39806,7 +39712,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/mpg.svg",
+      "svg": "/SVG/Files/mpg.svg",
       "svg.simplified": "/SVG_for_Font/mpg.svg",
       "eps": "/EPS/File_Types/mpg.eps",
       "png": {
@@ -40374,7 +40280,7 @@
     "id": 3598,
     "name": "musical",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1394812274,
     "tags": [
       "music",
@@ -40382,7 +40288,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/musical.svg",
+      "svg": "/SVG/Cinema/musical.svg",
       "svg.simplified": "/SVG_for_Font/musical.svg",
       "eps": "/EPS/Movie_Genres/musical.eps",
       "png": {
@@ -40503,7 +40409,7 @@
     "id": 1721,
     "name": "mustache",
     "platform": "Windows 8/Metro",
-    "category": "Subculture",
+    "category": "Cultures",
     "created": 1362394729,
     "tags": [
       "man",
@@ -40515,7 +40421,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Subculture/mustache.svg",
+      "svg": "/SVG/Cultures/mustache.svg",
       "svg.simplified": "/SVG_for_Font/mustache.svg",
       "eps": "/EPS/Subculture/mustache.eps",
       "png": {
@@ -40533,7 +40439,7 @@
     "id": 643,
     "name": "mute",
     "platform": "Windows 8/Metro",
-    "category": "Volume Controls",
+    "category": "Media Controls",
     "created": 1331112392,
     "tags": [
       "ring",
@@ -40558,7 +40464,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Volume_Controls/mute.svg",
+      "svg": "/SVG/Media_Controls/mute.svg",
       "svg.simplified": "/SVG_for_Font/mute.svg",
       "eps": "/EPS/Volume_Controls/mute.eps",
       "png": {
@@ -40917,7 +40823,7 @@
     "id": 1327,
     "name": "needle",
     "platform": "Windows 8/Metro",
-    "category": "Sewing",
+    "category": "Clothing",
     "created": 1353932475,
     "tags": [
       "equipment",
@@ -40927,7 +40833,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sewing/needle.svg",
+      "svg": "/SVG/Clothing/needle.svg",
       "svg.simplified": "/SVG_for_Font/needle.svg",
       "eps": "/EPS/Sewing/needle.eps",
       "png": {
@@ -41152,7 +41058,7 @@
     "id": 531,
     "name": "news",
     "platform": "Windows 8/Metro",
-    "category": "Website Sections",
+    "category": "Very Basic",
     "created": 1327398564,
     "tags": [
       "web",
@@ -41161,7 +41067,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Website_Sections/news.svg",
+      "svg": "/SVG/Very_Basic/news.svg",
       "svg.simplified": "/SVG_for_Font/news.svg",
       "eps": "/EPS/Website_Sections/news.eps",
       "png": {
@@ -41179,7 +41085,7 @@
     "id": 452,
     "name": "newspaper",
     "platform": "Windows 8/Metro",
-    "category": "Printed Matter",
+    "category": "Printing",
     "created": 1325168663,
     "tags": [
       "library",
@@ -41190,7 +41096,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Printed_Matter/newspaper.svg",
+      "svg": "/SVG/Printing/newspaper.svg",
       "svg.simplified": "/SVG_for_Font/newspaper.svg",
       "eps": "/EPS/Printed_Matter/newspaper.eps",
       "png": {
@@ -41290,7 +41196,7 @@
     "id": 1067,
     "name": "next",
     "platform": "Windows 8/Metro",
-    "category": "Pager",
+    "category": "Media Controls",
     "created": 1343986765,
     "tags": [
       "close",
@@ -41302,7 +41208,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Pager/next.svg",
+      "svg": "/SVG/Media_Controls/next.svg",
       "svg.simplified": "/SVG_for_Font/next.svg",
       "eps": "/EPS/Pager/next.eps",
       "png": {
@@ -41633,7 +41539,7 @@
     "id": 2301,
     "name": "nmea",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1378374542,
     "tags": [
       "files",
@@ -41642,7 +41548,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/nmea.svg",
+      "svg": "/SVG/Files/nmea.svg",
       "svg.simplified": "/SVG_for_Font/nmea.svg",
       "eps": "/EPS/File_Types/nmea.eps",
       "png": {
@@ -41841,7 +41747,7 @@
     "id": 1779,
     "name": "not_listen",
     "platform": "Windows 8/Metro",
-    "category": "Volume Controls",
+    "category": "Media Controls",
     "created": 1366387977,
     "tags": [
       "listening",
@@ -41853,7 +41759,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Volume_Controls/not_listen.svg",
+      "svg": "/SVG/Media_Controls/not_listen.svg",
       "svg.simplified": "/SVG_for_Font/not_listen.svg",
       "eps": "/EPS/Volume_Controls/not_listen.eps",
       "png": {
@@ -41871,7 +41777,7 @@
     "id": 594,
     "name": "novel",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1329902926,
     "tags": [
       "watch",
@@ -41885,7 +41791,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/novel.svg",
+      "svg": "/SVG/Cinema/novel.svg",
       "svg.simplified": "/SVG_for_Font/novel.svg",
       "eps": "/EPS/Movie_Genres/novel.eps",
       "png": {
@@ -41903,7 +41809,7 @@
     "id": 753,
     "name": "no_connection",
     "platform": "Windows 8/Metro",
-    "category": "Network Status",
+    "category": "It Infrastructure",
     "created": 1334042013,
     "tags": [
       "web",
@@ -41919,7 +41825,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Network_Status/no_connection.svg",
+      "svg": "/SVG/It_Infrastructure/no_connection.svg",
       "svg.simplified": "/SVG_for_Font/no_connection.svg",
       "eps": "/EPS/Network_Status/no_connection.eps",
       "png": {
@@ -42326,7 +42232,7 @@
     "id": 800,
     "name": "nut",
     "platform": "Windows 8/Metro",
-    "category": "Plants Trees",
+    "category": "Nature",
     "created": 1335513247,
     "tags": [
       "park",
@@ -42339,7 +42245,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Plants_Trees/nut.svg",
+      "svg": "/SVG/Nature/nut.svg",
       "svg.simplified": "/SVG_for_Font/nut.svg",
       "eps": "/EPS/Plants_Trees/nut.eps",
       "png": {
@@ -42466,7 +42372,7 @@
     "id": 3034,
     "name": "octopus",
     "platform": "Windows 8/Metro",
-    "category": "Sea",
+    "category": "Nature",
     "created": 1390823452,
     "tags": [
       "animal",
@@ -42505,7 +42411,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sea/octopus.svg",
+      "svg": "/SVG/Nature/octopus.svg",
       "svg.simplified": "/SVG_for_Font/octopus.svg",
       "eps": "/EPS/Sea/octopus.eps",
       "png": {
@@ -42586,7 +42492,7 @@
     "id": 1556,
     "name": "ogg",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1359722252,
     "tags": [
       "file",
@@ -42609,7 +42515,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/ogg.svg",
+      "svg": "/SVG/Files/ogg.svg",
       "svg.simplified": "/SVG_for_Font/ogg.svg",
       "eps": "/EPS/File_Types/ogg.eps",
       "png": {
@@ -42925,7 +42831,7 @@
     "id": 856,
     "name": "one_page",
     "platform": "Windows 8/Metro",
-    "category": "Print Preview",
+    "category": "Printing",
     "created": 1337324093,
     "tags": [
       "number",
@@ -42938,7 +42844,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Print_Preview/one_page.svg",
+      "svg": "/SVG/Printing/one_page.svg",
       "svg.simplified": "/SVG_for_Font/one_page.svg",
       "eps": "/EPS/Print_Preview/one_page.eps",
       "png": {
@@ -43093,7 +42999,7 @@
     "id": 724,
     "name": "open_in_browser",
     "platform": "Windows 8/Metro",
-    "category": "Debug",
+    "category": "Programming",
     "created": 1333353821,
     "tags": [
       "window",
@@ -43108,7 +43014,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Debug/open_in_browser.svg",
+      "svg": "/SVG/Programming/open_in_browser.svg",
       "svg.simplified": "/SVG_for_Font/open_in_browser.svg",
       "eps": "/EPS/Debug/open_in_browser.eps",
       "png": {
@@ -43164,7 +43070,7 @@
     "id": 219,
     "name": "opera_glasses",
     "platform": "Windows 8/Metro",
-    "category": "Theatre Set",
+    "category": "Cinema",
     "created": 1319548792,
     "tags": [
       "watch",
@@ -43179,7 +43085,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Theatre_Set/opera_glasses.svg",
+      "svg": "/SVG/Cinema/opera_glasses.svg",
       "svg.simplified": "/SVG_for_Font/opera_glasses.svg",
       "eps": "/EPS/Theatre_Set/opera_glasses.eps",
       "png": {
@@ -43292,7 +43198,7 @@
     "id": 2291,
     "name": "osm",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1378464254,
     "tags": [
       "file",
@@ -43304,7 +43210,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/osm.svg",
+      "svg": "/SVG/Files/osm.svg",
       "svg.simplified": "/SVG_for_Font/osm.svg",
       "eps": "/EPS/File_Types/osm.eps",
       "png": {
@@ -43322,7 +43228,7 @@
     "id": 2141,
     "name": "outgoing_data",
     "platform": "Windows 8/Metro",
-    "category": "Network Status",
+    "category": "It Infrastructure",
     "created": 1381836125,
     "tags": [
       "network",
@@ -43333,7 +43239,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Network_Status/outgoing_data.svg",
+      "svg": "/SVG/It_Infrastructure/outgoing_data.svg",
       "svg.simplified": "/SVG_for_Font/outgoing_data.svg",
       "eps": "/EPS/Network_Status/outgoing_data.eps",
       "png": {
@@ -43351,7 +43257,7 @@
     "id": 424,
     "name": "outline",
     "platform": "Windows 8/Metro",
-    "category": "Debug",
+    "category": "Programming",
     "created": 1324466649,
     "tags": [
       "app",
@@ -43361,7 +43267,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Debug/outline.svg",
+      "svg": "/SVG/Programming/outline.svg",
       "svg.simplified": "/SVG_for_Font/outline.svg",
       "eps": "/EPS/Debug/outline.eps",
       "png": {
@@ -43982,7 +43888,7 @@
     "id": 827,
     "name": "palm_tree",
     "platform": "Windows 8/Metro",
-    "category": "Plants Trees",
+    "category": "Nature",
     "created": 1336654847,
     "tags": [
       "green",
@@ -43995,7 +43901,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Plants_Trees/palm_tree.svg",
+      "svg": "/SVG/Nature/palm_tree.svg",
       "svg.simplified": "/SVG_for_Font/palm_tree.svg",
       "eps": "/EPS/Plants_Trees/palm_tree.eps",
       "png": {
@@ -44072,7 +43978,7 @@
     "id": 712,
     "name": "paper",
     "platform": "Windows 8/Metro",
-    "category": "Rock Paper Scissors",
+    "category": "Printing",
     "created": 1332923606,
     "tags": [
       "play",
@@ -44088,7 +43994,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Rock_Paper_Scissors/paper.svg",
+      "svg": "/SVG/Printing/paper.svg",
       "svg.simplified": "/SVG_for_Font/paper.svg",
       "eps": "/EPS/Rock_Paper_Scissors/paper.eps",
       "png": {
@@ -44257,7 +44163,7 @@
     "id": 2409,
     "name": "park_bench",
     "platform": "Windows 8/Metro",
-    "category": "Camping Equipment",
+    "category": "Camping",
     "created": 1390342413,
     "tags": [
       "vector",
@@ -44302,7 +44208,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Camping_Equipment/park_bench.svg",
+      "svg": "/SVG/Camping/park_bench.svg",
       "svg.simplified": "/SVG_for_Font/park_bench.svg",
       "eps": "/EPS/Camping_Equipment/park_bench.eps",
       "png": {
@@ -44585,7 +44491,7 @@
     "id": 992,
     "name": "paypal",
     "platform": "Windows 8/Metro",
-    "category": "Ecommerce",
+    "category": "Finance",
     "created": 1341827953,
     "tags": [
       "cash",
@@ -44604,7 +44510,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Ecommerce/paypal_copyrighted.svg",
+      "svg": "/SVG/Finance/paypal_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/paypal_copyrighted.svg",
       "eps": "/EPS/Ecommerce/paypal.eps",
       "png": {
@@ -44622,7 +44528,7 @@
     "id": 298,
     "name": "pdf",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1322238904,
     "tags": [
       "adobe",
@@ -44638,7 +44544,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/pdf.svg",
+      "svg": "/SVG/Files/pdf.svg",
       "svg.simplified": "/SVG_for_Font/pdf.svg",
       "eps": "/EPS/File_Types/pdf.eps",
       "png": {
@@ -44656,7 +44562,7 @@
     "id": 1526,
     "name": "peanuts",
     "platform": "Windows 8/Metro",
-    "category": "Plants Trees",
+    "category": "Nature",
     "created": 1358943781,
     "tags": [
       "food",
@@ -44678,7 +44584,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Plants_Trees/peanuts.svg",
+      "svg": "/SVG/Nature/peanuts.svg",
       "svg.simplified": "/SVG_for_Font/peanuts.svg",
       "eps": "/EPS/Plants_Trees/peanuts.eps",
       "png": {
@@ -45433,7 +45339,7 @@
     "id": 1285,
     "name": "pig",
     "platform": "Windows 8/Metro",
-    "category": "Animals",
+    "category": "Nature",
     "created": 1352467474,
     "tags": [
       "design",
@@ -45476,7 +45382,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/pig.svg",
+      "svg": "/SVG/Nature/pig.svg",
       "svg.simplified": "/SVG_for_Font/pig.svg",
       "eps": "/EPS/Animals/pig.eps",
       "png": {
@@ -45494,7 +45400,7 @@
     "id": 959,
     "name": "pill",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1340694672,
     "tags": [
       "medicine",
@@ -45510,7 +45416,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/pill.svg",
+      "svg": "/SVG/Healthcare/pill.svg",
       "svg.simplified": "/SVG_for_Font/pill.svg",
       "eps": "/EPS/Medicine/pill.eps",
       "png": {
@@ -45605,7 +45511,7 @@
     "id": 1384,
     "name": "pincette",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1355315169,
     "tags": [
       "medicine",
@@ -45622,7 +45528,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/pincette.svg",
+      "svg": "/SVG/Healthcare/pincette.svg",
       "svg.simplified": "/SVG_for_Font/pincette.svg",
       "eps": "/EPS/Medicine/pincette.eps",
       "png": {
@@ -45732,7 +45638,7 @@
     "id": 1329,
     "name": "pin_cushion",
     "platform": "Windows 8/Metro",
-    "category": "Sewing",
+    "category": "Clothing",
     "created": 1353932475,
     "tags": [
       "equipment",
@@ -45743,7 +45649,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sewing/pin_cushion.svg",
+      "svg": "/SVG/Clothing/pin_cushion.svg",
       "svg.simplified": "/SVG_for_Font/pin_cushion.svg",
       "eps": "/EPS/Sewing/pin_cushion.eps",
       "png": {
@@ -46051,7 +45957,7 @@
     "id": 116,
     "name": "plaster",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1353560400,
     "tags": [
       "medicine",
@@ -46070,7 +45976,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/plaster.svg",
+      "svg": "/SVG/Healthcare/plaster.svg",
       "svg.simplified": "/SVG_for_Font/plaster.svg",
       "eps": "/EPS/Medicine/plaster.eps",
       "png": {
@@ -46612,7 +46518,7 @@
     "id": 329,
     "name": "png",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1322740256,
     "tags": [
       "graphics",
@@ -46629,7 +46535,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/png.svg",
+      "svg": "/SVG/Files/png.svg",
       "svg.simplified": "/SVG_for_Font/png.svg",
       "eps": "/EPS/File_Types/png.eps",
       "png": {
@@ -46790,7 +46696,7 @@
     "id": 1197,
     "name": "polish_cloth",
     "platform": "Windows 8/Metro",
-    "category": "Shoe Polish",
+    "category": "Clothing",
     "created": 1349176092,
     "tags": [
       "shoes",
@@ -46799,7 +46705,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Shoe_Polish/polish_cloth.svg",
+      "svg": "/SVG/Clothing/polish_cloth.svg",
       "svg.simplified": "/SVG_for_Font/polish_cloth.svg",
       "eps": "/EPS/Shoe_Polish/polish_cloth.eps",
       "png": {
@@ -47229,7 +47135,7 @@
     "id": 304,
     "name": "powerpoint",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1322238904,
     "tags": [
       "office",
@@ -47243,7 +47149,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/File_Types/powerpoint_copyrighted.svg",
+      "svg": "/SVG/Files/powerpoint_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/powerpoint_copyrighted.svg",
       "eps": "/EPS/File_Types/powerpoint.eps",
       "png": {
@@ -47324,7 +47230,7 @@
     "id": 1289,
     "name": "prawn",
     "platform": "Windows 8/Metro",
-    "category": "Animals",
+    "category": "Nature",
     "created": 1352720915,
     "tags": [
       "fish",
@@ -47335,7 +47241,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/prawn.svg",
+      "svg": "/SVG/Nature/prawn.svg",
       "svg.simplified": "/SVG_for_Font/prawn.svg",
       "eps": "/EPS/Animals/prawn.eps",
       "png": {
@@ -47353,7 +47259,7 @@
     "id": 1261,
     "name": "predator",
     "platform": "Windows 8/Metro",
-    "category": "Aliens",
+    "category": "Fiction",
     "created": 1350643690,
     "tags": [
       "alien",
@@ -47362,7 +47268,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Aliens/predator.svg",
+      "svg": "/SVG/Fiction/predator.svg",
       "svg.simplified": "/SVG_for_Font/predator.svg",
       "eps": "/EPS/Aliens/predator.eps",
       "png": {
@@ -47495,7 +47401,7 @@
     "id": 1066,
     "name": "previous",
     "platform": "Windows 8/Metro",
-    "category": "Pager",
+    "category": "Media Controls",
     "created": 1343986765,
     "tags": [
       "buttons",
@@ -47507,7 +47413,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Pager/previous.svg",
+      "svg": "/SVG/Media_Controls/previous.svg",
       "svg.simplified": "/SVG_for_Font/previous.svg",
       "eps": "/EPS/Pager/previous.eps",
       "png": {
@@ -47750,7 +47656,7 @@
     "id": 524,
     "name": "product",
     "platform": "Windows 8/Metro",
-    "category": "Website Sections",
+    "category": "Ecommerce",
     "created": 1327313615,
     "tags": [
       "web",
@@ -47761,7 +47667,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Website_Sections/product.svg",
+      "svg": "/SVG/Ecommerce/product.svg",
       "svg.simplified": "/SVG_for_Font/product.svg",
       "eps": "/EPS/Website_Sections/product.eps",
       "png": {
@@ -47844,7 +47750,7 @@
     "id": 1019,
     "name": "ps",
     "platform": "Windows 8/Metro",
-    "category": "Programming File Types",
+    "category": "Files",
     "created": 1342533527,
     "tags": [
       "adobe",
@@ -47888,7 +47794,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Programming_File_Types/ps.svg",
+      "svg": "/SVG/Files/ps.svg",
       "eps": "/EPS/Programming_File_Types/ps.eps",
       "png": {
         "128": "/PNG/Programming_File_Types/ps/ps-128.png",
@@ -47905,7 +47811,7 @@
     "id": 1480,
     "name": "ps1",
     "platform": "Windows 8/Metro",
-    "category": "Video Game Consoles",
+    "category": "Logos",
     "created": 1342690861,
     "tags": [
       "play",
@@ -47922,7 +47828,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Video_Game_Consoles/ps1_copyrighted.svg",
+      "svg": "/SVG/Logos/ps1_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/ps1_copyrighted.svg",
       "eps": "/EPS/Video_Game_Consoles/ps1.eps",
       "png": {
@@ -47940,7 +47846,7 @@
     "id": 323,
     "name": "psd",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1322654787,
     "tags": [
       "adobe",
@@ -47954,7 +47860,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/psd.svg",
+      "svg": "/SVG/Files/psd.svg",
       "svg.simplified": "/SVG_for_Font/psd.svg",
       "eps": "/EPS/File_Types/psd.eps",
       "png": {
@@ -48195,7 +48101,7 @@
     "id": 828,
     "name": "purchase_order",
     "platform": "Windows 8/Metro",
-    "category": "Accounting",
+    "category": "Ecommerce",
     "created": 1336724597,
     "tags": [
       "cash",
@@ -48216,7 +48122,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accounting/purchase_order.svg",
+      "svg": "/SVG/Ecommerce/purchase_order.svg",
       "svg.simplified": "/SVG_for_Font/purchase_order.svg",
       "eps": "/EPS/Accounting/purchase_order.eps",
       "png": {
@@ -48234,7 +48140,7 @@
     "id": 207,
     "name": "purse",
     "platform": "Windows 8/Metro",
-    "category": "Payment Methods",
+    "category": "Finance",
     "created": 1319251300,
     "tags": [
       "cash",
@@ -48249,7 +48155,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Payment_Methods/purse.svg",
+      "svg": "/SVG/Finance/purse.svg",
       "svg.simplified": "/SVG_for_Font/purse.svg",
       "eps": "/EPS/Payment_Methods/purse.eps",
       "png": {
@@ -48365,7 +48271,7 @@
     "id": 3755,
     "name": "py",
     "platform": "Windows 8/Metro",
-    "category": "Programming File Types",
+    "category": "Files",
     "created": 1396450308,
     "tags": [
       "design",
@@ -48423,7 +48329,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Programming_File_Types/py.svg",
+      "svg": "/SVG/Files/py.svg",
       "eps": "/EPS/Programming_File_Types/py.eps",
       "png": {
         "48": "/PNG/Programming_File_Types/py/py-48.png",
@@ -48745,7 +48651,7 @@
     "id": 1473,
     "name": "question",
     "platform": "Windows 8/Metro",
-    "category": "Emoticons",
+    "category": "Messaging",
     "created": 1332405437,
     "tags": [
       "ask",
@@ -48758,7 +48664,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Emoticons/question.svg",
+      "svg": "/SVG/Messaging/question.svg",
       "svg.simplified": "/SVG_for_Font/question.svg",
       "eps": "/EPS/Emoticons/question.eps",
       "png": {
@@ -49060,7 +48966,7 @@
     "id": 941,
     "name": "rabbit",
     "platform": "Windows 8/Metro",
-    "category": "Animals",
+    "category": "Nature",
     "created": 1340091902,
     "tags": [
       "vector",
@@ -49118,7 +49024,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/rabbit.svg",
+      "svg": "/SVG/Nature/rabbit.svg",
       "svg.simplified": "/SVG_for_Font/rabbit.svg",
       "eps": "/EPS/Animals/rabbit.eps",
       "png": {
@@ -49489,7 +49395,7 @@
     "id": 313,
     "name": "rar",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1322569152,
     "tags": [
       "folder",
@@ -49504,7 +49410,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/rar.svg",
+      "svg": "/SVG/Files/rar.svg",
       "svg.simplified": "/SVG_for_Font/rar.svg",
       "eps": "/EPS/File_Types/rar.eps",
       "png": {
@@ -50534,7 +50440,7 @@
     "id": 1457,
     "name": "restart",
     "platform": "Windows 8/Metro",
-    "category": "Power Buttons",
+    "category": "Computer Hardware",
     "created": 1334301271,
     "tags": [
       "refresh",
@@ -50553,7 +50459,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Power_Buttons/restart.svg",
+      "svg": "/SVG/Computer_Hardware/restart.svg",
       "svg.simplified": "/SVG_for_Font/restart.svg",
       "eps": "/EPS/Power_Buttons/restart.eps",
       "png": {
@@ -51511,7 +51417,7 @@
     "id": 711,
     "name": "rock",
     "platform": "Windows 8/Metro",
-    "category": "Rock Paper Scissors",
+    "category": "Nature",
     "created": 1332923606,
     "tags": [
       "play",
@@ -51524,7 +51430,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Rock_Paper_Scissors/rock.svg",
+      "svg": "/SVG/Nature/rock.svg",
       "svg.simplified": "/SVG_for_Font/rock.svg",
       "eps": "/EPS/Rock_Paper_Scissors/rock.eps",
       "png": {
@@ -52319,7 +52225,7 @@
     "id": 2695,
     "name": "running_rabbit",
     "platform": "Windows 8/Metro",
-    "category": "Animals",
+    "category": "Nature",
     "created": 1390342413,
     "tags": [
       "animal",
@@ -52358,7 +52264,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/running_rabbit.svg",
+      "svg": "/SVG/Nature/running_rabbit.svg",
       "svg.simplified": "/SVG_for_Font/running_rabbit.svg",
       "eps": "/EPS/Animals/running_rabbit.eps",
       "png": {
@@ -52478,7 +52384,7 @@
     "id": 677,
     "name": "sad",
     "platform": "Windows 8/Metro",
-    "category": "Emoticons",
+    "category": "Messaging",
     "created": 1331887773,
     "tags": [
       "negative",
@@ -52487,7 +52393,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Emoticons/sad.svg",
+      "svg": "/SVG/Messaging/sad.svg",
       "svg.simplified": "/SVG_for_Font/sad.svg",
       "eps": "/EPS/Emoticons/sad.eps",
       "png": {
@@ -52540,7 +52446,7 @@
     "id": 2061,
     "name": "safe",
     "platform": "Windows 8/Metro",
-    "category": "Business",
+    "category": "Finance",
     "created": 1375785144,
     "tags": [
       "bank",
@@ -52552,7 +52458,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Business/safe.svg",
+      "svg": "/SVG/Finance/safe.svg",
       "svg.simplified": "/SVG_for_Font/safe.svg",
       "eps": "/EPS/Business/safe.eps",
       "png": {
@@ -52570,7 +52476,7 @@
     "id": 1379,
     "name": "safety_pin",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1355227040,
     "tags": [
       "medicine",
@@ -52581,7 +52487,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/safety_pin.svg",
+      "svg": "/SVG/Healthcare/safety_pin.svg",
       "svg.simplified": "/SVG_for_Font/safety_pin.svg",
       "eps": "/EPS/Medicine/safety_pin.eps",
       "png": {
@@ -53099,7 +53005,7 @@
     "id": 4006,
     "name": "scalpel",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1398084705,
     "tags": [
       "hospital",
@@ -53115,7 +53021,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/scalpel.svg",
+      "svg": "/SVG/Healthcare/scalpel.svg",
       "png": {
         "256": "/PNG/Medicine/scalpel/scalpel-256.png",
         "26": "/PNG/Medicine/scalpel/scalpel-26.png",
@@ -53163,7 +53069,7 @@
     "id": 3984,
     "name": "scan_body",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1397832689,
     "tags": [
       "health",
@@ -53189,7 +53095,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/scan_body.svg",
+      "svg": "/SVG/Healthcare/scan_body.svg",
       "png": {
         "128": "/PNG/Medicine/scan_body/scan_body-128.png",
         "32": "/PNG/Medicine/scan_body/scan_body-32.png",
@@ -53334,7 +53240,7 @@
     "id": 713,
     "name": "scissors",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1332923606,
     "tags": [
       "cut",
@@ -53344,7 +53250,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/scissors.svg",
+      "svg": "/SVG/Healthcare/scissors.svg",
       "svg.simplified": "/SVG_for_Font/scissors.svg",
       "eps": "/EPS/Medicine/scissors.eps",
       "png": {
@@ -53362,7 +53268,7 @@
     "id": 620,
     "name": "sci_fi",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1330335588,
     "tags": [
       "genres",
@@ -53373,7 +53279,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/sci_fi.svg",
+      "svg": "/SVG/Cinema/sci_fi.svg",
       "svg.simplified": "/SVG_for_Font/sci_fi.svg",
       "eps": "/EPS/Movie_Genres/sci_fi.eps",
       "png": {
@@ -53709,7 +53615,7 @@
     "id": 3024,
     "name": "seahorse",
     "platform": "Windows 8/Metro",
-    "category": "Sea",
+    "category": "Nature",
     "created": 1390565309,
     "tags": [
       "fish",
@@ -53735,7 +53641,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sea/seahorse.svg",
+      "svg": "/SVG/Nature/seahorse.svg",
       "svg.simplified": "/SVG_for_Font/seahorse.svg",
       "eps": "/EPS/Sea/seahorse.eps",
       "png": {
@@ -53794,14 +53700,14 @@
     "id": 3022,
     "name": "sea_waves",
     "platform": "Windows 8/Metro",
-    "category": "Sea",
+    "category": "Nature",
     "created": 1390485046,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sea/sea_waves.svg",
+      "svg": "/SVG/Nature/sea_waves.svg",
       "svg.simplified": "/SVG_for_Font/sea_waves.svg",
       "eps": "/EPS/Sea/sea_waves.eps",
       "png": {
@@ -54036,7 +53942,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Ecommerce/SEK.svg",
       "svg.simplified": "/SVG_for_Font/SEK.svg",
       "eps": "/EPS/Ecommerce/SEK.eps",
       "png": {
@@ -54349,7 +54254,7 @@
     "id": 525,
     "name": "services",
     "platform": "Windows 8/Metro",
-    "category": "Website Sections",
+    "category": "Very Basic",
     "created": 1327313615,
     "tags": [
       "admin",
@@ -54369,7 +54274,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Website_Sections/services.svg",
+      "svg": "/SVG/Very_Basic/services.svg",
       "svg.simplified": "/SVG_for_Font/services.svg",
       "eps": "/EPS/Website_Sections/services.eps",
       "png": {
@@ -54554,7 +54459,7 @@
     "id": 3025,
     "name": "shark",
     "platform": "Windows 8/Metro",
-    "category": "Sea",
+    "category": "Nature",
     "created": 1390565309,
     "tags": [
       "vector",
@@ -54580,7 +54485,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sea/shark.svg",
+      "svg": "/SVG/Nature/shark.svg",
       "svg.simplified": "/SVG_for_Font/shark.svg",
       "eps": "/EPS/Sea/shark.eps",
       "png": {
@@ -54598,7 +54503,7 @@
     "id": 432,
     "name": "sheep",
     "platform": "Windows 8/Metro",
-    "category": "Animals",
+    "category": "Nature",
     "created": 1324900438,
     "tags": [
       "sheep",
@@ -54607,7 +54512,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/sheep.svg",
+      "svg": "/SVG/Nature/sheep.svg",
       "svg.simplified": "/SVG_for_Font/sheep.svg",
       "eps": "/EPS/Animals/sheep.eps",
       "png": {
@@ -54625,7 +54530,7 @@
     "id": 137,
     "name": "sheep2",
     "platform": "Windows 8/Metro",
-    "category": "Animals",
+    "category": "Nature",
     "created": 1293858000,
     "tags": [
       "animal",
@@ -54639,7 +54544,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/sheep2.svg",
+      "svg": "/SVG/Nature/sheep2.svg",
       "svg.simplified": "/SVG_for_Font/sheep2.svg",
       "eps": "/EPS/Animals/sheep2.eps",
       "png": {
@@ -54657,7 +54562,7 @@
     "id": 494,
     "name": "sheep_on_bike",
     "platform": "Windows 8/Metro",
-    "category": "Animals",
+    "category": "Nature",
     "created": 1324900438,
     "tags": [
       "sheep",
@@ -54671,7 +54576,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/sheep_on_bike.svg",
+      "svg": "/SVG/Nature/sheep_on_bike.svg",
       "svg.simplified": "/SVG_for_Font/sheep_on_bike.svg",
       "eps": "/EPS/Animals/sheep_on_bike.eps",
       "png": {
@@ -54854,7 +54759,7 @@
     "id": 1195,
     "name": "shoe_brush1",
     "platform": "Windows 8/Metro",
-    "category": "Shoe Polish",
+    "category": "Clothing",
     "created": 1349091080,
     "tags": [
       "shoes",
@@ -54865,7 +54770,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Shoe_Polish/shoe_brush1.svg",
+      "svg": "/SVG/Clothing/shoe_brush1.svg",
       "svg.simplified": "/SVG_for_Font/shoe_brush1.svg",
       "eps": "/EPS/Shoe_Polish/shoe_brush1.eps",
       "png": {
@@ -54883,7 +54788,7 @@
     "id": 1196,
     "name": "shoe_brush2",
     "platform": "Windows 8/Metro",
-    "category": "Shoe Polish",
+    "category": "Clothing",
     "created": 1349091080,
     "tags": [
       "shoes",
@@ -54894,7 +54799,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Shoe_Polish/shoe_brush2.svg",
+      "svg": "/SVG/Clothing/shoe_brush2.svg",
       "svg.simplified": "/SVG_for_Font/shoe_brush2.svg",
       "eps": "/EPS/Shoe_Polish/shoe_brush2.eps",
       "png": {
@@ -54944,7 +54849,7 @@
     "id": 1194,
     "name": "shoe_polish",
     "platform": "Windows 8/Metro",
-    "category": "Shoe Polish",
+    "category": "Clothing",
     "created": 1349091080,
     "tags": [
       "shoes",
@@ -54955,7 +54860,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Shoe_Polish/shoe_polish.svg",
+      "svg": "/SVG/Clothing/shoe_polish.svg",
       "svg.simplified": "/SVG_for_Font/shoe_polish.svg",
       "eps": "/EPS/Shoe_Polish/shoe_polish.eps",
       "png": {
@@ -55068,14 +54973,14 @@
     "id": 2615,
     "name": "shopping_basket",
     "platform": "Windows 8/Metro",
-    "category": "Ecommerce",
+    "category": "Finance",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Ecommerce/shopping_basket.svg",
+      "svg": "/SVG/Finance/shopping_basket.svg",
       "svg.simplified": "/SVG_for_Font/shopping_basket.svg",
       "eps": "/EPS/Ecommerce/shopping_basket.eps",
       "png": {
@@ -55390,7 +55295,7 @@
     "id": 1456,
     "name": "shutdown",
     "platform": "Windows 8/Metro",
-    "category": "Power Buttons",
+    "category": "Computer Hardware",
     "created": 1334301271,
     "tags": [
       "play",
@@ -55414,7 +55319,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Power_Buttons/shutdown.svg",
+      "svg": "/SVG/Computer_Hardware/shutdown.svg",
       "svg.simplified": "/SVG_for_Font/shutdown.svg",
       "eps": "/EPS/Power_Buttons/shutdown.eps",
       "png": {
@@ -55860,7 +55765,7 @@
     "id": 2068,
     "name": "skeleton",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1375868348,
     "tags": [
       "medicine",
@@ -55869,7 +55774,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/skeleton.svg",
+      "svg": "/SVG/Healthcare/skeleton.svg",
       "svg.simplified": "/SVG_for_Font/skeleton.svg",
       "eps": "/EPS/Medicine/skeleton.eps",
       "png": {
@@ -55947,7 +55852,7 @@
     "id": 4008,
     "name": "skull",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1398084705,
     "tags": [
       "locker",
@@ -55963,7 +55868,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/skull.svg",
+      "svg": "/SVG/Healthcare/skull.svg",
       "png": {
         "32": "/PNG/Medicine/skull/skull-32.png",
         "128": "/PNG/Medicine/skull/skull-128.png",
@@ -56198,7 +56103,7 @@
     "id": 1459,
     "name": "sleep",
     "platform": "Windows 8/Metro",
-    "category": "Power Buttons",
+    "category": "Computer Hardware",
     "created": 1334301271,
     "tags": [
       "off",
@@ -56218,7 +56123,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Power_Buttons/sleep.svg",
+      "svg": "/SVG/Computer_Hardware/sleep.svg",
       "svg.simplified": "/SVG_for_Font/sleep.svg",
       "eps": "/EPS/Power_Buttons/sleep.eps",
       "png": {
@@ -56236,7 +56141,7 @@
     "id": 690,
     "name": "sleeping",
     "platform": "Windows 8/Metro",
-    "category": "Emoticons",
+    "category": "Messaging",
     "created": 1332234915,
     "tags": [
       "lamp",
@@ -56248,7 +56153,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Emoticons/sleeping.svg",
+      "svg": "/SVG/Messaging/sleeping.svg",
       "svg.simplified": "/SVG_for_Font/sleeping.svg",
       "eps": "/EPS/Emoticons/sleeping.eps",
       "png": {
@@ -56266,7 +56171,7 @@
     "id": 1342,
     "name": "sleeping_bag",
     "platform": "Windows 8/Metro",
-    "category": "Camping Equipment",
+    "category": "Camping",
     "created": 1354537363,
     "tags": [
       "blanket",
@@ -56292,7 +56197,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Camping_Equipment/sleeping_bag.svg",
+      "svg": "/SVG/Camping/sleeping_bag.svg",
       "svg.simplified": "/SVG_for_Font/sleeping_bag.svg",
       "eps": "/EPS/Camping_Equipment/sleeping_bag.eps",
       "png": {
@@ -56310,7 +56215,7 @@
     "id": 3528,
     "name": "sleeping_mat",
     "platform": "Windows 8/Metro",
-    "category": "Camping Equipment",
+    "category": "Camping",
     "created": 1394110277,
     "tags": [
       "spin",
@@ -56336,7 +56241,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Camping_Equipment/sleeping_mat.svg",
+      "svg": "/SVG/Camping/sleeping_mat.svg",
       "svg.simplified": "/SVG_for_Font/sleeping_mat.svg",
       "eps": "/EPS/Camping_Equipment/sleeping_mat.eps",
       "png": {
@@ -56354,7 +56259,7 @@
     "id": 1628,
     "name": "sleeping_room",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1384864091,
     "tags": [
       "design",
@@ -56399,7 +56304,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/sleeping_room.svg",
+      "svg": "/SVG/Household/sleeping_room.svg",
       "svg.simplified": "/SVG_for_Font/sleeping_room.svg",
       "eps": "/EPS/Accommodation/sleeping_room.eps",
       "png": {
@@ -56734,7 +56639,7 @@
     "id": 2377,
     "name": "small_axe",
     "platform": "Windows 8/Metro",
-    "category": "Camping Equipment",
+    "category": "Camping",
     "created": 1390342413,
     "tags": [
       "cut",
@@ -56781,7 +56686,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Camping_Equipment/small_axe.svg",
+      "svg": "/SVG/Camping/small_axe.svg",
       "svg.simplified": "/SVG_for_Font/small_axe.svg",
       "eps": "/EPS/Camping_Equipment/small_axe.eps",
       "png": {
@@ -57336,7 +57241,7 @@
     "id": 526,
     "name": "solutions",
     "platform": "Windows 8/Metro",
-    "category": "Website Sections",
+    "category": "Very Basic",
     "created": 1327313615,
     "tags": [
       "idea",
@@ -57351,7 +57256,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Website_Sections/solutions.svg",
+      "svg": "/SVG/Very_Basic/solutions.svg",
       "svg.simplified": "/SVG_for_Font/solutions.svg",
       "eps": "/EPS/Website_Sections/solutions.eps",
       "png": {
@@ -57496,7 +57401,7 @@
     "id": 1528,
     "name": "soy",
     "platform": "Windows 8/Metro",
-    "category": "Plants Trees",
+    "category": "Nature",
     "created": 1358943781,
     "tags": [
       "food",
@@ -57517,7 +57422,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Plants_Trees/soy.svg",
+      "svg": "/SVG/Nature/soy.svg",
       "svg.simplified": "/SVG_for_Font/soy.svg",
       "eps": "/EPS/Plants_Trees/soy.eps",
       "png": {
@@ -57890,7 +57795,7 @@
     "id": 627,
     "name": "sport",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1330510494,
     "tags": [
       "ball",
@@ -57904,7 +57809,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/sport.svg",
+      "svg": "/SVG/Cinema/sport.svg",
       "svg.simplified": "/SVG_for_Font/sport.svg",
       "eps": "/EPS/Movie_Genres/sport.eps",
       "png": {
@@ -58114,7 +58019,7 @@
     "id": 3764,
     "name": "sql",
     "platform": "Windows 8/Metro",
-    "category": "Programming File Types",
+    "category": "Files",
     "created": 1396551100,
     "tags": [
       "design",
@@ -58144,7 +58049,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Programming_File_Types/sql.svg",
+      "svg": "/SVG/Files/sql.svg",
       "eps": "/EPS/Programming_File_Types/sql.eps",
       "png": {
         "256": "/PNG/Programming_File_Types/sql/sql-256.png",
@@ -58405,14 +58310,14 @@
     "id": 3858,
     "name": "stairs",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1396889503,
     "tags": [
       "force"
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/stairs.svg",
+      "svg": "/SVG/Household/stairs.svg",
       "eps": "/EPS/Accommodation/stairs.eps",
       "png": {
         "128": "/PNG/Accommodation/stairs/stairs-128.png",
@@ -58429,14 +58334,14 @@
     "id": 3854,
     "name": "stairs_down",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1396889503,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/stairs_down.svg",
+      "svg": "/SVG/Household/stairs_down.svg",
       "eps": "/EPS/Accommodation/stairs_down.eps",
       "png": {
         "256": "/PNG/Accommodation/stairs_down/stairs_down-256.png",
@@ -58453,14 +58358,14 @@
     "id": 3856,
     "name": "stairs_up",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1396889503,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/stairs_up.svg",
+      "svg": "/SVG/Household/stairs_up.svg",
       "eps": "/EPS/Accommodation/stairs_up.eps",
       "png": {
         "26": "/PNG/Accommodation/stairs_up/stairs_up-26.png",
@@ -58653,7 +58558,7 @@
     "id": 3035,
     "name": "starfish",
     "platform": "Windows 8/Metro",
-    "category": "Sea",
+    "category": "Nature",
     "created": 1390823452,
     "tags": [
       "design",
@@ -58679,7 +58584,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sea/starfish.svg",
+      "svg": "/SVG/Nature/starfish.svg",
       "svg.simplified": "/SVG_for_Font/starfish.svg",
       "eps": "/EPS/Sea/starfish.eps",
       "png": {
@@ -58925,7 +58830,7 @@
     "id": 957,
     "name": "stethoscope",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1340609024,
     "tags": [
       "medicine",
@@ -58937,7 +58842,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/stethoscope.svg",
+      "svg": "/SVG/Healthcare/stethoscope.svg",
       "svg.simplified": "/SVG_for_Font/stethoscope.svg",
       "eps": "/EPS/Medicine/stethoscope.eps",
       "png": {
@@ -58955,7 +58860,7 @@
     "id": 2071,
     "name": "stomach",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1375868348,
     "tags": [
       "medicine",
@@ -58964,7 +58869,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/stomach.svg",
+      "svg": "/SVG/Healthcare/stomach.svg",
       "svg.simplified": "/SVG_for_Font/stomach.svg",
       "eps": "/EPS/Medicine/stomach.eps",
       "png": {
@@ -59485,7 +59390,7 @@
     "id": 3871,
     "name": "suicide_risk",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1397155911,
     "tags": [
       "dangerous",
@@ -59515,7 +59420,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/suicide_risk.svg",
+      "svg": "/SVG/Healthcare/suicide_risk.svg",
       "eps": "/EPS/Medicine/suicide_risk.eps",
       "png": {
         "64": "/PNG/Medicine/suicide_risk/suicide_risk-64.png",
@@ -59809,7 +59714,7 @@
     "id": 527,
     "name": "support",
     "platform": "Windows 8/Metro",
-    "category": "Website Sections",
+    "category": "Very Basic",
     "created": 1327398564,
     "tags": [
       "tools",
@@ -59825,7 +59730,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Website_Sections/support.svg",
+      "svg": "/SVG/Very_Basic/support.svg",
       "svg.simplified": "/SVG_for_Font/support.svg",
       "eps": "/EPS/Website_Sections/support.eps",
       "png": {
@@ -59872,14 +59777,14 @@
     "id": 3563,
     "name": "surgical_scissors",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1394729489,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/surgical_scissors.svg",
+      "svg": "/SVG/Healthcare/surgical_scissors.svg",
       "svg.simplified": "/SVG_for_Font/surgical_scissors.svg",
       "eps": "/EPS/Medicine/surgical_scissors.eps",
       "png": {
@@ -59897,7 +59802,7 @@
     "id": 686,
     "name": "surprised",
     "platform": "Windows 8/Metro",
-    "category": "Emoticons",
+    "category": "Messaging",
     "created": 1332234915,
     "tags": [
       "emoticons",
@@ -59906,7 +59811,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Emoticons/surprised.svg",
+      "svg": "/SVG/Messaging/surprised.svg",
       "svg.simplified": "/SVG_for_Font/surprised.svg",
       "eps": "/EPS/Emoticons/surprised.eps",
       "png": {
@@ -59924,7 +59829,7 @@
     "id": 1367,
     "name": "survival_bag",
     "platform": "Windows 8/Metro",
-    "category": "Camping Equipment",
+    "category": "Camping",
     "created": 1354882457,
     "tags": [
       "medicine",
@@ -59951,7 +59856,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Camping_Equipment/survival_bag.svg",
+      "svg": "/SVG/Camping/survival_bag.svg",
       "eps": "/EPS/Camping_Equipment/survival_bag.eps",
       "png": {
         "256": "/PNG/Camping_Equipment/survival_bag/survival_bag-256.png",
@@ -60264,7 +60169,7 @@
     "id": 2532,
     "name": "swiss_army_knife",
     "platform": "Windows 8/Metro",
-    "category": "Camping Equipment",
+    "category": "Camping",
     "created": 1390342413,
     "tags": [
       "design",
@@ -60312,7 +60217,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Camping_Equipment/swiss_army_knife.svg",
+      "svg": "/SVG/Camping/swiss_army_knife.svg",
       "svg.simplified": "/SVG_for_Font/swiss_army_knife.svg",
       "eps": "/EPS/Camping_Equipment/swiss_army_knife.eps",
       "png": {
@@ -60585,7 +60490,7 @@
     "id": 961,
     "name": "syringe",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1340694672,
     "tags": [
       "medicine",
@@ -60599,7 +60504,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/syringe.svg",
+      "svg": "/SVG/Healthcare/syringe.svg",
       "svg.simplified": "/SVG_for_Font/syringe.svg",
       "eps": "/EPS/Medicine/syringe.eps",
       "png": {
@@ -61160,7 +61065,7 @@
     "id": 1921,
     "name": "tattoo",
     "platform": "Windows 8/Metro",
-    "category": "Subculture",
+    "category": "Cultures",
     "created": 1372244229,
     "tags": [
       "arrow",
@@ -61181,7 +61086,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Subculture/tattoo.svg",
+      "svg": "/SVG/Cultures/tattoo.svg",
       "svg.simplified": "/SVG_for_Font/tattoo.svg",
       "eps": "/EPS/Subculture/tattoo.eps",
       "png": {
@@ -61199,7 +61104,7 @@
     "id": 1922,
     "name": "tattoo_machine",
     "platform": "Windows 8/Metro",
-    "category": "Subculture",
+    "category": "Cultures",
     "created": 1372244229,
     "tags": [
       "ink",
@@ -61219,7 +61124,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Subculture/tattoo_machine.svg",
+      "svg": "/SVG/Cultures/tattoo_machine.svg",
       "svg.simplified": "/SVG_for_Font/tattoo_machine.svg",
       "eps": "/EPS/Subculture/tattoo_machine.eps",
       "png": {
@@ -61800,7 +61705,7 @@
     "id": 218,
     "name": "theatre_masks",
     "platform": "Windows 8/Metro",
-    "category": "Theatre Set",
+    "category": "Cinema",
     "created": 1319548792,
     "tags": [
       "watch",
@@ -61823,7 +61728,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Theatre_Set/theatre_masks.svg",
+      "svg": "/SVG/Cinema/theatre_masks.svg",
       "svg.simplified": "/SVG_for_Font/theatre_masks.svg",
       "eps": "/EPS/Theatre_Set/theatre_masks.eps",
       "png": {
@@ -61841,7 +61746,7 @@
     "id": 3872,
     "name": "therapy",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1397155911,
     "tags": [
       "exercise",
@@ -61873,7 +61778,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/therapy.svg",
+      "svg": "/SVG/Healthcare/therapy.svg",
       "eps": "/EPS/Medicine/therapy.eps",
       "png": {
         "128": "/PNG/Medicine/therapy/therapy-128.png",
@@ -61923,7 +61828,7 @@
     "id": 1332,
     "name": "thimble",
     "platform": "Windows 8/Metro",
-    "category": "Sewing",
+    "category": "Clothing",
     "created": 1354015028,
     "tags": [
       "textile",
@@ -61940,7 +61845,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sewing/thimble.svg",
+      "svg": "/SVG/Clothing/thimble.svg",
       "svg.simplified": "/SVG_for_Font/thimble.svg",
       "eps": "/EPS/Sewing/thimble.eps",
       "png": {
@@ -62203,7 +62108,7 @@
     "id": 739,
     "name": "ticket",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1333618099,
     "tags": [
       "news",
@@ -62213,7 +62118,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/ticket.svg",
+      "svg": "/SVG/Cinema/ticket.svg",
       "svg.simplified": "/SVG_for_Font/ticket.svg",
       "eps": "/EPS/Data/ticket.eps",
       "png": {
@@ -64028,7 +63933,7 @@
     "id": 2538,
     "name": "toilet",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1390342413,
     "tags": [
       "design",
@@ -64071,7 +63976,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/toilet.svg",
+      "svg": "/SVG/Household/toilet.svg",
       "svg.simplified": "/SVG_for_Font/toilet.svg",
       "eps": "/EPS/Accommodation/toilet.eps",
       "png": {
@@ -64089,7 +63994,7 @@
     "id": 3099,
     "name": "toilet_pan",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1391525457,
     "tags": [
       "design",
@@ -64143,7 +64048,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/toilet_pan.svg",
+      "svg": "/SVG/Household/toilet_pan.svg",
       "svg.simplified": "/SVG_for_Font/toilet_pan.svg",
       "eps": "/EPS/Accommodation/toilet_pan.eps",
       "png": {
@@ -64161,7 +64066,7 @@
     "id": 1810,
     "name": "tomato",
     "platform": "Windows 8/Metro",
-    "category": "Plants Trees",
+    "category": "Nature",
     "created": 1367869517,
     "tags": [
       "food",
@@ -64176,7 +64081,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Plants_Trees/tomato.svg",
+      "svg": "/SVG/Nature/tomato.svg",
       "svg.simplified": "/SVG_for_Font/tomato.svg",
       "eps": "/EPS/Plants_Trees/tomato.eps",
       "png": {
@@ -64194,7 +64099,7 @@
     "id": 683,
     "name": "tongue",
     "platform": "Windows 8/Metro",
-    "category": "Emoticons",
+    "category": "Messaging",
     "created": 1332146642,
     "tags": [
       "fun",
@@ -64202,7 +64107,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Emoticons/tongue.svg",
+      "svg": "/SVG/Messaging/tongue.svg",
       "svg.simplified": "/SVG_for_Font/tongue.svg",
       "eps": "/EPS/Emoticons/tongue.eps",
       "png": {
@@ -64499,7 +64404,7 @@
     "id": 2490,
     "name": "towel",
     "platform": "Windows 8/Metro",
-    "category": "Accommodation",
+    "category": "Household",
     "created": 1390342413,
     "tags": [
       "clean",
@@ -64544,7 +64449,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Accommodation/towel.svg",
+      "svg": "/SVG/Household/towel.svg",
       "svg.simplified": "/SVG_for_Font/towel.svg",
       "eps": "/EPS/Accommodation/towel.eps",
       "png": {
@@ -64591,7 +64496,7 @@
     "id": 217,
     "name": "tragedy_mask",
     "platform": "Windows 8/Metro",
-    "category": "Theatre Set",
+    "category": "Cinema",
     "created": 1319548792,
     "tags": [
       "watch",
@@ -64610,7 +64515,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Theatre_Set/tragedy_mask.svg",
+      "svg": "/SVG/Cinema/tragedy_mask.svg",
       "svg.simplified": "/SVG_for_Font/tragedy_mask.svg",
       "eps": "/EPS/Theatre_Set/tragedy_mask.eps",
       "png": {
@@ -64783,7 +64688,7 @@
     "id": 1352,
     "name": "trangia_stove",
     "platform": "Windows 8/Metro",
-    "category": "Camping Equipment",
+    "category": "Camping",
     "created": 1354537363,
     "tags": [
       "sound",
@@ -64810,7 +64715,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Camping_Equipment/trangia_stove.svg",
+      "svg": "/SVG/Camping/trangia_stove.svg",
       "svg.simplified": "/SVG_for_Font/trangia_stove.svg",
       "eps": "/EPS/Camping_Equipment/trangia_stove.eps",
       "png": {
@@ -64924,7 +64829,7 @@
     "id": 3729,
     "name": "treatment_plan",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1396036303,
     "tags": [
       "design",
@@ -64959,7 +64864,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/treatment_plan.svg",
+      "svg": "/SVG/Healthcare/treatment_plan.svg",
       "eps": "/EPS/Medicine/treatment_plan.eps",
       "png": {
         "26": "/PNG/Medicine/treatment_plan/treatment_plan-26.png",
@@ -65099,7 +65004,7 @@
     "id": 149,
     "name": "triangular_bandage",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1373049525,
     "tags": [
       "help",
@@ -65116,7 +65021,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/triangular_bandage.svg",
+      "svg": "/SVG/Healthcare/triangular_bandage.svg",
       "svg.simplified": "/SVG_for_Font/triangular_bandage.svg",
       "eps": "/EPS/Medicine/triangular_bandage.eps",
       "png": {
@@ -65277,7 +65182,7 @@
     "id": 628,
     "name": "triller",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1330510494,
     "tags": [
       "death",
@@ -65288,7 +65193,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/triller.svg",
+      "svg": "/SVG/Cinema/triller.svg",
       "svg.simplified": "/SVG_for_Font/triller.svg",
       "eps": "/EPS/Movie_Genres/triller.eps",
       "png": {
@@ -65625,7 +65530,7 @@
     "id": 2388,
     "name": "turtle",
     "platform": "Windows 8/Metro",
-    "category": "Animals",
+    "category": "Nature",
     "created": 1390342413,
     "tags": [
       "design",
@@ -65668,7 +65573,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/turtle.svg",
+      "svg": "/SVG/Nature/turtle.svg",
       "svg.simplified": "/SVG_for_Font/turtle.svg",
       "eps": "/EPS/Animals/turtle.eps",
       "png": {
@@ -65901,7 +65806,7 @@
     "id": 1477,
     "name": "two_pages",
     "platform": "Windows 8/Metro",
-    "category": "Print Preview",
+    "category": "Printing",
     "created": 1337324093,
     "tags": [
       "number",
@@ -65919,7 +65824,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Print_Preview/two_pages.svg",
+      "svg": "/SVG/Printing/two_pages.svg",
       "svg.simplified": "/SVG_for_Font/two_pages.svg",
       "eps": "/EPS/Print_Preview/two_pages.eps",
       "png": {
@@ -65967,7 +65872,7 @@
     "id": 2289,
     "name": "txt",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1378386947,
     "tags": [
       "file",
@@ -65979,7 +65884,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/txt.svg",
+      "svg": "/SVG/Files/txt.svg",
       "svg.simplified": "/SVG_for_Font/txt.svg",
       "eps": "/EPS/File_Types/txt.eps",
       "png": {
@@ -66623,7 +66528,7 @@
     "id": 786,
     "name": "usb_connected",
     "platform": "Windows 8/Metro",
-    "category": "USB",
+    "category": "Computer Hardware",
     "created": 1335169586,
     "tags": [
       "check",
@@ -66639,7 +66544,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/USB/usb_connected.svg",
+      "svg": "/SVG/Computer_Hardware/usb_connected.svg",
       "svg.simplified": "/SVG_for_Font/usb_connected.svg",
       "eps": "/EPS/USB/usb_connected.eps",
       "png": {
@@ -66657,7 +66562,7 @@
     "id": 2331,
     "name": "usb_connector",
     "platform": "Windows 8/Metro",
-    "category": "USB",
+    "category": "Computer Hardware",
     "created": 1377683318,
     "tags": [
       "connect",
@@ -66668,7 +66573,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/USB/usb_connector.svg",
+      "svg": "/SVG/Computer_Hardware/usb_connector.svg",
       "svg.simplified": "/SVG_for_Font/usb_connector.svg",
       "eps": "/EPS/USB/usb_connector.eps",
       "png": {
@@ -66686,7 +66591,7 @@
     "id": 787,
     "name": "usb_disconnected",
     "platform": "Windows 8/Metro",
-    "category": "USB",
+    "category": "Computer Hardware",
     "created": 1335169586,
     "tags": [
       "files",
@@ -66701,7 +66606,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/USB/usb_disconnected.svg",
+      "svg": "/SVG/Computer_Hardware/usb_disconnected.svg",
       "svg.simplified": "/SVG_for_Font/usb_disconnected.svg",
       "eps": "/EPS/USB/usb_disconnected.eps",
       "png": {
@@ -66719,7 +66624,7 @@
     "id": 2330,
     "name": "usb_logo",
     "platform": "Windows 8/Metro",
-    "category": "USB",
+    "category": "Computer Hardware",
     "created": 1377683318,
     "tags": [
       "connect",
@@ -66730,7 +66635,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/USB/usb_logo.svg",
+      "svg": "/SVG/Computer_Hardware/usb_logo.svg",
       "svg.simplified": "/SVG_for_Font/usb_logo.svg",
       "eps": "/EPS/USB/usb_logo.eps",
       "png": {
@@ -66748,7 +66653,7 @@
     "id": 785,
     "name": "usb_off",
     "platform": "Windows 8/Metro",
-    "category": "USB",
+    "category": "Computer Hardware",
     "created": 1335169586,
     "tags": [
       "files",
@@ -66763,7 +66668,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/USB/usb_off.svg",
+      "svg": "/SVG/Computer_Hardware/usb_off.svg",
       "svg.simplified": "/SVG_for_Font/usb_off.svg",
       "eps": "/EPS/USB/usb_off.eps",
       "png": {
@@ -66781,7 +66686,7 @@
     "id": 784,
     "name": "usb_on",
     "platform": "Windows 8/Metro",
-    "category": "USB",
+    "category": "Computer Hardware",
     "created": 1335169586,
     "tags": [
       "files",
@@ -66793,7 +66698,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/USB/usb_on.svg",
+      "svg": "/SVG/Computer_Hardware/usb_on.svg",
       "svg.simplified": "/SVG_for_Font/usb_on.svg",
       "eps": "/EPS/USB/usb_on.eps",
       "png": {
@@ -66828,7 +66733,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Ecommerce/USD.svg",
       "svg.simplified": "/SVG_for_Font/USD.svg",
       "eps": "/EPS/Ecommerce/USD.eps",
       "png": {
@@ -67115,7 +67019,7 @@
     "id": 420,
     "name": "variable",
     "platform": "Windows 8/Metro",
-    "category": "Debug",
+    "category": "Programming",
     "created": 1324466649,
     "tags": [
       "app",
@@ -67125,7 +67029,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Debug/variable.svg",
+      "svg": "/SVG/Programming/variable.svg",
       "svg.simplified": "/SVG_for_Font/variable.svg",
       "eps": "/EPS/Debug/variable.eps",
       "png": {
@@ -67143,7 +67047,7 @@
     "id": 3832,
     "name": "vb",
     "platform": "Windows 8/Metro",
-    "category": "Programming File Types",
+    "category": "Files",
     "created": 1396637495,
     "tags": [
       "windows",
@@ -67168,7 +67072,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Programming_File_Types/vb.svg",
+      "svg": "/SVG/Files/vb.svg",
       "eps": "/EPS/Programming_File_Types/vb.eps",
       "png": {
         "256": "/PNG/Programming_File_Types/vb/vb-256.png",
@@ -67185,7 +67089,7 @@
     "id": 3748,
     "name": "vbs",
     "platform": "Windows 8/Metro",
-    "category": "Programming File Types",
+    "category": "Files",
     "created": 1396378295,
     "tags": [
       "design",
@@ -67213,7 +67117,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Programming_File_Types/vbs.svg",
+      "svg": "/SVG/Files/vbs.svg",
       "eps": "/EPS/Programming_File_Types/vbs.eps",
       "png": {
         "32": "/PNG/Programming_File_Types/vbs/vbs-32.png",
@@ -67601,7 +67505,7 @@
     "id": 1446,
     "name": "vhs",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1357817801,
     "tags": [
       "film",
@@ -67628,7 +67532,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/vhs.svg",
+      "svg": "/SVG/Files/vhs.svg",
       "svg.simplified": "/SVG_for_Font/vhs.svg",
       "eps": "/EPS/File_Types/vhs.eps",
       "png": {
@@ -68018,7 +67922,7 @@
     "id": 1428,
     "name": "visa",
     "platform": "Windows 8/Metro",
-    "category": "Payment Methods",
+    "category": "Finance",
     "created": 1356695407,
     "tags": [
       "bank",
@@ -68045,7 +67949,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Payment_Methods/visa_copyrighted.svg",
+      "svg": "/SVG/Finance/visa_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/visa_copyrighted.svg",
       "eps": "/EPS/Payment_Methods/visa.eps",
       "png": {
@@ -68368,7 +68272,7 @@
     "id": 642,
     "name": "volume_down",
     "platform": "Windows 8/Metro",
-    "category": "Volume Controls",
+    "category": "Media Controls",
     "created": 1331112392,
     "tags": [
       "control",
@@ -68388,7 +68292,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Volume_Controls/volume_down.svg",
+      "svg": "/SVG/Media_Controls/volume_down.svg",
       "svg.simplified": "/SVG_for_Font/volume_down.svg",
       "eps": "/EPS/Volume_Controls/volume_down.eps",
       "png": {
@@ -68406,7 +68310,7 @@
     "id": 641,
     "name": "volume_up",
     "platform": "Windows 8/Metro",
-    "category": "Volume Controls",
+    "category": "Media Controls",
     "created": 1331112392,
     "tags": [
       "music",
@@ -68422,7 +68326,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Volume_Controls/volume_up.svg",
+      "svg": "/SVG/Media_Controls/volume_up.svg",
       "svg.simplified": "/SVG_for_Font/volume_up.svg",
       "eps": "/EPS/Volume_Controls/volume_up.eps",
       "png": {
@@ -68637,7 +68541,7 @@
     "id": 3063,
     "name": "walker",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1391176261,
     "tags": [
       "line",
@@ -68663,7 +68567,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/walker.svg",
+      "svg": "/SVG/Healthcare/walker.svg",
       "svg.simplified": "/SVG_for_Font/walker.svg",
       "eps": "/EPS/Medicine/walker.eps",
       "png": {
@@ -68753,7 +68657,7 @@
     "id": 2566,
     "name": "walking_bridge",
     "platform": "Windows 8/Metro",
-    "category": "Camping Equipment",
+    "category": "Camping",
     "created": 1390342413,
     "tags": [
       "design",
@@ -68807,7 +68711,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Camping_Equipment/walking_bridge.svg",
+      "svg": "/SVG/Camping/walking_bridge.svg",
       "svg.simplified": "/SVG_for_Font/walking_bridge.svg",
       "eps": "/EPS/Camping_Equipment/walking_bridge.eps",
       "png": {
@@ -68825,7 +68729,7 @@
     "id": 3053,
     "name": "walking_stick",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1391089846,
     "tags": [
       "design",
@@ -68870,7 +68774,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/walking_stick.svg",
+      "svg": "/SVG/Healthcare/walking_stick.svg",
       "svg.simplified": "/SVG_for_Font/walking_stick.svg",
       "eps": "/EPS/Medicine/walking_stick.eps",
       "png": {
@@ -68888,7 +68792,7 @@
     "id": 208,
     "name": "wallet",
     "platform": "Windows 8/Metro",
-    "category": "Payment Methods",
+    "category": "Finance",
     "created": 1319251300,
     "tags": [
       "cash",
@@ -68906,7 +68810,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Payment_Methods/wallet.svg",
+      "svg": "/SVG/Finance/wallet.svg",
       "svg.simplified": "/SVG_for_Font/wallet.svg",
       "eps": "/EPS/Payment_Methods/wallet.eps",
       "png": {
@@ -69166,7 +69070,7 @@
     "id": 422,
     "name": "watch",
     "platform": "Windows 8/Metro",
-    "category": "Debug",
+    "category": "Programming",
     "created": 1324466649,
     "tags": [
       "clock",
@@ -69176,7 +69080,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Debug/watch.svg",
+      "svg": "/SVG/Programming/watch.svg",
       "svg.simplified": "/SVG_for_Font/watch.svg",
       "eps": "/EPS/Debug/watch.eps",
       "png": {
@@ -69229,7 +69133,7 @@
     "id": 2426,
     "name": "waterfall",
     "platform": "Windows 8/Metro",
-    "category": "Camping Equipment",
+    "category": "Camping",
     "created": 1390342413,
     "tags": [
       "design",
@@ -69282,7 +69186,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Camping_Equipment/waterfall.svg",
+      "svg": "/SVG/Camping/waterfall.svg",
       "svg.simplified": "/SVG_for_Font/waterfall.svg",
       "eps": "/EPS/Camping_Equipment/waterfall.eps",
       "png": {
@@ -69330,7 +69234,7 @@
     "id": 1358,
     "name": "water_bottle",
     "platform": "Windows 8/Metro",
-    "category": "Camping Equipment",
+    "category": "Camping",
     "created": 1354623164,
     "tags": [
       "drink",
@@ -69357,7 +69261,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Camping_Equipment/water_bottle.svg",
+      "svg": "/SVG/Camping/water_bottle.svg",
       "svg.simplified": "/SVG_for_Font/water_bottle.svg",
       "eps": "/EPS/Camping_Equipment/water_bottle.eps",
       "png": {
@@ -70042,7 +69946,7 @@
     "id": 601,
     "name": "western",
     "platform": "Windows 8/Metro",
-    "category": "Movie Genres",
+    "category": "Cinema",
     "created": 1330034484,
     "tags": [
       "genres",
@@ -70053,7 +69957,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Movie_Genres/western.svg",
+      "svg": "/SVG/Cinema/western.svg",
       "svg.simplified": "/SVG_for_Font/western.svg",
       "eps": "/EPS/Movie_Genres/western.eps",
       "png": {
@@ -70192,7 +70096,7 @@
     "id": 1520,
     "name": "wheat",
     "platform": "Windows 8/Metro",
-    "category": "Plants Trees",
+    "category": "Nature",
     "created": 1358769613,
     "tags": [
       "food",
@@ -70208,7 +70112,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Plants_Trees/wheat.svg",
+      "svg": "/SVG/Nature/wheat.svg",
       "svg.simplified": "/SVG_for_Font/wheat.svg",
       "eps": "/EPS/Plants_Trees/wheat.eps",
       "png": {
@@ -70286,7 +70190,7 @@
     "id": 3048,
     "name": "wheelchair",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1390996250,
     "tags": [
       "hospital",
@@ -70333,7 +70237,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/wheelchair.svg",
+      "svg": "/SVG/Healthcare/wheelchair.svg",
       "svg.simplified": "/SVG_for_Font/wheelchair.svg",
       "eps": "/EPS/Medicine/wheelchair.eps",
       "png": {
@@ -70449,7 +70353,7 @@
     "id": 1025,
     "name": "wii",
     "platform": "Windows 8/Metro",
-    "category": "Video Game Consoles",
+    "category": "Logos",
     "created": 1342690861,
     "tags": [
       "time",
@@ -70469,7 +70373,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Video_Game_Consoles/wii_copyrighted.svg",
+      "svg": "/SVG/Logos/wii_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/wii_copyrighted.svg",
       "eps": "/EPS/Video_Game_Consoles/wii.eps",
       "png": {
@@ -70867,7 +70771,7 @@
     "id": 681,
     "name": "wink",
     "platform": "Windows 8/Metro",
-    "category": "Emoticons",
+    "category": "Messaging",
     "created": 1332146642,
     "tags": [
       "fun",
@@ -70875,7 +70779,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Emoticons/wink.svg",
+      "svg": "/SVG/Messaging/wink.svg",
       "svg.simplified": "/SVG_for_Font/wink.svg",
       "eps": "/EPS/Emoticons/wink.eps",
       "png": {
@@ -71007,7 +70911,7 @@
     "id": 1322,
     "name": "wipes",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1353671680,
     "tags": [
       "medicine",
@@ -71020,7 +70924,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/wipes.svg",
+      "svg": "/SVG/Healthcare/wipes.svg",
       "svg.simplified": "/SVG_for_Font/wipes.svg",
       "eps": "/EPS/Medicine/wipes.eps",
       "png": {
@@ -71187,7 +71091,7 @@
     "id": 309,
     "name": "wma",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1322482296,
     "tags": [
       "track",
@@ -71207,7 +71111,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/wma.svg",
+      "svg": "/SVG/Files/wma.svg",
       "svg.simplified": "/SVG_for_Font/wma.svg",
       "eps": "/EPS/File_Types/wma.eps",
       "png": {
@@ -71290,7 +71194,7 @@
     "id": 300,
     "name": "word",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1322238904,
     "tags": [
       "office",
@@ -71311,7 +71215,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/File_Types/word_copyrighted.svg",
+      "svg": "/SVG/Files/word_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/word_copyrighted.svg",
       "eps": "/EPS/File_Types/word.eps",
       "png": {
@@ -71615,7 +71519,7 @@
     "id": 3747,
     "name": "wsh",
     "platform": "Windows 8/Metro",
-    "category": "Programming File Types",
+    "category": "Files",
     "created": 1396378295,
     "tags": [
       "hour",
@@ -71641,7 +71545,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Programming_File_Types/wsh.svg",
+      "svg": "/SVG/Files/wsh.svg",
       "eps": "/EPS/Programming_File_Types/wsh.eps",
       "png": {
         "32": "/PNG/Programming_File_Types/wsh/wsh-32.png",
@@ -71792,7 +71696,7 @@
     "id": 1024,
     "name": "xbox",
     "platform": "Windows 8/Metro",
-    "category": "Video Game Consoles",
+    "category": "Logos",
     "created": 1342690861,
     "tags": [
       "play",
@@ -71811,7 +71715,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Video_Game_Consoles/xbox_copyrighted.svg",
+      "svg": "/SVG/Logos/xbox_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/xbox_copyrighted.svg",
       "eps": "/EPS/Video_Game_Consoles/xbox.eps",
       "png": {
@@ -71927,14 +71831,14 @@
     "id": 3589,
     "name": "xls",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1394776288,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/xls.svg",
+      "svg": "/SVG/Files/xls.svg",
       "svg.simplified": "/SVG_for_Font/xls.svg",
       "eps": "/EPS/File_Types/xls.eps",
       "png": {
@@ -71952,7 +71856,7 @@
     "id": 3687,
     "name": "xml",
     "platform": "Windows 8/Metro",
-    "category": "Programming File Types",
+    "category": "Files",
     "created": 1395935483,
     "tags": [
       "company logo",
@@ -71969,7 +71873,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Programming_File_Types/xml.svg",
+      "svg": "/SVG/Files/xml.svg",
       "eps": "/EPS/Programming_File_Types/xml.eps",
       "png": {
         "512": "/PNG/Programming_File_Types/xml/xml-512.png",
@@ -71986,7 +71890,7 @@
     "id": 951,
     "name": "xray",
     "platform": "Windows 8/Metro",
-    "category": "Medicine",
+    "category": "Healthcare",
     "created": 1340329025,
     "tags": [
       "medicine",
@@ -72004,7 +71908,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Medicine/xray.svg",
+      "svg": "/SVG/Healthcare/xray.svg",
       "svg.simplified": "/SVG_for_Font/xray.svg",
       "eps": "/EPS/Medicine/xray.eps",
       "png": {
@@ -72363,7 +72267,7 @@
     "id": 311,
     "name": "zip",
     "platform": "Windows 8/Metro",
-    "category": "File Types",
+    "category": "Files",
     "created": 1322569152,
     "tags": [
       "folder",
@@ -72378,7 +72282,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/File_Types/zip.svg",
+      "svg": "/SVG/Files/zip.svg",
       "svg.simplified": "/SVG_for_Font/zip.svg",
       "eps": "/EPS/File_Types/zip.eps",
       "png": {
