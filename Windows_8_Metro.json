@@ -11124,12 +11124,12 @@
       "check",
       "sell",
       "buy",
-      "receipt",
-      "payment",
-      "accounting",
       "credit",
       "charge",
-      "debit"
+      "debit",
+      "receipt",
+      "payment",
+      "accounting"
     ],
     "copyright": false,
     "files": {
