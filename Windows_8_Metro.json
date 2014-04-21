@@ -8528,7 +8528,7 @@
     "id": 2332,
     "name": "business",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1377596134,
     "tags": [
       "business",
@@ -8538,7 +8538,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/business.svg",
+      "svg": "/SVG/Science/business.svg",
       "svg.simplified": "/SVG_for_Font/business.svg",
       "eps": "/EPS/Sciences/business.eps",
       "png": {
@@ -12425,7 +12425,7 @@
     "id": 3650,
     "name": "class",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1395442299,
     "tags": [
       "design",
@@ -12478,7 +12478,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/class.svg",
+      "svg": "/SVG/Science/class.svg",
       "eps": "/EPS/Sciences/class.eps",
       "png": {
         "64": "/PNG/Sciences/class/class-64.png",
@@ -12495,7 +12495,7 @@
     "id": 3653,
     "name": "classroom",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1395676271,
     "tags": [
       "reading",
@@ -12534,7 +12534,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/classroom.svg",
+      "svg": "/SVG/Science/classroom.svg",
       "eps": "/EPS/Sciences/classroom.eps",
       "png": {
         "128": "/PNG/Sciences/classroom/classroom-128.png",
@@ -15243,7 +15243,7 @@
     "id": 3648,
     "name": "courses",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1395442299,
     "tags": [
       "design",
@@ -15293,7 +15293,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/courses.svg",
+      "svg": "/SVG/Science/courses.svg",
       "eps": "/EPS/Sciences/courses.eps",
       "png": {
         "48": "/PNG/Sciences/courses/courses-48.png",
@@ -16005,7 +16005,7 @@
     "id": 3646,
     "name": "curriculum",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1395442299,
     "tags": [
       "vector",
@@ -16058,7 +16058,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/curriculum.svg",
+      "svg": "/SVG/Science/curriculum.svg",
       "eps": "/EPS/Sciences/curriculum.eps",
       "png": {
         "128": "/PNG/Sciences/curriculum/curriculum-128.png",
@@ -16943,6 +16943,7 @@
     "category": "Editing",
     "created": 1323262362,
     "tags": [
+      "close",
       "delete",
       "edit",
       "erase",
@@ -17939,7 +17940,7 @@
     "id": 1512,
     "name": "divide",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1358423414,
     "tags": [
       "number",
@@ -17957,7 +17958,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/divide.svg",
+      "svg": "/SVG/Science/divide.svg",
       "svg.simplified": "/SVG_for_Font/divide.svg",
       "eps": "/EPS/Mathematics/divide.eps",
       "png": {
@@ -17975,7 +17976,7 @@
     "id": 1513,
     "name": "divide2",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1358423414,
     "tags": [
       "number",
@@ -17993,7 +17994,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/divide2.svg",
+      "svg": "/SVG/Science/divide2.svg",
       "svg.simplified": "/SVG_for_Font/divide2.svg",
       "eps": "/EPS/Mathematics/divide2.eps",
       "png": {
@@ -18128,7 +18129,7 @@
     "id": 845,
     "name": "dna_helix",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1337155952,
     "tags": [
       "dna",
@@ -18145,7 +18146,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/dna_helix.svg",
+      "svg": "/SVG/Science/dna_helix.svg",
       "svg.simplified": "/SVG_for_Font/dna_helix.svg",
       "eps": "/EPS/Sciences/dna_helix.eps",
       "png": {
@@ -20494,7 +20495,7 @@
     "id": 3654,
     "name": "elective",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1395676271,
     "tags": [
       "design",
@@ -20542,7 +20543,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/elective.svg",
+      "svg": "/SVG/Science/elective.svg",
       "eps": "/EPS/Sciences/elective.eps",
       "png": {
         "48": "/PNG/Sciences/elective/elective-48.png",
@@ -21259,7 +21260,7 @@
     "id": 1516,
     "name": "equal_sign",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1358507263,
     "tags": [
       "calculate",
@@ -21274,7 +21275,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/equal_sign.svg",
+      "svg": "/SVG/Science/equal_sign.svg",
       "svg.simplified": "/SVG_for_Font/equal_sign.svg",
       "eps": "/EPS/Mathematics/equal_sign.eps",
       "png": {
@@ -21292,7 +21293,7 @@
     "id": 1517,
     "name": "equal_sign2",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1358507263,
     "tags": [
       "calculate",
@@ -21307,7 +21308,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/equal_sign2.svg",
+      "svg": "/SVG/Science/equal_sign2.svg",
       "svg.simplified": "/SVG_for_Font/equal_sign2.svg",
       "eps": "/EPS/Mathematics/equal_sign2.eps",
       "png": {
@@ -21325,7 +21326,7 @@
     "id": 3652,
     "name": "equivalent",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1395676271,
     "tags": [
       "design",
@@ -21377,7 +21378,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/equivalent.svg",
+      "svg": "/SVG/Science/equivalent.svg",
       "eps": "/EPS/Sciences/equivalent.eps",
       "png": {
         "512": "/PNG/Sciences/equivalent/equivalent-512.png",
@@ -26260,14 +26261,14 @@
     "id": 3706,
     "name": "geography",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1395935483,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/geography.svg",
+      "svg": "/SVG/Science/geography.svg",
       "eps": "/EPS/Sciences/geography.eps",
       "png": {
         "256": "/PNG/Sciences/geography/geography-256.png",
@@ -26284,7 +26285,7 @@
     "id": 2334,
     "name": "geometry",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1377596134,
     "tags": [
       "triangle",
@@ -26296,7 +26297,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/geometry.svg",
+      "svg": "/SVG/Science/geometry.svg",
       "svg.simplified": "/SVG_for_Font/geometry.svg",
       "eps": "/EPS/Sciences/geometry.eps",
       "png": {
@@ -30992,7 +30993,7 @@
     "id": 2338,
     "name": "informatics",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1377511013,
     "tags": [
       "number",
@@ -31008,7 +31009,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/informatics.svg",
+      "svg": "/SVG/Science/informatics.svg",
       "svg.simplified": "/SVG_for_Font/informatics.svg",
       "eps": "/EPS/Sciences/informatics.eps",
       "png": {
@@ -33866,7 +33867,7 @@
     "id": 2111,
     "name": "law",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1377511013,
     "tags": [
       "hammer",
@@ -33879,7 +33880,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/law.svg",
+      "svg": "/SVG/Science/law.svg",
       "eps": "/EPS/Sciences/law.eps",
       "png": {
         "512": "/PNG/Sciences/law/law-512.png",
@@ -35325,14 +35326,14 @@
     "id": 3705,
     "name": "literature",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1395935483,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/literature.svg",
+      "svg": "/SVG/Science/literature.svg",
       "eps": "/EPS/Sciences/literature.eps",
       "png": {
         "26": "/PNG/Sciences/literature/literature-26.png",
@@ -36937,7 +36938,7 @@
     "id": 1758,
     "name": "math",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1363706924,
     "tags": [
       "calculator",
@@ -36950,7 +36951,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/math.svg",
+      "svg": "/SVG/Science/math.svg",
       "svg.simplified": "/SVG_for_Font/math.svg",
       "eps": "/EPS/Sciences/math.eps",
       "png": {
@@ -38096,14 +38097,14 @@
     "id": 3590,
     "name": "minus2_math",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1394776288,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/minus2_math.svg",
+      "svg": "/SVG/Science/minus2_math.svg",
       "svg.simplified": "/SVG_for_Font/minus2_math.svg",
       "eps": "/EPS/Mathematics/minus2_math.eps",
       "png": {
@@ -38413,7 +38414,7 @@
     "id": 97,
     "name": "minus_math",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1358226000,
     "tags": [
       "math",
@@ -38427,7 +38428,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/minus_math.svg",
+      "svg": "/SVG/Science/minus_math.svg",
       "svg.simplified": "/SVG_for_Font/minus_math.svg",
       "eps": "/EPS/Mathematics/minus_math.eps",
       "png": {
@@ -39925,7 +39926,7 @@
     "id": 1510,
     "name": "multiply",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1358423414,
     "tags": [
       "number",
@@ -39943,7 +39944,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/multiply.svg",
+      "svg": "/SVG/Science/multiply.svg",
       "svg.simplified": "/SVG_for_Font/multiply.svg",
       "eps": "/EPS/Mathematics/multiply.eps",
       "png": {
@@ -39961,7 +39962,7 @@
     "id": 1511,
     "name": "multiply2",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1358423414,
     "tags": [
       "number",
@@ -39980,7 +39981,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/multiply2.svg",
+      "svg": "/SVG/Science/multiply2.svg",
       "svg.simplified": "/SVG_for_Font/multiply2.svg",
       "eps": "/EPS/Mathematics/multiply2.eps",
       "png": {
@@ -44722,7 +44723,7 @@
     "id": 1508,
     "name": "percentage",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1358334533,
     "tags": [
       "calculator",
@@ -44742,7 +44743,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/percentage.svg",
+      "svg": "/SVG/Science/percentage.svg",
       "svg.simplified": "/SVG_for_Font/percentage.svg",
       "eps": "/EPS/Mathematics/percentage.eps",
       "png": {
@@ -44760,7 +44761,7 @@
     "id": 1509,
     "name": "percentage2",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1358334533,
     "tags": [
       "calculator",
@@ -44779,7 +44780,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/percentage2.svg",
+      "svg": "/SVG/Science/percentage2.svg",
       "svg.simplified": "/SVG_for_Font/percentage2.svg",
       "eps": "/EPS/Mathematics/percentage2.eps",
       "png": {
@@ -45024,7 +45025,7 @@
     "id": 1760,
     "name": "physics",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1363807864,
     "tags": [
       "education",
@@ -45042,7 +45043,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/physics.svg",
+      "svg": "/SVG/Science/physics.svg",
       "svg.simplified": "/SVG_for_Font/physics.svg",
       "eps": "/EPS/Sciences/physics.eps",
       "png": {
@@ -45868,7 +45869,7 @@
     "id": 849,
     "name": "plasmid",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1337155952,
     "tags": [
       "work",
@@ -45882,7 +45883,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/plasmid.svg",
+      "svg": "/SVG/Science/plasmid.svg",
       "svg.simplified": "/SVG_for_Font/plasmid.svg",
       "eps": "/EPS/Sciences/plasmid.eps",
       "png": {
@@ -46038,14 +46039,14 @@
     "id": 3591,
     "name": "plus2_math",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1394776288,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/plus2_math.svg",
+      "svg": "/SVG/Science/plus2_math.svg",
       "svg.simplified": "/SVG_for_Font/plus2_math.svg",
       "eps": "/EPS/Mathematics/plus2_math.eps",
       "png": {
@@ -46337,7 +46338,7 @@
     "id": 98,
     "name": "plus_math",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1358226000,
     "tags": [
       "hospital",
@@ -46361,7 +46362,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/plus_math.svg",
+      "svg": "/SVG/Science/plus_math.svg",
       "svg.simplified": "/SVG_for_Font/plus_math.svg",
       "eps": "/EPS/Mathematics/plus_math.eps",
       "png": {
@@ -46379,7 +46380,7 @@
     "id": 1506,
     "name": "plus_minus",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1358334533,
     "tags": [
       "calculator",
@@ -46402,7 +46403,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/plus_minus.svg",
+      "svg": "/SVG/Science/plus_minus.svg",
       "svg.simplified": "/SVG_for_Font/plus_minus.svg",
       "eps": "/EPS/Mathematics/plus_minus.eps",
       "png": {
@@ -46420,7 +46421,7 @@
     "id": 1507,
     "name": "plus_minus2",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1358334533,
     "tags": [
       "calculator",
@@ -46443,7 +46444,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/plus_minus2.svg",
+      "svg": "/SVG/Science/plus_minus2.svg",
       "svg.simplified": "/SVG_for_Font/plus_minus2.svg",
       "eps": "/EPS/Mathematics/plus_minus2.eps",
       "png": {
@@ -47821,14 +47822,14 @@
     "id": 3704,
     "name": "psyhology",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1395935483,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/psyhology.svg",
+      "svg": "/SVG/Science/psyhology.svg",
       "eps": "/EPS/Sciences/psyhology.eps",
       "png": {
         "512": "/PNG/Sciences/psyhology/psyhology-512.png",
@@ -53153,7 +53154,7 @@
     "id": 1953,
     "name": "school",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1373022334,
     "tags": [
       "book",
@@ -53165,7 +53166,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/school.svg",
+      "svg": "/SVG/Science/school.svg",
       "svg.simplified": "/SVG_for_Font/school.svg",
       "eps": "/EPS/Sciences/school.eps",
       "png": {
@@ -58009,7 +58010,7 @@
     "id": 1514,
     "name": "square_root",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1358507263,
     "tags": [
       "calculate",
@@ -58024,7 +58025,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/square_root.svg",
+      "svg": "/SVG/Science/square_root.svg",
       "svg.simplified": "/SVG_for_Font/square_root.svg",
       "eps": "/EPS/Mathematics/square_root.eps",
       "png": {
@@ -58042,7 +58043,7 @@
     "id": 1515,
     "name": "square_root2",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1358507263,
     "tags": [
       "calculate",
@@ -58057,7 +58058,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/square_root2.svg",
+      "svg": "/SVG/Science/square_root2.svg",
       "svg.simplified": "/SVG_for_Font/square_root2.svg",
       "eps": "/EPS/Mathematics/square_root2.eps",
       "png": {
@@ -59228,7 +59229,7 @@
     "id": 3900,
     "name": "students",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1397235095,
     "tags": [
       "fun",
@@ -59263,7 +59264,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/students.svg",
+      "svg": "/SVG/Science/students.svg",
       "eps": "/EPS/Sciences/students.eps",
       "png": {
         "512": "/PNG/Sciences/students/students-512.png",
@@ -61522,7 +61523,7 @@
     "id": 847,
     "name": "test_tube",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1337155952,
     "tags": [
       "work",
@@ -61538,7 +61539,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/test_tube.svg",
+      "svg": "/SVG/Science/test_tube.svg",
       "svg.simplified": "/SVG_for_Font/test_tube.svg",
       "eps": "/EPS/Sciences/test_tube.eps",
       "png": {
@@ -65095,7 +65096,7 @@
     "id": 2336,
     "name": "trigonometry",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1377596134,
     "tags": [
       "triangle",
@@ -65107,7 +65108,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/trigonometry.svg",
+      "svg": "/SVG/Science/trigonometry.svg",
       "svg.simplified": "/SVG_for_Font/trigonometry.svg",
       "eps": "/EPS/Sciences/trigonometry.eps",
       "png": {
@@ -66165,7 +66166,7 @@
     "id": 2340,
     "name": "university",
     "platform": "Windows 8/Metro",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1377511013,
     "tags": [
       "university",
@@ -66175,7 +66176,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/university.svg",
+      "svg": "/SVG/Science/university.svg",
       "svg.simplified": "/SVG_for_Font/university.svg",
       "eps": "/EPS/Sciences/university.eps",
       "png": {
@@ -70642,7 +70643,6 @@
       "alcohol",
       "red wine",
       "red",
-      "wine bottle",
       "white wine",
       "bordeaux",
       "france",
@@ -70653,7 +70653,8 @@
       "branch",
       "berry fruit",
       "refreshment",
-      "eee"
+      "eee",
+      "wine bottle"
     ],
     "copyright": false,
     "files": {

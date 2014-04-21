@@ -1,34 +1,5 @@
 [
   {
-    "id": 3263,
-    "name": "activity_feed",
-    "platform": "Android",
-    "category": "Buzz",
-    "created": 1391770248,
-    "tags": [
-      "laptop",
-      "gps",
-      "activity feed",
-      "signals"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Buzz/activity_feed.svg",
-      "eps": "/EPS/Buzz/activity_feed.eps",
-      "png": {
-        "64": "/PNG/Buzz/activity_feed/activity_feed-64.png",
-        "128": "/PNG/Buzz/activity_feed/activity_feed-128.png",
-        "256": "/PNG/Buzz/activity_feed/activity_feed-256.png",
-        "24": "/PNG/Buzz/activity_feed/activity_feed-24.png",
-        "96": "/PNG/Buzz/activity_feed/activity_feed-96.png",
-        "32": "/PNG/Buzz/activity_feed/activity_feed-32.png",
-        "36": "/PNG/Buzz/activity_feed/activity_feed-36.png",
-        "512": "/PNG/Buzz/activity_feed/activity_feed-512.png",
-        "48": "/PNG/Buzz/activity_feed/activity_feed-48.png"
-      }
-    }
-  },
-  {
     "id": 3281,
     "name": "add_camera",
     "platform": "Android",
@@ -417,53 +388,6 @@
         "96": "/PNG/Music/applause/applause-96.png",
         "24": "/PNG/Music/applause/applause-24.png",
         "128": "/PNG/Music/applause/applause-128.png"
-      }
-    }
-  },
-  {
-    "id": 3334,
-    "name": "appointment_reminders",
-    "platform": "Android",
-    "category": "Buzz",
-    "created": 1391770248,
-    "tags": [
-      "alarm",
-      "calendar",
-      "year",
-      "time",
-      "hours",
-      "meeting",
-      "dating",
-      "business",
-      "appointment",
-      "bell",
-      "success",
-      "schedule",
-      "planning",
-      "event",
-      "organize",
-      "planing",
-      "personal organizer",
-      "diary",
-      "calendar date",
-      "business concepts",
-      "ring binder",
-      "appointment reminders"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Buzz/appointment_reminders.svg",
-      "eps": "/EPS/Buzz/appointment_reminders.eps",
-      "png": {
-        "96": "/PNG/Buzz/appointment_reminders/appointment_reminders-96.png",
-        "48": "/PNG/Buzz/appointment_reminders/appointment_reminders-48.png",
-        "512": "/PNG/Buzz/appointment_reminders/appointment_reminders-512.png",
-        "256": "/PNG/Buzz/appointment_reminders/appointment_reminders-256.png",
-        "24": "/PNG/Buzz/appointment_reminders/appointment_reminders-24.png",
-        "36": "/PNG/Buzz/appointment_reminders/appointment_reminders-36.png",
-        "64": "/PNG/Buzz/appointment_reminders/appointment_reminders-64.png",
-        "32": "/PNG/Buzz/appointment_reminders/appointment_reminders-32.png",
-        "128": "/PNG/Buzz/appointment_reminders/appointment_reminders-128.png"
       }
     }
   },
@@ -2006,47 +1930,6 @@
     }
   },
   {
-    "id": 3138,
-    "name": "categorize",
-    "platform": "Android",
-    "category": "Buzz",
-    "created": 1391770248,
-    "tags": [
-      "time",
-      "business",
-      "sort",
-      "schedule",
-      "planning",
-      "event",
-      "categorize",
-      "organize",
-      "planing",
-      "personal organizer",
-      "diary",
-      "calendar date",
-      "labels",
-      "different",
-      "categories",
-      "kinds"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Buzz/categorize.svg",
-      "eps": "/EPS/Buzz/categorize.eps",
-      "png": {
-        "48": "/PNG/Buzz/categorize/categorize-48.png",
-        "128": "/PNG/Buzz/categorize/categorize-128.png",
-        "24": "/PNG/Buzz/categorize/categorize-24.png",
-        "36": "/PNG/Buzz/categorize/categorize-36.png",
-        "96": "/PNG/Buzz/categorize/categorize-96.png",
-        "32": "/PNG/Buzz/categorize/categorize-32.png",
-        "64": "/PNG/Buzz/categorize/categorize-64.png",
-        "256": "/PNG/Buzz/categorize/categorize-256.png",
-        "512": "/PNG/Buzz/categorize/categorize-512.png"
-      }
-    }
-  },
-  {
     "id": 3790,
     "name": "center_direction",
     "platform": "Android",
@@ -2211,42 +2094,6 @@
         "96": "/PNG/Sports/championship_belt/championship_belt-96.png",
         "48": "/PNG/Sports/championship_belt/championship_belt-48.png",
         "64": "/PNG/Sports/championship_belt/championship_belt-64.png"
-      }
-    }
-  },
-  {
-    "id": 3154,
-    "name": "chance_of_storm",
-    "platform": "Android",
-    "category": "Weather",
-    "created": 1391770248,
-    "tags": [
-      "earth",
-      "sale",
-      "clouds",
-      "report",
-      "weather",
-      "rain",
-      "umbrella",
-      "sun",
-      "storm",
-      "conditions",
-      "climate"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Weather/chance_of_storm.svg",
-      "eps": "/EPS/Weather/chance_of_storm.eps",
-      "png": {
-        "48": "/PNG/Weather/chance_of_storm/chance_of_storm-48.png",
-        "128": "/PNG/Weather/chance_of_storm/chance_of_storm-128.png",
-        "96": "/PNG/Weather/chance_of_storm/chance_of_storm-96.png",
-        "32": "/PNG/Weather/chance_of_storm/chance_of_storm-32.png",
-        "24": "/PNG/Weather/chance_of_storm/chance_of_storm-24.png",
-        "512": "/PNG/Weather/chance_of_storm/chance_of_storm-512.png",
-        "64": "/PNG/Weather/chance_of_storm/chance_of_storm-64.png",
-        "36": "/PNG/Weather/chance_of_storm/chance_of_storm-36.png",
-        "256": "/PNG/Weather/chance_of_storm/chance_of_storm-256.png"
       }
     }
   },
@@ -2931,38 +2778,6 @@
     }
   },
   {
-    "id": 3350,
-    "name": "clouds",
-    "platform": "Android",
-    "category": "Weather",
-    "created": 1391770248,
-    "tags": [
-      "arrow",
-      "save",
-      "weather",
-      "rain",
-      "open",
-      "cloud",
-      "me"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Weather/clouds.svg",
-      "eps": "/EPS/Weather/clouds.eps",
-      "png": {
-        "32": "/PNG/Weather/clouds/clouds-32.png",
-        "24": "/PNG/Weather/clouds/clouds-24.png",
-        "96": "/PNG/Weather/clouds/clouds-96.png",
-        "64": "/PNG/Weather/clouds/clouds-64.png",
-        "128": "/PNG/Weather/clouds/clouds-128.png",
-        "36": "/PNG/Weather/clouds/clouds-36.png",
-        "256": "/PNG/Weather/clouds/clouds-256.png",
-        "512": "/PNG/Weather/clouds/clouds-512.png",
-        "48": "/PNG/Weather/clouds/clouds-48.png"
-      }
-    }
-  },
-  {
     "id": 3139,
     "name": "coins",
     "platform": "Android",
@@ -3286,14 +3101,14 @@
     "id": 3915,
     "name": "crown",
     "platform": "Android",
-    "category": "Objects",
+    "category": "Messaging",
     "created": 1397249506,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Objects/crown.svg",
+      "svg": "/SVG/Messaging/crown.svg",
       "eps": "/EPS/Objects/crown.eps",
       "png": {
         "128": "/PNG/Objects/crown/crown-128.png",
@@ -3996,34 +3811,6 @@
     }
   },
   {
-    "id": 3146,
-    "name": "dust",
-    "platform": "Android",
-    "category": "Weather",
-    "created": 1391770248,
-    "tags": [
-      "earth",
-      "weather",
-      "conditions"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Weather/dust.svg",
-      "eps": "/EPS/Weather/dust.eps",
-      "png": {
-        "96": "/PNG/Weather/dust/dust-96.png",
-        "48": "/PNG/Weather/dust/dust-48.png",
-        "32": "/PNG/Weather/dust/dust-32.png",
-        "512": "/PNG/Weather/dust/dust-512.png",
-        "24": "/PNG/Weather/dust/dust-24.png",
-        "256": "/PNG/Weather/dust/dust-256.png",
-        "36": "/PNG/Weather/dust/dust-36.png",
-        "64": "/PNG/Weather/dust/dust-64.png",
-        "128": "/PNG/Weather/dust/dust-128.png"
-      }
-    }
-  },
-  {
     "id": 3768,
     "name": "east_direction",
     "platform": "Android",
@@ -4287,14 +4074,14 @@
     "id": 3879,
     "name": "end_call",
     "platform": "Android",
-    "category": "Objects",
+    "category": "Mobile",
     "created": 1397177504,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Objects/end_call.svg",
+      "svg": "/SVG/Mobile/end_call.svg",
       "eps": "/EPS/Objects/end_call.eps",
       "png": {
         "256": "/PNG/Objects/end_call/end_call-256.png",
@@ -4600,14 +4387,14 @@
     "id": 3887,
     "name": "filing_cabinet",
     "platform": "Android",
-    "category": "Objects",
+    "category": "Folders",
     "created": 1397177504,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Objects/filing_cabinet.svg",
+      "svg": "/SVG/Folders/filing_cabinet.svg",
       "eps": "/EPS/Objects/filing_cabinet.eps",
       "png": {
         "96": "/PNG/Objects/filing_cabinet/filing_cabinet-96.png",
@@ -4671,14 +4458,14 @@
     "id": 3919,
     "name": "filled_filter",
     "platform": "Android",
-    "category": "Objects",
+    "category": "Folders",
     "created": 1397249506,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Objects/filled_filter.svg",
+      "svg": "/SVG/Folders/filled_filter.svg",
       "eps": "/EPS/Objects/filled_filter.eps",
       "png": {
         "64": "/PNG/Objects/filled_filter/filled_filter-64.png",
@@ -5026,64 +4813,6 @@
     }
   },
   {
-    "id": 3178,
-    "name": "fog_day",
-    "platform": "Android",
-    "category": "Weather",
-    "created": 1391770248,
-    "tags": [
-      "sky",
-      "clouds",
-      "weather"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Weather/fog_day.svg",
-      "eps": "/EPS/Weather/fog_day.eps",
-      "png": {
-        "256": "/PNG/Weather/fog_day/fog_day-256.png",
-        "36": "/PNG/Weather/fog_day/fog_day-36.png",
-        "24": "/PNG/Weather/fog_day/fog_day-24.png",
-        "48": "/PNG/Weather/fog_day/fog_day-48.png",
-        "128": "/PNG/Weather/fog_day/fog_day-128.png",
-        "96": "/PNG/Weather/fog_day/fog_day-96.png",
-        "64": "/PNG/Weather/fog_day/fog_day-64.png",
-        "512": "/PNG/Weather/fog_day/fog_day-512.png",
-        "32": "/PNG/Weather/fog_day/fog_day-32.png"
-      }
-    }
-  },
-  {
-    "id": 3168,
-    "name": "fog_night",
-    "platform": "Android",
-    "category": "Weather",
-    "created": 1391770248,
-    "tags": [
-      "sky",
-      "clouds",
-      "weather",
-      "darkness",
-      "stars"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Weather/fog_night.svg",
-      "eps": "/EPS/Weather/fog_night.eps",
-      "png": {
-        "48": "/PNG/Weather/fog_night/fog_night-48.png",
-        "512": "/PNG/Weather/fog_night/fog_night-512.png",
-        "64": "/PNG/Weather/fog_night/fog_night-64.png",
-        "128": "/PNG/Weather/fog_night/fog_night-128.png",
-        "96": "/PNG/Weather/fog_night/fog_night-96.png",
-        "36": "/PNG/Weather/fog_night/fog_night-36.png",
-        "32": "/PNG/Weather/fog_night/fog_night-32.png",
-        "24": "/PNG/Weather/fog_night/fog_night-24.png",
-        "256": "/PNG/Weather/fog_night/fog_night-256.png"
-      }
-    }
-  },
-  {
     "id": 3163,
     "name": "folder",
     "platform": "Android",
@@ -5165,42 +4894,6 @@
         "36": "/PNG/Sports/football2/football2-36.png",
         "128": "/PNG/Sports/football2/football2-128.png",
         "256": "/PNG/Sports/football2/football2-256.png"
-      }
-    }
-  },
-  {
-    "id": 3199,
-    "name": "forward",
-    "platform": "Android",
-    "category": "Buzz",
-    "created": 1391770248,
-    "tags": [
-      "forwards",
-      "forward",
-      "send",
-      "mail",
-      "message",
-      "envelope",
-      "messaging",
-      "communication",
-      "tell",
-      "discussion",
-      "reply"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Buzz/forward.svg",
-      "eps": "/EPS/Buzz/forward.eps",
-      "png": {
-        "24": "/PNG/Buzz/forward/forward-24.png",
-        "48": "/PNG/Buzz/forward/forward-48.png",
-        "256": "/PNG/Buzz/forward/forward-256.png",
-        "128": "/PNG/Buzz/forward/forward-128.png",
-        "32": "/PNG/Buzz/forward/forward-32.png",
-        "512": "/PNG/Buzz/forward/forward-512.png",
-        "36": "/PNG/Buzz/forward/forward-36.png",
-        "96": "/PNG/Buzz/forward/forward-96.png",
-        "64": "/PNG/Buzz/forward/forward-64.png"
       }
     }
   },
@@ -5436,7 +5129,7 @@
     "id": 3914,
     "name": "genderqueer",
     "platform": "Android",
-    "category": "Objects",
+    "category": "Users",
     "created": 1397249506,
     "tags": [
       "girl",
@@ -5488,7 +5181,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Objects/genderqueer.svg",
+      "svg": "/SVG/Users/genderqueer.svg",
       "eps": "/EPS/Objects/genderqueer.eps",
       "png": {
         "512": "/PNG/Objects/genderqueer/genderqueer-512.png",
@@ -5750,37 +5443,6 @@
     }
   },
   {
-    "id": 3358,
-    "name": "gmail_login",
-    "platform": "Android",
-    "category": "Buzz",
-    "created": 1391770248,
-    "tags": [
-      "mail",
-      "buzz",
-      "login",
-      "gmail",
-      "log-in",
-      "google mail"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Buzz/gmail_login.svg",
-      "eps": "/EPS/Buzz/gmail_login.eps",
-      "png": {
-        "512": "/PNG/Buzz/gmail_login/gmail_login-512.png",
-        "36": "/PNG/Buzz/gmail_login/gmail_login-36.png",
-        "64": "/PNG/Buzz/gmail_login/gmail_login-64.png",
-        "256": "/PNG/Buzz/gmail_login/gmail_login-256.png",
-        "48": "/PNG/Buzz/gmail_login/gmail_login-48.png",
-        "24": "/PNG/Buzz/gmail_login/gmail_login-24.png",
-        "32": "/PNG/Buzz/gmail_login/gmail_login-32.png",
-        "96": "/PNG/Buzz/gmail_login/gmail_login-96.png",
-        "128": "/PNG/Buzz/gmail_login/gmail_login-128.png"
-      }
-    }
-  },
-  {
     "id": 3864,
     "name": "google_plus",
     "platform": "Android",
@@ -6023,35 +5685,6 @@
     }
   },
   {
-    "id": 3267,
-    "name": "hail",
-    "platform": "Android",
-    "category": "Weather",
-    "created": 1391770248,
-    "tags": [
-      "ice",
-      "weather",
-      "flakes",
-      "slippery"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Weather/hail.svg",
-      "eps": "/EPS/Weather/hail.eps",
-      "png": {
-        "256": "/PNG/Weather/hail/hail-256.png",
-        "32": "/PNG/Weather/hail/hail-32.png",
-        "48": "/PNG/Weather/hail/hail-48.png",
-        "96": "/PNG/Weather/hail/hail-96.png",
-        "36": "/PNG/Weather/hail/hail-36.png",
-        "64": "/PNG/Weather/hail/hail-64.png",
-        "512": "/PNG/Weather/hail/hail-512.png",
-        "24": "/PNG/Weather/hail/hail-24.png",
-        "128": "/PNG/Weather/hail/hail-128.png"
-      }
-    }
-  },
-  {
     "id": 3244,
     "name": "handshake",
     "platform": "Android",
@@ -6254,38 +5887,6 @@
     }
   },
   {
-    "id": 3326,
-    "name": "high_importance",
-    "platform": "Android",
-    "category": "Buzz",
-    "created": 1391770248,
-    "tags": [
-      "mark",
-      "business",
-      "priority",
-      "high importance",
-      "high",
-      "exclamation mark",
-      "importance"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Buzz/high_importance.svg",
-      "eps": "/EPS/Buzz/high_importance.eps",
-      "png": {
-        "128": "/PNG/Buzz/high_importance/high_importance-128.png",
-        "96": "/PNG/Buzz/high_importance/high_importance-96.png",
-        "256": "/PNG/Buzz/high_importance/high_importance-256.png",
-        "512": "/PNG/Buzz/high_importance/high_importance-512.png",
-        "36": "/PNG/Buzz/high_importance/high_importance-36.png",
-        "48": "/PNG/Buzz/high_importance/high_importance-48.png",
-        "24": "/PNG/Buzz/high_importance/high_importance-24.png",
-        "64": "/PNG/Buzz/high_importance/high_importance-64.png",
-        "32": "/PNG/Buzz/high_importance/high_importance-32.png"
-      }
-    }
-  },
-  {
     "id": 3200,
     "name": "home",
     "platform": "Android",
@@ -6442,37 +6043,6 @@
         "36": "/PNG/Christmas/ice_skate/ice_skate-36.png",
         "24": "/PNG/Christmas/ice_skate/ice_skate-24.png",
         "128": "/PNG/Christmas/ice_skate/ice_skate-128.png"
-      }
-    }
-  },
-  {
-    "id": 3180,
-    "name": "icy",
-    "platform": "Android",
-    "category": "Weather",
-    "created": 1391770248,
-    "tags": [
-      "earth",
-      "weather",
-      "conditions",
-      "climate",
-      "snow",
-      "ice cube"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Weather/icy.svg",
-      "eps": "/EPS/Weather/icy.eps",
-      "png": {
-        "48": "/PNG/Weather/icy/icy-48.png",
-        "64": "/PNG/Weather/icy/icy-64.png",
-        "256": "/PNG/Weather/icy/icy-256.png",
-        "32": "/PNG/Weather/icy/icy-32.png",
-        "96": "/PNG/Weather/icy/icy-96.png",
-        "24": "/PNG/Weather/icy/icy-24.png",
-        "512": "/PNG/Weather/icy/icy-512.png",
-        "36": "/PNG/Weather/icy/icy-36.png",
-        "128": "/PNG/Weather/icy/icy-128.png"
       }
     }
   },
@@ -6687,49 +6257,6 @@
         "256": "/PNG/Folders/internet/internet-256.png",
         "32": "/PNG/Folders/internet/internet-32.png",
         "36": "/PNG/Folders/internet/internet-36.png"
-      }
-    }
-  },
-  {
-    "id": 3140,
-    "name": "invisible",
-    "platform": "Android",
-    "category": "Buzz",
-    "created": 1391770248,
-    "tags": [
-      "admin",
-      "close",
-      "file",
-      "distance",
-      "view",
-      "store",
-      "eye",
-      "open",
-      "free",
-      "dropbox",
-      "visible",
-      "invisible",
-      "transfer",
-      "share",
-      "email",
-      "uploads",
-      "see",
-      "blind"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Buzz/invisible.svg",
-      "eps": "/EPS/Buzz/invisible.eps",
-      "png": {
-        "128": "/PNG/Buzz/invisible/invisible-128.png",
-        "256": "/PNG/Buzz/invisible/invisible-256.png",
-        "96": "/PNG/Buzz/invisible/invisible-96.png",
-        "512": "/PNG/Buzz/invisible/invisible-512.png",
-        "48": "/PNG/Buzz/invisible/invisible-48.png",
-        "64": "/PNG/Buzz/invisible/invisible-64.png",
-        "24": "/PNG/Buzz/invisible/invisible-24.png",
-        "36": "/PNG/Buzz/invisible/invisible-36.png",
-        "32": "/PNG/Buzz/invisible/invisible-32.png"
       }
     }
   },
@@ -7180,14 +6707,14 @@
     "id": 3881,
     "name": "lifebouy",
     "platform": "Android",
-    "category": "Objects",
+    "category": "Very Basic",
     "created": 1397177504,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Objects/lifebouy.svg",
+      "svg": "/SVG/Very_Basic/lifebouy.svg",
       "eps": "/EPS/Objects/lifebouy.eps",
       "png": {
         "48": "/PNG/Objects/lifebouy/lifebouy-48.png",
@@ -7433,65 +6960,6 @@
     }
   },
   {
-    "id": 3148,
-    "name": "little_rain",
-    "platform": "Android",
-    "category": "Weather",
-    "created": 1391770248,
-    "tags": [
-      "water",
-      "weather",
-      "umbrella",
-      "wet",
-      "indoors"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Weather/little_rain.svg",
-      "eps": "/EPS/Weather/little_rain.eps",
-      "png": {
-        "64": "/PNG/Weather/little_rain/little_rain-64.png",
-        "256": "/PNG/Weather/little_rain/little_rain-256.png",
-        "36": "/PNG/Weather/little_rain/little_rain-36.png",
-        "128": "/PNG/Weather/little_rain/little_rain-128.png",
-        "48": "/PNG/Weather/little_rain/little_rain-48.png",
-        "24": "/PNG/Weather/little_rain/little_rain-24.png",
-        "32": "/PNG/Weather/little_rain/little_rain-32.png",
-        "512": "/PNG/Weather/little_rain/little_rain-512.png",
-        "96": "/PNG/Weather/little_rain/little_rain-96.png"
-      }
-    }
-  },
-  {
-    "id": 3179,
-    "name": "little_snow",
-    "platform": "Android",
-    "category": "Weather",
-    "created": 1391770248,
-    "tags": [
-      "weather",
-      "air",
-      "frost",
-      "snowflake"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Weather/little_snow.svg",
-      "eps": "/EPS/Weather/little_snow.eps",
-      "png": {
-        "32": "/PNG/Weather/little_snow/little_snow-32.png",
-        "24": "/PNG/Weather/little_snow/little_snow-24.png",
-        "256": "/PNG/Weather/little_snow/little_snow-256.png",
-        "36": "/PNG/Weather/little_snow/little_snow-36.png",
-        "64": "/PNG/Weather/little_snow/little_snow-64.png",
-        "96": "/PNG/Weather/little_snow/little_snow-96.png",
-        "512": "/PNG/Weather/little_snow/little_snow-512.png",
-        "128": "/PNG/Weather/little_snow/little_snow-128.png",
-        "48": "/PNG/Weather/little_snow/little_snow-48.png"
-      }
-    }
-  },
-  {
     "id": 3783,
     "name": "location_off",
     "platform": "Android",
@@ -7596,46 +7064,17 @@
     }
   },
   {
-    "id": 3128,
-    "name": "low_importance",
-    "platform": "Android",
-    "category": "Buzz",
-    "created": 1391770248,
-    "tags": [
-      "mark",
-      "business",
-      "priority",
-      "importance"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Buzz/low_importance.svg",
-      "eps": "/EPS/Buzz/low_importance.eps",
-      "png": {
-        "48": "/PNG/Buzz/low_importance/low_importance-48.png",
-        "96": "/PNG/Buzz/low_importance/low_importance-96.png",
-        "512": "/PNG/Buzz/low_importance/low_importance-512.png",
-        "256": "/PNG/Buzz/low_importance/low_importance-256.png",
-        "128": "/PNG/Buzz/low_importance/low_importance-128.png",
-        "24": "/PNG/Buzz/low_importance/low_importance-24.png",
-        "64": "/PNG/Buzz/low_importance/low_importance-64.png",
-        "32": "/PNG/Buzz/low_importance/low_importance-32.png",
-        "36": "/PNG/Buzz/low_importance/low_importance-36.png"
-      }
-    }
-  },
-  {
     "id": 3913,
     "name": "male",
     "platform": "Android",
-    "category": "Objects",
+    "category": "Users",
     "created": 1397249506,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Objects/male.svg",
+      "svg": "/SVG/Users/male.svg",
       "eps": "/EPS/Objects/male.eps",
       "png": {
         "128": "/PNG/Objects/male/male-128.png",
@@ -7938,14 +7377,14 @@
     "id": 3894,
     "name": "megaphone1",
     "platform": "Android",
-    "category": "Objects",
+    "category": "Messaging",
     "created": 1397177504,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Objects/megaphone1.svg",
+      "svg": "/SVG/Messaging/megaphone1.svg",
       "eps": "/EPS/Objects/megaphone1.eps",
       "png": {
         "48": "/PNG/Objects/megaphone1/megaphone1-48.png",
@@ -7964,14 +7403,14 @@
     "id": 3895,
     "name": "megaphone2",
     "platform": "Android",
-    "category": "Objects",
+    "category": "Messaging",
     "created": 1397177504,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Objects/megaphone2.svg",
+      "svg": "/SVG/Messaging/megaphone2.svg",
       "eps": "/EPS/Objects/megaphone2.eps",
       "png": {
         "36": "/PNG/Objects/megaphone2/megaphone2-36.png",
@@ -8060,79 +7499,6 @@
         "32": "/PNG/Very_Basic/menu/menu-32.png",
         "24": "/PNG/Very_Basic/menu/menu-24.png",
         "96": "/PNG/Very_Basic/menu/menu-96.png"
-      }
-    }
-  },
-  {
-    "id": 3147,
-    "name": "message",
-    "platform": "Android",
-    "category": "Buzz",
-    "created": 1391770248,
-    "tags": [
-      "home",
-      "send",
-      "mail",
-      "message",
-      "envelope",
-      "messaging",
-      "communication",
-      "tell",
-      "discussion",
-      "reply",
-      "communicate",
-      "comms"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Buzz/message.svg",
-      "eps": "/EPS/Buzz/message.eps",
-      "png": {
-        "256": "/PNG/Buzz/message/message-256.png",
-        "512": "/PNG/Buzz/message/message-512.png",
-        "96": "/PNG/Buzz/message/message-96.png",
-        "24": "/PNG/Buzz/message/message-24.png",
-        "48": "/PNG/Buzz/message/message-48.png",
-        "36": "/PNG/Buzz/message/message-36.png",
-        "32": "/PNG/Buzz/message/message-32.png",
-        "64": "/PNG/Buzz/message/message-64.png",
-        "128": "/PNG/Buzz/message/message-128.png"
-      }
-    }
-  },
-  {
-    "id": 3250,
-    "name": "message_outline",
-    "platform": "Android",
-    "category": "Buzz",
-    "created": 1391770248,
-    "tags": [
-      "mail",
-      "message",
-      "communication",
-      "address",
-      "letter",
-      "email",
-      "correspondence",
-      "post office",
-      "post service",
-      "e-mail'",
-      "buzz"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Buzz/message_outline.svg",
-      "eps": "/EPS/Buzz/message_outline.eps",
-      "png": {
-        "512": "/PNG/Buzz/message_outline/message_outline-512.png",
-        "48": "/PNG/Buzz/message_outline/message_outline-48.png",
-        "24": "/PNG/Buzz/message_outline/message_outline-24.png",
-        "36": "/PNG/Buzz/message_outline/message_outline-36.png",
-        "32": "/PNG/Buzz/message_outline/message_outline-32.png",
-        "64": "/PNG/Buzz/message_outline/message_outline-64.png",
-        "256": "/PNG/Buzz/message_outline/message_outline-256.png",
-        "128": "/PNG/Buzz/message_outline/message_outline-128.png",
-        "96": "/PNG/Buzz/message_outline/message_outline-96.png"
       }
     }
   },
@@ -8337,32 +7703,6 @@
         "512": "/PNG/Shopping/money_box/money_box-512.png",
         "256": "/PNG/Shopping/money_box/money_box-256.png",
         "48": "/PNG/Shopping/money_box/money_box-48.png"
-      }
-    }
-  },
-  {
-    "id": 3333,
-    "name": "moon",
-    "platform": "Android",
-    "category": "Weather",
-    "created": 1391770248,
-    "tags": [
-      "weather"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Weather/moon.svg",
-      "eps": "/EPS/Weather/moon.eps",
-      "png": {
-        "32": "/PNG/Weather/moon/moon-32.png",
-        "128": "/PNG/Weather/moon/moon-128.png",
-        "24": "/PNG/Weather/moon/moon-24.png",
-        "512": "/PNG/Weather/moon/moon-512.png",
-        "36": "/PNG/Weather/moon/moon-36.png",
-        "64": "/PNG/Weather/moon/moon-64.png",
-        "96": "/PNG/Weather/moon/moon-96.png",
-        "48": "/PNG/Weather/moon/moon-48.png",
-        "256": "/PNG/Weather/moon/moon-256.png"
       }
     }
   },
@@ -8737,32 +8077,6 @@
     }
   },
   {
-    "id": 3165,
-    "name": "new_message",
-    "platform": "Android",
-    "category": "Buzz",
-    "created": 1391770248,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Buzz/new_message.svg",
-      "eps": "/EPS/Buzz/new_message.eps",
-      "png": {
-        "128": "/PNG/Buzz/new_message/new_message-128.png",
-        "24": "/PNG/Buzz/new_message/new_message-24.png",
-        "36": "/PNG/Buzz/new_message/new_message-36.png",
-        "64": "/PNG/Buzz/new_message/new_message-64.png",
-        "512": "/PNG/Buzz/new_message/new_message-512.png",
-        "32": "/PNG/Buzz/new_message/new_message-32.png",
-        "48": "/PNG/Buzz/new_message/new_message-48.png",
-        "96": "/PNG/Buzz/new_message/new_message-96.png",
-        "256": "/PNG/Buzz/new_message/new_message-256.png"
-      }
-    }
-  },
-  {
     "id": 3299,
     "name": "next",
     "platform": "Android",
@@ -9007,7 +8321,7 @@
     "id": 3425,
     "name": "note",
     "platform": "Android",
-    "category": "Objects",
+    "category": "Messaging",
     "created": 1392587466,
     "tags": [
       "date",
@@ -9026,7 +8340,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Objects/note.svg",
+      "svg": "/SVG/Messaging/note.svg",
       "eps": "/EPS/Objects/note.eps",
       "png": {
         "64": "/PNG/Objects/note/note-64.png",
@@ -9263,14 +8577,14 @@
     "id": 3925,
     "name": "paper_plane",
     "platform": "Android",
-    "category": "Objects",
+    "category": "Messaging",
     "created": 1397249506,
     "tags": [
       "send"
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Objects/paper_plane.svg",
+      "svg": "/SVG/Messaging/paper_plane.svg",
       "eps": "/EPS/Objects/paper_plane.eps",
       "png": {
         "24": "/PNG/Objects/paper_plane/paper_plane-24.png",
@@ -9282,64 +8596,6 @@
         "32": "/PNG/Objects/paper_plane/paper_plane-32.png",
         "96": "/PNG/Objects/paper_plane/paper_plane-96.png",
         "36": "/PNG/Objects/paper_plane/paper_plane-36.png"
-      }
-    }
-  },
-  {
-    "id": 3211,
-    "name": "partly_cloudy_day",
-    "platform": "Android",
-    "category": "Weather",
-    "created": 1391770248,
-    "tags": [
-      "weather",
-      "air",
-      "sun"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Weather/partly_cloudy_day.svg",
-      "eps": "/EPS/Weather/partly_cloudy_day.eps",
-      "png": {
-        "36": "/PNG/Weather/partly_cloudy_day/partly_cloudy_day-36.png",
-        "32": "/PNG/Weather/partly_cloudy_day/partly_cloudy_day-32.png",
-        "512": "/PNG/Weather/partly_cloudy_day/partly_cloudy_day-512.png",
-        "128": "/PNG/Weather/partly_cloudy_day/partly_cloudy_day-128.png",
-        "24": "/PNG/Weather/partly_cloudy_day/partly_cloudy_day-24.png",
-        "256": "/PNG/Weather/partly_cloudy_day/partly_cloudy_day-256.png",
-        "64": "/PNG/Weather/partly_cloudy_day/partly_cloudy_day-64.png",
-        "48": "/PNG/Weather/partly_cloudy_day/partly_cloudy_day-48.png",
-        "96": "/PNG/Weather/partly_cloudy_day/partly_cloudy_day-96.png"
-      }
-    }
-  },
-  {
-    "id": 3317,
-    "name": "partly_cloudy_night",
-    "platform": "Android",
-    "category": "Weather",
-    "created": 1391770248,
-    "tags": [
-      "weather",
-      "air",
-      "sun",
-      "moon",
-      "half"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Weather/partly_cloudy_night.svg",
-      "eps": "/EPS/Weather/partly_cloudy_night.eps",
-      "png": {
-        "24": "/PNG/Weather/partly_cloudy_night/partly_cloudy_night-24.png",
-        "256": "/PNG/Weather/partly_cloudy_night/partly_cloudy_night-256.png",
-        "32": "/PNG/Weather/partly_cloudy_night/partly_cloudy_night-32.png",
-        "512": "/PNG/Weather/partly_cloudy_night/partly_cloudy_night-512.png",
-        "36": "/PNG/Weather/partly_cloudy_night/partly_cloudy_night-36.png",
-        "48": "/PNG/Weather/partly_cloudy_night/partly_cloudy_night-48.png",
-        "96": "/PNG/Weather/partly_cloudy_night/partly_cloudy_night-96.png",
-        "64": "/PNG/Weather/partly_cloudy_night/partly_cloudy_night-64.png",
-        "128": "/PNG/Weather/partly_cloudy_night/partly_cloudy_night-128.png"
       }
     }
   },
@@ -9444,14 +8700,14 @@
     "id": 3878,
     "name": "phone1",
     "platform": "Android",
-    "category": "Objects",
+    "category": "Mobile",
     "created": 1397177504,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Objects/phone1.svg",
+      "svg": "/SVG/Mobile/phone1.svg",
       "eps": "/EPS/Objects/phone1.eps",
       "png": {
         "48": "/PNG/Objects/phone1/phone1-48.png",
@@ -9470,14 +8726,14 @@
     "id": 3892,
     "name": "phone2",
     "platform": "Android",
-    "category": "Objects",
+    "category": "Mobile",
     "created": 1397177504,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Objects/phone2.svg",
+      "svg": "/SVG/Mobile/phone2.svg",
       "eps": "/EPS/Objects/phone2.eps",
       "png": {
         "24": "/PNG/Objects/phone2/phone2-24.png",
@@ -9973,14 +9229,14 @@
     "id": 3885,
     "name": "poo",
     "platform": "Android",
-    "category": "Objects",
+    "category": "Messaging",
     "created": 1397177504,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Objects/poo.svg",
+      "svg": "/SVG/Messaging/poo.svg",
       "eps": "/EPS/Objects/poo.eps",
       "png": {
         "48": "/PNG/Objects/poo/poo-48.png",
@@ -10299,47 +9555,6 @@
         "96": "/PNG/Very_Basic/print/print-96.png",
         "128": "/PNG/Very_Basic/print/print-128.png",
         "512": "/PNG/Very_Basic/print/print-512.png"
-      }
-    }
-  },
-  {
-    "id": 3298,
-    "name": "private",
-    "platform": "Android",
-    "category": "Buzz",
-    "created": 1391770248,
-    "tags": [
-      "mark",
-      "tools",
-      "security",
-      "internet",
-      "restricted",
-      "settings",
-      "system",
-      "network",
-      "sign",
-      "stop",
-      "hand",
-      "allow",
-      "disallow",
-      "everyone",
-      "unrestricted",
-      "choice"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Buzz/private.svg",
-      "eps": "/EPS/Buzz/private.eps",
-      "png": {
-        "24": "/PNG/Buzz/private/private-24.png",
-        "128": "/PNG/Buzz/private/private-128.png",
-        "512": "/PNG/Buzz/private/private-512.png",
-        "36": "/PNG/Buzz/private/private-36.png",
-        "48": "/PNG/Buzz/private/private-48.png",
-        "32": "/PNG/Buzz/private/private-32.png",
-        "256": "/PNG/Buzz/private/private-256.png",
-        "96": "/PNG/Buzz/private/private-96.png",
-        "64": "/PNG/Buzz/private/private-64.png"
       }
     }
   },
@@ -10778,43 +9993,6 @@
     }
   },
   {
-    "id": 3190,
-    "name": "rain",
-    "platform": "Android",
-    "category": "Weather",
-    "created": 1391770248,
-    "tags": [
-      "water",
-      "weather",
-      "umbrella",
-      "wet",
-      "indoors",
-      "mud",
-      "puddle",
-      "autumn",
-      "shower",
-      "forecast",
-      "bad weather",
-      "depression"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Weather/rain.svg",
-      "eps": "/EPS/Weather/rain.eps",
-      "png": {
-        "48": "/PNG/Weather/rain/rain-48.png",
-        "24": "/PNG/Weather/rain/rain-24.png",
-        "32": "/PNG/Weather/rain/rain-32.png",
-        "36": "/PNG/Weather/rain/rain-36.png",
-        "512": "/PNG/Weather/rain/rain-512.png",
-        "64": "/PNG/Weather/rain/rain-64.png",
-        "96": "/PNG/Weather/rain/rain-96.png",
-        "128": "/PNG/Weather/rain/rain-128.png",
-        "256": "/PNG/Weather/rain/rain-256.png"
-      }
-    }
-  },
-  {
     "id": 3325,
     "name": "rating",
     "platform": "Android",
@@ -10850,45 +10028,6 @@
     }
   },
   {
-    "id": 3354,
-    "name": "read_message",
-    "platform": "Android",
-    "category": "Buzz",
-    "created": 1391770248,
-    "tags": [
-      "send",
-      "mail",
-      "message",
-      "envelope",
-      "messaging",
-      "communication",
-      "tell",
-      "reply",
-      "communicate",
-      "comms",
-      "read",
-      "unread",
-      "sms",
-      "discuss"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Buzz/read_message.svg",
-      "eps": "/EPS/Buzz/read_message.eps",
-      "png": {
-        "64": "/PNG/Buzz/read_message/read_message-64.png",
-        "512": "/PNG/Buzz/read_message/read_message-512.png",
-        "128": "/PNG/Buzz/read_message/read_message-128.png",
-        "96": "/PNG/Buzz/read_message/read_message-96.png",
-        "256": "/PNG/Buzz/read_message/read_message-256.png",
-        "32": "/PNG/Buzz/read_message/read_message-32.png",
-        "48": "/PNG/Buzz/read_message/read_message-48.png",
-        "24": "/PNG/Buzz/read_message/read_message-24.png",
-        "36": "/PNG/Buzz/read_message/read_message-36.png"
-      }
-    }
-  },
-  {
     "id": 3835,
     "name": "record",
     "platform": "Android",
@@ -10912,37 +10051,6 @@
         "512": "/PNG/Media_Controls/record/record-512.png",
         "128": "/PNG/Media_Controls/record/record-128.png",
         "36": "/PNG/Media_Controls/record/record-36.png"
-      }
-    }
-  },
-  {
-    "id": 3150,
-    "name": "recurring_appointment",
-    "platform": "Android",
-    "category": "Buzz",
-    "created": 1391770248,
-    "tags": [
-      "time",
-      "business",
-      "schedule",
-      "organize",
-      "recurring appointment",
-      "business concepts"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Buzz/recurring_appointment.svg",
-      "eps": "/EPS/Buzz/recurring_appointment.eps",
-      "png": {
-        "24": "/PNG/Buzz/recurring_appointment/recurring_appointment-24.png",
-        "256": "/PNG/Buzz/recurring_appointment/recurring_appointment-256.png",
-        "36": "/PNG/Buzz/recurring_appointment/recurring_appointment-36.png",
-        "48": "/PNG/Buzz/recurring_appointment/recurring_appointment-48.png",
-        "512": "/PNG/Buzz/recurring_appointment/recurring_appointment-512.png",
-        "64": "/PNG/Buzz/recurring_appointment/recurring_appointment-64.png",
-        "128": "/PNG/Buzz/recurring_appointment/recurring_appointment-128.png",
-        "96": "/PNG/Buzz/recurring_appointment/recurring_appointment-96.png",
-        "32": "/PNG/Buzz/recurring_appointment/recurring_appointment-32.png"
       }
     }
   },
@@ -11096,46 +10204,6 @@
         "32": "/PNG/Media_Controls/repeat/repeat-32.png",
         "96": "/PNG/Media_Controls/repeat/repeat-96.png",
         "36": "/PNG/Media_Controls/repeat/repeat-36.png"
-      }
-    }
-  },
-  {
-    "id": 3153,
-    "name": "reply",
-    "platform": "Android",
-    "category": "Buzz",
-    "created": 1391770248,
-    "tags": [
-      "send",
-      "mail",
-      "message",
-      "envelope",
-      "messaging",
-      "communication",
-      "tell",
-      "reply",
-      "communicate",
-      "comms",
-      "unread",
-      "sms",
-      "discuss",
-      "replied",
-      "sent"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Buzz/reply.svg",
-      "eps": "/EPS/Buzz/reply.eps",
-      "png": {
-        "96": "/PNG/Buzz/reply/reply-96.png",
-        "256": "/PNG/Buzz/reply/reply-256.png",
-        "24": "/PNG/Buzz/reply/reply-24.png",
-        "64": "/PNG/Buzz/reply/reply-64.png",
-        "512": "/PNG/Buzz/reply/reply-512.png",
-        "48": "/PNG/Buzz/reply/reply-48.png",
-        "128": "/PNG/Buzz/reply/reply-128.png",
-        "32": "/PNG/Buzz/reply/reply-32.png",
-        "36": "/PNG/Buzz/reply/reply-36.png"
       }
     }
   },
@@ -11417,14 +10485,14 @@
     "id": 3920,
     "name": "rocket",
     "platform": "Android",
-    "category": "Objects",
+    "category": "Transport",
     "created": 1397249506,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Objects/rocket.svg",
+      "svg": "/SVG/Transport/rocket.svg",
       "eps": "/EPS/Objects/rocket.eps",
       "png": {
         "96": "/PNG/Objects/rocket/rocket-96.png",
@@ -11596,14 +10664,14 @@
     "id": 3890,
     "name": "running_man",
     "platform": "Android",
-    "category": "Objects",
+    "category": "Sports",
     "created": 1397177504,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Objects/running_man.svg",
+      "svg": "/SVG/Sports/running_man.svg",
       "eps": "/EPS/Objects/running_man.eps",
       "png": {
         "32": "/PNG/Objects/running_man/running_man-32.png",
@@ -12133,43 +11201,6 @@
         "64": "/PNG/Shopping/sell/sell-64.png",
         "96": "/PNG/Shopping/sell/sell-96.png",
         "48": "/PNG/Shopping/sell/sell-48.png"
-      }
-    }
-  },
-  {
-    "id": 3224,
-    "name": "send_file",
-    "platform": "Android",
-    "category": "Buzz",
-    "created": 1391770248,
-    "tags": [
-      "file",
-      "paper",
-      "forward",
-      "arrow",
-      "data",
-      "upload",
-      "page",
-      "sheet",
-      "export",
-      "send file",
-      "move file",
-      "send page"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Buzz/send_file.svg",
-      "eps": "/EPS/Buzz/send_file.eps",
-      "png": {
-        "48": "/PNG/Buzz/send_file/send_file-48.png",
-        "256": "/PNG/Buzz/send_file/send_file-256.png",
-        "64": "/PNG/Buzz/send_file/send_file-64.png",
-        "24": "/PNG/Buzz/send_file/send_file-24.png",
-        "128": "/PNG/Buzz/send_file/send_file-128.png",
-        "512": "/PNG/Buzz/send_file/send_file-512.png",
-        "96": "/PNG/Buzz/send_file/send_file-96.png",
-        "36": "/PNG/Buzz/send_file/send_file-36.png",
-        "32": "/PNG/Buzz/send_file/send_file-32.png"
       }
     }
   },
@@ -12833,39 +11864,6 @@
     }
   },
   {
-    "id": 3124,
-    "name": "sleet",
-    "platform": "Android",
-    "category": "Weather",
-    "created": 1391770248,
-    "tags": [
-      "earth",
-      "clouds",
-      "report",
-      "weather",
-      "conditions",
-      "climate",
-      "snow",
-      "ice cube"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Weather/sleet.svg",
-      "eps": "/EPS/Weather/sleet.eps",
-      "png": {
-        "128": "/PNG/Weather/sleet/sleet-128.png",
-        "256": "/PNG/Weather/sleet/sleet-256.png",
-        "36": "/PNG/Weather/sleet/sleet-36.png",
-        "96": "/PNG/Weather/sleet/sleet-96.png",
-        "64": "/PNG/Weather/sleet/sleet-64.png",
-        "32": "/PNG/Weather/sleet/sleet-32.png",
-        "24": "/PNG/Weather/sleet/sleet-24.png",
-        "48": "/PNG/Weather/sleet/sleet-48.png",
-        "512": "/PNG/Weather/sleet/sleet-512.png"
-      }
-    }
-  },
-  {
     "id": 3145,
     "name": "sleigh",
     "platform": "Android",
@@ -13009,34 +12007,6 @@
     }
   },
   {
-    "id": 3275,
-    "name": "snow",
-    "platform": "Android",
-    "category": "Weather",
-    "created": 1391770248,
-    "tags": [
-      "ice",
-      "weather",
-      "flakes"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Weather/snow.svg",
-      "eps": "/EPS/Weather/snow.eps",
-      "png": {
-        "24": "/PNG/Weather/snow/snow-24.png",
-        "256": "/PNG/Weather/snow/snow-256.png",
-        "64": "/PNG/Weather/snow/snow-64.png",
-        "96": "/PNG/Weather/snow/snow-96.png",
-        "36": "/PNG/Weather/snow/snow-36.png",
-        "512": "/PNG/Weather/snow/snow-512.png",
-        "32": "/PNG/Weather/snow/snow-32.png",
-        "48": "/PNG/Weather/snow/snow-48.png",
-        "128": "/PNG/Weather/snow/snow-128.png"
-      }
-    }
-  },
-  {
     "id": 3297,
     "name": "snowflake",
     "platform": "Android",
@@ -13085,34 +12055,6 @@
         "512": "/PNG/Christmas/snowman/snowman-512.png",
         "24": "/PNG/Christmas/snowman/snowman-24.png",
         "256": "/PNG/Christmas/snowman/snowman-256.png"
-      }
-    }
-  },
-  {
-    "id": 3205,
-    "name": "snow_storm",
-    "platform": "Android",
-    "category": "Weather",
-    "created": 1391770248,
-    "tags": [
-      "ice",
-      "weather",
-      "flakes"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Weather/snow_storm.svg",
-      "eps": "/EPS/Weather/snow_storm.eps",
-      "png": {
-        "48": "/PNG/Weather/snow_storm/snow_storm-48.png",
-        "32": "/PNG/Weather/snow_storm/snow_storm-32.png",
-        "256": "/PNG/Weather/snow_storm/snow_storm-256.png",
-        "96": "/PNG/Weather/snow_storm/snow_storm-96.png",
-        "24": "/PNG/Weather/snow_storm/snow_storm-24.png",
-        "36": "/PNG/Weather/snow_storm/snow_storm-36.png",
-        "64": "/PNG/Weather/snow_storm/snow_storm-64.png",
-        "128": "/PNG/Weather/snow_storm/snow_storm-128.png",
-        "512": "/PNG/Weather/snow_storm/snow_storm-512.png"
       }
     }
   },
@@ -13235,43 +12177,6 @@
     }
   },
   {
-    "id": 3194,
-    "name": "speech_bubble",
-    "platform": "Android",
-    "category": "Buzz",
-    "created": 1391770248,
-    "tags": [
-      "communication",
-      "talking",
-      "talk",
-      "address",
-      "speech",
-      "language",
-      "voice",
-      "oral",
-      "speaking",
-      "chat",
-      "expression",
-      "bubble"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Buzz/speech_bubble.svg",
-      "eps": "/EPS/Buzz/speech_bubble.eps",
-      "png": {
-        "32": "/PNG/Buzz/speech_bubble/speech_bubble-32.png",
-        "36": "/PNG/Buzz/speech_bubble/speech_bubble-36.png",
-        "24": "/PNG/Buzz/speech_bubble/speech_bubble-24.png",
-        "64": "/PNG/Buzz/speech_bubble/speech_bubble-64.png",
-        "256": "/PNG/Buzz/speech_bubble/speech_bubble-256.png",
-        "512": "/PNG/Buzz/speech_bubble/speech_bubble-512.png",
-        "96": "/PNG/Buzz/speech_bubble/speech_bubble-96.png",
-        "128": "/PNG/Buzz/speech_bubble/speech_bubble-128.png",
-        "48": "/PNG/Buzz/speech_bubble/speech_bubble-48.png"
-      }
-    }
-  },
-  {
     "id": 3315,
     "name": "sports_mode",
     "platform": "Android",
@@ -13384,46 +12289,6 @@
     }
   },
   {
-    "id": 3173,
-    "name": "star",
-    "platform": "Android",
-    "category": "Buzz",
-    "created": 1391770248,
-    "tags": [
-      "bookmark",
-      "mark",
-      "favorite",
-      "artist",
-      "star",
-      "pentagram",
-      "stellar",
-      "champion",
-      "hotshot",
-      "ace",
-      "player",
-      "asterisk",
-      "feature",
-      "featured",
-      "rating"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Buzz/star.svg",
-      "eps": "/EPS/Buzz/star.eps",
-      "png": {
-        "256": "/PNG/Buzz/star/star-256.png",
-        "128": "/PNG/Buzz/star/star-128.png",
-        "512": "/PNG/Buzz/star/star-512.png",
-        "96": "/PNG/Buzz/star/star-96.png",
-        "36": "/PNG/Buzz/star/star-36.png",
-        "64": "/PNG/Buzz/star/star-64.png",
-        "24": "/PNG/Buzz/star/star-24.png",
-        "48": "/PNG/Buzz/star/star-48.png",
-        "32": "/PNG/Buzz/star/star-32.png"
-      }
-    }
-  },
-  {
     "id": 3279,
     "name": "start",
     "platform": "Android",
@@ -13456,32 +12321,6 @@
         "36": "/PNG/Photo_Video/start/start-36.png",
         "32": "/PNG/Photo_Video/start/start-32.png",
         "96": "/PNG/Photo_Video/start/start-96.png"
-      }
-    }
-  },
-  {
-    "id": 3330,
-    "name": "star_outline",
-    "platform": "Android",
-    "category": "Buzz",
-    "created": 1391770248,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Buzz/star_outline.svg",
-      "eps": "/EPS/Buzz/star_outline.eps",
-      "png": {
-        "128": "/PNG/Buzz/star_outline/star_outline-128.png",
-        "96": "/PNG/Buzz/star_outline/star_outline-96.png",
-        "36": "/PNG/Buzz/star_outline/star_outline-36.png",
-        "256": "/PNG/Buzz/star_outline/star_outline-256.png",
-        "24": "/PNG/Buzz/star_outline/star_outline-24.png",
-        "512": "/PNG/Buzz/star_outline/star_outline-512.png",
-        "32": "/PNG/Buzz/star_outline/star_outline-32.png",
-        "64": "/PNG/Buzz/star_outline/star_outline-64.png",
-        "48": "/PNG/Buzz/star_outline/star_outline-48.png"
       }
     }
   },
@@ -13540,37 +12379,6 @@
     }
   },
   {
-    "id": 3277,
-    "name": "storm",
-    "platform": "Android",
-    "category": "Weather",
-    "created": 1391770248,
-    "tags": [
-      "lightning",
-      "weather",
-      "darkness",
-      "storm",
-      "bad",
-      "thunder"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Weather/storm.svg",
-      "eps": "/EPS/Weather/storm.eps",
-      "png": {
-        "36": "/PNG/Weather/storm/storm-36.png",
-        "512": "/PNG/Weather/storm/storm-512.png",
-        "48": "/PNG/Weather/storm/storm-48.png",
-        "24": "/PNG/Weather/storm/storm-24.png",
-        "32": "/PNG/Weather/storm/storm-32.png",
-        "256": "/PNG/Weather/storm/storm-256.png",
-        "128": "/PNG/Weather/storm/storm-128.png",
-        "64": "/PNG/Weather/storm/storm-64.png",
-        "96": "/PNG/Weather/storm/storm-96.png"
-      }
-    }
-  },
-  {
     "id": 3776,
     "name": "street_view",
     "platform": "Android",
@@ -13600,32 +12408,6 @@
         "256": "/PNG/Maps/street_view/street_view-256.png",
         "128": "/PNG/Maps/street_view/street_view-128.png",
         "32": "/PNG/Maps/street_view/street_view-32.png"
-      }
-    }
-  },
-  {
-    "id": 3327,
-    "name": "sun",
-    "platform": "Android",
-    "category": "Weather",
-    "created": 1391770248,
-    "tags": [
-      "weather"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Weather/sun.svg",
-      "eps": "/EPS/Weather/sun.eps",
-      "png": {
-        "32": "/PNG/Weather/sun/sun-32.png",
-        "48": "/PNG/Weather/sun/sun-48.png",
-        "36": "/PNG/Weather/sun/sun-36.png",
-        "512": "/PNG/Weather/sun/sun-512.png",
-        "24": "/PNG/Weather/sun/sun-24.png",
-        "128": "/PNG/Weather/sun/sun-128.png",
-        "96": "/PNG/Weather/sun/sun-96.png",
-        "64": "/PNG/Weather/sun/sun-64.png",
-        "256": "/PNG/Weather/sun/sun-256.png"
       }
     }
   },
@@ -14064,40 +12846,6 @@
         "36": "/PNG/Sports/tennis/tennis-36.png",
         "24": "/PNG/Sports/tennis/tennis-24.png",
         "48": "/PNG/Sports/tennis/tennis-48.png"
-      }
-    }
-  },
-  {
-    "id": 3129,
-    "name": "thermometer",
-    "platform": "Android",
-    "category": "Weather",
-    "created": 1391770248,
-    "tags": [
-      "fever",
-      "thermometer",
-      "fahrenheit",
-      "hot",
-      "cold",
-      "degrees",
-      "celsius",
-      "doctor",
-      "threat"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Weather/thermometer.svg",
-      "eps": "/EPS/Weather/thermometer.eps",
-      "png": {
-        "64": "/PNG/Weather/thermometer/thermometer-64.png",
-        "48": "/PNG/Weather/thermometer/thermometer-48.png",
-        "32": "/PNG/Weather/thermometer/thermometer-32.png",
-        "96": "/PNG/Weather/thermometer/thermometer-96.png",
-        "512": "/PNG/Weather/thermometer/thermometer-512.png",
-        "256": "/PNG/Weather/thermometer/thermometer-256.png",
-        "24": "/PNG/Weather/thermometer/thermometer-24.png",
-        "36": "/PNG/Weather/thermometer/thermometer-36.png",
-        "128": "/PNG/Weather/thermometer/thermometer-128.png"
       }
     }
   },
@@ -16397,32 +15145,6 @@
     }
   },
   {
-    "id": 3883,
-    "name": "umbrella",
-    "platform": "Android",
-    "category": "Objects",
-    "created": 1397177504,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Objects/umbrella.svg",
-      "eps": "/EPS/Objects/umbrella.eps",
-      "png": {
-        "512": "/PNG/Objects/umbrella/umbrella-512.png",
-        "32": "/PNG/Objects/umbrella/umbrella-32.png",
-        "64": "/PNG/Objects/umbrella/umbrella-64.png",
-        "24": "/PNG/Objects/umbrella/umbrella-24.png",
-        "36": "/PNG/Objects/umbrella/umbrella-36.png",
-        "128": "/PNG/Objects/umbrella/umbrella-128.png",
-        "96": "/PNG/Objects/umbrella/umbrella-96.png",
-        "48": "/PNG/Objects/umbrella/umbrella-48.png",
-        "256": "/PNG/Objects/umbrella/umbrella-256.png"
-      }
-    }
-  },
-  {
     "id": 3183,
     "name": "undo",
     "platform": "Android",
@@ -16894,38 +15616,6 @@
         "36": "/PNG/Shopping/visa/visa-36.png",
         "32": "/PNG/Shopping/visa/visa-32.png",
         "48": "/PNG/Shopping/visa/visa-48.png"
-      }
-    }
-  },
-  {
-    "id": 3270,
-    "name": "visible",
-    "platform": "Android",
-    "category": "Buzz",
-    "created": 1391770248,
-    "tags": [
-      "see",
-      "confirmed",
-      "view",
-      "eye",
-      "visible",
-      "invisible",
-      "disabled"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Buzz/visible.svg",
-      "eps": "/EPS/Buzz/visible.eps",
-      "png": {
-        "48": "/PNG/Buzz/visible/visible-48.png",
-        "96": "/PNG/Buzz/visible/visible-96.png",
-        "512": "/PNG/Buzz/visible/visible-512.png",
-        "256": "/PNG/Buzz/visible/visible-256.png",
-        "64": "/PNG/Buzz/visible/visible-64.png",
-        "24": "/PNG/Buzz/visible/visible-24.png",
-        "32": "/PNG/Buzz/visible/visible-32.png",
-        "36": "/PNG/Buzz/visible/visible-36.png",
-        "128": "/PNG/Buzz/visible/visible-128.png"
       }
     }
   },
