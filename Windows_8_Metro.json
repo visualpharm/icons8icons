@@ -7355,6 +7355,29 @@
     }
   },
   {
+    "id": 4026,
+    "name": "booking",
+    "platform": "Windows 8/Metro",
+    "category": "Household",
+    "created": 1398185501,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/booking.svg",
+      "png": {
+        "128": "/PNG/Household/booking/booking-128.png",
+        "64": "/PNG/Household/booking/booking-64.png",
+        "48": "/PNG/Household/booking/booking-48.png",
+        "256": "/PNG/Household/booking/booking-256.png",
+        "512": "/PNG/Household/booking/booking-512.png",
+        "26": "/PNG/Household/booking/booking-26.png",
+        "32": "/PNG/Household/booking/booking-32.png"
+      }
+    }
+  },
+  {
     "id": 18,
     "name": "bookmark",
     "platform": "Windows 8/Metro",
@@ -8983,6 +9006,29 @@
         "48": "/PNG/Very_Basic/calendar/calendar-48.png",
         "512": "/PNG/Very_Basic/calendar/calendar-512.png",
         "128": "/PNG/Very_Basic/calendar/calendar-128.png"
+      }
+    }
+  },
+  {
+    "id": 4028,
+    "name": "caliper",
+    "platform": "Windows 8/Metro",
+    "category": "Measurement Units",
+    "created": 1398185501,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Measurement_Units/caliper.svg",
+      "png": {
+        "64": "/PNG/Measurement_Units/caliper/caliper-64.png",
+        "128": "/PNG/Measurement_Units/caliper/caliper-128.png",
+        "256": "/PNG/Measurement_Units/caliper/caliper-256.png",
+        "26": "/PNG/Measurement_Units/caliper/caliper-26.png",
+        "512": "/PNG/Measurement_Units/caliper/caliper-512.png",
+        "48": "/PNG/Measurement_Units/caliper/caliper-48.png",
+        "32": "/PNG/Measurement_Units/caliper/caliper-32.png"
       }
     }
   },
@@ -51537,6 +51583,29 @@
     }
   },
   {
+    "id": 4024,
+    "name": "room",
+    "platform": "Windows 8/Metro",
+    "category": "Household",
+    "created": 1398185501,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/room.svg",
+      "png": {
+        "256": "/PNG/Household/room/room-256.png",
+        "128": "/PNG/Household/room/room-128.png",
+        "64": "/PNG/Household/room/room-64.png",
+        "512": "/PNG/Household/room/room-512.png",
+        "32": "/PNG/Household/room/room-32.png",
+        "48": "/PNG/Household/room/room-48.png",
+        "26": "/PNG/Household/room/room-26.png"
+      }
+    }
+  },
+  {
     "id": 3462,
     "name": "rooster",
     "platform": "Windows 8/Metro",
@@ -63873,6 +63942,29 @@
         "64": "/PNG/Timewise/today/today-64.png",
         "128": "/PNG/Timewise/today/today-128.png",
         "256": "/PNG/Timewise/today/today-256.png"
+      }
+    }
+  },
+  {
+    "id": 4022,
+    "name": "todo_list",
+    "platform": "Windows 8/Metro",
+    "category": "Business",
+    "created": 1398185501,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/todo_list.svg",
+      "png": {
+        "64": "/PNG/Business/todo_list/todo_list-64.png",
+        "48": "/PNG/Business/todo_list/todo_list-48.png",
+        "26": "/PNG/Business/todo_list/todo_list-26.png",
+        "512": "/PNG/Business/todo_list/todo_list-512.png",
+        "128": "/PNG/Business/todo_list/todo_list-128.png",
+        "256": "/PNG/Business/todo_list/todo_list-256.png",
+        "32": "/PNG/Business/todo_list/todo_list-32.png"
       }
     }
   },

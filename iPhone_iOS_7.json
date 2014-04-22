@@ -4952,6 +4952,30 @@
     }
   },
   {
+    "id": 4027,
+    "name": "booking",
+    "platform": "iPhone/iOS 7",
+    "category": "Household",
+    "created": 1398185501,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/booking.svg",
+      "png": {
+        "128": "/PNG/Real_Estate/booking/booking-128.png",
+        "25": "/PNG/Real_Estate/booking/booking-25.png",
+        "50": "/PNG/Real_Estate/booking/booking-50.png",
+        "100": "/PNG/Real_Estate/booking/booking-100.png",
+        "256": "/PNG/Real_Estate/booking/booking-256.png",
+        "512": "/PNG/Real_Estate/booking/booking-512.png",
+        "75": "/PNG/Real_Estate/booking/booking-75.png",
+        "32": "/PNG/Real_Estate/booking/booking-32.png"
+      }
+    }
+  },
+  {
     "id": 19,
     "name": "bookmark",
     "platform": "iPhone/iOS 7",
@@ -6034,6 +6058,30 @@
         "50": "/PNG/Time_and_Date/calendar/calendar-50.png",
         "512": "/PNG/Time_and_Date/calendar/calendar-512.png",
         "128": "/PNG/Time_and_Date/calendar/calendar-128.png"
+      }
+    }
+  },
+  {
+    "id": 4029,
+    "name": "caliper",
+    "platform": "iPhone/iOS 7",
+    "category": "Measurement Units",
+    "created": 1398185501,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Measurement_Units/caliper.svg",
+      "png": {
+        "50": "/PNG/Measurement_Units/caliper/caliper-50.png",
+        "128": "/PNG/Measurement_Units/caliper/caliper-128.png",
+        "256": "/PNG/Measurement_Units/caliper/caliper-256.png",
+        "75": "/PNG/Measurement_Units/caliper/caliper-75.png",
+        "512": "/PNG/Measurement_Units/caliper/caliper-512.png",
+        "25": "/PNG/Measurement_Units/caliper/caliper-25.png",
+        "100": "/PNG/Measurement_Units/caliper/caliper-100.png",
+        "32": "/PNG/Measurement_Units/caliper/caliper-32.png"
       }
     }
   },
@@ -16496,8 +16544,10 @@
       "designator",
       "gray",
       "directional",
-      "vector illustration",
-      "rightw"
+      "rightward",
+      "glassy",
+      "front",
+      "mar"
     ],
     "copyright": false,
     "files": {
@@ -41153,6 +41203,30 @@
     }
   },
   {
+    "id": 4025,
+    "name": "room",
+    "platform": "iPhone/iOS 7",
+    "category": "Household",
+    "created": 1398185501,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/room.svg",
+      "png": {
+        "256": "/PNG/Real_Estate/room/room-256.png",
+        "100": "/PNG/Real_Estate/room/room-100.png",
+        "128": "/PNG/Real_Estate/room/room-128.png",
+        "75": "/PNG/Real_Estate/room/room-75.png",
+        "512": "/PNG/Real_Estate/room/room-512.png",
+        "32": "/PNG/Real_Estate/room/room-32.png",
+        "25": "/PNG/Real_Estate/room/room-25.png",
+        "50": "/PNG/Real_Estate/room/room-50.png"
+      }
+    }
+  },
+  {
     "id": 3463,
     "name": "rooster",
     "platform": "iPhone/iOS 7",
@@ -52029,6 +52103,30 @@
         "50": "/PNG/Time_and_Date/today/today-50.png",
         "25": "/PNG/Time_and_Date/today/today-25.png",
         "75": "/PNG/Time_and_Date/today/today-75.png"
+      }
+    }
+  },
+  {
+    "id": 4023,
+    "name": "todo_list",
+    "platform": "iPhone/iOS 7",
+    "category": "Programming",
+    "created": 1398185501,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Programming/todo_list.svg",
+      "png": {
+        "50": "/PNG/System/todo_list/todo_list-50.png",
+        "75": "/PNG/System/todo_list/todo_list-75.png",
+        "100": "/PNG/System/todo_list/todo_list-100.png",
+        "512": "/PNG/System/todo_list/todo_list-512.png",
+        "25": "/PNG/System/todo_list/todo_list-25.png",
+        "128": "/PNG/System/todo_list/todo_list-128.png",
+        "256": "/PNG/System/todo_list/todo_list-256.png",
+        "32": "/PNG/System/todo_list/todo_list-32.png"
       }
     }
   },
