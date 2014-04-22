@@ -27875,7 +27875,7 @@
     "id": 1259,
     "name": "grey",
     "platform": "Windows 8/Metro",
-    "category": "Fiction",
+    "category": "Cinema",
     "created": 1350643690,
     "tags": [
       "alien",
@@ -27884,7 +27884,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Fiction/grey.svg",
+      "svg": "/SVG/Cinema/grey.svg",
       "svg.simplified": "/SVG_for_Font/grey.svg",
       "eps": "/EPS/Aliens/grey.eps",
       "png": {
@@ -36745,7 +36745,7 @@
     "id": 1260,
     "name": "martian",
     "platform": "Windows 8/Metro",
-    "category": "Fiction",
+    "category": "Cinema",
     "created": 1350643690,
     "tags": [
       "alien",
@@ -36754,7 +36754,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Fiction/martian.svg",
+      "svg": "/SVG/Cinema/martian.svg",
       "svg.simplified": "/SVG_for_Font/martian.svg",
       "eps": "/EPS/Aliens/martian.eps",
       "png": {
@@ -47205,7 +47205,7 @@
     "id": 1261,
     "name": "predator",
     "platform": "Windows 8/Metro",
-    "category": "Fiction",
+    "category": "Cinema",
     "created": 1350643690,
     "tags": [
       "alien",
@@ -47214,7 +47214,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Fiction/predator.svg",
+      "svg": "/SVG/Cinema/predator.svg",
       "svg.simplified": "/SVG_for_Font/predator.svg",
       "eps": "/EPS/Aliens/predator.eps",
       "png": {
