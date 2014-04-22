@@ -18975,7 +18975,6 @@
       "water",
       "location",
       "sign",
-      "building",
       "icon",
       "nature",
       "modern",
@@ -19005,7 +19004,8 @@
       "flood",
       "sudden",
       "orlando",
-      "florida"
+      "florida",
+      "skyscrap"
     ],
     "copyright": false,
     "files": {
@@ -48410,6 +48410,7 @@
     "created": 1339148179,
     "tags": [
       "swimming",
+      "school",
       "sport",
       "water",
       "exercise",
@@ -53863,6 +53864,7 @@
     "created": 1323862193,
     "tags": [
       "time",
+      "close",
       "protect",
       "care",
       "objects",
@@ -54381,7 +54383,7 @@
     "category": "Very Basic",
     "created": 1390342414,
     "tags": [
-
+      "cloud"
     ],
     "copyright": false,
     "files": {
@@ -54535,7 +54537,7 @@
     "category": "Arrows",
     "created": 1390342414,
     "tags": [
-
+      "arrow"
     ],
     "copyright": false,
     "files": {
