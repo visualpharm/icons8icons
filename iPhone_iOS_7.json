@@ -22247,6 +22247,7 @@
       "communication",
       "group",
       "users",
+      "team",
       "together",
       "numbers",
       "people",
@@ -34112,8 +34113,10 @@
     "category": "Hands",
     "created": 1334131572,
     "tags": [
+      "swipe",
       "uno",
-      "pose"
+      "pose",
+      "finger"
     ],
     "copyright": false,
     "files": {
@@ -43384,7 +43387,10 @@
     "category": "Messaging",
     "created": 1390342414,
     "tags": [
-
+      "send",
+      "message",
+      "delivering",
+      "send7"
     ],
     "copyright": false,
     "files": {
