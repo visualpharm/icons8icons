@@ -1193,7 +1193,8 @@
       "morning",
       "time",
       "switch",
-      "map"
+      "map",
+      "castel"
     ],
     "copyright": false,
     "files": {
@@ -8899,6 +8900,30 @@
     }
   },
   {
+    "id": 4045,
+    "name": "cinnamon_roll",
+    "platform": "iPhone/iOS 7",
+    "category": "Food",
+    "created": 1398257489,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/cinnamon_roll.svg",
+      "png": {
+        "256": "/PNG/Food/cinnamon_roll/cinnamon_roll-256.png",
+        "512": "/PNG/Food/cinnamon_roll/cinnamon_roll-512.png",
+        "128": "/PNG/Food/cinnamon_roll/cinnamon_roll-128.png",
+        "50": "/PNG/Food/cinnamon_roll/cinnamon_roll-50.png",
+        "100": "/PNG/Food/cinnamon_roll/cinnamon_roll-100.png",
+        "32": "/PNG/Food/cinnamon_roll/cinnamon_roll-32.png",
+        "25": "/PNG/Food/cinnamon_roll/cinnamon_roll-25.png",
+        "75": "/PNG/Food/cinnamon_roll/cinnamon_roll-75.png"
+      }
+    }
+  },
+  {
     "id": 2357,
     "name": "circuit",
     "platform": "iPhone/iOS 7",
@@ -11145,6 +11170,30 @@
     }
   },
   {
+    "id": 4047,
+    "name": "cookies",
+    "platform": "iPhone/iOS 7",
+    "category": "Food",
+    "created": 1398257489,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/cookies.svg",
+      "png": {
+        "25": "/PNG/Food/cookies/cookies-25.png",
+        "128": "/PNG/Food/cookies/cookies-128.png",
+        "100": "/PNG/Food/cookies/cookies-100.png",
+        "256": "/PNG/Food/cookies/cookies-256.png",
+        "32": "/PNG/Food/cookies/cookies-32.png",
+        "75": "/PNG/Food/cookies/cookies-75.png",
+        "512": "/PNG/Food/cookies/cookies-512.png",
+        "50": "/PNG/Food/cookies/cookies-50.png"
+      }
+    }
+  },
+  {
     "id": 284,
     "name": "cooking_pot",
     "platform": "iPhone/iOS 7",
@@ -12238,6 +12287,30 @@
         "75": "/PNG/File_Types/csv/csv-75.png",
         "256": "/PNG/File_Types/csv/csv-256.png",
         "25": "/PNG/File_Types/csv/csv-25.png"
+      }
+    }
+  },
+  {
+    "id": 4043,
+    "name": "cupcake",
+    "platform": "iPhone/iOS 7",
+    "category": "Food",
+    "created": 1398257489,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/cupcake.svg",
+      "png": {
+        "50": "/PNG/Food/cupcake/cupcake-50.png",
+        "128": "/PNG/Food/cupcake/cupcake-128.png",
+        "512": "/PNG/Food/cupcake/cupcake-512.png",
+        "32": "/PNG/Food/cupcake/cupcake-32.png",
+        "100": "/PNG/Food/cupcake/cupcake-100.png",
+        "75": "/PNG/Food/cupcake/cupcake-75.png",
+        "25": "/PNG/Food/cupcake/cupcake-25.png",
+        "256": "/PNG/Food/cupcake/cupcake-256.png"
       }
     }
   },
@@ -17174,6 +17247,7 @@
       "enter",
       "symbol",
       "picture",
+      "export",
       "clue",
       "sign",
       "logo",
@@ -23815,7 +23889,6 @@
       "windows",
       "window",
       "land",
-      "living",
       "lawn",
       "fire",
       "mortgage",
@@ -32011,7 +32084,8 @@
     "tags": [
       "lock",
       "cursor",
-      "mouse"
+      "mouse",
+      "film"
     ],
     "copyright": false,
     "files": {
@@ -47262,6 +47336,7 @@
     "tags": [
       "bookmark",
       "mark",
+      "audio",
       "artist",
       "pentagram",
       "stellar",
@@ -47272,6 +47347,7 @@
       "asterisk",
       "feature",
       "featured",
+      "headphones",
       "etoile",
       "favorite",
       "star"
@@ -54584,6 +54660,7 @@
     "tags": [
       "attach",
       "file",
+      "save",
       "download",
       "move",
       "share",
@@ -56289,6 +56366,7 @@
     "category": "Sports",
     "created": 1379673291,
     "tags": [
+      "location",
       "walking",
       "walks"
     ],

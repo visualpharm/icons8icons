@@ -12584,6 +12584,32 @@
     }
   },
   {
+    "id": 3903,
+    "name": "speed",
+    "platform": "Android",
+    "category": "Measurement Units",
+    "created": 1397249506,
+    "tags": [
+      "skin"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Measurement_Units/speed.svg",
+      "eps": "/EPS/Measurement_Units/speed.eps",
+      "png": {
+        "64": "/PNG/Measurement_Units/speed/speed-64.png",
+        "24": "/PNG/Measurement_Units/speed/speed-24.png",
+        "36": "/PNG/Measurement_Units/speed/speed-36.png",
+        "256": "/PNG/Measurement_Units/speed/speed-256.png",
+        "32": "/PNG/Measurement_Units/speed/speed-32.png",
+        "48": "/PNG/Measurement_Units/speed/speed-48.png",
+        "512": "/PNG/Measurement_Units/speed/speed-512.png",
+        "96": "/PNG/Measurement_Units/speed/speed-96.png",
+        "128": "/PNG/Measurement_Units/speed/speed-128.png"
+      }
+    }
+  },
+  {
     "id": 3315,
     "name": "sports_mode",
     "platform": "Android",

@@ -12256,6 +12256,29 @@
     }
   },
   {
+    "id": 4044,
+    "name": "cinnamon_roll",
+    "platform": "Windows 8/Metro",
+    "category": "Food",
+    "created": 1398257489,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/cinnamon_roll.svg",
+      "png": {
+        "256": "/PNG/Food/cinnamon_roll/cinnamon_roll-256.png",
+        "64": "/PNG/Food/cinnamon_roll/cinnamon_roll-64.png",
+        "512": "/PNG/Food/cinnamon_roll/cinnamon_roll-512.png",
+        "128": "/PNG/Food/cinnamon_roll/cinnamon_roll-128.png",
+        "32": "/PNG/Food/cinnamon_roll/cinnamon_roll-32.png",
+        "26": "/PNG/Food/cinnamon_roll/cinnamon_roll-26.png",
+        "48": "/PNG/Food/cinnamon_roll/cinnamon_roll-48.png"
+      }
+    }
+  },
+  {
     "id": 2356,
     "name": "circuit",
     "platform": "Windows 8/Metro",
@@ -14472,7 +14495,6 @@
       "group",
       "team",
       "talk",
-      "conference phone",
       "telecommunications equipment",
       "brainstorming",
       "department",
@@ -14886,6 +14908,29 @@
         "48": "/PNG/Food/cooker_hood/cooker_hood-48.png",
         "64": "/PNG/Food/cooker_hood/cooker_hood-64.png",
         "512": "/PNG/Food/cooker_hood/cooker_hood-512.png"
+      }
+    }
+  },
+  {
+    "id": 4046,
+    "name": "cookies",
+    "platform": "Windows 8/Metro",
+    "category": "Food",
+    "created": 1398257489,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/cookies.svg",
+      "png": {
+        "26": "/PNG/Food/cookies/cookies-26.png",
+        "128": "/PNG/Food/cookies/cookies-128.png",
+        "256": "/PNG/Food/cookies/cookies-256.png",
+        "32": "/PNG/Food/cookies/cookies-32.png",
+        "64": "/PNG/Food/cookies/cookies-64.png",
+        "48": "/PNG/Food/cookies/cookies-48.png",
+        "512": "/PNG/Food/cookies/cookies-512.png"
       }
     }
   },
@@ -15999,6 +16044,29 @@
         "48": "/PNG/Food/cup/cup-48.png",
         "128": "/PNG/Food/cup/cup-128.png",
         "26": "/PNG/Food/cup/cup-26.png"
+      }
+    }
+  },
+  {
+    "id": 4042,
+    "name": "cupcake",
+    "platform": "Windows 8/Metro",
+    "category": "Food",
+    "created": 1398257489,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/cupcake.svg",
+      "png": {
+        "48": "/PNG/Food/cupcake/cupcake-48.png",
+        "128": "/PNG/Food/cupcake/cupcake-128.png",
+        "512": "/PNG/Food/cupcake/cupcake-512.png",
+        "32": "/PNG/Food/cupcake/cupcake-32.png",
+        "26": "/PNG/Food/cupcake/cupcake-26.png",
+        "64": "/PNG/Food/cupcake/cupcake-64.png",
+        "256": "/PNG/Food/cupcake/cupcake-256.png"
       }
     }
   },
@@ -30781,7 +30849,8 @@
       "lightning",
       "electrical",
       "evrika",
-      "discovery"
+      "discovery",
+      "new floor"
     ],
     "copyright": false,
     "files": {
@@ -36687,6 +36756,7 @@
     "tags": [
       "direction",
       "guide",
+      "call",
       "address",
       "maps",
       "signage",
@@ -38829,6 +38899,7 @@
       "display",
       "screen",
       "search",
+      "tablet",
       "saerch"
     ],
     "copyright": false,
@@ -49903,7 +49974,6 @@
     "category": "Very Basic",
     "created": 1363207523,
     "tags": [
-      "refresh",
       "laptop",
       "pc",
       "computer",
@@ -49911,7 +49981,8 @@
       "portable computer",
       "personal computer",
       "reload",
-      "cerrar session"
+      "cerrar session",
+      "refresh"
     ],
     "copyright": false,
     "files": {
@@ -61430,9 +61501,7 @@
       "mechanism",
       "medical",
       "measure",
-      "measurement",
       "temperature",
-      "thermometer",
       "centigrade",
       "fahrenheit",
       "monitor",
@@ -61468,7 +61537,9 @@
       "degree",
       "container",
       "pressure",
-      "body"
+      "body",
+      "engineering",
+      "instrument"
     ],
     "copyright": false,
     "files": {
@@ -65676,7 +65747,8 @@
       "bird",
       "tweet",
       "twitter",
-      "youtube"
+      "youtube",
+      "instagram"
     ],
     "copyright": false,
     "files": {
