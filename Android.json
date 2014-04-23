@@ -571,6 +571,31 @@
     }
   },
   {
+    "id": 4073,
+    "name": "automotive",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/automotive.svg",
+      "png": {
+        "64": "/PNG/Industry/automotive/automotive-64.png",
+        "32": "/PNG/Industry/automotive/automotive-32.png",
+        "36": "/PNG/Industry/automotive/automotive-36.png",
+        "512": "/PNG/Industry/automotive/automotive-512.png",
+        "128": "/PNG/Industry/automotive/automotive-128.png",
+        "96": "/PNG/Industry/automotive/automotive-96.png",
+        "48": "/PNG/Industry/automotive/automotive-48.png",
+        "256": "/PNG/Industry/automotive/automotive-256.png",
+        "24": "/PNG/Industry/automotive/automotive-24.png"
+      }
+    }
+  },
+  {
     "id": 3342,
     "name": "average",
     "platform": "Android",
@@ -1012,6 +1037,81 @@
         "36": "/PNG/Transport/bicycle/bicycle-36.png",
         "64": "/PNG/Transport/bicycle/bicycle-64.png",
         "128": "/PNG/Transport/bicycle/bicycle-128.png"
+      }
+    }
+  },
+  {
+    "id": 4084,
+    "name": "biohazard",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/biohazard.svg",
+      "png": {
+        "128": "/PNG/Industry/biohazard/biohazard-128.png",
+        "36": "/PNG/Industry/biohazard/biohazard-36.png",
+        "96": "/PNG/Industry/biohazard/biohazard-96.png",
+        "48": "/PNG/Industry/biohazard/biohazard-48.png",
+        "24": "/PNG/Industry/biohazard/biohazard-24.png",
+        "32": "/PNG/Industry/biohazard/biohazard-32.png",
+        "256": "/PNG/Industry/biohazard/biohazard-256.png",
+        "64": "/PNG/Industry/biohazard/biohazard-64.png",
+        "512": "/PNG/Industry/biohazard/biohazard-512.png"
+      }
+    }
+  },
+  {
+    "id": 4066,
+    "name": "biomass",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/biomass.svg",
+      "png": {
+        "36": "/PNG/Industry/biomass/biomass-36.png",
+        "48": "/PNG/Industry/biomass/biomass-48.png",
+        "512": "/PNG/Industry/biomass/biomass-512.png",
+        "256": "/PNG/Industry/biomass/biomass-256.png",
+        "24": "/PNG/Industry/biomass/biomass-24.png",
+        "32": "/PNG/Industry/biomass/biomass-32.png",
+        "128": "/PNG/Industry/biomass/biomass-128.png",
+        "64": "/PNG/Industry/biomass/biomass-64.png",
+        "96": "/PNG/Industry/biomass/biomass-96.png"
+      }
+    }
+  },
+  {
+    "id": 4091,
+    "name": "biotech",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/biotech.svg",
+      "png": {
+        "32": "/PNG/Industry/biotech/biotech-32.png",
+        "24": "/PNG/Industry/biotech/biotech-24.png",
+        "96": "/PNG/Industry/biotech/biotech-96.png",
+        "64": "/PNG/Industry/biotech/biotech-64.png",
+        "36": "/PNG/Industry/biotech/biotech-36.png",
+        "128": "/PNG/Industry/biotech/biotech-128.png",
+        "256": "/PNG/Industry/biotech/biotech-256.png",
+        "48": "/PNG/Industry/biotech/biotech-48.png",
+        "512": "/PNG/Industry/biotech/biotech-512.png"
       }
     }
   },
@@ -1669,6 +1769,31 @@
         "48": "/PNG/Sports/canopy/canopy-48.png",
         "32": "/PNG/Sports/canopy/canopy-32.png",
         "64": "/PNG/Sports/canopy/canopy-64.png"
+      }
+    }
+  },
+  {
+    "id": 4059,
+    "name": "capacitor",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/capacitor.svg",
+      "png": {
+        "512": "/PNG/Industry/capacitor/capacitor-512.png",
+        "48": "/PNG/Industry/capacitor/capacitor-48.png",
+        "96": "/PNG/Industry/capacitor/capacitor-96.png",
+        "36": "/PNG/Industry/capacitor/capacitor-36.png",
+        "32": "/PNG/Industry/capacitor/capacitor-32.png",
+        "24": "/PNG/Industry/capacitor/capacitor-24.png",
+        "64": "/PNG/Industry/capacitor/capacitor-64.png",
+        "128": "/PNG/Industry/capacitor/capacitor-128.png",
+        "256": "/PNG/Industry/capacitor/capacitor-256.png"
       }
     }
   },
@@ -2457,6 +2582,31 @@
     }
   },
   {
+    "id": 4061,
+    "name": "circuit",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/circuit.svg",
+      "png": {
+        "128": "/PNG/Industry/circuit/circuit-128.png",
+        "36": "/PNG/Industry/circuit/circuit-36.png",
+        "256": "/PNG/Industry/circuit/circuit-256.png",
+        "64": "/PNG/Industry/circuit/circuit-64.png",
+        "512": "/PNG/Industry/circuit/circuit-512.png",
+        "32": "/PNG/Industry/circuit/circuit-32.png",
+        "96": "/PNG/Industry/circuit/circuit-96.png",
+        "24": "/PNG/Industry/circuit/circuit-24.png",
+        "48": "/PNG/Industry/circuit/circuit-48.png"
+      }
+    }
+  },
+  {
     "id": 3328,
     "name": "clapperboard",
     "platform": "Android",
@@ -3149,6 +3299,31 @@
     }
   },
   {
+    "id": 4088,
+    "name": "crystal_oscillator",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/crystal_oscillator.svg",
+      "png": {
+        "24": "/PNG/Industry/crystal_oscillator/crystal_oscillator-24.png",
+        "32": "/PNG/Industry/crystal_oscillator/crystal_oscillator-32.png",
+        "36": "/PNG/Industry/crystal_oscillator/crystal_oscillator-36.png",
+        "256": "/PNG/Industry/crystal_oscillator/crystal_oscillator-256.png",
+        "48": "/PNG/Industry/crystal_oscillator/crystal_oscillator-48.png",
+        "512": "/PNG/Industry/crystal_oscillator/crystal_oscillator-512.png",
+        "64": "/PNG/Industry/crystal_oscillator/crystal_oscillator-64.png",
+        "96": "/PNG/Industry/crystal_oscillator/crystal_oscillator-96.png",
+        "128": "/PNG/Industry/crystal_oscillator/crystal_oscillator-128.png"
+      }
+    }
+  },
+  {
     "id": 3149,
     "name": "cursor",
     "platform": "Android",
@@ -3443,6 +3618,31 @@
         "32": "/PNG/Shopping/diploma2/diploma2-32.png",
         "36": "/PNG/Shopping/diploma2/diploma2-36.png",
         "512": "/PNG/Shopping/diploma2/diploma2-512.png"
+      }
+    }
+  },
+  {
+    "id": 4052,
+    "name": "display",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/display.svg",
+      "png": {
+        "48": "/PNG/Industry/display/display-48.png",
+        "32": "/PNG/Industry/display/display-32.png",
+        "24": "/PNG/Industry/display/display-24.png",
+        "36": "/PNG/Industry/display/display-36.png",
+        "512": "/PNG/Industry/display/display-512.png",
+        "96": "/PNG/Industry/display/display-96.png",
+        "128": "/PNG/Industry/display/display-128.png",
+        "256": "/PNG/Industry/display/display-256.png",
+        "64": "/PNG/Industry/display/display-64.png"
       }
     }
   },
@@ -4163,6 +4363,81 @@
     }
   },
   {
+    "id": 4093,
+    "name": "electricity",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/electricity.svg",
+      "png": {
+        "36": "/PNG/Industry/electricity/electricity-36.png",
+        "128": "/PNG/Industry/electricity/electricity-128.png",
+        "24": "/PNG/Industry/electricity/electricity-24.png",
+        "48": "/PNG/Industry/electricity/electricity-48.png",
+        "512": "/PNG/Industry/electricity/electricity-512.png",
+        "64": "/PNG/Industry/electricity/electricity-64.png",
+        "32": "/PNG/Industry/electricity/electricity-32.png",
+        "96": "/PNG/Industry/electricity/electricity-96.png",
+        "256": "/PNG/Industry/electricity/electricity-256.png"
+      }
+    }
+  },
+  {
+    "id": 4067,
+    "name": "electronics",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/electronics.svg",
+      "png": {
+        "64": "/PNG/Industry/electronics/electronics-64.png",
+        "512": "/PNG/Industry/electronics/electronics-512.png",
+        "24": "/PNG/Industry/electronics/electronics-24.png",
+        "36": "/PNG/Industry/electronics/electronics-36.png",
+        "128": "/PNG/Industry/electronics/electronics-128.png",
+        "256": "/PNG/Industry/electronics/electronics-256.png",
+        "32": "/PNG/Industry/electronics/electronics-32.png",
+        "96": "/PNG/Industry/electronics/electronics-96.png",
+        "48": "/PNG/Industry/electronics/electronics-48.png"
+      }
+    }
+  },
+  {
+    "id": 4080,
+    "name": "electro_devices",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/electro_devices.svg",
+      "png": {
+        "512": "/PNG/Industry/electro_devices/electro_devices-512.png",
+        "32": "/PNG/Industry/electro_devices/electro_devices-32.png",
+        "256": "/PNG/Industry/electro_devices/electro_devices-256.png",
+        "24": "/PNG/Industry/electro_devices/electro_devices-24.png",
+        "96": "/PNG/Industry/electro_devices/electro_devices-96.png",
+        "48": "/PNG/Industry/electro_devices/electro_devices-48.png",
+        "128": "/PNG/Industry/electro_devices/electro_devices-128.png",
+        "36": "/PNG/Industry/electro_devices/electro_devices-36.png",
+        "64": "/PNG/Industry/electro_devices/electro_devices-64.png"
+      }
+    }
+  },
+  {
     "id": 3182,
     "name": "empty_box",
     "platform": "Android",
@@ -4355,6 +4630,31 @@
     }
   },
   {
+    "id": 4054,
+    "name": "engineering",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/engineering.svg",
+      "png": {
+        "512": "/PNG/Industry/engineering/engineering-512.png",
+        "24": "/PNG/Industry/engineering/engineering-24.png",
+        "48": "/PNG/Industry/engineering/engineering-48.png",
+        "256": "/PNG/Industry/engineering/engineering-256.png",
+        "36": "/PNG/Industry/engineering/engineering-36.png",
+        "32": "/PNG/Industry/engineering/engineering-32.png",
+        "96": "/PNG/Industry/engineering/engineering-96.png",
+        "128": "/PNG/Industry/engineering/engineering-128.png",
+        "64": "/PNG/Industry/engineering/engineering-64.png"
+      }
+    }
+  },
+  {
     "id": 3941,
     "name": "exercise",
     "platform": "Android",
@@ -4523,6 +4823,31 @@
         "256": "/PNG/Social_Networks/facebook/facebook-256.png",
         "48": "/PNG/Social_Networks/facebook/facebook-48.png",
         "64": "/PNG/Social_Networks/facebook/facebook-64.png"
+      }
+    }
+  },
+  {
+    "id": 4048,
+    "name": "factory",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/factory.svg",
+      "png": {
+        "512": "/PNG/Industry/factory/factory-512.png",
+        "32": "/PNG/Industry/factory/factory-32.png",
+        "256": "/PNG/Industry/factory/factory-256.png",
+        "128": "/PNG/Industry/factory/factory-128.png",
+        "36": "/PNG/Industry/factory/factory-36.png",
+        "24": "/PNG/Industry/factory/factory-24.png",
+        "64": "/PNG/Industry/factory/factory-64.png",
+        "48": "/PNG/Industry/factory/factory-48.png",
+        "96": "/PNG/Industry/factory/factory-96.png"
       }
     }
   },
@@ -5110,6 +5435,31 @@
     }
   },
   {
+    "id": 4058,
+    "name": "fork_truck",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/fork_truck.svg",
+      "png": {
+        "36": "/PNG/Industry/fork_truck/fork_truck-36.png",
+        "512": "/PNG/Industry/fork_truck/fork_truck-512.png",
+        "96": "/PNG/Industry/fork_truck/fork_truck-96.png",
+        "256": "/PNG/Industry/fork_truck/fork_truck-256.png",
+        "128": "/PNG/Industry/fork_truck/fork_truck-128.png",
+        "48": "/PNG/Industry/fork_truck/fork_truck-48.png",
+        "32": "/PNG/Industry/fork_truck/fork_truck-32.png",
+        "64": "/PNG/Industry/fork_truck/fork_truck-64.png",
+        "24": "/PNG/Industry/fork_truck/fork_truck-24.png"
+      }
+    }
+  },
+  {
     "id": 3865,
     "name": "foursquare",
     "platform": "Android",
@@ -5338,6 +5688,56 @@
     }
   },
   {
+    "id": 4051,
+    "name": "gas",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/gas.svg",
+      "png": {
+        "36": "/PNG/Industry/gas/gas-36.png",
+        "64": "/PNG/Industry/gas/gas-64.png",
+        "48": "/PNG/Industry/gas/gas-48.png",
+        "32": "/PNG/Industry/gas/gas-32.png",
+        "256": "/PNG/Industry/gas/gas-256.png",
+        "24": "/PNG/Industry/gas/gas-24.png",
+        "128": "/PNG/Industry/gas/gas-128.png",
+        "96": "/PNG/Industry/gas/gas-96.png",
+        "512": "/PNG/Industry/gas/gas-512.png"
+      }
+    }
+  },
+  {
+    "id": 4075,
+    "name": "gas_mask",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/gas_mask.svg",
+      "png": {
+        "512": "/PNG/Industry/gas_mask/gas_mask-512.png",
+        "64": "/PNG/Industry/gas_mask/gas_mask-64.png",
+        "128": "/PNG/Industry/gas_mask/gas_mask-128.png",
+        "24": "/PNG/Industry/gas_mask/gas_mask-24.png",
+        "36": "/PNG/Industry/gas_mask/gas_mask-36.png",
+        "256": "/PNG/Industry/gas_mask/gas_mask-256.png",
+        "32": "/PNG/Industry/gas_mask/gas_mask-32.png",
+        "96": "/PNG/Industry/gas_mask/gas_mask-96.png",
+        "48": "/PNG/Industry/gas_mask/gas_mask-48.png"
+      }
+    }
+  },
+  {
     "id": 3914,
     "name": "genderqueer",
     "platform": "Android",
@@ -5450,6 +5850,31 @@
         "24": "/PNG/Maps/geocaching/geocaching-24.png",
         "512": "/PNG/Maps/geocaching/geocaching-512.png",
         "96": "/PNG/Maps/geocaching/geocaching-96.png"
+      }
+    }
+  },
+  {
+    "id": 4050,
+    "name": "geothermal",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/geothermal.svg",
+      "png": {
+        "48": "/PNG/Industry/geothermal/geothermal-48.png",
+        "24": "/PNG/Industry/geothermal/geothermal-24.png",
+        "512": "/PNG/Industry/geothermal/geothermal-512.png",
+        "256": "/PNG/Industry/geothermal/geothermal-256.png",
+        "36": "/PNG/Industry/geothermal/geothermal-36.png",
+        "128": "/PNG/Industry/geothermal/geothermal-128.png",
+        "32": "/PNG/Industry/geothermal/geothermal-32.png",
+        "64": "/PNG/Industry/geothermal/geothermal-64.png",
+        "96": "/PNG/Industry/geothermal/geothermal-96.png"
       }
     }
   },
@@ -5832,6 +6257,31 @@
         "96": "/PNG/Maps/gps_searching/gps_searching-96.png",
         "36": "/PNG/Maps/gps_searching/gps_searching-36.png",
         "32": "/PNG/Maps/gps_searching/gps_searching-32.png"
+      }
+    }
+  },
+  {
+    "id": 4077,
+    "name": "greentech",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/greentech.svg",
+      "png": {
+        "32": "/PNG/Industry/greentech/greentech-32.png",
+        "64": "/PNG/Industry/greentech/greentech-64.png",
+        "36": "/PNG/Industry/greentech/greentech-36.png",
+        "48": "/PNG/Industry/greentech/greentech-48.png",
+        "128": "/PNG/Industry/greentech/greentech-128.png",
+        "96": "/PNG/Industry/greentech/greentech-96.png",
+        "256": "/PNG/Industry/greentech/greentech-256.png",
+        "24": "/PNG/Industry/greentech/greentech-24.png",
+        "512": "/PNG/Industry/greentech/greentech-512.png"
       }
     }
   },
@@ -6296,6 +6746,31 @@
     }
   },
   {
+    "id": 4063,
+    "name": "hydroelectric",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/hydroelectric.svg",
+      "png": {
+        "32": "/PNG/Industry/hydroelectric/hydroelectric-32.png",
+        "48": "/PNG/Industry/hydroelectric/hydroelectric-48.png",
+        "512": "/PNG/Industry/hydroelectric/hydroelectric-512.png",
+        "96": "/PNG/Industry/hydroelectric/hydroelectric-96.png",
+        "128": "/PNG/Industry/hydroelectric/hydroelectric-128.png",
+        "64": "/PNG/Industry/hydroelectric/hydroelectric-64.png",
+        "256": "/PNG/Industry/hydroelectric/hydroelectric-256.png",
+        "24": "/PNG/Industry/hydroelectric/hydroelectric-24.png",
+        "36": "/PNG/Industry/hydroelectric/hydroelectric-36.png"
+      }
+    }
+  },
+  {
     "id": 3152,
     "name": "ice_skate",
     "platform": "Android",
@@ -6379,7 +6854,6 @@
       "gif",
       "picture",
       "JPG",
-      "tiff",
       "psd",
       "training"
     ],
@@ -6439,6 +6913,81 @@
     }
   },
   {
+    "id": 4087,
+    "name": "infrared",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/infrared.svg",
+      "png": {
+        "256": "/PNG/Industry/infrared/infrared-256.png",
+        "512": "/PNG/Industry/infrared/infrared-512.png",
+        "24": "/PNG/Industry/infrared/infrared-24.png",
+        "128": "/PNG/Industry/infrared/infrared-128.png",
+        "36": "/PNG/Industry/infrared/infrared-36.png",
+        "48": "/PNG/Industry/infrared/infrared-48.png",
+        "96": "/PNG/Industry/infrared/infrared-96.png",
+        "32": "/PNG/Industry/infrared/infrared-32.png",
+        "64": "/PNG/Industry/infrared/infrared-64.png"
+      }
+    }
+  },
+  {
+    "id": 4057,
+    "name": "infrared_beam_sending",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/infrared_beam_sending.svg",
+      "png": {
+        "96": "/PNG/Industry/infrared_beam_sending/infrared_beam_sending-96.png",
+        "32": "/PNG/Industry/infrared_beam_sending/infrared_beam_sending-32.png",
+        "128": "/PNG/Industry/infrared_beam_sending/infrared_beam_sending-128.png",
+        "36": "/PNG/Industry/infrared_beam_sending/infrared_beam_sending-36.png",
+        "256": "/PNG/Industry/infrared_beam_sending/infrared_beam_sending-256.png",
+        "64": "/PNG/Industry/infrared_beam_sending/infrared_beam_sending-64.png",
+        "48": "/PNG/Industry/infrared_beam_sending/infrared_beam_sending-48.png",
+        "24": "/PNG/Industry/infrared_beam_sending/infrared_beam_sending-24.png",
+        "512": "/PNG/Industry/infrared_beam_sending/infrared_beam_sending-512.png"
+      }
+    }
+  },
+  {
+    "id": 4076,
+    "name": "infrared_sensor",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/infrared_sensor.svg",
+      "png": {
+        "256": "/PNG/Industry/infrared_sensor/infrared_sensor-256.png",
+        "36": "/PNG/Industry/infrared_sensor/infrared_sensor-36.png",
+        "96": "/PNG/Industry/infrared_sensor/infrared_sensor-96.png",
+        "24": "/PNG/Industry/infrared_sensor/infrared_sensor-24.png",
+        "128": "/PNG/Industry/infrared_sensor/infrared_sensor-128.png",
+        "512": "/PNG/Industry/infrared_sensor/infrared_sensor-512.png",
+        "32": "/PNG/Industry/infrared_sensor/infrared_sensor-32.png",
+        "64": "/PNG/Industry/infrared_sensor/infrared_sensor-64.png",
+        "48": "/PNG/Industry/infrared_sensor/infrared_sensor-48.png"
+      }
+    }
+  },
+  {
     "id": 3868,
     "name": "instagram",
     "platform": "Android",
@@ -6470,6 +7019,31 @@
         "96": "/PNG/Social_Networks/instagram/instagram-96.png",
         "256": "/PNG/Social_Networks/instagram/instagram-256.png",
         "24": "/PNG/Social_Networks/instagram/instagram-24.png"
+      }
+    }
+  },
+  {
+    "id": 4078,
+    "name": "integrated_circuit",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/integrated_circuit.svg",
+      "png": {
+        "36": "/PNG/Industry/integrated_circuit/integrated_circuit-36.png",
+        "24": "/PNG/Industry/integrated_circuit/integrated_circuit-24.png",
+        "32": "/PNG/Industry/integrated_circuit/integrated_circuit-32.png",
+        "64": "/PNG/Industry/integrated_circuit/integrated_circuit-64.png",
+        "128": "/PNG/Industry/integrated_circuit/integrated_circuit-128.png",
+        "96": "/PNG/Industry/integrated_circuit/integrated_circuit-96.png",
+        "512": "/PNG/Industry/integrated_circuit/integrated_circuit-512.png",
+        "48": "/PNG/Industry/integrated_circuit/integrated_circuit-48.png",
+        "256": "/PNG/Industry/integrated_circuit/integrated_circuit-256.png"
       }
     }
   },
@@ -6684,6 +7258,31 @@
     }
   },
   {
+    "id": 4079,
+    "name": "ladder",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/ladder.svg",
+      "png": {
+        "48": "/PNG/Industry/ladder/ladder-48.png",
+        "512": "/PNG/Industry/ladder/ladder-512.png",
+        "64": "/PNG/Industry/ladder/ladder-64.png",
+        "32": "/PNG/Industry/ladder/ladder-32.png",
+        "24": "/PNG/Industry/ladder/ladder-24.png",
+        "96": "/PNG/Industry/ladder/ladder-96.png",
+        "36": "/PNG/Industry/ladder/ladder-36.png",
+        "256": "/PNG/Industry/ladder/ladder-256.png",
+        "128": "/PNG/Industry/ladder/ladder-128.png"
+      }
+    }
+  },
+  {
     "id": 3272,
     "name": "landscape",
     "platform": "Android",
@@ -6744,6 +7343,31 @@
     }
   },
   {
+    "id": 4089,
+    "name": "laser_beam",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/laser_beam.svg",
+      "png": {
+        "96": "/PNG/Industry/laser_beam/laser_beam-96.png",
+        "128": "/PNG/Industry/laser_beam/laser_beam-128.png",
+        "24": "/PNG/Industry/laser_beam/laser_beam-24.png",
+        "256": "/PNG/Industry/laser_beam/laser_beam-256.png",
+        "32": "/PNG/Industry/laser_beam/laser_beam-32.png",
+        "64": "/PNG/Industry/laser_beam/laser_beam-64.png",
+        "48": "/PNG/Industry/laser_beam/laser_beam-48.png",
+        "512": "/PNG/Industry/laser_beam/laser_beam-512.png",
+        "36": "/PNG/Industry/laser_beam/laser_beam-36.png"
+      }
+    }
+  },
+  {
     "id": 3788,
     "name": "layers",
     "platform": "Android",
@@ -6773,6 +7397,31 @@
         "24": "/PNG/Maps/layers/layers-24.png",
         "64": "/PNG/Maps/layers/layers-64.png",
         "48": "/PNG/Maps/layers/layers-48.png"
+      }
+    }
+  },
+  {
+    "id": 4064,
+    "name": "led_diode",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/led_diode.svg",
+      "png": {
+        "36": "/PNG/Industry/led_diode/led_diode-36.png",
+        "128": "/PNG/Industry/led_diode/led_diode-128.png",
+        "32": "/PNG/Industry/led_diode/led_diode-32.png",
+        "96": "/PNG/Industry/led_diode/led_diode-96.png",
+        "256": "/PNG/Industry/led_diode/led_diode-256.png",
+        "24": "/PNG/Industry/led_diode/led_diode-24.png",
+        "48": "/PNG/Industry/led_diode/led_diode-48.png",
+        "512": "/PNG/Industry/led_diode/led_diode-512.png",
+        "64": "/PNG/Industry/led_diode/led_diode-64.png"
       }
     }
   },
@@ -7697,6 +8346,31 @@
         "24": "/PNG/Objects/megaphone2/megaphone2-24.png",
         "32": "/PNG/Objects/megaphone2/megaphone2-32.png",
         "512": "/PNG/Objects/megaphone2/megaphone2-512.png"
+      }
+    }
+  },
+  {
+    "id": 4072,
+    "name": "memmory_slot",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/memmory_slot.svg",
+      "png": {
+        "24": "/PNG/Industry/memmory_slot/memmory_slot-24.png",
+        "32": "/PNG/Industry/memmory_slot/memmory_slot-32.png",
+        "512": "/PNG/Industry/memmory_slot/memmory_slot-512.png",
+        "256": "/PNG/Industry/memmory_slot/memmory_slot-256.png",
+        "36": "/PNG/Industry/memmory_slot/memmory_slot-36.png",
+        "48": "/PNG/Industry/memmory_slot/memmory_slot-48.png",
+        "96": "/PNG/Industry/memmory_slot/memmory_slot-96.png",
+        "128": "/PNG/Industry/memmory_slot/memmory_slot-128.png",
+        "64": "/PNG/Industry/memmory_slot/memmory_slot-64.png"
       }
     }
   },
@@ -8657,6 +9331,31 @@
     }
   },
   {
+    "id": 4085,
+    "name": "nuclear_power_plant",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/nuclear_power_plant.svg",
+      "png": {
+        "36": "/PNG/Industry/nuclear_power_plant/nuclear_power_plant-36.png",
+        "64": "/PNG/Industry/nuclear_power_plant/nuclear_power_plant-64.png",
+        "128": "/PNG/Industry/nuclear_power_plant/nuclear_power_plant-128.png",
+        "32": "/PNG/Industry/nuclear_power_plant/nuclear_power_plant-32.png",
+        "512": "/PNG/Industry/nuclear_power_plant/nuclear_power_plant-512.png",
+        "24": "/PNG/Industry/nuclear_power_plant/nuclear_power_plant-24.png",
+        "48": "/PNG/Industry/nuclear_power_plant/nuclear_power_plant-48.png",
+        "256": "/PNG/Industry/nuclear_power_plant/nuclear_power_plant-256.png",
+        "96": "/PNG/Industry/nuclear_power_plant/nuclear_power_plant-96.png"
+      }
+    }
+  },
+  {
     "id": 3256,
     "name": "old_time_camera",
     "platform": "Android",
@@ -8757,6 +9456,31 @@
         "256": "/PNG/Very_Basic/opened_folder/opened_folder-256.png",
         "48": "/PNG/Very_Basic/opened_folder/opened_folder-48.png",
         "24": "/PNG/Very_Basic/opened_folder/opened_folder-24.png"
+      }
+    }
+  },
+  {
+    "id": 4068,
+    "name": "overhead_crane",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/overhead_crane.svg",
+      "png": {
+        "36": "/PNG/Industry/overhead_crane/overhead_crane-36.png",
+        "48": "/PNG/Industry/overhead_crane/overhead_crane-48.png",
+        "128": "/PNG/Industry/overhead_crane/overhead_crane-128.png",
+        "256": "/PNG/Industry/overhead_crane/overhead_crane-256.png",
+        "32": "/PNG/Industry/overhead_crane/overhead_crane-32.png",
+        "24": "/PNG/Industry/overhead_crane/overhead_crane-24.png",
+        "512": "/PNG/Industry/overhead_crane/overhead_crane-512.png",
+        "64": "/PNG/Industry/overhead_crane/overhead_crane-64.png",
+        "96": "/PNG/Industry/overhead_crane/overhead_crane-96.png"
       }
     }
   },
@@ -9442,6 +10166,31 @@
     }
   },
   {
+    "id": 4049,
+    "name": "poison",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/poison.svg",
+      "png": {
+        "64": "/PNG/Industry/poison/poison-64.png",
+        "512": "/PNG/Industry/poison/poison-512.png",
+        "96": "/PNG/Industry/poison/poison-96.png",
+        "24": "/PNG/Industry/poison/poison-24.png",
+        "48": "/PNG/Industry/poison/poison-48.png",
+        "128": "/PNG/Industry/poison/poison-128.png",
+        "256": "/PNG/Industry/poison/poison-256.png",
+        "32": "/PNG/Industry/poison/poison-32.png",
+        "36": "/PNG/Industry/poison/poison-36.png"
+      }
+    }
+  },
+  {
     "id": 3787,
     "name": "polygon",
     "platform": "Android",
@@ -9595,6 +10344,31 @@
         "24": "/PNG/Photo_Video/portrait_mode/portrait_mode-24.png",
         "32": "/PNG/Photo_Video/portrait_mode/portrait_mode-32.png",
         "64": "/PNG/Photo_Video/portrait_mode/portrait_mode-64.png"
+      }
+    }
+  },
+  {
+    "id": 4086,
+    "name": "potentiometer",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/potentiometer.svg",
+      "png": {
+        "256": "/PNG/Industry/potentiometer/potentiometer-256.png",
+        "96": "/PNG/Industry/potentiometer/potentiometer-96.png",
+        "24": "/PNG/Industry/potentiometer/potentiometer-24.png",
+        "48": "/PNG/Industry/potentiometer/potentiometer-48.png",
+        "128": "/PNG/Industry/potentiometer/potentiometer-128.png",
+        "32": "/PNG/Industry/potentiometer/potentiometer-32.png",
+        "64": "/PNG/Industry/potentiometer/potentiometer-64.png",
+        "512": "/PNG/Industry/potentiometer/potentiometer-512.png",
+        "36": "/PNG/Industry/potentiometer/potentiometer-36.png"
       }
     }
   },
@@ -9830,6 +10604,31 @@
         "96": "/PNG/Very_Basic/print/print-96.png",
         "128": "/PNG/Very_Basic/print/print-128.png",
         "512": "/PNG/Very_Basic/print/print-512.png"
+      }
+    }
+  },
+  {
+    "id": 4062,
+    "name": "processor",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/processor.svg",
+      "png": {
+        "512": "/PNG/Industry/processor/processor-512.png",
+        "48": "/PNG/Industry/processor/processor-48.png",
+        "36": "/PNG/Industry/processor/processor-36.png",
+        "128": "/PNG/Industry/processor/processor-128.png",
+        "32": "/PNG/Industry/processor/processor-32.png",
+        "96": "/PNG/Industry/processor/processor-96.png",
+        "24": "/PNG/Industry/processor/processor-24.png",
+        "64": "/PNG/Industry/processor/processor-64.png",
+        "256": "/PNG/Industry/processor/processor-256.png"
       }
     }
   },
@@ -10153,6 +10952,31 @@
     }
   },
   {
+    "id": 4053,
+    "name": "rack",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/rack.svg",
+      "png": {
+        "48": "/PNG/Industry/rack/rack-48.png",
+        "96": "/PNG/Industry/rack/rack-96.png",
+        "24": "/PNG/Industry/rack/rack-24.png",
+        "512": "/PNG/Industry/rack/rack-512.png",
+        "64": "/PNG/Industry/rack/rack-64.png",
+        "128": "/PNG/Industry/rack/rack-128.png",
+        "256": "/PNG/Industry/rack/rack-256.png",
+        "32": "/PNG/Industry/rack/rack-32.png",
+        "36": "/PNG/Industry/rack/rack-36.png"
+      }
+    }
+  },
+  {
     "id": 3411,
     "name": "radio1",
     "platform": "Android",
@@ -10219,6 +11043,56 @@
         "64": "/PNG/Music/radio2/radio2-64.png",
         "128": "/PNG/Music/radio2/radio2-128.png",
         "512": "/PNG/Music/radio2/radio2-512.png"
+      }
+    }
+  },
+  {
+    "id": 4071,
+    "name": "radioactive",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/radioactive.svg",
+      "png": {
+        "128": "/PNG/Industry/radioactive/radioactive-128.png",
+        "48": "/PNG/Industry/radioactive/radioactive-48.png",
+        "64": "/PNG/Industry/radioactive/radioactive-64.png",
+        "24": "/PNG/Industry/radioactive/radioactive-24.png",
+        "96": "/PNG/Industry/radioactive/radioactive-96.png",
+        "256": "/PNG/Industry/radioactive/radioactive-256.png",
+        "36": "/PNG/Industry/radioactive/radioactive-36.png",
+        "512": "/PNG/Industry/radioactive/radioactive-512.png",
+        "32": "/PNG/Industry/radioactive/radioactive-32.png"
+      }
+    }
+  },
+  {
+    "id": 4055,
+    "name": "radio_tower",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/radio_tower.svg",
+      "png": {
+        "48": "/PNG/Industry/radio_tower/radio_tower-48.png",
+        "96": "/PNG/Industry/radio_tower/radio_tower-96.png",
+        "256": "/PNG/Industry/radio_tower/radio_tower-256.png",
+        "64": "/PNG/Industry/radio_tower/radio_tower-64.png",
+        "32": "/PNG/Industry/radio_tower/radio_tower-32.png",
+        "512": "/PNG/Industry/radio_tower/radio_tower-512.png",
+        "128": "/PNG/Industry/radio_tower/radio_tower-128.png",
+        "36": "/PNG/Industry/radio_tower/radio_tower-36.png",
+        "24": "/PNG/Industry/radio_tower/radio_tower-24.png"
       }
     }
   },
@@ -10330,6 +11204,31 @@
     }
   },
   {
+    "id": 4083,
+    "name": "recycling",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/recycling.svg",
+      "png": {
+        "36": "/PNG/Industry/recycling/recycling-36.png",
+        "24": "/PNG/Industry/recycling/recycling-24.png",
+        "48": "/PNG/Industry/recycling/recycling-48.png",
+        "96": "/PNG/Industry/recycling/recycling-96.png",
+        "64": "/PNG/Industry/recycling/recycling-64.png",
+        "512": "/PNG/Industry/recycling/recycling-512.png",
+        "256": "/PNG/Industry/recycling/recycling-256.png",
+        "128": "/PNG/Industry/recycling/recycling-128.png",
+        "32": "/PNG/Industry/recycling/recycling-32.png"
+      }
+    }
+  },
+  {
     "id": 3188,
     "name": "redo",
     "platform": "Android",
@@ -10387,6 +11286,31 @@
         "96": "/PNG/Sports/regular_biking/regular_biking-96.png",
         "256": "/PNG/Sports/regular_biking/regular_biking-256.png",
         "128": "/PNG/Sports/regular_biking/regular_biking-128.png"
+      }
+    }
+  },
+  {
+    "id": 4094,
+    "name": "relay",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/relay.svg",
+      "png": {
+        "128": "/PNG/Industry/relay/relay-128.png",
+        "64": "/PNG/Industry/relay/relay-64.png",
+        "36": "/PNG/Industry/relay/relay-36.png",
+        "512": "/PNG/Industry/relay/relay-512.png",
+        "48": "/PNG/Industry/relay/relay-48.png",
+        "24": "/PNG/Industry/relay/relay-24.png",
+        "96": "/PNG/Industry/relay/relay-96.png",
+        "32": "/PNG/Industry/relay/relay-32.png",
+        "256": "/PNG/Industry/relay/relay-256.png"
       }
     }
   },
@@ -10479,6 +11403,56 @@
         "32": "/PNG/Media_Controls/repeat/repeat-32.png",
         "96": "/PNG/Media_Controls/repeat/repeat-96.png",
         "36": "/PNG/Media_Controls/repeat/repeat-36.png"
+      }
+    }
+  },
+  {
+    "id": 4082,
+    "name": "research",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/research.svg",
+      "png": {
+        "128": "/PNG/Industry/research/research-128.png",
+        "96": "/PNG/Industry/research/research-96.png",
+        "512": "/PNG/Industry/research/research-512.png",
+        "48": "/PNG/Industry/research/research-48.png",
+        "64": "/PNG/Industry/research/research-64.png",
+        "32": "/PNG/Industry/research/research-32.png",
+        "24": "/PNG/Industry/research/research-24.png",
+        "36": "/PNG/Industry/research/research-36.png",
+        "256": "/PNG/Industry/research/research-256.png"
+      }
+    }
+  },
+  {
+    "id": 4074,
+    "name": "resistor",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/resistor.svg",
+      "png": {
+        "48": "/PNG/Industry/resistor/resistor-48.png",
+        "32": "/PNG/Industry/resistor/resistor-32.png",
+        "24": "/PNG/Industry/resistor/resistor-24.png",
+        "96": "/PNG/Industry/resistor/resistor-96.png",
+        "256": "/PNG/Industry/resistor/resistor-256.png",
+        "64": "/PNG/Industry/resistor/resistor-64.png",
+        "512": "/PNG/Industry/resistor/resistor-512.png",
+        "36": "/PNG/Industry/resistor/resistor-36.png",
+        "128": "/PNG/Industry/resistor/resistor-128.png"
       }
     }
   },
@@ -10576,6 +11550,81 @@
         "256": "/PNG/Media_Controls/rewind/rewind-256.png",
         "64": "/PNG/Media_Controls/rewind/rewind-64.png",
         "128": "/PNG/Media_Controls/rewind/rewind-128.png"
+      }
+    }
+  },
+  {
+    "id": 4056,
+    "name": "rfid_sensor",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/rfid_sensor.svg",
+      "png": {
+        "36": "/PNG/Industry/rfid_sensor/rfid_sensor-36.png",
+        "256": "/PNG/Industry/rfid_sensor/rfid_sensor-256.png",
+        "64": "/PNG/Industry/rfid_sensor/rfid_sensor-64.png",
+        "512": "/PNG/Industry/rfid_sensor/rfid_sensor-512.png",
+        "96": "/PNG/Industry/rfid_sensor/rfid_sensor-96.png",
+        "128": "/PNG/Industry/rfid_sensor/rfid_sensor-128.png",
+        "32": "/PNG/Industry/rfid_sensor/rfid_sensor-32.png",
+        "24": "/PNG/Industry/rfid_sensor/rfid_sensor-24.png",
+        "48": "/PNG/Industry/rfid_sensor/rfid_sensor-48.png"
+      }
+    }
+  },
+  {
+    "id": 4081,
+    "name": "rfid_signal",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/rfid_signal.svg",
+      "png": {
+        "512": "/PNG/Industry/rfid_signal/rfid_signal-512.png",
+        "256": "/PNG/Industry/rfid_signal/rfid_signal-256.png",
+        "64": "/PNG/Industry/rfid_signal/rfid_signal-64.png",
+        "32": "/PNG/Industry/rfid_signal/rfid_signal-32.png",
+        "96": "/PNG/Industry/rfid_signal/rfid_signal-96.png",
+        "128": "/PNG/Industry/rfid_signal/rfid_signal-128.png",
+        "36": "/PNG/Industry/rfid_signal/rfid_signal-36.png",
+        "24": "/PNG/Industry/rfid_signal/rfid_signal-24.png",
+        "48": "/PNG/Industry/rfid_signal/rfid_signal-48.png"
+      }
+    }
+  },
+  {
+    "id": 4069,
+    "name": "rfid_tag",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/rfid_tag.svg",
+      "png": {
+        "36": "/PNG/Industry/rfid_tag/rfid_tag-36.png",
+        "48": "/PNG/Industry/rfid_tag/rfid_tag-48.png",
+        "96": "/PNG/Industry/rfid_tag/rfid_tag-96.png",
+        "128": "/PNG/Industry/rfid_tag/rfid_tag-128.png",
+        "32": "/PNG/Industry/rfid_tag/rfid_tag-32.png",
+        "512": "/PNG/Industry/rfid_tag/rfid_tag-512.png",
+        "256": "/PNG/Industry/rfid_tag/rfid_tag-256.png",
+        "64": "/PNG/Industry/rfid_tag/rfid_tag-64.png",
+        "24": "/PNG/Industry/rfid_tag/rfid_tag-24.png"
       }
     }
   },
@@ -10753,6 +11802,31 @@
         "512": "/PNG/Maps/road/road-512.png",
         "24": "/PNG/Maps/road/road-24.png",
         "96": "/PNG/Maps/road/road-96.png"
+      }
+    }
+  },
+  {
+    "id": 4065,
+    "name": "robot",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/robot.svg",
+      "png": {
+        "36": "/PNG/Industry/robot/robot-36.png",
+        "48": "/PNG/Industry/robot/robot-48.png",
+        "512": "/PNG/Industry/robot/robot-512.png",
+        "64": "/PNG/Industry/robot/robot-64.png",
+        "32": "/PNG/Industry/robot/robot-32.png",
+        "128": "/PNG/Industry/robot/robot-128.png",
+        "24": "/PNG/Industry/robot/robot-24.png",
+        "256": "/PNG/Industry/robot/robot-256.png",
+        "96": "/PNG/Industry/robot/robot-96.png"
       }
     }
   },
@@ -11533,6 +12607,31 @@
         "64": "/PNG/Shopping/sell/sell-64.png",
         "96": "/PNG/Shopping/sell/sell-96.png",
         "48": "/PNG/Shopping/sell/sell-48.png"
+      }
+    }
+  },
+  {
+    "id": 4060,
+    "name": "sensor",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/sensor.svg",
+      "png": {
+        "32": "/PNG/Industry/sensor/sensor-32.png",
+        "24": "/PNG/Industry/sensor/sensor-24.png",
+        "128": "/PNG/Industry/sensor/sensor-128.png",
+        "36": "/PNG/Industry/sensor/sensor-36.png",
+        "512": "/PNG/Industry/sensor/sensor-512.png",
+        "256": "/PNG/Industry/sensor/sensor-256.png",
+        "64": "/PNG/Industry/sensor/sensor-64.png",
+        "48": "/PNG/Industry/sensor/sensor-48.png",
+        "96": "/PNG/Industry/sensor/sensor-96.png"
       }
     }
   },
@@ -12525,6 +13624,31 @@
     }
   },
   {
+    "id": 4096,
+    "name": "solar_panel",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/solar_panel.svg",
+      "png": {
+        "128": "/PNG/Industry/solar_panel/solar_panel-128.png",
+        "96": "/PNG/Industry/solar_panel/solar_panel-96.png",
+        "512": "/PNG/Industry/solar_panel/solar_panel-512.png",
+        "32": "/PNG/Industry/solar_panel/solar_panel-32.png",
+        "64": "/PNG/Industry/solar_panel/solar_panel-64.png",
+        "256": "/PNG/Industry/solar_panel/solar_panel-256.png",
+        "48": "/PNG/Industry/solar_panel/solar_panel-48.png",
+        "24": "/PNG/Industry/solar_panel/solar_panel-24.png",
+        "36": "/PNG/Industry/solar_panel/solar_panel-36.png"
+      }
+    }
+  },
+  {
     "id": 3770,
     "name": "south_direction",
     "platform": "Android",
@@ -12754,6 +13878,31 @@
         "36": "/PNG/Photo_Video/start/start-36.png",
         "32": "/PNG/Photo_Video/start/start-32.png",
         "96": "/PNG/Photo_Video/start/start-96.png"
+      }
+    }
+  },
+  {
+    "id": 4092,
+    "name": "stepper_motor",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/stepper_motor.svg",
+      "png": {
+        "48": "/PNG/Industry/stepper_motor/stepper_motor-48.png",
+        "128": "/PNG/Industry/stepper_motor/stepper_motor-128.png",
+        "512": "/PNG/Industry/stepper_motor/stepper_motor-512.png",
+        "96": "/PNG/Industry/stepper_motor/stepper_motor-96.png",
+        "32": "/PNG/Industry/stepper_motor/stepper_motor-32.png",
+        "36": "/PNG/Industry/stepper_motor/stepper_motor-36.png",
+        "64": "/PNG/Industry/stepper_motor/stepper_motor-64.png",
+        "24": "/PNG/Industry/stepper_motor/stepper_motor-24.png",
+        "256": "/PNG/Industry/stepper_motor/stepper_motor-256.png"
       }
     }
   },
@@ -15227,6 +16376,56 @@
     }
   },
   {
+    "id": 4097,
+    "name": "transistor",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/transistor.svg",
+      "png": {
+        "36": "/PNG/Industry/transistor/transistor-36.png",
+        "32": "/PNG/Industry/transistor/transistor-32.png",
+        "512": "/PNG/Industry/transistor/transistor-512.png",
+        "48": "/PNG/Industry/transistor/transistor-48.png",
+        "64": "/PNG/Industry/transistor/transistor-64.png",
+        "128": "/PNG/Industry/transistor/transistor-128.png",
+        "96": "/PNG/Industry/transistor/transistor-96.png",
+        "256": "/PNG/Industry/transistor/transistor-256.png",
+        "24": "/PNG/Industry/transistor/transistor-24.png"
+      }
+    }
+  },
+  {
+    "id": 4090,
+    "name": "trash",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/trash.svg",
+      "png": {
+        "36": "/PNG/Industry/trash/trash-36.png",
+        "64": "/PNG/Industry/trash/trash-64.png",
+        "32": "/PNG/Industry/trash/trash-32.png",
+        "256": "/PNG/Industry/trash/trash-256.png",
+        "24": "/PNG/Industry/trash/trash-24.png",
+        "96": "/PNG/Industry/trash/trash-96.png",
+        "512": "/PNG/Industry/trash/trash-512.png",
+        "128": "/PNG/Industry/trash/trash-128.png",
+        "48": "/PNG/Industry/trash/trash-48.png"
+      }
+    }
+  },
+  {
     "id": 3825,
     "name": "treasury_map",
     "platform": "Android",
@@ -16229,6 +17428,31 @@
     }
   },
   {
+    "id": 4070,
+    "name": "water",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/water.svg",
+      "png": {
+        "64": "/PNG/Industry/water/water-64.png",
+        "32": "/PNG/Industry/water/water-32.png",
+        "36": "/PNG/Industry/water/water-36.png",
+        "256": "/PNG/Industry/water/water-256.png",
+        "48": "/PNG/Industry/water/water-48.png",
+        "24": "/PNG/Industry/water/water-24.png",
+        "128": "/PNG/Industry/water/water-128.png",
+        "96": "/PNG/Industry/water/water-96.png",
+        "512": "/PNG/Industry/water/water-512.png"
+      }
+    }
+  },
+  {
     "id": 3808,
     "name": "waypoint_map",
     "platform": "Android",
@@ -16473,6 +17697,31 @@
         "256": "/PNG/Maps/wind_rose/wind_rose-256.png",
         "32": "/PNG/Maps/wind_rose/wind_rose-32.png",
         "512": "/PNG/Maps/wind_rose/wind_rose-512.png"
+      }
+    }
+  },
+  {
+    "id": 4095,
+    "name": "wind_turbine",
+    "platform": "Android",
+    "category": "Industry",
+    "created": 1398293517,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/wind_turbine.svg",
+      "png": {
+        "32": "/PNG/Industry/wind_turbine/wind_turbine-32.png",
+        "24": "/PNG/Industry/wind_turbine/wind_turbine-24.png",
+        "128": "/PNG/Industry/wind_turbine/wind_turbine-128.png",
+        "256": "/PNG/Industry/wind_turbine/wind_turbine-256.png",
+        "96": "/PNG/Industry/wind_turbine/wind_turbine-96.png",
+        "512": "/PNG/Industry/wind_turbine/wind_turbine-512.png",
+        "64": "/PNG/Industry/wind_turbine/wind_turbine-64.png",
+        "48": "/PNG/Industry/wind_turbine/wind_turbine-48.png",
+        "36": "/PNG/Industry/wind_turbine/wind_turbine-36.png"
       }
     }
   },

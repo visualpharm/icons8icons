@@ -23324,15 +23324,11 @@
     "category": "Gaming",
     "created": 1329728803,
     "tags": [
-      "games",
       "play",
-      "web",
-      "cards",
       "person",
-      "gamble",
-      "casino",
       "solitaire",
-      "poker"
+      "games",
+      "web"
     ],
     "copyright": false,
     "files": {
@@ -41316,6 +41312,7 @@
     "category": "Household",
     "created": 1398185501,
     "tags": [
+      "book",
       "awards"
     ],
     "copyright": false,
@@ -44254,7 +44251,9 @@
     "category": "Ecommerce",
     "created": 1390342414,
     "tags": [
-      "glass"
+      "new",
+      "glass",
+      "about"
     ],
     "copyright": false,
     "files": {
@@ -54418,6 +54417,7 @@
     "created": 1318518052,
     "tags": [
       "track",
+      "lamp",
       "direction",
       "options",
       "course",
