@@ -1195,7 +1195,8 @@
       "time",
       "switch",
       "map",
-      "castel"
+      "castel",
+      "worldclock"
     ],
     "copyright": false,
     "files": {
@@ -5862,7 +5863,8 @@
       "city",
       "station",
       "bus station",
-      "car"
+      "car",
+      "bus stop"
     ],
     "copyright": false,
     "files": {
@@ -9520,7 +9522,8 @@
       "fast",
       "ready",
       "location",
-      "history"
+      "history",
+      "stopwatch"
     ],
     "copyright": false,
     "files": {
@@ -20064,31 +20067,6 @@
         "256": "/PNG/Sports/frisbee/frisbee-256.png",
         "100": "/PNG/Sports/frisbee/frisbee-100.png",
         "25": "/PNG/Sports/frisbee/frisbee-25.png"
-      }
-    }
-  },
-  {
-    "id": 2833,
-    "name": "fully_charged_battery",
-    "platform": "iPhone/iOS 7",
-    "category": "Mobile",
-    "created": 1390342414,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Mobile/fully_charged_battery.svg",
-      "eps": "/EPS/Battery/fully_charged_battery.eps",
-      "png": {
-        "100": "/PNG/Battery/fully_charged_battery/fully_charged_battery-100.png",
-        "256": "/PNG/Battery/fully_charged_battery/fully_charged_battery-256.png",
-        "128": "/PNG/Battery/fully_charged_battery/fully_charged_battery-128.png",
-        "75": "/PNG/Battery/fully_charged_battery/fully_charged_battery-75.png",
-        "32": "/PNG/Battery/fully_charged_battery/fully_charged_battery-32.png",
-        "50": "/PNG/Battery/fully_charged_battery/fully_charged_battery-50.png",
-        "25": "/PNG/Battery/fully_charged_battery/fully_charged_battery-25.png",
-        "512": "/PNG/Battery/fully_charged_battery/fully_charged_battery-512.png"
       }
     }
   },
@@ -50508,6 +50486,7 @@
     "category": "Time And Date",
     "created": 1345660076,
     "tags": [
+      "search",
       "timer",
       "camera",
       "daily life",

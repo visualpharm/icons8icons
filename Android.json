@@ -8662,7 +8662,7 @@
     "category": "Objects",
     "created": 1397249506,
     "tags": [
-
+      "filter"
     ],
     "copyright": false,
     "files": {
@@ -10145,6 +10145,7 @@
       "point objects",
       "dot",
       "map",
+      "polygon",
       "marker",
       "driving directions"
     ],
@@ -16407,7 +16408,7 @@
     "category": "Industry",
     "created": 1398293517,
     "tags": [
-
+      "sdf"
     ],
     "copyright": false,
     "files": {
