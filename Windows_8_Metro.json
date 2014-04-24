@@ -40029,6 +40029,7 @@
       "device",
       "tablet",
       "pc",
+      "oil",
       "multiple devices"
     ],
     "copyright": false,
@@ -40431,7 +40432,8 @@
     "created": 1394812274,
     "tags": [
       "music",
-      "note"
+      "note",
+      "shopping"
     ],
     "copyright": false,
     "files": {
@@ -62232,7 +62234,8 @@
       "thumbs down",
       "dislike",
       "unlike",
-      "thumbs"
+      "thumbs",
+      "worst"
     ],
     "copyright": false,
     "files": {
@@ -62257,11 +62260,13 @@
     "category": "Hands",
     "created": 1324555271,
     "tags": [
+      "good",
       "up",
       "like",
       "thumbs up",
       "thumb",
-      "approve"
+      "approve",
+      "best"
     ],
     "copyright": false,
     "files": {

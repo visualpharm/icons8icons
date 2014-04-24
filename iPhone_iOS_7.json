@@ -585,6 +585,7 @@
       "tool",
       "search",
       "list",
+      "mobile",
       "student",
       "administrative tools",
       "finding",
@@ -16638,6 +16639,7 @@
       "white background",
       "arrow sign",
       "navigation",
+      "login",
       "pictogram",
       "net",
       "glossy",
@@ -16650,8 +16652,7 @@
       "directional",
       "rightward",
       "glassy",
-      "front",
-      "mar"
+      "fro"
     ],
     "copyright": false,
     "files": {
@@ -16926,7 +16927,8 @@
       "sheets",
       "spreadsheets",
       "calculations",
-      "formulas"
+      "formulas",
+      "legends"
     ],
     "copyright": true,
     "files": {
@@ -19160,8 +19162,8 @@
       "flood",
       "sudden",
       "orlando",
-      "florida",
-      "skyscrap"
+      "skyscraper",
+      "metro"
     ],
     "copyright": false,
     "files": {
@@ -26161,6 +26163,7 @@
       "left",
       "right",
       "down",
+      "acting",
       "game",
       "joystick",
       "move",
@@ -55948,6 +55951,7 @@
       "invisible",
       "see",
       "tomb",
+      "expand",
       "vision",
       "blood vessel"
     ],
