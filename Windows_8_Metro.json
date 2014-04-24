@@ -9593,7 +9593,6 @@
       "directory",
       "folder",
       "send",
-      "message",
       "set",
       "information",
       "content",
@@ -9612,7 +9611,7 @@
       "presentation",
       "printer",
       "save",
-      "flop"
+      "floppy disk"
     ],
     "copyright": false,
     "files": {
@@ -19894,7 +19893,8 @@
     "tags": [
       "earth",
       "weather",
-      "conditions"
+      "conditions",
+      "fog"
     ],
     "copyright": false,
     "files": {
@@ -61126,7 +61126,8 @@
       "chat",
       "expression",
       "human",
-      "people"
+      "people",
+      "hot"
     ],
     "copyright": false,
     "files": {

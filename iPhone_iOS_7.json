@@ -17082,6 +17082,7 @@
     "created": 1363367623,
     "tags": [
       "close",
+      "edit",
       "arrows",
       "arrow",
       "zoom in",
@@ -23881,6 +23882,7 @@
       "default",
       "phon",
       "telephon",
+      "wishlist",
       "home",
       "chimney",
       "home page",
@@ -30841,8 +30843,8 @@
       "diagram",
       "strategy",
       "plan",
-      "brainstorming",
-      "mind map"
+      "mind map",
+      "brainstorming"
     ],
     "copyright": false,
     "files": {
@@ -45550,11 +45552,11 @@
     "tags": [
       "video",
       "photo",
-      "camera",
       "slr",
       "slr camera",
       "micro",
-      "qr"
+      "qr",
+      "camera"
     ],
     "copyright": false,
     "files": {
@@ -46756,6 +46758,7 @@
     "tags": [
       "design",
       "health",
+      "food",
       "olympics",
       "set",
       "idea",
@@ -46800,7 +46803,7 @@
       "jogging",
       "active",
       "aerobics",
-      "compet"
+      "c"
     ],
     "copyright": false,
     "files": {
