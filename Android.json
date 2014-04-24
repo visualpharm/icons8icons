@@ -11461,7 +11461,7 @@
     "id": 3253,
     "name": "return",
     "platform": "Android",
-    "category": "Shopping",
+    "category": "Industry",
     "created": 1391770248,
     "tags": [
       "design",
@@ -11510,7 +11510,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Shopping/return.svg",
+      "svg": "/SVG/Industry/return.svg",
       "eps": "/EPS/Shopping/return.eps",
       "png": {
         "48": "/PNG/Shopping/return/return-48.png",
