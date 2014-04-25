@@ -28461,10 +28461,10 @@
       "paper",
       "education",
       "page",
-      "opened book",
       "printed media",
       "print media",
-      "literature"
+      "literature",
+      "opened book"
     ],
     "copyright": false,
     "files": {
@@ -40189,6 +40189,7 @@
       "check",
       "repeat",
       "load",
+      "shuffle",
       "redo",
       "fail",
       "resume",
