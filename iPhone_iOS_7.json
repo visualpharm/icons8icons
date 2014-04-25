@@ -8002,6 +8002,7 @@
       "program",
       "list",
       "poll",
+      "bell",
       "series",
       "menu",
       "job",
@@ -9594,6 +9595,7 @@
     "created": 1391169055,
     "tags": [
       "window",
+      "edit",
       "pin",
       "broken",
       "road",
@@ -10339,6 +10341,7 @@
     "category": "Editing",
     "created": 1363600609,
     "tags": [
+      "edit",
       "arrows",
       "arrow",
       "zoom out",
@@ -10995,6 +10998,7 @@
       "printer",
       "printing",
       "setting",
+      "profile",
       "timer",
       "video",
       "media",
@@ -14568,6 +14572,26 @@
     }
   },
   {
+    "id": 4124,
+    "name": "doughnut",
+    "platform": "iPhone/iOS 7",
+    "category": "Food",
+    "created": 1398430300,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/doughnut.svg",
+      "png": {
+        "256": "/PNG/Food/doughnut/doughnut-256.png",
+        "100": "/PNG/Food/doughnut/doughnut-100.png",
+        "128": "/PNG/Food/doughnut/doughnut-128.png",
+        "512": "/PNG/Food/doughnut/doughnut-512.png"
+      }
+    }
+  },
+  {
     "id": 164,
     "name": "down",
     "platform": "iPhone/iOS 7",
@@ -15910,6 +15934,7 @@
       "documents",
       "text",
       "page",
+      "video",
       "illustration",
       "graphic",
       "sign",
@@ -15931,8 +15956,7 @@
       "plan",
       "literature",
       "management",
-      "article",
-      "study"
+      "article"
     ],
     "copyright": false,
     "files": {
@@ -35510,6 +35534,54 @@
     }
   },
   {
+    "id": 4126,
+    "name": "pastry_bag",
+    "platform": "iPhone/iOS 7",
+    "category": "Food",
+    "created": 1398430300,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/pastry_bag.svg",
+      "png": {
+        "75": "/PNG/Food/pastry_bag/pastry_bag-75.png",
+        "256": "/PNG/Food/pastry_bag/pastry_bag-256.png",
+        "128": "/PNG/Food/pastry_bag/pastry_bag-128.png",
+        "32": "/PNG/Food/pastry_bag/pastry_bag-32.png",
+        "100": "/PNG/Food/pastry_bag/pastry_bag-100.png",
+        "50": "/PNG/Food/pastry_bag/pastry_bag-50.png",
+        "512": "/PNG/Food/pastry_bag/pastry_bag-512.png",
+        "25": "/PNG/Food/pastry_bag/pastry_bag-25.png"
+      }
+    }
+  },
+  {
+    "id": 4122,
+    "name": "pastry_spatula",
+    "platform": "iPhone/iOS 7",
+    "category": "Food",
+    "created": 1398430300,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/pastry_spatula.svg",
+      "png": {
+        "50": "/PNG/Food/pastry_spatula/pastry_spatula-50.png",
+        "128": "/PNG/Food/pastry_spatula/pastry_spatula-128.png",
+        "32": "/PNG/Food/pastry_spatula/pastry_spatula-32.png",
+        "100": "/PNG/Food/pastry_spatula/pastry_spatula-100.png",
+        "256": "/PNG/Food/pastry_spatula/pastry_spatula-256.png",
+        "25": "/PNG/Food/pastry_spatula/pastry_spatula-25.png",
+        "512": "/PNG/Food/pastry_spatula/pastry_spatula-512.png",
+        "75": "/PNG/Food/pastry_spatula/pastry_spatula-75.png"
+      }
+    }
+  },
+  {
     "id": 403,
     "name": "pause",
     "platform": "iPhone/iOS 7",
@@ -39226,8 +39298,10 @@
       "vector",
       "mark",
       "write",
+      "send",
       "message",
       "communication",
+      "sent",
       "group",
       "set",
       "collection",
@@ -53582,6 +53656,7 @@
     "tags": [
       "winner",
       "sport",
+      "concert",
       "win",
       "sport and activities",
       "belt",
@@ -54940,7 +55015,7 @@
     "category": "Users",
     "created": 1390342414,
     "tags": [
-
+      "www"
     ],
     "copyright": false,
     "files": {
@@ -58568,6 +58643,7 @@
       "work",
       "document",
       "pages",
+      "doc",
       "file types",
       "marco",
       "books",
