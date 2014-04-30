@@ -255,7 +255,6 @@
       "eps": "/EPS/Industry/advance.eps",
       "png": {
         "32": "/PNG/32/Industry/advance-32.png",
-        "128": "/PNG/128/industry (Case Conflict)/advance-128.png",
         "256": "/PNG/256/Industry/advance-256.png",
         "36": "/PNG/36/Industry/advance-36.png",
         "512": "/PNG/512/Industry/advance-512.png",
@@ -292,7 +291,7 @@
       "eps": "/EPS/Transport/airplane_landing.eps",
       "png": {
         "32": "/PNG/32/Transport/airplane_landing-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/airplane_landing-128.png",
+        "128": "/PNG/128/Transport/airplane_landing-128.png",
         "256": "/PNG/256/Transport/airplane_landing-256.png",
         "36": "/PNG/36/Transport/airplane_landing-36.png",
         "512": "/PNG/512/Transport/airplane_landing-512.png",
@@ -329,7 +328,7 @@
       "eps": "/EPS/Transport/airplane_takeoff.eps",
       "png": {
         "32": "/PNG/32/Transport/airplane_takeoff-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/airplane_takeoff-128.png",
+        "128": "/PNG/128/Transport/airplane_takeoff-128.png",
         "256": "/PNG/256/Transport/airplane_takeoff-256.png",
         "36": "/PNG/36/Transport/airplane_takeoff-36.png",
         "512": "/PNG/512/Transport/airplane_takeoff-512.png",
@@ -368,7 +367,6 @@
       "eps": "/EPS/Shopping/alarm_clock.eps",
       "png": {
         "32": "/PNG/32/Shopping/alarm_clock-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/alarm_clock-128.png",
         "256": "/PNG/256/Shopping/alarm_clock-256.png",
         "36": "/PNG/36/Shopping/alarm_clock-36.png",
         "512": "/PNG/512/Shopping/alarm_clock-512.png",
@@ -394,7 +392,7 @@
       "eps": "/EPS/Music/alto_saxophone.eps",
       "png": {
         "32": "/PNG/32/Music/alto_saxophone-32.png",
-        "128": "/PNG/128/music (Case Conflict)/alto_saxophone-128.png",
+        "128": "/PNG/128/Music/alto_saxophone-128.png",
         "256": "/PNG/256/Music/alto_saxophone-256.png",
         "36": "/PNG/36/Music/alto_saxophone-36.png",
         "512": "/PNG/512/Music/alto_saxophone-512.png",
@@ -436,7 +434,7 @@
       "eps": "/EPS/Shopping/amex_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Shopping/amex_copyrighted-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (23))/amex_copyrighted-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/amex_copyrighted-128.png",
         "256": "/PNG/256/Shopping/amex_copyrighted-256.png",
         "36": "/PNG/36/Shopping/amex_copyrighted-36.png",
         "512": "/PNG/512/Shopping/amex_copyrighted-512.png",
@@ -500,7 +498,7 @@
       "eps": "/EPS/Sports/anchor.eps",
       "png": {
         "32": "/PNG/32/Sports/anchor-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/anchor-128.png",
+        "128": "/PNG/128/Sports/anchor-128.png",
         "256": "/PNG/256/Sports/anchor-256.png",
         "36": "/PNG/36/Sports/anchor-36.png",
         "512": "/PNG/512/Sports/anchor-512.png",
@@ -526,7 +524,7 @@
       "eps": "/EPS/Music/applause.eps",
       "png": {
         "32": "/PNG/32/Music/applause-32.png",
-        "128": "/PNG/128/music (Case Conflict)/applause-128.png",
+        "128": "/PNG/128/Music/applause-128.png",
         "256": "/PNG/256/Music/applause-256.png",
         "36": "/PNG/36/Music/applause-36.png",
         "512": "/PNG/512/Music/applause-512.png",
@@ -573,7 +571,7 @@
       "eps": "/EPS/Sports/ascender.eps",
       "png": {
         "32": "/PNG/32/Sports/ascender-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/ascender-128.png",
+        "128": "/PNG/128/Sports/ascender-128.png",
         "256": "/PNG/256/Sports/ascender-256.png",
         "36": "/PNG/36/Sports/ascender-36.png",
         "512": "/PNG/512/Sports/ascender-512.png",
@@ -617,7 +615,7 @@
       "eps": "/EPS/Very_Basic/audio_file.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/audio_file-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/audio_file-128.png",
+        "128": "/PNG/128/Very_Basic/audio_file-128.png",
         "256": "/PNG/256/Very_Basic/audio_file-256.png",
         "36": "/PNG/36/Very_Basic/audio_file-36.png",
         "512": "/PNG/512/Very_Basic/audio_file-512.png",
@@ -663,7 +661,7 @@
       "eps": "/EPS/Music/audio_wave.eps",
       "png": {
         "32": "/PNG/32/Music/audio_wave-32.png",
-        "128": "/PNG/128/music (Case Conflict)/audio_wave-128.png",
+        "128": "/PNG/128/Music/audio_wave-128.png",
         "256": "/PNG/256/Music/audio_wave-256.png",
         "36": "/PNG/36/Music/audio_wave-36.png",
         "512": "/PNG/512/Music/audio_wave-512.png",
@@ -705,7 +703,7 @@
       "eps": "/EPS/Music/audio_wave2.eps",
       "png": {
         "32": "/PNG/32/Music/audio_wave2-32.png",
-        "128": "/PNG/128/music (Case Conflict)/audio_wave2-128.png",
+        "128": "/PNG/128/Music/audio_wave2-128.png",
         "256": "/PNG/256/Music/audio_wave2-256.png",
         "36": "/PNG/36/Music/audio_wave2-36.png",
         "512": "/PNG/512/Music/audio_wave2-512.png",
@@ -775,7 +773,6 @@
       "eps": "/EPS/Industry/automatic.eps",
       "png": {
         "32": "/PNG/32/Industry/automatic-32.png",
-        "128": "/PNG/128/industry (Case Conflict)/automatic-128.png",
         "256": "/PNG/256/Industry/automatic-256.png",
         "36": "/PNG/36/Industry/automatic-36.png",
         "512": "/PNG/512/Industry/automatic-512.png",
@@ -801,7 +798,6 @@
       "eps": "/EPS/Industry/automotive.eps",
       "png": {
         "32": "/PNG/32/Industry/automotive-32.png",
-        "128": "/PNG/128/industry (Case Conflict (40))/automotive-128.png",
         "256": "/PNG/256/Industry/automotive-256.png",
         "36": "/PNG/36/Industry/automotive-36.png",
         "512": "/PNG/512/Industry/automotive-512.png",
@@ -838,7 +834,6 @@
       "eps": "/EPS/Shopping/average.eps",
       "png": {
         "32": "/PNG/32/Shopping/average-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/average-128.png",
         "256": "/PNG/256/Shopping/average-256.png",
         "36": "/PNG/36/Shopping/average-36.png",
         "512": "/PNG/512/Shopping/average-512.png",
@@ -864,7 +859,7 @@
       "eps": "/EPS/Sports/back.eps",
       "png": {
         "32": "/PNG/32/Sports/back-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/back-128.png",
+        "128": "/PNG/128/Sports/back-128.png",
         "256": "/PNG/256/Sports/back-256.png",
         "36": "/PNG/36/Sports/back-36.png",
         "512": "/PNG/512/Sports/back-512.png",
@@ -890,7 +885,7 @@
       "eps": "/EPS/Music/bandmasters_mate.eps",
       "png": {
         "32": "/PNG/32/Music/bandmasters_mate-32.png",
-        "128": "/PNG/128/music (Case Conflict)/bandmasters_mate-128.png",
+        "128": "/PNG/128/Music/bandmasters_mate-128.png",
         "256": "/PNG/256/Music/bandmasters_mate-256.png",
         "36": "/PNG/36/Music/bandmasters_mate-36.png",
         "512": "/PNG/512/Music/bandmasters_mate-512.png",
@@ -927,7 +922,6 @@
       "eps": "/EPS/Shopping/banknotes.eps",
       "png": {
         "32": "/PNG/32/Shopping/banknotes-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/banknotes-128.png",
         "256": "/PNG/256/Shopping/banknotes-256.png",
         "36": "/PNG/36/Shopping/banknotes-36.png",
         "512": "/PNG/512/Shopping/banknotes-512.png",
@@ -970,7 +964,6 @@
       "eps": "/EPS/Shopping/bank_cards.eps",
       "png": {
         "32": "/PNG/32/Shopping/bank_cards-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (37))/bank_cards-128.png",
         "256": "/PNG/256/Shopping/bank_cards-256.png",
         "36": "/PNG/36/Shopping/bank_cards-36.png",
         "512": "/PNG/512/Shopping/bank_cards-512.png",
@@ -996,7 +989,7 @@
       "eps": "/EPS/Sports/barbell.eps",
       "png": {
         "32": "/PNG/32/Sports/barbell-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/barbell-128.png",
+        "128": "/PNG/128/Sports/barbell-128.png",
         "256": "/PNG/256/Sports/barbell-256.png",
         "36": "/PNG/36/Sports/barbell-36.png",
         "512": "/PNG/512/Sports/barbell-512.png",
@@ -1029,7 +1022,6 @@
       "eps": "/EPS/Shopping/barcode.eps",
       "png": {
         "32": "/PNG/32/Shopping/barcode-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (43))/barcode-128.png",
         "256": "/PNG/256/Shopping/barcode-256.png",
         "36": "/PNG/36/Shopping/barcode-36.png",
         "512": "/PNG/512/Shopping/barcode-512.png",
@@ -1081,7 +1073,7 @@
       "eps": "/EPS/Sports/base_jumping.eps",
       "png": {
         "32": "/PNG/32/Sports/base_jumping-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/base_jumping-128.png",
+        "128": "/PNG/128/Sports/base_jumping-128.png",
         "256": "/PNG/256/Sports/base_jumping-256.png",
         "36": "/PNG/36/Sports/base_jumping-36.png",
         "512": "/PNG/512/Sports/base_jumping-512.png",
@@ -1107,7 +1099,7 @@
       "eps": "/EPS/Sports/basketball.eps",
       "png": {
         "32": "/PNG/32/Sports/basketball-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/basketball-128.png",
+        "128": "/PNG/128/Sports/basketball-128.png",
         "256": "/PNG/256/Sports/basketball-256.png",
         "36": "/PNG/36/Sports/basketball-36.png",
         "512": "/PNG/512/Sports/basketball-512.png",
@@ -1140,7 +1132,7 @@
       "eps": "/EPS/Music/bass_drum.eps",
       "png": {
         "32": "/PNG/32/Music/bass_drum-32.png",
-        "128": "/PNG/128/music (Case Conflict)/bass_drum-128.png",
+        "128": "/PNG/128/Music/bass_drum-128.png",
         "256": "/PNG/256/Music/bass_drum-256.png",
         "36": "/PNG/36/Music/bass_drum-36.png",
         "512": "/PNG/512/Music/bass_drum-512.png",
@@ -1167,7 +1159,7 @@
       "eps": "/EPS/Social_Networks/bebo.eps",
       "png": {
         "32": "/PNG/32/Social_Networks/bebo-32.png",
-        "128": "/PNG/128/social_networks (Case Conflict)/bebo-128.png",
+        "128": "/PNG/128/Social_Networks/bebo-128.png",
         "256": "/PNG/256/Social_Networks/bebo-256.png",
         "36": "/PNG/36/Social_Networks/bebo-36.png",
         "512": "/PNG/512/Social_Networks/bebo-512.png",
@@ -1213,7 +1205,7 @@
       "eps": "/EPS/Sports/belayer.eps",
       "png": {
         "32": "/PNG/32/Sports/belayer-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/belayer-128.png",
+        "128": "/PNG/128/Sports/belayer-128.png",
         "256": "/PNG/256/Sports/belayer-256.png",
         "36": "/PNG/36/Sports/belayer-36.png",
         "512": "/PNG/512/Sports/belayer-512.png",
@@ -1243,7 +1235,7 @@
       "eps": "/EPS/Music/bell_lyre.eps",
       "png": {
         "32": "/PNG/32/Music/bell_lyre-32.png",
-        "128": "/PNG/128/music (Case Conflict)/bell_lyre-128.png",
+        "128": "/PNG/128/Music/bell_lyre-128.png",
         "256": "/PNG/256/Music/bell_lyre-256.png",
         "36": "/PNG/36/Music/bell_lyre-36.png",
         "512": "/PNG/512/Music/bell_lyre-512.png",
@@ -1277,7 +1269,7 @@
       "eps": "/EPS/Transport/bicycle.eps",
       "png": {
         "32": "/PNG/32/Transport/bicycle-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/bicycle-128.png",
+        "128": "/PNG/128/Transport/bicycle-128.png",
         "256": "/PNG/256/Transport/bicycle-256.png",
         "36": "/PNG/36/Transport/bicycle-36.png",
         "512": "/PNG/512/Transport/bicycle-512.png",
@@ -1303,7 +1295,6 @@
       "eps": "/EPS/Industry/biohazard.eps",
       "png": {
         "32": "/PNG/32/Industry/biohazard-32.png",
-        "128": "/PNG/128/industry (Case Conflict)/biohazard-128.png",
         "256": "/PNG/256/Industry/biohazard-256.png",
         "36": "/PNG/36/Industry/biohazard-36.png",
         "512": "/PNG/512/Industry/biohazard-512.png",
@@ -1329,7 +1320,6 @@
       "eps": "/EPS/Industry/biomass.eps",
       "png": {
         "32": "/PNG/32/Industry/biomass-32.png",
-        "128": "/PNG/128/industry (Case Conflict (31))/biomass-128.png",
         "256": "/PNG/256/Industry/biomass-256.png",
         "36": "/PNG/36/Industry/biomass-36.png",
         "512": "/PNG/512/Industry/biomass-512.png",
@@ -1355,7 +1345,6 @@
       "eps": "/EPS/Industry/biotech.eps",
       "png": {
         "32": "/PNG/32/Industry/biotech-32.png",
-        "128": "/PNG/128/industry (Case Conflict (59))/biotech-128.png",
         "256": "/PNG/256/Industry/biotech-256.png",
         "36": "/PNG/36/Industry/biotech-36.png",
         "512": "/PNG/512/Industry/biotech-512.png",
@@ -1442,7 +1431,7 @@
       "eps": "/EPS/Very_Basic/bookmark.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/bookmark-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/bookmark-128.png",
+        "128": "/PNG/128/Very_Basic/bookmark-128.png",
         "256": "/PNG/256/Very_Basic/bookmark-256.png",
         "36": "/PNG/36/Very_Basic/bookmark-36.png",
         "512": "/PNG/512/Very_Basic/bookmark-512.png",
@@ -1481,7 +1470,7 @@
       "eps": "/EPS/Music/boombox.eps",
       "png": {
         "32": "/PNG/32/Music/boombox-32.png",
-        "128": "/PNG/128/music (Case Conflict)/boombox-128.png",
+        "128": "/PNG/128/Music/boombox-128.png",
         "256": "/PNG/256/Music/boombox-256.png",
         "36": "/PNG/36/Music/boombox-36.png",
         "512": "/PNG/512/Music/boombox-512.png",
@@ -1583,7 +1572,6 @@
       "eps": "/EPS/Shopping/box2.eps",
       "png": {
         "32": "/PNG/32/Shopping/box2-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/box2-128.png",
         "256": "/PNG/256/Shopping/box2-256.png",
         "36": "/PNG/36/Shopping/box2-36.png",
         "512": "/PNG/512/Shopping/box2-512.png",
@@ -1635,7 +1623,7 @@
       "eps": "/EPS/Shopping/breifcase.eps",
       "png": {
         "32": "/PNG/32/Shopping/breifcase-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (35))/breifcase-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/breifcase-128.png",
         "256": "/PNG/256/Shopping/breifcase-256.png",
         "36": "/PNG/36/Shopping/breifcase-36.png",
         "512": "/PNG/512/Shopping/breifcase-512.png",
@@ -1693,7 +1681,7 @@
       "eps": "/EPS/Music/bugle.eps",
       "png": {
         "32": "/PNG/32/Music/bugle-32.png",
-        "128": "/PNG/128/music (Case Conflict)/bugle-128.png",
+        "128": "/PNG/128/Music/bugle-128.png",
         "256": "/PNG/256/Music/bugle-256.png",
         "36": "/PNG/36/Music/bugle-36.png",
         "512": "/PNG/512/Music/bugle-512.png",
@@ -1719,7 +1707,7 @@
       "eps": "/EPS/Objects/burn_cd.eps",
       "png": {
         "32": "/PNG/32/Objects/burn_cd-32.png",
-        "128": "/PNG/128/objects/burn_cd-128.png",
+        "128": "/PNG/128/Objects/burn_cd-128.png",
         "256": "/PNG/256/Objects/burn_cd-256.png",
         "36": "/PNG/36/Objects/burn_cd-36.png",
         "512": "/PNG/512/Objects/burn_cd-512.png",
@@ -1751,7 +1739,7 @@
       "eps": "/EPS/Transport/bus.eps",
       "png": {
         "32": "/PNG/32/Transport/bus-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/bus-128.png",
+        "128": "/PNG/128/Transport/bus-128.png",
         "256": "/PNG/256/Transport/bus-256.png",
         "36": "/PNG/36/Transport/bus-36.png",
         "512": "/PNG/512/Transport/bus-512.png",
@@ -1789,7 +1777,7 @@
       "eps": "/EPS/Shopping/buy.eps",
       "png": {
         "32": "/PNG/32/Shopping/buy-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (32))/buy-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/buy-128.png",
         "256": "/PNG/256/Shopping/buy-256.png",
         "36": "/PNG/36/Shopping/buy-36.png",
         "512": "/PNG/512/Shopping/buy-512.png",
@@ -1826,7 +1814,7 @@
       "eps": "/EPS/Very_Basic/calculator.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/calculator-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/calculator-128.png",
+        "128": "/PNG/128/Very_Basic/calculator-128.png",
         "256": "/PNG/256/Very_Basic/calculator-256.png",
         "36": "/PNG/36/Very_Basic/calculator-36.png",
         "512": "/PNG/512/Very_Basic/calculator-512.png",
@@ -1873,7 +1861,7 @@
       "eps": "/EPS/Very_Basic/calendar.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/calendar-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/calendar-128.png",
+        "128": "/PNG/128/Very_Basic/calendar-128.png",
         "256": "/PNG/256/Very_Basic/calendar-256.png",
         "36": "/PNG/36/Very_Basic/calendar-36.png",
         "512": "/PNG/512/Very_Basic/calendar-512.png",
@@ -2090,7 +2078,7 @@
       "eps": "/EPS/Sports/canopy.eps",
       "png": {
         "32": "/PNG/32/Sports/canopy-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/canopy-128.png",
+        "128": "/PNG/128/Sports/canopy-128.png",
         "256": "/PNG/256/Sports/canopy-256.png",
         "36": "/PNG/36/Sports/canopy-36.png",
         "512": "/PNG/512/Sports/canopy-512.png",
@@ -2116,7 +2104,7 @@
       "eps": "/EPS/Industry/capacitor.eps",
       "png": {
         "32": "/PNG/32/Industry/capacitor-32.png",
-        "128": "/PNG/128/industry (Case Conflict (16))/capacitor-128.png",
+        "128": "/PNG/128/Industry/capacitor-128.png",
         "256": "/PNG/256/Industry/capacitor-256.png",
         "36": "/PNG/36/Industry/capacitor-36.png",
         "512": "/PNG/512/Industry/capacitor-512.png",
@@ -2150,7 +2138,7 @@
       "eps": "/EPS/Transport/car.eps",
       "png": {
         "32": "/PNG/32/Transport/car-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/car-128.png",
+        "128": "/PNG/128/Transport/car-128.png",
         "256": "/PNG/256/Transport/car-256.png",
         "36": "/PNG/36/Transport/car-36.png",
         "512": "/PNG/512/Transport/car-512.png",
@@ -2224,7 +2212,7 @@
       "eps": "/EPS/Sports/carabiner.eps",
       "png": {
         "32": "/PNG/32/Sports/carabiner-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/carabiner-128.png",
+        "128": "/PNG/128/Sports/carabiner-128.png",
         "256": "/PNG/256/Sports/carabiner-256.png",
         "36": "/PNG/36/Sports/carabiner-36.png",
         "512": "/PNG/512/Sports/carabiner-512.png",
@@ -2259,7 +2247,6 @@
       "eps": "/EPS/Shopping/card_inserting.eps",
       "png": {
         "32": "/PNG/32/Shopping/card_inserting-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/card_inserting-128.png",
         "256": "/PNG/256/Shopping/card_inserting-256.png",
         "36": "/PNG/36/Shopping/card_inserting-36.png",
         "512": "/PNG/512/Shopping/card_inserting-512.png",
@@ -2302,7 +2289,6 @@
       "eps": "/EPS/Shopping/card_in_use.eps",
       "png": {
         "32": "/PNG/32/Shopping/card_in_use-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/card_in_use-128.png",
         "256": "/PNG/256/Shopping/card_in_use-256.png",
         "36": "/PNG/36/Shopping/card_in_use-36.png",
         "512": "/PNG/512/Shopping/card_in_use-512.png",
@@ -2447,7 +2433,7 @@
       "eps": "/EPS/Maps/center_direction.eps",
       "png": {
         "32": "/PNG/32/Maps/center_direction-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/center_direction-128.png",
+        "128": "/PNG/128/Maps/center_direction-128.png",
         "256": "/PNG/256/Maps/center_direction-256.png",
         "36": "/PNG/36/Maps/center_direction-36.png",
         "512": "/PNG/512/Maps/center_direction-512.png",
@@ -2519,7 +2505,7 @@
       "eps": "/EPS/Sports/chalk_bag.eps",
       "png": {
         "32": "/PNG/32/Sports/chalk_bag-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/chalk_bag-128.png",
+        "128": "/PNG/128/Sports/chalk_bag-128.png",
         "256": "/PNG/256/Sports/chalk_bag-256.png",
         "36": "/PNG/36/Sports/chalk_bag-36.png",
         "512": "/PNG/512/Sports/chalk_bag-512.png",
@@ -2545,7 +2531,7 @@
       "eps": "/EPS/Sports/championship_belt.eps",
       "png": {
         "32": "/PNG/32/Sports/championship_belt-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/championship_belt-128.png",
+        "128": "/PNG/128/Sports/championship_belt-128.png",
         "256": "/PNG/256/Sports/championship_belt-256.png",
         "36": "/PNG/36/Sports/championship_belt-36.png",
         "512": "/PNG/512/Sports/championship_belt-512.png",
@@ -2582,7 +2568,6 @@
       "eps": "/EPS/Shopping/cheap.eps",
       "png": {
         "32": "/PNG/32/Shopping/cheap-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (38))/cheap-128.png",
         "256": "/PNG/256/Shopping/cheap-256.png",
         "36": "/PNG/36/Shopping/cheap-36.png",
         "512": "/PNG/512/Shopping/cheap-512.png",
@@ -2676,7 +2661,7 @@
       "eps": "/EPS/Very_Basic/checkmark.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/checkmark-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/checkmark-128.png",
+        "128": "/PNG/128/Very_Basic/checkmark-128.png",
         "256": "/PNG/256/Very_Basic/checkmark-256.png",
         "36": "/PNG/36/Very_Basic/checkmark-36.png",
         "512": "/PNG/512/Very_Basic/checkmark-512.png",
@@ -2712,7 +2697,6 @@
       "eps": "/EPS/Shopping/checkout.eps",
       "png": {
         "32": "/PNG/32/Shopping/checkout-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (21))/checkout-128.png",
         "256": "/PNG/256/Shopping/checkout-256.png",
         "36": "/PNG/36/Shopping/checkout-36.png",
         "512": "/PNG/512/Shopping/checkout-512.png",
@@ -2751,7 +2735,6 @@
       "eps": "/EPS/Shopping/check_book.eps",
       "png": {
         "32": "/PNG/32/Shopping/check_book-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/check_book-128.png",
         "256": "/PNG/256/Shopping/check_book-256.png",
         "36": "/PNG/36/Shopping/check_book-36.png",
         "512": "/PNG/512/Shopping/check_book-512.png",
@@ -2777,7 +2760,7 @@
       "eps": "/EPS/Sports/chest.eps",
       "png": {
         "32": "/PNG/32/Sports/chest-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/chest-128.png",
+        "128": "/PNG/128/Sports/chest-128.png",
         "256": "/PNG/256/Sports/chest-256.png",
         "36": "/PNG/36/Sports/chest-36.png",
         "512": "/PNG/512/Sports/chest-512.png",
@@ -2932,7 +2915,6 @@
       "eps": "/EPS/Industry/circuit.eps",
       "png": {
         "32": "/PNG/32/Industry/circuit-32.png",
-        "128": "/PNG/128/industry (Case Conflict (22))/circuit-128.png",
         "256": "/PNG/256/Industry/circuit-256.png",
         "36": "/PNG/36/Industry/circuit-36.png",
         "512": "/PNG/512/Industry/circuit-512.png",
@@ -3021,7 +3003,7 @@
       "eps": "/EPS/Music/clarinet.eps",
       "png": {
         "32": "/PNG/32/Music/clarinet-32.png",
-        "128": "/PNG/128/music (Case Conflict)/clarinet-128.png",
+        "128": "/PNG/128/Music/clarinet-128.png",
         "256": "/PNG/256/Music/clarinet-256.png",
         "36": "/PNG/36/Music/clarinet-36.png",
         "512": "/PNG/512/Music/clarinet-512.png",
@@ -3047,7 +3029,7 @@
       "eps": "/EPS/Sports/climbing.eps",
       "png": {
         "32": "/PNG/32/Sports/climbing-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/climbing-128.png",
+        "128": "/PNG/128/Sports/climbing-128.png",
         "256": "/PNG/256/Sports/climbing-256.png",
         "36": "/PNG/36/Sports/climbing-36.png",
         "512": "/PNG/512/Sports/climbing-512.png",
@@ -3112,7 +3094,7 @@
       "eps": "/EPS/Sports/climbing_helmet.eps",
       "png": {
         "32": "/PNG/32/Sports/climbing_helmet-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/climbing_helmet-128.png",
+        "128": "/PNG/128/Sports/climbing_helmet-128.png",
         "256": "/PNG/256/Sports/climbing_helmet-256.png",
         "36": "/PNG/36/Sports/climbing_helmet-36.png",
         "512": "/PNG/512/Sports/climbing_helmet-512.png",
@@ -3173,7 +3155,7 @@
       "eps": "/EPS/Sports/climbing_shoes.eps",
       "png": {
         "32": "/PNG/32/Sports/climbing_shoes-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/climbing_shoes-128.png",
+        "128": "/PNG/128/Sports/climbing_shoes-128.png",
         "256": "/PNG/256/Sports/climbing_shoes-256.png",
         "36": "/PNG/36/Sports/climbing_shoes-36.png",
         "512": "/PNG/512/Sports/climbing_shoes-512.png",
@@ -3217,7 +3199,7 @@
       "eps": "/EPS/Very_Basic/clock.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/clock-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/clock-128.png",
+        "128": "/PNG/128/Very_Basic/clock-128.png",
         "256": "/PNG/256/Very_Basic/clock-256.png",
         "36": "/PNG/36/Very_Basic/clock-36.png",
         "512": "/PNG/512/Very_Basic/clock-512.png",
@@ -3372,7 +3354,6 @@
       "eps": "/EPS/Shopping/coins.eps",
       "png": {
         "32": "/PNG/32/Shopping/coins-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/coins-128.png",
         "256": "/PNG/256/Shopping/coins-256.png",
         "36": "/PNG/36/Shopping/coins-36.png",
         "512": "/PNG/512/Shopping/coins-512.png",
@@ -3472,7 +3453,7 @@
       "eps": "/EPS/Maps/compass.eps",
       "png": {
         "32": "/PNG/32/Maps/compass-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/compass-128.png",
+        "128": "/PNG/128/Maps/compass-128.png",
         "256": "/PNG/256/Maps/compass-256.png",
         "36": "/PNG/36/Maps/compass-36.png",
         "512": "/PNG/512/Maps/compass-512.png",
@@ -3607,7 +3588,7 @@
       "eps": "/EPS/Very_Basic/contacts.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/contacts-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/contacts-128.png",
+        "128": "/PNG/128/Very_Basic/contacts-128.png",
         "256": "/PNG/256/Very_Basic/contacts-256.png",
         "36": "/PNG/36/Very_Basic/contacts-36.png",
         "512": "/PNG/512/Very_Basic/contacts-512.png",
@@ -3665,7 +3646,7 @@
       "eps": "/EPS/Transport/convertible.eps",
       "png": {
         "32": "/PNG/32/Transport/convertible-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/convertible-128.png",
+        "128": "/PNG/128/Transport/convertible-128.png",
         "256": "/PNG/256/Transport/convertible-256.png",
         "36": "/PNG/36/Transport/convertible-36.png",
         "512": "/PNG/512/Transport/convertible-512.png",
@@ -3701,7 +3682,7 @@
       "eps": "/EPS/Music/cornet.eps",
       "png": {
         "32": "/PNG/32/Music/cornet-32.png",
-        "128": "/PNG/128/music (Case Conflict)/cornet-128.png",
+        "128": "/PNG/128/Music/cornet-128.png",
         "256": "/PNG/256/Music/cornet-256.png",
         "36": "/PNG/36/Music/cornet-36.png",
         "512": "/PNG/512/Music/cornet-512.png",
@@ -3779,7 +3760,7 @@
       "eps": "/EPS/Messaging/crown.eps",
       "png": {
         "32": "/PNG/32/Messaging/crown-32.png",
-        "128": "/PNG/128/messaging (Case Conflict)/crown-128.png",
+        "128": "/PNG/128/Messaging/crown-128.png",
         "256": "/PNG/256/Messaging/crown-256.png",
         "36": "/PNG/36/Messaging/crown-36.png",
         "512": "/PNG/512/Messaging/crown-512.png",
@@ -3805,7 +3786,7 @@
       "eps": "/EPS/Industry/crystal_oscillator.eps",
       "png": {
         "32": "/PNG/32/Industry/crystal_oscillator-32.png",
-        "128": "/PNG/128/industry (Case Conflict (55))/crystal_oscillator-128.png",
+        "128": "/PNG/128/Industry/crystal_oscillator-128.png",
         "256": "/PNG/256/Industry/crystal_oscillator-256.png",
         "36": "/PNG/36/Industry/crystal_oscillator-36.png",
         "512": "/PNG/512/Industry/crystal_oscillator-512.png",
@@ -3843,7 +3824,7 @@
       "eps": "/EPS/Very_Basic/cursor.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/cursor-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/cursor-128.png",
+        "128": "/PNG/128/Very_Basic/cursor-128.png",
         "256": "/PNG/256/Very_Basic/cursor-256.png",
         "36": "/PNG/36/Very_Basic/cursor-36.png",
         "512": "/PNG/512/Very_Basic/cursor-512.png",
@@ -3874,7 +3855,7 @@
       "eps": "/EPS/Music/cymbals.eps",
       "png": {
         "32": "/PNG/32/Music/cymbals-32.png",
-        "128": "/PNG/128/music (Case Conflict)/cymbals-128.png",
+        "128": "/PNG/128/Music/cymbals-128.png",
         "256": "/PNG/256/Music/cymbals-256.png",
         "36": "/PNG/36/Music/cymbals-36.png",
         "512": "/PNG/512/Music/cymbals-512.png",
@@ -3940,7 +3921,7 @@
       "eps": "/EPS/Maps/define_location.eps",
       "png": {
         "32": "/PNG/32/Maps/define_location-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/define_location-128.png",
+        "128": "/PNG/128/Maps/define_location-128.png",
         "256": "/PNG/256/Maps/define_location-256.png",
         "36": "/PNG/36/Maps/define_location-36.png",
         "512": "/PNG/512/Maps/define_location-512.png",
@@ -4003,7 +3984,7 @@
       "eps": "/EPS/Very_Basic/delete.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/delete-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/delete-128.png",
+        "128": "/PNG/128/Very_Basic/delete-128.png",
         "256": "/PNG/256/Very_Basic/delete-256.png",
         "36": "/PNG/36/Very_Basic/delete-36.png",
         "512": "/PNG/512/Very_Basic/delete-512.png",
@@ -4033,7 +4014,6 @@
       "eps": "/EPS/Shopping/delivery.eps",
       "png": {
         "32": "/PNG/32/Shopping/delivery-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (15))/delivery-128.png",
         "256": "/PNG/256/Shopping/delivery-256.png",
         "36": "/PNG/36/Shopping/delivery-36.png",
         "512": "/PNG/512/Shopping/delivery-512.png",
@@ -4078,7 +4058,7 @@
       "eps": "/EPS/Industry/deployment.eps",
       "png": {
         "32": "/PNG/32/Industry/deployment-32.png",
-        "128": "/PNG/128/industry (Case Conflict (25))/deployment-128.png",
+        "128": "/PNG/128/Industry/deployment-128.png",
         "256": "/PNG/256/Industry/deployment-256.png",
         "36": "/PNG/36/Industry/deployment-36.png",
         "512": "/PNG/512/Industry/deployment-512.png",
@@ -4112,7 +4092,6 @@
       "eps": "/EPS/Shopping/diploma1.eps",
       "png": {
         "32": "/PNG/32/Shopping/diploma1-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/diploma1-128.png",
         "256": "/PNG/256/Shopping/diploma1-256.png",
         "36": "/PNG/36/Shopping/diploma1-36.png",
         "512": "/PNG/512/Shopping/diploma1-512.png",
@@ -4149,7 +4128,6 @@
       "eps": "/EPS/Shopping/diploma2.eps",
       "png": {
         "32": "/PNG/32/Shopping/diploma2-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (5))/diploma2-128.png",
         "256": "/PNG/256/Shopping/diploma2-256.png",
         "36": "/PNG/36/Shopping/diploma2-36.png",
         "512": "/PNG/512/Shopping/diploma2-512.png",
@@ -4200,7 +4178,6 @@
       "eps": "/EPS/Industry/display.eps",
       "png": {
         "32": "/PNG/32/Industry/display-32.png",
-        "128": "/PNG/128/industry (Case Conflict (5))/display-128.png",
         "256": "/PNG/256/Industry/display-256.png",
         "36": "/PNG/36/Industry/display-36.png",
         "512": "/PNG/512/Industry/display-512.png",
@@ -4250,7 +4227,7 @@
       "eps": "/EPS/Music/dj.eps",
       "png": {
         "32": "/PNG/32/Music/dj-32.png",
-        "128": "/PNG/128/music (Case Conflict)/dj-128.png",
+        "128": "/PNG/128/Music/dj-128.png",
         "256": "/PNG/256/Music/dj-256.png",
         "36": "/PNG/36/Music/dj-36.png",
         "512": "/PNG/512/Music/dj-512.png",
@@ -4287,7 +4264,7 @@
       "eps": "/EPS/Very_Basic/document.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/document-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/document-128.png",
+        "128": "/PNG/128/Very_Basic/document-128.png",
         "256": "/PNG/256/Very_Basic/document-256.png",
         "36": "/PNG/36/Very_Basic/document-36.png",
         "512": "/PNG/512/Very_Basic/document-512.png",
@@ -4647,7 +4624,7 @@
       "eps": "/EPS/Very_Basic/download.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/download-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/download-128.png",
+        "128": "/PNG/128/Very_Basic/download-128.png",
         "256": "/PNG/256/Very_Basic/download-256.png",
         "36": "/PNG/36/Very_Basic/download-36.png",
         "512": "/PNG/512/Very_Basic/download-512.png",
@@ -4758,7 +4735,7 @@
       "eps": "/EPS/Sports/drop_zone.eps",
       "png": {
         "32": "/PNG/32/Sports/drop_zone-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/drop_zone-128.png",
+        "128": "/PNG/128/Sports/drop_zone-128.png",
         "256": "/PNG/256/Sports/drop_zone-256.png",
         "36": "/PNG/36/Sports/drop_zone-36.png",
         "512": "/PNG/512/Sports/drop_zone-512.png",
@@ -4810,7 +4787,7 @@
       "eps": "/EPS/Sports/dumbbell.eps",
       "png": {
         "32": "/PNG/32/Sports/dumbbell-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/dumbbell-128.png",
+        "128": "/PNG/128/Sports/dumbbell-128.png",
         "256": "/PNG/256/Sports/dumbbell-256.png",
         "36": "/PNG/36/Sports/dumbbell-36.png",
         "512": "/PNG/512/Sports/dumbbell-512.png",
@@ -4881,7 +4858,7 @@
       "eps": "/EPS/Maps/east_direction.eps",
       "png": {
         "32": "/PNG/32/Maps/east_direction-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/east_direction-128.png",
+        "128": "/PNG/128/Maps/east_direction-128.png",
         "256": "/PNG/256/Maps/east_direction-256.png",
         "36": "/PNG/36/Maps/east_direction-36.png",
         "512": "/PNG/512/Maps/east_direction-512.png",
@@ -4950,7 +4927,7 @@
       "eps": "/EPS/Media_Controls/eject.eps",
       "png": {
         "32": "/PNG/32/Media_Controls/eject-32.png",
-        "128": "/PNG/128/media_controls (Case Conflict)/eject-128.png",
+        "128": "/PNG/128/Media_Controls/eject-128.png",
         "256": "/PNG/256/Media_Controls/eject-256.png",
         "36": "/PNG/36/Media_Controls/eject-36.png",
         "512": "/PNG/512/Media_Controls/eject-512.png",
@@ -4976,7 +4953,6 @@
       "eps": "/EPS/Industry/electrical_sensor.eps",
       "png": {
         "32": "/PNG/32/Industry/electrical_sensor-32.png",
-        "128": "/PNG/128/industry (Case Conflict (33))/electrical_sensor-128.png",
         "256": "/PNG/256/Industry/electrical_sensor-256.png",
         "36": "/PNG/36/Industry/electrical_sensor-36.png",
         "512": "/PNG/512/Industry/electrical_sensor-512.png",
@@ -5002,7 +4978,6 @@
       "eps": "/EPS/Industry/electrical_threshold.eps",
       "png": {
         "32": "/PNG/32/Industry/electrical_threshold-32.png",
-        "128": "/PNG/128/industry (Case Conflict (8))/electrical_threshold-128.png",
         "256": "/PNG/256/Industry/electrical_threshold-256.png",
         "36": "/PNG/36/Industry/electrical_threshold-36.png",
         "512": "/PNG/512/Industry/electrical_threshold-512.png",
@@ -5028,7 +5003,7 @@
       "eps": "/EPS/Industry/electricity.eps",
       "png": {
         "32": "/PNG/32/Industry/electricity-32.png",
-        "128": "/PNG/128/industry (Case Conflict (57))/electricity-128.png",
+        "128": "/PNG/128/Industry/electricity-128.png",
         "256": "/PNG/256/Industry/electricity-256.png",
         "36": "/PNG/36/Industry/electricity-36.png",
         "512": "/PNG/512/Industry/electricity-512.png",
@@ -5054,7 +5029,7 @@
       "eps": "/EPS/Industry/electronics.eps",
       "png": {
         "32": "/PNG/32/Industry/electronics-32.png",
-        "128": "/PNG/128/industry (Case Conflict)/electronics-128.png",
+        "128": "/PNG/128/Industry/electronics-128.png",
         "256": "/PNG/256/Industry/electronics-256.png",
         "36": "/PNG/36/Industry/electronics-36.png",
         "512": "/PNG/512/Industry/electronics-512.png",
@@ -5080,7 +5055,7 @@
       "eps": "/EPS/Industry/electro_devices.eps",
       "png": {
         "32": "/PNG/32/Industry/electro_devices-32.png",
-        "128": "/PNG/128/industry (Case Conflict (46))/electro_devices-128.png",
+        "128": "/PNG/128/Industry/electro_devices-128.png",
         "256": "/PNG/256/Industry/electro_devices-256.png",
         "36": "/PNG/36/Industry/electro_devices-36.png",
         "512": "/PNG/512/Industry/electro_devices-512.png",
@@ -5120,7 +5095,6 @@
       "eps": "/EPS/Shopping/empty_box.eps",
       "png": {
         "32": "/PNG/32/Shopping/empty_box-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/empty_box-128.png",
         "256": "/PNG/256/Shopping/empty_box-256.png",
         "36": "/PNG/36/Shopping/empty_box-36.png",
         "512": "/PNG/512/Shopping/empty_box-512.png",
@@ -5146,7 +5120,7 @@
       "eps": "/EPS/Objects/empty_filter.eps",
       "png": {
         "32": "/PNG/32/Objects/empty_filter-32.png",
-        "128": "/PNG/128/objects (Case Conflict (12))/empty_filter-128.png",
+        "128": "/PNG/128/objects (Case Conflict)/empty_filter-128.png",
         "256": "/PNG/256/Objects/empty_filter-256.png",
         "36": "/PNG/36/Objects/empty_filter-36.png",
         "512": "/PNG/512/Objects/empty_filter-512.png",
@@ -5173,7 +5147,7 @@
       "eps": "/EPS/Maps/empty_flag.eps",
       "png": {
         "32": "/PNG/32/Maps/empty_flag-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/empty_flag-128.png",
+        "128": "/PNG/128/Maps/empty_flag-128.png",
         "256": "/PNG/256/Maps/empty_flag-256.png",
         "36": "/PNG/36/Maps/empty_flag-36.png",
         "512": "/PNG/512/Maps/empty_flag-512.png",
@@ -5200,7 +5174,7 @@
       "eps": "/EPS/Media_Controls/end.eps",
       "png": {
         "32": "/PNG/32/Media_Controls/end-32.png",
-        "128": "/PNG/128/media_controls (Case Conflict)/end-128.png",
+        "128": "/PNG/128/Media_Controls/end-128.png",
         "256": "/PNG/256/Media_Controls/end-256.png",
         "36": "/PNG/36/Media_Controls/end-36.png",
         "512": "/PNG/512/Media_Controls/end-512.png",
@@ -5273,7 +5247,7 @@
       "eps": "/EPS/Sports/energy_absorber.eps",
       "png": {
         "32": "/PNG/32/Sports/energy_absorber-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/energy_absorber-128.png",
+        "128": "/PNG/128/Sports/energy_absorber-128.png",
         "256": "/PNG/256/Sports/energy_absorber-256.png",
         "36": "/PNG/36/Sports/energy_absorber-36.png",
         "512": "/PNG/512/Sports/energy_absorber-512.png",
@@ -5299,7 +5273,6 @@
       "eps": "/EPS/Industry/engineering.eps",
       "png": {
         "32": "/PNG/32/Industry/engineering-32.png",
-        "128": "/PNG/128/industry (Case Conflict (10))/engineering-128.png",
         "256": "/PNG/256/Industry/engineering-256.png",
         "36": "/PNG/36/Industry/engineering-36.png",
         "512": "/PNG/512/Industry/engineering-512.png",
@@ -5339,7 +5312,7 @@
       "eps": "/EPS/Sports/exercise.eps",
       "png": {
         "32": "/PNG/32/Sports/exercise-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/exercise-128.png",
+        "128": "/PNG/128/Sports/exercise-128.png",
         "256": "/PNG/256/Sports/exercise-256.png",
         "36": "/PNG/36/Sports/exercise-36.png",
         "512": "/PNG/512/Sports/exercise-512.png",
@@ -5408,7 +5381,7 @@
       "eps": "/EPS/Shopping/expensive.eps",
       "png": {
         "32": "/PNG/32/Shopping/expensive-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (16))/expensive-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/expensive-128.png",
         "256": "/PNG/256/Shopping/expensive-256.png",
         "36": "/PNG/36/Shopping/expensive-36.png",
         "512": "/PNG/512/Shopping/expensive-512.png",
@@ -5472,7 +5445,7 @@
       "eps": "/EPS/Social_Networks/facebook.eps",
       "png": {
         "32": "/PNG/32/Social_Networks/facebook-32.png",
-        "128": "/PNG/128/social_networks (Case Conflict)/facebook-128.png",
+        "128": "/PNG/128/Social_Networks/facebook-128.png",
         "256": "/PNG/256/Social_Networks/facebook-256.png",
         "36": "/PNG/36/Social_Networks/facebook-36.png",
         "512": "/PNG/512/Social_Networks/facebook-512.png",
@@ -5498,7 +5471,6 @@
       "eps": "/EPS/Industry/factory.eps",
       "png": {
         "32": "/PNG/32/Industry/factory-32.png",
-        "128": "/PNG/128/industry (Case Conflict (2))/factory-128.png",
         "256": "/PNG/256/Industry/factory-256.png",
         "36": "/PNG/36/Industry/factory-36.png",
         "512": "/PNG/512/Industry/factory-512.png",
@@ -5568,7 +5540,6 @@
       "eps": "/EPS/Industry/factory_breakdown.eps",
       "png": {
         "32": "/PNG/32/Industry/factory_breakdown-32.png",
-        "128": "/PNG/128/industry (Case Conflict)/factory_breakdown-128.png",
         "256": "/PNG/256/Industry/factory_breakdown-256.png",
         "36": "/PNG/36/Industry/factory_breakdown-36.png",
         "512": "/PNG/512/Industry/factory_breakdown-512.png",
@@ -5597,7 +5568,7 @@
       "eps": "/EPS/Media_Controls/fast_forward.eps",
       "png": {
         "32": "/PNG/32/Media_Controls/fast_forward-32.png",
-        "128": "/PNG/128/media_controls (Case Conflict)/fast_forward-128.png",
+        "128": "/PNG/128/Media_Controls/fast_forward-128.png",
         "256": "/PNG/256/Media_Controls/fast_forward-256.png",
         "36": "/PNG/36/Media_Controls/fast_forward-36.png",
         "512": "/PNG/512/Media_Controls/fast_forward-512.png",
@@ -5666,7 +5637,6 @@
       "eps": "/EPS/Industry/feed_in.eps",
       "png": {
         "32": "/PNG/32/Industry/feed_in-32.png",
-        "128": "/PNG/128/industry (Case Conflict (23))/feed_in-128.png",
         "256": "/PNG/256/Industry/feed_in-256.png",
         "36": "/PNG/36/Industry/feed_in-36.png",
         "512": "/PNG/512/Industry/feed_in-512.png",
@@ -5735,7 +5705,7 @@
       "eps": "/EPS/Industry/feed_out.eps",
       "png": {
         "32": "/PNG/32/Industry/feed_out-32.png",
-        "128": "/PNG/128/industry (Case Conflict (9))/feed_out-128.png",
+        "128": "/PNG/128/Industry/feed_out-128.png",
         "256": "/PNG/256/Industry/feed_out-256.png",
         "36": "/PNG/36/Industry/feed_out-36.png",
         "512": "/PNG/512/Industry/feed_out-512.png",
@@ -5775,7 +5745,7 @@
       "eps": "/EPS/Very_Basic/file.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/file-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/file-128.png",
+        "128": "/PNG/128/Very_Basic/file-128.png",
         "256": "/PNG/256/Very_Basic/file-256.png",
         "36": "/PNG/36/Very_Basic/file-36.png",
         "512": "/PNG/512/Very_Basic/file-512.png",
@@ -5846,7 +5816,6 @@
       "eps": "/EPS/Shopping/filled_box.eps",
       "png": {
         "32": "/PNG/32/Shopping/filled_box-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (3))/filled_box-128.png",
         "256": "/PNG/256/Shopping/filled_box-256.png",
         "36": "/PNG/36/Shopping/filled_box-36.png",
         "512": "/PNG/512/Shopping/filled_box-512.png",
@@ -5900,7 +5869,7 @@
       "eps": "/EPS/Maps/filled_flag.eps",
       "png": {
         "32": "/PNG/32/Maps/filled_flag-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/filled_flag-128.png",
+        "128": "/PNG/128/Maps/filled_flag-128.png",
         "256": "/PNG/256/Maps/filled_flag-256.png",
         "36": "/PNG/36/Maps/filled_flag-36.png",
         "512": "/PNG/512/Maps/filled_flag-512.png",
@@ -6079,7 +6048,7 @@
       "eps": "/EPS/Sports/finish_flag.eps",
       "png": {
         "32": "/PNG/32/Sports/finish_flag-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/finish_flag-128.png",
+        "128": "/PNG/128/Sports/finish_flag-128.png",
         "256": "/PNG/256/Sports/finish_flag-256.png",
         "36": "/PNG/36/Sports/finish_flag-36.png",
         "512": "/PNG/512/Sports/finish_flag-512.png",
@@ -6131,7 +6100,6 @@
       "eps": "/EPS/Industry/fire_extinguisher.eps",
       "png": {
         "32": "/PNG/32/Industry/fire_extinguisher-32.png",
-        "128": "/PNG/128/industry (Case Conflict (39))/fire_extinguisher-128.png",
         "256": "/PNG/256/Industry/fire_extinguisher-256.png",
         "36": "/PNG/36/Industry/fire_extinguisher-36.png",
         "512": "/PNG/512/Industry/fire_extinguisher-512.png",
@@ -6209,7 +6177,7 @@
       "eps": "/EPS/Sports/fishing.eps",
       "png": {
         "32": "/PNG/32/Sports/fishing-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/fishing-128.png",
+        "128": "/PNG/128/Sports/fishing-128.png",
         "256": "/PNG/256/Sports/fishing-256.png",
         "36": "/PNG/36/Sports/fishing-36.png",
         "512": "/PNG/512/Sports/fishing-512.png",
@@ -6261,7 +6229,7 @@
       "eps": "/EPS/Sports/floating_guru.eps",
       "png": {
         "32": "/PNG/32/Sports/floating_guru-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/floating_guru-128.png",
+        "128": "/PNG/128/Sports/floating_guru-128.png",
         "256": "/PNG/256/Sports/floating_guru-256.png",
         "36": "/PNG/36/Sports/floating_guru-36.png",
         "512": "/PNG/512/Sports/floating_guru-512.png",
@@ -6322,7 +6290,7 @@
       "eps": "/EPS/Sports/football.eps",
       "png": {
         "32": "/PNG/32/Sports/football-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/football-128.png",
+        "128": "/PNG/128/Sports/football-128.png",
         "256": "/PNG/256/Sports/football-256.png",
         "36": "/PNG/36/Sports/football-36.png",
         "512": "/PNG/512/Sports/football-512.png",
@@ -6348,7 +6316,7 @@
       "eps": "/EPS/Sports/football2.eps",
       "png": {
         "32": "/PNG/32/Sports/football2-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/football2-128.png",
+        "128": "/PNG/128/Sports/football2-128.png",
         "256": "/PNG/256/Sports/football2-256.png",
         "36": "/PNG/36/Sports/football2-36.png",
         "512": "/PNG/512/Sports/football2-512.png",
@@ -6374,7 +6342,6 @@
       "eps": "/EPS/Industry/fork_truck.eps",
       "png": {
         "32": "/PNG/32/Industry/fork_truck-32.png",
-        "128": "/PNG/128/industry (Case Conflict)/fork_truck-128.png",
         "256": "/PNG/256/Industry/fork_truck-256.png",
         "36": "/PNG/36/Industry/fork_truck-36.png",
         "512": "/PNG/512/Industry/fork_truck-512.png",
@@ -6409,7 +6376,7 @@
       "eps": "/EPS/Social_Networks/foursquare.eps",
       "png": {
         "32": "/PNG/32/Social_Networks/foursquare-32.png",
-        "128": "/PNG/128/social_networks (Case Conflict)/foursquare-128.png",
+        "128": "/PNG/128/Social_Networks/foursquare-128.png",
         "256": "/PNG/256/Social_Networks/foursquare-256.png",
         "36": "/PNG/36/Social_Networks/foursquare-36.png",
         "512": "/PNG/512/Social_Networks/foursquare-512.png",
@@ -6435,7 +6402,7 @@
       "eps": "/EPS/Very_Basic/frame.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/frame-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/frame-128.png",
+        "128": "/PNG/128/Very_Basic/frame-128.png",
         "256": "/PNG/256/Very_Basic/frame-256.png",
         "36": "/PNG/36/Very_Basic/frame-36.png",
         "512": "/PNG/512/Very_Basic/frame-512.png",
@@ -6471,7 +6438,7 @@
       "eps": "/EPS/Music/french_horn.eps",
       "png": {
         "32": "/PNG/32/Music/french_horn-32.png",
-        "128": "/PNG/128/music (Case Conflict)/french_horn-128.png",
+        "128": "/PNG/128/Music/french_horn-128.png",
         "256": "/PNG/256/Music/french_horn-256.png",
         "36": "/PNG/36/Music/french_horn-36.png",
         "512": "/PNG/512/Music/french_horn-512.png",
@@ -6497,7 +6464,7 @@
       "eps": "/EPS/Sports/frisbee.eps",
       "png": {
         "32": "/PNG/32/Sports/frisbee-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/frisbee-128.png",
+        "128": "/PNG/128/Sports/frisbee-128.png",
         "256": "/PNG/256/Sports/frisbee-256.png",
         "36": "/PNG/36/Sports/frisbee-36.png",
         "512": "/PNG/512/Sports/frisbee-512.png",
@@ -6603,7 +6570,7 @@
       "eps": "/EPS/Transport/garage.eps",
       "png": {
         "32": "/PNG/32/Transport/garage-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/garage-128.png",
+        "128": "/PNG/128/Transport/garage-128.png",
         "256": "/PNG/256/Transport/garage-256.png",
         "36": "/PNG/36/Transport/garage-36.png",
         "512": "/PNG/512/Transport/garage-512.png",
@@ -6629,7 +6596,7 @@
       "eps": "/EPS/Industry/gas.eps",
       "png": {
         "32": "/PNG/32/Industry/gas-32.png",
-        "128": "/PNG/128/industry (Case Conflict (7))/gas-128.png",
+        "128": "/PNG/128/Industry/gas-128.png",
         "256": "/PNG/256/Industry/gas-256.png",
         "36": "/PNG/36/Industry/gas-36.png",
         "512": "/PNG/512/Industry/gas-512.png",
@@ -6701,7 +6668,6 @@
       "eps": "/EPS/Industry/gas_industry.eps",
       "png": {
         "32": "/PNG/32/Industry/gas_industry-32.png",
-        "128": "/PNG/128/industry (Case Conflict (1))/gas_industry-128.png",
         "256": "/PNG/256/Industry/gas_industry-256.png",
         "36": "/PNG/36/Industry/gas_industry-36.png",
         "512": "/PNG/512/Industry/gas_industry-512.png",
@@ -6727,7 +6693,6 @@
       "eps": "/EPS/Industry/gas_mask.eps",
       "png": {
         "32": "/PNG/32/Industry/gas_mask-32.png",
-        "128": "/PNG/128/industry (Case Conflict (41))/gas_mask-128.png",
         "256": "/PNG/256/Industry/gas_mask-256.png",
         "36": "/PNG/36/Industry/gas_mask-36.png",
         "512": "/PNG/512/Industry/gas_mask-512.png",
@@ -6843,7 +6808,7 @@
       "eps": "/EPS/Maps/geocaching.eps",
       "png": {
         "32": "/PNG/32/Maps/geocaching-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/geocaching-128.png",
+        "128": "/PNG/128/Maps/geocaching-128.png",
         "256": "/PNG/256/Maps/geocaching-256.png",
         "36": "/PNG/36/Maps/geocaching-36.png",
         "512": "/PNG/512/Maps/geocaching-512.png",
@@ -6869,7 +6834,7 @@
       "eps": "/EPS/Industry/geothermal.eps",
       "png": {
         "32": "/PNG/32/Industry/geothermal-32.png",
-        "128": "/PNG/128/industry (Case Conflict (4))/geothermal-128.png",
+        "128": "/PNG/128/Industry/geothermal-128.png",
         "256": "/PNG/256/Industry/geothermal-256.png",
         "36": "/PNG/36/Industry/geothermal-36.png",
         "512": "/PNG/512/Industry/geothermal-512.png",
@@ -6930,7 +6895,7 @@
       "eps": "/EPS/Maps/geo_fence.eps",
       "png": {
         "32": "/PNG/32/Maps/geo_fence-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/geo_fence-128.png",
+        "128": "/PNG/128/Maps/geo_fence-128.png",
         "256": "/PNG/256/Maps/geo_fence-256.png",
         "36": "/PNG/36/Maps/geo_fence-36.png",
         "512": "/PNG/512/Maps/geo_fence-512.png",
@@ -6966,7 +6931,7 @@
       "eps": "/EPS/Shopping/gift.eps",
       "png": {
         "32": "/PNG/32/Shopping/gift-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (36))/gift-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/gift-128.png",
         "256": "/PNG/256/Shopping/gift-256.png",
         "36": "/PNG/36/Shopping/gift-36.png",
         "512": "/PNG/512/Shopping/gift-512.png",
@@ -7033,7 +6998,7 @@
       "eps": "/EPS/Very_Basic/globe.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/globe-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/globe-128.png",
+        "128": "/PNG/128/Very_Basic/globe-128.png",
         "256": "/PNG/256/Very_Basic/globe-256.png",
         "36": "/PNG/36/Very_Basic/globe-36.png",
         "512": "/PNG/512/Very_Basic/globe-512.png",
@@ -7071,7 +7036,7 @@
       "eps": "/EPS/Maps/globe_earth.eps",
       "png": {
         "32": "/PNG/32/Maps/globe_earth-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/globe_earth-128.png",
+        "128": "/PNG/128/Maps/globe_earth-128.png",
         "256": "/PNG/256/Maps/globe_earth-256.png",
         "36": "/PNG/36/Maps/globe_earth-36.png",
         "512": "/PNG/512/Maps/globe_earth-512.png",
@@ -7101,7 +7066,7 @@
       "eps": "/EPS/Social_Networks/google_plus.eps",
       "png": {
         "32": "/PNG/32/Social_Networks/google_plus-32.png",
-        "128": "/PNG/128/social_networks (Case Conflict)/google_plus-128.png",
+        "128": "/PNG/128/Social_Networks/google_plus-128.png",
         "256": "/PNG/256/Social_Networks/google_plus-256.png",
         "36": "/PNG/36/Social_Networks/google_plus-36.png",
         "512": "/PNG/512/Social_Networks/google_plus-512.png",
@@ -7195,7 +7160,7 @@
       "eps": "/EPS/Maps/gps_disconnected.eps",
       "png": {
         "32": "/PNG/32/Maps/gps_disconnected-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/gps_disconnected-128.png",
+        "128": "/PNG/128/Maps/gps_disconnected-128.png",
         "256": "/PNG/256/Maps/gps_disconnected-256.png",
         "36": "/PNG/36/Maps/gps_disconnected-36.png",
         "512": "/PNG/512/Maps/gps_disconnected-512.png",
@@ -7224,7 +7189,7 @@
       "eps": "/EPS/Maps/gps_receiving.eps",
       "png": {
         "32": "/PNG/32/Maps/gps_receiving-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/gps_receiving-128.png",
+        "128": "/PNG/128/Maps/gps_receiving-128.png",
         "256": "/PNG/256/Maps/gps_receiving-256.png",
         "36": "/PNG/36/Maps/gps_receiving-36.png",
         "512": "/PNG/512/Maps/gps_receiving-512.png",
@@ -7253,7 +7218,7 @@
       "eps": "/EPS/Maps/gps_searching.eps",
       "png": {
         "32": "/PNG/32/Maps/gps_searching-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/gps_searching-128.png",
+        "128": "/PNG/128/Maps/gps_searching-128.png",
         "256": "/PNG/256/Maps/gps_searching-256.png",
         "36": "/PNG/36/Maps/gps_searching-36.png",
         "512": "/PNG/512/Maps/gps_searching-512.png",
@@ -7279,7 +7244,6 @@
       "eps": "/EPS/Industry/greentech.eps",
       "png": {
         "32": "/PNG/32/Industry/greentech-32.png",
-        "128": "/PNG/128/industry (Case Conflict (44))/greentech-128.png",
         "256": "/PNG/256/Industry/greentech-256.png",
         "36": "/PNG/36/Industry/greentech-36.png",
         "512": "/PNG/512/Industry/greentech-512.png",
@@ -7378,7 +7342,7 @@
       "eps": "/EPS/Music/guitar.eps",
       "png": {
         "32": "/PNG/32/Music/guitar-32.png",
-        "128": "/PNG/128/music (Case Conflict)/guitar-128.png",
+        "128": "/PNG/128/Music/guitar-128.png",
         "256": "/PNG/256/Music/guitar-256.png",
         "36": "/PNG/36/Music/guitar-36.png",
         "512": "/PNG/512/Music/guitar-512.png",
@@ -7404,7 +7368,7 @@
       "eps": "/EPS/Sports/guru.eps",
       "png": {
         "32": "/PNG/32/Sports/guru-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/guru-128.png",
+        "128": "/PNG/128/Sports/guru-128.png",
         "256": "/PNG/256/Sports/guru-256.png",
         "36": "/PNG/36/Sports/guru-36.png",
         "512": "/PNG/512/Sports/guru-512.png",
@@ -7480,7 +7444,7 @@
       "eps": "/EPS/Sports/hand_biceps.eps",
       "png": {
         "32": "/PNG/32/Sports/hand_biceps-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/hand_biceps-128.png",
+        "128": "/PNG/128/Sports/hand_biceps-128.png",
         "256": "/PNG/256/Sports/hand_biceps-256.png",
         "36": "/PNG/36/Sports/hand_biceps-36.png",
         "512": "/PNG/512/Sports/hand_biceps-512.png",
@@ -7545,7 +7509,7 @@
       "eps": "/EPS/Sports/harness.eps",
       "png": {
         "32": "/PNG/32/Sports/harness-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/harness-128.png",
+        "128": "/PNG/128/Sports/harness-128.png",
         "256": "/PNG/256/Sports/harness-256.png",
         "36": "/PNG/36/Sports/harness-36.png",
         "512": "/PNG/512/Sports/harness-512.png",
@@ -7664,7 +7628,7 @@
       "eps": "/EPS/Music/herald_trumpet.eps",
       "png": {
         "32": "/PNG/32/Music/herald_trumpet-32.png",
-        "128": "/PNG/128/music (Case Conflict)/herald_trumpet-128.png",
+        "128": "/PNG/128/Music/herald_trumpet-128.png",
         "256": "/PNG/256/Music/herald_trumpet-256.png",
         "36": "/PNG/36/Music/herald_trumpet-36.png",
         "512": "/PNG/512/Music/herald_trumpet-512.png",
@@ -7717,7 +7681,7 @@
       "eps": "/EPS/Very_Basic/home.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/home-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/home-128.png",
+        "128": "/PNG/128/Very_Basic/home-128.png",
         "256": "/PNG/256/Very_Basic/home-256.png",
         "36": "/PNG/36/Very_Basic/home-36.png",
         "512": "/PNG/512/Very_Basic/home-512.png",
@@ -7743,7 +7707,7 @@
       "eps": "/EPS/Objects/hot_article.eps",
       "png": {
         "32": "/PNG/32/Objects/hot_article-32.png",
-        "128": "/PNG/128/objects (Case Conflict (8))/hot_article-128.png",
+        "128": "/PNG/128/objects (Case Conflict)/hot_article-128.png",
         "256": "/PNG/256/Objects/hot_article-256.png",
         "36": "/PNG/36/Objects/hot_article-36.png",
         "512": "/PNG/512/Objects/hot_article-512.png",
@@ -7849,7 +7813,6 @@
       "eps": "/EPS/Industry/hydroelectric.eps",
       "png": {
         "32": "/PNG/32/Industry/hydroelectric-32.png",
-        "128": "/PNG/128/industry (Case Conflict (26))/hydroelectric-128.png",
         "256": "/PNG/256/Industry/hydroelectric-256.png",
         "36": "/PNG/36/Industry/hydroelectric-36.png",
         "512": "/PNG/512/Industry/hydroelectric-512.png",
@@ -7919,7 +7882,7 @@
       "eps": "/EPS/Shopping/idea.eps",
       "png": {
         "32": "/PNG/32/Shopping/idea-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (9))/idea-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/idea-128.png",
         "256": "/PNG/256/Shopping/idea-256.png",
         "36": "/PNG/36/Shopping/idea-36.png",
         "512": "/PNG/512/Shopping/idea-512.png",
@@ -7953,7 +7916,7 @@
       "eps": "/EPS/Very_Basic/image_file.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/image_file-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/image_file-128.png",
+        "128": "/PNG/128/Very_Basic/image_file-128.png",
         "256": "/PNG/256/Very_Basic/image_file-256.png",
         "36": "/PNG/36/Very_Basic/image_file-36.png",
         "512": "/PNG/512/Very_Basic/image_file-512.png",
@@ -7991,7 +7954,7 @@
       "eps": "/EPS/Very_Basic/info.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/info-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/info-128.png",
+        "128": "/PNG/128/Very_Basic/info-128.png",
         "256": "/PNG/256/Very_Basic/info-256.png",
         "36": "/PNG/36/Very_Basic/info-36.png",
         "512": "/PNG/512/Very_Basic/info-512.png",
@@ -8017,7 +7980,7 @@
       "eps": "/EPS/Industry/infrared.eps",
       "png": {
         "32": "/PNG/32/Industry/infrared-32.png",
-        "128": "/PNG/128/industry (Case Conflict (55))/infrared-128.png",
+        "128": "/PNG/128/Industry/infrared-128.png",
         "256": "/PNG/256/Industry/infrared-256.png",
         "36": "/PNG/36/Industry/infrared-36.png",
         "512": "/PNG/512/Industry/infrared-512.png",
@@ -8043,7 +8006,7 @@
       "eps": "/EPS/Industry/infrared_beam_sending.eps",
       "png": {
         "32": "/PNG/32/Industry/infrared_beam_sending-32.png",
-        "128": "/PNG/128/industry (Case Conflict (15))/infrared_beam_sending-128.png",
+        "128": "/PNG/128/Industry/infrared_beam_sending-128.png",
         "256": "/PNG/256/Industry/infrared_beam_sending-256.png",
         "36": "/PNG/36/Industry/infrared_beam_sending-36.png",
         "512": "/PNG/512/Industry/infrared_beam_sending-512.png",
@@ -8069,7 +8032,7 @@
       "eps": "/EPS/Industry/infrared_sensor.eps",
       "png": {
         "32": "/PNG/32/Industry/infrared_sensor-32.png",
-        "128": "/PNG/128/industry (Case Conflict (42))/infrared_sensor-128.png",
+        "128": "/PNG/128/Industry/infrared_sensor-128.png",
         "256": "/PNG/256/Industry/infrared_sensor-256.png",
         "36": "/PNG/36/Industry/infrared_sensor-36.png",
         "512": "/PNG/512/Industry/infrared_sensor-512.png",
@@ -8104,7 +8067,7 @@
       "eps": "/EPS/Social_Networks/instagram.eps",
       "png": {
         "32": "/PNG/32/Social_Networks/instagram-32.png",
-        "128": "/PNG/128/social_networks (Case Conflict)/instagram-128.png",
+        "128": "/PNG/128/Social_Networks/instagram-128.png",
         "256": "/PNG/256/Social_Networks/instagram-256.png",
         "36": "/PNG/36/Social_Networks/instagram-36.png",
         "512": "/PNG/512/Social_Networks/instagram-512.png",
@@ -8130,7 +8093,6 @@
       "eps": "/EPS/Industry/integrated_circuit.eps",
       "png": {
         "32": "/PNG/32/Industry/integrated_circuit-32.png",
-        "128": "/PNG/128/industry (Case Conflict (43))/integrated_circuit-128.png",
         "256": "/PNG/256/Industry/integrated_circuit-256.png",
         "36": "/PNG/36/Industry/integrated_circuit-36.png",
         "512": "/PNG/512/Industry/integrated_circuit-512.png",
@@ -8282,7 +8244,6 @@
       "eps": "/EPS/Shopping/jcb_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Shopping/jcb_copyrighted-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/jcb_copyrighted-128.png",
         "256": "/PNG/256/Shopping/jcb_copyrighted-256.png",
         "36": "/PNG/36/Shopping/jcb_copyrighted-36.png",
         "512": "/PNG/512/Shopping/jcb_copyrighted-512.png",
@@ -8382,7 +8343,7 @@
       "eps": "/EPS/Industry/jog_forward.eps",
       "png": {
         "32": "/PNG/32/Industry/jog_forward-32.png",
-        "128": "/PNG/128/industry (Case Conflict (38))/jog_forward-128.png",
+        "128": "/PNG/128/Industry/jog_forward-128.png",
         "256": "/PNG/256/Industry/jog_forward-256.png",
         "36": "/PNG/36/Industry/jog_forward-36.png",
         "512": "/PNG/512/Industry/jog_forward-512.png",
@@ -8461,7 +8422,7 @@
       "eps": "/EPS/Industry/jog_reverse.eps",
       "png": {
         "32": "/PNG/32/Industry/jog_reverse-32.png",
-        "128": "/PNG/128/industry (Case Conflict (56))/jog_reverse-128.png",
+        "128": "/PNG/128/Industry/jog_reverse-128.png",
         "256": "/PNG/256/Industry/jog_reverse-256.png",
         "36": "/PNG/36/Industry/jog_reverse-36.png",
         "512": "/PNG/512/Industry/jog_reverse-512.png",
@@ -8489,7 +8450,7 @@
       "eps": "/EPS/Objects/joystick.eps",
       "png": {
         "32": "/PNG/32/Objects/joystick-32.png",
-        "128": "/PNG/128/objects (Case Conflict (19))/joystick-128.png",
+        "128": "/PNG/128/objects (Case Conflict)/joystick-128.png",
         "256": "/PNG/256/Objects/joystick-256.png",
         "36": "/PNG/36/Objects/joystick-36.png",
         "512": "/PNG/512/Objects/joystick-512.png",
@@ -8541,7 +8502,7 @@
       "eps": "/EPS/Sports/jump_rope.eps",
       "png": {
         "32": "/PNG/32/Sports/jump_rope-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/jump_rope-128.png",
+        "128": "/PNG/128/Sports/jump_rope-128.png",
         "256": "/PNG/256/Sports/jump_rope-256.png",
         "36": "/PNG/36/Sports/jump_rope-36.png",
         "512": "/PNG/512/Sports/jump_rope-512.png",
@@ -8570,7 +8531,7 @@
       "eps": "/EPS/Very_Basic/key.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/key-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/key-128.png",
+        "128": "/PNG/128/Very_Basic/key-128.png",
         "256": "/PNG/256/Very_Basic/key-256.png",
         "36": "/PNG/36/Very_Basic/key-36.png",
         "512": "/PNG/512/Very_Basic/key-512.png",
@@ -8596,7 +8557,7 @@
       "eps": "/EPS/Industry/ladder.eps",
       "png": {
         "32": "/PNG/32/Industry/ladder-32.png",
-        "128": "/PNG/128/industry (Case Conflict (45))/ladder-128.png",
+        "128": "/PNG/128/Industry/ladder-128.png",
         "256": "/PNG/256/Industry/ladder-256.png",
         "36": "/PNG/36/Industry/ladder-36.png",
         "512": "/PNG/512/Industry/ladder-512.png",
@@ -8682,7 +8643,6 @@
       "eps": "/EPS/Industry/laser_beam.eps",
       "png": {
         "32": "/PNG/32/Industry/laser_beam-32.png",
-        "128": "/PNG/128/industry (Case Conflict (54))/laser_beam-128.png",
         "256": "/PNG/256/Industry/laser_beam-256.png",
         "36": "/PNG/36/Industry/laser_beam-36.png",
         "512": "/PNG/512/Industry/laser_beam-512.png",
@@ -8715,7 +8675,7 @@
       "eps": "/EPS/Maps/layers.eps",
       "png": {
         "32": "/PNG/32/Maps/layers-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/layers-128.png",
+        "128": "/PNG/128/Maps/layers-128.png",
         "256": "/PNG/256/Maps/layers-256.png",
         "36": "/PNG/36/Maps/layers-36.png",
         "512": "/PNG/512/Maps/layers-512.png",
@@ -8760,7 +8720,7 @@
       "eps": "/EPS/Industry/lcd.eps",
       "png": {
         "32": "/PNG/32/Industry/lcd-32.png",
-        "128": "/PNG/128/industry (Case Conflict (27))/lcd-128.png",
+        "128": "/PNG/128/Industry/lcd-128.png",
         "256": "/PNG/256/Industry/lcd-256.png",
         "36": "/PNG/36/Industry/lcd-36.png",
         "512": "/PNG/512/Industry/lcd-512.png",
@@ -8786,7 +8746,7 @@
       "eps": "/EPS/Industry/led_diode.eps",
       "png": {
         "32": "/PNG/32/Industry/led_diode-32.png",
-        "128": "/PNG/128/industry (Case Conflict (28))/led_diode-128.png",
+        "128": "/PNG/128/Industry/led_diode-128.png",
         "256": "/PNG/256/Industry/led_diode-256.png",
         "36": "/PNG/36/Industry/led_diode-36.png",
         "512": "/PNG/512/Industry/led_diode-512.png",
@@ -8963,7 +8923,7 @@
       "eps": "/EPS/Sports/leg.eps",
       "png": {
         "32": "/PNG/32/Sports/leg-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/leg-128.png",
+        "128": "/PNG/128/Sports/leg-128.png",
         "256": "/PNG/256/Sports/leg-256.png",
         "36": "/PNG/36/Sports/leg-36.png",
         "512": "/PNG/512/Sports/leg-512.png",
@@ -9015,7 +8975,7 @@
       "eps": "/EPS/Very_Basic/lifebouy.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/lifebouy-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/lifebouy-128.png",
+        "128": "/PNG/128/Very_Basic/lifebouy-128.png",
         "256": "/PNG/256/Very_Basic/lifebouy-256.png",
         "36": "/PNG/36/Very_Basic/lifebouy-36.png",
         "512": "/PNG/512/Very_Basic/lifebouy-512.png",
@@ -9046,7 +9006,7 @@
       "eps": "/EPS/Maps/lighthouse.eps",
       "png": {
         "32": "/PNG/32/Maps/lighthouse-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/lighthouse-128.png",
+        "128": "/PNG/128/Maps/lighthouse-128.png",
         "256": "/PNG/256/Maps/lighthouse-256.png",
         "36": "/PNG/36/Maps/lighthouse-36.png",
         "512": "/PNG/512/Maps/lighthouse-512.png",
@@ -9082,7 +9042,7 @@
       "eps": "/EPS/Very_Basic/like.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/like-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/like-128.png",
+        "128": "/PNG/128/Very_Basic/like-128.png",
         "256": "/PNG/256/Very_Basic/like-256.png",
         "36": "/PNG/36/Very_Basic/like-36.png",
         "512": "/PNG/512/Very_Basic/like-512.png",
@@ -9152,7 +9112,7 @@
       "eps": "/EPS/Very_Basic/like_outline.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/like_outline-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/like_outline-128.png",
+        "128": "/PNG/128/Very_Basic/like_outline-128.png",
         "256": "/PNG/256/Very_Basic/like_outline-256.png",
         "36": "/PNG/36/Very_Basic/like_outline-36.png",
         "512": "/PNG/512/Very_Basic/like_outline-512.png",
@@ -9191,7 +9151,7 @@
       "eps": "/EPS/Very_Basic/link.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/link-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/link-128.png",
+        "128": "/PNG/128/Very_Basic/link-128.png",
         "256": "/PNG/256/Very_Basic/link-256.png",
         "36": "/PNG/36/Very_Basic/link-36.png",
         "512": "/PNG/512/Very_Basic/link-512.png",
@@ -9219,7 +9179,7 @@
       "eps": "/EPS/Social_Networks/linkedin.eps",
       "png": {
         "32": "/PNG/32/Social_Networks/linkedin-32.png",
-        "128": "/PNG/128/social_networks (Case Conflict)/linkedin-128.png",
+        "128": "/PNG/128/Social_Networks/linkedin-128.png",
         "256": "/PNG/256/Social_Networks/linkedin-256.png",
         "36": "/PNG/36/Social_Networks/linkedin-36.png",
         "512": "/PNG/512/Social_Networks/linkedin-512.png",
@@ -9245,7 +9205,7 @@
       "eps": "/EPS/Very_Basic/link_broken.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/link_broken-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/link_broken-128.png",
+        "128": "/PNG/128/Very_Basic/link_broken-128.png",
         "256": "/PNG/256/Very_Basic/link_broken-256.png",
         "36": "/PNG/36/Very_Basic/link_broken-36.png",
         "512": "/PNG/512/Very_Basic/link_broken-512.png",
@@ -9296,7 +9256,7 @@
       "eps": "/EPS/Maps/location_off.eps",
       "png": {
         "32": "/PNG/32/Maps/location_off-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/location_off-128.png",
+        "128": "/PNG/128/Maps/location_off-128.png",
         "256": "/PNG/256/Maps/location_off-256.png",
         "36": "/PNG/36/Maps/location_off-36.png",
         "512": "/PNG/512/Maps/location_off-512.png",
@@ -9339,7 +9299,7 @@
       "eps": "/EPS/Very_Basic/lock.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/lock-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/lock-128.png",
+        "128": "/PNG/128/Very_Basic/lock-128.png",
         "256": "/PNG/256/Very_Basic/lock-256.png",
         "36": "/PNG/36/Very_Basic/lock-36.png",
         "512": "/PNG/512/Very_Basic/lock-512.png",
@@ -9374,7 +9334,7 @@
       "eps": "/EPS/Music/loudspeaker.eps",
       "png": {
         "32": "/PNG/32/Music/loudspeaker-32.png",
-        "128": "/PNG/128/music (Case Conflict)/loudspeaker-128.png",
+        "128": "/PNG/128/Music/loudspeaker-128.png",
         "256": "/PNG/256/Music/loudspeaker-256.png",
         "36": "/PNG/36/Music/loudspeaker-36.png",
         "512": "/PNG/512/Music/loudspeaker-512.png",
@@ -9493,7 +9453,6 @@
       "eps": "/EPS/Industry/manual.eps",
       "png": {
         "32": "/PNG/32/Industry/manual-32.png",
-        "128": "/PNG/128/industry (Case Conflict (14))/manual-128.png",
         "256": "/PNG/256/Industry/manual-256.png",
         "36": "/PNG/36/Industry/manual-36.png",
         "512": "/PNG/512/Industry/manual-512.png",
@@ -9533,7 +9492,7 @@
       "eps": "/EPS/Maps/map.eps",
       "png": {
         "32": "/PNG/32/Maps/map-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/map-128.png",
+        "128": "/PNG/128/Maps/map-128.png",
         "256": "/PNG/256/Maps/map-256.png",
         "36": "/PNG/36/Maps/map-36.png",
         "512": "/PNG/512/Maps/map-512.png",
@@ -9608,7 +9567,7 @@
       "eps": "/EPS/Maps/map_editing.eps",
       "png": {
         "32": "/PNG/32/Maps/map_editing-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/map_editing-128.png",
+        "128": "/PNG/128/Maps/map_editing-128.png",
         "256": "/PNG/256/Maps/map_editing-256.png",
         "36": "/PNG/36/Maps/map_editing-36.png",
         "512": "/PNG/512/Maps/map_editing-512.png",
@@ -9647,7 +9606,7 @@
       "eps": "/EPS/Maps/map_marker.eps",
       "png": {
         "32": "/PNG/32/Maps/map_marker-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/map_marker-128.png",
+        "128": "/PNG/128/Maps/map_marker-128.png",
         "256": "/PNG/256/Maps/map_marker-256.png",
         "36": "/PNG/36/Maps/map_marker-36.png",
         "512": "/PNG/512/Maps/map_marker-512.png",
@@ -9686,7 +9645,7 @@
       "eps": "/EPS/Maps/marker.eps",
       "png": {
         "32": "/PNG/32/Maps/marker-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/marker-128.png",
+        "128": "/PNG/128/Maps/marker-128.png",
         "256": "/PNG/256/Maps/marker-256.png",
         "36": "/PNG/36/Maps/marker-36.png",
         "512": "/PNG/512/Maps/marker-512.png",
@@ -9752,7 +9711,6 @@
       "eps": "/EPS/Shopping/mastercard_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Shopping/mastercard_copyrighted-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/mastercard_copyrighted-128.png",
         "256": "/PNG/256/Shopping/mastercard_copyrighted-256.png",
         "36": "/PNG/36/Shopping/mastercard_copyrighted-36.png",
         "512": "/PNG/512/Shopping/mastercard_copyrighted-512.png",
@@ -9778,7 +9736,7 @@
       "eps": "/EPS/Sports/medal2.eps",
       "png": {
         "32": "/PNG/32/Sports/medal2-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/medal2-128.png",
+        "128": "/PNG/128/Sports/medal2-128.png",
         "256": "/PNG/256/Sports/medal2-256.png",
         "36": "/PNG/36/Sports/medal2-36.png",
         "512": "/PNG/512/Sports/medal2-512.png",
@@ -9804,7 +9762,7 @@
       "eps": "/EPS/Sports/meditation_guru.eps",
       "png": {
         "32": "/PNG/32/Sports/meditation_guru-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/meditation_guru-128.png",
+        "128": "/PNG/128/Sports/meditation_guru-128.png",
         "256": "/PNG/256/Sports/meditation_guru-256.png",
         "36": "/PNG/36/Sports/meditation_guru-36.png",
         "512": "/PNG/512/Sports/meditation_guru-512.png",
@@ -9830,7 +9788,7 @@
       "eps": "/EPS/Messaging/megaphone1.eps",
       "png": {
         "32": "/PNG/32/Messaging/megaphone1-32.png",
-        "128": "/PNG/128/messaging (Case Conflict)/megaphone1-128.png",
+        "128": "/PNG/128/Messaging/megaphone1-128.png",
         "256": "/PNG/256/Messaging/megaphone1-256.png",
         "36": "/PNG/36/Messaging/megaphone1-36.png",
         "512": "/PNG/512/Messaging/megaphone1-512.png",
@@ -9856,7 +9814,7 @@
       "eps": "/EPS/Messaging/megaphone2.eps",
       "png": {
         "32": "/PNG/32/Messaging/megaphone2-32.png",
-        "128": "/PNG/128/messaging (Case Conflict)/megaphone2-128.png",
+        "128": "/PNG/128/Messaging/megaphone2-128.png",
         "256": "/PNG/256/Messaging/megaphone2-256.png",
         "36": "/PNG/36/Messaging/megaphone2-36.png",
         "512": "/PNG/512/Messaging/megaphone2-512.png",
@@ -9882,7 +9840,6 @@
       "eps": "/EPS/Industry/memmory_slot.eps",
       "png": {
         "32": "/PNG/32/Industry/memmory_slot-32.png",
-        "128": "/PNG/128/industry (Case Conflict (36))/memmory_slot-128.png",
         "256": "/PNG/256/Industry/memmory_slot-256.png",
         "36": "/PNG/36/Industry/memmory_slot-36.png",
         "512": "/PNG/512/Industry/memmory_slot-512.png",
@@ -9985,7 +9942,7 @@
       "eps": "/EPS/Very_Basic/menu.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/menu-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/menu-128.png",
+        "128": "/PNG/128/Very_Basic/menu-128.png",
         "256": "/PNG/256/Very_Basic/menu-256.png",
         "36": "/PNG/36/Very_Basic/menu-36.png",
         "512": "/PNG/512/Very_Basic/menu-512.png",
@@ -10026,7 +9983,7 @@
       "eps": "/EPS/Music/microphone.eps",
       "png": {
         "32": "/PNG/32/Music/microphone-32.png",
-        "128": "/PNG/128/music (Case Conflict)/microphone-128.png",
+        "128": "/PNG/128/Music/microphone-128.png",
         "256": "/PNG/256/Music/microphone-256.png",
         "36": "/PNG/36/Music/microphone-36.png",
         "512": "/PNG/512/Music/microphone-512.png",
@@ -10059,7 +10016,7 @@
       "eps": "/EPS/Music/microphone2.eps",
       "png": {
         "32": "/PNG/32/Music/microphone2-32.png",
-        "128": "/PNG/128/music (Case Conflict)/microphone2-128.png",
+        "128": "/PNG/128/Music/microphone2-128.png",
         "256": "/PNG/256/Music/microphone2-256.png",
         "36": "/PNG/36/Music/microphone2-36.png",
         "512": "/PNG/512/Music/microphone2-512.png",
@@ -10097,7 +10054,7 @@
       "eps": "/EPS/Very_Basic/minus.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/minus-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/minus-128.png",
+        "128": "/PNG/128/Very_Basic/minus-128.png",
         "256": "/PNG/256/Very_Basic/minus-256.png",
         "36": "/PNG/36/Very_Basic/minus-36.png",
         "512": "/PNG/512/Very_Basic/minus-512.png",
@@ -10220,7 +10177,6 @@
       "eps": "/EPS/Shopping/money_bag.eps",
       "png": {
         "32": "/PNG/32/Shopping/money_bag-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (12))/money_bag-128.png",
         "256": "/PNG/256/Shopping/money_bag-256.png",
         "36": "/PNG/36/Shopping/money_bag-36.png",
         "512": "/PNG/512/Shopping/money_bag-512.png",
@@ -10253,7 +10209,6 @@
       "eps": "/EPS/Shopping/money_box.eps",
       "png": {
         "32": "/PNG/32/Shopping/money_box-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/money_box-128.png",
         "256": "/PNG/256/Shopping/money_box-256.png",
         "36": "/PNG/36/Shopping/money_box-36.png",
         "512": "/PNG/512/Shopping/money_box-512.png",
@@ -10279,7 +10234,7 @@
       "eps": "/EPS/Objects/more.eps",
       "png": {
         "32": "/PNG/32/Objects/more-32.png",
-        "128": "/PNG/128/objects (Case Conflict (1))/more-128.png",
+        "128": "/PNG/128/Objects/more-128.png",
         "256": "/PNG/256/Objects/more-256.png",
         "36": "/PNG/36/Objects/more-36.png",
         "512": "/PNG/512/Objects/more-512.png",
@@ -10305,7 +10260,7 @@
       "eps": "/EPS/Industry/motion_detector.eps",
       "png": {
         "32": "/PNG/32/Industry/motion_detector-32.png",
-        "128": "/PNG/128/industry (Case Conflict (11))/motion_detector-128.png",
+        "128": "/PNG/128/Industry/motion_detector-128.png",
         "256": "/PNG/256/Industry/motion_detector-256.png",
         "36": "/PNG/36/Industry/motion_detector-36.png",
         "512": "/PNG/512/Industry/motion_detector-512.png",
@@ -10342,7 +10297,7 @@
       "eps": "/EPS/Transport/motorcycle.eps",
       "png": {
         "32": "/PNG/32/Transport/motorcycle-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/motorcycle-128.png",
+        "128": "/PNG/128/Transport/motorcycle-128.png",
         "256": "/PNG/256/Transport/motorcycle-256.png",
         "36": "/PNG/36/Transport/motorcycle-36.png",
         "512": "/PNG/512/Transport/motorcycle-512.png",
@@ -10368,7 +10323,7 @@
       "eps": "/EPS/Sports/mountain_biking.eps",
       "png": {
         "32": "/PNG/32/Sports/mountain_biking-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/mountain_biking-128.png",
+        "128": "/PNG/128/Sports/mountain_biking-128.png",
         "256": "/PNG/256/Sports/mountain_biking-256.png",
         "36": "/PNG/36/Sports/mountain_biking-36.png",
         "512": "/PNG/512/Sports/mountain_biking-512.png",
@@ -10471,7 +10426,7 @@
       "eps": "/EPS/Very_Basic/music.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/music-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/music-128.png",
+        "128": "/PNG/128/Very_Basic/music-128.png",
         "256": "/PNG/256/Very_Basic/music-256.png",
         "36": "/PNG/36/Very_Basic/music-36.png",
         "512": "/PNG/512/Very_Basic/music-512.png",
@@ -10510,7 +10465,7 @@
       "eps": "/EPS/Music/music_conductor.eps",
       "png": {
         "32": "/PNG/32/Music/music_conductor-32.png",
-        "128": "/PNG/128/music (Case Conflict)/music_conductor-128.png",
+        "128": "/PNG/128/Music/music_conductor-128.png",
         "256": "/PNG/256/Music/music_conductor-256.png",
         "36": "/PNG/36/Music/music_conductor-36.png",
         "512": "/PNG/512/Music/music_conductor-512.png",
@@ -10590,7 +10545,7 @@
       "eps": "/EPS/Music/music_record.eps",
       "png": {
         "32": "/PNG/32/Music/music_record-32.png",
-        "128": "/PNG/128/music (Case Conflict)/music_record-128.png",
+        "128": "/PNG/128/Music/music_record-128.png",
         "256": "/PNG/256/Music/music_record-256.png",
         "36": "/PNG/36/Music/music_record-36.png",
         "512": "/PNG/512/Music/music_record-512.png",
@@ -10618,7 +10573,7 @@
       "eps": "/EPS/Social_Networks/myspace.eps",
       "png": {
         "32": "/PNG/32/Social_Networks/myspace-32.png",
-        "128": "/PNG/128/social_networks (Case Conflict)/myspace-128.png",
+        "128": "/PNG/128/Social_Networks/myspace-128.png",
         "256": "/PNG/256/Social_Networks/myspace-256.png",
         "36": "/PNG/36/Social_Networks/myspace-36.png",
         "512": "/PNG/512/Social_Networks/myspace-512.png",
@@ -10669,7 +10624,7 @@
       "eps": "/EPS/Sports/neck.eps",
       "png": {
         "32": "/PNG/32/Sports/neck-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/neck-128.png",
+        "128": "/PNG/128/Sports/neck-128.png",
         "256": "/PNG/256/Sports/neck-256.png",
         "36": "/PNG/36/Sports/neck-36.png",
         "512": "/PNG/512/Sports/neck-512.png",
@@ -10726,7 +10681,6 @@
       "eps": "/EPS/Shopping/new.eps",
       "png": {
         "32": "/PNG/32/Shopping/new-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (8))/new-128.png",
         "256": "/PNG/256/Shopping/new-256.png",
         "36": "/PNG/36/Shopping/new-36.png",
         "512": "/PNG/512/Shopping/new-512.png",
@@ -10968,7 +10922,7 @@
       "eps": "/EPS/Maps/north_direction.eps",
       "png": {
         "32": "/PNG/32/Maps/north_direction-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/north_direction-128.png",
+        "128": "/PNG/128/Maps/north_direction-128.png",
         "256": "/PNG/256/Maps/north_direction-256.png",
         "36": "/PNG/36/Maps/north_direction-36.png",
         "512": "/PNG/512/Maps/north_direction-512.png",
@@ -11006,7 +10960,7 @@
       "eps": "/EPS/Messaging/note.eps",
       "png": {
         "32": "/PNG/32/Messaging/note-32.png",
-        "128": "/PNG/128/messaging (Case Conflict)/note-128.png",
+        "128": "/PNG/128/Messaging/note-128.png",
         "256": "/PNG/256/Messaging/note-256.png",
         "36": "/PNG/36/Messaging/note-36.png",
         "512": "/PNG/512/Messaging/note-512.png",
@@ -11032,7 +10986,7 @@
       "eps": "/EPS/Music/note_music.eps",
       "png": {
         "32": "/PNG/32/Music/note_music-32.png",
-        "128": "/PNG/128/music (Case Conflict)/note_music-128.png",
+        "128": "/PNG/128/Music/note_music-128.png",
         "256": "/PNG/256/Music/note_music-256.png",
         "36": "/PNG/36/Music/note_music-36.png",
         "512": "/PNG/512/Music/note_music-512.png",
@@ -11057,7 +11011,6 @@
       "eps": "/EPS/Objects/no_smoking.eps",
       "png": {
         "32": "/PNG/32/Objects/no_smoking-32.png",
-        "128": "/PNG/128/objects (Case Conflict (14))/no_smoking-128.png",
         "256": "/PNG/256/Objects/no_smoking-256.png",
         "36": "/PNG/36/Objects/no_smoking-36.png",
         "512": "/PNG/512/Objects/no_smoking-512.png",
@@ -11083,7 +11036,6 @@
       "eps": "/EPS/Industry/nuclear_power_plant.eps",
       "png": {
         "32": "/PNG/32/Industry/nuclear_power_plant-32.png",
-        "128": "/PNG/128/industry (Case Conflict (53))/nuclear_power_plant-128.png",
         "256": "/PNG/256/Industry/nuclear_power_plant-256.png",
         "36": "/PNG/36/Industry/nuclear_power_plant-36.png",
         "512": "/PNG/512/Industry/nuclear_power_plant-512.png",
@@ -11154,7 +11106,6 @@
       "eps": "/EPS/Industry/oil_industry.eps",
       "png": {
         "32": "/PNG/32/Industry/oil_industry-32.png",
-        "128": "/PNG/128/industry (Case Conflict (21))/oil_industry-128.png",
         "256": "/PNG/256/Industry/oil_industry-256.png",
         "36": "/PNG/36/Industry/oil_industry-36.png",
         "512": "/PNG/512/Industry/oil_industry-512.png",
@@ -11221,7 +11172,6 @@
       "eps": "/EPS/Shopping/one_free.eps",
       "png": {
         "32": "/PNG/32/Shopping/one_free-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (21))/one_free-128.png",
         "256": "/PNG/256/Shopping/one_free-256.png",
         "36": "/PNG/36/Shopping/one_free-36.png",
         "512": "/PNG/512/Shopping/one_free-512.png",
@@ -11258,7 +11208,7 @@
       "eps": "/EPS/Very_Basic/opened_folder.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/opened_folder-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/opened_folder-128.png",
+        "128": "/PNG/128/Very_Basic/opened_folder-128.png",
         "256": "/PNG/256/Very_Basic/opened_folder-256.png",
         "36": "/PNG/36/Very_Basic/opened_folder-36.png",
         "512": "/PNG/512/Very_Basic/opened_folder-512.png",
@@ -11284,7 +11234,6 @@
       "eps": "/EPS/Industry/overhead_crane.eps",
       "png": {
         "32": "/PNG/32/Industry/overhead_crane-32.png",
-        "128": "/PNG/128/industry (Case Conflict (32))/overhead_crane-128.png",
         "256": "/PNG/256/Industry/overhead_crane-256.png",
         "36": "/PNG/36/Industry/overhead_crane-36.png",
         "512": "/PNG/512/Industry/overhead_crane-512.png",
@@ -11310,7 +11259,7 @@
       "eps": "/EPS/Sports/padding.eps",
       "png": {
         "32": "/PNG/32/Sports/padding-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/padding-128.png",
+        "128": "/PNG/128/Sports/padding-128.png",
         "256": "/PNG/256/Sports/padding-256.png",
         "36": "/PNG/36/Sports/padding-36.png",
         "512": "/PNG/512/Sports/padding-512.png",
@@ -11399,7 +11348,7 @@
       "eps": "/EPS/Messaging/paper_plane.eps",
       "png": {
         "32": "/PNG/32/Messaging/paper_plane-32.png",
-        "128": "/PNG/128/messaging (Case Conflict)/paper_plane-128.png",
+        "128": "/PNG/128/Messaging/paper_plane-128.png",
         "256": "/PNG/256/Messaging/paper_plane-256.png",
         "36": "/PNG/36/Messaging/paper_plane-36.png",
         "512": "/PNG/512/Messaging/paper_plane-512.png",
@@ -11426,7 +11375,7 @@
       "eps": "/EPS/Media_Controls/pause.eps",
       "png": {
         "32": "/PNG/32/Media_Controls/pause-32.png",
-        "128": "/PNG/128/media_controls (Case Conflict)/pause-128.png",
+        "128": "/PNG/128/Media_Controls/pause-128.png",
         "256": "/PNG/256/Media_Controls/pause-256.png",
         "36": "/PNG/36/Media_Controls/pause-36.png",
         "512": "/PNG/512/Media_Controls/pause-512.png",
@@ -11464,7 +11413,7 @@
       "eps": "/EPS/Shopping/paypal_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Shopping/paypal_copyrighted-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (19))/paypal_copyrighted-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/paypal_copyrighted-128.png",
         "256": "/PNG/256/Shopping/paypal_copyrighted-256.png",
         "36": "/PNG/36/Shopping/paypal_copyrighted-36.png",
         "512": "/PNG/512/Shopping/paypal_copyrighted-512.png",
@@ -11582,7 +11531,7 @@
       "eps": "/EPS/Music/piano.eps",
       "png": {
         "32": "/PNG/32/Music/piano-32.png",
-        "128": "/PNG/128/music (Case Conflict)/piano-128.png",
+        "128": "/PNG/128/Music/piano-128.png",
         "256": "/PNG/256/Music/piano-256.png",
         "36": "/PNG/36/Music/piano-36.png",
         "512": "/PNG/512/Music/piano-512.png",
@@ -11621,7 +11570,7 @@
       "eps": "/EPS/Music/piccolo.eps",
       "png": {
         "32": "/PNG/32/Music/piccolo-32.png",
-        "128": "/PNG/128/music (Case Conflict)/piccolo-128.png",
+        "128": "/PNG/128/Music/piccolo-128.png",
         "256": "/PNG/256/Music/piccolo-256.png",
         "36": "/PNG/36/Music/piccolo-36.png",
         "512": "/PNG/512/Music/piccolo-512.png",
@@ -11647,7 +11596,7 @@
       "eps": "/EPS/Transport/pickup_truck.eps",
       "png": {
         "32": "/PNG/32/Transport/pickup_truck-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/pickup_truck-128.png",
+        "128": "/PNG/128/Transport/pickup_truck-128.png",
         "256": "/PNG/256/Transport/pickup_truck-256.png",
         "36": "/PNG/36/Transport/pickup_truck-36.png",
         "512": "/PNG/512/Transport/pickup_truck-512.png",
@@ -11687,7 +11636,7 @@
       "eps": "/EPS/Very_Basic/picture.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/picture-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/picture-128.png",
+        "128": "/PNG/128/Very_Basic/picture-128.png",
         "256": "/PNG/256/Very_Basic/picture-256.png",
         "36": "/PNG/36/Very_Basic/picture-36.png",
         "512": "/PNG/512/Very_Basic/picture-512.png",
@@ -11805,7 +11754,7 @@
       "eps": "/EPS/Sports/ping_pong.eps",
       "png": {
         "32": "/PNG/32/Sports/ping_pong-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/ping_pong-128.png",
+        "128": "/PNG/128/Sports/ping_pong-128.png",
         "256": "/PNG/256/Sports/ping_pong-256.png",
         "36": "/PNG/36/Sports/ping_pong-36.png",
         "512": "/PNG/512/Sports/ping_pong-512.png",
@@ -11844,7 +11793,7 @@
       "eps": "/EPS/Media_Controls/play.eps",
       "png": {
         "32": "/PNG/32/Media_Controls/play-32.png",
-        "128": "/PNG/128/media_controls (Case Conflict)/play-128.png",
+        "128": "/PNG/128/Media_Controls/play-128.png",
         "256": "/PNG/256/Media_Controls/play-256.png",
         "36": "/PNG/36/Media_Controls/play-36.png",
         "512": "/PNG/512/Media_Controls/play-512.png",
@@ -11870,7 +11819,6 @@
       "eps": "/EPS/Objects/plugin.eps",
       "png": {
         "32": "/PNG/32/Objects/plugin-32.png",
-        "128": "/PNG/128/objects (Case Conflict (17))/plugin-128.png",
         "256": "/PNG/256/Objects/plugin-256.png",
         "36": "/PNG/36/Objects/plugin-36.png",
         "512": "/PNG/512/Objects/plugin-512.png",
@@ -11906,7 +11854,7 @@
       "eps": "/EPS/Very_Basic/plus.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/plus-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/plus-128.png",
+        "128": "/PNG/128/Very_Basic/plus-128.png",
         "256": "/PNG/256/Very_Basic/plus-256.png",
         "36": "/PNG/36/Very_Basic/plus-36.png",
         "512": "/PNG/512/Very_Basic/plus-512.png",
@@ -11932,7 +11880,6 @@
       "eps": "/EPS/Objects/pocket_lantern.eps",
       "png": {
         "32": "/PNG/32/Objects/pocket_lantern-32.png",
-        "128": "/PNG/128/objects (Case Conflict)/pocket_lantern-128.png",
         "256": "/PNG/256/Objects/pocket_lantern-256.png",
         "36": "/PNG/36/Objects/pocket_lantern-36.png",
         "512": "/PNG/512/Objects/pocket_lantern-512.png",
@@ -11970,7 +11917,7 @@
       "eps": "/EPS/Maps/point_objects.eps",
       "png": {
         "32": "/PNG/32/Maps/point_objects-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/point_objects-128.png",
+        "128": "/PNG/128/Maps/point_objects-128.png",
         "256": "/PNG/256/Maps/point_objects-256.png",
         "36": "/PNG/36/Maps/point_objects-36.png",
         "512": "/PNG/512/Maps/point_objects-512.png",
@@ -11996,7 +11943,7 @@
       "eps": "/EPS/Industry/poison.eps",
       "png": {
         "32": "/PNG/32/Industry/poison-32.png",
-        "128": "/PNG/128/industry (Case Conflict)/poison-128.png",
+        "128": "/PNG/128/Industry/poison-128.png",
         "256": "/PNG/256/Industry/poison-256.png",
         "36": "/PNG/36/Industry/poison-36.png",
         "512": "/PNG/512/Industry/poison-512.png",
@@ -12022,7 +11969,7 @@
       "eps": "/EPS/Maps/polygon.eps",
       "png": {
         "32": "/PNG/32/Maps/polygon-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/polygon-128.png",
+        "128": "/PNG/128/Maps/polygon-128.png",
         "256": "/PNG/256/Maps/polygon-256.png",
         "36": "/PNG/36/Maps/polygon-36.png",
         "512": "/PNG/512/Maps/polygon-512.png",
@@ -12055,7 +12002,7 @@
       "eps": "/EPS/Maps/polyline.eps",
       "png": {
         "32": "/PNG/32/Maps/polyline-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/polyline-128.png",
+        "128": "/PNG/128/Maps/polyline-128.png",
         "256": "/PNG/256/Maps/polyline-256.png",
         "36": "/PNG/36/Maps/polyline-36.png",
         "512": "/PNG/512/Maps/polyline-512.png",
@@ -12081,7 +12028,7 @@
       "eps": "/EPS/Messaging/poo.eps",
       "png": {
         "32": "/PNG/32/Messaging/poo-32.png",
-        "128": "/PNG/128/messaging (Case Conflict)/poo-128.png",
+        "128": "/PNG/128/Messaging/poo-128.png",
         "256": "/PNG/256/Messaging/poo-256.png",
         "36": "/PNG/36/Messaging/poo-36.png",
         "512": "/PNG/512/Messaging/poo-512.png",
@@ -12179,7 +12126,6 @@
       "eps": "/EPS/Industry/potentiometer.eps",
       "png": {
         "32": "/PNG/32/Industry/potentiometer-32.png",
-        "128": "/PNG/128/industry (Case Conflict)/potentiometer-128.png",
         "256": "/PNG/256/Industry/potentiometer-256.png",
         "36": "/PNG/36/Industry/potentiometer-36.png",
         "512": "/PNG/512/Industry/potentiometer-512.png",
@@ -12231,7 +12177,7 @@
       "eps": "/EPS/Sports/prelum.eps",
       "png": {
         "32": "/PNG/32/Sports/prelum-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/prelum-128.png",
+        "128": "/PNG/128/Sports/prelum-128.png",
         "256": "/PNG/256/Sports/prelum-256.png",
         "36": "/PNG/36/Sports/prelum-36.png",
         "512": "/PNG/512/Sports/prelum-512.png",
@@ -12333,7 +12279,6 @@
       "eps": "/EPS/Shopping/price_tag.eps",
       "png": {
         "32": "/PNG/32/Shopping/price_tag-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (41))/price_tag-128.png",
         "256": "/PNG/256/Shopping/price_tag-256.png",
         "36": "/PNG/36/Shopping/price_tag-36.png",
         "512": "/PNG/512/Shopping/price_tag-512.png",
@@ -12416,7 +12361,7 @@
       "eps": "/EPS/Very_Basic/print.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/print-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/print-128.png",
+        "128": "/PNG/128/Very_Basic/print-128.png",
         "256": "/PNG/256/Very_Basic/print-256.png",
         "36": "/PNG/36/Very_Basic/print-36.png",
         "512": "/PNG/512/Very_Basic/print-512.png",
@@ -12442,7 +12387,7 @@
       "eps": "/EPS/Industry/processor.eps",
       "png": {
         "32": "/PNG/32/Industry/processor-32.png",
-        "128": "/PNG/128/industry (Case Conflict (25))/processor-128.png",
+        "128": "/PNG/128/Industry/processor-128.png",
         "256": "/PNG/256/Industry/processor-256.png",
         "36": "/PNG/36/Industry/processor-36.png",
         "512": "/PNG/512/Industry/processor-512.png",
@@ -12508,7 +12453,7 @@
       "eps": "/EPS/Sports/pulley.eps",
       "png": {
         "32": "/PNG/32/Sports/pulley-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/pulley-128.png",
+        "128": "/PNG/128/Sports/pulley-128.png",
         "256": "/PNG/256/Sports/pulley-256.png",
         "36": "/PNG/36/Sports/pulley-36.png",
         "512": "/PNG/512/Sports/pulley-512.png",
@@ -12546,7 +12491,7 @@
       "eps": "/EPS/Shopping/purse.eps",
       "png": {
         "32": "/PNG/32/Shopping/purse-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (13))/purse-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/purse-128.png",
         "256": "/PNG/256/Shopping/purse-256.png",
         "36": "/PNG/36/Shopping/purse-36.png",
         "512": "/PNG/512/Shopping/purse-512.png",
@@ -12580,7 +12525,7 @@
       "eps": "/EPS/Very_Basic/puzzle.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/puzzle-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/puzzle-128.png",
+        "128": "/PNG/128/Very_Basic/puzzle-128.png",
         "256": "/PNG/256/Very_Basic/puzzle-256.png",
         "36": "/PNG/36/Very_Basic/puzzle-36.png",
         "512": "/PNG/512/Very_Basic/puzzle-512.png",
@@ -12618,7 +12563,6 @@
       "eps": "/EPS/Shopping/qr_code.eps",
       "png": {
         "32": "/PNG/32/Shopping/qr_code-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (41))/qr_code-128.png",
         "256": "/PNG/256/Shopping/qr_code-256.png",
         "36": "/PNG/36/Shopping/qr_code-36.png",
         "512": "/PNG/512/Shopping/qr_code-512.png",
@@ -12688,7 +12632,7 @@
       "eps": "/EPS/Sports/quickdraw.eps",
       "png": {
         "32": "/PNG/32/Sports/quickdraw-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/quickdraw-128.png",
+        "128": "/PNG/128/Sports/quickdraw-128.png",
         "256": "/PNG/256/Sports/quickdraw-256.png",
         "36": "/PNG/36/Sports/quickdraw-36.png",
         "512": "/PNG/512/Sports/quickdraw-512.png",
@@ -12791,7 +12735,6 @@
       "eps": "/EPS/Industry/rack.eps",
       "png": {
         "32": "/PNG/32/Industry/rack-32.png",
-        "128": "/PNG/128/industry (Case Conflict (6))/rack-128.png",
         "256": "/PNG/256/Industry/rack-256.png",
         "36": "/PNG/36/Industry/rack-36.png",
         "512": "/PNG/512/Industry/rack-512.png",
@@ -12826,7 +12769,7 @@
       "eps": "/EPS/Music/radio1.eps",
       "png": {
         "32": "/PNG/32/Music/radio1-32.png",
-        "128": "/PNG/128/music (Case Conflict)/radio1-128.png",
+        "128": "/PNG/128/Music/radio1-128.png",
         "256": "/PNG/256/Music/radio1-256.png",
         "36": "/PNG/36/Music/radio1-36.png",
         "512": "/PNG/512/Music/radio1-512.png",
@@ -12861,7 +12804,7 @@
       "eps": "/EPS/Music/radio2.eps",
       "png": {
         "32": "/PNG/32/Music/radio2-32.png",
-        "128": "/PNG/128/music (Case Conflict)/radio2-128.png",
+        "128": "/PNG/128/Music/radio2-128.png",
         "256": "/PNG/256/Music/radio2-256.png",
         "36": "/PNG/36/Music/radio2-36.png",
         "512": "/PNG/512/Music/radio2-512.png",
@@ -12887,7 +12830,7 @@
       "eps": "/EPS/Industry/radioactive.eps",
       "png": {
         "32": "/PNG/32/Industry/radioactive-32.png",
-        "128": "/PNG/128/industry (Case Conflict (35))/radioactive-128.png",
+        "128": "/PNG/128/Industry/radioactive-128.png",
         "256": "/PNG/256/Industry/radioactive-256.png",
         "36": "/PNG/36/Industry/radioactive-36.png",
         "512": "/PNG/512/Industry/radioactive-512.png",
@@ -12913,7 +12856,7 @@
       "eps": "/EPS/Industry/radio_tower.eps",
       "png": {
         "32": "/PNG/32/Industry/radio_tower-32.png",
-        "128": "/PNG/128/industry (Case Conflict (12))/radio_tower-128.png",
+        "128": "/PNG/128/Industry/radio_tower-128.png",
         "256": "/PNG/256/Industry/radio_tower-256.png",
         "36": "/PNG/36/Industry/radio_tower-36.png",
         "512": "/PNG/512/Industry/radio_tower-512.png",
@@ -12958,7 +12901,7 @@
       "eps": "/EPS/Transport/railroad_car.eps",
       "png": {
         "32": "/PNG/32/Transport/railroad_car-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/railroad_car-128.png",
+        "128": "/PNG/128/Transport/railroad_car-128.png",
         "256": "/PNG/256/Transport/railroad_car-256.png",
         "36": "/PNG/36/Transport/railroad_car-36.png",
         "512": "/PNG/512/Transport/railroad_car-512.png",
@@ -12993,7 +12936,7 @@
       "eps": "/EPS/Very_Basic/rating.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/rating-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/rating-128.png",
+        "128": "/PNG/128/Very_Basic/rating-128.png",
         "256": "/PNG/256/Very_Basic/rating-256.png",
         "36": "/PNG/36/Very_Basic/rating-36.png",
         "512": "/PNG/512/Very_Basic/rating-512.png",
@@ -13020,7 +12963,7 @@
       "eps": "/EPS/Media_Controls/record.eps",
       "png": {
         "32": "/PNG/32/Media_Controls/record-32.png",
-        "128": "/PNG/128/media_controls (Case Conflict)/record-128.png",
+        "128": "/PNG/128/Media_Controls/record-128.png",
         "256": "/PNG/256/Media_Controls/record-256.png",
         "36": "/PNG/36/Media_Controls/record-36.png",
         "512": "/PNG/512/Media_Controls/record-512.png",
@@ -13046,7 +12989,6 @@
       "eps": "/EPS/Industry/recycling.eps",
       "png": {
         "32": "/PNG/32/Industry/recycling-32.png",
-        "128": "/PNG/128/industry (Case Conflict)/recycling-128.png",
         "256": "/PNG/256/Industry/recycling-256.png",
         "36": "/PNG/36/Industry/recycling-36.png",
         "512": "/PNG/512/Industry/recycling-512.png",
@@ -13082,7 +13024,7 @@
       "eps": "/EPS/Very_Basic/redo.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/redo-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/redo-128.png",
+        "128": "/PNG/128/Very_Basic/redo-128.png",
         "256": "/PNG/256/Very_Basic/redo-256.png",
         "36": "/PNG/36/Very_Basic/redo-36.png",
         "512": "/PNG/512/Very_Basic/redo-512.png",
@@ -13108,7 +13050,7 @@
       "eps": "/EPS/Sports/regular_biking.eps",
       "png": {
         "32": "/PNG/32/Sports/regular_biking-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/regular_biking-128.png",
+        "128": "/PNG/128/Sports/regular_biking-128.png",
         "256": "/PNG/256/Sports/regular_biking-256.png",
         "36": "/PNG/36/Sports/regular_biking-36.png",
         "512": "/PNG/512/Sports/regular_biking-512.png",
@@ -13134,7 +13076,7 @@
       "eps": "/EPS/Industry/relay.eps",
       "png": {
         "32": "/PNG/32/Industry/relay-32.png",
-        "128": "/PNG/128/industry (Case Conflict (60))/relay-128.png",
+        "128": "/PNG/128/Industry/relay-128.png",
         "256": "/PNG/256/Industry/relay-256.png",
         "36": "/PNG/36/Industry/relay-36.png",
         "512": "/PNG/512/Industry/relay-512.png",
@@ -13276,7 +13218,7 @@
       "eps": "/EPS/Media_Controls/repeat.eps",
       "png": {
         "32": "/PNG/32/Media_Controls/repeat-32.png",
-        "128": "/PNG/128/media_controls (Case Conflict)/repeat-128.png",
+        "128": "/PNG/128/Media_Controls/repeat-128.png",
         "256": "/PNG/256/Media_Controls/repeat-256.png",
         "36": "/PNG/36/Media_Controls/repeat-36.png",
         "512": "/PNG/512/Media_Controls/repeat-512.png",
@@ -13302,7 +13244,7 @@
       "eps": "/EPS/Industry/research.eps",
       "png": {
         "32": "/PNG/32/Industry/research-32.png",
-        "128": "/PNG/128/industry (Case Conflict (48))/research-128.png",
+        "128": "/PNG/128/Industry/research-128.png",
         "256": "/PNG/256/Industry/research-256.png",
         "36": "/PNG/36/Industry/research-36.png",
         "512": "/PNG/512/Industry/research-512.png",
@@ -13328,7 +13270,7 @@
       "eps": "/EPS/Industry/resistor.eps",
       "png": {
         "32": "/PNG/32/Industry/resistor-32.png",
-        "128": "/PNG/128/industry (Case Conflict (38))/resistor-128.png",
+        "128": "/PNG/128/Industry/resistor-128.png",
         "256": "/PNG/256/Industry/resistor-256.png",
         "36": "/PNG/36/Industry/resistor-36.png",
         "512": "/PNG/512/Industry/resistor-512.png",
@@ -13425,7 +13367,7 @@
       "eps": "/EPS/Media_Controls/rewind.eps",
       "png": {
         "32": "/PNG/32/Media_Controls/rewind-32.png",
-        "128": "/PNG/128/media_controls (Case Conflict)/rewind-128.png",
+        "128": "/PNG/128/Media_Controls/rewind-128.png",
         "256": "/PNG/256/Media_Controls/rewind-256.png",
         "36": "/PNG/36/Media_Controls/rewind-36.png",
         "512": "/PNG/512/Media_Controls/rewind-512.png",
@@ -13451,7 +13393,7 @@
       "eps": "/EPS/Industry/rfid_sensor.eps",
       "png": {
         "32": "/PNG/32/Industry/rfid_sensor-32.png",
-        "128": "/PNG/128/industry (Case Conflict (13))/rfid_sensor-128.png",
+        "128": "/PNG/128/Industry/rfid_sensor-128.png",
         "256": "/PNG/256/Industry/rfid_sensor-256.png",
         "36": "/PNG/36/Industry/rfid_sensor-36.png",
         "512": "/PNG/512/Industry/rfid_sensor-512.png",
@@ -13477,7 +13419,6 @@
       "eps": "/EPS/Industry/rfid_signal.eps",
       "png": {
         "32": "/PNG/32/Industry/rfid_signal-32.png",
-        "128": "/PNG/128/industry (Case Conflict (47))/rfid_signal-128.png",
         "256": "/PNG/256/Industry/rfid_signal-256.png",
         "36": "/PNG/36/Industry/rfid_signal-36.png",
         "512": "/PNG/512/Industry/rfid_signal-512.png",
@@ -13503,7 +13444,7 @@
       "eps": "/EPS/Industry/rfid_tag.eps",
       "png": {
         "32": "/PNG/32/Industry/rfid_tag-32.png",
-        "128": "/PNG/128/industry (Case Conflict (34))/rfid_tag-128.png",
+        "128": "/PNG/128/Industry/rfid_tag-128.png",
         "256": "/PNG/256/Industry/rfid_tag-256.png",
         "36": "/PNG/36/Industry/rfid_tag-36.png",
         "512": "/PNG/512/Industry/rfid_tag-512.png",
@@ -13680,7 +13621,7 @@
       "eps": "/EPS/Maps/road.eps",
       "png": {
         "32": "/PNG/32/Maps/road-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/road-128.png",
+        "128": "/PNG/128/Maps/road-128.png",
         "256": "/PNG/256/Maps/road-256.png",
         "36": "/PNG/36/Maps/road-36.png",
         "512": "/PNG/512/Maps/road-512.png",
@@ -13706,7 +13647,6 @@
       "eps": "/EPS/Industry/robot.eps",
       "png": {
         "32": "/PNG/32/Industry/robot-32.png",
-        "128": "/PNG/128/industry (Case Conflict (29))/robot-128.png",
         "256": "/PNG/256/Industry/robot-256.png",
         "36": "/PNG/36/Industry/robot-36.png",
         "512": "/PNG/512/Industry/robot-512.png",
@@ -13732,7 +13672,7 @@
       "eps": "/EPS/Transport/rocket.eps",
       "png": {
         "32": "/PNG/32/Transport/rocket-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/rocket-128.png",
+        "128": "/PNG/128/Transport/rocket-128.png",
         "256": "/PNG/256/Transport/rocket-256.png",
         "36": "/PNG/36/Transport/rocket-36.png",
         "512": "/PNG/512/Transport/rocket-512.png",
@@ -13800,7 +13740,7 @@
       "eps": "/EPS/Sports/rope.eps",
       "png": {
         "32": "/PNG/32/Sports/rope-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/rope-128.png",
+        "128": "/PNG/128/Sports/rope-128.png",
         "256": "/PNG/256/Sports/rope-256.png",
         "36": "/PNG/36/Sports/rope-36.png",
         "512": "/PNG/512/Sports/rope-512.png",
@@ -13887,7 +13827,7 @@
       "eps": "/EPS/Sports/rugby.eps",
       "png": {
         "32": "/PNG/32/Sports/rugby-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/rugby-128.png",
+        "128": "/PNG/128/Sports/rugby-128.png",
         "256": "/PNG/256/Sports/rugby-256.png",
         "36": "/PNG/36/Sports/rugby-36.png",
         "512": "/PNG/512/Sports/rugby-512.png",
@@ -13913,7 +13853,7 @@
       "eps": "/EPS/Sports/running.eps",
       "png": {
         "32": "/PNG/32/Sports/running-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/running-128.png",
+        "128": "/PNG/128/Sports/running-128.png",
         "256": "/PNG/256/Sports/running-256.png",
         "36": "/PNG/36/Sports/running-36.png",
         "512": "/PNG/512/Sports/running-512.png",
@@ -13939,7 +13879,7 @@
       "eps": "/EPS/Sports/running_man.eps",
       "png": {
         "32": "/PNG/32/Sports/running_man-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/running_man-128.png",
+        "128": "/PNG/128/Sports/running_man-128.png",
         "256": "/PNG/256/Sports/running_man-256.png",
         "36": "/PNG/36/Sports/running_man-36.png",
         "512": "/PNG/512/Sports/running_man-512.png",
@@ -14039,7 +13979,7 @@
       "eps": "/EPS/Shopping/safe.eps",
       "png": {
         "32": "/PNG/32/Shopping/safe-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (40))/safe-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/safe-128.png",
         "256": "/PNG/256/Shopping/safe-256.png",
         "36": "/PNG/36/Shopping/safe-36.png",
         "512": "/PNG/512/Shopping/safe-512.png",
@@ -14071,7 +14011,7 @@
       "eps": "/EPS/Shopping/sale.eps",
       "png": {
         "32": "/PNG/32/Shopping/sale-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (25))/sale-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/sale-128.png",
         "256": "/PNG/256/Shopping/sale-256.png",
         "36": "/PNG/36/Shopping/sale-36.png",
         "512": "/PNG/512/Shopping/sale-512.png",
@@ -14097,7 +14037,6 @@
       "eps": "/EPS/Shopping/sale2.eps",
       "png": {
         "32": "/PNG/32/Shopping/sale2-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/sale2-128.png",
         "256": "/PNG/256/Shopping/sale2-256.png",
         "36": "/PNG/36/Shopping/sale2-36.png",
         "512": "/PNG/512/Shopping/sale2-512.png",
@@ -14123,7 +14062,7 @@
       "eps": "/EPS/Objects/sandglass.eps",
       "png": {
         "32": "/PNG/32/Objects/sandglass-32.png",
-        "128": "/PNG/128/objects (Case Conflict (7))/sandglass-128.png",
+        "128": "/PNG/128/objects (Case Conflict)/sandglass-128.png",
         "256": "/PNG/256/Objects/sandglass-256.png",
         "36": "/PNG/36/Objects/sandglass-36.png",
         "512": "/PNG/512/Objects/sandglass-512.png",
@@ -14181,7 +14120,7 @@
       "eps": "/EPS/Maps/satellite2.eps",
       "png": {
         "32": "/PNG/32/Maps/satellite2-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/satellite2-128.png",
+        "128": "/PNG/128/Maps/satellite2-128.png",
         "256": "/PNG/256/Maps/satellite2-256.png",
         "36": "/PNG/36/Maps/satellite2-36.png",
         "512": "/PNG/512/Maps/satellite2-512.png",
@@ -14211,7 +14150,7 @@
       "eps": "/EPS/Maps/satellite2_sending_signal.eps",
       "png": {
         "32": "/PNG/32/Maps/satellite2_sending_signal-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/satellite2_sending_signal-128.png",
+        "128": "/PNG/128/Maps/satellite2_sending_signal-128.png",
         "256": "/PNG/256/Maps/satellite2_sending_signal-256.png",
         "36": "/PNG/36/Maps/satellite2_sending_signal-36.png",
         "512": "/PNG/512/Maps/satellite2_sending_signal-512.png",
@@ -14242,7 +14181,7 @@
       "eps": "/EPS/Maps/satellites.eps",
       "png": {
         "32": "/PNG/32/Maps/satellites-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/satellites-128.png",
+        "128": "/PNG/128/Maps/satellites-128.png",
         "256": "/PNG/256/Maps/satellites-256.png",
         "36": "/PNG/36/Maps/satellites-36.png",
         "512": "/PNG/512/Maps/satellites-512.png",
@@ -14273,7 +14212,7 @@
       "eps": "/EPS/Maps/satellite_in_orbit.eps",
       "png": {
         "32": "/PNG/32/Maps/satellite_in_orbit-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/satellite_in_orbit-128.png",
+        "128": "/PNG/128/Maps/satellite_in_orbit-128.png",
         "256": "/PNG/256/Maps/satellite_in_orbit-256.png",
         "36": "/PNG/36/Maps/satellite_in_orbit-36.png",
         "512": "/PNG/512/Maps/satellite_in_orbit-512.png",
@@ -14304,7 +14243,7 @@
       "eps": "/EPS/Music/saxophone.eps",
       "png": {
         "32": "/PNG/32/Music/saxophone-32.png",
-        "128": "/PNG/128/music (Case Conflict)/saxophone-128.png",
+        "128": "/PNG/128/Music/saxophone-128.png",
         "256": "/PNG/256/Music/saxophone-256.png",
         "36": "/PNG/36/Music/saxophone-36.png",
         "512": "/PNG/512/Music/saxophone-512.png",
@@ -14330,7 +14269,7 @@
       "eps": "/EPS/Objects/scale.eps",
       "png": {
         "32": "/PNG/32/Objects/scale-32.png",
-        "128": "/PNG/128/objects (Case Conflict (16))/scale-128.png",
+        "128": "/PNG/128/objects (Case Conflict)/scale-128.png",
         "256": "/PNG/256/Objects/scale-256.png",
         "36": "/PNG/36/Objects/scale-36.png",
         "512": "/PNG/512/Objects/scale-512.png",
@@ -14356,7 +14295,6 @@
       "eps": "/EPS/Objects/scales.eps",
       "png": {
         "32": "/PNG/32/Objects/scales-32.png",
-        "128": "/PNG/128/objects (Case Conflict)/scales-128.png",
         "256": "/PNG/256/Objects/scales-256.png",
         "36": "/PNG/36/Objects/scales-36.png",
         "512": "/PNG/512/Objects/scales-512.png",
@@ -14464,7 +14402,7 @@
       "eps": "/EPS/Transport/scooter.eps",
       "png": {
         "32": "/PNG/32/Transport/scooter-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/scooter-128.png",
+        "128": "/PNG/128/Transport/scooter-128.png",
         "256": "/PNG/256/Transport/scooter-256.png",
         "36": "/PNG/36/Transport/scooter-36.png",
         "512": "/PNG/512/Transport/scooter-512.png",
@@ -14510,7 +14448,7 @@
       "eps": "/EPS/Very_Basic/search.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/search-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/search-128.png",
+        "128": "/PNG/128/Very_Basic/search-128.png",
         "256": "/PNG/256/Very_Basic/search-256.png",
         "36": "/PNG/36/Very_Basic/search-36.png",
         "512": "/PNG/512/Very_Basic/search-512.png",
@@ -14536,7 +14474,7 @@
       "eps": "/EPS/Transport/sedan.eps",
       "png": {
         "32": "/PNG/32/Transport/sedan-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/sedan-128.png",
+        "128": "/PNG/128/Transport/sedan-128.png",
         "256": "/PNG/256/Transport/sedan-256.png",
         "36": "/PNG/36/Transport/sedan-36.png",
         "512": "/PNG/512/Transport/sedan-512.png",
@@ -14581,7 +14519,7 @@
       "eps": "/EPS/Shopping/sell.eps",
       "png": {
         "32": "/PNG/32/Shopping/sell-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (26))/sell-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/sell-128.png",
         "256": "/PNG/256/Shopping/sell-256.png",
         "36": "/PNG/36/Shopping/sell-36.png",
         "512": "/PNG/512/Shopping/sell-512.png",
@@ -14607,7 +14545,7 @@
       "eps": "/EPS/Industry/sensor.eps",
       "png": {
         "32": "/PNG/32/Industry/sensor-32.png",
-        "128": "/PNG/128/industry (Case Conflict (19))/sensor-128.png",
+        "128": "/PNG/128/Industry/sensor-128.png",
         "256": "/PNG/256/Industry/sensor-256.png",
         "36": "/PNG/36/Industry/sensor-36.png",
         "512": "/PNG/512/Industry/sensor-512.png",
@@ -14667,7 +14605,7 @@
       "eps": "/EPS/Very_Basic/settings.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/settings-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/settings-128.png",
+        "128": "/PNG/128/Very_Basic/settings-128.png",
         "256": "/PNG/256/Very_Basic/settings-256.png",
         "36": "/PNG/36/Very_Basic/settings-36.png",
         "512": "/PNG/512/Very_Basic/settings-512.png",
@@ -14715,7 +14653,7 @@
       "eps": "/EPS/Very_Basic/settings2.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/settings2-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/settings2-128.png",
+        "128": "/PNG/128/Very_Basic/settings2-128.png",
         "256": "/PNG/256/Very_Basic/settings2-256.png",
         "36": "/PNG/36/Very_Basic/settings2-36.png",
         "512": "/PNG/512/Very_Basic/settings2-512.png",
@@ -14786,7 +14724,7 @@
       "eps": "/EPS/Very_Basic/share.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/share-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/share-128.png",
+        "128": "/PNG/128/Very_Basic/share-128.png",
         "256": "/PNG/256/Very_Basic/share-256.png",
         "36": "/PNG/36/Very_Basic/share-36.png",
         "512": "/PNG/512/Very_Basic/share-512.png",
@@ -15007,7 +14945,7 @@
       "eps": "/EPS/Shopping/shopping_bag.eps",
       "png": {
         "32": "/PNG/32/Shopping/shopping_bag-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (2))/shopping_bag-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/shopping_bag-128.png",
         "256": "/PNG/256/Shopping/shopping_bag-256.png",
         "36": "/PNG/36/Shopping/shopping_bag-36.png",
         "512": "/PNG/512/Shopping/shopping_bag-512.png",
@@ -15036,7 +14974,7 @@
       "eps": "/EPS/Shopping/shopping_basket.eps",
       "png": {
         "32": "/PNG/32/Shopping/shopping_basket-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (31))/shopping_basket-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/shopping_basket-128.png",
         "256": "/PNG/256/Shopping/shopping_basket-256.png",
         "36": "/PNG/36/Shopping/shopping_basket-36.png",
         "512": "/PNG/512/Shopping/shopping_basket-512.png",
@@ -15106,7 +15044,6 @@
       "eps": "/EPS/Shopping/shopping_cart_filled.eps",
       "png": {
         "32": "/PNG/32/Shopping/shopping_cart_filled-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/shopping_cart_filled-128.png",
         "256": "/PNG/256/Shopping/shopping_cart_filled-256.png",
         "36": "/PNG/36/Shopping/shopping_cart_filled-36.png",
         "512": "/PNG/512/Shopping/shopping_cart_filled-512.png",
@@ -15158,7 +15095,7 @@
       "eps": "/EPS/Sports/shoulders.eps",
       "png": {
         "32": "/PNG/32/Sports/shoulders-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/shoulders-128.png",
+        "128": "/PNG/128/Sports/shoulders-128.png",
         "256": "/PNG/256/Sports/shoulders-256.png",
         "36": "/PNG/36/Sports/shoulders-36.png",
         "512": "/PNG/512/Sports/shoulders-512.png",
@@ -15184,7 +15121,7 @@
       "eps": "/EPS/Media_Controls/shuffle.eps",
       "png": {
         "32": "/PNG/32/Media_Controls/shuffle-32.png",
-        "128": "/PNG/128/media_controls (Case Conflict)/shuffle-128.png",
+        "128": "/PNG/128/Media_Controls/shuffle-128.png",
         "256": "/PNG/256/Media_Controls/shuffle-256.png",
         "36": "/PNG/36/Media_Controls/shuffle-36.png",
         "512": "/PNG/512/Media_Controls/shuffle-512.png",
@@ -15249,7 +15186,7 @@
       "eps": "/EPS/Sports/shunt.eps",
       "png": {
         "32": "/PNG/32/Sports/shunt-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/shunt-128.png",
+        "128": "/PNG/128/Sports/shunt-128.png",
         "256": "/PNG/256/Sports/shunt-256.png",
         "36": "/PNG/36/Sports/shunt-36.png",
         "512": "/PNG/512/Sports/shunt-512.png",
@@ -15280,7 +15217,7 @@
       "eps": "/EPS/Music/side_drum.eps",
       "png": {
         "32": "/PNG/32/Music/side_drum-32.png",
-        "128": "/PNG/128/music (Case Conflict)/side_drum-128.png",
+        "128": "/PNG/128/Music/side_drum-128.png",
         "256": "/PNG/256/Music/side_drum-256.png",
         "36": "/PNG/36/Music/side_drum-36.png",
         "512": "/PNG/512/Music/side_drum-512.png",
@@ -15306,7 +15243,7 @@
       "eps": "/EPS/Objects/signal_horn.eps",
       "png": {
         "32": "/PNG/32/Objects/signal_horn-32.png",
-        "128": "/PNG/128/objects (Case Conflict (15))/signal_horn-128.png",
+        "128": "/PNG/128/Objects/signal_horn-128.png",
         "256": "/PNG/256/Objects/signal_horn-256.png",
         "36": "/PNG/36/Objects/signal_horn-36.png",
         "512": "/PNG/512/Objects/signal_horn-512.png",
@@ -15340,7 +15277,7 @@
       "eps": "/EPS/Maps/signpost.eps",
       "png": {
         "32": "/PNG/32/Maps/signpost-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/signpost-128.png",
+        "128": "/PNG/128/Maps/signpost-128.png",
         "256": "/PNG/256/Maps/signpost-256.png",
         "36": "/PNG/36/Maps/signpost-36.png",
         "512": "/PNG/512/Maps/signpost-512.png",
@@ -15375,7 +15312,7 @@
       "eps": "/EPS/Very_Basic/sinchronize.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/sinchronize-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/sinchronize-128.png",
+        "128": "/PNG/128/Very_Basic/sinchronize-128.png",
         "256": "/PNG/256/Very_Basic/sinchronize-256.png",
         "36": "/PNG/36/Very_Basic/sinchronize-36.png",
         "512": "/PNG/512/Very_Basic/sinchronize-512.png",
@@ -15401,7 +15338,7 @@
       "eps": "/EPS/Sports/skidiving_gear.eps",
       "png": {
         "32": "/PNG/32/Sports/skidiving_gear-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/skidiving_gear-128.png",
+        "128": "/PNG/128/Sports/skidiving_gear-128.png",
         "256": "/PNG/256/Sports/skidiving_gear-256.png",
         "36": "/PNG/36/Sports/skidiving_gear-36.png",
         "512": "/PNG/512/Sports/skidiving_gear-512.png",
@@ -15427,7 +15364,7 @@
       "eps": "/EPS/Sports/skiing.eps",
       "png": {
         "32": "/PNG/32/Sports/skiing-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/skiing-128.png",
+        "128": "/PNG/128/Sports/skiing-128.png",
         "256": "/PNG/256/Sports/skiing-256.png",
         "36": "/PNG/36/Sports/skiing-36.png",
         "512": "/PNG/512/Sports/skiing-512.png",
@@ -15454,7 +15391,7 @@
       "eps": "/EPS/Media_Controls/skip_to_start.eps",
       "png": {
         "32": "/PNG/32/Media_Controls/skip_to_start-32.png",
-        "128": "/PNG/128/media_controls (Case Conflict)/skip_to_start-128.png",
+        "128": "/PNG/128/Media_Controls/skip_to_start-128.png",
         "256": "/PNG/256/Media_Controls/skip_to_start-256.png",
         "36": "/PNG/36/Media_Controls/skip_to_start-36.png",
         "512": "/PNG/512/Media_Controls/skip_to_start-512.png",
@@ -15480,7 +15417,7 @@
       "eps": "/EPS/Sports/skydiving.eps",
       "png": {
         "32": "/PNG/32/Sports/skydiving-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/skydiving-128.png",
+        "128": "/PNG/128/Sports/skydiving-128.png",
         "256": "/PNG/256/Sports/skydiving-256.png",
         "36": "/PNG/36/Sports/skydiving-36.png",
         "512": "/PNG/512/Sports/skydiving-512.png",
@@ -15648,7 +15585,6 @@
       "eps": "/EPS/Objects/smoking.eps",
       "png": {
         "32": "/PNG/32/Objects/smoking-32.png",
-        "128": "/PNG/128/objects (Case Conflict (9))/smoking-128.png",
         "256": "/PNG/256/Objects/smoking-256.png",
         "36": "/PNG/36/Objects/smoking-36.png",
         "512": "/PNG/512/Objects/smoking-512.png",
@@ -15785,7 +15721,6 @@
       "eps": "/EPS/Objects/software_box.eps",
       "png": {
         "32": "/PNG/32/Objects/software_box-32.png",
-        "128": "/PNG/128/objects (Case Conflict (13))/software_box-128.png",
         "256": "/PNG/256/Objects/software_box-256.png",
         "36": "/PNG/36/Objects/software_box-36.png",
         "512": "/PNG/512/Objects/software_box-512.png",
@@ -15811,7 +15746,7 @@
       "eps": "/EPS/Industry/solar_panel.eps",
       "png": {
         "32": "/PNG/32/Industry/solar_panel-32.png",
-        "128": "/PNG/128/industry (Case Conflict (61))/solar_panel-128.png",
+        "128": "/PNG/128/Industry/solar_panel-128.png",
         "256": "/PNG/256/Industry/solar_panel-256.png",
         "36": "/PNG/36/Industry/solar_panel-36.png",
         "512": "/PNG/512/Industry/solar_panel-512.png",
@@ -15870,7 +15805,7 @@
       "eps": "/EPS/Maps/south_direction.eps",
       "png": {
         "32": "/PNG/32/Maps/south_direction-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/south_direction-128.png",
+        "128": "/PNG/128/Maps/south_direction-128.png",
         "256": "/PNG/256/Maps/south_direction-256.png",
         "36": "/PNG/36/Maps/south_direction-36.png",
         "512": "/PNG/512/Maps/south_direction-512.png",
@@ -16120,7 +16055,7 @@
       "eps": "/EPS/Industry/stepper_motor.eps",
       "png": {
         "32": "/PNG/32/Industry/stepper_motor-32.png",
-        "128": "/PNG/128/industry (Case Conflict (58))/stepper_motor-128.png",
+        "128": "/PNG/128/Industry/stepper_motor-128.png",
         "256": "/PNG/256/Industry/stepper_motor-256.png",
         "36": "/PNG/36/Industry/stepper_motor-36.png",
         "512": "/PNG/512/Industry/stepper_motor-512.png",
@@ -16149,7 +16084,7 @@
       "eps": "/EPS/Media_Controls/stop.eps",
       "png": {
         "32": "/PNG/32/Media_Controls/stop-32.png",
-        "128": "/PNG/128/media_controls (Case Conflict)/stop-128.png",
+        "128": "/PNG/128/Media_Controls/stop-128.png",
         "256": "/PNG/256/Media_Controls/stop-256.png",
         "36": "/PNG/36/Media_Controls/stop-36.png",
         "512": "/PNG/512/Media_Controls/stop-512.png",
@@ -16175,7 +16110,7 @@
       "eps": "/EPS/Sports/stopwatch.eps",
       "png": {
         "32": "/PNG/32/Sports/stopwatch-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/stopwatch-128.png",
+        "128": "/PNG/128/Sports/stopwatch-128.png",
         "256": "/PNG/256/Sports/stopwatch-256.png",
         "36": "/PNG/36/Sports/stopwatch-36.png",
         "512": "/PNG/512/Sports/stopwatch-512.png",
@@ -16208,7 +16143,7 @@
       "eps": "/EPS/Maps/street_view.eps",
       "png": {
         "32": "/PNG/32/Maps/street_view-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/street_view-128.png",
+        "128": "/PNG/128/Maps/street_view-128.png",
         "256": "/PNG/256/Maps/street_view-256.png",
         "36": "/PNG/36/Maps/street_view-36.png",
         "512": "/PNG/512/Maps/street_view-512.png",
@@ -16278,7 +16213,7 @@
       "eps": "/EPS/Industry/strikes.eps",
       "png": {
         "32": "/PNG/32/Industry/strikes-32.png",
-        "128": "/PNG/128/industry (Case Conflict (24))/strikes-128.png",
+        "128": "/PNG/128/Industry/strikes-128.png",
         "256": "/PNG/256/Industry/strikes-256.png",
         "36": "/PNG/36/Industry/strikes-36.png",
         "512": "/PNG/512/Industry/strikes-512.png",
@@ -16356,7 +16291,7 @@
       "eps": "/EPS/Transport/suv.eps",
       "png": {
         "32": "/PNG/32/Transport/suv-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/suv-128.png",
+        "128": "/PNG/128/Transport/suv-128.png",
         "256": "/PNG/256/Transport/suv-256.png",
         "36": "/PNG/36/Transport/suv-36.png",
         "512": "/PNG/512/Transport/suv-512.png",
@@ -16382,7 +16317,7 @@
       "eps": "/EPS/Transport/suv2.eps",
       "png": {
         "32": "/PNG/32/Transport/suv2-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/suv2-128.png",
+        "128": "/PNG/128/Transport/suv2-128.png",
         "256": "/PNG/256/Transport/suv2-256.png",
         "36": "/PNG/36/Transport/suv2-36.png",
         "512": "/PNG/512/Transport/suv2-512.png",
@@ -16408,7 +16343,7 @@
       "eps": "/EPS/Sports/swimming.eps",
       "png": {
         "32": "/PNG/32/Sports/swimming-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/swimming-128.png",
+        "128": "/PNG/128/Sports/swimming-128.png",
         "256": "/PNG/256/Sports/swimming-256.png",
         "36": "/PNG/36/Sports/swimming-36.png",
         "512": "/PNG/512/Sports/swimming-512.png",
@@ -16489,7 +16424,6 @@
       "eps": "/EPS/Objects/switch_off.eps",
       "png": {
         "32": "/PNG/32/Objects/switch_off-32.png",
-        "128": "/PNG/128/objects (Case Conflict (10))/switch_off-128.png",
         "256": "/PNG/256/Objects/switch_off-256.png",
         "36": "/PNG/36/Objects/switch_off-36.png",
         "512": "/PNG/512/Objects/switch_off-512.png",
@@ -16515,7 +16449,7 @@
       "eps": "/EPS/Objects/switch_on.eps",
       "png": {
         "32": "/PNG/32/Objects/switch_on-32.png",
-        "128": "/PNG/128/objects (Case Conflict (11))/switch_on-128.png",
+        "128": "/PNG/128/objects (Case Conflict)/switch_on-128.png",
         "256": "/PNG/256/Objects/switch_on-256.png",
         "36": "/PNG/36/Objects/switch_on-36.png",
         "512": "/PNG/512/Objects/switch_on-512.png",
@@ -16580,7 +16514,7 @@
       "eps": "/EPS/Sports/swivel.eps",
       "png": {
         "32": "/PNG/32/Sports/swivel-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/swivel-128.png",
+        "128": "/PNG/128/Sports/swivel-128.png",
         "256": "/PNG/256/Sports/swivel-256.png",
         "36": "/PNG/36/Sports/swivel-36.png",
         "512": "/PNG/512/Sports/swivel-512.png",
@@ -16719,7 +16653,7 @@
       "eps": "/EPS/Transport/taxi.eps",
       "png": {
         "32": "/PNG/32/Transport/taxi-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/taxi-128.png",
+        "128": "/PNG/128/Transport/taxi-128.png",
         "256": "/PNG/256/Transport/taxi-256.png",
         "36": "/PNG/36/Transport/taxi-36.png",
         "512": "/PNG/512/Transport/taxi-512.png",
@@ -16745,7 +16679,6 @@
       "eps": "/EPS/Objects/tear_off_calendar.eps",
       "png": {
         "32": "/PNG/32/Objects/tear_off_calendar-32.png",
-        "128": "/PNG/128/objects (Case Conflict)/tear_off_calendar-128.png",
         "256": "/PNG/256/Objects/tear_off_calendar-256.png",
         "36": "/PNG/36/Objects/tear_off_calendar-36.png",
         "512": "/PNG/512/Objects/tear_off_calendar-512.png",
@@ -16797,7 +16730,7 @@
       "eps": "/EPS/Sports/tennis.eps",
       "png": {
         "32": "/PNG/32/Sports/tennis-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/tennis-128.png",
+        "128": "/PNG/128/Sports/tennis-128.png",
         "256": "/PNG/256/Sports/tennis-256.png",
         "36": "/PNG/36/Sports/tennis-36.png",
         "512": "/PNG/512/Sports/tennis-512.png",
@@ -16849,7 +16782,6 @@
       "eps": "/EPS/Objects/timer.eps",
       "png": {
         "32": "/PNG/32/Objects/timer-32.png",
-        "128": "/PNG/128/objects (Case Conflict)/timer-128.png",
         "256": "/PNG/256/Objects/timer-256.png",
         "36": "/PNG/36/Objects/timer-36.png",
         "512": "/PNG/512/Objects/timer-512.png",
@@ -16915,7 +16847,7 @@
       "eps": "/EPS/Maps/timezone.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone-128.png",
+        "128": "/PNG/128/Maps/timezone-128.png",
         "256": "/PNG/256/Maps/timezone-256.png",
         "36": "/PNG/36/Maps/timezone-36.png",
         "512": "/PNG/512/Maps/timezone-512.png",
@@ -16978,7 +16910,7 @@
       "eps": "/EPS/Maps/timezone-1.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone-1-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone-1-128.png",
+        "128": "/PNG/128/Maps/timezone-1-128.png",
         "256": "/PNG/256/Maps/timezone-1-256.png",
         "36": "/PNG/36/Maps/timezone-1-36.png",
         "512": "/PNG/512/Maps/timezone-1-512.png",
@@ -17023,7 +16955,7 @@
       "eps": "/EPS/Maps/timezone-10.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone-10-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone-10-128.png",
+        "128": "/PNG/128/Maps/timezone-10-128.png",
         "256": "/PNG/256/Maps/timezone-10-256.png",
         "36": "/PNG/36/Maps/timezone-10-36.png",
         "512": "/PNG/512/Maps/timezone-10-512.png",
@@ -17098,7 +17030,7 @@
       "eps": "/EPS/Maps/timezone-11.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone-11-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone-11-128.png",
+        "128": "/PNG/128/Maps/timezone-11-128.png",
         "256": "/PNG/256/Maps/timezone-11-256.png",
         "36": "/PNG/36/Maps/timezone-11-36.png",
         "512": "/PNG/512/Maps/timezone-11-512.png",
@@ -17176,7 +17108,7 @@
       "eps": "/EPS/Maps/timezone-12.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone-12-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone-12-128.png",
+        "128": "/PNG/128/Maps/timezone-12-128.png",
         "256": "/PNG/256/Maps/timezone-12-256.png",
         "36": "/PNG/36/Maps/timezone-12-36.png",
         "512": "/PNG/512/Maps/timezone-12-512.png",
@@ -17252,7 +17184,7 @@
       "eps": "/EPS/Maps/timezone-2.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone-2-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone-2-128.png",
+        "128": "/PNG/128/Maps/timezone-2-128.png",
         "256": "/PNG/256/Maps/timezone-2-256.png",
         "36": "/PNG/36/Maps/timezone-2-36.png",
         "512": "/PNG/512/Maps/timezone-2-512.png",
@@ -17329,7 +17261,7 @@
       "eps": "/EPS/Maps/timezone-3.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone-3-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone-3-128.png",
+        "128": "/PNG/128/Maps/timezone-3-128.png",
         "256": "/PNG/256/Maps/timezone-3-256.png",
         "36": "/PNG/36/Maps/timezone-3-36.png",
         "512": "/PNG/512/Maps/timezone-3-512.png",
@@ -17407,7 +17339,7 @@
       "eps": "/EPS/Maps/timezone-4.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone-4-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone-4-128.png",
+        "128": "/PNG/128/Maps/timezone-4-128.png",
         "256": "/PNG/256/Maps/timezone-4-256.png",
         "36": "/PNG/36/Maps/timezone-4-36.png",
         "512": "/PNG/512/Maps/timezone-4-512.png",
@@ -17483,7 +17415,7 @@
       "eps": "/EPS/Maps/timezone-5.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone-5-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone-5-128.png",
+        "128": "/PNG/128/Maps/timezone-5-128.png",
         "256": "/PNG/256/Maps/timezone-5-256.png",
         "36": "/PNG/36/Maps/timezone-5-36.png",
         "512": "/PNG/512/Maps/timezone-5-512.png",
@@ -17546,7 +17478,7 @@
       "eps": "/EPS/Maps/timezone-6.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone-6-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone-6-128.png",
+        "128": "/PNG/128/Maps/timezone-6-128.png",
         "256": "/PNG/256/Maps/timezone-6-256.png",
         "36": "/PNG/36/Maps/timezone-6-36.png",
         "512": "/PNG/512/Maps/timezone-6-512.png",
@@ -17595,7 +17527,7 @@
       "eps": "/EPS/Maps/timezone-7.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone-7-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone-7-128.png",
+        "128": "/PNG/128/Maps/timezone-7-128.png",
         "256": "/PNG/256/Maps/timezone-7-256.png",
         "36": "/PNG/36/Maps/timezone-7-36.png",
         "512": "/PNG/512/Maps/timezone-7-512.png",
@@ -17670,7 +17602,7 @@
       "eps": "/EPS/Maps/timezone-8.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone-8-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone-8-128.png",
+        "128": "/PNG/128/Maps/timezone-8-128.png",
         "256": "/PNG/256/Maps/timezone-8-256.png",
         "36": "/PNG/36/Maps/timezone-8-36.png",
         "512": "/PNG/512/Maps/timezone-8-512.png",
@@ -17734,7 +17666,7 @@
       "eps": "/EPS/Maps/timezone-9.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone-9-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone-9-128.png",
+        "128": "/PNG/128/Maps/timezone-9-128.png",
         "256": "/PNG/256/Maps/timezone-9-256.png",
         "36": "/PNG/36/Maps/timezone-9-36.png",
         "512": "/PNG/512/Maps/timezone-9-512.png",
@@ -17798,7 +17730,7 @@
       "eps": "/EPS/Maps/timezone_1.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone_1-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone_1-128.png",
+        "128": "/PNG/128/Maps/timezone_1-128.png",
         "256": "/PNG/256/Maps/timezone_1-256.png",
         "36": "/PNG/36/Maps/timezone_1-36.png",
         "512": "/PNG/512/Maps/timezone_1-512.png",
@@ -17873,7 +17805,7 @@
       "eps": "/EPS/Maps/timezone_10.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone_10-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone_10-128.png",
+        "128": "/PNG/128/Maps/timezone_10-128.png",
         "256": "/PNG/256/Maps/timezone_10-256.png",
         "36": "/PNG/36/Maps/timezone_10-36.png",
         "512": "/PNG/512/Maps/timezone_10-512.png",
@@ -17937,7 +17869,7 @@
       "eps": "/EPS/Maps/timezone_11.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone_11-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone_11-128.png",
+        "128": "/PNG/128/Maps/timezone_11-128.png",
         "256": "/PNG/256/Maps/timezone_11-256.png",
         "36": "/PNG/36/Maps/timezone_11-36.png",
         "512": "/PNG/512/Maps/timezone_11-512.png",
@@ -18001,7 +17933,7 @@
       "eps": "/EPS/Maps/timezone_12.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone_12-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone_12-128.png",
+        "128": "/PNG/128/Maps/timezone_12-128.png",
         "256": "/PNG/256/Maps/timezone_12-256.png",
         "36": "/PNG/36/Maps/timezone_12-36.png",
         "512": "/PNG/512/Maps/timezone_12-512.png",
@@ -18046,7 +17978,7 @@
       "eps": "/EPS/Maps/timezone_2.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone_2-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone_2-128.png",
+        "128": "/PNG/128/Maps/timezone_2-128.png",
         "256": "/PNG/256/Maps/timezone_2-256.png",
         "36": "/PNG/36/Maps/timezone_2-36.png",
         "512": "/PNG/512/Maps/timezone_2-512.png",
@@ -18091,7 +18023,7 @@
       "eps": "/EPS/Maps/timezone_3.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone_3-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone_3-128.png",
+        "128": "/PNG/128/Maps/timezone_3-128.png",
         "256": "/PNG/256/Maps/timezone_3-256.png",
         "36": "/PNG/36/Maps/timezone_3-36.png",
         "512": "/PNG/512/Maps/timezone_3-512.png",
@@ -18136,7 +18068,7 @@
       "eps": "/EPS/Maps/timezone_4.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone_4-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone_4-128.png",
+        "128": "/PNG/128/Maps/timezone_4-128.png",
         "256": "/PNG/256/Maps/timezone_4-256.png",
         "36": "/PNG/36/Maps/timezone_4-36.png",
         "512": "/PNG/512/Maps/timezone_4-512.png",
@@ -18181,7 +18113,7 @@
       "eps": "/EPS/Maps/timezone_5.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone_5-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone_5-128.png",
+        "128": "/PNG/128/Maps/timezone_5-128.png",
         "256": "/PNG/256/Maps/timezone_5-256.png",
         "36": "/PNG/36/Maps/timezone_5-36.png",
         "512": "/PNG/512/Maps/timezone_5-512.png",
@@ -18244,7 +18176,7 @@
       "eps": "/EPS/Maps/timezone_6.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone_6-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone_6-128.png",
+        "128": "/PNG/128/Maps/timezone_6-128.png",
         "256": "/PNG/256/Maps/timezone_6-256.png",
         "36": "/PNG/36/Maps/timezone_6-36.png",
         "512": "/PNG/512/Maps/timezone_6-512.png",
@@ -18289,7 +18221,7 @@
       "eps": "/EPS/Maps/timezone_7.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone_7-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone_7-128.png",
+        "128": "/PNG/128/Maps/timezone_7-128.png",
         "256": "/PNG/256/Maps/timezone_7-256.png",
         "36": "/PNG/36/Maps/timezone_7-36.png",
         "512": "/PNG/512/Maps/timezone_7-512.png",
@@ -18352,7 +18284,7 @@
       "eps": "/EPS/Maps/timezone_8.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone_8-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone_8-128.png",
+        "128": "/PNG/128/Maps/timezone_8-128.png",
         "256": "/PNG/256/Maps/timezone_8-256.png",
         "36": "/PNG/36/Maps/timezone_8-36.png",
         "512": "/PNG/512/Maps/timezone_8-512.png",
@@ -18408,7 +18340,7 @@
       "eps": "/EPS/Maps/timezone_9.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone_9-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone_9-128.png",
+        "128": "/PNG/128/Maps/timezone_9-128.png",
         "256": "/PNG/256/Maps/timezone_9-256.png",
         "36": "/PNG/36/Maps/timezone_9-36.png",
         "512": "/PNG/512/Maps/timezone_9-512.png",
@@ -18468,7 +18400,7 @@
       "eps": "/EPS/Maps/timezone_utc.eps",
       "png": {
         "32": "/PNG/32/Maps/timezone_utc-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/timezone_utc-128.png",
+        "128": "/PNG/128/Maps/timezone_utc-128.png",
         "256": "/PNG/256/Maps/timezone_utc-256.png",
         "36": "/PNG/36/Maps/timezone_utc-36.png",
         "512": "/PNG/512/Maps/timezone_utc-512.png",
@@ -18494,7 +18426,7 @@
       "eps": "/EPS/Sports/time_trial_biking.eps",
       "png": {
         "32": "/PNG/32/Sports/time_trial_biking-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/time_trial_biking-128.png",
+        "128": "/PNG/128/Sports/time_trial_biking-128.png",
         "256": "/PNG/256/Sports/time_trial_biking-256.png",
         "36": "/PNG/36/Sports/time_trial_biking-36.png",
         "512": "/PNG/512/Sports/time_trial_biking-512.png",
@@ -18520,7 +18452,7 @@
       "eps": "/EPS/Sports/torso.eps",
       "png": {
         "32": "/PNG/32/Sports/torso-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/torso-128.png",
+        "128": "/PNG/128/Sports/torso-128.png",
         "256": "/PNG/256/Sports/torso-256.png",
         "36": "/PNG/36/Sports/torso-36.png",
         "512": "/PNG/512/Sports/torso-512.png",
@@ -18546,7 +18478,7 @@
       "eps": "/EPS/Transport/tow_truck.eps",
       "png": {
         "32": "/PNG/32/Transport/tow_truck-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/tow_truck-128.png",
+        "128": "/PNG/128/Transport/tow_truck-128.png",
         "256": "/PNG/256/Transport/tow_truck-256.png",
         "36": "/PNG/36/Transport/tow_truck-36.png",
         "512": "/PNG/512/Transport/tow_truck-512.png",
@@ -18576,7 +18508,7 @@
       "eps": "/EPS/Transport/tractor.eps",
       "png": {
         "32": "/PNG/32/Transport/tractor-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/tractor-128.png",
+        "128": "/PNG/128/Transport/tractor-128.png",
         "256": "/PNG/256/Transport/tractor-256.png",
         "36": "/PNG/36/Transport/tractor-36.png",
         "512": "/PNG/512/Transport/tractor-512.png",
@@ -18612,7 +18544,7 @@
       "eps": "/EPS/Transport/traffic_jam.eps",
       "png": {
         "32": "/PNG/32/Transport/traffic_jam-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/traffic_jam-128.png",
+        "128": "/PNG/128/Transport/traffic_jam-128.png",
         "256": "/PNG/256/Transport/traffic_jam-256.png",
         "36": "/PNG/36/Transport/traffic_jam-36.png",
         "512": "/PNG/512/Transport/traffic_jam-512.png",
@@ -18650,7 +18582,7 @@
       "eps": "/EPS/Transport/traffic_light.eps",
       "png": {
         "32": "/PNG/32/Transport/traffic_light-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/traffic_light-128.png",
+        "128": "/PNG/128/Transport/traffic_light-128.png",
         "256": "/PNG/256/Transport/traffic_light-256.png",
         "36": "/PNG/36/Transport/traffic_light-36.png",
         "512": "/PNG/512/Transport/traffic_light-512.png",
@@ -18681,7 +18613,7 @@
       "eps": "/EPS/Transport/trailer.eps",
       "png": {
         "32": "/PNG/32/Transport/trailer-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/trailer-128.png",
+        "128": "/PNG/128/Transport/trailer-128.png",
         "256": "/PNG/256/Transport/trailer-256.png",
         "36": "/PNG/36/Transport/trailer-36.png",
         "512": "/PNG/512/Transport/trailer-512.png",
@@ -18712,7 +18644,7 @@
       "eps": "/EPS/Transport/train.eps",
       "png": {
         "32": "/PNG/32/Transport/train-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/train-128.png",
+        "128": "/PNG/128/Transport/train-128.png",
         "256": "/PNG/256/Transport/train-256.png",
         "36": "/PNG/36/Transport/train-36.png",
         "512": "/PNG/512/Transport/train-512.png",
@@ -18772,7 +18704,7 @@
       "eps": "/EPS/Transport/tram.eps",
       "png": {
         "32": "/PNG/32/Transport/tram-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/tram-128.png",
+        "128": "/PNG/128/Transport/tram-128.png",
         "256": "/PNG/256/Transport/tram-256.png",
         "36": "/PNG/36/Transport/tram-36.png",
         "512": "/PNG/512/Transport/tram-512.png",
@@ -18798,7 +18730,6 @@
       "eps": "/EPS/Industry/transistor.eps",
       "png": {
         "32": "/PNG/32/Industry/transistor-32.png",
-        "128": "/PNG/128/industry (Case Conflict (62))/transistor-128.png",
         "256": "/PNG/256/Industry/transistor-256.png",
         "36": "/PNG/36/Industry/transistor-36.png",
         "512": "/PNG/512/Industry/transistor-512.png",
@@ -18824,7 +18755,7 @@
       "eps": "/EPS/Industry/trash.eps",
       "png": {
         "32": "/PNG/32/Industry/trash-32.png",
-        "128": "/PNG/128/industry (Case Conflict (55))/trash-128.png",
+        "128": "/PNG/128/Industry/trash-128.png",
         "256": "/PNG/256/Industry/trash-256.png",
         "36": "/PNG/36/Industry/trash-36.png",
         "512": "/PNG/512/Industry/trash-512.png",
@@ -18850,7 +18781,7 @@
       "eps": "/EPS/Maps/treasury_map.eps",
       "png": {
         "32": "/PNG/32/Maps/treasury_map-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/treasury_map-128.png",
+        "128": "/PNG/128/Maps/treasury_map-128.png",
         "256": "/PNG/256/Maps/treasury_map-256.png",
         "36": "/PNG/36/Maps/treasury_map-36.png",
         "512": "/PNG/512/Maps/treasury_map-512.png",
@@ -18890,7 +18821,7 @@
       "eps": "/EPS/Music/treble_clef.eps",
       "png": {
         "32": "/PNG/32/Music/treble_clef-32.png",
-        "128": "/PNG/128/music (Case Conflict)/treble_clef-128.png",
+        "128": "/PNG/128/Music/treble_clef-128.png",
         "256": "/PNG/256/Music/treble_clef-256.png",
         "36": "/PNG/36/Music/treble_clef-36.png",
         "512": "/PNG/512/Music/treble_clef-512.png",
@@ -18916,7 +18847,7 @@
       "eps": "/EPS/Sports/trekking.eps",
       "png": {
         "32": "/PNG/32/Sports/trekking-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/trekking-128.png",
+        "128": "/PNG/128/Sports/trekking-128.png",
         "256": "/PNG/256/Sports/trekking-256.png",
         "36": "/PNG/36/Sports/trekking-36.png",
         "512": "/PNG/512/Sports/trekking-512.png",
@@ -18947,7 +18878,7 @@
       "eps": "/EPS/Transport/trolleybus.eps",
       "png": {
         "32": "/PNG/32/Transport/trolleybus-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/trolleybus-128.png",
+        "128": "/PNG/128/Transport/trolleybus-128.png",
         "256": "/PNG/256/Transport/trolleybus-256.png",
         "36": "/PNG/36/Transport/trolleybus-36.png",
         "512": "/PNG/512/Transport/trolleybus-512.png",
@@ -18973,7 +18904,7 @@
       "eps": "/EPS/Music/trombone.eps",
       "png": {
         "32": "/PNG/32/Music/trombone-32.png",
-        "128": "/PNG/128/music (Case Conflict)/trombone-128.png",
+        "128": "/PNG/128/Music/trombone-128.png",
         "256": "/PNG/256/Music/trombone-256.png",
         "36": "/PNG/36/Music/trombone-36.png",
         "512": "/PNG/512/Music/trombone-512.png",
@@ -18999,7 +18930,7 @@
       "eps": "/EPS/Sports/trophy.eps",
       "png": {
         "32": "/PNG/32/Sports/trophy-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/trophy-128.png",
+        "128": "/PNG/128/Sports/trophy-128.png",
         "256": "/PNG/256/Sports/trophy-256.png",
         "36": "/PNG/36/Sports/trophy-36.png",
         "512": "/PNG/512/Sports/trophy-512.png",
@@ -19065,7 +18996,7 @@
       "eps": "/EPS/Transport/truck.eps",
       "png": {
         "32": "/PNG/32/Transport/truck-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/truck-128.png",
+        "128": "/PNG/128/Transport/truck-128.png",
         "256": "/PNG/256/Transport/truck-256.png",
         "36": "/PNG/36/Transport/truck-36.png",
         "512": "/PNG/512/Transport/truck-512.png",
@@ -19096,7 +19027,7 @@
       "eps": "/EPS/Music/trumpet.eps",
       "png": {
         "32": "/PNG/32/Music/trumpet-32.png",
-        "128": "/PNG/128/music (Case Conflict)/trumpet-128.png",
+        "128": "/PNG/128/Music/trumpet-128.png",
         "256": "/PNG/256/Music/trumpet-256.png",
         "36": "/PNG/36/Music/trumpet-36.png",
         "512": "/PNG/512/Music/trumpet-512.png",
@@ -19126,7 +19057,7 @@
       "eps": "/EPS/Music/tuba.eps",
       "png": {
         "32": "/PNG/32/Music/tuba-32.png",
-        "128": "/PNG/128/music (Case Conflict)/tuba-128.png",
+        "128": "/PNG/128/Music/tuba-128.png",
         "256": "/PNG/256/Music/tuba-256.png",
         "36": "/PNG/36/Music/tuba-36.png",
         "512": "/PNG/512/Music/tuba-512.png",
@@ -19172,7 +19103,7 @@
       "eps": "/EPS/Transport/tunnel.eps",
       "png": {
         "32": "/PNG/32/Transport/tunnel-32.png",
-        "128": "/PNG/128/transport (Case Conflict)/tunnel-128.png",
+        "128": "/PNG/128/Transport/tunnel-128.png",
         "256": "/PNG/256/Transport/tunnel-256.png",
         "36": "/PNG/36/Transport/tunnel-36.png",
         "512": "/PNG/512/Transport/tunnel-512.png",
@@ -19268,7 +19199,7 @@
       "eps": "/EPS/Social_Networks/twitter.eps",
       "png": {
         "32": "/PNG/32/Social_Networks/twitter-32.png",
-        "128": "/PNG/128/social_networks (Case Conflict)/twitter-128.png",
+        "128": "/PNG/128/Social_Networks/twitter-128.png",
         "256": "/PNG/256/Social_Networks/twitter-256.png",
         "36": "/PNG/36/Social_Networks/twitter-36.png",
         "512": "/PNG/512/Social_Networks/twitter-512.png",
@@ -19316,7 +19247,7 @@
       "eps": "/EPS/Very_Basic/undo.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/undo-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/undo-128.png",
+        "128": "/PNG/128/Very_Basic/undo-128.png",
         "256": "/PNG/256/Very_Basic/undo-256.png",
         "36": "/PNG/36/Very_Basic/undo-36.png",
         "512": "/PNG/512/Very_Basic/undo-512.png",
@@ -19378,7 +19309,7 @@
       "eps": "/EPS/Very_Basic/unlock.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/unlock-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/unlock-128.png",
+        "128": "/PNG/128/Very_Basic/unlock-128.png",
         "256": "/PNG/256/Very_Basic/unlock-256.png",
         "36": "/PNG/36/Very_Basic/unlock-36.png",
         "512": "/PNG/512/Very_Basic/unlock-512.png",
@@ -19444,7 +19375,7 @@
       "eps": "/EPS/Very_Basic/upload.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/upload-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/upload-128.png",
+        "128": "/PNG/128/Very_Basic/upload-128.png",
         "256": "/PNG/256/Very_Basic/upload-256.png",
         "36": "/PNG/36/Very_Basic/upload-36.png",
         "512": "/PNG/512/Very_Basic/upload-512.png",
@@ -19686,7 +19617,7 @@
       "eps": "/EPS/Very_Basic/video_file.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/video_file-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/video_file-128.png",
+        "128": "/PNG/128/Very_Basic/video_file-128.png",
         "256": "/PNG/256/Very_Basic/video_file-256.png",
         "36": "/PNG/36/Very_Basic/video_file-36.png",
         "512": "/PNG/512/Very_Basic/video_file-512.png",
@@ -19723,7 +19654,7 @@
       "eps": "/EPS/Music/violin.eps",
       "png": {
         "32": "/PNG/32/Music/violin-32.png",
-        "128": "/PNG/128/music (Case Conflict)/violin-128.png",
+        "128": "/PNG/128/Music/violin-128.png",
         "256": "/PNG/256/Music/violin-256.png",
         "36": "/PNG/36/Music/violin-36.png",
         "512": "/PNG/512/Music/violin-512.png",
@@ -19769,7 +19700,7 @@
       "eps": "/EPS/Shopping/visa_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Shopping/visa_copyrighted-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (10))/visa_copyrighted-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/visa_copyrighted-128.png",
         "256": "/PNG/256/Shopping/visa_copyrighted-256.png",
         "36": "/PNG/36/Shopping/visa_copyrighted-36.png",
         "512": "/PNG/512/Shopping/visa_copyrighted-512.png",
@@ -19795,7 +19726,7 @@
       "eps": "/EPS/Social_Networks/vk.com.eps",
       "png": {
         "32": "/PNG/32/Social_Networks/vk.com-32.png",
-        "128": "/PNG/128/social_networks (Case Conflict)/vk.com-128.png",
+        "128": "/PNG/128/Social_Networks/vk.com-128.png",
         "256": "/PNG/256/Social_Networks/vk.com-256.png",
         "36": "/PNG/36/Social_Networks/vk.com-36.png",
         "512": "/PNG/512/Social_Networks/vk.com-512.png",
@@ -19897,7 +19828,7 @@
       "eps": "/EPS/Sports/walking.eps",
       "png": {
         "32": "/PNG/32/Sports/walking-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/walking-128.png",
+        "128": "/PNG/128/Sports/walking-128.png",
         "256": "/PNG/256/Sports/walking-256.png",
         "36": "/PNG/36/Sports/walking-36.png",
         "512": "/PNG/512/Sports/walking-512.png",
@@ -19933,7 +19864,6 @@
       "eps": "/EPS/Shopping/wallet.eps",
       "png": {
         "32": "/PNG/32/Shopping/wallet-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/wallet-128.png",
         "256": "/PNG/256/Shopping/wallet-256.png",
         "36": "/PNG/36/Shopping/wallet-36.png",
         "512": "/PNG/512/Shopping/wallet-512.png",
@@ -19959,7 +19889,7 @@
       "eps": "/EPS/Industry/water.eps",
       "png": {
         "32": "/PNG/32/Industry/water-32.png",
-        "128": "/PNG/128/industry (Case Conflict (37))/water-128.png",
+        "128": "/PNG/128/Industry/water-128.png",
         "256": "/PNG/256/Industry/water-256.png",
         "36": "/PNG/36/Industry/water-36.png",
         "512": "/PNG/512/Industry/water-512.png",
@@ -20004,7 +19934,7 @@
       "eps": "/EPS/Maps/waypoint_map.eps",
       "png": {
         "32": "/PNG/32/Maps/waypoint_map-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/waypoint_map-128.png",
+        "128": "/PNG/128/Maps/waypoint_map-128.png",
         "256": "/PNG/256/Maps/waypoint_map-256.png",
         "36": "/PNG/36/Maps/waypoint_map-36.png",
         "512": "/PNG/512/Maps/waypoint_map-512.png",
@@ -20087,7 +20017,7 @@
       "eps": "/EPS/Sports/weightlift.eps",
       "png": {
         "32": "/PNG/32/Sports/weightlift-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/weightlift-128.png",
+        "128": "/PNG/128/Sports/weightlift-128.png",
         "256": "/PNG/256/Sports/weightlift-256.png",
         "36": "/PNG/36/Sports/weightlift-36.png",
         "512": "/PNG/512/Sports/weightlift-512.png",
@@ -20150,7 +20080,7 @@
       "eps": "/EPS/Maps/west_direction.eps",
       "png": {
         "32": "/PNG/32/Maps/west_direction-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/west_direction-128.png",
+        "128": "/PNG/128/Maps/west_direction-128.png",
         "256": "/PNG/256/Maps/west_direction-256.png",
         "36": "/PNG/36/Maps/west_direction-36.png",
         "512": "/PNG/512/Maps/west_direction-512.png",
@@ -20176,7 +20106,7 @@
       "eps": "/EPS/Sports/wheel.eps",
       "png": {
         "32": "/PNG/32/Sports/wheel-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/wheel-128.png",
+        "128": "/PNG/128/Sports/wheel-128.png",
         "256": "/PNG/256/Sports/wheel-256.png",
         "36": "/PNG/36/Sports/wheel-36.png",
         "512": "/PNG/512/Sports/wheel-512.png",
@@ -20259,7 +20189,7 @@
       "eps": "/EPS/Maps/wind_rose.eps",
       "png": {
         "32": "/PNG/32/Maps/wind_rose-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/wind_rose-128.png",
+        "128": "/PNG/128/Maps/wind_rose-128.png",
         "256": "/PNG/256/Maps/wind_rose-256.png",
         "36": "/PNG/36/Maps/wind_rose-36.png",
         "512": "/PNG/512/Maps/wind_rose-512.png",
@@ -20285,7 +20215,6 @@
       "eps": "/EPS/Industry/wind_turbine.eps",
       "png": {
         "32": "/PNG/32/Industry/wind_turbine-32.png",
-        "128": "/PNG/128/industry (Case Conflict (62))/wind_turbine-128.png",
         "256": "/PNG/256/Industry/wind_turbine-256.png",
         "36": "/PNG/36/Industry/wind_turbine-36.png",
         "512": "/PNG/512/Industry/wind_turbine-512.png",
@@ -20465,7 +20394,7 @@
       "eps": "/EPS/Maps/worldwide_location.eps",
       "png": {
         "32": "/PNG/32/Maps/worldwide_location-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/worldwide_location-128.png",
+        "128": "/PNG/128/Maps/worldwide_location-128.png",
         "256": "/PNG/256/Maps/worldwide_location-256.png",
         "36": "/PNG/36/Maps/worldwide_location-36.png",
         "512": "/PNG/512/Maps/worldwide_location-512.png",
@@ -20495,7 +20424,7 @@
       "eps": "/EPS/Maps/world_map.eps",
       "png": {
         "32": "/PNG/32/Maps/world_map-32.png",
-        "128": "/PNG/128/maps (Case Conflict)/world_map-128.png",
+        "128": "/PNG/128/Maps/world_map-128.png",
         "256": "/PNG/256/Maps/world_map-256.png",
         "36": "/PNG/36/Maps/world_map-36.png",
         "512": "/PNG/512/Maps/world_map-512.png",
@@ -20579,7 +20508,7 @@
       "eps": "/EPS/Social_Networks/xing.eps",
       "png": {
         "32": "/PNG/32/Social_Networks/xing-32.png",
-        "128": "/PNG/128/social_networks (Case Conflict)/xing-128.png",
+        "128": "/PNG/128/Social_Networks/xing-128.png",
         "256": "/PNG/256/Social_Networks/xing-256.png",
         "36": "/PNG/36/Social_Networks/xing-36.png",
         "512": "/PNG/512/Social_Networks/xing-512.png",
@@ -20612,7 +20541,7 @@
       "eps": "/EPS/Music/xylophone.eps",
       "png": {
         "32": "/PNG/32/Music/xylophone-32.png",
-        "128": "/PNG/128/music (Case Conflict)/xylophone-128.png",
+        "128": "/PNG/128/Music/xylophone-128.png",
         "256": "/PNG/256/Music/xylophone-256.png",
         "36": "/PNG/36/Music/xylophone-36.png",
         "512": "/PNG/512/Music/xylophone-512.png",
@@ -20638,7 +20567,7 @@
       "eps": "/EPS/Sports/yoga.eps",
       "png": {
         "32": "/PNG/32/Sports/yoga-32.png",
-        "128": "/PNG/128/sports (Case Conflict)/yoga-128.png",
+        "128": "/PNG/128/Sports/yoga-128.png",
         "256": "/PNG/256/Sports/yoga-256.png",
         "36": "/PNG/36/Sports/yoga-36.png",
         "512": "/PNG/512/Sports/yoga-512.png",
