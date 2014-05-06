@@ -72331,6 +72331,7 @@
       "sign",
       "dot",
       "circle",
+      "detail",
       "greeting",
       "article",
       "decoration",
@@ -72481,6 +72482,7 @@
     "tags": [
       "date",
       "church",
+      "note",
       "events",
       "wedding"
     ],
