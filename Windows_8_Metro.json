@@ -8133,6 +8133,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Sports/boxing.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/boxing.svg",
       "eps": "/EPS/Sports/boxing.eps",
       "png": {
         "32": "/PNG/32/Sports/boxing-32.png",
@@ -11651,6 +11652,7 @@
     "tags": [
       "mark",
       "box",
+      "checked",
       "symbols",
       "checkbox",
       "verification"
@@ -15072,6 +15074,7 @@
       "connect",
       "wireless",
       "network",
+      "listen",
       "wireless connect",
       "disconnect",
       "connected"
@@ -29713,6 +29716,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Sports/handball.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/handball.svg",
       "eps": "/EPS/Sports/handball.eps",
       "png": {
         "32": "/PNG/32/Sports/handball-32.png",
@@ -30173,6 +30177,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Music/harmonica.svg",
+      "svg.simplified": "/SVG_for_Font/Music/harmonica.svg",
       "eps": "/EPS/Music/harmonica.eps",
       "png": {
         "32": "/PNG/32/Music/harmonica-32.png",
@@ -37169,6 +37174,7 @@
     "created": 1323168767,
     "tags": [
       "files",
+      "sms",
       "folders",
       "disk",
       "system",
@@ -42178,6 +42184,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Music/music_transcripts.svg",
+      "svg.simplified": "/SVG_for_Font/Music/music_transcripts.svg",
       "eps": "/EPS/Music/music_transcripts.eps",
       "png": {
         "32": "/PNG/32/Music/music_transcripts-32.png",
@@ -47129,6 +47136,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Music/piano.svg",
+      "svg.simplified": "/SVG_for_Font/Music/piano.svg",
       "eps": "/EPS/Music/piano.eps",
       "png": {
         "32": "/PNG/32/Music/piano-32.png",
@@ -52761,6 +52769,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Ecommerce/return_purchase.svg",
+      "svg.simplified": "/SVG_for_Font/Ecommerce/return_purchase.svg",
       "eps": "/EPS/Ecommerce/return_purchase.eps",
       "png": {
         "32": "/PNG/32/Ecommerce/return_purchase-32.png",
@@ -70932,6 +70941,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Sports/volleyball.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/volleyball.svg",
       "eps": "/EPS/Sports/volleyball.eps",
       "png": {
         "32": "/PNG/32/Sports/volleyball-32.png",
