@@ -5560,6 +5560,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Sports/baseball.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/baseball.svg",
       "eps": "/EPS/Sports/baseball.eps",
       "png": {
         "32": "/PNG/32/Sports/baseball-32.png",
@@ -8034,7 +8035,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Ecommerce/box.svg",
-      "svg.simplified": "/SVG_for_Font/box_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/box.svg",
       "eps": "/EPS/Ecommerce/box.eps",
       "png": {
         "32": "/PNG/32/Ecommerce/box-32.png",
@@ -8069,6 +8070,77 @@
         "512": "/PNG/512/Ecommerce/box2-512.png",
         "64": "/PNG/64/Ecommerce/box2-64.png",
         "48": "/PNG/48/Ecommerce/box2-48.png"
+      }
+    }
+  },
+  {
+    "id": 4414,
+    "name": "boxing",
+    "platform": "Windows 8/Metro",
+    "category": "Sports",
+    "created": 1399402290,
+    "tags": [
+      "ring",
+      "box",
+      "combat",
+      "engage",
+      "clip",
+      "champion",
+      "professional",
+      "sport",
+      "match",
+      "speed",
+      "fitness",
+      "motion",
+      "hand",
+      "gear",
+      "action",
+      "punch",
+      "score",
+      "points",
+      "hands",
+      "power",
+      "art",
+      "weight",
+      "danger",
+      "two",
+      "strength",
+      "corner",
+      "cartoon",
+      "clip art",
+      "competition",
+      "glove",
+      "holding",
+      "throw",
+      "gloves",
+      "boxing",
+      "fight",
+      "build",
+      "ropes",
+      "shorts",
+      "fighting",
+      "reflexes",
+      "boxer",
+      "punches",
+      "knockdown",
+      "knuckle",
+      "rounds",
+      "hitting",
+      "tripping",
+      "pushing",
+      "cl"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/boxing.svg",
+      "eps": "/EPS/Sports/boxing.eps",
+      "png": {
+        "32": "/PNG/32/Sports/boxing-32.png",
+        "128": "/PNG/128/Sports/boxing-128.png",
+        "26": "/PNG/26/Sports/boxing-26.png",
+        "256": "/PNG/256/Sports/boxing-256.png",
+        "512": "/PNG/512/Sports/boxing-512.png",
+        "64": "/PNG/64/Sports/boxing-64.png"
       }
     }
   },
@@ -8829,6 +8901,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/bus2.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/bus2.svg",
       "eps": "/EPS/Transport/bus2.eps",
       "png": {
         "32": "/PNG/32/Transport/bus2-32.png",
@@ -16098,6 +16171,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Sports/cricket.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/cricket.svg",
       "eps": "/EPS/Sports/cricket.eps",
       "png": {
         "32": "/PNG/32/Sports/cricket-32.png",
@@ -26622,6 +26696,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/gas_pump.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/gas_pump.svg",
       "eps": "/EPS/Transport/gas_pump.eps",
       "png": {
         "32": "/PNG/32/Transport/gas_pump-32.png",
@@ -29577,6 +29652,79 @@
     }
   },
   {
+    "id": 4416,
+    "name": "handball",
+    "platform": "Windows 8/Metro",
+    "category": "Sports",
+    "created": 1399402290,
+    "tags": [
+      "fast",
+      "control",
+      "games",
+      "ball",
+      "kick",
+      "field",
+      "play",
+      "team",
+      "line",
+      "left",
+      "position",
+      "right",
+      "player",
+      "people",
+      "sport",
+      "men",
+      "speed",
+      "lines",
+      "motion",
+      "figure",
+      "players",
+      "game",
+      "pass",
+      "wall",
+      "shot",
+      "teamwork",
+      "summer",
+      "wave",
+      "clip art",
+      "center",
+      "court",
+      "area",
+      "angle",
+      "jump",
+      "zone",
+      "perimeter",
+      "target",
+      "indoor",
+      "shoot",
+      "styles",
+      "playing",
+      "switching",
+      "goal",
+      "skills",
+      "handball",
+      "goals",
+      "attacking",
+      "defending",
+      "goalkeeper",
+      "dribble",
+      "referee"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/handball.svg",
+      "eps": "/EPS/Sports/handball.eps",
+      "png": {
+        "32": "/PNG/32/Sports/handball-32.png",
+        "128": "/PNG/128/Sports/handball-128.png",
+        "26": "/PNG/26/Sports/handball-26.png",
+        "256": "/PNG/256/Sports/handball-256.png",
+        "512": "/PNG/512/Sports/handball-512.png",
+        "64": "/PNG/64/Sports/handball-64.png"
+      }
+    }
+  },
+  {
     "id": 2687,
     "name": "handle_with_care",
     "platform": "Windows 8/Metro",
@@ -29981,6 +30129,58 @@
         "512": "/PNG/512/Messaging/happy-512.png",
         "64": "/PNG/64/Messaging/happy-64.png",
         "48": "/PNG/48/Messaging/happy-48.png"
+      }
+    }
+  },
+  {
+    "id": 4412,
+    "name": "harmonica",
+    "platform": "Windows 8/Metro",
+    "category": "Music",
+    "created": 1399402290,
+    "tags": [
+      "fun",
+      "line",
+      "music",
+      "musical",
+      "song",
+      "expression",
+      "band",
+      "classical",
+      "air",
+      "hole",
+      "mouthpiece",
+      "jazz",
+      "blues",
+      "classic",
+      "instrument",
+      "clip art",
+      "elegance",
+      "dance",
+      "rock",
+      "ten",
+      "culture",
+      "blow",
+      "pocket",
+      "organ",
+      "mouth-organ",
+      "lips",
+      "harmonica",
+      "reed",
+      "folk",
+      "french"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Music/harmonica.svg",
+      "eps": "/EPS/Music/harmonica.eps",
+      "png": {
+        "32": "/PNG/32/Music/harmonica-32.png",
+        "128": "/PNG/128/Music/harmonica-128.png",
+        "26": "/PNG/26/Music/harmonica-26.png",
+        "256": "/PNG/256/Music/harmonica-256.png",
+        "512": "/PNG/512/Music/harmonica-512.png",
+        "64": "/PNG/64/Music/harmonica-64.png"
       }
     }
   },
@@ -34650,26 +34850,25 @@
     }
   },
   {
-    "id": 4188,
-    "name": "knowledge_basse",
+    "id": 4410,
+    "name": "knowledge_base",
     "platform": "Windows 8/Metro",
     "category": "Very Basic",
-    "created": 1398883905,
+    "created": 1399402290,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Very_Basic/knowledge_basse.svg",
-      "svg.simplified": "/SVG_for_Font/Very_Basic/knowledge_basse.svg",
-      "eps": "/EPS/Very_Basic/knowledge_basse.eps",
+      "svg": "/SVG/Very_Basic/knowledge_base.svg",
+      "eps": "/EPS/Very_Basic/knowledge_base.eps",
       "png": {
-        "32": "/PNG/32/Very_Basic/knowledge_basse-32.png",
-        "128": "/PNG/128/Very_Basic/knowledge_basse-128.png",
-        "26": "/PNG/26/Very_Basic/knowledge_basse-26.png",
-        "256": "/PNG/256/Very_Basic/knowledge_basse-256.png",
-        "512": "/PNG/512/Very_Basic/knowledge_basse-512.png",
-        "64": "/PNG/64/Very_Basic/knowledge_basse-64.png"
+        "32": "/PNG/32/Very_Basic/knowledge_base-32.png",
+        "128": "/PNG/128/Very_Basic/knowledge_base-128.png",
+        "26": "/PNG/26/Very_Basic/knowledge_base-26.png",
+        "256": "/PNG/256/Very_Basic/knowledge_base-256.png",
+        "512": "/PNG/512/Very_Basic/knowledge_base-512.png",
+        "64": "/PNG/64/Very_Basic/knowledge_base-64.png"
       }
     }
   },
@@ -41968,6 +42167,29 @@
     }
   },
   {
+    "id": 4411,
+    "name": "music_transcripts",
+    "platform": "Windows 8/Metro",
+    "category": "Music",
+    "created": 1399402290,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Music/music_transcripts.svg",
+      "eps": "/EPS/Music/music_transcripts.eps",
+      "png": {
+        "32": "/PNG/32/Music/music_transcripts-32.png",
+        "128": "/PNG/128/Music/music_transcripts-128.png",
+        "26": "/PNG/26/Music/music_transcripts-26.png",
+        "256": "/PNG/256/Music/music_transcripts-256.png",
+        "512": "/PNG/512/Music/music_transcripts-512.png",
+        "64": "/PNG/64/Music/music_transcripts-64.png"
+      }
+    }
+  },
+  {
     "id": 1721,
     "name": "mustache",
     "platform": "Windows 8/Metro",
@@ -46872,6 +47094,49 @@
         "512": "/PNG/512/Alphabet/pi-512.png",
         "64": "/PNG/64/Alphabet/pi-64.png",
         "48": "/PNG/48/Alphabet/pi-48.png"
+      }
+    }
+  },
+  {
+    "id": 4374,
+    "name": "piano",
+    "platform": "Windows 8/Metro",
+    "category": "Music",
+    "created": 1399402290,
+    "tags": [
+      "play",
+      "keyboard",
+      "keys",
+      "music",
+      "hearing",
+      "volume",
+      "instrument",
+      "piano",
+      "piano keys",
+      "play music",
+      "piano keyboard",
+      "play keys",
+      "pianoforte",
+      "virtual keyboard",
+      "clavichord",
+      "pianola",
+      "concert grand",
+      "spinet",
+      "upright piano",
+      "player piano",
+      "clavier"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Music/piano.svg",
+      "eps": "/EPS/Music/piano.eps",
+      "png": {
+        "32": "/PNG/32/Music/piano-32.png",
+        "128": "/PNG/128/Music/piano-128.png",
+        "26": "/PNG/26/Music/piano-26.png",
+        "256": "/PNG/256/Music/piano-256.png",
+        "512": "/PNG/512/Music/piano-512.png",
+        "64": "/PNG/64/Music/piano-64.png"
       }
     }
   },
@@ -52338,7 +52603,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/restaurant.svg",
-      "svg.simplified": "/SVG_for_Font/restaurant.svg",
+      "svg.simplified": "/SVG_for_Font/Food/restaurant.svg",
       "eps": "/EPS/Food/restaurant.eps",
       "png": {
         "32": "/PNG/32/Food/restaurant-32.png",
@@ -52481,6 +52746,29 @@
         "512": "/PNG/Industry/return/return-512.png",
         "64": "/PNG/Industry/return/return-64.png",
         "48": "/PNG/Industry/return/return-48.png"
+      }
+    }
+  },
+  {
+    "id": 4399,
+    "name": "return_purchase",
+    "platform": "Windows 8/Metro",
+    "category": "Ecommerce",
+    "created": 1399402290,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Ecommerce/return_purchase.svg",
+      "eps": "/EPS/Ecommerce/return_purchase.eps",
+      "png": {
+        "32": "/PNG/32/Ecommerce/return_purchase-32.png",
+        "128": "/PNG/128/Ecommerce/return_purchase-128.png",
+        "26": "/PNG/26/Ecommerce/return_purchase-26.png",
+        "256": "/PNG/256/Ecommerce/return_purchase-256.png",
+        "512": "/PNG/512/Ecommerce/return_purchase-512.png",
+        "64": "/PNG/64/Ecommerce/return_purchase-64.png"
       }
     }
   },
@@ -61937,6 +62225,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Business/survey.svg",
+      "svg.simplified": "/SVG_for_Font/Business/survey.svg",
       "eps": "/EPS/Business/survey.eps",
       "png": {
         "32": "/PNG/32/Business/survey-32.png",
@@ -70610,6 +70899,47 @@
         "512": "/PNG/512/Network/voip_gateway-512.png",
         "64": "/PNG/64/Network/voip_gateway-64.png",
         "48": "/PNG/48/Network/voip_gateway-48.png"
+      }
+    }
+  },
+  {
+    "id": 4418,
+    "name": "volleyball",
+    "platform": "Windows 8/Metro",
+    "category": "Sports",
+    "created": 1399402290,
+    "tags": [
+      "draw",
+      "ball",
+      "play",
+      "team",
+      "player",
+      "sport",
+      "leather",
+      "game",
+      "beach",
+      "art",
+      "activity",
+      "teamwork",
+      "circle",
+      "clipart",
+      "competition",
+      "college",
+      "volley",
+      "valleyball",
+      "tornament"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/volleyball.svg",
+      "eps": "/EPS/Sports/volleyball.eps",
+      "png": {
+        "32": "/PNG/32/Sports/volleyball-32.png",
+        "128": "/PNG/128/Sports/volleyball-128.png",
+        "26": "/PNG/26/Sports/volleyball-26.png",
+        "256": "/PNG/256/Sports/volleyball-256.png",
+        "512": "/PNG/512/Sports/volleyball-512.png",
+        "64": "/PNG/64/Sports/volleyball-64.png"
       }
     }
   },
