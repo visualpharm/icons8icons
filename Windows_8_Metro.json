@@ -23656,6 +23656,7 @@
       "create",
       "files",
       "new file",
+      "link",
       "word",
       "document",
       "text",
@@ -34866,6 +34867,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Very_Basic/knowledge_base.svg",
+      "svg.simplified": "/SVG_for_Font/Very_Basic/knowledge_base.svg",
       "eps": "/EPS/Very_Basic/knowledge_base.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/knowledge_base-32.png",
@@ -53157,6 +53159,8 @@
       "save",
       "next",
       "previous",
+      "thumb",
+      "thumbs",
       "icons",
       "button",
       "down round",
