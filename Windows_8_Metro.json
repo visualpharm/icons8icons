@@ -3138,6 +3138,41 @@
     }
   },
   {
+    "id": 4451,
+    "name": "ant",
+    "platform": "Windows 8/Metro",
+    "category": "Nature",
+    "created": 1399488687,
+    "tags": [
+      "animal",
+      "macro",
+      "garden",
+      "mini",
+      "wild",
+      "wall",
+      "danger",
+      "cartoon",
+      "fear",
+      "insect",
+      "eight",
+      "hunter",
+      "tiny"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Nature/ant.svg",
+      "eps": "/EPS/Nature/ant.eps",
+      "png": {
+        "32": "/PNG/32/Nature/ant-32.png",
+        "128": "/PNG/128/Nature/ant-128.png",
+        "26": "/PNG/26/Nature/ant-26.png",
+        "256": "/PNG/256/Nature/ant-256.png",
+        "512": "/PNG/512/Nature/ant-512.png",
+        "64": "/PNG/64/Nature/ant-64.png"
+      }
+    }
+  },
+  {
     "id": 1381,
     "name": "antiseptic_cream",
     "platform": "Windows 8/Metro",
@@ -6222,6 +6257,42 @@
     }
   },
   {
+    "id": 4452,
+    "name": "bee",
+    "platform": "Windows 8/Metro",
+    "category": "Nature",
+    "created": 1399488687,
+    "tags": [
+      "animal",
+      "draw",
+      "group",
+      "antenna",
+      "fly",
+      "honey",
+      "bee",
+      "danger",
+      "insect",
+      "creative",
+      "wing",
+      "bite",
+      "tiny",
+      "sting"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Nature/bee.svg",
+      "eps": "/EPS/Nature/bee.eps",
+      "png": {
+        "32": "/PNG/32/Nature/bee-32.png",
+        "128": "/PNG/128/Nature/bee-128.png",
+        "26": "/PNG/26/Nature/bee-26.png",
+        "256": "/PNG/256/Nature/bee-256.png",
+        "512": "/PNG/512/Nature/bee-512.png",
+        "64": "/PNG/64/Nature/bee-64.png"
+      }
+    }
+  },
+  {
     "id": 3696,
     "name": "beer",
     "platform": "Windows 8/Metro",
@@ -7564,6 +7635,7 @@
     "tags": [
       "book",
       "library",
+      "person",
       "printed matter"
     ],
     "copyright": false,
@@ -8689,6 +8761,39 @@
         "512": "/PNG/512/Cultures/bull-512.png",
         "64": "/PNG/64/Cultures/bull-64.png",
         "48": "/PNG/48/Cultures/bull-48.png"
+      }
+    }
+  },
+  {
+    "id": 4450,
+    "name": "bumblebee",
+    "platform": "Windows 8/Metro",
+    "category": "Nature",
+    "created": 1399488687,
+    "tags": [
+      "macro",
+      "bug",
+      "honey",
+      "nature",
+      "wild",
+      "bee",
+      "insect",
+      "wing",
+      "bombus",
+      "bumblebee",
+      "stinger"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Nature/bumblebee.svg",
+      "eps": "/EPS/Nature/bumblebee.eps",
+      "png": {
+        "32": "/PNG/32/Nature/bumblebee-32.png",
+        "128": "/PNG/128/Nature/bumblebee-128.png",
+        "26": "/PNG/26/Nature/bumblebee-26.png",
+        "256": "/PNG/256/Nature/bumblebee-256.png",
+        "512": "/PNG/512/Nature/bumblebee-512.png",
+        "64": "/PNG/64/Nature/bumblebee-64.png"
       }
     }
   },
@@ -18675,6 +18780,7 @@
       "connect",
       "wireless",
       "network",
+      "noise",
       "remote control",
       "disconnect",
       "disconnected",
@@ -23792,7 +23898,8 @@
     "tags": [
       "flag",
       "sign",
-      "euro"
+      "euro",
+      "favourit"
     ],
     "copyright": false,
     "files": {
@@ -45840,7 +45947,8 @@
       "kindergarten",
       "childhood",
       "kids",
-      "materials"
+      "materials",
+      "activity"
     ],
     "copyright": false,
     "files": {
