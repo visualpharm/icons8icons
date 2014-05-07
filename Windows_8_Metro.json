@@ -3145,18 +3145,25 @@
     "created": 1399488687,
     "tags": [
       "animal",
+      "group",
       "macro",
       "garden",
+      "nature",
       "mini",
       "wild",
       "wall",
+      "pain",
       "danger",
       "cartoon",
       "fear",
       "insect",
       "eight",
+      "leg",
       "hunter",
-      "tiny"
+      "tiny",
+      "niger",
+      "hymenoptera",
+      "formicidae"
     ],
     "copyright": false,
     "files": {
@@ -6267,13 +6274,18 @@
       "draw",
       "group",
       "antenna",
+      "wings",
       "fly",
       "honey",
+      "flower",
+      "nature",
       "bee",
       "danger",
       "insect",
       "creative",
+      "wildlife",
       "wing",
+      "leg",
       "bite",
       "tiny",
       "sting"
@@ -8771,13 +8783,18 @@
     "category": "Nature",
     "created": 1399488687,
     "tags": [
+      "group",
       "macro",
       "bug",
+      "green",
+      "fly",
       "honey",
+      "flower",
       "nature",
       "wild",
       "bee",
       "insect",
+      "wildlife",
       "wing",
       "bombus",
       "bumblebee",
@@ -9030,6 +9047,7 @@
       "business",
       "classes",
       "class",
+      "micro",
       "cre opportunity type"
     ],
     "copyright": false,
@@ -16741,14 +16759,8 @@
     "category": "Food",
     "created": 1321879057,
     "tags": [
-      "time",
-      "kitchen set",
-      "tea",
       "water",
-      "mug",
-      "porcelain",
-      "cup",
-      "hot"
+      "cup"
     ],
     "copyright": false,
     "files": {
@@ -29744,8 +29756,8 @@
     "category": "DIY",
     "created": 1349348126,
     "tags": [
-      "diy",
-      "hammer"
+      "screw",
+      "diy"
     ],
     "copyright": false,
     "files": {
@@ -73921,6 +73933,7 @@
       "wireless",
       "network",
       "wifi",
+      "usb",
       "wi-fi",
       "wireless network",
       "wireless connect",

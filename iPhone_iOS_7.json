@@ -1761,6 +1761,50 @@
     }
   },
   {
+    "id": 4454,
+    "name": "ant",
+    "platform": "iPhone/iOS 7",
+    "category": "Animals",
+    "created": 1399495881,
+    "tags": [
+      "animal",
+      "group",
+      "macro",
+      "garden",
+      "nature",
+      "mini",
+      "wild",
+      "wall",
+      "pain",
+      "danger",
+      "cartoon",
+      "fear",
+      "insect",
+      "eight",
+      "leg",
+      "hunter",
+      "tiny",
+      "niger",
+      "hymenoptera",
+      "formicidae"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Animals/ant.svg",
+      "eps": "/EPS/Animals/ant.eps",
+      "png": {
+        "25": "/PNG/25/Animals/ant-25.png",
+        "32": "/PNG/32/Animals/ant-32.png",
+        "128": "/PNG/128/Animals/ant-128.png",
+        "75": "/PNG/75/Animals/ant-75.png",
+        "256": "/PNG/256/Animals/ant-256.png",
+        "100": "/PNG/100/Animals/ant-100.png",
+        "512": "/PNG/512/Animals/ant-512.png",
+        "50": "/PNG/50/Animals/ant-50.png"
+      }
+    }
+  },
+  {
     "id": 1382,
     "name": "antiseptic_cream",
     "platform": "iPhone/iOS 7",
@@ -4061,6 +4105,49 @@
     }
   },
   {
+    "id": 4455,
+    "name": "bee",
+    "platform": "iPhone/iOS 7",
+    "category": "Animals",
+    "created": 1399495881,
+    "tags": [
+      "animal",
+      "draw",
+      "group",
+      "antenna",
+      "wings",
+      "fly",
+      "honey",
+      "flower",
+      "nature",
+      "bee",
+      "danger",
+      "insect",
+      "creative",
+      "wildlife",
+      "wing",
+      "leg",
+      "bite",
+      "tiny",
+      "sting"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Animals/bee.svg",
+      "eps": "/EPS/Animals/bee.eps",
+      "png": {
+        "25": "/PNG/25/Animals/bee-25.png",
+        "32": "/PNG/32/Animals/bee-32.png",
+        "128": "/PNG/128/Animals/bee-128.png",
+        "75": "/PNG/75/Animals/bee-75.png",
+        "256": "/PNG/256/Animals/bee-256.png",
+        "100": "/PNG/100/Animals/bee-100.png",
+        "512": "/PNG/512/Animals/bee-512.png",
+        "50": "/PNG/50/Animals/bee-50.png"
+      }
+    }
+  },
+  {
     "id": 1773,
     "name": "beer",
     "platform": "iPhone/iOS 7",
@@ -5934,6 +6021,46 @@
         "100": "/PNG/100/Cultures/bull-100.png",
         "512": "/PNG/512/Cultures/bull-512.png",
         "50": "/PNG/50/Cultures/bull-50.png"
+      }
+    }
+  },
+  {
+    "id": 4453,
+    "name": "bumblebee",
+    "platform": "iPhone/iOS 7",
+    "category": "Animals",
+    "created": 1399495881,
+    "tags": [
+      "group",
+      "macro",
+      "bug",
+      "green",
+      "fly",
+      "honey",
+      "flower",
+      "nature",
+      "wild",
+      "bee",
+      "insect",
+      "wildlife",
+      "wing",
+      "bombus",
+      "bumblebee",
+      "stinger"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Animals/bumblebee.svg",
+      "eps": "/EPS/Animals/bumblebee.eps",
+      "png": {
+        "25": "/PNG/25/Animals/bumblebee-25.png",
+        "32": "/PNG/32/Animals/bumblebee-32.png",
+        "128": "/PNG/128/Animals/bumblebee-128.png",
+        "75": "/PNG/75/Animals/bumblebee-75.png",
+        "256": "/PNG/256/Animals/bumblebee-256.png",
+        "100": "/PNG/100/Animals/bumblebee-100.png",
+        "512": "/PNG/512/Animals/bumblebee-512.png",
+        "50": "/PNG/50/Animals/bumblebee-50.png"
       }
     }
   },
