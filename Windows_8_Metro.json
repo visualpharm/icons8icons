@@ -52872,13 +52872,13 @@
       "svg.simplified": "/SVG_for_Font/return.svg",
       "eps": "/EPS/Industry/return.eps",
       "png": {
-        "32": "/PNG/Industry/return/return-32.png",
-        "128": "/PNG/Industry/return/return-128.png",
-        "26": "/PNG/Industry/return/return-26.png",
-        "256": "/PNG/Industry/return/return-256.png",
-        "512": "/PNG/Industry/return/return-512.png",
-        "64": "/PNG/Industry/return/return-64.png",
-        "48": "/PNG/Industry/return/return-48.png"
+        "32": "/PNG/32/Industry/return-32.png",
+        "128": "/PNG/128/Industry/return-128.png",
+        "26": "/PNG/26/Industry/return-26.png",
+        "256": "/PNG/256/Industry/return-256.png",
+        "512": "/PNG/512/Industry/return-512.png",
+        "64": "/PNG/64/Industry/return-64.png",
+        "48": "/PNG/48/Industry/return-48.png"
       }
     }
   },
@@ -57169,6 +57169,7 @@
     "category": "Clothing",
     "created": 1348823401,
     "tags": [
+      "food",
       "fashion",
       "leather",
       "cool",
