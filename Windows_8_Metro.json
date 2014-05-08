@@ -6280,9 +6280,9 @@
     "tags": [
       "home",
       "wood",
-      "blanket",
       "pillows",
-      "bed"
+      "bed",
+      "blanket"
     ],
     "copyright": false,
     "files": {
@@ -8656,7 +8656,6 @@
       "frame",
       "color",
       "small",
-      "brush",
       "paint",
       "art",
       "alphabet",
@@ -8678,7 +8677,8 @@
       "stationary",
       "slant",
       "painter",
-      "decorate"
+      "decorate",
+      "brush"
     ],
     "copyright": false,
     "files": {
@@ -11102,39 +11102,6 @@
         "256": "/PNG/256/Nature/caterpillar-256.png",
         "512": "/PNG/512/Nature/caterpillar-512.png",
         "64": "/PNG/64/Nature/caterpillar-64.png"
-      }
-    }
-  },
-  {
-    "id": 4459,
-    "name": "catrpillar",
-    "platform": "Windows 8/Metro",
-    "category": "32",
-    "created": 1399560692,
-    "tags": [
-      "insect",
-      "butterflies",
-      "clothes moth",
-      "silkworm",
-      "noctuidae",
-      "eating machines",
-      "gypsy moth",
-      "lepidoptera",
-      "spinnerets",
-      "sawfly",
-      "silk traps"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Nature/catrpillar.svg",
-      "eps": "/EPS/Nature/catrpillar.eps",
-      "png": {
-        "32": "/PNG/32/Nature/catrpillar-32.png",
-        "128": "/PNG/128/Nature/catrpillar-128.png",
-        "26": "/PNG/26/Nature/catrpillar-26.png",
-        "256": "/PNG/256/Nature/catrpillar-256.png",
-        "512": "/PNG/512/Nature/catrpillar-512.png",
-        "64": "/PNG/64/Nature/catrpillar-64.png"
       }
     }
   },

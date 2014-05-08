@@ -10843,7 +10843,8 @@
     "category": "Charts",
     "created": 1390342414,
     "tags": [
-      "card"
+      "card",
+      "note"
     ],
     "copyright": false,
     "files": {
@@ -20087,6 +20088,7 @@
       "reply",
       "round",
       "next",
+      "share",
       "newletter",
       "ahaha",
       "lock"
@@ -28674,6 +28676,7 @@
     "category": "Messaging",
     "created": 1371509057,
     "tags": [
+      "basket",
       "favourite",
       "store",
       "ticker",
