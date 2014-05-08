@@ -16344,6 +16344,7 @@
       "structure",
       "interface",
       "plugin",
+      "property",
       "piece",
       "enable",
       "extension",
@@ -20855,28 +20856,64 @@
     }
   },
   {
-    "id": 4281,
-    "name": "striketrough",
+    "id": 4457,
+    "name": "strikethrough",
     "platform": "Android",
     "category": "Editing",
-    "created": 1398905484,
+    "created": 1399560692,
     "tags": [
-
+      "design",
+      "vector",
+      "mark",
+      "info",
+      "clear",
+      "symbol",
+      "comment",
+      "illustration",
+      "graphic",
+      "sign",
+      "black",
+      "icon",
+      "layout",
+      "structure",
+      "shape",
+      "interface",
+      "trademark",
+      "identification",
+      "modern",
+      "emblem",
+      "concept",
+      "mathematical",
+      "abstract",
+      "element",
+      "template",
+      "clip art",
+      "geometric",
+      "simplicity",
+      "strip",
+      "branding",
+      "insignia",
+      "stability",
+      "representation",
+      "brief",
+      "annotation",
+      "explanation",
+      "indefinite"
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Editing/striketrough.svg",
-      "eps": "/EPS/Editing/striketrough.eps",
+      "svg": "/SVG/Editing/strikethrough.svg",
+      "eps": "/EPS/Editing/strikethrough.eps",
       "png": {
-        "32": "/PNG/32/Editing/striketrough-32.png",
-        "128": "/PNG/128/Editing/striketrough-128.png",
-        "256": "/PNG/256/Editing/striketrough-256.png",
-        "36": "/PNG/36/Editing/striketrough-36.png",
-        "512": "/PNG/512/Editing/striketrough-512.png",
-        "64": "/PNG/64/Editing/striketrough-64.png",
-        "24": "/PNG/24/Editing/striketrough-24.png",
-        "96": "/PNG/96/Editing/striketrough-96.png",
-        "48": "/PNG/48/Editing/striketrough-48.png"
+        "32": "/PNG/32/Editing/strikethrough-32.png",
+        "128": "/PNG/128/Editing/strikethrough-128.png",
+        "256": "/PNG/256/Editing/strikethrough-256.png",
+        "36": "/PNG/36/Editing/strikethrough-36.png",
+        "512": "/PNG/512/Editing/strikethrough-512.png",
+        "64": "/PNG/64/Editing/strikethrough-64.png",
+        "24": "/PNG/24/Editing/strikethrough-24.png",
+        "96": "/PNG/96/Editing/strikethrough-96.png",
+        "48": "/PNG/48/Editing/strikethrough-48.png"
       }
     }
   },
@@ -23867,6 +23904,32 @@
         "24": "/PNG/24/Sports/trekking-24.png",
         "96": "/PNG/96/Sports/trekking-96.png",
         "48": "/PNG/48/Sports/trekking-48.png"
+      }
+    }
+  },
+  {
+    "id": 4456,
+    "name": "triangle_stroked",
+    "platform": "Android",
+    "category": "Editing",
+    "created": 1399560692,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Editing/triangle_stroked.svg",
+      "eps": "/EPS/Editing/triangle_stroked.eps",
+      "png": {
+        "32": "/PNG/32/Editing/triangle_stroked-32.png",
+        "128": "/PNG/128/Editing/triangle_stroked-128.png",
+        "256": "/PNG/256/Editing/triangle_stroked-256.png",
+        "36": "/PNG/36/Editing/triangle_stroked-36.png",
+        "512": "/PNG/512/Editing/triangle_stroked-512.png",
+        "64": "/PNG/64/Editing/triangle_stroked-64.png",
+        "24": "/PNG/24/Editing/triangle_stroked-24.png",
+        "96": "/PNG/96/Editing/triangle_stroked-96.png",
+        "48": "/PNG/48/Editing/triangle_stroked-48.png"
       }
     }
   },

@@ -1025,7 +1025,8 @@
       "user",
       "checkbox",
       "holiday",
-      "plai"
+      "plai",
+      "chef"
     ],
     "copyright": false,
     "files": {
@@ -2105,6 +2106,7 @@
       "chart",
       "graph",
       "statistics",
+      "setting",
       "term",
       "diagram",
       "area chart"
@@ -30784,7 +30786,6 @@
       "ring",
       "control",
       "edit",
-      "set",
       "information",
       "arrow",
       "outline",
@@ -30823,9 +30824,10 @@
       "interface",
       "button",
       "limit",
-      "multimedia",
       "radio",
-      "templ"
+      "template",
+      "panel",
+      "picto"
     ],
     "copyright": false,
     "files": {
@@ -49424,7 +49426,8 @@
       "format",
       "photo",
       "camera",
-      "orientation"
+      "orientation",
+      "switch camera"
     ],
     "copyright": false,
     "files": {
