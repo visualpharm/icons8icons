@@ -1865,6 +1865,32 @@
     }
   },
   {
+    "id": 4465,
+    "name": "bishop",
+    "platform": "Android",
+    "category": "Gaming",
+    "created": 1399582282,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Gaming/bishop.svg",
+      "eps": "/EPS/Gaming/bishop.eps",
+      "png": {
+        "32": "/PNG/32/Gaming/bishop-32.png",
+        "128": "/PNG/128/Gaming/bishop-128.png",
+        "256": "/PNG/256/Gaming/bishop-256.png",
+        "36": "/PNG/36/Gaming/bishop-36.png",
+        "512": "/PNG/512/Gaming/bishop-512.png",
+        "64": "/PNG/64/Gaming/bishop-64.png",
+        "24": "/PNG/24/Gaming/bishop-24.png",
+        "96": "/PNG/96/Gaming/bishop-96.png",
+        "48": "/PNG/48/Gaming/bishop-48.png"
+      }
+    }
+  },
+  {
     "id": 4328,
     "name": "blackberry",
     "platform": "Android",
@@ -11319,6 +11345,58 @@
     }
   },
   {
+    "id": 4467,
+    "name": "king",
+    "platform": "Android",
+    "category": "Gaming",
+    "created": 1399582282,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Gaming/king.svg",
+      "eps": "/EPS/Gaming/king.eps",
+      "png": {
+        "32": "/PNG/32/Gaming/king-32.png",
+        "128": "/PNG/128/Gaming/king-128.png",
+        "256": "/PNG/256/Gaming/king-256.png",
+        "36": "/PNG/36/Gaming/king-36.png",
+        "512": "/PNG/512/Gaming/king-512.png",
+        "64": "/PNG/64/Gaming/king-64.png",
+        "24": "/PNG/24/Gaming/king-24.png",
+        "96": "/PNG/96/Gaming/king-96.png",
+        "48": "/PNG/48/Gaming/king-48.png"
+      }
+    }
+  },
+  {
+    "id": 4466,
+    "name": "knight",
+    "platform": "Android",
+    "category": "Gaming",
+    "created": 1399582282,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Gaming/knight.svg",
+      "eps": "/EPS/Gaming/knight.eps",
+      "png": {
+        "32": "/PNG/32/Gaming/knight-32.png",
+        "128": "/PNG/128/Gaming/knight-128.png",
+        "256": "/PNG/256/Gaming/knight-256.png",
+        "36": "/PNG/36/Gaming/knight-36.png",
+        "512": "/PNG/512/Gaming/knight-512.png",
+        "64": "/PNG/64/Gaming/knight-64.png",
+        "24": "/PNG/24/Gaming/knight-24.png",
+        "96": "/PNG/96/Gaming/knight-96.png",
+        "48": "/PNG/48/Gaming/knight-48.png"
+      }
+    }
+  },
+  {
     "id": 4079,
     "name": "ladder",
     "platform": "Android",
@@ -14994,6 +15072,32 @@
     }
   },
   {
+    "id": 4468,
+    "name": "pawn",
+    "platform": "Android",
+    "category": "Gaming",
+    "created": 1399582282,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Gaming/pawn.svg",
+      "eps": "/EPS/Gaming/pawn.eps",
+      "png": {
+        "32": "/PNG/32/Gaming/pawn-32.png",
+        "128": "/PNG/128/Gaming/pawn-128.png",
+        "256": "/PNG/256/Gaming/pawn-256.png",
+        "36": "/PNG/36/Gaming/pawn-36.png",
+        "512": "/PNG/512/Gaming/pawn-512.png",
+        "64": "/PNG/64/Gaming/pawn-64.png",
+        "24": "/PNG/24/Gaming/pawn-24.png",
+        "96": "/PNG/96/Gaming/pawn-96.png",
+        "48": "/PNG/48/Gaming/pawn-48.png"
+      }
+    }
+  },
+  {
     "id": 3265,
     "name": "paypal",
     "platform": "Android",
@@ -16407,6 +16511,32 @@
     }
   },
   {
+    "id": 4470,
+    "name": "queen",
+    "platform": "Android",
+    "category": "Gaming",
+    "created": 1399582282,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Gaming/queen.svg",
+      "eps": "/EPS/Gaming/queen.eps",
+      "png": {
+        "32": "/PNG/32/Gaming/queen-32.png",
+        "128": "/PNG/128/Gaming/queen-128.png",
+        "256": "/PNG/256/Gaming/queen-256.png",
+        "36": "/PNG/36/Gaming/queen-36.png",
+        "512": "/PNG/512/Gaming/queen-512.png",
+        "64": "/PNG/64/Gaming/queen-64.png",
+        "24": "/PNG/24/Gaming/queen-24.png",
+        "96": "/PNG/96/Gaming/queen-96.png",
+        "48": "/PNG/48/Gaming/queen-48.png"
+      }
+    }
+  },
+  {
     "id": 3988,
     "name": "quickdraw",
     "platform": "Android",
@@ -17649,6 +17779,32 @@
         "24": "/PNG/24/Editing/roller_brush-24.png",
         "96": "/PNG/96/Editing/roller_brush-96.png",
         "48": "/PNG/48/Editing/roller_brush-48.png"
+      }
+    }
+  },
+  {
+    "id": 4469,
+    "name": "rook",
+    "platform": "Android",
+    "category": "Gaming",
+    "created": 1399582282,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Gaming/rook.svg",
+      "eps": "/EPS/Gaming/rook.eps",
+      "png": {
+        "32": "/PNG/32/Gaming/rook-32.png",
+        "128": "/PNG/128/Gaming/rook-128.png",
+        "256": "/PNG/256/Gaming/rook-256.png",
+        "36": "/PNG/36/Gaming/rook-36.png",
+        "512": "/PNG/512/Gaming/rook-512.png",
+        "64": "/PNG/64/Gaming/rook-64.png",
+        "24": "/PNG/24/Gaming/rook-24.png",
+        "96": "/PNG/96/Gaming/rook-96.png",
+        "48": "/PNG/48/Gaming/rook-48.png"
       }
     }
   },
