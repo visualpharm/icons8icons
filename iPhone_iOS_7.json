@@ -31771,7 +31771,6 @@
     "category": "Shopping",
     "created": 1390342414,
     "tags": [
-      "money",
       "coins"
     ],
     "copyright": false,
@@ -39190,6 +39189,7 @@
     "tags": [
       "mail",
       "news",
+      "doctor",
       "welding"
     ],
     "copyright": false,
@@ -43527,6 +43527,7 @@
       "categories",
       "zalupa",
       "exame",
+      "reorder",
       "detective",
       "find",
       "scan"
@@ -44124,6 +44125,7 @@
       "options",
       "tune",
       "fix",
+      "return",
       "preferences",
       "machinery"
     ],

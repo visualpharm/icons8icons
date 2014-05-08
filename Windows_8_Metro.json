@@ -3168,6 +3168,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Nature/ant.svg",
+      "svg.simplified": "/SVG_for_Font/Nature/ant.svg",
       "eps": "/EPS/Nature/ant.eps",
       "png": {
         "32": "/PNG/32/Nature/ant-32.png",
@@ -6293,6 +6294,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Nature/bee.svg",
+      "svg.simplified": "/SVG_for_Font/Nature/bee.svg",
       "eps": "/EPS/Nature/bee.eps",
       "png": {
         "32": "/PNG/32/Nature/bee-32.png",
@@ -8803,6 +8805,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Nature/bumblebee.svg",
+      "svg.simplified": "/SVG_for_Font/Nature/bumblebee.svg",
       "eps": "/EPS/Nature/bumblebee.eps",
       "png": {
         "32": "/PNG/32/Nature/bumblebee-32.png",
@@ -15857,6 +15860,7 @@
       "home",
       "house",
       "family",
+      "location",
       "logout",
       "shop",
       "log",
@@ -30799,7 +30803,6 @@
       "element",
       "simple",
       "shower",
-      "warmth",
       "clipart",
       "wave",
       "supply",
@@ -30812,7 +30815,7 @@
       "pure",
       "eco",
       "convection",
-      "a"
+      "applianc"
     ],
     "copyright": false,
     "files": {
