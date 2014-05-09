@@ -10470,7 +10470,8 @@
       "latte",
       "espresso",
       "aroma",
-      "lunch"
+      "lunch",
+      "spa"
     ],
     "copyright": false,
     "files": {
@@ -29189,6 +29190,7 @@
       "engage",
       "unlock",
       "search",
+      "share",
       "tv",
       "protected",
       "closed",
@@ -32922,6 +32924,7 @@
       "device",
       "team",
       "tablet",
+      "person",
       "pc",
       "multiple devices"
     ],
@@ -46192,31 +46195,6 @@
         "100": "/PNG/100/Photo_Video/slr_camera2-100.png",
         "512": "/PNG/512/Photo_Video/slr_camera2-512.png",
         "50": "/PNG/50/Photo_Video/slr_camera2-50.png"
-      }
-    }
-  },
-  {
-    "id": 2750,
-    "name": "slr_camera2_filled",
-    "platform": "iPhone/iOS 7",
-    "category": "Photo and Video",
-    "created": 1390342414,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Photo_Video/slr_camera2_filled.svg",
-      "eps": "/EPS/Photo_Video/slr_camera2_filled.eps",
-      "png": {
-        "25": "/PNG/25/Photo_Video/slr_camera2_filled-25.png",
-        "32": "/PNG/32/Photo_Video/slr_camera2_filled-32.png",
-        "128": "/PNG/128/Photo_Video/slr_camera2_filled-128.png",
-        "75": "/PNG/75/Photo_Video/slr_camera2_filled-75.png",
-        "256": "/PNG/256/Photo_Video/slr_camera2_filled-256.png",
-        "100": "/PNG/100/Photo_Video/slr_camera2_filled-100.png",
-        "512": "/PNG/512/Photo_Video/slr_camera2_filled-512.png",
-        "50": "/PNG/50/Photo_Video/slr_camera2_filled-50.png"
       }
     }
   },
