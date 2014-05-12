@@ -1212,18 +1212,9 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
-      "sale",
-      "buy",
-      "money",
-      "coins",
-      "penny",
       "economy",
       "scale",
-      "stores",
-      "mall",
-      "purchasing",
-      "affordable",
-      "retail"
+      "company"
     ],
     "copyright": false,
     "files": {
@@ -4357,6 +4348,7 @@
     "category": "Arrows",
     "created": 1391770248,
     "tags": [
+      "clock",
       "arrows",
       "arrow",
       "zoom out",
@@ -4795,7 +4787,6 @@
     "created": 1399402290,
     "tags": [
       "people",
-      "round",
       "men",
       "black",
       "hands",
@@ -4813,7 +4804,8 @@
       "straight",
       "folded",
       "sat",
-      "sofa"
+      "sofa",
+      "round"
     ],
     "copyright": false,
     "files": {
@@ -5340,6 +5332,7 @@
     "tags": [
       "delivery",
       "track",
+      "user",
       "like",
       "deliveries",
       "man",
@@ -7535,32 +7528,6 @@
         "24": "/PNG/24/Shopping/filled_box-24.png",
         "96": "/PNG/96/Shopping/filled_box-96.png",
         "48": "/PNG/48/Shopping/filled_box-48.png"
-      }
-    }
-  },
-  {
-    "id": 3919,
-    "name": "filled_filter",
-    "platform": "Android",
-    "category": "Objects",
-    "created": 1397249506,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Objects/filled_filter.svg",
-      "eps": "/EPS/Objects/filled_filter.eps",
-      "png": {
-        "32": "/PNG/32/Objects/filled_filter-32.png",
-        "128": "/PNG/128/Objects/filled_filter-128.png",
-        "256": "/PNG/256/Objects/filled_filter-256.png",
-        "36": "/PNG/36/Objects/filled_filter-36.png",
-        "512": "/PNG/512/Objects/filled_filter-512.png",
-        "64": "/PNG/64/Objects/filled_filter-64.png",
-        "24": "/PNG/24/Objects/filled_filter-24.png",
-        "96": "/PNG/96/Objects/filled_filter-96.png",
-        "48": "/PNG/48/Objects/filled_filter-48.png"
       }
     }
   },
@@ -11717,6 +11684,7 @@
       "arrow",
       "direction",
       "diagonal",
+      "left arrow",
       "top left corner",
       "north west"
     ],
@@ -12228,7 +12196,7 @@
     "category": "Mobile",
     "created": 1398905484,
     "tags": [
-
+      "email"
     ],
     "copyright": false,
     "files": {
@@ -24206,7 +24174,8 @@
       "transport set",
       "city",
       "transportation",
-      "subway"
+      "subway",
+      "bus"
     ],
     "copyright": false,
     "files": {
@@ -24970,7 +24939,7 @@
     "category": "Users",
     "created": 1391770248,
     "tags": [
-
+      "task"
     ],
     "copyright": false,
     "files": {
