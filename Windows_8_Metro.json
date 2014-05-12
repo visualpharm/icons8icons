@@ -6310,6 +6310,7 @@
       "animal",
       "draw",
       "group",
+      "arrow",
       "antenna",
       "wings",
       "fly",
@@ -21425,6 +21426,48 @@
     }
   },
   {
+    "id": 4475,
+    "name": "eating_slug",
+    "platform": "Windows 8/Metro",
+    "category": "Nature",
+    "created": 1399927881,
+    "tags": [
+      "animal",
+      "food",
+      "heart",
+      "eating",
+      "bird",
+      "leaf",
+      "nature",
+      "art",
+      "cartoon",
+      "duck",
+      "hen",
+      "slug",
+      "green plant",
+      "consuming",
+      "digesting",
+      "mollusc",
+      "survival",
+      "wood doll",
+      "peacock",
+      "teddy bear"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Nature/eating_slug.svg",
+      "eps": "/EPS/Nature/eating_slug.eps",
+      "png": {
+        "32": "/PNG/32/Nature/eating_slug-32.png",
+        "128": "/PNG/128/Nature/eating_slug-128.png",
+        "26": "/PNG/26/Nature/eating_slug-26.png",
+        "256": "/PNG/256/Nature/eating_slug-256.png",
+        "512": "/PNG/512/Nature/eating_slug-512.png",
+        "64": "/PNG/64/Nature/eating_slug-64.png"
+      }
+    }
+  },
+  {
     "id": 48,
     "name": "edit",
     "platform": "Windows 8/Metro",
@@ -22952,7 +22995,6 @@
       "login",
       "background",
       "cutout",
-      "hold",
       "clarity",
       "direction decision",
       "directive",
@@ -39681,10 +39723,10 @@
       "multimedia",
       "radio",
       "template",
-      "navigation",
       "pictogram",
       "thick",
-      "info"
+      "infographic",
+      "cli"
     ],
     "copyright": false,
     "files": {
@@ -50021,7 +50063,8 @@
       "tag",
       "label",
       "parts",
-      "spare part"
+      "spare part",
+      "100"
     ],
     "copyright": false,
     "files": {
@@ -56963,16 +57006,15 @@
     "created": 1327313615,
     "tags": [
       "admin",
-      "batch",
-      "control",
-      "web",
       "search",
       "item",
       "services",
       "auto",
-      "process",
       "administration",
       "processing",
+      "batch",
+      "control",
+      "process",
       "preferences",
       "automation",
       "settings"
@@ -59373,6 +59415,38 @@
     }
   },
   {
+    "id": 4471,
+    "name": "slug",
+    "platform": "Windows 8/Metro",
+    "category": "Nature",
+    "created": 1399927881,
+    "tags": [
+      "bird",
+      "feet",
+      "boot",
+      "cartoon",
+      "banana",
+      "stool",
+      "doll",
+      "hen",
+      "dollphin",
+      "sacks"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Nature/slug.svg",
+      "eps": "/EPS/Nature/slug.eps",
+      "png": {
+        "32": "/PNG/32/Nature/slug-32.png",
+        "128": "/PNG/128/Nature/slug-128.png",
+        "26": "/PNG/26/Nature/slug-26.png",
+        "256": "/PNG/256/Nature/slug-256.png",
+        "512": "/PNG/512/Nature/slug-512.png",
+        "64": "/PNG/64/Nature/slug-64.png"
+      }
+    }
+  },
+  {
     "id": 2377,
     "name": "small_axe",
     "platform": "Windows 8/Metro",
@@ -59648,6 +59722,47 @@
         "512": "/PNG/512/Mobile/sms-512.png",
         "64": "/PNG/64/Mobile/sms-64.png",
         "48": "/PNG/48/Mobile/sms-48.png"
+      }
+    }
+  },
+  {
+    "id": 4473,
+    "name": "snail",
+    "platform": "Windows 8/Metro",
+    "category": "Nature",
+    "created": 1399927881,
+    "tags": [
+      "animal",
+      "food",
+      "sticky",
+      "antenna",
+      "garden",
+      "leaf",
+      "creature",
+      "shell",
+      "slow",
+      "tiny",
+      "snail",
+      "escargot",
+      "gastropod molluscs",
+      "slug",
+      "slimy",
+      "crawling organism",
+      "coiled shell",
+      "slimy animal",
+      "slime"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Nature/snail.svg",
+      "eps": "/EPS/Nature/snail.eps",
+      "png": {
+        "32": "/PNG/32/Nature/snail-32.png",
+        "128": "/PNG/128/Nature/snail-128.png",
+        "26": "/PNG/26/Nature/snail-26.png",
+        "256": "/PNG/256/Nature/snail-256.png",
+        "512": "/PNG/512/Nature/snail-512.png",
+        "64": "/PNG/64/Nature/snail-64.png"
       }
     }
   },
@@ -69641,6 +69756,7 @@
     "category": "Very Basic",
     "created": 1323361504,
     "tags": [
+      "save",
       "upload",
       "video",
       "index",
