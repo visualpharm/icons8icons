@@ -7627,7 +7627,8 @@
       "rabbit",
       "legume",
       "garden",
-      "fresh"
+      "fresh",
+      "carrot"
     ],
     "copyright": false,
     "files": {
@@ -17778,6 +17779,7 @@
     "created": 1385373697,
     "tags": [
       "clock",
+      "card",
       "exit",
       "arrow",
       "direction",
@@ -17813,7 +17815,8 @@
       "perimeter",
       "arrow pointing up",
       "encircled",
-      "radii"
+      "radii",
+      "tile"
     ],
     "copyright": false,
     "files": {

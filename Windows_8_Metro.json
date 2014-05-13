@@ -3198,6 +3198,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Business/answers.svg",
+      "svg.simplified": "/SVG_for_Font/Business/answers.svg",
       "eps": "/EPS/Business/answers.eps",
       "png": {
         "32": "/PNG/32/Business/answers-32.png",
@@ -5169,6 +5170,7 @@
       "liquidity",
       "liquidities",
       "money",
+      "contract",
       "checklist"
     ],
     "copyright": false,
@@ -10612,7 +10614,8 @@
       "driver",
       "windshield",
       "car",
-      "speed"
+      "speed",
+      "bike"
     ],
     "copyright": false,
     "files": {
@@ -35376,7 +35379,7 @@
     "category": "Very Basic",
     "created": 1399402290,
     "tags": [
-
+      "info"
     ],
     "copyright": false,
     "files": {
@@ -51434,6 +51437,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Business/questions.svg",
+      "svg.simplified": "/SVG_for_Font/Business/questions.svg",
       "eps": "/EPS/Business/questions.eps",
       "png": {
         "32": "/PNG/32/Business/questions-32.png",
@@ -52315,6 +52319,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Business/ratings.svg",
+      "svg.simplified": "/SVG_for_Font/Business/ratings.svg",
       "eps": "/EPS/Business/ratings.eps",
       "png": {
         "32": "/PNG/32/Business/ratings-32.png",
@@ -69688,6 +69693,7 @@
       "back",
       "left turn",
       "pellet",
+      "facebook like",
       "arrow"
     ],
     "copyright": false,
@@ -72628,6 +72634,7 @@
     "created": 1328178468,
     "tags": [
       "home",
+      "programs",
       "wood",
       "furniture"
     ],
