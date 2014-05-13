@@ -3168,6 +3168,48 @@
     }
   },
   {
+    "id": 4498,
+    "name": "answers",
+    "platform": "Windows 8/Metro",
+    "category": "Business",
+    "created": 1399978278,
+    "tags": [
+      "file",
+      "paper",
+      "print",
+      "mail",
+      "read",
+      "label",
+      "notification",
+      "text",
+      "problem",
+      "description",
+      "attractive",
+      "exlamantory",
+      "ah",
+      "dual ah",
+      "i back side",
+      "image of i",
+      "good expressive",
+      "differents",
+      "making different",
+      "expectation not end"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/answers.svg",
+      "eps": "/EPS/Business/answers.eps",
+      "png": {
+        "32": "/PNG/32/Business/answers-32.png",
+        "128": "/PNG/128/Business/answers-128.png",
+        "26": "/PNG/26/Business/answers-26.png",
+        "256": "/PNG/256/Business/answers-256.png",
+        "512": "/PNG/512/Business/answers-512.png",
+        "64": "/PNG/64/Business/answers-64.png"
+      }
+    }
+  },
+  {
     "id": 4451,
     "name": "ant",
     "platform": "Windows 8/Metro",
@@ -17391,7 +17433,8 @@
       "database configuration",
       "datacenter",
       "data base",
-      "db"
+      "db",
+      "database managing"
     ],
     "copyright": false,
     "files": {
@@ -48454,6 +48497,7 @@
       "dates",
       "boss",
       "office stuff",
+      "event",
       "task",
       "computer"
     ],
@@ -51361,6 +51405,38 @@
     }
   },
   {
+    "id": 4500,
+    "name": "questions",
+    "platform": "Windows 8/Metro",
+    "category": "Business",
+    "created": 1399978278,
+    "tags": [
+      "file",
+      "print",
+      "read",
+      "document",
+      "mystery",
+      "question mark",
+      "questionnaire",
+      "test",
+      "two-pages",
+      "who-dunnit"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/questions.svg",
+      "eps": "/EPS/Business/questions.eps",
+      "png": {
+        "32": "/PNG/32/Business/questions-32.png",
+        "128": "/PNG/128/Business/questions-128.png",
+        "26": "/PNG/26/Business/questions-26.png",
+        "256": "/PNG/256/Business/questions-256.png",
+        "512": "/PNG/512/Business/questions-512.png",
+        "64": "/PNG/64/Business/questions-64.png"
+      }
+    }
+  },
+  {
     "id": 874,
     "name": "question_shield",
     "platform": "Windows 8/Metro",
@@ -52196,6 +52272,48 @@
         "512": "/PNG/512/Very_Basic/rating-512.png",
         "64": "/PNG/64/Very_Basic/rating-64.png",
         "48": "/PNG/48/Very_Basic/rating-48.png"
+      }
+    }
+  },
+  {
+    "id": 4496,
+    "name": "ratings",
+    "platform": "Windows 8/Metro",
+    "category": "Business",
+    "created": 1399978278,
+    "tags": [
+      "mail",
+      "message",
+      "read",
+      "arrow",
+      "direction",
+      "graph",
+      "statistics",
+      "overview",
+      "data",
+      "presentation",
+      "label",
+      "business",
+      "motion",
+      "point",
+      "upward",
+      "route",
+      "finance",
+      "article",
+      "movement",
+      "result"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/ratings.svg",
+      "eps": "/EPS/Business/ratings.eps",
+      "png": {
+        "32": "/PNG/32/Business/ratings-32.png",
+        "128": "/PNG/128/Business/ratings-128.png",
+        "26": "/PNG/26/Business/ratings-26.png",
+        "256": "/PNG/256/Business/ratings-256.png",
+        "512": "/PNG/512/Business/ratings-512.png",
+        "64": "/PNG/64/Business/ratings-64.png"
       }
     }
   },
@@ -64522,6 +64640,7 @@
       "steel",
       "activity",
       "week",
+      "event",
       "shppong"
     ],
     "copyright": false,
@@ -70260,7 +70379,8 @@
       "logo",
       "stream",
       "utorrent",
-      "streaming"
+      "streaming",
+      "winrar"
     ],
     "copyright": true,
     "files": {

@@ -1764,6 +1764,50 @@
     }
   },
   {
+    "id": 4499,
+    "name": "answers",
+    "platform": "iPhone/iOS 7",
+    "category": "Business",
+    "created": 1399978278,
+    "tags": [
+      "file",
+      "paper",
+      "print",
+      "mail",
+      "read",
+      "label",
+      "notification",
+      "text",
+      "problem",
+      "description",
+      "attractive",
+      "exlamantory",
+      "ah",
+      "dual ah",
+      "i back side",
+      "image of i",
+      "good expressive",
+      "differents",
+      "making different",
+      "expectation not end"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/answers.svg",
+      "eps": "/EPS/Business/answers.eps",
+      "png": {
+        "25": "/PNG/25/Business/answers-25.png",
+        "32": "/PNG/32/Business/answers-32.png",
+        "128": "/PNG/128/Business/answers-128.png",
+        "75": "/PNG/75/Business/answers-75.png",
+        "256": "/PNG/256/Business/answers-256.png",
+        "100": "/PNG/100/Business/answers-100.png",
+        "512": "/PNG/512/Business/answers-512.png",
+        "50": "/PNG/50/Business/answers-50.png"
+      }
+    }
+  },
+  {
     "id": 4454,
     "name": "ant",
     "platform": "iPhone/iOS 7",
@@ -39845,6 +39889,40 @@
     }
   },
   {
+    "id": 4501,
+    "name": "questions",
+    "platform": "iPhone/iOS 7",
+    "category": "Business",
+    "created": 1399978278,
+    "tags": [
+      "file",
+      "print",
+      "read",
+      "document",
+      "mystery",
+      "question mark",
+      "questionnaire",
+      "test",
+      "two-pages",
+      "who-dunnit"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/questions.svg",
+      "eps": "/EPS/Business/questions.eps",
+      "png": {
+        "25": "/PNG/25/Business/questions-25.png",
+        "32": "/PNG/32/Business/questions-32.png",
+        "128": "/PNG/128/Business/questions-128.png",
+        "75": "/PNG/75/Business/questions-75.png",
+        "256": "/PNG/256/Business/questions-256.png",
+        "100": "/PNG/100/Business/questions-100.png",
+        "512": "/PNG/512/Business/questions-512.png",
+        "50": "/PNG/50/Business/questions-50.png"
+      }
+    }
+  },
+  {
     "id": 3718,
     "name": "question_shield",
     "platform": "iPhone/iOS 7",
@@ -40500,6 +40578,50 @@
         "100": "/PNG/100/Astrology/rat-100.png",
         "512": "/PNG/512/Astrology/rat-512.png",
         "50": "/PNG/50/Astrology/rat-50.png"
+      }
+    }
+  },
+  {
+    "id": 4497,
+    "name": "ratings",
+    "platform": "iPhone/iOS 7",
+    "category": "Business",
+    "created": 1399978278,
+    "tags": [
+      "mail",
+      "message",
+      "read",
+      "arrow",
+      "direction",
+      "graph",
+      "statistics",
+      "overview",
+      "data",
+      "presentation",
+      "label",
+      "business",
+      "motion",
+      "point",
+      "upward",
+      "route",
+      "finance",
+      "article",
+      "movement",
+      "result"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/ratings.svg",
+      "eps": "/EPS/Business/ratings.eps",
+      "png": {
+        "25": "/PNG/25/Business/ratings-25.png",
+        "32": "/PNG/32/Business/ratings-32.png",
+        "128": "/PNG/128/Business/ratings-128.png",
+        "75": "/PNG/75/Business/ratings-75.png",
+        "256": "/PNG/256/Business/ratings-256.png",
+        "100": "/PNG/100/Business/ratings-100.png",
+        "512": "/PNG/512/Business/ratings-512.png",
+        "50": "/PNG/50/Business/ratings-50.png"
       }
     }
   },
