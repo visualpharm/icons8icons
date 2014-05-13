@@ -44625,6 +44625,7 @@
       "web",
       "data",
       "internet",
+      "save",
       "document",
       "symbol",
       "media",
@@ -44656,8 +44657,7 @@
       "particles",
       "greater",
       "quadrate pictogram",
-      "computer application",
-      "regul"
+      "computer application"
     ],
     "copyright": false,
     "files": {
