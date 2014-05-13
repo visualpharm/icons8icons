@@ -26106,7 +26106,8 @@
       "tablet",
       "ipad",
       "tablets",
-      "ipad mini"
+      "ipad mini",
+      "macbook"
     ],
     "copyright": true,
     "files": {
@@ -48506,7 +48507,9 @@
       "medicine",
       "health",
       "hospital",
-      "stethoscope"
+      "stethoscope",
+      "financial",
+      "financials"
     ],
     "copyright": false,
     "files": {
@@ -54572,7 +54575,8 @@
     "category": "Transport",
     "created": 1394729489,
     "tags": [
-      "van"
+      "van",
+      "financial services"
     ],
     "copyright": false,
     "files": {

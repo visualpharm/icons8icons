@@ -6565,7 +6565,10 @@
     "category": "Media Controls",
     "created": 1396644701,
     "tags": [
+      "cd",
+      "disk",
       "media",
+      "image",
       "media controls",
       "eject"
     ],
@@ -17304,8 +17307,12 @@
     "category": "Media Controls",
     "created": 1396644701,
     "tags": [
+      "audio",
+      "video",
+      "recording",
       "record",
-      "media controls"
+      "media controls",
+      "audio note"
     ],
     "copyright": false,
     "files": {
@@ -17641,7 +17648,9 @@
     "created": 1396644701,
     "tags": [
       "repeat",
-      "media controls"
+      "cycle",
+      "media controls",
+      "rewind"
     ],
     "copyright": false,
     "files": {
