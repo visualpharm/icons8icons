@@ -905,6 +905,32 @@
     }
   },
   {
+    "id": 4511,
+    "name": "aquarius",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1400010681,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/aquarius.svg",
+      "eps": "/EPS/Astrology/aquarius.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/aquarius-32.png",
+        "128": "/PNG/128/Astrology/aquarius-128.png",
+        "256": "/PNG/256/Astrology/aquarius-256.png",
+        "36": "/PNG/36/Astrology/aquarius-36.png",
+        "512": "/PNG/512/Astrology/aquarius-512.png",
+        "64": "/PNG/64/Astrology/aquarius-64.png",
+        "24": "/PNG/24/Astrology/aquarius-24.png",
+        "96": "/PNG/96/Astrology/aquarius-96.png",
+        "48": "/PNG/48/Astrology/aquarius-48.png"
+      }
+    }
+  },
+  {
     "id": 4505,
     "name": "aries",
     "platform": "Android",
@@ -2993,6 +3019,32 @@
         "24": "/PNG/24/Industry/capacitor-24.png",
         "96": "/PNG/96/Industry/capacitor-96.png",
         "48": "/PNG/48/Industry/capacitor-48.png"
+      }
+    }
+  },
+  {
+    "id": 4518,
+    "name": "capricorn",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1400010681,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/capricorn.svg",
+      "eps": "/EPS/Astrology/capricorn.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/capricorn-32.png",
+        "128": "/PNG/128/Astrology/capricorn-128.png",
+        "256": "/PNG/256/Astrology/capricorn-256.png",
+        "36": "/PNG/36/Astrology/capricorn-36.png",
+        "512": "/PNG/512/Astrology/capricorn-512.png",
+        "64": "/PNG/64/Astrology/capricorn-64.png",
+        "24": "/PNG/24/Astrology/capricorn-24.png",
+        "96": "/PNG/96/Astrology/capricorn-96.png",
+        "48": "/PNG/48/Astrology/capricorn-48.png"
       }
     }
   },
@@ -8042,6 +8094,32 @@
     }
   },
   {
+    "id": 4515,
+    "name": "first_quarter",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1400010681,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/first_quarter.svg",
+      "eps": "/EPS/Astrology/first_quarter.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/first_quarter-32.png",
+        "128": "/PNG/128/Astrology/first_quarter-128.png",
+        "256": "/PNG/256/Astrology/first_quarter-256.png",
+        "36": "/PNG/36/Astrology/first_quarter-36.png",
+        "512": "/PNG/512/Astrology/first_quarter-512.png",
+        "64": "/PNG/64/Astrology/first_quarter-64.png",
+        "24": "/PNG/24/Astrology/first_quarter-24.png",
+        "96": "/PNG/96/Astrology/first_quarter-96.png",
+        "48": "/PNG/48/Astrology/first_quarter-48.png"
+      }
+    }
+  },
+  {
     "id": 4020,
     "name": "fish",
     "platform": "Android",
@@ -8508,6 +8586,32 @@
         "24": "/PNG/24/Mobile/full_battery-24.png",
         "96": "/PNG/96/Mobile/full_battery-96.png",
         "48": "/PNG/48/Mobile/full_battery-48.png"
+      }
+    }
+  },
+  {
+    "id": 4512,
+    "name": "full_moon",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1400010681,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/full_moon.svg",
+      "eps": "/EPS/Astrology/full_moon.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/full_moon-32.png",
+        "128": "/PNG/128/Astrology/full_moon-128.png",
+        "256": "/PNG/256/Astrology/full_moon-256.png",
+        "36": "/PNG/36/Astrology/full_moon-36.png",
+        "512": "/PNG/512/Astrology/full_moon-512.png",
+        "64": "/PNG/64/Astrology/full_moon-64.png",
+        "24": "/PNG/24/Astrology/full_moon-24.png",
+        "96": "/PNG/96/Astrology/full_moon-96.png",
+        "48": "/PNG/48/Astrology/full_moon-48.png"
       }
     }
   },
@@ -11921,6 +12025,32 @@
     }
   },
   {
+    "id": 4521,
+    "name": "last_quarter",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1400010681,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/last_quarter.svg",
+      "eps": "/EPS/Astrology/last_quarter.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/last_quarter-32.png",
+        "128": "/PNG/128/Astrology/last_quarter-128.png",
+        "256": "/PNG/256/Astrology/last_quarter-256.png",
+        "36": "/PNG/36/Astrology/last_quarter-36.png",
+        "512": "/PNG/512/Astrology/last_quarter-512.png",
+        "64": "/PNG/64/Astrology/last_quarter-64.png",
+        "24": "/PNG/24/Astrology/last_quarter-24.png",
+        "96": "/PNG/96/Astrology/last_quarter-96.png",
+        "48": "/PNG/48/Astrology/last_quarter-48.png"
+      }
+    }
+  },
+  {
     "id": 3788,
     "name": "layers",
     "platform": "Android",
@@ -14893,6 +15023,32 @@
         "24": "/PNG/24/Shopping/new-24.png",
         "96": "/PNG/96/Shopping/new-96.png",
         "48": "/PNG/48/Shopping/new-48.png"
+      }
+    }
+  },
+  {
+    "id": 4516,
+    "name": "new_moon",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1400010681,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/new_moon.svg",
+      "eps": "/EPS/Astrology/new_moon.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/new_moon-32.png",
+        "128": "/PNG/128/Astrology/new_moon-128.png",
+        "256": "/PNG/256/Astrology/new_moon-256.png",
+        "36": "/PNG/36/Astrology/new_moon-36.png",
+        "512": "/PNG/512/Astrology/new_moon-512.png",
+        "64": "/PNG/64/Astrology/new_moon-64.png",
+        "24": "/PNG/24/Astrology/new_moon-24.png",
+        "96": "/PNG/96/Astrology/new_moon-96.png",
+        "48": "/PNG/48/Astrology/new_moon-48.png"
       }
     }
   },
@@ -19022,6 +19178,32 @@
         "24": "/PNG/24/Healthcare/safety_pin-24.png",
         "96": "/PNG/96/Healthcare/safety_pin-96.png",
         "48": "/PNG/48/Healthcare/safety_pin-48.png"
+      }
+    }
+  },
+  {
+    "id": 4517,
+    "name": "sagittarius",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1400010681,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/sagittarius.svg",
+      "eps": "/EPS/Astrology/sagittarius.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/sagittarius-32.png",
+        "128": "/PNG/128/Astrology/sagittarius-128.png",
+        "256": "/PNG/256/Astrology/sagittarius-256.png",
+        "36": "/PNG/36/Astrology/sagittarius-36.png",
+        "512": "/PNG/512/Astrology/sagittarius-512.png",
+        "64": "/PNG/64/Astrology/sagittarius-64.png",
+        "24": "/PNG/24/Astrology/sagittarius-24.png",
+        "96": "/PNG/96/Astrology/sagittarius-96.png",
+        "48": "/PNG/48/Astrology/sagittarius-48.png"
       }
     }
   },
@@ -26453,6 +26635,58 @@
     }
   },
   {
+    "id": 4519,
+    "name": "waning_crescent",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1400010681,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/waning_crescent.svg",
+      "eps": "/EPS/Astrology/waning_crescent.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/waning_crescent-32.png",
+        "128": "/PNG/128/Astrology/waning_crescent-128.png",
+        "256": "/PNG/256/Astrology/waning_crescent-256.png",
+        "36": "/PNG/36/Astrology/waning_crescent-36.png",
+        "512": "/PNG/512/Astrology/waning_crescent-512.png",
+        "64": "/PNG/64/Astrology/waning_crescent-64.png",
+        "24": "/PNG/24/Astrology/waning_crescent-24.png",
+        "96": "/PNG/96/Astrology/waning_crescent-96.png",
+        "48": "/PNG/48/Astrology/waning_crescent-48.png"
+      }
+    }
+  },
+  {
+    "id": 4514,
+    "name": "waning_gibbous",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1400010681,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/waning_gibbous.svg",
+      "eps": "/EPS/Astrology/waning_gibbous.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/waning_gibbous-32.png",
+        "128": "/PNG/128/Astrology/waning_gibbous-128.png",
+        "256": "/PNG/256/Astrology/waning_gibbous-256.png",
+        "36": "/PNG/36/Astrology/waning_gibbous-36.png",
+        "512": "/PNG/512/Astrology/waning_gibbous-512.png",
+        "64": "/PNG/64/Astrology/waning_gibbous-64.png",
+        "24": "/PNG/24/Astrology/waning_gibbous-24.png",
+        "96": "/PNG/96/Astrology/waning_gibbous-96.png",
+        "48": "/PNG/48/Astrology/waning_gibbous-48.png"
+      }
+    }
+  },
+  {
     "id": 4070,
     "name": "water",
     "platform": "Android",
@@ -26475,6 +26709,58 @@
         "24": "/PNG/24/Industry/water-24.png",
         "96": "/PNG/96/Industry/water-96.png",
         "48": "/PNG/48/Industry/water-48.png"
+      }
+    }
+  },
+  {
+    "id": 4513,
+    "name": "waxing_crescent",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1400010681,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/waxing_crescent.svg",
+      "eps": "/EPS/Astrology/waxing_crescent.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/waxing_crescent-32.png",
+        "128": "/PNG/128/Astrology/waxing_crescent-128.png",
+        "256": "/PNG/256/Astrology/waxing_crescent-256.png",
+        "36": "/PNG/36/Astrology/waxing_crescent-36.png",
+        "512": "/PNG/512/Astrology/waxing_crescent-512.png",
+        "64": "/PNG/64/Astrology/waxing_crescent-64.png",
+        "24": "/PNG/24/Astrology/waxing_crescent-24.png",
+        "96": "/PNG/96/Astrology/waxing_crescent-96.png",
+        "48": "/PNG/48/Astrology/waxing_crescent-48.png"
+      }
+    }
+  },
+  {
+    "id": 4520,
+    "name": "waxing_gibbous",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1400010681,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/waxing_gibbous.svg",
+      "eps": "/EPS/Astrology/waxing_gibbous.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/waxing_gibbous-32.png",
+        "128": "/PNG/128/Astrology/waxing_gibbous-128.png",
+        "256": "/PNG/256/Astrology/waxing_gibbous-256.png",
+        "36": "/PNG/36/Astrology/waxing_gibbous-36.png",
+        "512": "/PNG/512/Astrology/waxing_gibbous-512.png",
+        "64": "/PNG/64/Astrology/waxing_gibbous-64.png",
+        "24": "/PNG/24/Astrology/waxing_gibbous-24.png",
+        "96": "/PNG/96/Astrology/waxing_gibbous-96.png",
+        "48": "/PNG/48/Astrology/waxing_gibbous-48.png"
       }
     }
   },
