@@ -21457,6 +21457,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Nature/eating_slug.svg",
+      "svg.simplified": "/SVG_for_Font/Nature/eating_slug.svg",
       "eps": "/EPS/Nature/eating_slug.eps",
       "png": {
         "32": "/PNG/32/Nature/eating_slug-32.png",
@@ -23532,7 +23533,8 @@
       "power station",
       "smoke stack",
       "master data",
-      "emission"
+      "emission",
+      "industrialization"
     ],
     "copyright": false,
     "files": {
@@ -25597,6 +25599,7 @@
       "food",
       "beverage",
       "drink",
+      "nutrition",
       "restaurant",
       "dinner",
       "breakfast",
@@ -59474,6 +59477,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Nature/slug.svg",
+      "svg.simplified": "/SVG_for_Font/Nature/slug.svg",
       "eps": "/EPS/Nature/slug.eps",
       "png": {
         "32": "/PNG/32/Nature/slug-32.png",
@@ -59794,6 +59798,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Nature/snail.svg",
+      "svg.simplified": "/SVG_for_Font/Nature/snail.svg",
       "eps": "/EPS/Nature/snail.eps",
       "png": {
         "32": "/PNG/32/Nature/snail-32.png",
@@ -63103,7 +63108,8 @@
       "nori",
       "salmon",
       "sashimi",
-      "prepared fish"
+      "prepared fish",
+      "pasta"
     ],
     "copyright": false,
     "files": {
