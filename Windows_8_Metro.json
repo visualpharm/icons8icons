@@ -5164,6 +5164,8 @@
     "created": 1319154613,
     "tags": [
       "cash",
+      "print",
+      "printer",
       "payment",
       "banknotes",
       "banknote",
@@ -12893,7 +12895,8 @@
       "apps",
       "chrome",
       "global",
-      "type"
+      "type",
+      "spotify"
     ],
     "copyright": true,
     "files": {
@@ -24523,6 +24526,7 @@
       "virtual",
       "computer",
       "browser",
+      "chrome",
       "firefox"
     ],
     "copyright": true,
@@ -37013,7 +37017,7 @@
     "category": "Folders",
     "created": 1394020283,
     "tags": [
-
+      "folder"
     ],
     "copyright": false,
     "files": {
@@ -42257,6 +42261,7 @@
       "tablet",
       "pc",
       "oil",
+      "danger",
       "multiple devices"
     ],
     "copyright": false,
@@ -67362,6 +67367,7 @@
     "tags": [
       "calendar",
       "time",
+      "cancel",
       "folder",
       "memo",
       "dates",

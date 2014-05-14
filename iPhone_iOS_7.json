@@ -13216,6 +13216,7 @@
       "way",
       "table",
       "figure",
+      "share",
       "schedule"
     ],
     "copyright": false,
@@ -31042,8 +31043,8 @@
       "limit",
       "radio",
       "template",
-      "panel",
-      "picto"
+      "hamburger",
+      "p"
     ],
     "copyright": false,
     "files": {
@@ -35338,7 +35339,8 @@
       "comments",
       "ide",
       "source code",
-      "variables"
+      "variables",
+      "pdf icon"
     ],
     "copyright": false,
     "files": {
@@ -44437,6 +44439,7 @@
       "sort",
       "history",
       "preferences",
+      "Upload a photo",
       "about"
     ],
     "copyright": false,
@@ -47449,6 +47452,7 @@
       "oral",
       "speaking",
       "expression",
+      "profile",
       "message",
       "chat",
       "bubble"
@@ -48057,6 +48061,7 @@
       "business",
       "image",
       "safety",
+      "camera",
       "icon",
       "clip art",
       "colorless",
@@ -55566,6 +55571,7 @@
     "tags": [
       "calendar",
       "line",
+      "sound",
       "upload",
       "video",
       "cart",
@@ -60071,7 +60077,8 @@
       "sports",
       "lifestyle",
       "yoga",
-      "concentrate"
+      "concentrate",
+      "Snooker"
     ],
     "copyright": false,
     "files": {
