@@ -3,7 +3,7 @@
     "id": 2584,
     "name": "0",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Alphabet",
     "created": 1390342413,
     "tags": [
 
@@ -27,7 +27,7 @@
     "id": 1472,
     "name": "0_c",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Alphabet",
     "created": 1328784145,
     "tags": [
       "chart",
@@ -56,7 +56,7 @@
     "id": 1437,
     "name": "1",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Alphabet",
     "created": 1328869775,
     "tags": [
       "numbers",
@@ -86,7 +86,7 @@
     "id": 1463,
     "name": "1_c",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Alphabet",
     "created": 1328628248,
     "tags": [
       "calculator",
@@ -117,7 +117,7 @@
     "id": 1438,
     "name": "2",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Alphabet",
     "created": 1328869775,
     "tags": [
       "numbers",
@@ -145,7 +145,7 @@
     "id": 2587,
     "name": "25_percent",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Mobile",
     "created": 1390342413,
     "tags": [
 
@@ -339,7 +339,7 @@
     "id": 1464,
     "name": "2_c",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Alphabet",
     "created": 1328628248,
     "tags": [
       "calculator",
@@ -370,7 +370,7 @@
     "id": 1439,
     "name": "3",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Alphabet",
     "created": 1328869775,
     "tags": [
       "numbers",
@@ -478,7 +478,7 @@
     "id": 1465,
     "name": "3_c",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Alphabet",
     "created": 1328628248,
     "tags": [
       "calculator",
@@ -510,7 +510,7 @@
     "id": 603,
     "name": "4",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Alphabet",
     "created": 1329131573,
     "tags": [
       "calculate",
@@ -538,7 +538,7 @@
     "id": 1466,
     "name": "4_c",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Alphabet",
     "created": 1328783917,
     "tags": [
       "line",
@@ -566,7 +566,7 @@
     "id": 604,
     "name": "5",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Alphabet",
     "created": 1329131573,
     "tags": [
       "cash",
@@ -603,7 +603,7 @@
     "id": 2482,
     "name": "50_percent",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Mobile",
     "created": 1390342413,
     "tags": [
 
@@ -627,7 +627,7 @@
     "id": 1467,
     "name": "5_c",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Alphabet",
     "created": 1328783917,
     "tags": [
       "line",
@@ -656,7 +656,7 @@
     "id": 605,
     "name": "6",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Alphabet",
     "created": 1329131573,
     "tags": [
       "cash",
@@ -720,7 +720,7 @@
     "id": 1468,
     "name": "6_c",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Alphabet",
     "created": 1328783917,
     "tags": [
       "line",
@@ -750,7 +750,7 @@
     "id": 606,
     "name": "7",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Alphabet",
     "created": 1329208293,
     "tags": [
       "multiply",
@@ -786,7 +786,7 @@
     "id": 3740,
     "name": "75_percent",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Mobile",
     "created": 1396309902,
     "tags": [
       "Battery percent"
@@ -840,7 +840,7 @@
     "id": 1469,
     "name": "7_c",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Alphabet",
     "created": 1328784145,
     "tags": [
       "chart",
@@ -867,7 +867,7 @@
     "id": 607,
     "name": "8",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Alphabet",
     "created": 1329208293,
     "tags": [
       "multiply",
@@ -902,7 +902,7 @@
     "id": 1470,
     "name": "8_c",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Alphabet",
     "created": 1328784145,
     "tags": [
       "chart",
@@ -931,7 +931,7 @@
     "id": 608,
     "name": "9",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Alphabet",
     "created": 1329208293,
     "tags": [
       "multiply",
@@ -966,7 +966,7 @@
     "id": 1471,
     "name": "9_c",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Alphabet",
     "created": 1328784145,
     "tags": [
       "chart",
@@ -2446,7 +2446,7 @@
     "id": 8,
     "name": "alarm_clock",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Very Basic",
     "created": 1318305600,
     "tags": [
       "clock",
@@ -2477,7 +2477,7 @@
     "id": 1087,
     "name": "almost_empty",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Mobile",
     "created": 1344935615,
     "tags": [
       "close",
@@ -2502,7 +2502,7 @@
     "id": 1086,
     "name": "almost_full",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Mobile",
     "created": 1344850846,
     "tags": [
       "device",
@@ -3073,7 +3073,7 @@
     "id": 698,
     "name": "angel",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Messaging",
     "created": 1332405437,
     "tags": [
       "good",
@@ -3103,7 +3103,7 @@
     "id": 688,
     "name": "angry",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Messaging",
     "created": 1332234915,
     "tags": [
       "emoticons",
@@ -3473,7 +3473,7 @@
     "id": 1398,
     "name": "approve",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Business",
     "created": 1355827382,
     "tags": [
       "good",
@@ -4087,7 +4087,7 @@
     "id": 2127,
     "name": "aud",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Finance",
     "created": 1381999853,
     "tags": [
       "bank",
@@ -4494,7 +4494,7 @@
     "id": 769,
     "name": "available_updates",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "User Interface",
     "created": 1334562086,
     "tags": [
       "settings",
@@ -4546,7 +4546,7 @@
     "id": 296,
     "name": "average",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Ecommerce",
     "created": 1322157406,
     "tags": [
       "sale",
@@ -4741,7 +4741,7 @@
     "id": 1622,
     "name": "babyroom",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Household",
     "created": 1384943270,
     "tags": [
       "message",
@@ -4939,7 +4939,7 @@
     "id": 1403,
     "name": "bad_decision",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Business",
     "created": 1355914282,
     "tags": [
       "mark",
@@ -5431,7 +5431,7 @@
     "id": 2162,
     "name": "barcode_scanner",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Ecommerce",
     "created": 1381398244,
     "tags": [
       "microsoft",
@@ -5500,7 +5500,7 @@
     "id": 1295,
     "name": "barn",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Household",
     "created": 1352894247,
     "tags": [
       "paper",
@@ -5907,7 +5907,7 @@
     "id": 3097,
     "name": "bath",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Household",
     "created": 1391525457,
     "tags": [
       "design",
@@ -5975,7 +5975,7 @@
     "id": 1630,
     "name": "bath_room",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Household",
     "created": 1384772336,
     "tags": [
       "spring",
@@ -6647,7 +6647,7 @@
     "id": 2664,
     "name": "bell_service",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Household",
     "created": 1390342413,
     "tags": [
       "ring",
@@ -7264,7 +7264,7 @@
     "id": 1614,
     "name": "birthday",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Time",
     "created": 1385041282,
     "tags": [
       "design",
@@ -7359,7 +7359,7 @@
     "id": 1014,
     "name": "bishop",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Gaming",
     "created": 1342434461,
     "tags": [
       "mind",
@@ -7652,7 +7652,7 @@
     "id": 1325,
     "name": "bobbin",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Clothing",
     "created": 1353932475,
     "tags": [
       "equipment",
@@ -8228,7 +8228,7 @@
     "id": 2518,
     "name": "box2",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Ecommerce",
     "created": 1390342413,
     "tags": [
 
@@ -9442,7 +9442,7 @@
     "id": 2125,
     "name": "cad",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Finance",
     "created": 1382090318,
     "tags": [
       "photos",
@@ -12226,7 +12226,7 @@
     "id": 2129,
     "name": "chf",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Finance",
     "created": 1381999853,
     "tags": [
       "bank",
@@ -19604,7 +19604,7 @@
     "id": 4248,
     "name": "dog2",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Nature",
     "created": 1398883905,
     "tags": [
 
@@ -20549,7 +20549,7 @@
     "id": 3448,
     "name": "dragon",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Astrology",
     "created": 1392886277,
     "tags": [
       "design",
@@ -22928,7 +22928,7 @@
     "id": 2135,
     "name": "eur",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Finance",
     "created": 1381914146,
     "tags": [
       "bank",
@@ -25031,7 +25031,7 @@
     "id": 2604,
     "name": "fish2",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Nature",
     "created": 1390342413,
     "tags": [
 
@@ -27284,7 +27284,7 @@
     "id": 2131,
     "name": "gbp",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Finance",
     "created": 1381999853,
     "tags": [
       "bank",
@@ -28389,7 +28389,7 @@
     "id": 3458,
     "name": "goat",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Astrology",
     "created": 1393235476,
     "tags": [
       "vector",
@@ -31608,7 +31608,7 @@
     "id": 2123,
     "name": "hkd",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Finance",
     "created": 1382090318,
     "tags": [
       "program",
@@ -31822,7 +31822,7 @@
     "id": 3460,
     "name": "horse",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Astrology",
     "created": 1393235476,
     "tags": [
       "design",
@@ -34634,7 +34634,7 @@
     "id": 2133,
     "name": "jpy",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Finance",
     "created": 1381914146,
     "tags": [
       "bank",
@@ -35726,7 +35726,7 @@
     "id": 1828,
     "name": "lamp_genie",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Fiction",
     "created": 1368800619,
     "tags": [
       "lamp",
@@ -35763,7 +35763,7 @@
     "id": 83,
     "name": "lamp_magic",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Fiction",
     "created": 1293858000,
     "tags": [
       "lamp",
@@ -36235,7 +36235,8 @@
       "forest",
       "nature",
       "mother earth",
-      "chlorophyll"
+      "chlorophyll",
+      "white"
     ],
     "copyright": false,
     "files": {
@@ -36257,7 +36258,7 @@
     "id": 795,
     "name": "leaf2",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Nature",
     "created": 1335433218,
     "tags": [
       "earth",
@@ -36289,7 +36290,7 @@
     "id": 796,
     "name": "leaf3",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Nature",
     "created": 1335433218,
     "tags": [
       "earth",
@@ -41339,7 +41340,7 @@
     "id": 3456,
     "name": "monkey",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Astrology",
     "created": 1393235476,
     "tags": [
       "design",
@@ -46323,7 +46324,7 @@
     "id": 3441,
     "name": "ox",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Astrology",
     "created": 1392803463,
     "tags": [
       "animal",
@@ -47716,6 +47717,7 @@
       "office stuff",
       "email",
       "website",
+      "demo",
       "whatsapp"
     ],
     "copyright": false,
@@ -48164,7 +48166,7 @@
     "id": 1285,
     "name": "pig",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Astrology",
     "created": 1352467474,
     "tags": [
       "design",
@@ -52466,7 +52468,7 @@
     "id": 3442,
     "name": "rat",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Astrology",
     "created": 1392803463,
     "tags": [
       "vector",
@@ -53750,7 +53752,7 @@
     "category": "Ecommerce",
     "created": 1399402290,
     "tags": [
-
+      "purchase"
     ],
     "copyright": false,
     "files": {
@@ -54697,7 +54699,7 @@
     "id": 3462,
     "name": "rooster",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Astrology",
     "created": 1393318286,
     "tags": [
       "design",
@@ -57072,7 +57074,7 @@
     "id": 2121,
     "name": "sek",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Finance",
     "created": 1382090318,
     "tags": [
       "ecommerce",
@@ -60211,7 +60213,7 @@
     "id": 3450,
     "name": "snake",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Astrology",
     "created": 1392886277,
     "tags": [
       "design",
@@ -60984,6 +60986,7 @@
     "category": "Transport",
     "created": 1363207523,
     "tags": [
+      "direction",
       "refresh",
       "car",
       "speed",
@@ -65831,7 +65834,7 @@
     "id": 3440,
     "name": "tiger",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Astrology",
     "created": 1392803463,
     "tags": [
       "design",
@@ -68219,7 +68222,7 @@
     "category": "Programming",
     "created": 1400079102,
     "tags": [
-
+      "sort"
     ],
     "copyright": false,
     "files": {
@@ -70529,7 +70532,7 @@
     "id": 2137,
     "name": "usd",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Finance",
     "created": 1381914146,
     "tags": [
       "bank",
@@ -71400,6 +71403,7 @@
       "smart phone",
       "meeting",
       "business",
+      "location",
       "computer",
       "technology",
       "computer equipment",
@@ -71408,7 +71412,8 @@
       "telecommunications equipment",
       "video call",
       "video conference",
-      "video conference camera"
+      "video conference camera",
+      "regions"
     ],
     "copyright": false,
     "files": {
@@ -71506,14 +71511,10 @@
     "category": "Data",
     "created": 1344333129,
     "tags": [
-      "mail",
       "information",
       "content",
       "note",
-      "letter",
-      "martinadiluvio libero it",
-      "coctail",
-      "Storyline"
+      "letter"
     ],
     "copyright": false,
     "files": {
@@ -72981,13 +72982,7 @@
     "category": "Household",
     "created": 1328005501,
     "tags": [
-      "home",
-      "photos",
-      "photo",
-      "electricity",
-      "clothing",
-      "soap",
-      "hot water"
+      "chrome"
     ],
     "copyright": false,
     "files": {
