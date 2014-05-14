@@ -18504,6 +18504,49 @@
     }
   },
   {
+    "id": 4524,
+    "name": "department",
+    "platform": "Windows 8/Metro",
+    "category": "Business",
+    "created": 1400071861,
+    "tags": [
+      "bank",
+      "window",
+      "house",
+      "door",
+      "school",
+      "garden",
+      "retail",
+      "building",
+      "factory",
+      "real",
+      "farm",
+      "counter",
+      "tent",
+      "8 windows",
+      "nice home",
+      "symbol of home",
+      "sparrow nest",
+      "coffe shop",
+      "label of home",
+      "factory view",
+      "nest"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/department.svg",
+      "eps": "/EPS/Business/department.eps",
+      "png": {
+        "32": "/PNG/32/Business/department-32.png",
+        "128": "/PNG/128/Business/department-128.png",
+        "26": "/PNG/26/Business/department-26.png",
+        "256": "/PNG/256/Business/department-256.png",
+        "512": "/PNG/512/Business/department-512.png",
+        "64": "/PNG/64/Business/department-64.png"
+      }
+    }
+  },
+  {
     "id": 2477,
     "name": "deployment",
     "platform": "Windows 8/Metro",
@@ -45595,6 +45638,47 @@
     }
   },
   {
+    "id": 4526,
+    "name": "org_unit",
+    "platform": "Windows 8/Metro",
+    "category": "Business",
+    "created": 1400071861,
+    "tags": [
+      "box",
+      "group",
+      "work",
+      "lines",
+      "shapes",
+      "square",
+      "four",
+      "organization",
+      "company",
+      "unit",
+      "factory",
+      "black and white",
+      "hope",
+      "connected",
+      "union",
+      "pattern",
+      "corners",
+      "stripes",
+      "workforce"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/org_unit.svg",
+      "eps": "/EPS/Business/org_unit.eps",
+      "png": {
+        "32": "/PNG/32/Business/org_unit-32.png",
+        "128": "/PNG/128/Business/org_unit-128.png",
+        "26": "/PNG/26/Business/org_unit-26.png",
+        "256": "/PNG/256/Business/org_unit-256.png",
+        "512": "/PNG/512/Business/org_unit-512.png",
+        "64": "/PNG/64/Business/org_unit-64.png"
+      }
+    }
+  },
+  {
     "id": 2003,
     "name": "origami",
     "platform": "Windows 8/Metro",
@@ -50314,6 +50398,48 @@
         "256": "/PNG/256/Messaging/private_emoticon-256.png",
         "512": "/PNG/512/Messaging/private_emoticon-512.png",
         "64": "/PNG/64/Messaging/private_emoticon-64.png"
+      }
+    }
+  },
+  {
+    "id": 4522,
+    "name": "process",
+    "platform": "Windows 8/Metro",
+    "category": "Business",
+    "created": 1400071861,
+    "tags": [
+      "recycle",
+      "arrows",
+      "arrow",
+      "work",
+      "refresh",
+      "spin",
+      "cycle",
+      "change",
+      "function",
+      "section",
+      "four",
+      "redo",
+      "solution",
+      "circle",
+      "rotate",
+      "reload",
+      "strategy",
+      "loop",
+      "circular",
+      "process"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/process.svg",
+      "eps": "/EPS/Business/process.eps",
+      "png": {
+        "32": "/PNG/32/Business/process-32.png",
+        "128": "/PNG/128/Business/process-128.png",
+        "26": "/PNG/26/Business/process-26.png",
+        "256": "/PNG/256/Business/process-256.png",
+        "512": "/PNG/512/Business/process-512.png",
+        "64": "/PNG/64/Business/process-64.png"
       }
     }
   },
