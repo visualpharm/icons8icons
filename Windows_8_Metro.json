@@ -2879,7 +2879,7 @@
     "id": 3018,
     "name": "ancore",
     "platform": "Windows 8/Metro",
-    "category": "32",
+    "category": "Transport",
     "created": 1390485045,
     "tags": [
       "adobe",
@@ -2905,16 +2905,17 @@
     ],
     "copyright": false,
     "files": {
+      "svg": "/SVG/Transport/ancore.svg",
       "svg.simplified": "/SVG_for_Font/Nature/ancore.svg",
-      "eps": "/EPS/Nature/ancore.eps",
+      "eps": "/EPS/Transport/ancore.eps",
       "png": {
-        "32": "/PNG/32/Nature/ancore-32.png",
-        "128": "/PNG/128/Nature/ancore-128.png",
-        "26": "/PNG/26/Nature/ancore-26.png",
-        "256": "/PNG/256/Nature/ancore-256.png",
-        "512": "/PNG/512/Nature/ancore-512.png",
-        "64": "/PNG/64/Nature/ancore-64.png",
-        "48": "/PNG/48/Nature/ancore-48.png"
+        "32": "/PNG/32/Transport/ancore-32.png",
+        "128": "/PNG/128/Transport/ancore-128.png",
+        "26": "/PNG/26/Transport/ancore-26.png",
+        "256": "/PNG/256/Transport/ancore-256.png",
+        "512": "/PNG/512/Transport/ancore-512.png",
+        "64": "/PNG/64/Transport/ancore-64.png",
+        "48": "/PNG/48/Transport/ancore-48.png"
       }
     }
   },
@@ -3214,7 +3215,7 @@
     "id": 4451,
     "name": "ant",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1399488687,
     "tags": [
       "animal",
@@ -3240,16 +3241,16 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/ant.svg",
+      "svg": "/SVG/Animals/ant.svg",
       "svg.simplified": "/SVG_for_Font/Nature/ant.svg",
-      "eps": "/EPS/Nature/ant.eps",
+      "eps": "/EPS/Animals/ant.eps",
       "png": {
-        "32": "/PNG/32/Nature/ant-32.png",
-        "128": "/PNG/128/Nature/ant-128.png",
-        "26": "/PNG/26/Nature/ant-26.png",
-        "256": "/PNG/256/Nature/ant-256.png",
-        "512": "/PNG/512/Nature/ant-512.png",
-        "64": "/PNG/64/Nature/ant-64.png"
+        "32": "/PNG/32/Animals/ant-32.png",
+        "128": "/PNG/128/Animals/ant-128.png",
+        "26": "/PNG/26/Animals/ant-26.png",
+        "256": "/PNG/256/Animals/ant-256.png",
+        "512": "/PNG/512/Animals/ant-512.png",
+        "64": "/PNG/64/Animals/ant-64.png"
       }
     }
   },
@@ -3536,23 +3537,23 @@
     "id": 4250,
     "name": "aquarium",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398883905,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/aquarium.svg",
+      "svg": "/SVG/Animals/aquarium.svg",
       "svg.simplified": "/SVG_for_Font/Nature/aquarium.svg",
-      "eps": "/EPS/Nature/aquarium.eps",
+      "eps": "/EPS/Animals/aquarium.eps",
       "png": {
-        "32": "/PNG/32/Nature/aquarium-32.png",
-        "128": "/PNG/128/Nature/aquarium-128.png",
-        "26": "/PNG/26/Nature/aquarium-26.png",
-        "256": "/PNG/256/Nature/aquarium-256.png",
-        "512": "/PNG/512/Nature/aquarium-512.png",
-        "64": "/PNG/64/Nature/aquarium-64.png"
+        "32": "/PNG/32/Animals/aquarium-32.png",
+        "128": "/PNG/128/Animals/aquarium-128.png",
+        "26": "/PNG/26/Animals/aquarium-26.png",
+        "256": "/PNG/256/Animals/aquarium-256.png",
+        "512": "/PNG/512/Animals/aquarium-512.png",
+        "64": "/PNG/64/Animals/aquarium-64.png"
       }
     }
   },
@@ -5463,7 +5464,7 @@
     "id": 1831,
     "name": "barley",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1369061325,
     "tags": [
       "food",
@@ -5481,17 +5482,17 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/barley.svg",
+      "svg": "/SVG/Plants/barley.svg",
       "svg.simplified": "/SVG_for_Font/Nature/barley.svg",
-      "eps": "/EPS/Nature/barley.eps",
+      "eps": "/EPS/Plants/barley.eps",
       "png": {
-        "32": "/PNG/32/Nature/barley-32.png",
-        "128": "/PNG/128/Nature/barley-128.png",
-        "26": "/PNG/26/Nature/barley-26.png",
-        "256": "/PNG/256/Nature/barley-256.png",
-        "512": "/PNG/512/Nature/barley-512.png",
-        "64": "/PNG/64/Nature/barley-64.png",
-        "48": "/PNG/48/Nature/barley-48.png"
+        "32": "/PNG/32/Plants/barley-32.png",
+        "128": "/PNG/128/Plants/barley-128.png",
+        "26": "/PNG/26/Plants/barley-26.png",
+        "256": "/PNG/256/Plants/barley-256.png",
+        "512": "/PNG/512/Plants/barley-512.png",
+        "64": "/PNG/64/Plants/barley-64.png",
+        "48": "/PNG/48/Plants/barley-48.png"
       }
     }
   },
@@ -5835,7 +5836,7 @@
     "id": 1640,
     "name": "bat",
     "platform": "Windows 8/Metro",
-    "category": "Halloween",
+    "category": "Holidays",
     "created": 1384337861,
     "tags": [
       "vector",
@@ -5888,17 +5889,17 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Halloween/bat.svg",
+      "svg": "/SVG/Holidays/bat.svg",
       "svg.simplified": "/SVG_for_Font/Halloween/bat.svg",
-      "eps": "/EPS/Halloween/bat.eps",
+      "eps": "/EPS/Holidays/bat.eps",
       "png": {
-        "32": "/PNG/32/Halloween/bat-32.png",
-        "128": "/PNG/128/Halloween/bat-128.png",
-        "26": "/PNG/26/Halloween/bat-26.png",
-        "256": "/PNG/256/Halloween/bat-256.png",
-        "512": "/PNG/512/Halloween/bat-512.png",
-        "64": "/PNG/64/Halloween/bat-64.png",
-        "48": "/PNG/48/Halloween/bat-48.png"
+        "32": "/PNG/32/Holidays/bat-32.png",
+        "128": "/PNG/128/Holidays/bat-128.png",
+        "26": "/PNG/26/Holidays/bat-26.png",
+        "256": "/PNG/256/Holidays/bat-256.png",
+        "512": "/PNG/512/Holidays/bat-512.png",
+        "64": "/PNG/64/Holidays/bat-64.png",
+        "48": "/PNG/48/Holidays/bat-48.png"
       }
     }
   },
@@ -6350,7 +6351,7 @@
     "id": 4452,
     "name": "bee",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1399488687,
     "tags": [
       "animal",
@@ -6376,16 +6377,16 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/bee.svg",
+      "svg": "/SVG/Animals/bee.svg",
       "svg.simplified": "/SVG_for_Font/Nature/bee.svg",
-      "eps": "/EPS/Nature/bee.eps",
+      "eps": "/EPS/Animals/bee.eps",
       "png": {
-        "32": "/PNG/32/Nature/bee-32.png",
-        "128": "/PNG/128/Nature/bee-128.png",
-        "26": "/PNG/26/Nature/bee-26.png",
-        "256": "/PNG/256/Nature/bee-256.png",
-        "512": "/PNG/512/Nature/bee-512.png",
-        "64": "/PNG/64/Nature/bee-64.png"
+        "32": "/PNG/32/Animals/bee-32.png",
+        "128": "/PNG/128/Animals/bee-128.png",
+        "26": "/PNG/26/Animals/bee-26.png",
+        "256": "/PNG/256/Animals/bee-256.png",
+        "512": "/PNG/512/Animals/bee-512.png",
+        "64": "/PNG/64/Animals/bee-64.png"
       }
     }
   },
@@ -6587,7 +6588,7 @@
     "id": 733,
     "name": "bell",
     "platform": "Windows 8/Metro",
-    "category": "Easter",
+    "category": "Holidays",
     "created": 1333441739,
     "tags": [
       "god",
@@ -6599,17 +6600,17 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Easter/bell.svg",
+      "svg": "/SVG/Holidays/bell.svg",
       "svg.simplified": "/SVG_for_Font/Easter/bell.svg",
-      "eps": "/EPS/Easter/bell.eps",
+      "eps": "/EPS/Holidays/bell.eps",
       "png": {
-        "32": "/PNG/32/Easter/bell-32.png",
-        "128": "/PNG/128/Easter/bell-128.png",
-        "26": "/PNG/26/Easter/bell-26.png",
-        "256": "/PNG/256/Easter/bell-256.png",
-        "512": "/PNG/512/Easter/bell-512.png",
-        "64": "/PNG/64/Easter/bell-64.png",
-        "48": "/PNG/48/Easter/bell-48.png"
+        "32": "/PNG/32/Holidays/bell-32.png",
+        "128": "/PNG/128/Holidays/bell-128.png",
+        "26": "/PNG/26/Holidays/bell-26.png",
+        "256": "/PNG/256/Holidays/bell-256.png",
+        "512": "/PNG/512/Holidays/bell-512.png",
+        "64": "/PNG/64/Holidays/bell-64.png",
+        "48": "/PNG/48/Holidays/bell-48.png"
       }
     }
   },
@@ -6721,7 +6722,7 @@
     "id": 799,
     "name": "berry",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1335513247,
     "tags": [
       "tree",
@@ -6732,17 +6733,17 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/berry.svg",
+      "svg": "/SVG/Plants/berry.svg",
       "svg.simplified": "/SVG_for_Font/Nature/berry.svg",
-      "eps": "/EPS/Nature/berry.eps",
+      "eps": "/EPS/Plants/berry.eps",
       "png": {
-        "32": "/PNG/32/Nature/berry-32.png",
-        "128": "/PNG/128/Nature/berry-128.png",
-        "26": "/PNG/26/Nature/berry-26.png",
-        "256": "/PNG/256/Nature/berry-256.png",
-        "512": "/PNG/512/Nature/berry-512.png",
-        "64": "/PNG/64/Nature/berry-64.png",
-        "48": "/PNG/48/Nature/berry-48.png"
+        "32": "/PNG/32/Plants/berry-32.png",
+        "128": "/PNG/128/Plants/berry-128.png",
+        "26": "/PNG/26/Plants/berry-26.png",
+        "256": "/PNG/256/Plants/berry-256.png",
+        "512": "/PNG/512/Plants/berry-512.png",
+        "64": "/PNG/64/Plants/berry-64.png",
+        "48": "/PNG/48/Plants/berry-48.png"
       }
     }
   },
@@ -7230,7 +7231,7 @@
     "id": 940,
     "name": "bird",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1340091902,
     "tags": [
       "home",
@@ -7245,7 +7246,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/bird.svg",
+      "svg": "/SVG/Animals/bird.svg",
       "svg.simplified": "/SVG_for_Font/Nature/bird.svg",
       "eps": "/EPS/Nature/bird.eps",
       "png": {
@@ -7514,7 +7515,7 @@
     "id": 1647,
     "name": "black_cat",
     "platform": "Windows 8/Metro",
-    "category": "Halloween",
+    "category": "Holidays",
     "created": 1384260236,
     "tags": [
       "cat",
@@ -7540,16 +7541,16 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Halloween/black_cat.svg",
+      "svg": "/SVG/Holidays/black_cat.svg",
       "svg.simplified": "/SVG_for_Font/Halloween/black_cat.svg",
-      "eps": "/EPS/Halloween/black_cat.eps",
+      "eps": "/EPS/Holidays/black_cat.eps",
       "png": {
-        "32": "/PNG/32/Halloween/black_cat-32.png",
-        "128": "/PNG/128/Halloween/black_cat-128.png",
-        "26": "/PNG/26/Halloween/black_cat-26.png",
-        "256": "/PNG/256/Halloween/black_cat-256.png",
-        "512": "/PNG/512/Halloween/black_cat-512.png",
-        "64": "/PNG/64/Halloween/black_cat-64.png",
+        "32": "/PNG/32/Holidays/black_cat-32.png",
+        "128": "/PNG/128/Holidays/black_cat-128.png",
+        "26": "/PNG/26/Holidays/black_cat-26.png",
+        "256": "/PNG/256/Holidays/black_cat-256.png",
+        "512": "/PNG/512/Holidays/black_cat-512.png",
+        "64": "/PNG/64/Holidays/black_cat-64.png",
         "48": "/PNG/48/Halloween/black_cat-48.png"
       }
     }
@@ -8871,7 +8872,7 @@
     "id": 4450,
     "name": "bumblebee",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1399488687,
     "tags": [
       "group",
@@ -8893,7 +8894,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/bumblebee.svg",
+      "svg": "/SVG/Animals/bumblebee.svg",
       "svg.simplified": "/SVG_for_Font/Nature/bumblebee.svg",
       "eps": "/EPS/Nature/bumblebee.eps",
       "png": {
@@ -9598,14 +9599,14 @@
     "id": 4028,
     "name": "caliper",
     "platform": "Windows 8/Metro",
-    "category": "Measurement Units",
+    "category": "Science",
     "created": 1398185501,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Measurement_Units/caliper.svg",
+      "svg": "/SVG/Science/caliper.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/caliper.svg",
       "eps": "/EPS/Measurement_Units/caliper.eps",
       "png": {
@@ -10263,7 +10264,7 @@
     "id": 1638,
     "name": "candy",
     "platform": "Windows 8/Metro",
-    "category": "Halloween",
+    "category": "Holidays",
     "created": 1384337861,
     "tags": [
       "design",
@@ -10318,16 +10319,16 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Halloween/candy.svg",
+      "svg": "/SVG/Holidays/candy.svg",
       "svg.simplified": "/SVG_for_Font/Halloween/candy.svg",
-      "eps": "/EPS/Halloween/candy.eps",
+      "eps": "/EPS/Holidays/candy.eps",
       "png": {
-        "32": "/PNG/32/Halloween/candy-32.png",
-        "128": "/PNG/128/Halloween/candy-128.png",
-        "26": "/PNG/26/Halloween/candy-26.png",
-        "256": "/PNG/256/Halloween/candy-256.png",
-        "512": "/PNG/512/Halloween/candy-512.png",
-        "64": "/PNG/64/Halloween/candy-64.png",
+        "32": "/PNG/32/Holidays/candy-32.png",
+        "128": "/PNG/128/Holidays/candy-128.png",
+        "26": "/PNG/26/Holidays/candy-26.png",
+        "256": "/PNG/256/Holidays/candy-256.png",
+        "512": "/PNG/512/Holidays/candy-512.png",
+        "64": "/PNG/64/Holidays/candy-64.png",
         "48": "/PNG/48/Halloween/candy-48.png"
       }
     }
@@ -11058,7 +11059,7 @@
     "id": 822,
     "name": "cat",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1336168619,
     "tags": [
       "cat",
@@ -11067,7 +11068,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/cat.svg",
+      "svg": "/SVG/Animals/cat.svg",
       "svg.simplified": "/SVG_for_Font/Nature/cat.svg",
       "eps": "/EPS/Nature/cat.eps",
       "png": {
@@ -11126,7 +11127,7 @@
     "id": 4462,
     "name": "caterpillar",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1399567894,
     "tags": [
       "hair",
@@ -11142,7 +11143,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/caterpillar.svg",
+      "svg": "/SVG/Animals/caterpillar.svg",
       "svg.simplified": "/SVG_for_Font/Nature/caterpillar.svg",
       "eps": "/EPS/Nature/caterpillar.eps",
       "png": {
@@ -11580,7 +11581,7 @@
     "id": 707,
     "name": "champagne",
     "platform": "Windows 8/Metro",
-    "category": "Wedding",
+    "category": "Holidays",
     "created": 1332840395,
     "tags": [
       "celebration",
@@ -11596,7 +11597,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Wedding/champagne.svg",
+      "svg": "/SVG/Holidays/champagne.svg",
       "svg.simplified": "/SVG_for_Font/Wedding/champagne.svg",
       "eps": "/EPS/Wedding/champagne.eps",
       "png": {
@@ -12287,14 +12288,14 @@
     "id": 3587,
     "name": "chicken",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1394776288,
     "tags": [
       "engineering"
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/chicken.svg",
+      "svg": "/SVG/Animals/chicken.svg",
       "svg.simplified": "/SVG_for_Font/Nature/chicken.svg",
       "eps": "/EPS/Nature/chicken.eps",
       "png": {
@@ -12449,23 +12450,23 @@
     "id": 2641,
     "name": "christmas_ball",
     "platform": "Windows 8/Metro",
-    "category": "Christmas",
+    "category": "Holidays",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Christmas/christmas_ball.svg",
+      "svg": "/SVG/Holidays/christmas_ball.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/christmas_ball.svg",
-      "eps": "/EPS/Christmas/christmas_ball.eps",
+      "eps": "/EPS/Holidays/christmas_ball.eps",
       "png": {
-        "32": "/PNG/32/Christmas/christmas_ball-32.png",
-        "128": "/PNG/128/Christmas/christmas_ball-128.png",
-        "26": "/PNG/26/Christmas/christmas_ball-26.png",
-        "256": "/PNG/256/Christmas/christmas_ball-256.png",
-        "512": "/PNG/512/Christmas/christmas_ball-512.png",
-        "64": "/PNG/64/Christmas/christmas_ball-64.png",
+        "32": "/PNG/32/Holidays/christmas_ball-32.png",
+        "128": "/PNG/128/Holidays/christmas_ball-128.png",
+        "26": "/PNG/26/Holidays/christmas_ball-26.png",
+        "256": "/PNG/256/Holidays/christmas_ball-256.png",
+        "512": "/PNG/512/Holidays/christmas_ball-512.png",
+        "64": "/PNG/64/Holidays/christmas_ball-64.png",
         "48": "/PNG/48/Christmas/christmas_ball-48.png"
       }
     }
@@ -12474,23 +12475,23 @@
     "id": 2462,
     "name": "christmas_candle",
     "platform": "Windows 8/Metro",
-    "category": "Christmas",
+    "category": "Holidays",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Christmas/christmas_candle.svg",
+      "svg": "/SVG/Holidays/christmas_candle.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/christmas_candle.svg",
-      "eps": "/EPS/Christmas/christmas_candle.eps",
+      "eps": "/EPS/Holidays/christmas_candle.eps",
       "png": {
-        "32": "/PNG/32/Christmas/christmas_candle-32.png",
-        "128": "/PNG/128/Christmas/christmas_candle-128.png",
-        "26": "/PNG/26/Christmas/christmas_candle-26.png",
-        "256": "/PNG/256/Christmas/christmas_candle-256.png",
-        "512": "/PNG/512/Christmas/christmas_candle-512.png",
-        "64": "/PNG/64/Christmas/christmas_candle-64.png",
+        "32": "/PNG/32/Holidays/christmas_candle-32.png",
+        "128": "/PNG/128/Holidays/christmas_candle-128.png",
+        "26": "/PNG/26/Holidays/christmas_candle-26.png",
+        "256": "/PNG/256/Holidays/christmas_candle-256.png",
+        "512": "/PNG/512/Holidays/christmas_candle-512.png",
+        "64": "/PNG/64/Holidays/christmas_candle-64.png",
         "48": "/PNG/48/Christmas/christmas_candle-48.png"
       }
     }
@@ -12499,23 +12500,23 @@
     "id": 2627,
     "name": "christmas_candy",
     "platform": "Windows 8/Metro",
-    "category": "Christmas",
+    "category": "Holidays",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Christmas/christmas_candy.svg",
+      "svg": "/SVG/Holidays/christmas_candy.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/christmas_candy.svg",
-      "eps": "/EPS/Christmas/christmas_candy.eps",
+      "eps": "/EPS/Holidays/christmas_candy.eps",
       "png": {
-        "32": "/PNG/32/Christmas/christmas_candy-32.png",
-        "128": "/PNG/128/Christmas/christmas_candy-128.png",
-        "26": "/PNG/26/Christmas/christmas_candy-26.png",
-        "256": "/PNG/256/Christmas/christmas_candy-256.png",
-        "512": "/PNG/512/Christmas/christmas_candy-512.png",
-        "64": "/PNG/64/Christmas/christmas_candy-64.png",
+        "32": "/PNG/32/Holidays/christmas_candy-32.png",
+        "128": "/PNG/128/Holidays/christmas_candy-128.png",
+        "26": "/PNG/26/Holidays/christmas_candy-26.png",
+        "256": "/PNG/256/Holidays/christmas_candy-256.png",
+        "512": "/PNG/512/Holidays/christmas_candy-512.png",
+        "64": "/PNG/64/Holidays/christmas_candy-64.png",
         "48": "/PNG/48/Christmas/christmas_candy-48.png"
       }
     }
@@ -12524,16 +12525,16 @@
     "id": 2689,
     "name": "christmas_candy_cane",
     "platform": "Windows 8/Metro",
-    "category": "Christmas",
+    "category": "Holidays",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Christmas/christmas_candy_cane.svg",
+      "svg": "/SVG/Holidays/christmas_candy_cane.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/christmas_candy_cane.svg",
-      "eps": "/EPS/Christmas/christmas_candy_cane.eps",
+      "eps": "/EPS/Holidays/christmas_candy_cane.eps",
       "png": {
         "32": "/PNG/32/Christmas/christmas_candy_cane-32.png",
         "128": "/PNG/128/Christmas/christmas_candy_cane-128.png",
@@ -12549,23 +12550,23 @@
     "id": 2660,
     "name": "christmas_deer",
     "platform": "Windows 8/Metro",
-    "category": "Christmas",
+    "category": "Holidays",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Christmas/christmas_deer.svg",
+      "svg": "/SVG/Holidays/christmas_deer.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/christmas_deer.svg",
-      "eps": "/EPS/Christmas/christmas_deer.eps",
+      "eps": "/EPS/Holidays/christmas_deer.eps",
       "png": {
-        "32": "/PNG/32/Christmas/christmas_deer-32.png",
-        "128": "/PNG/128/Christmas/christmas_deer-128.png",
-        "26": "/PNG/26/Christmas/christmas_deer-26.png",
-        "256": "/PNG/256/Christmas/christmas_deer-256.png",
-        "512": "/PNG/512/Christmas/christmas_deer-512.png",
-        "64": "/PNG/64/Christmas/christmas_deer-64.png",
+        "32": "/PNG/32/Holidays/christmas_deer-32.png",
+        "128": "/PNG/128/Holidays/christmas_deer-128.png",
+        "26": "/PNG/26/Holidays/christmas_deer-26.png",
+        "256": "/PNG/256/Holidays/christmas_deer-256.png",
+        "512": "/PNG/512/Holidays/christmas_deer-512.png",
+        "64": "/PNG/64/Holidays/christmas_deer-64.png",
         "48": "/PNG/48/Christmas/christmas_deer-48.png"
       }
     }
@@ -12574,23 +12575,23 @@
     "id": 2413,
     "name": "christmas_firework",
     "platform": "Windows 8/Metro",
-    "category": "Christmas",
+    "category": "Holidays",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Christmas/christmas_firework.svg",
+      "svg": "/SVG/Holidays/christmas_firework.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/christmas_firework.svg",
-      "eps": "/EPS/Christmas/christmas_firework.eps",
+      "eps": "/EPS/Holidays/christmas_firework.eps",
       "png": {
-        "32": "/PNG/32/Christmas/christmas_firework-32.png",
-        "128": "/PNG/128/Christmas/christmas_firework-128.png",
-        "26": "/PNG/26/Christmas/christmas_firework-26.png",
-        "256": "/PNG/256/Christmas/christmas_firework-256.png",
-        "512": "/PNG/512/Christmas/christmas_firework-512.png",
-        "64": "/PNG/64/Christmas/christmas_firework-64.png",
+        "32": "/PNG/32/Holidays/christmas_firework-32.png",
+        "128": "/PNG/128/Holidays/christmas_firework-128.png",
+        "26": "/PNG/26/Holidays/christmas_firework-26.png",
+        "256": "/PNG/256/Holidays/christmas_firework-256.png",
+        "512": "/PNG/512/Holidays/christmas_firework-512.png",
+        "64": "/PNG/64/Holidays/christmas_firework-64.png",
         "48": "/PNG/48/Christmas/christmas_firework-48.png"
       }
     }
@@ -12599,23 +12600,23 @@
     "id": 2475,
     "name": "christmas_gift",
     "platform": "Windows 8/Metro",
-    "category": "Christmas",
+    "category": "Holidays",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Christmas/christmas_gift.svg",
+      "svg": "/SVG/Holidays/christmas_gift.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/christmas_gift.svg",
-      "eps": "/EPS/Christmas/christmas_gift.eps",
+      "eps": "/EPS/Holidays/christmas_gift.eps",
       "png": {
-        "32": "/PNG/32/Christmas/christmas_gift-32.png",
-        "128": "/PNG/128/Christmas/christmas_gift-128.png",
-        "26": "/PNG/26/Christmas/christmas_gift-26.png",
-        "256": "/PNG/256/Christmas/christmas_gift-256.png",
-        "512": "/PNG/512/Christmas/christmas_gift-512.png",
-        "64": "/PNG/64/Christmas/christmas_gift-64.png",
+        "32": "/PNG/32/Holidays/christmas_gift-32.png",
+        "128": "/PNG/128/Holidays/christmas_gift-128.png",
+        "26": "/PNG/26/Holidays/christmas_gift-26.png",
+        "256": "/PNG/256/Holidays/christmas_gift-256.png",
+        "512": "/PNG/512/Holidays/christmas_gift-512.png",
+        "64": "/PNG/64/Holidays/christmas_gift-64.png",
         "48": "/PNG/48/Christmas/christmas_gift-48.png"
       }
     }
@@ -12624,23 +12625,23 @@
     "id": 2485,
     "name": "christmas_hat",
     "platform": "Windows 8/Metro",
-    "category": "Christmas",
+    "category": "Holidays",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Christmas/christmas_hat.svg",
+      "svg": "/SVG/Holidays/christmas_hat.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/christmas_hat.svg",
-      "eps": "/EPS/Christmas/christmas_hat.eps",
+      "eps": "/EPS/Holidays/christmas_hat.eps",
       "png": {
-        "32": "/PNG/32/Christmas/christmas_hat-32.png",
-        "128": "/PNG/128/Christmas/christmas_hat-128.png",
-        "26": "/PNG/26/Christmas/christmas_hat-26.png",
-        "256": "/PNG/256/Christmas/christmas_hat-256.png",
-        "512": "/PNG/512/Christmas/christmas_hat-512.png",
-        "64": "/PNG/64/Christmas/christmas_hat-64.png",
+        "32": "/PNG/32/Holidays/christmas_hat-32.png",
+        "128": "/PNG/128/Holidays/christmas_hat-128.png",
+        "26": "/PNG/26/Holidays/christmas_hat-26.png",
+        "256": "/PNG/256/Holidays/christmas_hat-256.png",
+        "512": "/PNG/512/Holidays/christmas_hat-512.png",
+        "64": "/PNG/64/Holidays/christmas_hat-64.png",
         "48": "/PNG/48/Christmas/christmas_hat-48.png"
       }
     }
@@ -12649,23 +12650,23 @@
     "id": 2544,
     "name": "christmas_ice_skate",
     "platform": "Windows 8/Metro",
-    "category": "Christmas",
+    "category": "Holidays",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Christmas/christmas_ice_skate.svg",
+      "svg": "/SVG/Holidays/christmas_ice_skate.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/christmas_ice_skate.svg",
-      "eps": "/EPS/Christmas/christmas_ice_skate.eps",
+      "eps": "/EPS/Holidays/christmas_ice_skate.eps",
       "png": {
-        "32": "/PNG/32/Christmas/christmas_ice_skate-32.png",
-        "128": "/PNG/128/Christmas/christmas_ice_skate-128.png",
-        "26": "/PNG/26/Christmas/christmas_ice_skate-26.png",
-        "256": "/PNG/256/Christmas/christmas_ice_skate-256.png",
-        "512": "/PNG/512/Christmas/christmas_ice_skate-512.png",
-        "64": "/PNG/64/Christmas/christmas_ice_skate-64.png",
+        "32": "/PNG/32/Holidays/christmas_ice_skate-32.png",
+        "128": "/PNG/128/Holidays/christmas_ice_skate-128.png",
+        "26": "/PNG/26/Holidays/christmas_ice_skate-26.png",
+        "256": "/PNG/256/Holidays/christmas_ice_skate-256.png",
+        "512": "/PNG/512/Holidays/christmas_ice_skate-512.png",
+        "64": "/PNG/64/Holidays/christmas_ice_skate-64.png",
         "48": "/PNG/48/Christmas/christmas_ice_skate-48.png"
       }
     }
@@ -12674,23 +12675,23 @@
     "id": 2509,
     "name": "christmas_mitten",
     "platform": "Windows 8/Metro",
-    "category": "Christmas",
+    "category": "Holidays",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Christmas/christmas_mitten.svg",
+      "svg": "/SVG/Holidays/christmas_mitten.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/christmas_mitten.svg",
-      "eps": "/EPS/Christmas/christmas_mitten.eps",
+      "eps": "/EPS/Holidays/christmas_mitten.eps",
       "png": {
-        "32": "/PNG/32/Christmas/christmas_mitten-32.png",
-        "128": "/PNG/128/Christmas/christmas_mitten-128.png",
-        "26": "/PNG/26/Christmas/christmas_mitten-26.png",
-        "256": "/PNG/256/Christmas/christmas_mitten-256.png",
-        "512": "/PNG/512/Christmas/christmas_mitten-512.png",
-        "64": "/PNG/64/Christmas/christmas_mitten-64.png",
+        "32": "/PNG/32/Holidays/christmas_mitten-32.png",
+        "128": "/PNG/128/Holidays/christmas_mitten-128.png",
+        "26": "/PNG/26/Holidays/christmas_mitten-26.png",
+        "256": "/PNG/256/Holidays/christmas_mitten-256.png",
+        "512": "/PNG/512/Holidays/christmas_mitten-512.png",
+        "64": "/PNG/64/Holidays/christmas_mitten-64.png",
         "48": "/PNG/48/Christmas/christmas_mitten-48.png"
       }
     }
@@ -12699,23 +12700,23 @@
     "id": 2673,
     "name": "christmas_penguin",
     "platform": "Windows 8/Metro",
-    "category": "Christmas",
+    "category": "Holidays",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Christmas/christmas_penguin.svg",
+      "svg": "/SVG/Holidays/christmas_penguin.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/christmas_penguin.svg",
-      "eps": "/EPS/Christmas/christmas_penguin.eps",
+      "eps": "/EPS/Holidays/christmas_penguin.eps",
       "png": {
-        "32": "/PNG/32/Christmas/christmas_penguin-32.png",
-        "128": "/PNG/128/Christmas/christmas_penguin-128.png",
-        "26": "/PNG/26/Christmas/christmas_penguin-26.png",
-        "256": "/PNG/256/Christmas/christmas_penguin-256.png",
-        "512": "/PNG/512/Christmas/christmas_penguin-512.png",
-        "64": "/PNG/64/Christmas/christmas_penguin-64.png",
+        "32": "/PNG/32/Holidays/christmas_penguin-32.png",
+        "128": "/PNG/128/Holidays/christmas_penguin-128.png",
+        "26": "/PNG/26/Holidays/christmas_penguin-26.png",
+        "256": "/PNG/256/Holidays/christmas_penguin-256.png",
+        "512": "/PNG/512/Holidays/christmas_penguin-512.png",
+        "64": "/PNG/64/Holidays/christmas_penguin-64.png",
         "48": "/PNG/48/Christmas/christmas_penguin-48.png"
       }
     }
@@ -12724,23 +12725,23 @@
     "id": 2621,
     "name": "christmas_sleigh",
     "platform": "Windows 8/Metro",
-    "category": "Christmas",
+    "category": "Holidays",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Christmas/christmas_sleigh.svg",
+      "svg": "/SVG/Holidays/christmas_sleigh.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/christmas_sleigh.svg",
-      "eps": "/EPS/Christmas/christmas_sleigh.eps",
+      "eps": "/EPS/Holidays/christmas_sleigh.eps",
       "png": {
-        "32": "/PNG/32/Christmas/christmas_sleigh-32.png",
-        "128": "/PNG/128/Christmas/christmas_sleigh-128.png",
-        "26": "/PNG/26/Christmas/christmas_sleigh-26.png",
-        "256": "/PNG/256/Christmas/christmas_sleigh-256.png",
-        "512": "/PNG/512/Christmas/christmas_sleigh-512.png",
-        "64": "/PNG/64/Christmas/christmas_sleigh-64.png",
+        "32": "/PNG/32/Holidays/christmas_sleigh-32.png",
+        "128": "/PNG/128/Holidays/christmas_sleigh-128.png",
+        "26": "/PNG/26/Holidays/christmas_sleigh-26.png",
+        "256": "/PNG/256/Holidays/christmas_sleigh-256.png",
+        "512": "/PNG/512/Holidays/christmas_sleigh-512.png",
+        "64": "/PNG/64/Holidays/christmas_sleigh-64.png",
         "48": "/PNG/48/Christmas/christmas_sleigh-48.png"
       }
     }
@@ -12749,16 +12750,16 @@
     "id": 2407,
     "name": "christmas_snowflake",
     "platform": "Windows 8/Metro",
-    "category": "Christmas",
+    "category": "Holidays",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Christmas/christmas_snowflake.svg",
+      "svg": "/SVG/Holidays/christmas_snowflake.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/christmas_snowflake.svg",
-      "eps": "/EPS/Christmas/christmas_snowflake.eps",
+      "eps": "/EPS/Holidays/christmas_snowflake.eps",
       "png": {
         "32": "/PNG/32/Christmas/christmas_snowflake-32.png",
         "128": "/PNG/128/Christmas/christmas_snowflake-128.png",
@@ -12774,23 +12775,23 @@
     "id": 2473,
     "name": "christmas_snowman",
     "platform": "Windows 8/Metro",
-    "category": "Christmas",
+    "category": "Holidays",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Christmas/christmas_snowman.svg",
+      "svg": "/SVG/Holidays/christmas_snowman.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/christmas_snowman.svg",
-      "eps": "/EPS/Christmas/christmas_snowman.eps",
+      "eps": "/EPS/Holidays/christmas_snowman.eps",
       "png": {
-        "32": "/PNG/32/Christmas/christmas_snowman-32.png",
-        "128": "/PNG/128/Christmas/christmas_snowman-128.png",
-        "26": "/PNG/26/Christmas/christmas_snowman-26.png",
-        "256": "/PNG/256/Christmas/christmas_snowman-256.png",
-        "512": "/PNG/512/Christmas/christmas_snowman-512.png",
-        "64": "/PNG/64/Christmas/christmas_snowman-64.png",
+        "32": "/PNG/32/Holidays/christmas_snowman-32.png",
+        "128": "/PNG/128/Holidays/christmas_snowman-128.png",
+        "26": "/PNG/26/Holidays/christmas_snowman-26.png",
+        "256": "/PNG/256/Holidays/christmas_snowman-256.png",
+        "512": "/PNG/512/Holidays/christmas_snowman-512.png",
+        "64": "/PNG/64/Holidays/christmas_snowman-64.png",
         "48": "/PNG/48/Christmas/christmas_snowman-48.png"
       }
     }
@@ -12799,23 +12800,23 @@
     "id": 2466,
     "name": "christmas_sock",
     "platform": "Windows 8/Metro",
-    "category": "Christmas",
+    "category": "Holidays",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Christmas/christmas_sock.svg",
+      "svg": "/SVG/Holidays/christmas_sock.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/christmas_sock.svg",
-      "eps": "/EPS/Christmas/christmas_sock.eps",
+      "eps": "/EPS/Holidays/christmas_sock.eps",
       "png": {
-        "32": "/PNG/32/Christmas/christmas_sock-32.png",
-        "128": "/PNG/128/Christmas/christmas_sock-128.png",
-        "26": "/PNG/26/Christmas/christmas_sock-26.png",
-        "256": "/PNG/256/Christmas/christmas_sock-256.png",
-        "512": "/PNG/512/Christmas/christmas_sock-512.png",
-        "64": "/PNG/64/Christmas/christmas_sock-64.png",
+        "32": "/PNG/32/Holidays/christmas_sock-32.png",
+        "128": "/PNG/128/Holidays/christmas_sock-128.png",
+        "26": "/PNG/26/Holidays/christmas_sock-26.png",
+        "256": "/PNG/256/Holidays/christmas_sock-256.png",
+        "512": "/PNG/512/Holidays/christmas_sock-512.png",
+        "64": "/PNG/64/Holidays/christmas_sock-64.png",
         "48": "/PNG/48/Christmas/christmas_sock-48.png"
       }
     }
@@ -12824,23 +12825,23 @@
     "id": 2548,
     "name": "christmas_star",
     "platform": "Windows 8/Metro",
-    "category": "Christmas",
+    "category": "Holidays",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Christmas/christmas_star.svg",
+      "svg": "/SVG/Holidays/christmas_star.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/christmas_star.svg",
-      "eps": "/EPS/Christmas/christmas_star.eps",
+      "eps": "/EPS/Holidays/christmas_star.eps",
       "png": {
-        "32": "/PNG/32/Christmas/christmas_star-32.png",
-        "128": "/PNG/128/Christmas/christmas_star-128.png",
-        "26": "/PNG/26/Christmas/christmas_star-26.png",
-        "256": "/PNG/256/Christmas/christmas_star-256.png",
-        "512": "/PNG/512/Christmas/christmas_star-512.png",
-        "64": "/PNG/64/Christmas/christmas_star-64.png",
+        "32": "/PNG/32/Holidays/christmas_star-32.png",
+        "128": "/PNG/128/Holidays/christmas_star-128.png",
+        "26": "/PNG/26/Holidays/christmas_star-26.png",
+        "256": "/PNG/256/Holidays/christmas_star-256.png",
+        "512": "/PNG/512/Holidays/christmas_star-512.png",
+        "64": "/PNG/64/Holidays/christmas_star-64.png",
         "48": "/PNG/48/Christmas/christmas_star-48.png"
       }
     }
@@ -12849,23 +12850,23 @@
     "id": 2505,
     "name": "christmas_tree",
     "platform": "Windows 8/Metro",
-    "category": "Christmas",
+    "category": "Holidays",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Christmas/christmas_tree.svg",
+      "svg": "/SVG/Holidays/christmas_tree.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/christmas_tree.svg",
-      "eps": "/EPS/Christmas/christmas_tree.eps",
+      "eps": "/EPS/Holidays/christmas_tree.eps",
       "png": {
-        "32": "/PNG/32/Christmas/christmas_tree-32.png",
-        "128": "/PNG/128/Christmas/christmas_tree-128.png",
-        "26": "/PNG/26/Christmas/christmas_tree-26.png",
-        "256": "/PNG/256/Christmas/christmas_tree-256.png",
-        "512": "/PNG/512/Christmas/christmas_tree-512.png",
-        "64": "/PNG/64/Christmas/christmas_tree-64.png",
+        "32": "/PNG/32/Holidays/christmas_tree-32.png",
+        "128": "/PNG/128/Holidays/christmas_tree-128.png",
+        "26": "/PNG/26/Holidays/christmas_tree-26.png",
+        "256": "/PNG/256/Holidays/christmas_tree-256.png",
+        "512": "/PNG/512/Holidays/christmas_tree-512.png",
+        "64": "/PNG/64/Holidays/christmas_tree-64.png",
         "48": "/PNG/48/Christmas/christmas_tree-48.png"
       }
     }
@@ -12942,7 +12943,7 @@
     "id": 637,
     "name": "church",
     "platform": "Windows 8/Metro",
-    "category": "Easter",
+    "category": "Holidays",
     "created": 1330940674,
     "tags": [
       "city",
@@ -12953,7 +12954,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Easter/church.svg",
+      "svg": "/SVG/Holidays/church.svg",
       "svg.simplified": "/SVG_for_Font/Easter/church.svg",
       "eps": "/EPS/Easter/church.eps",
       "png": {
@@ -13091,7 +13092,7 @@
     "id": 1531,
     "name": "citrus",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1359029883,
     "tags": [
       "food",
@@ -13114,7 +13115,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/citrus.svg",
+      "svg": "/SVG/Plants/citrus.svg",
       "svg.simplified": "/SVG_for_Font/Nature/citrus.svg",
       "eps": "/EPS/Nature/citrus.eps",
       "png": {
@@ -14088,7 +14089,7 @@
     "id": 3026,
     "name": "clown_fish",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1390565309,
     "tags": [
       "animal",
@@ -14114,7 +14115,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/clown_fish.svg",
+      "svg": "/SVG/Animals/clown_fish.svg",
       "svg.simplified": "/SVG_for_Font/Nature/clown_fish.svg",
       "eps": "/EPS/Nature/clown_fish.eps",
       "png": {
@@ -14452,7 +14453,7 @@
     "id": 1646,
     "name": "coffin",
     "platform": "Windows 8/Metro",
-    "category": "Halloween",
+    "category": "Holidays",
     "created": 1384260236,
     "tags": [
       "vector",
@@ -14499,16 +14500,16 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Halloween/coffin.svg",
+      "svg": "/SVG/Holidays/coffin.svg",
       "svg.simplified": "/SVG_for_Font/Halloween/coffin.svg",
-      "eps": "/EPS/Halloween/coffin.eps",
+      "eps": "/EPS/Holidays/coffin.eps",
       "png": {
-        "32": "/PNG/32/Halloween/coffin-32.png",
-        "128": "/PNG/128/Halloween/coffin-128.png",
-        "26": "/PNG/26/Halloween/coffin-26.png",
-        "256": "/PNG/256/Halloween/coffin-256.png",
-        "512": "/PNG/512/Halloween/coffin-512.png",
-        "64": "/PNG/64/Halloween/coffin-64.png",
+        "32": "/PNG/32/Holidays/coffin-32.png",
+        "128": "/PNG/128/Holidays/coffin-128.png",
+        "26": "/PNG/26/Holidays/coffin-26.png",
+        "256": "/PNG/256/Holidays/coffin-256.png",
+        "512": "/PNG/512/Holidays/coffin-512.png",
+        "64": "/PNG/64/Holidays/coffin-64.png",
         "48": "/PNG/48/Halloween/coffin-48.png"
       }
     }
@@ -15303,7 +15304,7 @@
     "id": 825,
     "name": "coniferous_tree",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1336654847,
     "tags": [
       "park",
@@ -15319,7 +15320,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/coniferous_tree.svg",
+      "svg": "/SVG/Plants/coniferous_tree.svg",
       "svg.simplified": "/SVG_for_Font/Nature/coniferous_tree.svg",
       "eps": "/EPS/Nature/coniferous_tree.eps",
       "png": {
@@ -15871,7 +15872,7 @@
     "id": 3036,
     "name": "coral",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1390823452,
     "tags": [
       "design",
@@ -15916,7 +15917,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/coral.svg",
+      "svg": "/SVG/Animals/coral.svg",
       "svg.simplified": "/SVG_for_Font/Nature/coral.svg",
       "eps": "/EPS/Nature/coral.eps",
       "png": {
@@ -16217,7 +16218,7 @@
     "id": 1287,
     "name": "cow",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1352467474,
     "tags": [
       "pets",
@@ -16230,7 +16231,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/cow.svg",
+      "svg": "/SVG/Animals/cow.svg",
       "svg.simplified": "/SVG_for_Font/Nature/cow.svg",
       "eps": "/EPS/Nature/cow.eps",
       "png": {
@@ -16273,7 +16274,7 @@
     "id": 43,
     "name": "crab",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1372934468,
     "tags": [
       "crab",
@@ -16283,7 +16284,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/crab.svg",
+      "svg": "/SVG/Animals/crab.svg",
       "svg.simplified": "/SVG_for_Font/Nature/crab.svg",
       "eps": "/EPS/Nature/crab.eps",
       "png": {
@@ -17870,7 +17871,7 @@
     "id": 826,
     "name": "deciduous_tree",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1336654847,
     "tags": [
       "park",
@@ -17885,7 +17886,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/deciduous_tree.svg",
+      "svg": "/SVG/Plants/deciduous_tree.svg",
       "svg.simplified": "/SVG_for_Font/Nature/deciduous_tree.svg",
       "eps": "/EPS/Nature/deciduous_tree.eps",
       "png": {
@@ -18011,7 +18012,7 @@
     "id": 1421,
     "name": "degrees",
     "platform": "Windows 8/Metro",
-    "category": "Measurement Units",
+    "category": "Science",
     "created": 1356437137,
     "tags": [
       "measurement",
@@ -18021,7 +18022,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Measurement_Units/degrees.svg",
+      "svg": "/SVG/Science/degrees.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/degrees.svg",
       "eps": "/EPS/Measurement_Units/degrees.eps",
       "png": {
@@ -19530,7 +19531,7 @@
     "id": 820,
     "name": "dog",
     "platform": "Windows 8/Metro",
-    "category": "Astrology",
+    "category": "Animals",
     "created": 1336168619,
     "tags": [
       "vector",
@@ -19585,7 +19586,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Astrology/dog.svg",
+      "svg": "/SVG/Animals/dog.svg",
       "svg.simplified": "/SVG_for_Font/Astrology/dog.svg",
       "eps": "/EPS/Astrology/dog.eps",
       "png": {
@@ -19603,14 +19604,13 @@
     "id": 4248,
     "name": "dog2",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "32",
     "created": 1398883905,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/dog2.svg",
       "svg.simplified": "/SVG_for_Font/Nature/dog2.svg",
       "eps": "/EPS/Nature/dog2.eps",
       "png": {
@@ -19627,7 +19627,7 @@
     "id": 3972,
     "name": "dog_bone",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1397760709,
     "tags": [
       "skeleton",
@@ -19643,7 +19643,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/dog_bone.svg",
+      "svg": "/SVG/Animals/dog_bone.svg",
       "svg.simplified": "/SVG_for_Font/Nature/dog_bone.svg",
       "eps": "/EPS/Nature/dog_bone.eps",
       "png": {
@@ -19661,7 +19661,7 @@
     "id": 3970,
     "name": "dog_bowl",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1397760709,
     "tags": [
       "dog",
@@ -19686,7 +19686,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/dog_bowl.svg",
+      "svg": "/SVG/Animals/dog_bowl.svg",
       "svg.simplified": "/SVG_for_Font/Nature/dog_bowl.svg",
       "eps": "/EPS/Nature/dog_bowl.eps",
       "png": {
@@ -19704,7 +19704,7 @@
     "id": 3968,
     "name": "dog_house",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1397760709,
     "tags": [
       "home",
@@ -19729,7 +19729,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/dog_house.svg",
+      "svg": "/SVG/Animals/dog_house.svg",
       "svg.simplified": "/SVG_for_Font/Nature/dog_house.svg",
       "eps": "/EPS/Nature/dog_house.eps",
       "png": {
@@ -19747,7 +19747,7 @@
     "id": 3974,
     "name": "dog_leash",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1397760709,
     "tags": [
       "medicine",
@@ -19771,7 +19771,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/dog_leash.svg",
+      "svg": "/SVG/Animals/dog_leash.svg",
       "svg.simplified": "/SVG_for_Font/Nature/dog_leash.svg",
       "eps": "/EPS/Nature/dog_leash.eps",
       "png": {
@@ -19820,7 +19820,7 @@
     "id": 3044,
     "name": "dolphin",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1390924259,
     "tags": [
       "animal",
@@ -19866,7 +19866,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/dolphin.svg",
+      "svg": "/SVG/Animals/dolphin.svg",
       "svg.simplified": "/SVG_for_Font/Nature/dolphin.svg",
       "eps": "/EPS/Nature/dolphin.eps",
       "png": {
@@ -20549,7 +20549,7 @@
     "id": 3448,
     "name": "dragon",
     "platform": "Windows 8/Metro",
-    "category": "Astrology",
+    "category": "32",
     "created": 1392886277,
     "tags": [
       "design",
@@ -20602,7 +20602,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Astrology/dragon.svg",
       "svg.simplified": "/SVG_for_Font/Astrology/dragon.svg",
       "eps": "/EPS/Astrology/dragon.eps",
       "png": {
@@ -20620,7 +20619,7 @@
     "id": 4458,
     "name": "dragonfly",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1399560692,
     "tags": [
       "fast",
@@ -20673,7 +20672,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/dragonfly.svg",
+      "svg": "/SVG/Animals/dragonfly.svg",
       "svg.simplified": "/SVG_for_Font/Nature/dragonfly.svg",
       "eps": "/EPS/Nature/dragonfly.eps",
       "png": {
@@ -21011,7 +21010,7 @@
     "id": 1847,
     "name": "duck",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1369395849,
     "tags": [
       "animal",
@@ -21028,7 +21027,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/duck.svg",
+      "svg": "/SVG/Animals/duck.svg",
       "svg.simplified": "/SVG_for_Font/Nature/duck.svg",
       "eps": "/EPS/Nature/duck.eps",
       "png": {
@@ -21357,7 +21356,7 @@
     "id": 729,
     "name": "easter_cake",
     "platform": "Windows 8/Metro",
-    "category": "Easter",
+    "category": "Holidays",
     "created": 1333441739,
     "tags": [
       "god",
@@ -21370,7 +21369,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Easter/easter_cake.svg",
+      "svg": "/SVG/Holidays/easter_cake.svg",
       "svg.simplified": "/SVG_for_Font/Easter/easter_cake.svg",
       "eps": "/EPS/Easter/easter_cake.eps",
       "png": {
@@ -21388,7 +21387,7 @@
     "id": 732,
     "name": "easter_egg",
     "platform": "Windows 8/Metro",
-    "category": "Easter",
+    "category": "Holidays",
     "created": 1333441739,
     "tags": [
       "god",
@@ -21403,7 +21402,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Easter/easter_egg.svg",
+      "svg": "/SVG/Holidays/easter_egg.svg",
       "svg.simplified": "/SVG_for_Font/Easter/easter_egg.svg",
       "eps": "/EPS/Easter/easter_egg.eps",
       "png": {
@@ -21421,7 +21420,7 @@
     "id": 734,
     "name": "easter_rabbit",
     "platform": "Windows 8/Metro",
-    "category": "Easter",
+    "category": "Holidays",
     "created": 1333441739,
     "tags": [
       "god",
@@ -21434,7 +21433,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Easter/easter_rabbit.svg",
+      "svg": "/SVG/Holidays/easter_rabbit.svg",
       "svg.simplified": "/SVG_for_Font/Easter/easter_rabbit.svg",
       "eps": "/EPS/Easter/easter_rabbit.eps",
       "png": {
@@ -21522,7 +21521,7 @@
     "id": 4475,
     "name": "eating_slug",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1399927881,
     "tags": [
       "animal",
@@ -21548,7 +21547,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/eating_slug.svg",
+      "svg": "/SVG/Animals/eating_slug.svg",
       "svg.simplified": "/SVG_for_Font/Nature/eating_slug.svg",
       "eps": "/EPS/Nature/eating_slug.eps",
       "png": {
@@ -21801,7 +21800,7 @@
     "id": 50,
     "name": "eggs_basket",
     "platform": "Windows 8/Metro",
-    "category": "Easter",
+    "category": "Holidays",
     "created": 1333425600,
     "tags": [
       "easter",
@@ -21814,7 +21813,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Easter/eggs_basket.svg",
+      "svg": "/SVG/Holidays/eggs_basket.svg",
       "svg.simplified": "/SVG_for_Font/Easter/eggs_basket.svg",
       "eps": "/EPS/Easter/eggs_basket.eps",
       "png": {
@@ -25032,14 +25031,13 @@
     "id": 2604,
     "name": "fish2",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "32",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/fish2.svg",
       "svg.simplified": "/SVG_for_Font/Nature/fish2.svg",
       "eps": "/EPS/Nature/fish2.eps",
       "png": {
@@ -25417,7 +25415,7 @@
     "id": 797,
     "name": "flower",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1335433218,
     "tags": [
       "earth",
@@ -25435,7 +25433,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/flower.svg",
+      "svg": "/SVG/Plants/flower.svg",
       "svg.simplified": "/SVG_for_Font/Nature/flower.svg",
       "eps": "/EPS/Nature/flower.eps",
       "png": {
@@ -26222,7 +26220,7 @@
     "id": 1253,
     "name": "frankenstein",
     "platform": "Windows 8/Metro",
-    "category": "Halloween",
+    "category": "Holidays",
     "created": 1350470239,
     "tags": [
       "halloween",
@@ -26230,16 +26228,16 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Halloween/frankenstein.svg",
+      "svg": "/SVG/Holidays/frankenstein.svg",
       "svg.simplified": "/SVG_for_Font/Halloween/frankenstein.svg",
-      "eps": "/EPS/Halloween/frankenstein.eps",
+      "eps": "/EPS/Holidays/frankenstein.eps",
       "png": {
-        "32": "/PNG/32/Halloween/frankenstein-32.png",
-        "128": "/PNG/128/Halloween/frankenstein-128.png",
-        "26": "/PNG/26/Halloween/frankenstein-26.png",
-        "256": "/PNG/256/Halloween/frankenstein-256.png",
-        "512": "/PNG/512/Halloween/frankenstein-512.png",
-        "64": "/PNG/64/Halloween/frankenstein-64.png",
+        "32": "/PNG/32/Holidays/frankenstein-32.png",
+        "128": "/PNG/128/Holidays/frankenstein-128.png",
+        "26": "/PNG/26/Holidays/frankenstein-26.png",
+        "256": "/PNG/256/Holidays/frankenstein-256.png",
+        "512": "/PNG/512/Holidays/frankenstein-512.png",
+        "64": "/PNG/64/Holidays/frankenstein-64.png",
         "48": "/PNG/48/Halloween/frankenstein-48.png"
       }
     }
@@ -27233,7 +27231,6 @@
       "petrol",
       "cargo",
       "fuel",
-      "diesel",
       "explore",
       "gasohol",
       "propellant"
@@ -27733,7 +27730,7 @@
     "id": 1827,
     "name": "genie",
     "platform": "Windows 8/Metro",
-    "category": "Fiction",
+    "category": "Cinema",
     "created": 1368800619,
     "tags": [
       "lamp",
@@ -27754,16 +27751,16 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Fiction/genie.svg",
+      "svg": "/SVG/Cinema/genie.svg",
       "svg.simplified": "/SVG_for_Font/Fiction/genie.svg",
-      "eps": "/EPS/Fiction/genie.eps",
+      "eps": "/EPS/Cinema/genie.eps",
       "png": {
-        "32": "/PNG/32/Fiction/genie-32.png",
-        "128": "/PNG/128/Fiction/genie-128.png",
-        "26": "/PNG/26/Fiction/genie-26.png",
-        "256": "/PNG/256/Fiction/genie-256.png",
-        "512": "/PNG/512/Fiction/genie-512.png",
-        "64": "/PNG/64/Fiction/genie-64.png",
+        "32": "/PNG/32/Cinema/genie-32.png",
+        "128": "/PNG/128/Cinema/genie-128.png",
+        "26": "/PNG/26/Cinema/genie-26.png",
+        "256": "/PNG/256/Cinema/genie-256.png",
+        "512": "/PNG/512/Cinema/genie-512.png",
+        "64": "/PNG/64/Cinema/genie-64.png",
         "48": "/PNG/48/Fiction/genie-48.png"
       }
     }
@@ -28002,7 +27999,7 @@
     "id": 1648,
     "name": "ghost",
     "platform": "Windows 8/Metro",
-    "category": "Halloween",
+    "category": "Holidays",
     "created": 1384260236,
     "tags": [
       "spirit",
@@ -28039,16 +28036,16 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Halloween/ghost.svg",
+      "svg": "/SVG/Holidays/ghost.svg",
       "svg.simplified": "/SVG_for_Font/Halloween/ghost.svg",
-      "eps": "/EPS/Halloween/ghost.eps",
+      "eps": "/EPS/Holidays/ghost.eps",
       "png": {
-        "32": "/PNG/32/Halloween/ghost-32.png",
-        "128": "/PNG/128/Halloween/ghost-128.png",
-        "26": "/PNG/26/Halloween/ghost-26.png",
-        "256": "/PNG/256/Halloween/ghost-256.png",
-        "512": "/PNG/512/Halloween/ghost-512.png",
-        "64": "/PNG/64/Halloween/ghost-64.png",
+        "32": "/PNG/32/Holidays/ghost-32.png",
+        "128": "/PNG/128/Holidays/ghost-128.png",
+        "26": "/PNG/26/Holidays/ghost-26.png",
+        "256": "/PNG/256/Holidays/ghost-256.png",
+        "512": "/PNG/512/Holidays/ghost-512.png",
+        "64": "/PNG/64/Holidays/ghost-64.png",
         "48": "/PNG/48/Halloween/ghost-48.png"
       }
     }
@@ -28128,23 +28125,23 @@
     "id": 2590,
     "name": "gingerbread_men",
     "platform": "Windows 8/Metro",
-    "category": "Christmas",
+    "category": "Holidays",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Christmas/gingerbread_men.svg",
+      "svg": "/SVG/Holidays/gingerbread_men.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/gingerbread_men.svg",
-      "eps": "/EPS/Christmas/gingerbread_men.eps",
+      "eps": "/EPS/Holidays/gingerbread_men.eps",
       "png": {
-        "32": "/PNG/32/Christmas/gingerbread_men-32.png",
-        "128": "/PNG/128/Christmas/gingerbread_men-128.png",
-        "26": "/PNG/26/Christmas/gingerbread_men-26.png",
-        "256": "/PNG/256/Christmas/gingerbread_men-256.png",
-        "512": "/PNG/512/Christmas/gingerbread_men-512.png",
-        "64": "/PNG/64/Christmas/gingerbread_men-64.png",
+        "32": "/PNG/32/Holidays/gingerbread_men-32.png",
+        "128": "/PNG/128/Holidays/gingerbread_men-128.png",
+        "26": "/PNG/26/Holidays/gingerbread_men-26.png",
+        "256": "/PNG/256/Holidays/gingerbread_men-256.png",
+        "512": "/PNG/512/Holidays/gingerbread_men-512.png",
+        "64": "/PNG/64/Holidays/gingerbread_men-64.png",
         "48": "/PNG/48/Christmas/gingerbread_men-48.png"
       }
     }
@@ -28392,7 +28389,7 @@
     "id": 3458,
     "name": "goat",
     "platform": "Windows 8/Metro",
-    "category": "Astrology",
+    "category": "32",
     "created": 1393235476,
     "tags": [
       "vector",
@@ -28419,7 +28416,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Astrology/goat.svg",
       "svg.simplified": "/SVG_for_Font/Astrology/goat.svg",
       "eps": "/EPS/Astrology/goat.eps",
       "png": {
@@ -28497,7 +28493,7 @@
     "id": 1897,
     "name": "google_alerts",
     "platform": "Windows 8/Metro",
-    "category": "Google Services",
+    "category": "Logos",
     "created": 1371551971,
     "tags": [
       "google",
@@ -28506,7 +28502,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_alerts_copyrighted.svg",
+      "svg": "/SVG/Logos/google_alerts_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_alerts_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_alerts_copyrighted.eps",
       "png": {
@@ -28524,7 +28520,7 @@
     "id": 1896,
     "name": "google_blog_search",
     "platform": "Windows 8/Metro",
-    "category": "Google Services",
+    "category": "Logos",
     "created": 1371551971,
     "tags": [
       "google",
@@ -28538,7 +28534,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_blog_search_copyrighted.svg",
+      "svg": "/SVG/Logos/google_blog_search_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_blog_search_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_blog_search_copyrighted.eps",
       "png": {
@@ -28556,7 +28552,7 @@
     "id": 1889,
     "name": "google_code",
     "platform": "Windows 8/Metro",
-    "category": "Google Services",
+    "category": "Logos",
     "created": 1371119053,
     "tags": [
       "google",
@@ -28570,7 +28566,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_code_copyrighted.svg",
+      "svg": "/SVG/Logos/google_code_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_code_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_code_copyrighted.eps",
       "png": {
@@ -28588,7 +28584,7 @@
     "id": 1882,
     "name": "google_drive",
     "platform": "Windows 8/Metro",
-    "category": "Google Services",
+    "category": "Logos",
     "created": 1370602919,
     "tags": [
       "design",
@@ -28643,7 +28639,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_drive_copyrighted.svg",
+      "svg": "/SVG/Logos/google_drive_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_drive_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_drive_copyrighted.eps",
       "png": {
@@ -28661,7 +28657,7 @@
     "id": 1899,
     "name": "google_earth",
     "platform": "Windows 8/Metro",
-    "category": "Google Services",
+    "category": "Logos",
     "created": 1371637091,
     "tags": [
       "google",
@@ -28673,7 +28669,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_earth_copyrighted.svg",
+      "svg": "/SVG/Logos/google_earth_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_earth_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_earth_copyrighted.eps",
       "png": {
@@ -28691,7 +28687,7 @@
     "id": 1887,
     "name": "google_groups",
     "platform": "Windows 8/Metro",
-    "category": "Google Services",
+    "category": "Logos",
     "created": 1370950234,
     "tags": [
       "google",
@@ -28717,7 +28713,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_groups_copyrighted.svg",
+      "svg": "/SVG/Logos/google_groups_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_groups_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_groups_copyrighted.eps",
       "png": {
@@ -28735,7 +28731,7 @@
     "id": 1885,
     "name": "google_images",
     "platform": "Windows 8/Metro",
-    "category": "Google Services",
+    "category": "Logos",
     "created": 1370950234,
     "tags": [
       "google",
@@ -28790,7 +28786,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_images_copyrighted.svg",
+      "svg": "/SVG/Logos/google_images_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_images_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_images_copyrighted.eps",
       "png": {
@@ -28808,7 +28804,7 @@
     "id": 1886,
     "name": "google_mobile",
     "platform": "Windows 8/Metro",
-    "category": "Google Services",
+    "category": "Logos",
     "created": 1370950234,
     "tags": [
       "google",
@@ -28834,7 +28830,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_mobile_copyrighted.svg",
+      "svg": "/SVG/Logos/google_mobile_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_mobile_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_mobile_copyrighted.eps",
       "png": {
@@ -28852,7 +28848,7 @@
     "id": 1891,
     "name": "google_news",
     "platform": "Windows 8/Metro",
-    "category": "Google Services",
+    "category": "Logos",
     "created": 1371214582,
     "tags": [
       "google",
@@ -28863,9 +28859,9 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_news_copyrighted.svg",
+      "svg": "/SVG/Logos/google_news_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_news_copyrighted.svg",
-      "eps": "/EPS/Google_Services/google_news_copyrighted.eps",
+      "eps": "/EPS/Logos/google_news_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Google_Services/google_news_copyrighted-32.png",
         "128": "/PNG/128/Google_Services/google_news_copyrighted-128.png",
@@ -28911,7 +28907,7 @@
     "id": 1890,
     "name": "google_scholar",
     "platform": "Windows 8/Metro",
-    "category": "Google Services",
+    "category": "Logos",
     "created": 1371119053,
     "tags": [
       "google",
@@ -28922,7 +28918,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_scholar_copyrighted.svg",
+      "svg": "/SVG/Logos/google_scholar_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_scholar_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_scholar_copyrighted.eps",
       "png": {
@@ -28940,7 +28936,7 @@
     "id": 1900,
     "name": "google_sketchup",
     "platform": "Windows 8/Metro",
-    "category": "Google Services",
+    "category": "Logos",
     "created": 1371637091,
     "tags": [
       "google",
@@ -28948,7 +28944,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_sketchup_copyrighted.svg",
+      "svg": "/SVG/Logos/google_sketchup_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_sketchup_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_sketchup_copyrighted.eps",
       "png": {
@@ -28966,7 +28962,7 @@
     "id": 1901,
     "name": "google_translate",
     "platform": "Windows 8/Metro",
-    "category": "Google Services",
+    "category": "Logos",
     "created": 1371637091,
     "tags": [
       "google",
@@ -28980,7 +28976,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_translate_copyrighted.svg",
+      "svg": "/SVG/Logos/google_translate_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_translate_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_translate_copyrighted.eps",
       "png": {
@@ -28998,7 +28994,7 @@
     "id": 1888,
     "name": "google_web_search",
     "platform": "Windows 8/Metro",
-    "category": "Google Services",
+    "category": "Logos",
     "created": 1371119053,
     "tags": [
       "google",
@@ -29018,7 +29014,7 @@
     ],
     "copyright": true,
     "files": {
-      "svg": "/SVG/Google_Services/google_web_search_copyrighted.svg",
+      "svg": "/SVG/Logos/google_web_search_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_web_search_copyrighted.svg",
       "eps": "/EPS/Google_Services/google_web_search_copyrighted.eps",
       "png": {
@@ -29036,7 +29032,7 @@
     "id": 3042,
     "name": "gorilla",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1390924259,
     "tags": [
       "vector",
@@ -29081,7 +29077,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/gorilla.svg",
+      "svg": "/SVG/Animals/gorilla.svg",
       "svg.simplified": "/SVG_for_Font/Nature/gorilla.svg",
       "eps": "/EPS/Nature/gorilla.eps",
       "png": {
@@ -29279,7 +29275,7 @@
     "id": 1825,
     "name": "grapes",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1368031310,
     "tags": [
       "food",
@@ -29308,7 +29304,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/grapes.svg",
+      "svg": "/SVG/Plants/grapes.svg",
       "svg.simplified": "/SVG_for_Font/Nature/grapes.svg",
       "eps": "/EPS/Nature/grapes.eps",
       "png": {
@@ -29326,7 +29322,7 @@
     "id": 801,
     "name": "grass",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1335513247,
     "tags": [
       "park",
@@ -29340,7 +29336,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/grass.svg",
+      "svg": "/SVG/Plants/grass.svg",
       "svg.simplified": "/SVG_for_Font/Nature/grass.svg",
       "eps": "/EPS/Nature/grass.eps",
       "png": {
@@ -30794,7 +30790,7 @@
     "id": 1522,
     "name": "hazelnut",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1358857277,
     "tags": [
       "food",
@@ -30810,7 +30806,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/hazelnut.svg",
+      "svg": "/SVG/Plants/hazelnut.svg",
       "svg.simplified": "/SVG_for_Font/Nature/hazelnut.svg",
       "eps": "/EPS/Nature/hazelnut.eps",
       "png": {
@@ -30958,7 +30954,7 @@
     "id": 1642,
     "name": "headstone",
     "platform": "Windows 8/Metro",
-    "category": "Halloween",
+    "category": "Holidays",
     "created": 1384337861,
     "tags": [
       "church",
@@ -31010,16 +31006,16 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Halloween/headstone.svg",
+      "svg": "/SVG/Holidays/headstone.svg",
       "svg.simplified": "/SVG_for_Font/Halloween/headstone.svg",
-      "eps": "/EPS/Halloween/headstone.eps",
+      "eps": "/EPS/Holidays/headstone.eps",
       "png": {
-        "32": "/PNG/32/Halloween/headstone-32.png",
-        "128": "/PNG/128/Halloween/headstone-128.png",
-        "26": "/PNG/26/Halloween/headstone-26.png",
-        "256": "/PNG/256/Halloween/headstone-256.png",
-        "512": "/PNG/512/Halloween/headstone-512.png",
-        "64": "/PNG/64/Halloween/headstone-64.png",
+        "32": "/PNG/32/Holidays/headstone-32.png",
+        "128": "/PNG/128/Holidays/headstone-128.png",
+        "26": "/PNG/26/Holidays/headstone-26.png",
+        "256": "/PNG/256/Holidays/headstone-256.png",
+        "512": "/PNG/512/Holidays/headstone-512.png",
+        "64": "/PNG/64/Holidays/headstone-64.png",
         "48": "/PNG/48/Halloween/headstone-48.png"
       }
     }
@@ -31655,7 +31651,7 @@
     "id": 728,
     "name": "holy_bible",
     "platform": "Windows 8/Metro",
-    "category": "Easter",
+    "category": "Holidays",
     "created": 1333441739,
     "tags": [
       "god",
@@ -31668,7 +31664,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Easter/holy_bible.svg",
+      "svg": "/SVG/Holidays/holy_bible.svg",
       "svg.simplified": "/SVG_for_Font/Easter/holy_bible.svg",
       "eps": "/EPS/Easter/holy_bible.eps",
       "png": {
@@ -31762,7 +31758,7 @@
     "id": 1829,
     "name": "hops",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1369061325,
     "tags": [
       "food",
@@ -31780,7 +31776,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/hops.svg",
+      "svg": "/SVG/Plants/hops.svg",
       "svg.simplified": "/SVG_for_Font/Nature/hops.svg",
       "eps": "/EPS/Nature/hops.eps",
       "png": {
@@ -31826,7 +31822,7 @@
     "id": 3460,
     "name": "horse",
     "platform": "Windows 8/Metro",
-    "category": "Astrology",
+    "category": "32",
     "created": 1393235476,
     "tags": [
       "design",
@@ -31881,7 +31877,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Astrology/horse.svg",
       "svg.simplified": "/SVG_for_Font/Astrology/horse.svg",
       "eps": "/EPS/Astrology/horse.eps",
       "png": {
@@ -32436,7 +32431,7 @@
     "id": 1689,
     "name": "humidity",
     "platform": "Windows 8/Metro",
-    "category": "Measurement Units",
+    "category": "Science",
     "created": 1382464872,
     "tags": [
       "design",
@@ -32472,7 +32467,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Measurement_Units/humidity.svg",
+      "svg": "/SVG/Science/humidity.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/humidity.svg",
       "eps": "/EPS/Measurement_Units/humidity.eps",
       "png": {
@@ -33087,7 +33082,7 @@
     "id": 4098,
     "name": "insect",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398351100,
     "tags": [
       "report",
@@ -33114,7 +33109,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/insect.svg",
+      "svg": "/SVG/Animals/insect.svg",
       "svg.simplified": "/SVG_for_Font/Nature/insect.svg",
       "eps": "/EPS/Nature/insect.eps",
       "png": {
@@ -33389,6 +33384,66 @@
         "512": "/PNG/512/Folders/internet_folder-512.png",
         "64": "/PNG/64/Folders/internet_folder-64.png",
         "48": "/PNG/48/Folders/internet_folder-48.png"
+      }
+    }
+  },
+  {
+    "id": 4532,
+    "name": "interstate_truck",
+    "platform": "Windows 8/Metro",
+    "category": "Transport",
+    "created": 1400079102,
+    "tags": [
+      "racing",
+      "transportation",
+      "cab",
+      "driver",
+      "car",
+      "speed",
+      "wheels",
+      "pollution",
+      "water",
+      "load",
+      "gas",
+      "oil",
+      "truck",
+      "power",
+      "heavy",
+      "capacity",
+      "pickup",
+      "vehicle",
+      "motor",
+      "automobile",
+      "auto",
+      "fuel",
+      "commercial",
+      "semi",
+      "diesel",
+      "interstate",
+      "emission",
+      "routes",
+      "trailers",
+      "tyres",
+      "tanks",
+      "leakage",
+      "lorry",
+      "chassis",
+      "dump truck",
+      "18 wheeler",
+      "big rig",
+      "work truck"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Transport/interstate_truck.svg",
+      "eps": "/EPS/Transport/interstate_truck.eps",
+      "png": {
+        "32": "/PNG/32/Transport/interstate_truck-32.png",
+        "128": "/PNG/128/Transport/interstate_truck-128.png",
+        "26": "/PNG/26/Transport/interstate_truck-26.png",
+        "256": "/PNG/256/Transport/interstate_truck-256.png",
+        "512": "/PNG/512/Transport/interstate_truck-512.png",
+        "64": "/PNG/64/Transport/interstate_truck-64.png"
       }
     }
   },
@@ -34253,23 +34308,23 @@
     "id": 2503,
     "name": "jingle_bell",
     "platform": "Windows 8/Metro",
-    "category": "Christmas",
+    "category": "Holidays",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Christmas/jingle_bell.svg",
+      "svg": "/SVG/Holidays/jingle_bell.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/jingle_bell.svg",
-      "eps": "/EPS/Christmas/jingle_bell.eps",
+      "eps": "/EPS/Holidays/jingle_bell.eps",
       "png": {
-        "32": "/PNG/32/Christmas/jingle_bell-32.png",
-        "128": "/PNG/128/Christmas/jingle_bell-128.png",
-        "26": "/PNG/26/Christmas/jingle_bell-26.png",
-        "256": "/PNG/256/Christmas/jingle_bell-256.png",
-        "512": "/PNG/512/Christmas/jingle_bell-512.png",
-        "64": "/PNG/64/Christmas/jingle_bell-64.png",
+        "32": "/PNG/32/Holidays/jingle_bell-32.png",
+        "128": "/PNG/128/Holidays/jingle_bell-128.png",
+        "26": "/PNG/26/Holidays/jingle_bell-26.png",
+        "256": "/PNG/256/Holidays/jingle_bell-256.png",
+        "512": "/PNG/512/Holidays/jingle_bell-512.png",
+        "64": "/PNG/64/Holidays/jingle_bell-64.png",
         "48": "/PNG/48/Christmas/jingle_bell-48.png"
       }
     }
@@ -35671,7 +35726,7 @@
     "id": 1828,
     "name": "lamp_genie",
     "platform": "Windows 8/Metro",
-    "category": "Fiction",
+    "category": "32",
     "created": 1368800619,
     "tags": [
       "lamp",
@@ -35691,7 +35746,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Fiction/lamp_genie.svg",
       "svg.simplified": "/SVG_for_Font/Fiction/lamp_genie.svg",
       "eps": "/EPS/Fiction/lamp_genie.eps",
       "png": {
@@ -35709,7 +35763,7 @@
     "id": 83,
     "name": "lamp_magic",
     "platform": "Windows 8/Metro",
-    "category": "Fiction",
+    "category": "32",
     "created": 1293858000,
     "tags": [
       "lamp",
@@ -35722,7 +35776,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Fiction/lamp_magic.svg",
       "svg.simplified": "/SVG_for_Font/Fiction/lamp_magic.svg",
       "eps": "/EPS/Fiction/lamp_magic.eps",
       "png": {
@@ -35733,6 +35786,29 @@
         "512": "/PNG/512/Fiction/lamp_magic-512.png",
         "64": "/PNG/64/Fiction/lamp_magic-64.png",
         "48": "/PNG/48/Fiction/lamp_magic-48.png"
+      }
+    }
+  },
+  {
+    "id": 4546,
+    "name": "lamp_of_alladin",
+    "platform": "Windows 8/Metro",
+    "category": "Cinema",
+    "created": 1400086347,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Cinema/lamp_of_alladin.svg",
+      "eps": "/EPS/Cinema/lamp_of_alladin.eps",
+      "png": {
+        "32": "/PNG/32/Cinema/lamp_of_alladin-32.png",
+        "128": "/PNG/128/Cinema/lamp_of_alladin-128.png",
+        "26": "/PNG/26/Cinema/lamp_of_alladin-26.png",
+        "256": "/PNG/256/Cinema/lamp_of_alladin-256.png",
+        "512": "/PNG/512/Cinema/lamp_of_alladin-512.png",
+        "64": "/PNG/64/Cinema/lamp_of_alladin-64.png"
       }
     }
   },
@@ -36149,7 +36225,7 @@
     "id": 793,
     "name": "leaf",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1335345088,
     "tags": [
       "wired network",
@@ -36163,7 +36239,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/leaf.svg",
+      "svg": "/SVG/Plants/leaf.svg",
       "svg.simplified": "/SVG_for_Font/Nature/leaf.svg",
       "eps": "/EPS/Nature/leaf.eps",
       "png": {
@@ -36181,7 +36257,7 @@
     "id": 795,
     "name": "leaf2",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "32",
     "created": 1335433218,
     "tags": [
       "earth",
@@ -36196,7 +36272,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/leaf2.svg",
       "svg.simplified": "/SVG_for_Font/Nature/leaf2.svg",
       "eps": "/EPS/Nature/leaf2.eps",
       "png": {
@@ -36214,7 +36289,7 @@
     "id": 796,
     "name": "leaf3",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "32",
     "created": 1335433218,
     "tags": [
       "earth",
@@ -36231,7 +36306,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/leaf3.svg",
       "svg.simplified": "/SVG_for_Font/Nature/leaf3.svg",
       "eps": "/EPS/Nature/leaf3.eps",
       "png": {
@@ -36683,7 +36757,7 @@
     "id": 1407,
     "name": "length",
     "platform": "Windows 8/Metro",
-    "category": "Measurement Units",
+    "category": "Science",
     "created": 1356004657,
     "tags": [
       "ruler",
@@ -36701,7 +36775,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Measurement_Units/length.svg",
+      "svg": "/SVG/Science/length.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/length.svg",
       "eps": "/EPS/Measurement_Units/length.eps",
       "png": {
@@ -37174,6 +37248,46 @@
         "512": "/PNG/512/Data/line_chart-512.png",
         "64": "/PNG/64/Data/line_chart-64.png",
         "48": "/PNG/48/Data/line_chart-48.png"
+      }
+    }
+  },
+  {
+    "id": 4531,
+    "name": "line_splitting",
+    "platform": "Windows 8/Metro",
+    "category": "Transport",
+    "created": 1400079102,
+    "tags": [
+      "line",
+      "arrow",
+      "direction",
+      "outline",
+      "road",
+      "path",
+      "run",
+      "water",
+      "travel",
+      "route",
+      "paint",
+      "journey",
+      "surface",
+      "curve",
+      "crack",
+      "street",
+      "opposite",
+      "junction"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Transport/line_splitting.svg",
+      "eps": "/EPS/Transport/line_splitting.eps",
+      "png": {
+        "32": "/PNG/32/Transport/line_splitting-32.png",
+        "128": "/PNG/128/Transport/line_splitting-128.png",
+        "26": "/PNG/26/Transport/line_splitting-26.png",
+        "256": "/PNG/256/Transport/line_splitting-256.png",
+        "512": "/PNG/512/Transport/line_splitting-512.png",
+        "64": "/PNG/64/Transport/line_splitting-64.png"
       }
     }
   },
@@ -38389,6 +38503,29 @@
         "512": "/PNG/512/Printing/magazine-512.png",
         "64": "/PNG/64/Printing/magazine-64.png",
         "48": "/PNG/48/Printing/magazine-48.png"
+      }
+    }
+  },
+  {
+    "id": 4545,
+    "name": "magic_lamp",
+    "platform": "Windows 8/Metro",
+    "category": "Cinema",
+    "created": 1400086347,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Cinema/magic_lamp.svg",
+      "eps": "/EPS/Cinema/magic_lamp.eps",
+      "png": {
+        "32": "/PNG/32/Cinema/magic_lamp-32.png",
+        "128": "/PNG/128/Cinema/magic_lamp-128.png",
+        "26": "/PNG/26/Cinema/magic_lamp-26.png",
+        "256": "/PNG/256/Cinema/magic_lamp-256.png",
+        "512": "/PNG/512/Cinema/magic_lamp-512.png",
+        "64": "/PNG/64/Cinema/magic_lamp-64.png"
       }
     }
   },
@@ -40835,7 +40972,7 @@
     "id": 4100,
     "name": "mite",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398351100,
     "tags": [
       "tick",
@@ -40861,7 +40998,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/mite.svg",
+      "svg": "/SVG/Animals/mite.svg",
       "svg.simplified": "/SVG_for_Font/Nature/mite.svg",
       "eps": "/EPS/Nature/mite.eps",
       "png": {
@@ -41082,6 +41219,7 @@
     "category": "Finance",
     "created": 1319251300,
     "tags": [
+      "education",
       "coins",
       "penny",
       "dime",
@@ -41201,7 +41339,7 @@
     "id": 3456,
     "name": "monkey",
     "platform": "Windows 8/Metro",
-    "category": "Astrology",
+    "category": "32",
     "created": 1393235476,
     "tags": [
       "design",
@@ -41257,7 +41395,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Astrology/monkey.svg",
       "svg.simplified": "/SVG_for_Font/Astrology/monkey.svg",
       "eps": "/EPS/Astrology/monkey.eps",
       "png": {
@@ -41493,7 +41630,7 @@
     "id": 4460,
     "name": "mosquito",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1399560692,
     "tags": [
       "eggs",
@@ -41547,7 +41684,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/mosquito.svg",
+      "svg": "/SVG/Animals/mosquito.svg",
       "svg.simplified": "/SVG_for_Font/Nature/mosquito.svg",
       "eps": "/EPS/Nature/mosquito.eps",
       "png": {
@@ -42477,7 +42614,7 @@
     "id": 1644,
     "name": "mummy",
     "platform": "Windows 8/Metro",
-    "category": "Halloween",
+    "category": "Holidays",
     "created": 1384337861,
     "tags": [
       "ideas",
@@ -42522,16 +42659,16 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Halloween/mummy.svg",
+      "svg": "/SVG/Holidays/mummy.svg",
       "svg.simplified": "/SVG_for_Font/Halloween/mummy.svg",
-      "eps": "/EPS/Halloween/mummy.eps",
+      "eps": "/EPS/Holidays/mummy.eps",
       "png": {
-        "32": "/PNG/32/Halloween/mummy-32.png",
-        "128": "/PNG/128/Halloween/mummy-128.png",
-        "26": "/PNG/26/Halloween/mummy-26.png",
-        "256": "/PNG/256/Halloween/mummy-256.png",
-        "512": "/PNG/512/Halloween/mummy-512.png",
-        "64": "/PNG/64/Halloween/mummy-64.png",
+        "32": "/PNG/32/Holidays/mummy-32.png",
+        "128": "/PNG/128/Holidays/mummy-128.png",
+        "26": "/PNG/26/Holidays/mummy-26.png",
+        "256": "/PNG/256/Holidays/mummy-256.png",
+        "512": "/PNG/512/Holidays/mummy-512.png",
+        "64": "/PNG/64/Holidays/mummy-64.png",
         "48": "/PNG/48/Halloween/mummy-48.png"
       }
     }
@@ -44734,7 +44871,7 @@
     "id": 800,
     "name": "nut",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1335513247,
     "tags": [
       "park",
@@ -44747,7 +44884,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/nut.svg",
+      "svg": "/SVG/Plants/nut.svg",
       "svg.simplified": "/SVG_for_Font/Nature/nut.svg",
       "eps": "/EPS/Nature/nut.eps",
       "png": {
@@ -44874,7 +45011,7 @@
     "id": 3034,
     "name": "octopus",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1390823452,
     "tags": [
       "animal",
@@ -44913,7 +45050,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/octopus.svg",
+      "svg": "/SVG/Animals/octopus.svg",
       "svg.simplified": "/SVG_for_Font/Nature/octopus.svg",
       "eps": "/EPS/Nature/octopus.eps",
       "png": {
@@ -46186,7 +46323,7 @@
     "id": 3441,
     "name": "ox",
     "platform": "Windows 8/Metro",
-    "category": "Astrology",
+    "category": "32",
     "created": 1392803463,
     "tags": [
       "animal",
@@ -46212,7 +46349,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Astrology/ox.svg",
       "svg.simplified": "/SVG_for_Font/Astrology/ox.svg",
       "eps": "/EPS/Astrology/ox.eps",
       "png": {
@@ -46439,7 +46575,7 @@
     "id": 827,
     "name": "palm_tree",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1336654847,
     "tags": [
       "green",
@@ -46452,7 +46588,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/palm_tree.svg",
+      "svg": "/SVG/Plants/palm_tree.svg",
       "svg.simplified": "/SVG_for_Font/Nature/palm_tree.svg",
       "eps": "/EPS/Nature/palm_tree.eps",
       "png": {
@@ -47184,7 +47320,7 @@
     "id": 1526,
     "name": "peanuts",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1358943781,
     "tags": [
       "food",
@@ -47206,7 +47342,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/peanuts.svg",
+      "svg": "/SVG/Plants/peanuts.svg",
       "svg.simplified": "/SVG_for_Font/Nature/peanuts.svg",
       "eps": "/EPS/Nature/peanuts.eps",
       "png": {
@@ -47621,7 +47757,8 @@
       "sound",
       "earphone",
       "telecommunicate",
-      "tel"
+      "tel",
+      "diary"
     ],
     "copyright": false,
     "files": {
@@ -48027,7 +48164,7 @@
     "id": 1285,
     "name": "pig",
     "platform": "Windows 8/Metro",
-    "category": "Astrology",
+    "category": "32",
     "created": 1352467474,
     "tags": [
       "design",
@@ -48070,7 +48207,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Astrology/pig.svg",
       "svg.simplified": "/SVG_for_Font/Astrology/pig.svg",
       "eps": "/EPS/Astrology/pig.eps",
       "png": {
@@ -48088,14 +48224,14 @@
     "id": 4249,
     "name": "pig2",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398883905,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/pig2.svg",
+      "svg": "/SVG/Animals/pig2.svg",
       "svg.simplified": "/SVG_for_Font/Nature/pig2.svg",
       "eps": "/EPS/Nature/pig2.eps",
       "png": {
@@ -49983,7 +50119,7 @@
     "id": 1289,
     "name": "prawn",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1352720915,
     "tags": [
       "fish",
@@ -49994,7 +50130,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/prawn.svg",
+      "svg": "/SVG/Animals/prawn.svg",
       "svg.simplified": "/SVG_for_Font/Nature/prawn.svg",
       "eps": "/EPS/Nature/prawn.eps",
       "png": {
@@ -50089,7 +50225,7 @@
     "id": 1417,
     "name": "pressure",
     "platform": "Windows 8/Metro",
-    "category": "Measurement Units",
+    "category": "Science",
     "created": 1356346293,
     "tags": [
       "scale",
@@ -50102,7 +50238,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Measurement_Units/pressure.svg",
+      "svg": "/SVG/Science/pressure.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/pressure.svg",
       "eps": "/EPS/Measurement_Units/pressure.eps",
       "png": {
@@ -50860,7 +50996,7 @@
     "id": 1654,
     "name": "pumpkin",
     "platform": "Windows 8/Metro",
-    "category": "Halloween",
+    "category": "Holidays",
     "created": 1384173433,
     "tags": [
       "full",
@@ -50906,16 +51042,16 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Halloween/pumpkin.svg",
+      "svg": "/SVG/Holidays/pumpkin.svg",
       "svg.simplified": "/SVG_for_Font/Halloween/pumpkin.svg",
-      "eps": "/EPS/Halloween/pumpkin.eps",
+      "eps": "/EPS/Holidays/pumpkin.eps",
       "png": {
-        "32": "/PNG/32/Halloween/pumpkin-32.png",
-        "128": "/PNG/128/Halloween/pumpkin-128.png",
-        "26": "/PNG/26/Halloween/pumpkin-26.png",
-        "256": "/PNG/256/Halloween/pumpkin-256.png",
-        "512": "/PNG/512/Halloween/pumpkin-512.png",
-        "64": "/PNG/64/Halloween/pumpkin-64.png",
+        "32": "/PNG/32/Holidays/pumpkin-32.png",
+        "128": "/PNG/128/Holidays/pumpkin-128.png",
+        "26": "/PNG/26/Holidays/pumpkin-26.png",
+        "256": "/PNG/256/Holidays/pumpkin-256.png",
+        "512": "/PNG/512/Holidays/pumpkin-512.png",
+        "64": "/PNG/64/Holidays/pumpkin-64.png",
         "48": "/PNG/48/Halloween/pumpkin-48.png"
       }
     }
@@ -51030,7 +51166,7 @@
     "id": 735,
     "name": "pussy_willow",
     "platform": "Windows 8/Metro",
-    "category": "Easter",
+    "category": "Holidays",
     "created": 1333441739,
     "tags": [
       "god",
@@ -51042,7 +51178,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Easter/pussy_willow.svg",
+      "svg": "/SVG/Holidays/pussy_willow.svg",
       "svg.simplified": "/SVG_for_Font/Easter/pussy_willow.svg",
       "eps": "/EPS/Easter/pussy_willow.eps",
       "png": {
@@ -51868,7 +52004,7 @@
     "id": 941,
     "name": "rabbit",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1340091902,
     "tags": [
       "vector",
@@ -51926,7 +52062,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/rabbit.svg",
+      "svg": "/SVG/Animals/rabbit.svg",
       "svg.simplified": "/SVG_for_Font/Nature/rabbit.svg",
       "eps": "/EPS/Nature/rabbit.eps",
       "png": {
@@ -52330,7 +52466,7 @@
     "id": 3442,
     "name": "rat",
     "platform": "Windows 8/Metro",
-    "category": "Astrology",
+    "category": "32",
     "created": 1392803463,
     "tags": [
       "vector",
@@ -52372,7 +52508,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Astrology/rat.svg",
       "svg.simplified": "/SVG_for_Font/Astrology/rat.svg",
       "eps": "/EPS/Astrology/rat.eps",
       "png": {
@@ -54067,7 +54202,7 @@
     "id": 706,
     "name": "ring",
     "platform": "Windows 8/Metro",
-    "category": "Wedding",
+    "category": "Holidays",
     "created": 1332840395,
     "tags": [
       "celebration",
@@ -54083,7 +54218,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Wedding/ring.svg",
+      "svg": "/SVG/Holidays/ring.svg",
       "svg.simplified": "/SVG_for_Font/Wedding/ring.svg",
       "eps": "/EPS/Wedding/ring.eps",
       "png": {
@@ -54359,7 +54494,7 @@
     "id": 711,
     "name": "rock",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Gaming",
     "created": 1332923606,
     "tags": [
       "play",
@@ -54372,7 +54507,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/rock.svg",
+      "svg": "/SVG/Gaming/rock.svg",
       "svg.simplified": "/SVG_for_Font/Nature/rock.svg",
       "eps": "/EPS/Nature/rock.eps",
       "png": {
@@ -54562,7 +54697,7 @@
     "id": 3462,
     "name": "rooster",
     "platform": "Windows 8/Metro",
-    "category": "Astrology",
+    "category": "32",
     "created": 1393318286,
     "tags": [
       "design",
@@ -54616,7 +54751,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Astrology/rooster.svg",
       "svg.simplified": "/SVG_for_Font/Astrology/rooster.svg",
       "eps": "/EPS/Astrology/rooster.eps",
       "png": {
@@ -55195,7 +55329,7 @@
     "id": 2695,
     "name": "running_rabbit",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1390342413,
     "tags": [
       "animal",
@@ -55234,7 +55368,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/running_rabbit.svg",
+      "svg": "/SVG/Animals/running_rabbit.svg",
       "svg.simplified": "/SVG_for_Font/Nature/running_rabbit.svg",
       "eps": "/EPS/Nature/running_rabbit.eps",
       "png": {
@@ -55673,23 +55807,23 @@
     "id": 2693,
     "name": "santa",
     "platform": "Windows 8/Metro",
-    "category": "Christmas",
+    "category": "Holidays",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Christmas/santa.svg",
+      "svg": "/SVG/Holidays/santa.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/santa.svg",
-      "eps": "/EPS/Christmas/santa.eps",
+      "eps": "/EPS/Holidays/santa.eps",
       "png": {
-        "32": "/PNG/32/Christmas/santa-32.png",
-        "128": "/PNG/128/Christmas/santa-128.png",
-        "26": "/PNG/26/Christmas/santa-26.png",
-        "256": "/PNG/256/Christmas/santa-256.png",
-        "512": "/PNG/512/Christmas/santa-512.png",
-        "64": "/PNG/64/Christmas/santa-64.png",
+        "32": "/PNG/32/Holidays/santa-32.png",
+        "128": "/PNG/128/Holidays/santa-128.png",
+        "26": "/PNG/26/Holidays/santa-26.png",
+        "256": "/PNG/256/Holidays/santa-256.png",
+        "512": "/PNG/512/Holidays/santa-512.png",
+        "64": "/PNG/64/Holidays/santa-64.png",
         "48": "/PNG/48/Christmas/santa-48.png"
       }
     }
@@ -55915,7 +56049,7 @@
     "id": 974,
     "name": "scale",
     "platform": "Windows 8/Metro",
-    "category": "Measurement Units",
+    "category": "Science",
     "created": 1341223640,
     "tags": [
       "health",
@@ -55932,7 +56066,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Measurement_Units/scale.svg",
+      "svg": "/SVG/Science/scale.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/scale.svg",
       "eps": "/EPS/Measurement_Units/scale.eps",
       "png": {
@@ -55950,7 +56084,7 @@
     "id": 388,
     "name": "scales",
     "platform": "Windows 8/Metro",
-    "category": "Measurement Units",
+    "category": "Science",
     "created": 1323862193,
     "tags": [
       "objects",
@@ -55959,7 +56093,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Measurement_Units/scales.svg",
+      "svg": "/SVG/Science/scales.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/scales.svg",
       "eps": "/EPS/Measurement_Units/scales.eps",
       "png": {
@@ -56628,7 +56762,7 @@
     "id": 3024,
     "name": "seahorse",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1390565309,
     "tags": [
       "fish",
@@ -56654,7 +56788,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/seahorse.svg",
+      "svg": "/SVG/Animals/seahorse.svg",
       "svg.simplified": "/SVG_for_Font/Nature/seahorse.svg",
       "eps": "/EPS/Nature/seahorse.eps",
       "png": {
@@ -56715,14 +56849,14 @@
     "id": 3022,
     "name": "sea_waves",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1390485046,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/sea_waves.svg",
+      "svg": "/SVG/Animals/sea_waves.svg",
       "svg.simplified": "/SVG_for_Font/Nature/sea_waves.svg",
       "eps": "/EPS/Nature/sea_waves.eps",
       "png": {
@@ -57476,7 +57610,7 @@
     "id": 3025,
     "name": "shark",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1390565309,
     "tags": [
       "vector",
@@ -57502,7 +57636,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/shark.svg",
+      "svg": "/SVG/Animals/shark.svg",
       "svg.simplified": "/SVG_for_Font/Nature/shark.svg",
       "eps": "/EPS/Nature/shark.eps",
       "png": {
@@ -57520,7 +57654,7 @@
     "id": 432,
     "name": "sheep",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1324900438,
     "tags": [
       "sheep",
@@ -57529,7 +57663,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/sheep.svg",
+      "svg": "/SVG/Animals/sheep.svg",
       "svg.simplified": "/SVG_for_Font/Nature/sheep.svg",
       "eps": "/EPS/Nature/sheep.eps",
       "png": {
@@ -57547,7 +57681,7 @@
     "id": 137,
     "name": "sheep2",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1293858000,
     "tags": [
       "animal",
@@ -57561,7 +57695,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/sheep2.svg",
+      "svg": "/SVG/Animals/sheep2.svg",
       "svg.simplified": "/SVG_for_Font/Nature/sheep2.svg",
       "eps": "/EPS/Nature/sheep2.eps",
       "png": {
@@ -57579,7 +57713,7 @@
     "id": 494,
     "name": "sheep_on_bike",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1324900438,
     "tags": [
       "sheep",
@@ -57593,7 +57727,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/sheep_on_bike.svg",
+      "svg": "/SVG/Animals/sheep_on_bike.svg",
       "svg.simplified": "/SVG_for_Font/Nature/sheep_on_bike.svg",
       "eps": "/EPS/Nature/sheep_on_bike.eps",
       "png": {
@@ -59686,7 +59820,7 @@
     "id": 4471,
     "name": "slug",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1399927881,
     "tags": [
       "animal",
@@ -59739,7 +59873,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/slug.svg",
+      "svg": "/SVG/Animals/slug.svg",
       "svg.simplified": "/SVG_for_Font/Nature/slug.svg",
       "eps": "/EPS/Nature/slug.eps",
       "png": {
@@ -60035,7 +60169,7 @@
     "id": 4473,
     "name": "snail",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1399927881,
     "tags": [
       "animal",
@@ -60060,7 +60194,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/snail.svg",
+      "svg": "/SVG/Animals/snail.svg",
       "svg.simplified": "/SVG_for_Font/Nature/snail.svg",
       "eps": "/EPS/Nature/snail.eps",
       "png": {
@@ -60077,7 +60211,7 @@
     "id": 3450,
     "name": "snake",
     "platform": "Windows 8/Metro",
-    "category": "Astrology",
+    "category": "32",
     "created": 1392886277,
     "tags": [
       "design",
@@ -60129,7 +60263,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Astrology/snake.svg",
       "svg.simplified": "/SVG_for_Font/Astrology/snake.svg",
       "eps": "/EPS/Astrology/snake.eps",
       "png": {
@@ -60590,7 +60723,7 @@
     "id": 1528,
     "name": "soy",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1358943781,
     "tags": [
       "food",
@@ -60611,7 +60744,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/soy.svg",
+      "svg": "/SVG/Plants/soy.svg",
       "svg.simplified": "/SVG_for_Font/Nature/soy.svg",
       "eps": "/EPS/Nature/soy.eps",
       "png": {
@@ -60803,7 +60936,7 @@
     "id": 1412,
     "name": "speed",
     "platform": "Windows 8/Metro",
-    "category": "Measurement Units",
+    "category": "Science",
     "created": 1356092209,
     "tags": [
       "clock",
@@ -60830,7 +60963,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Measurement_Units/speed.svg",
+      "svg": "/SVG/Science/speed.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/speed.svg",
       "eps": "/EPS/Measurement_Units/speed.eps",
       "png": {
@@ -60879,7 +61012,7 @@
     "id": 1652,
     "name": "spider",
     "platform": "Windows 8/Metro",
-    "category": "Halloween",
+    "category": "Holidays",
     "created": 1384173433,
     "tags": [
       "design",
@@ -60913,16 +61046,16 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Halloween/spider.svg",
+      "svg": "/SVG/Holidays/spider.svg",
       "svg.simplified": "/SVG_for_Font/Halloween/spider.svg",
-      "eps": "/EPS/Halloween/spider.eps",
+      "eps": "/EPS/Holidays/spider.eps",
       "png": {
-        "32": "/PNG/32/Halloween/spider-32.png",
-        "128": "/PNG/128/Halloween/spider-128.png",
-        "26": "/PNG/26/Halloween/spider-26.png",
-        "256": "/PNG/256/Halloween/spider-256.png",
-        "512": "/PNG/512/Halloween/spider-512.png",
-        "64": "/PNG/64/Halloween/spider-64.png",
+        "32": "/PNG/32/Holidays/spider-32.png",
+        "128": "/PNG/128/Holidays/spider-128.png",
+        "26": "/PNG/26/Holidays/spider-26.png",
+        "256": "/PNG/256/Holidays/spider-256.png",
+        "512": "/PNG/512/Holidays/spider-512.png",
+        "64": "/PNG/64/Holidays/spider-64.png",
         "48": "/PNG/48/Halloween/spider-48.png"
       }
     }
@@ -61003,7 +61136,7 @@
     "id": 1650,
     "name": "spiderweb",
     "platform": "Windows 8/Metro",
-    "category": "Halloween",
+    "category": "Holidays",
     "created": 1384173433,
     "tags": [
       "drawing",
@@ -61031,16 +61164,16 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Halloween/spiderweb.svg",
+      "svg": "/SVG/Holidays/spiderweb.svg",
       "svg.simplified": "/SVG_for_Font/Halloween/spiderweb.svg",
-      "eps": "/EPS/Halloween/spiderweb.eps",
+      "eps": "/EPS/Holidays/spiderweb.eps",
       "png": {
-        "32": "/PNG/32/Halloween/spiderweb-32.png",
-        "128": "/PNG/128/Halloween/spiderweb-128.png",
-        "26": "/PNG/26/Halloween/spiderweb-26.png",
-        "256": "/PNG/256/Halloween/spiderweb-256.png",
-        "512": "/PNG/512/Halloween/spiderweb-512.png",
-        "64": "/PNG/64/Halloween/spiderweb-64.png",
+        "32": "/PNG/32/Holidays/spiderweb-32.png",
+        "128": "/PNG/128/Holidays/spiderweb-128.png",
+        "26": "/PNG/26/Holidays/spiderweb-26.png",
+        "256": "/PNG/256/Holidays/spiderweb-256.png",
+        "512": "/PNG/512/Holidays/spiderweb-512.png",
+        "64": "/PNG/64/Holidays/spiderweb-64.png",
         "48": "/PNG/48/Halloween/spiderweb-48.png"
       }
     }
@@ -61849,7 +61982,7 @@
     "id": 3035,
     "name": "starfish",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1390823452,
     "tags": [
       "design",
@@ -61875,7 +62008,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/starfish.svg",
+      "svg": "/SVG/Animals/starfish.svg",
       "svg.simplified": "/SVG_for_Font/Nature/starfish.svg",
       "eps": "/EPS/Nature/starfish.eps",
       "png": {
@@ -63119,7 +63252,7 @@
     "id": 1419,
     "name": "surface",
     "platform": "Windows 8/Metro",
-    "category": "Measurement Units",
+    "category": "Science",
     "created": 1356437137,
     "tags": [
       "measure",
@@ -63130,7 +63263,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Measurement_Units/surface.svg",
+      "svg": "/SVG/Science/surface.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/surface.svg",
       "eps": "/EPS/Measurement_Units/surface.eps",
       "png": {
@@ -64833,7 +64966,7 @@
     "id": 1413,
     "name": "temperature",
     "platform": "Windows 8/Metro",
-    "category": "Measurement Units",
+    "category": "Science",
     "created": 1356346293,
     "tags": [
       "access",
@@ -64866,7 +64999,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Measurement_Units/temperature.svg",
+      "svg": "/SVG/Science/temperature.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/temperature.svg",
       "eps": "/EPS/Measurement_Units/temperature.eps",
       "png": {
@@ -65698,7 +65831,7 @@
     "id": 3440,
     "name": "tiger",
     "platform": "Windows 8/Metro",
-    "category": "Astrology",
+    "category": "32",
     "created": 1392803463,
     "tags": [
       "design",
@@ -65739,7 +65872,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Astrology/tiger.svg",
       "svg.simplified": "/SVG_for_Font/Astrology/tiger.svg",
       "eps": "/EPS/Astrology/tiger.eps",
       "png": {
@@ -65757,7 +65889,7 @@
     "id": 1411,
     "name": "time",
     "platform": "Windows 8/Metro",
-    "category": "Measurement Units",
+    "category": "Science",
     "created": 1356092209,
     "tags": [
       "clock",
@@ -65781,7 +65913,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Measurement_Units/time.svg",
+      "svg": "/SVG/Science/time.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/time.svg",
       "eps": "/EPS/Measurement_Units/time.eps",
       "png": {
@@ -67682,7 +67814,7 @@
     "id": 1810,
     "name": "tomato",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1367869517,
     "tags": [
       "food",
@@ -67697,7 +67829,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/tomato.svg",
+      "svg": "/SVG/Plants/tomato.svg",
       "svg.simplified": "/SVG_for_Font/Nature/tomato.svg",
       "eps": "/EPS/Nature/tomato.eps",
       "png": {
@@ -68077,6 +68209,29 @@
         "512": "/PNG/512/Household/towel-512.png",
         "64": "/PNG/64/Household/towel-64.png",
         "48": "/PNG/48/Household/towel-48.png"
+      }
+    }
+  },
+  {
+    "id": 4534,
+    "name": "to_do",
+    "platform": "Windows 8/Metro",
+    "category": "Programming",
+    "created": 1400079102,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Programming/to_do.svg",
+      "eps": "/EPS/Programming/to_do.eps",
+      "png": {
+        "32": "/PNG/32/Programming/to_do-32.png",
+        "128": "/PNG/128/Programming/to_do-128.png",
+        "26": "/PNG/26/Programming/to_do-26.png",
+        "256": "/PNG/256/Programming/to_do-256.png",
+        "512": "/PNG/512/Programming/to_do-512.png",
+        "64": "/PNG/64/Programming/to_do-64.png"
       }
     }
   },
@@ -69178,7 +69333,7 @@
     "id": 2388,
     "name": "turtle",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1390342413,
     "tags": [
       "design",
@@ -69221,7 +69376,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/turtle.svg",
+      "svg": "/SVG/Animals/turtle.svg",
       "svg.simplified": "/SVG_for_Font/Nature/turtle.svg",
       "eps": "/EPS/Nature/turtle.eps",
       "png": {
@@ -69433,14 +69588,14 @@
     "id": 2421,
     "name": "two_hearts",
     "platform": "Windows 8/Metro",
-    "category": "Wedding",
+    "category": "Holidays",
     "created": 1390342413,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Wedding/two_hearts.svg",
+      "svg": "/SVG/Holidays/two_hearts.svg",
       "svg.simplified": "/SVG_for_Font/Wedding/two_hearts.svg",
       "eps": "/EPS/Wedding/two_hearts.eps",
       "png": {
@@ -70622,7 +70777,7 @@
     "id": 1254,
     "name": "vampire",
     "platform": "Windows 8/Metro",
-    "category": "Halloween",
+    "category": "Holidays",
     "created": 1350470239,
     "tags": [
       "halloween",
@@ -70630,16 +70785,16 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Halloween/vampire.svg",
+      "svg": "/SVG/Holidays/vampire.svg",
       "svg.simplified": "/SVG_for_Font/Halloween/vampire.svg",
-      "eps": "/EPS/Halloween/vampire.eps",
+      "eps": "/EPS/Holidays/vampire.eps",
       "png": {
-        "32": "/PNG/32/Halloween/vampire-32.png",
-        "128": "/PNG/128/Halloween/vampire-128.png",
-        "26": "/PNG/26/Halloween/vampire-26.png",
-        "256": "/PNG/256/Halloween/vampire-256.png",
-        "512": "/PNG/512/Halloween/vampire-512.png",
-        "64": "/PNG/64/Halloween/vampire-64.png",
+        "32": "/PNG/32/Holidays/vampire-32.png",
+        "128": "/PNG/128/Holidays/vampire-128.png",
+        "26": "/PNG/26/Holidays/vampire-26.png",
+        "256": "/PNG/256/Holidays/vampire-256.png",
+        "512": "/PNG/512/Holidays/vampire-512.png",
+        "64": "/PNG/64/Holidays/vampire-64.png",
         "48": "/PNG/48/Halloween/vampire-48.png"
       }
     }
@@ -71969,7 +72124,7 @@
     "id": 1415,
     "name": "volume",
     "platform": "Windows 8/Metro",
-    "category": "Measurement Units",
+    "category": "Science",
     "created": 1356346293,
     "tags": [
       "graph",
@@ -71987,7 +72142,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Measurement_Units/volume.svg",
+      "svg": "/SVG/Science/volume.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/volume.svg",
       "eps": "/EPS/Measurement_Units/volume.eps",
       "png": {
@@ -73474,7 +73629,7 @@
     "id": 704,
     "name": "wedding_cake",
     "platform": "Windows 8/Metro",
-    "category": "Wedding",
+    "category": "Holidays",
     "created": 1332752646,
     "tags": [
       "date",
@@ -73485,7 +73640,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Wedding/wedding_cake.svg",
+      "svg": "/SVG/Holidays/wedding_cake.svg",
       "svg.simplified": "/SVG_for_Font/Wedding/wedding_cake.svg",
       "eps": "/EPS/Wedding/wedding_cake.eps",
       "png": {
@@ -73503,7 +73658,7 @@
     "id": 702,
     "name": "wedding_day",
     "platform": "Windows 8/Metro",
-    "category": "Wedding",
+    "category": "Holidays",
     "created": 1332752646,
     "tags": [
       "date",
@@ -73514,7 +73669,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Wedding/wedding_day.svg",
+      "svg": "/SVG/Holidays/wedding_day.svg",
       "svg.simplified": "/SVG_for_Font/Wedding/wedding_day.svg",
       "eps": "/EPS/Wedding/wedding_day.eps",
       "png": {
@@ -73532,7 +73687,7 @@
     "id": 709,
     "name": "wedding_photo",
     "platform": "Windows 8/Metro",
-    "category": "Wedding",
+    "category": "Holidays",
     "created": 1332840395,
     "tags": [
       "cut",
@@ -73548,7 +73703,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Wedding/wedding_photo.svg",
+      "svg": "/SVG/Holidays/wedding_photo.svg",
       "svg.simplified": "/SVG_for_Font/Wedding/wedding_photo.svg",
       "eps": "/EPS/Wedding/wedding_photo.eps",
       "png": {
@@ -73566,7 +73721,7 @@
     "id": 700,
     "name": "wedding_rings",
     "platform": "Windows 8/Metro",
-    "category": "Wedding",
+    "category": "Holidays",
     "created": 1332752646,
     "tags": [
       "date",
@@ -73576,7 +73731,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Wedding/wedding_rings.svg",
+      "svg": "/SVG/Holidays/wedding_rings.svg",
       "svg.simplified": "/SVG_for_Font/Wedding/wedding_rings.svg",
       "eps": "/EPS/Wedding/wedding_rings.eps",
       "png": {
@@ -73626,7 +73781,7 @@
     "id": 1409,
     "name": "weght",
     "platform": "Windows 8/Metro",
-    "category": "Measurement Units",
+    "category": "Science",
     "created": 1356092209,
     "tags": [
       "measurement",
@@ -73642,7 +73797,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Measurement_Units/weght.svg",
+      "svg": "/SVG/Science/weght.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/weght.svg",
       "eps": "/EPS/Measurement_Units/weght.eps",
       "png": {
@@ -73707,10 +73862,50 @@
     }
   },
   {
+    "id": 4529,
+    "name": "weight_station",
+    "platform": "Windows 8/Metro",
+    "category": "Transport",
+    "created": 1400079102,
+    "tags": [
+      "money",
+      "transportation",
+      "scale",
+      "travel",
+      "truck",
+      "engine",
+      "metal",
+      "weight",
+      "checkpoint",
+      "cargo",
+      "diesel",
+      "frieght",
+      "rail",
+      "big rig",
+      "weight station",
+      "commercial vehicle",
+      "weighbridge",
+      "axle weight"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Transport/weight_station.svg",
+      "eps": "/EPS/Transport/weight_station.eps",
+      "png": {
+        "32": "/PNG/32/Transport/weight_station-32.png",
+        "128": "/PNG/128/Transport/weight_station-128.png",
+        "26": "/PNG/26/Transport/weight_station-26.png",
+        "256": "/PNG/256/Transport/weight_station-256.png",
+        "512": "/PNG/512/Transport/weight_station-512.png",
+        "64": "/PNG/64/Transport/weight_station-64.png"
+      }
+    }
+  },
+  {
     "id": 1255,
     "name": "werewolf",
     "platform": "Windows 8/Metro",
-    "category": "Halloween",
+    "category": "Holidays",
     "created": 1350470239,
     "tags": [
       "halloween",
@@ -73718,16 +73913,16 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Halloween/werewolf.svg",
+      "svg": "/SVG/Holidays/werewolf.svg",
       "svg.simplified": "/SVG_for_Font/Halloween/werewolf.svg",
-      "eps": "/EPS/Halloween/werewolf.eps",
+      "eps": "/EPS/Holidays/werewolf.eps",
       "png": {
-        "32": "/PNG/32/Halloween/werewolf-32.png",
-        "128": "/PNG/128/Halloween/werewolf-128.png",
-        "26": "/PNG/26/Halloween/werewolf-26.png",
-        "256": "/PNG/256/Halloween/werewolf-256.png",
-        "512": "/PNG/512/Halloween/werewolf-512.png",
-        "64": "/PNG/64/Halloween/werewolf-64.png",
+        "32": "/PNG/32/Holidays/werewolf-32.png",
+        "128": "/PNG/128/Holidays/werewolf-128.png",
+        "26": "/PNG/26/Holidays/werewolf-26.png",
+        "256": "/PNG/256/Holidays/werewolf-256.png",
+        "512": "/PNG/512/Holidays/werewolf-512.png",
+        "64": "/PNG/64/Holidays/werewolf-64.png",
         "48": "/PNG/48/Halloween/werewolf-48.png"
       }
     }
@@ -73889,7 +74084,7 @@
     "id": 1520,
     "name": "wheat",
     "platform": "Windows 8/Metro",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1358769613,
     "tags": [
       "food",
@@ -73907,7 +74102,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/wheat.svg",
+      "svg": "/SVG/Plants/wheat.svg",
       "svg.simplified": "/SVG_for_Font/Nature/wheat.svg",
       "eps": "/EPS/Nature/wheat.eps",
       "png": {
@@ -74765,7 +74960,7 @@
     "id": 1257,
     "name": "witch",
     "platform": "Windows 8/Metro",
-    "category": "Halloween",
+    "category": "Holidays",
     "created": 1350557746,
     "tags": [
       "halloween",
@@ -74773,16 +74968,16 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Halloween/witch.svg",
+      "svg": "/SVG/Holidays/witch.svg",
       "svg.simplified": "/SVG_for_Font/Halloween/witch.svg",
-      "eps": "/EPS/Halloween/witch.eps",
+      "eps": "/EPS/Holidays/witch.eps",
       "png": {
-        "32": "/PNG/32/Halloween/witch-32.png",
-        "128": "/PNG/128/Halloween/witch-128.png",
-        "26": "/PNG/26/Halloween/witch-26.png",
-        "256": "/PNG/256/Halloween/witch-256.png",
-        "512": "/PNG/512/Halloween/witch-512.png",
-        "64": "/PNG/64/Halloween/witch-64.png",
+        "32": "/PNG/32/Holidays/witch-32.png",
+        "128": "/PNG/128/Holidays/witch-128.png",
+        "26": "/PNG/26/Holidays/witch-26.png",
+        "256": "/PNG/256/Holidays/witch-256.png",
+        "512": "/PNG/512/Holidays/witch-512.png",
+        "64": "/PNG/64/Holidays/witch-64.png",
         "48": "/PNG/48/Halloween/witch-48.png"
       }
     }
@@ -74791,7 +74986,7 @@
     "id": 1258,
     "name": "wizard",
     "platform": "Windows 8/Metro",
-    "category": "Halloween",
+    "category": "Holidays",
     "created": 1350557746,
     "tags": [
       "halloween",
@@ -74799,16 +74994,16 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Halloween/wizard.svg",
+      "svg": "/SVG/Holidays/wizard.svg",
       "svg.simplified": "/SVG_for_Font/Halloween/wizard.svg",
-      "eps": "/EPS/Halloween/wizard.eps",
+      "eps": "/EPS/Holidays/wizard.eps",
       "png": {
-        "32": "/PNG/32/Halloween/wizard-32.png",
-        "128": "/PNG/128/Halloween/wizard-128.png",
-        "26": "/PNG/26/Halloween/wizard-26.png",
-        "256": "/PNG/256/Halloween/wizard-256.png",
-        "512": "/PNG/512/Halloween/wizard-512.png",
-        "64": "/PNG/64/Halloween/wizard-64.png",
+        "32": "/PNG/32/Holidays/wizard-32.png",
+        "128": "/PNG/128/Holidays/wizard-128.png",
+        "26": "/PNG/26/Holidays/wizard-26.png",
+        "256": "/PNG/256/Holidays/wizard-256.png",
+        "512": "/PNG/512/Holidays/wizard-512.png",
+        "64": "/PNG/64/Holidays/wizard-64.png",
         "48": "/PNG/48/Halloween/wizard-48.png"
       }
     }
@@ -76143,7 +76338,7 @@
     "id": 1256,
     "name": "zombie",
     "platform": "Windows 8/Metro",
-    "category": "Halloween",
+    "category": "Holidays",
     "created": 1350557746,
     "tags": [
       "halloween",
@@ -76151,16 +76346,16 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Halloween/zombie.svg",
+      "svg": "/SVG/Holidays/zombie.svg",
       "svg.simplified": "/SVG_for_Font/Halloween/zombie.svg",
-      "eps": "/EPS/Halloween/zombie.eps",
+      "eps": "/EPS/Holidays/zombie.eps",
       "png": {
-        "32": "/PNG/32/Halloween/zombie-32.png",
-        "128": "/PNG/128/Halloween/zombie-128.png",
-        "26": "/PNG/26/Halloween/zombie-26.png",
-        "256": "/PNG/256/Halloween/zombie-256.png",
-        "512": "/PNG/512/Halloween/zombie-512.png",
-        "64": "/PNG/64/Halloween/zombie-64.png",
+        "32": "/PNG/32/Holidays/zombie-32.png",
+        "128": "/PNG/128/Holidays/zombie-128.png",
+        "26": "/PNG/26/Holidays/zombie-26.png",
+        "256": "/PNG/256/Holidays/zombie-256.png",
+        "512": "/PNG/512/Holidays/zombie-512.png",
+        "64": "/PNG/64/Holidays/zombie-64.png",
         "48": "/PNG/48/Halloween/zombie-48.png"
       }
     }
