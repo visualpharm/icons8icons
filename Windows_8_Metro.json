@@ -7248,15 +7248,15 @@
     "files": {
       "svg": "/SVG/Animals/bird.svg",
       "svg.simplified": "/SVG_for_Font/Nature/bird.svg",
-      "eps": "/EPS/Nature/bird.eps",
+      "eps": "/EPS/Animals/bird.eps",
       "png": {
-        "32": "/PNG/32/Nature/bird-32.png",
-        "128": "/PNG/128/Nature/bird-128.png",
-        "26": "/PNG/26/Nature/bird-26.png",
-        "256": "/PNG/256/Nature/bird-256.png",
-        "512": "/PNG/512/Nature/bird-512.png",
-        "64": "/PNG/64/Nature/bird-64.png",
-        "48": "/PNG/48/Nature/bird-48.png"
+        "32": "/PNG/32/Animals/bird-32.png",
+        "128": "/PNG/128/Animals/bird-128.png",
+        "26": "/PNG/26/Animals/bird-26.png",
+        "256": "/PNG/256/Animals/bird-256.png",
+        "512": "/PNG/512/Animals/bird-512.png",
+        "64": "/PNG/64/Animals/bird-64.png",
+        "48": "/PNG/48/Animals/bird-48.png"
       }
     }
   },
@@ -7551,7 +7551,7 @@
         "256": "/PNG/256/Holidays/black_cat-256.png",
         "512": "/PNG/512/Holidays/black_cat-512.png",
         "64": "/PNG/64/Holidays/black_cat-64.png",
-        "48": "/PNG/48/Halloween/black_cat-48.png"
+        "48": "/PNG/48/Holidays/black_cat-48.png"
       }
     }
   },
@@ -7931,6 +7931,7 @@
       "outdoors",
       "mountains",
       "winter",
+      "boots",
       "shoe",
       "masculine",
       "Hiking boots",
@@ -8896,14 +8897,14 @@
     "files": {
       "svg": "/SVG/Animals/bumblebee.svg",
       "svg.simplified": "/SVG_for_Font/Nature/bumblebee.svg",
-      "eps": "/EPS/Nature/bumblebee.eps",
+      "eps": "/EPS/Animals/bumblebee.eps",
       "png": {
-        "32": "/PNG/32/Nature/bumblebee-32.png",
-        "128": "/PNG/128/Nature/bumblebee-128.png",
-        "26": "/PNG/26/Nature/bumblebee-26.png",
-        "256": "/PNG/256/Nature/bumblebee-256.png",
-        "512": "/PNG/512/Nature/bumblebee-512.png",
-        "64": "/PNG/64/Nature/bumblebee-64.png"
+        "32": "/PNG/32/Animals/bumblebee-32.png",
+        "128": "/PNG/128/Animals/bumblebee-128.png",
+        "26": "/PNG/26/Animals/bumblebee-26.png",
+        "256": "/PNG/256/Animals/bumblebee-256.png",
+        "512": "/PNG/512/Animals/bumblebee-512.png",
+        "64": "/PNG/64/Animals/bumblebee-64.png"
       }
     }
   },
@@ -9608,15 +9609,15 @@
     "files": {
       "svg": "/SVG/Science/caliper.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/caliper.svg",
-      "eps": "/EPS/Measurement_Units/caliper.eps",
+      "eps": "/EPS/Science/caliper.eps",
       "png": {
-        "32": "/PNG/32/Measurement_Units/caliper-32.png",
-        "128": "/PNG/128/Measurement_Units/caliper-128.png",
-        "26": "/PNG/26/Measurement_Units/caliper-26.png",
-        "256": "/PNG/256/Measurement_Units/caliper-256.png",
-        "512": "/PNG/512/Measurement_Units/caliper-512.png",
-        "64": "/PNG/64/Measurement_Units/caliper-64.png",
-        "48": "/PNG/48/Measurement_Units/caliper-48.png"
+        "32": "/PNG/32/Science/caliper-32.png",
+        "128": "/PNG/128/Science/caliper-128.png",
+        "26": "/PNG/26/Science/caliper-26.png",
+        "256": "/PNG/256/Science/caliper-256.png",
+        "512": "/PNG/512/Science/caliper-512.png",
+        "64": "/PNG/64/Science/caliper-64.png",
+        "48": "/PNG/48/Science/caliper-48.png"
       }
     }
   },
@@ -10329,7 +10330,7 @@
         "256": "/PNG/256/Holidays/candy-256.png",
         "512": "/PNG/512/Holidays/candy-512.png",
         "64": "/PNG/64/Holidays/candy-64.png",
-        "48": "/PNG/48/Halloween/candy-48.png"
+        "48": "/PNG/48/Holidays/candy-48.png"
       }
     }
   },
@@ -10610,6 +10611,7 @@
     "category": "Transport",
     "created": 1321360243,
     "tags": [
+      "group",
       "drive",
       "road",
       "sport",
@@ -11070,15 +11072,15 @@
     "files": {
       "svg": "/SVG/Animals/cat.svg",
       "svg.simplified": "/SVG_for_Font/Nature/cat.svg",
-      "eps": "/EPS/Nature/cat.eps",
+      "eps": "/EPS/Animals/cat.eps",
       "png": {
-        "32": "/PNG/32/Nature/cat-32.png",
-        "128": "/PNG/128/Nature/cat-128.png",
-        "26": "/PNG/26/Nature/cat-26.png",
-        "256": "/PNG/256/Nature/cat-256.png",
-        "512": "/PNG/512/Nature/cat-512.png",
-        "64": "/PNG/64/Nature/cat-64.png",
-        "48": "/PNG/48/Nature/cat-48.png"
+        "32": "/PNG/32/Animals/cat-32.png",
+        "128": "/PNG/128/Animals/cat-128.png",
+        "26": "/PNG/26/Animals/cat-26.png",
+        "256": "/PNG/256/Animals/cat-256.png",
+        "512": "/PNG/512/Animals/cat-512.png",
+        "64": "/PNG/64/Animals/cat-64.png",
+        "48": "/PNG/48/Animals/cat-48.png"
       }
     }
   },
@@ -11145,14 +11147,14 @@
     "files": {
       "svg": "/SVG/Animals/caterpillar.svg",
       "svg.simplified": "/SVG_for_Font/Nature/caterpillar.svg",
-      "eps": "/EPS/Nature/caterpillar.eps",
+      "eps": "/EPS/Animals/caterpillar.eps",
       "png": {
-        "32": "/PNG/32/Nature/caterpillar-32.png",
-        "128": "/PNG/128/Nature/caterpillar-128.png",
-        "26": "/PNG/26/Nature/caterpillar-26.png",
-        "256": "/PNG/256/Nature/caterpillar-256.png",
-        "512": "/PNG/512/Nature/caterpillar-512.png",
-        "64": "/PNG/64/Nature/caterpillar-64.png"
+        "32": "/PNG/32/Animals/caterpillar-32.png",
+        "128": "/PNG/128/Animals/caterpillar-128.png",
+        "26": "/PNG/26/Animals/caterpillar-26.png",
+        "256": "/PNG/256/Animals/caterpillar-256.png",
+        "512": "/PNG/512/Animals/caterpillar-512.png",
+        "64": "/PNG/64/Animals/caterpillar-64.png"
       }
     }
   },
@@ -11599,15 +11601,15 @@
     "files": {
       "svg": "/SVG/Holidays/champagne.svg",
       "svg.simplified": "/SVG_for_Font/Wedding/champagne.svg",
-      "eps": "/EPS/Wedding/champagne.eps",
+      "eps": "/EPS/Holidays/champagne.eps",
       "png": {
-        "32": "/PNG/32/Wedding/champagne-32.png",
-        "128": "/PNG/128/Wedding/champagne-128.png",
-        "26": "/PNG/26/Wedding/champagne-26.png",
-        "256": "/PNG/256/Wedding/champagne-256.png",
-        "512": "/PNG/512/Wedding/champagne-512.png",
-        "64": "/PNG/64/Wedding/champagne-64.png",
-        "48": "/PNG/48/Wedding/champagne-48.png"
+        "32": "/PNG/32/Holidays/champagne-32.png",
+        "128": "/PNG/128/Holidays/champagne-128.png",
+        "26": "/PNG/26/Holidays/champagne-26.png",
+        "256": "/PNG/256/Holidays/champagne-256.png",
+        "512": "/PNG/512/Holidays/champagne-512.png",
+        "64": "/PNG/64/Holidays/champagne-64.png",
+        "48": "/PNG/48/Holidays/champagne-48.png"
       }
     }
   },
@@ -12297,15 +12299,15 @@
     "files": {
       "svg": "/SVG/Animals/chicken.svg",
       "svg.simplified": "/SVG_for_Font/Nature/chicken.svg",
-      "eps": "/EPS/Nature/chicken.eps",
+      "eps": "/EPS/Animals/chicken.eps",
       "png": {
-        "32": "/PNG/32/Nature/chicken-32.png",
-        "128": "/PNG/128/Nature/chicken-128.png",
-        "26": "/PNG/26/Nature/chicken-26.png",
-        "256": "/PNG/256/Nature/chicken-256.png",
-        "512": "/PNG/512/Nature/chicken-512.png",
-        "64": "/PNG/64/Nature/chicken-64.png",
-        "48": "/PNG/48/Nature/chicken-48.png"
+        "32": "/PNG/32/Animals/chicken-32.png",
+        "128": "/PNG/128/Animals/chicken-128.png",
+        "26": "/PNG/26/Animals/chicken-26.png",
+        "256": "/PNG/256/Animals/chicken-256.png",
+        "512": "/PNG/512/Animals/chicken-512.png",
+        "64": "/PNG/64/Animals/chicken-64.png",
+        "48": "/PNG/48/Animals/chicken-48.png"
       }
     }
   },
@@ -12467,7 +12469,7 @@
         "256": "/PNG/256/Holidays/christmas_ball-256.png",
         "512": "/PNG/512/Holidays/christmas_ball-512.png",
         "64": "/PNG/64/Holidays/christmas_ball-64.png",
-        "48": "/PNG/48/Christmas/christmas_ball-48.png"
+        "48": "/PNG/48/Holidays/christmas_ball-48.png"
       }
     }
   },
@@ -12492,7 +12494,7 @@
         "256": "/PNG/256/Holidays/christmas_candle-256.png",
         "512": "/PNG/512/Holidays/christmas_candle-512.png",
         "64": "/PNG/64/Holidays/christmas_candle-64.png",
-        "48": "/PNG/48/Christmas/christmas_candle-48.png"
+        "48": "/PNG/48/Holidays/christmas_candle-48.png"
       }
     }
   },
@@ -12517,7 +12519,7 @@
         "256": "/PNG/256/Holidays/christmas_candy-256.png",
         "512": "/PNG/512/Holidays/christmas_candy-512.png",
         "64": "/PNG/64/Holidays/christmas_candy-64.png",
-        "48": "/PNG/48/Christmas/christmas_candy-48.png"
+        "48": "/PNG/48/Holidays/christmas_candy-48.png"
       }
     }
   },
@@ -12536,13 +12538,13 @@
       "svg.simplified": "/SVG_for_Font/Christmas/christmas_candy_cane.svg",
       "eps": "/EPS/Holidays/christmas_candy_cane.eps",
       "png": {
-        "32": "/PNG/32/Christmas/christmas_candy_cane-32.png",
-        "128": "/PNG/128/Christmas/christmas_candy_cane-128.png",
-        "26": "/PNG/26/Christmas/christmas_candy_cane-26.png",
-        "256": "/PNG/256/Christmas/christmas_candy_cane-256.png",
-        "512": "/PNG/512/Christmas/christmas_candy_cane-512.png",
-        "64": "/PNG/64/Christmas/christmas_candy_cane-64.png",
-        "48": "/PNG/48/Christmas/christmas_candy_cane-48.png"
+        "32": "/PNG/32/Holidays/christmas_candy_cane-32.png",
+        "128": "/PNG/128/Holidays/christmas_candy_cane-128.png",
+        "26": "/PNG/26/Holidays/christmas_candy_cane-26.png",
+        "256": "/PNG/256/Holidays/christmas_candy_cane-256.png",
+        "512": "/PNG/512/Holidays/christmas_candy_cane-512.png",
+        "64": "/PNG/64/Holidays/christmas_candy_cane-64.png",
+        "48": "/PNG/48/Holidays/christmas_candy_cane-48.png"
       }
     }
   },
@@ -12567,7 +12569,7 @@
         "256": "/PNG/256/Holidays/christmas_deer-256.png",
         "512": "/PNG/512/Holidays/christmas_deer-512.png",
         "64": "/PNG/64/Holidays/christmas_deer-64.png",
-        "48": "/PNG/48/Christmas/christmas_deer-48.png"
+        "48": "/PNG/48/Holidays/christmas_deer-48.png"
       }
     }
   },
@@ -12592,7 +12594,7 @@
         "256": "/PNG/256/Holidays/christmas_firework-256.png",
         "512": "/PNG/512/Holidays/christmas_firework-512.png",
         "64": "/PNG/64/Holidays/christmas_firework-64.png",
-        "48": "/PNG/48/Christmas/christmas_firework-48.png"
+        "48": "/PNG/48/Holidays/christmas_firework-48.png"
       }
     }
   },
@@ -12617,7 +12619,7 @@
         "256": "/PNG/256/Holidays/christmas_gift-256.png",
         "512": "/PNG/512/Holidays/christmas_gift-512.png",
         "64": "/PNG/64/Holidays/christmas_gift-64.png",
-        "48": "/PNG/48/Christmas/christmas_gift-48.png"
+        "48": "/PNG/48/Holidays/christmas_gift-48.png"
       }
     }
   },
@@ -12642,7 +12644,7 @@
         "256": "/PNG/256/Holidays/christmas_hat-256.png",
         "512": "/PNG/512/Holidays/christmas_hat-512.png",
         "64": "/PNG/64/Holidays/christmas_hat-64.png",
-        "48": "/PNG/48/Christmas/christmas_hat-48.png"
+        "48": "/PNG/48/Holidays/christmas_hat-48.png"
       }
     }
   },
@@ -12667,7 +12669,7 @@
         "256": "/PNG/256/Holidays/christmas_ice_skate-256.png",
         "512": "/PNG/512/Holidays/christmas_ice_skate-512.png",
         "64": "/PNG/64/Holidays/christmas_ice_skate-64.png",
-        "48": "/PNG/48/Christmas/christmas_ice_skate-48.png"
+        "48": "/PNG/48/Holidays/christmas_ice_skate-48.png"
       }
     }
   },
@@ -12692,7 +12694,7 @@
         "256": "/PNG/256/Holidays/christmas_mitten-256.png",
         "512": "/PNG/512/Holidays/christmas_mitten-512.png",
         "64": "/PNG/64/Holidays/christmas_mitten-64.png",
-        "48": "/PNG/48/Christmas/christmas_mitten-48.png"
+        "48": "/PNG/48/Holidays/christmas_mitten-48.png"
       }
     }
   },
@@ -12717,7 +12719,7 @@
         "256": "/PNG/256/Holidays/christmas_penguin-256.png",
         "512": "/PNG/512/Holidays/christmas_penguin-512.png",
         "64": "/PNG/64/Holidays/christmas_penguin-64.png",
-        "48": "/PNG/48/Christmas/christmas_penguin-48.png"
+        "48": "/PNG/48/Holidays/christmas_penguin-48.png"
       }
     }
   },
@@ -12742,7 +12744,7 @@
         "256": "/PNG/256/Holidays/christmas_sleigh-256.png",
         "512": "/PNG/512/Holidays/christmas_sleigh-512.png",
         "64": "/PNG/64/Holidays/christmas_sleigh-64.png",
-        "48": "/PNG/48/Christmas/christmas_sleigh-48.png"
+        "48": "/PNG/48/Holidays/christmas_sleigh-48.png"
       }
     }
   },
@@ -12761,13 +12763,13 @@
       "svg.simplified": "/SVG_for_Font/Christmas/christmas_snowflake.svg",
       "eps": "/EPS/Holidays/christmas_snowflake.eps",
       "png": {
-        "32": "/PNG/32/Christmas/christmas_snowflake-32.png",
-        "128": "/PNG/128/Christmas/christmas_snowflake-128.png",
-        "26": "/PNG/26/Christmas/christmas_snowflake-26.png",
-        "256": "/PNG/256/Christmas/christmas_snowflake-256.png",
-        "512": "/PNG/512/Christmas/christmas_snowflake-512.png",
-        "64": "/PNG/64/Christmas/christmas_snowflake-64.png",
-        "48": "/PNG/48/Christmas/christmas_snowflake-48.png"
+        "32": "/PNG/32/Holidays/christmas_snowflake-32.png",
+        "128": "/PNG/128/Holidays/christmas_snowflake-128.png",
+        "26": "/PNG/26/Holidays/christmas_snowflake-26.png",
+        "256": "/PNG/256/Holidays/christmas_snowflake-256.png",
+        "512": "/PNG/512/Holidays/christmas_snowflake-512.png",
+        "64": "/PNG/64/Holidays/christmas_snowflake-64.png",
+        "48": "/PNG/48/Holidays/christmas_snowflake-48.png"
       }
     }
   },
@@ -12792,7 +12794,7 @@
         "256": "/PNG/256/Holidays/christmas_snowman-256.png",
         "512": "/PNG/512/Holidays/christmas_snowman-512.png",
         "64": "/PNG/64/Holidays/christmas_snowman-64.png",
-        "48": "/PNG/48/Christmas/christmas_snowman-48.png"
+        "48": "/PNG/48/Holidays/christmas_snowman-48.png"
       }
     }
   },
@@ -12817,7 +12819,7 @@
         "256": "/PNG/256/Holidays/christmas_sock-256.png",
         "512": "/PNG/512/Holidays/christmas_sock-512.png",
         "64": "/PNG/64/Holidays/christmas_sock-64.png",
-        "48": "/PNG/48/Christmas/christmas_sock-48.png"
+        "48": "/PNG/48/Holidays/christmas_sock-48.png"
       }
     }
   },
@@ -12842,7 +12844,7 @@
         "256": "/PNG/256/Holidays/christmas_star-256.png",
         "512": "/PNG/512/Holidays/christmas_star-512.png",
         "64": "/PNG/64/Holidays/christmas_star-64.png",
-        "48": "/PNG/48/Christmas/christmas_star-48.png"
+        "48": "/PNG/48/Holidays/christmas_star-48.png"
       }
     }
   },
@@ -12867,7 +12869,7 @@
         "256": "/PNG/256/Holidays/christmas_tree-256.png",
         "512": "/PNG/512/Holidays/christmas_tree-512.png",
         "64": "/PNG/64/Holidays/christmas_tree-64.png",
-        "48": "/PNG/48/Christmas/christmas_tree-48.png"
+        "48": "/PNG/48/Holidays/christmas_tree-48.png"
       }
     }
   },
@@ -12956,15 +12958,15 @@
     "files": {
       "svg": "/SVG/Holidays/church.svg",
       "svg.simplified": "/SVG_for_Font/Easter/church.svg",
-      "eps": "/EPS/Easter/church.eps",
+      "eps": "/EPS/Holidays/church.eps",
       "png": {
-        "32": "/PNG/32/Easter/church-32.png",
-        "128": "/PNG/128/Easter/church-128.png",
-        "26": "/PNG/26/Easter/church-26.png",
-        "256": "/PNG/256/Easter/church-256.png",
-        "512": "/PNG/512/Easter/church-512.png",
-        "64": "/PNG/64/Easter/church-64.png",
-        "48": "/PNG/48/Easter/church-48.png"
+        "32": "/PNG/32/Holidays/church-32.png",
+        "128": "/PNG/128/Holidays/church-128.png",
+        "26": "/PNG/26/Holidays/church-26.png",
+        "256": "/PNG/256/Holidays/church-256.png",
+        "512": "/PNG/512/Holidays/church-512.png",
+        "64": "/PNG/64/Holidays/church-64.png",
+        "48": "/PNG/48/Holidays/church-48.png"
       }
     }
   },
@@ -13117,15 +13119,15 @@
     "files": {
       "svg": "/SVG/Plants/citrus.svg",
       "svg.simplified": "/SVG_for_Font/Nature/citrus.svg",
-      "eps": "/EPS/Nature/citrus.eps",
+      "eps": "/EPS/Plants/citrus.eps",
       "png": {
-        "32": "/PNG/32/Nature/citrus-32.png",
-        "128": "/PNG/128/Nature/citrus-128.png",
-        "26": "/PNG/26/Nature/citrus-26.png",
-        "256": "/PNG/256/Nature/citrus-256.png",
-        "512": "/PNG/512/Nature/citrus-512.png",
-        "64": "/PNG/64/Nature/citrus-64.png",
-        "48": "/PNG/48/Nature/citrus-48.png"
+        "32": "/PNG/32/Plants/citrus-32.png",
+        "128": "/PNG/128/Plants/citrus-128.png",
+        "26": "/PNG/26/Plants/citrus-26.png",
+        "256": "/PNG/256/Plants/citrus-256.png",
+        "512": "/PNG/512/Plants/citrus-512.png",
+        "64": "/PNG/64/Plants/citrus-64.png",
+        "48": "/PNG/48/Plants/citrus-48.png"
       }
     }
   },
@@ -14117,15 +14119,15 @@
     "files": {
       "svg": "/SVG/Animals/clown_fish.svg",
       "svg.simplified": "/SVG_for_Font/Nature/clown_fish.svg",
-      "eps": "/EPS/Nature/clown_fish.eps",
+      "eps": "/EPS/Animals/clown_fish.eps",
       "png": {
-        "32": "/PNG/32/Nature/clown_fish-32.png",
-        "128": "/PNG/128/Nature/clown_fish-128.png",
-        "26": "/PNG/26/Nature/clown_fish-26.png",
-        "256": "/PNG/256/Nature/clown_fish-256.png",
-        "512": "/PNG/512/Nature/clown_fish-512.png",
-        "64": "/PNG/64/Nature/clown_fish-64.png",
-        "48": "/PNG/48/Nature/clown_fish-48.png"
+        "32": "/PNG/32/Animals/clown_fish-32.png",
+        "128": "/PNG/128/Animals/clown_fish-128.png",
+        "26": "/PNG/26/Animals/clown_fish-26.png",
+        "256": "/PNG/256/Animals/clown_fish-256.png",
+        "512": "/PNG/512/Animals/clown_fish-512.png",
+        "64": "/PNG/64/Animals/clown_fish-64.png",
+        "48": "/PNG/48/Animals/clown_fish-48.png"
       }
     }
   },
@@ -14510,7 +14512,7 @@
         "256": "/PNG/256/Holidays/coffin-256.png",
         "512": "/PNG/512/Holidays/coffin-512.png",
         "64": "/PNG/64/Holidays/coffin-64.png",
-        "48": "/PNG/48/Halloween/coffin-48.png"
+        "48": "/PNG/48/Holidays/coffin-48.png"
       }
     }
   },
@@ -14583,7 +14585,6 @@
       "wondering",
       "planning",
       "speak",
-      "dialog",
       "cloud",
       "male",
       "adult",
@@ -14597,7 +14598,8 @@
       "thoughtful",
       "imagination",
       "imagine",
-      "communication"
+      "communication",
+      "dialog"
     ],
     "copyright": false,
     "files": {
@@ -15322,15 +15324,15 @@
     "files": {
       "svg": "/SVG/Plants/coniferous_tree.svg",
       "svg.simplified": "/SVG_for_Font/Nature/coniferous_tree.svg",
-      "eps": "/EPS/Nature/coniferous_tree.eps",
+      "eps": "/EPS/Plants/coniferous_tree.eps",
       "png": {
-        "32": "/PNG/32/Nature/coniferous_tree-32.png",
-        "128": "/PNG/128/Nature/coniferous_tree-128.png",
-        "26": "/PNG/26/Nature/coniferous_tree-26.png",
-        "256": "/PNG/256/Nature/coniferous_tree-256.png",
-        "512": "/PNG/512/Nature/coniferous_tree-512.png",
-        "64": "/PNG/64/Nature/coniferous_tree-64.png",
-        "48": "/PNG/48/Nature/coniferous_tree-48.png"
+        "32": "/PNG/32/Plants/coniferous_tree-32.png",
+        "128": "/PNG/128/Plants/coniferous_tree-128.png",
+        "26": "/PNG/26/Plants/coniferous_tree-26.png",
+        "256": "/PNG/256/Plants/coniferous_tree-256.png",
+        "512": "/PNG/512/Plants/coniferous_tree-512.png",
+        "64": "/PNG/64/Plants/coniferous_tree-64.png",
+        "48": "/PNG/48/Plants/coniferous_tree-48.png"
       }
     }
   },
@@ -15919,15 +15921,15 @@
     "files": {
       "svg": "/SVG/Animals/coral.svg",
       "svg.simplified": "/SVG_for_Font/Nature/coral.svg",
-      "eps": "/EPS/Nature/coral.eps",
+      "eps": "/EPS/Animals/coral.eps",
       "png": {
-        "32": "/PNG/32/Nature/coral-32.png",
-        "128": "/PNG/128/Nature/coral-128.png",
-        "26": "/PNG/26/Nature/coral-26.png",
-        "256": "/PNG/256/Nature/coral-256.png",
-        "512": "/PNG/512/Nature/coral-512.png",
-        "64": "/PNG/64/Nature/coral-64.png",
-        "48": "/PNG/48/Nature/coral-48.png"
+        "32": "/PNG/32/Animals/coral-32.png",
+        "128": "/PNG/128/Animals/coral-128.png",
+        "26": "/PNG/26/Animals/coral-26.png",
+        "256": "/PNG/256/Animals/coral-256.png",
+        "512": "/PNG/512/Animals/coral-512.png",
+        "64": "/PNG/64/Animals/coral-64.png",
+        "48": "/PNG/48/Animals/coral-48.png"
       }
     }
   },
@@ -16233,15 +16235,15 @@
     "files": {
       "svg": "/SVG/Animals/cow.svg",
       "svg.simplified": "/SVG_for_Font/Nature/cow.svg",
-      "eps": "/EPS/Nature/cow.eps",
+      "eps": "/EPS/Animals/cow.eps",
       "png": {
-        "32": "/PNG/32/Nature/cow-32.png",
-        "128": "/PNG/128/Nature/cow-128.png",
-        "26": "/PNG/26/Nature/cow-26.png",
-        "256": "/PNG/256/Nature/cow-256.png",
-        "512": "/PNG/512/Nature/cow-512.png",
-        "64": "/PNG/64/Nature/cow-64.png",
-        "48": "/PNG/48/Nature/cow-48.png"
+        "32": "/PNG/32/Animals/cow-32.png",
+        "128": "/PNG/128/Animals/cow-128.png",
+        "26": "/PNG/26/Animals/cow-26.png",
+        "256": "/PNG/256/Animals/cow-256.png",
+        "512": "/PNG/512/Animals/cow-512.png",
+        "64": "/PNG/64/Animals/cow-64.png",
+        "48": "/PNG/48/Animals/cow-48.png"
       }
     }
   },
@@ -16286,15 +16288,15 @@
     "files": {
       "svg": "/SVG/Animals/crab.svg",
       "svg.simplified": "/SVG_for_Font/Nature/crab.svg",
-      "eps": "/EPS/Nature/crab.eps",
+      "eps": "/EPS/Animals/crab.eps",
       "png": {
-        "32": "/PNG/32/Nature/crab-32.png",
-        "128": "/PNG/128/Nature/crab-128.png",
-        "26": "/PNG/26/Nature/crab-26.png",
-        "256": "/PNG/256/Nature/crab-256.png",
-        "512": "/PNG/512/Nature/crab-512.png",
-        "64": "/PNG/64/Nature/crab-64.png",
-        "48": "/PNG/48/Nature/crab-48.png"
+        "32": "/PNG/32/Animals/crab-32.png",
+        "128": "/PNG/128/Animals/crab-128.png",
+        "26": "/PNG/26/Animals/crab-26.png",
+        "256": "/PNG/256/Animals/crab-256.png",
+        "512": "/PNG/512/Animals/crab-512.png",
+        "64": "/PNG/64/Animals/crab-64.png",
+        "48": "/PNG/48/Animals/crab-48.png"
       }
     }
   },
@@ -17888,15 +17890,15 @@
     "files": {
       "svg": "/SVG/Plants/deciduous_tree.svg",
       "svg.simplified": "/SVG_for_Font/Nature/deciduous_tree.svg",
-      "eps": "/EPS/Nature/deciduous_tree.eps",
+      "eps": "/EPS/Plants/deciduous_tree.eps",
       "png": {
-        "32": "/PNG/32/Nature/deciduous_tree-32.png",
-        "128": "/PNG/128/Nature/deciduous_tree-128.png",
-        "26": "/PNG/26/Nature/deciduous_tree-26.png",
-        "256": "/PNG/256/Nature/deciduous_tree-256.png",
-        "512": "/PNG/512/Nature/deciduous_tree-512.png",
-        "64": "/PNG/64/Nature/deciduous_tree-64.png",
-        "48": "/PNG/48/Nature/deciduous_tree-48.png"
+        "32": "/PNG/32/Plants/deciduous_tree-32.png",
+        "128": "/PNG/128/Plants/deciduous_tree-128.png",
+        "26": "/PNG/26/Plants/deciduous_tree-26.png",
+        "256": "/PNG/256/Plants/deciduous_tree-256.png",
+        "512": "/PNG/512/Plants/deciduous_tree-512.png",
+        "64": "/PNG/64/Plants/deciduous_tree-64.png",
+        "48": "/PNG/48/Plants/deciduous_tree-48.png"
       }
     }
   },
@@ -18024,15 +18026,15 @@
     "files": {
       "svg": "/SVG/Science/degrees.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/degrees.svg",
-      "eps": "/EPS/Measurement_Units/degrees.eps",
+      "eps": "/EPS/Science/degrees.eps",
       "png": {
-        "32": "/PNG/32/Measurement_Units/degrees-32.png",
-        "128": "/PNG/128/Measurement_Units/degrees-128.png",
-        "26": "/PNG/26/Measurement_Units/degrees-26.png",
-        "256": "/PNG/256/Measurement_Units/degrees-256.png",
-        "512": "/PNG/512/Measurement_Units/degrees-512.png",
-        "64": "/PNG/64/Measurement_Units/degrees-64.png",
-        "48": "/PNG/48/Measurement_Units/degrees-48.png"
+        "32": "/PNG/32/Science/degrees-32.png",
+        "128": "/PNG/128/Science/degrees-128.png",
+        "26": "/PNG/26/Science/degrees-26.png",
+        "256": "/PNG/256/Science/degrees-256.png",
+        "512": "/PNG/512/Science/degrees-512.png",
+        "64": "/PNG/64/Science/degrees-64.png",
+        "48": "/PNG/48/Science/degrees-48.png"
       }
     }
   },
@@ -18481,12 +18483,15 @@
       "delivery",
       "fast",
       "meal",
+      "contact",
       "menu",
+      "fly",
       "catering",
       "truck",
-      "reservations",
       "on time",
-      "tour"
+      "tour",
+      "contact us",
+      "reservations"
     ],
     "copyright": false,
     "files": {
@@ -19588,38 +19593,15 @@
     "files": {
       "svg": "/SVG/Animals/dog.svg",
       "svg.simplified": "/SVG_for_Font/Astrology/dog.svg",
-      "eps": "/EPS/Astrology/dog.eps",
+      "eps": "/EPS/Animals/dog.eps",
       "png": {
-        "32": "/PNG/32/Astrology/dog-32.png",
-        "128": "/PNG/128/Astrology/dog-128.png",
-        "26": "/PNG/26/Astrology/dog-26.png",
-        "256": "/PNG/256/Astrology/dog-256.png",
-        "512": "/PNG/512/Astrology/dog-512.png",
-        "64": "/PNG/64/Astrology/dog-64.png",
-        "48": "/PNG/48/Astrology/dog-48.png"
-      }
-    }
-  },
-  {
-    "id": 4248,
-    "name": "dog2",
-    "platform": "Windows 8/Metro",
-    "category": "Nature",
-    "created": 1398883905,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Nature/dog2.svg",
-      "eps": "/EPS/Nature/dog2.eps",
-      "png": {
-        "32": "/PNG/32/Nature/dog2-32.png",
-        "128": "/PNG/128/Nature/dog2-128.png",
-        "26": "/PNG/26/Nature/dog2-26.png",
-        "256": "/PNG/256/Nature/dog2-256.png",
-        "512": "/PNG/512/Nature/dog2-512.png",
-        "64": "/PNG/64/Nature/dog2-64.png"
+        "32": "/PNG/32/Animals/dog-32.png",
+        "128": "/PNG/128/Animals/dog-128.png",
+        "26": "/PNG/26/Animals/dog-26.png",
+        "256": "/PNG/256/Animals/dog-256.png",
+        "512": "/PNG/512/Animals/dog-512.png",
+        "64": "/PNG/64/Animals/dog-64.png",
+        "48": "/PNG/48/Animals/dog-48.png"
       }
     }
   },
@@ -19645,15 +19627,15 @@
     "files": {
       "svg": "/SVG/Animals/dog_bone.svg",
       "svg.simplified": "/SVG_for_Font/Nature/dog_bone.svg",
-      "eps": "/EPS/Nature/dog_bone.eps",
+      "eps": "/EPS/Animals/dog_bone.eps",
       "png": {
-        "32": "/PNG/32/Nature/dog_bone-32.png",
-        "128": "/PNG/128/Nature/dog_bone-128.png",
-        "26": "/PNG/26/Nature/dog_bone-26.png",
-        "256": "/PNG/256/Nature/dog_bone-256.png",
-        "512": "/PNG/512/Nature/dog_bone-512.png",
-        "64": "/PNG/64/Nature/dog_bone-64.png",
-        "48": "/PNG/48/Nature/dog_bone-48.png"
+        "32": "/PNG/32/Animals/dog_bone-32.png",
+        "128": "/PNG/128/Animals/dog_bone-128.png",
+        "26": "/PNG/26/Animals/dog_bone-26.png",
+        "256": "/PNG/256/Animals/dog_bone-256.png",
+        "512": "/PNG/512/Animals/dog_bone-512.png",
+        "64": "/PNG/64/Animals/dog_bone-64.png",
+        "48": "/PNG/48/Animals/dog_bone-48.png"
       }
     }
   },
@@ -19688,15 +19670,15 @@
     "files": {
       "svg": "/SVG/Animals/dog_bowl.svg",
       "svg.simplified": "/SVG_for_Font/Nature/dog_bowl.svg",
-      "eps": "/EPS/Nature/dog_bowl.eps",
+      "eps": "/EPS/Animals/dog_bowl.eps",
       "png": {
-        "32": "/PNG/32/Nature/dog_bowl-32.png",
-        "128": "/PNG/128/Nature/dog_bowl-128.png",
-        "26": "/PNG/26/Nature/dog_bowl-26.png",
-        "256": "/PNG/256/Nature/dog_bowl-256.png",
-        "512": "/PNG/512/Nature/dog_bowl-512.png",
-        "64": "/PNG/64/Nature/dog_bowl-64.png",
-        "48": "/PNG/48/Nature/dog_bowl-48.png"
+        "32": "/PNG/32/Animals/dog_bowl-32.png",
+        "128": "/PNG/128/Animals/dog_bowl-128.png",
+        "26": "/PNG/26/Animals/dog_bowl-26.png",
+        "256": "/PNG/256/Animals/dog_bowl-256.png",
+        "512": "/PNG/512/Animals/dog_bowl-512.png",
+        "64": "/PNG/64/Animals/dog_bowl-64.png",
+        "48": "/PNG/48/Animals/dog_bowl-48.png"
       }
     }
   },
@@ -19731,15 +19713,15 @@
     "files": {
       "svg": "/SVG/Animals/dog_house.svg",
       "svg.simplified": "/SVG_for_Font/Nature/dog_house.svg",
-      "eps": "/EPS/Nature/dog_house.eps",
+      "eps": "/EPS/Animals/dog_house.eps",
       "png": {
-        "32": "/PNG/32/Nature/dog_house-32.png",
-        "128": "/PNG/128/Nature/dog_house-128.png",
-        "26": "/PNG/26/Nature/dog_house-26.png",
-        "256": "/PNG/256/Nature/dog_house-256.png",
-        "512": "/PNG/512/Nature/dog_house-512.png",
-        "64": "/PNG/64/Nature/dog_house-64.png",
-        "48": "/PNG/48/Nature/dog_house-48.png"
+        "32": "/PNG/32/Animals/dog_house-32.png",
+        "128": "/PNG/128/Animals/dog_house-128.png",
+        "26": "/PNG/26/Animals/dog_house-26.png",
+        "256": "/PNG/256/Animals/dog_house-256.png",
+        "512": "/PNG/512/Animals/dog_house-512.png",
+        "64": "/PNG/64/Animals/dog_house-64.png",
+        "48": "/PNG/48/Animals/dog_house-48.png"
       }
     }
   },
@@ -19773,15 +19755,15 @@
     "files": {
       "svg": "/SVG/Animals/dog_leash.svg",
       "svg.simplified": "/SVG_for_Font/Nature/dog_leash.svg",
-      "eps": "/EPS/Nature/dog_leash.eps",
+      "eps": "/EPS/Animals/dog_leash.eps",
       "png": {
-        "32": "/PNG/32/Nature/dog_leash-32.png",
-        "128": "/PNG/128/Nature/dog_leash-128.png",
-        "26": "/PNG/26/Nature/dog_leash-26.png",
-        "256": "/PNG/256/Nature/dog_leash-256.png",
-        "512": "/PNG/512/Nature/dog_leash-512.png",
-        "64": "/PNG/64/Nature/dog_leash-64.png",
-        "48": "/PNG/48/Nature/dog_leash-48.png"
+        "32": "/PNG/32/Animals/dog_leash-32.png",
+        "128": "/PNG/128/Animals/dog_leash-128.png",
+        "26": "/PNG/26/Animals/dog_leash-26.png",
+        "256": "/PNG/256/Animals/dog_leash-256.png",
+        "512": "/PNG/512/Animals/dog_leash-512.png",
+        "64": "/PNG/64/Animals/dog_leash-64.png",
+        "48": "/PNG/48/Animals/dog_leash-48.png"
       }
     }
   },
@@ -19868,15 +19850,15 @@
     "files": {
       "svg": "/SVG/Animals/dolphin.svg",
       "svg.simplified": "/SVG_for_Font/Nature/dolphin.svg",
-      "eps": "/EPS/Nature/dolphin.eps",
+      "eps": "/EPS/Animals/dolphin.eps",
       "png": {
-        "32": "/PNG/32/Nature/dolphin-32.png",
-        "128": "/PNG/128/Nature/dolphin-128.png",
-        "26": "/PNG/26/Nature/dolphin-26.png",
-        "256": "/PNG/256/Nature/dolphin-256.png",
-        "512": "/PNG/512/Nature/dolphin-512.png",
-        "64": "/PNG/64/Nature/dolphin-64.png",
-        "48": "/PNG/48/Nature/dolphin-48.png"
+        "32": "/PNG/32/Animals/dolphin-32.png",
+        "128": "/PNG/128/Animals/dolphin-128.png",
+        "26": "/PNG/26/Animals/dolphin-26.png",
+        "256": "/PNG/256/Animals/dolphin-256.png",
+        "512": "/PNG/512/Animals/dolphin-512.png",
+        "64": "/PNG/64/Animals/dolphin-64.png",
+        "48": "/PNG/48/Animals/dolphin-48.png"
       }
     }
   },
@@ -20168,7 +20150,9 @@
     "category": "Folders",
     "created": 1394020283,
     "tags": [
-      "view"
+      "folder",
+      "view",
+      "download"
     ],
     "copyright": false,
     "files": {
@@ -20546,76 +20530,6 @@
     }
   },
   {
-    "id": 3448,
-    "name": "dragon",
-    "platform": "Windows 8/Metro",
-    "category": "Astrology",
-    "created": 1392886277,
-    "tags": [
-      "design",
-      "vector",
-      "year",
-      "paw",
-      "animal",
-      "new",
-      "east",
-      "drawing",
-      "symbol",
-      "gold",
-      "happy",
-      "illustration",
-      "horn",
-      "head",
-      "black",
-      "white",
-      "color",
-      "power",
-      "christmas",
-      "style",
-      "art",
-      "architecture",
-      "wealth",
-      "isolated",
-      "decorative",
-      "colorful",
-      "religion",
-      "back",
-      "red",
-      "fairy tale",
-      "tattoo",
-      "fantasy",
-      "ancient",
-      "china",
-      "chinese",
-      "decoration",
-      "traditional",
-      "snake",
-      "isolate",
-      "finger",
-      "tail",
-      "asian",
-      "oriental",
-      "twisting",
-      "claw",
-      "dragon",
-      "sculpture"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Astrology/dragon.svg",
-      "eps": "/EPS/Astrology/dragon.eps",
-      "png": {
-        "32": "/PNG/32/Astrology/dragon-32.png",
-        "128": "/PNG/128/Astrology/dragon-128.png",
-        "26": "/PNG/26/Astrology/dragon-26.png",
-        "256": "/PNG/256/Astrology/dragon-256.png",
-        "512": "/PNG/512/Astrology/dragon-512.png",
-        "64": "/PNG/64/Astrology/dragon-64.png",
-        "48": "/PNG/48/Astrology/dragon-48.png"
-      }
-    }
-  },
-  {
     "id": 4458,
     "name": "dragonfly",
     "platform": "Windows 8/Metro",
@@ -20674,14 +20588,14 @@
     "files": {
       "svg": "/SVG/Animals/dragonfly.svg",
       "svg.simplified": "/SVG_for_Font/Nature/dragonfly.svg",
-      "eps": "/EPS/Nature/dragonfly.eps",
+      "eps": "/EPS/Animals/dragonfly.eps",
       "png": {
-        "32": "/PNG/32/Nature/dragonfly-32.png",
-        "128": "/PNG/128/Nature/dragonfly-128.png",
-        "26": "/PNG/26/Nature/dragonfly-26.png",
-        "256": "/PNG/256/Nature/dragonfly-256.png",
-        "512": "/PNG/512/Nature/dragonfly-512.png",
-        "64": "/PNG/64/Nature/dragonfly-64.png"
+        "32": "/PNG/32/Animals/dragonfly-32.png",
+        "128": "/PNG/128/Animals/dragonfly-128.png",
+        "26": "/PNG/26/Animals/dragonfly-26.png",
+        "256": "/PNG/256/Animals/dragonfly-256.png",
+        "512": "/PNG/512/Animals/dragonfly-512.png",
+        "64": "/PNG/64/Animals/dragonfly-64.png"
       }
     }
   },
@@ -21029,15 +20943,15 @@
     "files": {
       "svg": "/SVG/Animals/duck.svg",
       "svg.simplified": "/SVG_for_Font/Nature/duck.svg",
-      "eps": "/EPS/Nature/duck.eps",
+      "eps": "/EPS/Animals/duck.eps",
       "png": {
-        "32": "/PNG/32/Nature/duck-32.png",
-        "128": "/PNG/128/Nature/duck-128.png",
-        "26": "/PNG/26/Nature/duck-26.png",
-        "256": "/PNG/256/Nature/duck-256.png",
-        "512": "/PNG/512/Nature/duck-512.png",
-        "64": "/PNG/64/Nature/duck-64.png",
-        "48": "/PNG/48/Nature/duck-48.png"
+        "32": "/PNG/32/Animals/duck-32.png",
+        "128": "/PNG/128/Animals/duck-128.png",
+        "26": "/PNG/26/Animals/duck-26.png",
+        "256": "/PNG/256/Animals/duck-256.png",
+        "512": "/PNG/512/Animals/duck-512.png",
+        "64": "/PNG/64/Animals/duck-64.png",
+        "48": "/PNG/48/Animals/duck-48.png"
       }
     }
   },
@@ -21371,15 +21285,15 @@
     "files": {
       "svg": "/SVG/Holidays/easter_cake.svg",
       "svg.simplified": "/SVG_for_Font/Easter/easter_cake.svg",
-      "eps": "/EPS/Easter/easter_cake.eps",
+      "eps": "/EPS/Holidays/easter_cake.eps",
       "png": {
-        "32": "/PNG/32/Easter/easter_cake-32.png",
-        "128": "/PNG/128/Easter/easter_cake-128.png",
-        "26": "/PNG/26/Easter/easter_cake-26.png",
-        "256": "/PNG/256/Easter/easter_cake-256.png",
-        "512": "/PNG/512/Easter/easter_cake-512.png",
-        "64": "/PNG/64/Easter/easter_cake-64.png",
-        "48": "/PNG/48/Easter/easter_cake-48.png"
+        "32": "/PNG/32/Holidays/easter_cake-32.png",
+        "128": "/PNG/128/Holidays/easter_cake-128.png",
+        "26": "/PNG/26/Holidays/easter_cake-26.png",
+        "256": "/PNG/256/Holidays/easter_cake-256.png",
+        "512": "/PNG/512/Holidays/easter_cake-512.png",
+        "64": "/PNG/64/Holidays/easter_cake-64.png",
+        "48": "/PNG/48/Holidays/easter_cake-48.png"
       }
     }
   },
@@ -21404,15 +21318,15 @@
     "files": {
       "svg": "/SVG/Holidays/easter_egg.svg",
       "svg.simplified": "/SVG_for_Font/Easter/easter_egg.svg",
-      "eps": "/EPS/Easter/easter_egg.eps",
+      "eps": "/EPS/Holidays/easter_egg.eps",
       "png": {
-        "32": "/PNG/32/Easter/easter_egg-32.png",
-        "128": "/PNG/128/Easter/easter_egg-128.png",
-        "26": "/PNG/26/Easter/easter_egg-26.png",
-        "256": "/PNG/256/Easter/easter_egg-256.png",
-        "512": "/PNG/512/Easter/easter_egg-512.png",
-        "64": "/PNG/64/Easter/easter_egg-64.png",
-        "48": "/PNG/48/Easter/easter_egg-48.png"
+        "32": "/PNG/32/Holidays/easter_egg-32.png",
+        "128": "/PNG/128/Holidays/easter_egg-128.png",
+        "26": "/PNG/26/Holidays/easter_egg-26.png",
+        "256": "/PNG/256/Holidays/easter_egg-256.png",
+        "512": "/PNG/512/Holidays/easter_egg-512.png",
+        "64": "/PNG/64/Holidays/easter_egg-64.png",
+        "48": "/PNG/48/Holidays/easter_egg-48.png"
       }
     }
   },
@@ -21435,15 +21349,15 @@
     "files": {
       "svg": "/SVG/Holidays/easter_rabbit.svg",
       "svg.simplified": "/SVG_for_Font/Easter/easter_rabbit.svg",
-      "eps": "/EPS/Easter/easter_rabbit.eps",
+      "eps": "/EPS/Holidays/easter_rabbit.eps",
       "png": {
-        "32": "/PNG/32/Easter/easter_rabbit-32.png",
-        "128": "/PNG/128/Easter/easter_rabbit-128.png",
-        "26": "/PNG/26/Easter/easter_rabbit-26.png",
-        "256": "/PNG/256/Easter/easter_rabbit-256.png",
-        "512": "/PNG/512/Easter/easter_rabbit-512.png",
-        "64": "/PNG/64/Easter/easter_rabbit-64.png",
-        "48": "/PNG/48/Easter/easter_rabbit-48.png"
+        "32": "/PNG/32/Holidays/easter_rabbit-32.png",
+        "128": "/PNG/128/Holidays/easter_rabbit-128.png",
+        "26": "/PNG/26/Holidays/easter_rabbit-26.png",
+        "256": "/PNG/256/Holidays/easter_rabbit-256.png",
+        "512": "/PNG/512/Holidays/easter_rabbit-512.png",
+        "64": "/PNG/64/Holidays/easter_rabbit-64.png",
+        "48": "/PNG/48/Holidays/easter_rabbit-48.png"
       }
     }
   },
@@ -21549,14 +21463,14 @@
     "files": {
       "svg": "/SVG/Animals/eating_slug.svg",
       "svg.simplified": "/SVG_for_Font/Nature/eating_slug.svg",
-      "eps": "/EPS/Nature/eating_slug.eps",
+      "eps": "/EPS/Animals/eating_slug.eps",
       "png": {
-        "32": "/PNG/32/Nature/eating_slug-32.png",
-        "128": "/PNG/128/Nature/eating_slug-128.png",
-        "26": "/PNG/26/Nature/eating_slug-26.png",
-        "256": "/PNG/256/Nature/eating_slug-256.png",
-        "512": "/PNG/512/Nature/eating_slug-512.png",
-        "64": "/PNG/64/Nature/eating_slug-64.png"
+        "32": "/PNG/32/Animals/eating_slug-32.png",
+        "128": "/PNG/128/Animals/eating_slug-128.png",
+        "26": "/PNG/26/Animals/eating_slug-26.png",
+        "256": "/PNG/256/Animals/eating_slug-256.png",
+        "512": "/PNG/512/Animals/eating_slug-512.png",
+        "64": "/PNG/64/Animals/eating_slug-64.png"
       }
     }
   },
@@ -21815,15 +21729,15 @@
     "files": {
       "svg": "/SVG/Holidays/eggs_basket.svg",
       "svg.simplified": "/SVG_for_Font/Easter/eggs_basket.svg",
-      "eps": "/EPS/Easter/eggs_basket.eps",
+      "eps": "/EPS/Holidays/eggs_basket.eps",
       "png": {
-        "32": "/PNG/32/Easter/eggs_basket-32.png",
-        "128": "/PNG/128/Easter/eggs_basket-128.png",
-        "26": "/PNG/26/Easter/eggs_basket-26.png",
-        "256": "/PNG/256/Easter/eggs_basket-256.png",
-        "512": "/PNG/512/Easter/eggs_basket-512.png",
-        "64": "/PNG/64/Easter/eggs_basket-64.png",
-        "48": "/PNG/48/Easter/eggs_basket-48.png"
+        "32": "/PNG/32/Holidays/eggs_basket-32.png",
+        "128": "/PNG/128/Holidays/eggs_basket-128.png",
+        "26": "/PNG/26/Holidays/eggs_basket-26.png",
+        "256": "/PNG/256/Holidays/eggs_basket-256.png",
+        "512": "/PNG/512/Holidays/eggs_basket-512.png",
+        "64": "/PNG/64/Holidays/eggs_basket-64.png",
+        "48": "/PNG/48/Holidays/eggs_basket-48.png"
       }
     }
   },
@@ -22835,7 +22749,8 @@
       "database",
       "notice",
       "warning",
-      "error"
+      "error",
+      "bug"
     ],
     "copyright": false,
     "files": {
@@ -25028,30 +24943,6 @@
     }
   },
   {
-    "id": 2604,
-    "name": "fish2",
-    "platform": "Windows 8/Metro",
-    "category": "Nature",
-    "created": 1390342413,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Nature/fish2.svg",
-      "eps": "/EPS/Nature/fish2.eps",
-      "png": {
-        "32": "/PNG/32/Nature/fish2-32.png",
-        "128": "/PNG/128/Nature/fish2-128.png",
-        "26": "/PNG/26/Nature/fish2-26.png",
-        "256": "/PNG/256/Nature/fish2-256.png",
-        "512": "/PNG/512/Nature/fish2-512.png",
-        "64": "/PNG/64/Nature/fish2-64.png",
-        "48": "/PNG/48/Nature/fish2-48.png"
-      }
-    }
-  },
-  {
     "id": 1307,
     "name": "fishing",
     "platform": "Windows 8/Metro",
@@ -25435,15 +25326,15 @@
     "files": {
       "svg": "/SVG/Plants/flower.svg",
       "svg.simplified": "/SVG_for_Font/Nature/flower.svg",
-      "eps": "/EPS/Nature/flower.eps",
+      "eps": "/EPS/Plants/flower.eps",
       "png": {
-        "32": "/PNG/32/Nature/flower-32.png",
-        "128": "/PNG/128/Nature/flower-128.png",
-        "26": "/PNG/26/Nature/flower-26.png",
-        "256": "/PNG/256/Nature/flower-256.png",
-        "512": "/PNG/512/Nature/flower-512.png",
-        "64": "/PNG/64/Nature/flower-64.png",
-        "48": "/PNG/48/Nature/flower-48.png"
+        "32": "/PNG/32/Plants/flower-32.png",
+        "128": "/PNG/128/Plants/flower-128.png",
+        "26": "/PNG/26/Plants/flower-26.png",
+        "256": "/PNG/256/Plants/flower-256.png",
+        "512": "/PNG/512/Plants/flower-512.png",
+        "64": "/PNG/64/Plants/flower-64.png",
+        "48": "/PNG/48/Plants/flower-48.png"
       }
     }
   },
@@ -25910,7 +25801,8 @@
       "industry",
       "heavy",
       "metal",
-      "fork truck"
+      "fork truck",
+      "mechanical digger excavator"
     ],
     "copyright": false,
     "files": {
@@ -26238,7 +26130,7 @@
         "256": "/PNG/256/Holidays/frankenstein-256.png",
         "512": "/PNG/512/Holidays/frankenstein-512.png",
         "64": "/PNG/64/Holidays/frankenstein-64.png",
-        "48": "/PNG/48/Halloween/frankenstein-48.png"
+        "48": "/PNG/48/Holidays/frankenstein-48.png"
       }
     }
   },
@@ -27761,7 +27653,7 @@
         "256": "/PNG/256/Cinema/genie-256.png",
         "512": "/PNG/512/Cinema/genie-512.png",
         "64": "/PNG/64/Cinema/genie-64.png",
-        "48": "/PNG/48/Fiction/genie-48.png"
+        "48": "/PNG/48/Cinema/genie-48.png"
       }
     }
   },
@@ -28046,7 +27938,7 @@
         "256": "/PNG/256/Holidays/ghost-256.png",
         "512": "/PNG/512/Holidays/ghost-512.png",
         "64": "/PNG/64/Holidays/ghost-64.png",
-        "48": "/PNG/48/Halloween/ghost-48.png"
+        "48": "/PNG/48/Holidays/ghost-48.png"
       }
     }
   },
@@ -28142,7 +28034,7 @@
         "256": "/PNG/256/Holidays/gingerbread_men-256.png",
         "512": "/PNG/512/Holidays/gingerbread_men-512.png",
         "64": "/PNG/64/Holidays/gingerbread_men-64.png",
-        "48": "/PNG/48/Christmas/gingerbread_men-48.png"
+        "48": "/PNG/48/Holidays/gingerbread_men-48.png"
       }
     }
   },
@@ -28386,50 +28278,6 @@
     }
   },
   {
-    "id": 3458,
-    "name": "goat",
-    "platform": "Windows 8/Metro",
-    "category": "Astrology",
-    "created": 1393235476,
-    "tags": [
-      "vector",
-      "hair",
-      "food",
-      "symbol",
-      "illustration",
-      "animals",
-      "ears",
-      "grass",
-      "eyes",
-      "abstract",
-      "nice",
-      "horoscope",
-      "goat",
-      "mammal",
-      "muzzle",
-      "hooves",
-      "caprine animal",
-      "mountain goat",
-      "horns",
-      "wild skins",
-      "doamca animals"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Astrology/goat.svg",
-      "eps": "/EPS/Astrology/goat.eps",
-      "png": {
-        "32": "/PNG/32/Astrology/goat-32.png",
-        "128": "/PNG/128/Astrology/goat-128.png",
-        "26": "/PNG/26/Astrology/goat-26.png",
-        "256": "/PNG/256/Astrology/goat-256.png",
-        "512": "/PNG/512/Astrology/goat-512.png",
-        "64": "/PNG/64/Astrology/goat-64.png",
-        "48": "/PNG/48/Astrology/goat-48.png"
-      }
-    }
-  },
-  {
     "id": 1743,
     "name": "goatee",
     "platform": "Windows 8/Metro",
@@ -28504,15 +28352,15 @@
     "files": {
       "svg": "/SVG/Logos/google_alerts_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_alerts_copyrighted.svg",
-      "eps": "/EPS/Google_Services/google_alerts_copyrighted.eps",
+      "eps": "/EPS/Logos/google_alerts_copyrighted.eps",
       "png": {
-        "32": "/PNG/32/Google_Services/google_alerts_copyrighted-32.png",
-        "128": "/PNG/128/Google_Services/google_alerts_copyrighted-128.png",
-        "26": "/PNG/26/Google_Services/google_alerts_copyrighted-26.png",
-        "256": "/PNG/256/Google_Services/google_alerts_copyrighted-256.png",
-        "512": "/PNG/512/Google_Services/google_alerts_copyrighted-512.png",
-        "64": "/PNG/64/Google_Services/google_alerts_copyrighted-64.png",
-        "48": "/PNG/48/Google_Services/google_alerts_copyrighted-48.png"
+        "32": "/PNG/32/Logos/google_alerts_copyrighted-32.png",
+        "128": "/PNG/128/Logos/google_alerts_copyrighted-128.png",
+        "26": "/PNG/26/Logos/google_alerts_copyrighted-26.png",
+        "256": "/PNG/256/Logos/google_alerts_copyrighted-256.png",
+        "512": "/PNG/512/Logos/google_alerts_copyrighted-512.png",
+        "64": "/PNG/64/Logos/google_alerts_copyrighted-64.png",
+        "48": "/PNG/48/Logos/google_alerts_copyrighted-48.png"
       }
     }
   },
@@ -28536,15 +28384,15 @@
     "files": {
       "svg": "/SVG/Logos/google_blog_search_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_blog_search_copyrighted.svg",
-      "eps": "/EPS/Google_Services/google_blog_search_copyrighted.eps",
+      "eps": "/EPS/Logos/google_blog_search_copyrighted.eps",
       "png": {
-        "32": "/PNG/32/Google_Services/google_blog_search_copyrighted-32.png",
-        "128": "/PNG/128/Google_Services/google_blog_search_copyrighted-128.png",
-        "26": "/PNG/26/Google_Services/google_blog_search_copyrighted-26.png",
-        "256": "/PNG/256/Google_Services/google_blog_search_copyrighted-256.png",
-        "512": "/PNG/512/Google_Services/google_blog_search_copyrighted-512.png",
-        "64": "/PNG/64/Google_Services/google_blog_search_copyrighted-64.png",
-        "48": "/PNG/48/Google_Services/google_blog_search_copyrighted-48.png"
+        "32": "/PNG/32/Logos/google_blog_search_copyrighted-32.png",
+        "128": "/PNG/128/Logos/google_blog_search_copyrighted-128.png",
+        "26": "/PNG/26/Logos/google_blog_search_copyrighted-26.png",
+        "256": "/PNG/256/Logos/google_blog_search_copyrighted-256.png",
+        "512": "/PNG/512/Logos/google_blog_search_copyrighted-512.png",
+        "64": "/PNG/64/Logos/google_blog_search_copyrighted-64.png",
+        "48": "/PNG/48/Logos/google_blog_search_copyrighted-48.png"
       }
     }
   },
@@ -28568,15 +28416,15 @@
     "files": {
       "svg": "/SVG/Logos/google_code_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_code_copyrighted.svg",
-      "eps": "/EPS/Google_Services/google_code_copyrighted.eps",
+      "eps": "/EPS/Logos/google_code_copyrighted.eps",
       "png": {
-        "32": "/PNG/32/Google_Services/google_code_copyrighted-32.png",
-        "128": "/PNG/128/Google_Services/google_code_copyrighted-128.png",
-        "26": "/PNG/26/Google_Services/google_code_copyrighted-26.png",
-        "256": "/PNG/256/Google_Services/google_code_copyrighted-256.png",
-        "512": "/PNG/512/Google_Services/google_code_copyrighted-512.png",
-        "64": "/PNG/64/Google_Services/google_code_copyrighted-64.png",
-        "48": "/PNG/48/Google_Services/google_code_copyrighted-48.png"
+        "32": "/PNG/32/Logos/google_code_copyrighted-32.png",
+        "128": "/PNG/128/Logos/google_code_copyrighted-128.png",
+        "26": "/PNG/26/Logos/google_code_copyrighted-26.png",
+        "256": "/PNG/256/Logos/google_code_copyrighted-256.png",
+        "512": "/PNG/512/Logos/google_code_copyrighted-512.png",
+        "64": "/PNG/64/Logos/google_code_copyrighted-64.png",
+        "48": "/PNG/48/Logos/google_code_copyrighted-48.png"
       }
     }
   },
@@ -28641,15 +28489,15 @@
     "files": {
       "svg": "/SVG/Logos/google_drive_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_drive_copyrighted.svg",
-      "eps": "/EPS/Google_Services/google_drive_copyrighted.eps",
+      "eps": "/EPS/Logos/google_drive_copyrighted.eps",
       "png": {
-        "32": "/PNG/32/Google_Services/google_drive_copyrighted-32.png",
-        "128": "/PNG/128/Google_Services/google_drive_copyrighted-128.png",
-        "26": "/PNG/26/Google_Services/google_drive_copyrighted-26.png",
-        "256": "/PNG/256/Google_Services/google_drive_copyrighted-256.png",
-        "512": "/PNG/512/Google_Services/google_drive_copyrighted-512.png",
-        "64": "/PNG/64/Google_Services/google_drive_copyrighted-64.png",
-        "48": "/PNG/48/Google_Services/google_drive_copyrighted-48.png"
+        "32": "/PNG/32/Logos/google_drive_copyrighted-32.png",
+        "128": "/PNG/128/Logos/google_drive_copyrighted-128.png",
+        "26": "/PNG/26/Logos/google_drive_copyrighted-26.png",
+        "256": "/PNG/256/Logos/google_drive_copyrighted-256.png",
+        "512": "/PNG/512/Logos/google_drive_copyrighted-512.png",
+        "64": "/PNG/64/Logos/google_drive_copyrighted-64.png",
+        "48": "/PNG/48/Logos/google_drive_copyrighted-48.png"
       }
     }
   },
@@ -28671,15 +28519,15 @@
     "files": {
       "svg": "/SVG/Logos/google_earth_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_earth_copyrighted.svg",
-      "eps": "/EPS/Google_Services/google_earth_copyrighted.eps",
+      "eps": "/EPS/Logos/google_earth_copyrighted.eps",
       "png": {
-        "32": "/PNG/32/Google_Services/google_earth_copyrighted-32.png",
-        "128": "/PNG/128/Google_Services/google_earth_copyrighted-128.png",
-        "26": "/PNG/26/Google_Services/google_earth_copyrighted-26.png",
-        "256": "/PNG/256/Google_Services/google_earth_copyrighted-256.png",
-        "512": "/PNG/512/Google_Services/google_earth_copyrighted-512.png",
-        "64": "/PNG/64/Google_Services/google_earth_copyrighted-64.png",
-        "48": "/PNG/48/Google_Services/google_earth_copyrighted-48.png"
+        "32": "/PNG/32/Logos/google_earth_copyrighted-32.png",
+        "128": "/PNG/128/Logos/google_earth_copyrighted-128.png",
+        "26": "/PNG/26/Logos/google_earth_copyrighted-26.png",
+        "256": "/PNG/256/Logos/google_earth_copyrighted-256.png",
+        "512": "/PNG/512/Logos/google_earth_copyrighted-512.png",
+        "64": "/PNG/64/Logos/google_earth_copyrighted-64.png",
+        "48": "/PNG/48/Logos/google_earth_copyrighted-48.png"
       }
     }
   },
@@ -28715,15 +28563,15 @@
     "files": {
       "svg": "/SVG/Logos/google_groups_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_groups_copyrighted.svg",
-      "eps": "/EPS/Google_Services/google_groups_copyrighted.eps",
+      "eps": "/EPS/Logos/google_groups_copyrighted.eps",
       "png": {
-        "32": "/PNG/32/Google_Services/google_groups_copyrighted-32.png",
-        "128": "/PNG/128/Google_Services/google_groups_copyrighted-128.png",
-        "26": "/PNG/26/Google_Services/google_groups_copyrighted-26.png",
-        "256": "/PNG/256/Google_Services/google_groups_copyrighted-256.png",
-        "512": "/PNG/512/Google_Services/google_groups_copyrighted-512.png",
-        "64": "/PNG/64/Google_Services/google_groups_copyrighted-64.png",
-        "48": "/PNG/48/Google_Services/google_groups_copyrighted-48.png"
+        "32": "/PNG/32/Logos/google_groups_copyrighted-32.png",
+        "128": "/PNG/128/Logos/google_groups_copyrighted-128.png",
+        "26": "/PNG/26/Logos/google_groups_copyrighted-26.png",
+        "256": "/PNG/256/Logos/google_groups_copyrighted-256.png",
+        "512": "/PNG/512/Logos/google_groups_copyrighted-512.png",
+        "64": "/PNG/64/Logos/google_groups_copyrighted-64.png",
+        "48": "/PNG/48/Logos/google_groups_copyrighted-48.png"
       }
     }
   },
@@ -28788,15 +28636,15 @@
     "files": {
       "svg": "/SVG/Logos/google_images_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_images_copyrighted.svg",
-      "eps": "/EPS/Google_Services/google_images_copyrighted.eps",
+      "eps": "/EPS/Logos/google_images_copyrighted.eps",
       "png": {
-        "32": "/PNG/32/Google_Services/google_images_copyrighted-32.png",
-        "128": "/PNG/128/Google_Services/google_images_copyrighted-128.png",
-        "26": "/PNG/26/Google_Services/google_images_copyrighted-26.png",
-        "256": "/PNG/256/Google_Services/google_images_copyrighted-256.png",
-        "512": "/PNG/512/Google_Services/google_images_copyrighted-512.png",
-        "64": "/PNG/64/Google_Services/google_images_copyrighted-64.png",
-        "48": "/PNG/48/Google_Services/google_images_copyrighted-48.png"
+        "32": "/PNG/32/Logos/google_images_copyrighted-32.png",
+        "128": "/PNG/128/Logos/google_images_copyrighted-128.png",
+        "26": "/PNG/26/Logos/google_images_copyrighted-26.png",
+        "256": "/PNG/256/Logos/google_images_copyrighted-256.png",
+        "512": "/PNG/512/Logos/google_images_copyrighted-512.png",
+        "64": "/PNG/64/Logos/google_images_copyrighted-64.png",
+        "48": "/PNG/48/Logos/google_images_copyrighted-48.png"
       }
     }
   },
@@ -28832,15 +28680,15 @@
     "files": {
       "svg": "/SVG/Logos/google_mobile_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_mobile_copyrighted.svg",
-      "eps": "/EPS/Google_Services/google_mobile_copyrighted.eps",
+      "eps": "/EPS/Logos/google_mobile_copyrighted.eps",
       "png": {
-        "32": "/PNG/32/Google_Services/google_mobile_copyrighted-32.png",
-        "128": "/PNG/128/Google_Services/google_mobile_copyrighted-128.png",
-        "26": "/PNG/26/Google_Services/google_mobile_copyrighted-26.png",
-        "256": "/PNG/256/Google_Services/google_mobile_copyrighted-256.png",
-        "512": "/PNG/512/Google_Services/google_mobile_copyrighted-512.png",
-        "64": "/PNG/64/Google_Services/google_mobile_copyrighted-64.png",
-        "48": "/PNG/48/Google_Services/google_mobile_copyrighted-48.png"
+        "32": "/PNG/32/Logos/google_mobile_copyrighted-32.png",
+        "128": "/PNG/128/Logos/google_mobile_copyrighted-128.png",
+        "26": "/PNG/26/Logos/google_mobile_copyrighted-26.png",
+        "256": "/PNG/256/Logos/google_mobile_copyrighted-256.png",
+        "512": "/PNG/512/Logos/google_mobile_copyrighted-512.png",
+        "64": "/PNG/64/Logos/google_mobile_copyrighted-64.png",
+        "48": "/PNG/48/Logos/google_mobile_copyrighted-48.png"
       }
     }
   },
@@ -28863,13 +28711,13 @@
       "svg.simplified": "/SVG_for_Font/Google_Services/google_news_copyrighted.svg",
       "eps": "/EPS/Logos/google_news_copyrighted.eps",
       "png": {
-        "32": "/PNG/32/Google_Services/google_news_copyrighted-32.png",
-        "128": "/PNG/128/Google_Services/google_news_copyrighted-128.png",
-        "26": "/PNG/26/Google_Services/google_news_copyrighted-26.png",
-        "256": "/PNG/256/Google_Services/google_news_copyrighted-256.png",
-        "512": "/PNG/512/Google_Services/google_news_copyrighted-512.png",
-        "64": "/PNG/64/Google_Services/google_news_copyrighted-64.png",
-        "48": "/PNG/48/Google_Services/google_news_copyrighted-48.png"
+        "32": "/PNG/32/Logos/google_news_copyrighted-32.png",
+        "128": "/PNG/128/Logos/google_news_copyrighted-128.png",
+        "26": "/PNG/26/Logos/google_news_copyrighted-26.png",
+        "256": "/PNG/256/Logos/google_news_copyrighted-256.png",
+        "512": "/PNG/512/Logos/google_news_copyrighted-512.png",
+        "64": "/PNG/64/Logos/google_news_copyrighted-64.png",
+        "48": "/PNG/48/Logos/google_news_copyrighted-48.png"
       }
     }
   },
@@ -28920,15 +28768,15 @@
     "files": {
       "svg": "/SVG/Logos/google_scholar_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_scholar_copyrighted.svg",
-      "eps": "/EPS/Google_Services/google_scholar_copyrighted.eps",
+      "eps": "/EPS/Logos/google_scholar_copyrighted.eps",
       "png": {
-        "32": "/PNG/32/Google_Services/google_scholar_copyrighted-32.png",
-        "128": "/PNG/128/Google_Services/google_scholar_copyrighted-128.png",
-        "26": "/PNG/26/Google_Services/google_scholar_copyrighted-26.png",
-        "256": "/PNG/256/Google_Services/google_scholar_copyrighted-256.png",
-        "512": "/PNG/512/Google_Services/google_scholar_copyrighted-512.png",
-        "64": "/PNG/64/Google_Services/google_scholar_copyrighted-64.png",
-        "48": "/PNG/48/Google_Services/google_scholar_copyrighted-48.png"
+        "32": "/PNG/32/Logos/google_scholar_copyrighted-32.png",
+        "128": "/PNG/128/Logos/google_scholar_copyrighted-128.png",
+        "26": "/PNG/26/Logos/google_scholar_copyrighted-26.png",
+        "256": "/PNG/256/Logos/google_scholar_copyrighted-256.png",
+        "512": "/PNG/512/Logos/google_scholar_copyrighted-512.png",
+        "64": "/PNG/64/Logos/google_scholar_copyrighted-64.png",
+        "48": "/PNG/48/Logos/google_scholar_copyrighted-48.png"
       }
     }
   },
@@ -28946,15 +28794,15 @@
     "files": {
       "svg": "/SVG/Logos/google_sketchup_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_sketchup_copyrighted.svg",
-      "eps": "/EPS/Google_Services/google_sketchup_copyrighted.eps",
+      "eps": "/EPS/Logos/google_sketchup_copyrighted.eps",
       "png": {
-        "32": "/PNG/32/Google_Services/google_sketchup_copyrighted-32.png",
-        "128": "/PNG/128/Google_Services/google_sketchup_copyrighted-128.png",
-        "26": "/PNG/26/Google_Services/google_sketchup_copyrighted-26.png",
-        "256": "/PNG/256/Google_Services/google_sketchup_copyrighted-256.png",
-        "512": "/PNG/512/Google_Services/google_sketchup_copyrighted-512.png",
-        "64": "/PNG/64/Google_Services/google_sketchup_copyrighted-64.png",
-        "48": "/PNG/48/Google_Services/google_sketchup_copyrighted-48.png"
+        "32": "/PNG/32/Logos/google_sketchup_copyrighted-32.png",
+        "128": "/PNG/128/Logos/google_sketchup_copyrighted-128.png",
+        "26": "/PNG/26/Logos/google_sketchup_copyrighted-26.png",
+        "256": "/PNG/256/Logos/google_sketchup_copyrighted-256.png",
+        "512": "/PNG/512/Logos/google_sketchup_copyrighted-512.png",
+        "64": "/PNG/64/Logos/google_sketchup_copyrighted-64.png",
+        "48": "/PNG/48/Logos/google_sketchup_copyrighted-48.png"
       }
     }
   },
@@ -28978,15 +28826,15 @@
     "files": {
       "svg": "/SVG/Logos/google_translate_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_translate_copyrighted.svg",
-      "eps": "/EPS/Google_Services/google_translate_copyrighted.eps",
+      "eps": "/EPS/Logos/google_translate_copyrighted.eps",
       "png": {
-        "32": "/PNG/32/Google_Services/google_translate_copyrighted-32.png",
-        "128": "/PNG/128/Google_Services/google_translate_copyrighted-128.png",
-        "26": "/PNG/26/Google_Services/google_translate_copyrighted-26.png",
-        "256": "/PNG/256/Google_Services/google_translate_copyrighted-256.png",
-        "512": "/PNG/512/Google_Services/google_translate_copyrighted-512.png",
-        "64": "/PNG/64/Google_Services/google_translate_copyrighted-64.png",
-        "48": "/PNG/48/Google_Services/google_translate_copyrighted-48.png"
+        "32": "/PNG/32/Logos/google_translate_copyrighted-32.png",
+        "128": "/PNG/128/Logos/google_translate_copyrighted-128.png",
+        "26": "/PNG/26/Logos/google_translate_copyrighted-26.png",
+        "256": "/PNG/256/Logos/google_translate_copyrighted-256.png",
+        "512": "/PNG/512/Logos/google_translate_copyrighted-512.png",
+        "64": "/PNG/64/Logos/google_translate_copyrighted-64.png",
+        "48": "/PNG/48/Logos/google_translate_copyrighted-48.png"
       }
     }
   },
@@ -29016,15 +28864,15 @@
     "files": {
       "svg": "/SVG/Logos/google_web_search_copyrighted.svg",
       "svg.simplified": "/SVG_for_Font/Google_Services/google_web_search_copyrighted.svg",
-      "eps": "/EPS/Google_Services/google_web_search_copyrighted.eps",
+      "eps": "/EPS/Logos/google_web_search_copyrighted.eps",
       "png": {
-        "32": "/PNG/32/Google_Services/google_web_search_copyrighted-32.png",
-        "128": "/PNG/128/Google_Services/google_web_search_copyrighted-128.png",
-        "26": "/PNG/26/Google_Services/google_web_search_copyrighted-26.png",
-        "256": "/PNG/256/Google_Services/google_web_search_copyrighted-256.png",
-        "512": "/PNG/512/Google_Services/google_web_search_copyrighted-512.png",
-        "64": "/PNG/64/Google_Services/google_web_search_copyrighted-64.png",
-        "48": "/PNG/48/Google_Services/google_web_search_copyrighted-48.png"
+        "32": "/PNG/32/Logos/google_web_search_copyrighted-32.png",
+        "128": "/PNG/128/Logos/google_web_search_copyrighted-128.png",
+        "26": "/PNG/26/Logos/google_web_search_copyrighted-26.png",
+        "256": "/PNG/256/Logos/google_web_search_copyrighted-256.png",
+        "512": "/PNG/512/Logos/google_web_search_copyrighted-512.png",
+        "64": "/PNG/64/Logos/google_web_search_copyrighted-64.png",
+        "48": "/PNG/48/Logos/google_web_search_copyrighted-48.png"
       }
     }
   },
@@ -29079,15 +28927,15 @@
     "files": {
       "svg": "/SVG/Animals/gorilla.svg",
       "svg.simplified": "/SVG_for_Font/Nature/gorilla.svg",
-      "eps": "/EPS/Nature/gorilla.eps",
+      "eps": "/EPS/Animals/gorilla.eps",
       "png": {
-        "32": "/PNG/32/Nature/gorilla-32.png",
-        "128": "/PNG/128/Nature/gorilla-128.png",
-        "26": "/PNG/26/Nature/gorilla-26.png",
-        "256": "/PNG/256/Nature/gorilla-256.png",
-        "512": "/PNG/512/Nature/gorilla-512.png",
-        "64": "/PNG/64/Nature/gorilla-64.png",
-        "48": "/PNG/48/Nature/gorilla-48.png"
+        "32": "/PNG/32/Animals/gorilla-32.png",
+        "128": "/PNG/128/Animals/gorilla-128.png",
+        "26": "/PNG/26/Animals/gorilla-26.png",
+        "256": "/PNG/256/Animals/gorilla-256.png",
+        "512": "/PNG/512/Animals/gorilla-512.png",
+        "64": "/PNG/64/Animals/gorilla-64.png",
+        "48": "/PNG/48/Animals/gorilla-48.png"
       }
     }
   },
@@ -29306,15 +29154,15 @@
     "files": {
       "svg": "/SVG/Plants/grapes.svg",
       "svg.simplified": "/SVG_for_Font/Nature/grapes.svg",
-      "eps": "/EPS/Nature/grapes.eps",
+      "eps": "/EPS/Plants/grapes.eps",
       "png": {
-        "32": "/PNG/32/Nature/grapes-32.png",
-        "128": "/PNG/128/Nature/grapes-128.png",
-        "26": "/PNG/26/Nature/grapes-26.png",
-        "256": "/PNG/256/Nature/grapes-256.png",
-        "512": "/PNG/512/Nature/grapes-512.png",
-        "64": "/PNG/64/Nature/grapes-64.png",
-        "48": "/PNG/48/Nature/grapes-48.png"
+        "32": "/PNG/32/Plants/grapes-32.png",
+        "128": "/PNG/128/Plants/grapes-128.png",
+        "26": "/PNG/26/Plants/grapes-26.png",
+        "256": "/PNG/256/Plants/grapes-256.png",
+        "512": "/PNG/512/Plants/grapes-512.png",
+        "64": "/PNG/64/Plants/grapes-64.png",
+        "48": "/PNG/48/Plants/grapes-48.png"
       }
     }
   },
@@ -29338,15 +29186,15 @@
     "files": {
       "svg": "/SVG/Plants/grass.svg",
       "svg.simplified": "/SVG_for_Font/Nature/grass.svg",
-      "eps": "/EPS/Nature/grass.eps",
+      "eps": "/EPS/Plants/grass.eps",
       "png": {
-        "32": "/PNG/32/Nature/grass-32.png",
-        "128": "/PNG/128/Nature/grass-128.png",
-        "26": "/PNG/26/Nature/grass-26.png",
-        "256": "/PNG/256/Nature/grass-256.png",
-        "512": "/PNG/512/Nature/grass-512.png",
-        "64": "/PNG/64/Nature/grass-64.png",
-        "48": "/PNG/48/Nature/grass-48.png"
+        "32": "/PNG/32/Plants/grass-32.png",
+        "128": "/PNG/128/Plants/grass-128.png",
+        "26": "/PNG/26/Plants/grass-26.png",
+        "256": "/PNG/256/Plants/grass-256.png",
+        "512": "/PNG/512/Plants/grass-512.png",
+        "64": "/PNG/64/Plants/grass-64.png",
+        "48": "/PNG/48/Plants/grass-48.png"
       }
     }
   },
@@ -29544,13 +29392,13 @@
       "svg.simplified": "/SVG_for_Font/Cinema/grey.svg",
       "eps": "/EPS/Cinema/grey.eps",
       "png": {
-        "32": "/PNG/Aliens/grey/grey-32.png",
-        "64": "/PNG/64/Cinema/grey-64.png",
-        "26": "/PNG/26/Cinema/grey-26.png",
-        "48": "/PNG/Aliens/grey/grey-48.png",
-        "512": "/PNG/512/Cinema/grey-512.png",
+        "32": "/PNG/32/Cinema/grey-32.png",
         "128": "/PNG/128/Cinema/grey-128.png",
-        "256": "/PNG/256/Cinema/grey-256.png"
+        "26": "/PNG/26/Cinema/grey-26.png",
+        "256": "/PNG/256/Cinema/grey-256.png",
+        "512": "/PNG/512/Cinema/grey-512.png",
+        "64": "/PNG/64/Cinema/grey-64.png",
+        "48": "/PNG/48/Cinema/grey-48.png"
       }
     }
   },
@@ -30808,15 +30656,15 @@
     "files": {
       "svg": "/SVG/Plants/hazelnut.svg",
       "svg.simplified": "/SVG_for_Font/Nature/hazelnut.svg",
-      "eps": "/EPS/Nature/hazelnut.eps",
+      "eps": "/EPS/Plants/hazelnut.eps",
       "png": {
-        "32": "/PNG/32/Nature/hazelnut-32.png",
-        "128": "/PNG/128/Nature/hazelnut-128.png",
-        "26": "/PNG/26/Nature/hazelnut-26.png",
-        "256": "/PNG/256/Nature/hazelnut-256.png",
-        "512": "/PNG/512/Nature/hazelnut-512.png",
-        "64": "/PNG/64/Nature/hazelnut-64.png",
-        "48": "/PNG/48/Nature/hazelnut-48.png"
+        "32": "/PNG/32/Plants/hazelnut-32.png",
+        "128": "/PNG/128/Plants/hazelnut-128.png",
+        "26": "/PNG/26/Plants/hazelnut-26.png",
+        "256": "/PNG/256/Plants/hazelnut-256.png",
+        "512": "/PNG/512/Plants/hazelnut-512.png",
+        "64": "/PNG/64/Plants/hazelnut-64.png",
+        "48": "/PNG/48/Plants/hazelnut-48.png"
       }
     }
   },
@@ -31016,7 +30864,7 @@
         "256": "/PNG/256/Holidays/headstone-256.png",
         "512": "/PNG/512/Holidays/headstone-512.png",
         "64": "/PNG/64/Holidays/headstone-64.png",
-        "48": "/PNG/48/Halloween/headstone-48.png"
+        "48": "/PNG/48/Holidays/headstone-48.png"
       }
     }
   },
@@ -31667,15 +31515,15 @@
     "files": {
       "svg": "/SVG/Holidays/holy_bible.svg",
       "svg.simplified": "/SVG_for_Font/Easter/holy_bible.svg",
-      "eps": "/EPS/Easter/holy_bible.eps",
+      "eps": "/EPS/Holidays/holy_bible.eps",
       "png": {
-        "32": "/PNG/32/Easter/holy_bible-32.png",
-        "128": "/PNG/128/Easter/holy_bible-128.png",
-        "26": "/PNG/26/Easter/holy_bible-26.png",
-        "256": "/PNG/256/Easter/holy_bible-256.png",
-        "512": "/PNG/512/Easter/holy_bible-512.png",
-        "64": "/PNG/64/Easter/holy_bible-64.png",
-        "48": "/PNG/48/Easter/holy_bible-48.png"
+        "32": "/PNG/32/Holidays/holy_bible-32.png",
+        "128": "/PNG/128/Holidays/holy_bible-128.png",
+        "26": "/PNG/26/Holidays/holy_bible-26.png",
+        "256": "/PNG/256/Holidays/holy_bible-256.png",
+        "512": "/PNG/512/Holidays/holy_bible-512.png",
+        "64": "/PNG/64/Holidays/holy_bible-64.png",
+        "48": "/PNG/48/Holidays/holy_bible-48.png"
       }
     }
   },
@@ -31779,15 +31627,15 @@
     "files": {
       "svg": "/SVG/Plants/hops.svg",
       "svg.simplified": "/SVG_for_Font/Nature/hops.svg",
-      "eps": "/EPS/Nature/hops.eps",
+      "eps": "/EPS/Plants/hops.eps",
       "png": {
-        "32": "/PNG/32/Nature/hops-32.png",
-        "128": "/PNG/128/Nature/hops-128.png",
-        "26": "/PNG/26/Nature/hops-26.png",
-        "256": "/PNG/256/Nature/hops-256.png",
-        "512": "/PNG/512/Nature/hops-512.png",
-        "64": "/PNG/64/Nature/hops-64.png",
-        "48": "/PNG/48/Nature/hops-48.png"
+        "32": "/PNG/32/Plants/hops-32.png",
+        "128": "/PNG/128/Plants/hops-128.png",
+        "26": "/PNG/26/Plants/hops-26.png",
+        "256": "/PNG/256/Plants/hops-256.png",
+        "512": "/PNG/512/Plants/hops-512.png",
+        "64": "/PNG/64/Plants/hops-64.png",
+        "48": "/PNG/48/Plants/hops-48.png"
       }
     }
   },
@@ -31816,78 +31664,6 @@
         "512": "/PNG/512/Cinema/horror-512.png",
         "64": "/PNG/64/Cinema/horror-64.png",
         "48": "/PNG/48/Cinema/horror-48.png"
-      }
-    }
-  },
-  {
-    "id": 3460,
-    "name": "horse",
-    "platform": "Windows 8/Metro",
-    "category": "Astrology",
-    "created": 1393235476,
-    "tags": [
-      "design",
-      "vector",
-      "animal",
-      "pet",
-      "zodiac",
-      "set",
-      "line",
-      "west",
-      "outline",
-      "contour",
-      "clip",
-      "drawing",
-      "profile",
-      "symbol",
-      "sport",
-      "speed",
-      "image",
-      "illustration",
-      "sign",
-      "head",
-      "black",
-      "white",
-      "icon",
-      "nature",
-      "wild",
-      "shape",
-      "style",
-      "art",
-      "freedom",
-      "chess",
-      "horse",
-      "beautiful",
-      "isolated",
-      "abstract",
-      "simple",
-      "strong",
-      "elements",
-      "silhouette",
-      "horseback",
-      "farm",
-      "domestic",
-      "aggressive",
-      "stylized",
-      "race",
-      "mammal",
-      "equestrian",
-      "pride",
-      "mare",
-      "stall"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Astrology/horse.svg",
-      "eps": "/EPS/Astrology/horse.eps",
-      "png": {
-        "32": "/PNG/32/Astrology/horse-32.png",
-        "128": "/PNG/128/Astrology/horse-128.png",
-        "26": "/PNG/26/Astrology/horse-26.png",
-        "256": "/PNG/256/Astrology/horse-256.png",
-        "512": "/PNG/512/Astrology/horse-512.png",
-        "64": "/PNG/64/Astrology/horse-64.png",
-        "48": "/PNG/48/Astrology/horse-48.png"
       }
     }
   },
@@ -32470,15 +32246,15 @@
     "files": {
       "svg": "/SVG/Science/humidity.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/humidity.svg",
-      "eps": "/EPS/Measurement_Units/humidity.eps",
+      "eps": "/EPS/Science/humidity.eps",
       "png": {
-        "32": "/PNG/32/Measurement_Units/humidity-32.png",
-        "128": "/PNG/128/Measurement_Units/humidity-128.png",
-        "26": "/PNG/26/Measurement_Units/humidity-26.png",
-        "256": "/PNG/256/Measurement_Units/humidity-256.png",
-        "512": "/PNG/512/Measurement_Units/humidity-512.png",
-        "64": "/PNG/64/Measurement_Units/humidity-64.png",
-        "48": "/PNG/48/Measurement_Units/humidity-48.png"
+        "32": "/PNG/32/Science/humidity-32.png",
+        "128": "/PNG/128/Science/humidity-128.png",
+        "26": "/PNG/26/Science/humidity-26.png",
+        "256": "/PNG/256/Science/humidity-256.png",
+        "512": "/PNG/512/Science/humidity-512.png",
+        "64": "/PNG/64/Science/humidity-64.png",
+        "48": "/PNG/48/Science/humidity-48.png"
       }
     }
   },
@@ -33112,15 +32888,15 @@
     "files": {
       "svg": "/SVG/Animals/insect.svg",
       "svg.simplified": "/SVG_for_Font/Nature/insect.svg",
-      "eps": "/EPS/Nature/insect.eps",
+      "eps": "/EPS/Animals/insect.eps",
       "png": {
-        "32": "/PNG/32/Nature/insect-32.png",
-        "128": "/PNG/128/Nature/insect-128.png",
-        "26": "/PNG/26/Nature/insect-26.png",
-        "256": "/PNG/256/Nature/insect-256.png",
-        "512": "/PNG/512/Nature/insect-512.png",
-        "64": "/PNG/64/Nature/insect-64.png",
-        "48": "/PNG/48/Nature/insect-48.png"
+        "32": "/PNG/32/Animals/insect-32.png",
+        "128": "/PNG/128/Animals/insect-128.png",
+        "26": "/PNG/26/Animals/insect-26.png",
+        "256": "/PNG/256/Animals/insect-256.png",
+        "512": "/PNG/512/Animals/insect-512.png",
+        "64": "/PNG/64/Animals/insect-64.png",
+        "48": "/PNG/48/Animals/insect-48.png"
       }
     }
   },
@@ -34326,7 +34102,7 @@
         "256": "/PNG/256/Holidays/jingle_bell-256.png",
         "512": "/PNG/512/Holidays/jingle_bell-512.png",
         "64": "/PNG/64/Holidays/jingle_bell-64.png",
-        "48": "/PNG/48/Christmas/jingle_bell-48.png"
+        "48": "/PNG/48/Holidays/jingle_bell-48.png"
       }
     }
   },
@@ -35724,73 +35500,6 @@
     }
   },
   {
-    "id": 1828,
-    "name": "lamp_genie",
-    "platform": "Windows 8/Metro",
-    "category": "Fiction",
-    "created": 1368800619,
-    "tags": [
-      "lamp",
-      "aladdin",
-      "magic",
-      "genie",
-      "success",
-      "smoke",
-      "assistance",
-      "surprise",
-      "magic lamp",
-      "antiquities",
-      "fairy tale",
-      "gin",
-      "wishing",
-      "oil lamp"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Fiction/lamp_genie.svg",
-      "eps": "/EPS/Fiction/lamp_genie.eps",
-      "png": {
-        "32": "/PNG/32/Fiction/lamp_genie-32.png",
-        "128": "/PNG/128/Fiction/lamp_genie-128.png",
-        "26": "/PNG/26/Fiction/lamp_genie-26.png",
-        "256": "/PNG/256/Fiction/lamp_genie-256.png",
-        "512": "/PNG/512/Fiction/lamp_genie-512.png",
-        "64": "/PNG/64/Fiction/lamp_genie-64.png",
-        "48": "/PNG/48/Fiction/lamp_genie-48.png"
-      }
-    }
-  },
-  {
-    "id": 83,
-    "name": "lamp_magic",
-    "platform": "Windows 8/Metro",
-    "category": "Fiction",
-    "created": 1293858000,
-    "tags": [
-      "lamp",
-      "djinni",
-      "aladdin",
-      "spirit",
-      "wishes",
-      "prince",
-      "flying carpet"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Fiction/lamp_magic.svg",
-      "eps": "/EPS/Fiction/lamp_magic.eps",
-      "png": {
-        "32": "/PNG/32/Fiction/lamp_magic-32.png",
-        "128": "/PNG/128/Fiction/lamp_magic-128.png",
-        "26": "/PNG/26/Fiction/lamp_magic-26.png",
-        "256": "/PNG/256/Fiction/lamp_magic-256.png",
-        "512": "/PNG/512/Fiction/lamp_magic-512.png",
-        "64": "/PNG/64/Fiction/lamp_magic-64.png",
-        "48": "/PNG/48/Fiction/lamp_magic-48.png"
-      }
-    }
-  },
-  {
     "id": 4546,
     "name": "lamp_of_alladin",
     "platform": "Windows 8/Metro",
@@ -36243,81 +35952,15 @@
     "files": {
       "svg": "/SVG/Plants/leaf.svg",
       "svg.simplified": "/SVG_for_Font/Nature/leaf.svg",
-      "eps": "/EPS/Nature/leaf.eps",
+      "eps": "/EPS/Plants/leaf.eps",
       "png": {
-        "32": "/PNG/32/Nature/leaf-32.png",
-        "128": "/PNG/128/Nature/leaf-128.png",
-        "26": "/PNG/26/Nature/leaf-26.png",
-        "256": "/PNG/256/Nature/leaf-256.png",
-        "512": "/PNG/512/Nature/leaf-512.png",
-        "64": "/PNG/64/Nature/leaf-64.png",
-        "48": "/PNG/48/Nature/leaf-48.png"
-      }
-    }
-  },
-  {
-    "id": 795,
-    "name": "leaf2",
-    "platform": "Windows 8/Metro",
-    "category": "Nature",
-    "created": 1335433218,
-    "tags": [
-      "earth",
-      "garden",
-      "leaf",
-      "environment",
-      "tree",
-      "plant",
-      "nature",
-      "fall",
-      "autumn"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Nature/leaf2.svg",
-      "eps": "/EPS/Nature/leaf2.eps",
-      "png": {
-        "32": "/PNG/32/Nature/leaf2-32.png",
-        "128": "/PNG/128/Nature/leaf2-128.png",
-        "26": "/PNG/26/Nature/leaf2-26.png",
-        "256": "/PNG/256/Nature/leaf2-256.png",
-        "512": "/PNG/512/Nature/leaf2-512.png",
-        "64": "/PNG/64/Nature/leaf2-64.png",
-        "48": "/PNG/48/Nature/leaf2-48.png"
-      }
-    }
-  },
-  {
-    "id": 796,
-    "name": "leaf3",
-    "platform": "Windows 8/Metro",
-    "category": "Nature",
-    "created": 1335433218,
-    "tags": [
-      "earth",
-      "garden",
-      "leaf",
-      "environment",
-      "tree",
-      "plant",
-      "nature",
-      "fall",
-      "autumn",
-      "countryside",
-      "cleanliness"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Nature/leaf3.svg",
-      "eps": "/EPS/Nature/leaf3.eps",
-      "png": {
-        "32": "/PNG/32/Nature/leaf3-32.png",
-        "128": "/PNG/128/Nature/leaf3-128.png",
-        "26": "/PNG/26/Nature/leaf3-26.png",
-        "256": "/PNG/256/Nature/leaf3-256.png",
-        "512": "/PNG/512/Nature/leaf3-512.png",
-        "64": "/PNG/64/Nature/leaf3-64.png",
-        "48": "/PNG/48/Nature/leaf3-48.png"
+        "32": "/PNG/32/Plants/leaf-32.png",
+        "128": "/PNG/128/Plants/leaf-128.png",
+        "26": "/PNG/26/Plants/leaf-26.png",
+        "256": "/PNG/256/Plants/leaf-256.png",
+        "512": "/PNG/512/Plants/leaf-512.png",
+        "64": "/PNG/64/Plants/leaf-64.png",
+        "48": "/PNG/48/Plants/leaf-48.png"
       }
     }
   },
@@ -36779,15 +36422,15 @@
     "files": {
       "svg": "/SVG/Science/length.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/length.svg",
-      "eps": "/EPS/Measurement_Units/length.eps",
+      "eps": "/EPS/Science/length.eps",
       "png": {
-        "32": "/PNG/32/Measurement_Units/length-32.png",
-        "128": "/PNG/128/Measurement_Units/length-128.png",
-        "26": "/PNG/26/Measurement_Units/length-26.png",
-        "256": "/PNG/256/Measurement_Units/length-256.png",
-        "512": "/PNG/512/Measurement_Units/length-512.png",
-        "64": "/PNG/64/Measurement_Units/length-64.png",
-        "48": "/PNG/48/Measurement_Units/length-48.png"
+        "32": "/PNG/32/Science/length-32.png",
+        "128": "/PNG/128/Science/length-128.png",
+        "26": "/PNG/26/Science/length-26.png",
+        "256": "/PNG/256/Science/length-256.png",
+        "512": "/PNG/512/Science/length-512.png",
+        "64": "/PNG/64/Science/length-64.png",
+        "48": "/PNG/48/Science/length-48.png"
       }
     }
   },
@@ -39124,13 +38767,13 @@
       "svg.simplified": "/SVG_for_Font/Cinema/martian.svg",
       "eps": "/EPS/Cinema/martian.eps",
       "png": {
-        "32": "/PNG/Aliens/martian/martian-32.png",
-        "48": "/PNG/Aliens/martian/martian-48.png",
+        "32": "/PNG/32/Cinema/martian-32.png",
+        "128": "/PNG/128/Cinema/martian-128.png",
         "26": "/PNG/26/Cinema/martian-26.png",
         "256": "/PNG/256/Cinema/martian-256.png",
+        "512": "/PNG/512/Cinema/martian-512.png",
         "64": "/PNG/64/Cinema/martian-64.png",
-        "128": "/PNG/128/Cinema/martian-128.png",
-        "512": "/PNG/512/Cinema/martian-512.png"
+        "48": "/PNG/48/Cinema/martian-48.png"
       }
     }
   },
@@ -41002,15 +40645,15 @@
     "files": {
       "svg": "/SVG/Animals/mite.svg",
       "svg.simplified": "/SVG_for_Font/Nature/mite.svg",
-      "eps": "/EPS/Nature/mite.eps",
+      "eps": "/EPS/Animals/mite.eps",
       "png": {
-        "32": "/PNG/32/Nature/mite-32.png",
-        "128": "/PNG/128/Nature/mite-128.png",
-        "26": "/PNG/26/Nature/mite-26.png",
-        "256": "/PNG/256/Nature/mite-256.png",
-        "512": "/PNG/512/Nature/mite-512.png",
-        "64": "/PNG/64/Nature/mite-64.png",
-        "48": "/PNG/48/Nature/mite-48.png"
+        "32": "/PNG/32/Animals/mite-32.png",
+        "128": "/PNG/128/Animals/mite-128.png",
+        "26": "/PNG/26/Animals/mite-26.png",
+        "256": "/PNG/256/Animals/mite-256.png",
+        "512": "/PNG/512/Animals/mite-512.png",
+        "64": "/PNG/64/Animals/mite-64.png",
+        "48": "/PNG/48/Animals/mite-48.png"
       }
     }
   },
@@ -41338,79 +40981,6 @@
     }
   },
   {
-    "id": 3456,
-    "name": "monkey",
-    "platform": "Windows 8/Metro",
-    "category": "Astrology",
-    "created": 1393235476,
-    "tags": [
-      "design",
-      "vector",
-      "animal",
-      "full",
-      "fun",
-      "drawing",
-      "word",
-      "symbol",
-      "smile",
-      "happy",
-      "cool",
-      "illustration",
-      "head",
-      "logo",
-      "ears",
-      "black",
-      "points",
-      "icon",
-      "color",
-      "tree",
-      "forest",
-      "nature",
-      "wild",
-      "climb",
-      "type",
-      "service",
-      "modern",
-      "funny",
-      "grey",
-      "circle",
-      "cartoon",
-      "cute",
-      "face",
-      "colorful",
-      "red",
-      "banana",
-      "looking",
-      "jump",
-      "creative",
-      "wildlife",
-      "comic",
-      "movement",
-      "brown",
-      "imaginative",
-      "stylized",
-      "environmental",
-      "illusion",
-      "gradient",
-      "depth",
-      "teeth"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Astrology/monkey.svg",
-      "eps": "/EPS/Astrology/monkey.eps",
-      "png": {
-        "32": "/PNG/32/Astrology/monkey-32.png",
-        "128": "/PNG/128/Astrology/monkey-128.png",
-        "26": "/PNG/26/Astrology/monkey-26.png",
-        "256": "/PNG/256/Astrology/monkey-256.png",
-        "512": "/PNG/512/Astrology/monkey-512.png",
-        "64": "/PNG/64/Astrology/monkey-64.png",
-        "48": "/PNG/48/Astrology/monkey-48.png"
-      }
-    }
-  },
-  {
     "id": 1902,
     "name": "month_view",
     "platform": "Windows 8/Metro",
@@ -41561,7 +41131,6 @@
       "mixing",
       "english",
       "ancient",
-      "legal",
       "shutter",
       "arts",
       "footage",
@@ -41575,7 +41144,8 @@
       "ceramic",
       "salt",
       "pepper",
-      "g"
+      "grind",
+      "m"
     ],
     "copyright": false,
     "files": {
@@ -41688,14 +41258,14 @@
     "files": {
       "svg": "/SVG/Animals/mosquito.svg",
       "svg.simplified": "/SVG_for_Font/Nature/mosquito.svg",
-      "eps": "/EPS/Nature/mosquito.eps",
+      "eps": "/EPS/Animals/mosquito.eps",
       "png": {
-        "32": "/PNG/32/Nature/mosquito-32.png",
-        "128": "/PNG/128/Nature/mosquito-128.png",
-        "26": "/PNG/26/Nature/mosquito-26.png",
-        "256": "/PNG/256/Nature/mosquito-256.png",
-        "512": "/PNG/512/Nature/mosquito-512.png",
-        "64": "/PNG/64/Nature/mosquito-64.png"
+        "32": "/PNG/32/Animals/mosquito-32.png",
+        "128": "/PNG/128/Animals/mosquito-128.png",
+        "26": "/PNG/26/Animals/mosquito-26.png",
+        "256": "/PNG/256/Animals/mosquito-256.png",
+        "512": "/PNG/512/Animals/mosquito-512.png",
+        "64": "/PNG/64/Animals/mosquito-64.png"
       }
     }
   },
@@ -42671,7 +42241,7 @@
         "256": "/PNG/256/Holidays/mummy-256.png",
         "512": "/PNG/512/Holidays/mummy-512.png",
         "64": "/PNG/64/Holidays/mummy-64.png",
-        "48": "/PNG/48/Halloween/mummy-48.png"
+        "48": "/PNG/48/Holidays/mummy-48.png"
       }
     }
   },
@@ -44888,15 +44458,15 @@
     "files": {
       "svg": "/SVG/Plants/nut.svg",
       "svg.simplified": "/SVG_for_Font/Nature/nut.svg",
-      "eps": "/EPS/Nature/nut.eps",
+      "eps": "/EPS/Plants/nut.eps",
       "png": {
-        "32": "/PNG/32/Nature/nut-32.png",
-        "128": "/PNG/128/Nature/nut-128.png",
-        "26": "/PNG/26/Nature/nut-26.png",
-        "256": "/PNG/256/Nature/nut-256.png",
-        "512": "/PNG/512/Nature/nut-512.png",
-        "64": "/PNG/64/Nature/nut-64.png",
-        "48": "/PNG/48/Nature/nut-48.png"
+        "32": "/PNG/32/Plants/nut-32.png",
+        "128": "/PNG/128/Plants/nut-128.png",
+        "26": "/PNG/26/Plants/nut-26.png",
+        "256": "/PNG/256/Plants/nut-256.png",
+        "512": "/PNG/512/Plants/nut-512.png",
+        "64": "/PNG/64/Plants/nut-64.png",
+        "48": "/PNG/48/Plants/nut-48.png"
       }
     }
   },
@@ -45054,15 +44624,15 @@
     "files": {
       "svg": "/SVG/Animals/octopus.svg",
       "svg.simplified": "/SVG_for_Font/Nature/octopus.svg",
-      "eps": "/EPS/Nature/octopus.eps",
+      "eps": "/EPS/Animals/octopus.eps",
       "png": {
-        "32": "/PNG/32/Nature/octopus-32.png",
-        "128": "/PNG/128/Nature/octopus-128.png",
-        "26": "/PNG/26/Nature/octopus-26.png",
-        "256": "/PNG/256/Nature/octopus-256.png",
-        "512": "/PNG/512/Nature/octopus-512.png",
-        "64": "/PNG/64/Nature/octopus-64.png",
-        "48": "/PNG/48/Nature/octopus-48.png"
+        "32": "/PNG/32/Animals/octopus-32.png",
+        "128": "/PNG/128/Animals/octopus-128.png",
+        "26": "/PNG/26/Animals/octopus-26.png",
+        "256": "/PNG/256/Animals/octopus-256.png",
+        "512": "/PNG/512/Animals/octopus-512.png",
+        "64": "/PNG/64/Animals/octopus-64.png",
+        "48": "/PNG/48/Animals/octopus-48.png"
       }
     }
   },
@@ -46322,49 +45892,6 @@
     }
   },
   {
-    "id": 3441,
-    "name": "ox",
-    "platform": "Windows 8/Metro",
-    "category": "Astrology",
-    "created": 1392803463,
-    "tags": [
-      "animal",
-      "brand",
-      "graphic",
-      "attack",
-      "force",
-      "abstract",
-      "character",
-      "cartoon",
-      "dangerous",
-      "beef",
-      "bull",
-      "background",
-      "artwork",
-      "farm",
-      "angry",
-      "aggressive",
-      "buffalo",
-      "cattle",
-      "chasing",
-      "enraged"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Astrology/ox.svg",
-      "eps": "/EPS/Astrology/ox.eps",
-      "png": {
-        "32": "/PNG/32/Astrology/ox-32.png",
-        "128": "/PNG/128/Astrology/ox-128.png",
-        "26": "/PNG/26/Astrology/ox-26.png",
-        "256": "/PNG/256/Astrology/ox-256.png",
-        "512": "/PNG/512/Astrology/ox-512.png",
-        "64": "/PNG/64/Astrology/ox-64.png",
-        "48": "/PNG/48/Astrology/ox-48.png"
-      }
-    }
-  },
-  {
     "id": 3075,
     "name": "o_lowercase",
     "platform": "Windows 8/Metro",
@@ -46592,15 +46119,15 @@
     "files": {
       "svg": "/SVG/Plants/palm_tree.svg",
       "svg.simplified": "/SVG_for_Font/Nature/palm_tree.svg",
-      "eps": "/EPS/Nature/palm_tree.eps",
+      "eps": "/EPS/Plants/palm_tree.eps",
       "png": {
-        "32": "/PNG/32/Nature/palm_tree-32.png",
-        "128": "/PNG/128/Nature/palm_tree-128.png",
-        "26": "/PNG/26/Nature/palm_tree-26.png",
-        "256": "/PNG/256/Nature/palm_tree-256.png",
-        "512": "/PNG/512/Nature/palm_tree-512.png",
-        "64": "/PNG/64/Nature/palm_tree-64.png",
-        "48": "/PNG/48/Nature/palm_tree-48.png"
+        "32": "/PNG/32/Plants/palm_tree-32.png",
+        "128": "/PNG/128/Plants/palm_tree-128.png",
+        "26": "/PNG/26/Plants/palm_tree-26.png",
+        "256": "/PNG/256/Plants/palm_tree-256.png",
+        "512": "/PNG/512/Plants/palm_tree-512.png",
+        "64": "/PNG/64/Plants/palm_tree-64.png",
+        "48": "/PNG/48/Plants/palm_tree-48.png"
       }
     }
   },
@@ -46801,6 +46328,7 @@
     "created": 1351767195,
     "tags": [
       "paper",
+      "social",
       "paper plane"
     ],
     "copyright": false,
@@ -47346,15 +46874,15 @@
     "files": {
       "svg": "/SVG/Plants/peanuts.svg",
       "svg.simplified": "/SVG_for_Font/Nature/peanuts.svg",
-      "eps": "/EPS/Nature/peanuts.eps",
+      "eps": "/EPS/Plants/peanuts.eps",
       "png": {
-        "32": "/PNG/32/Nature/peanuts-32.png",
-        "128": "/PNG/128/Nature/peanuts-128.png",
-        "26": "/PNG/26/Nature/peanuts-26.png",
-        "256": "/PNG/256/Nature/peanuts-256.png",
-        "512": "/PNG/512/Nature/peanuts-512.png",
-        "64": "/PNG/64/Nature/peanuts-64.png",
-        "48": "/PNG/48/Nature/peanuts-48.png"
+        "32": "/PNG/32/Plants/peanuts-32.png",
+        "128": "/PNG/128/Plants/peanuts-128.png",
+        "26": "/PNG/26/Plants/peanuts-26.png",
+        "256": "/PNG/256/Plants/peanuts-256.png",
+        "512": "/PNG/512/Plants/peanuts-512.png",
+        "64": "/PNG/64/Plants/peanuts-64.png",
+        "48": "/PNG/48/Plants/peanuts-48.png"
       }
     }
   },
@@ -48164,66 +47692,6 @@
     }
   },
   {
-    "id": 1285,
-    "name": "pig",
-    "platform": "Windows 8/Metro",
-    "category": "Astrology",
-    "created": 1352467474,
-    "tags": [
-      "design",
-      "vector",
-      "animal",
-      "full",
-      "drawing",
-      "symbol",
-      "happy",
-      "cool",
-      "illustration",
-      "sign",
-      "points",
-      "icon",
-      "color",
-      "service",
-      "modern",
-      "pig",
-      "isolated",
-      "cartoon",
-      "cute",
-      "white background",
-      "animals and pets",
-      "farm animals",
-      "male animal",
-      "pink",
-      "silly",
-      "stylized",
-      "environmental",
-      "illusion",
-      "depth",
-      "cheerful",
-      "smiling",
-      "computer graphic",
-      "animal head",
-      "young animal",
-      "illustrations and vector art",
-      "oink",
-      "vector cart"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Astrology/pig.svg",
-      "eps": "/EPS/Astrology/pig.eps",
-      "png": {
-        "32": "/PNG/32/Astrology/pig-32.png",
-        "128": "/PNG/128/Astrology/pig-128.png",
-        "26": "/PNG/26/Astrology/pig-26.png",
-        "256": "/PNG/256/Astrology/pig-256.png",
-        "512": "/PNG/512/Astrology/pig-512.png",
-        "64": "/PNG/64/Astrology/pig-64.png",
-        "48": "/PNG/48/Astrology/pig-48.png"
-      }
-    }
-  },
-  {
     "id": 4249,
     "name": "pig2",
     "platform": "Windows 8/Metro",
@@ -48236,14 +47704,14 @@
     "files": {
       "svg": "/SVG/Animals/pig2.svg",
       "svg.simplified": "/SVG_for_Font/Nature/pig2.svg",
-      "eps": "/EPS/Nature/pig2.eps",
+      "eps": "/EPS/Animals/pig2.eps",
       "png": {
-        "32": "/PNG/32/Nature/pig2-32.png",
-        "128": "/PNG/128/Nature/pig2-128.png",
-        "26": "/PNG/26/Nature/pig2-26.png",
-        "256": "/PNG/256/Nature/pig2-256.png",
-        "512": "/PNG/512/Nature/pig2-512.png",
-        "64": "/PNG/64/Nature/pig2-64.png"
+        "32": "/PNG/32/Animals/pig2-32.png",
+        "128": "/PNG/128/Animals/pig2-128.png",
+        "26": "/PNG/26/Animals/pig2-26.png",
+        "256": "/PNG/256/Animals/pig2-256.png",
+        "512": "/PNG/512/Animals/pig2-512.png",
+        "64": "/PNG/64/Animals/pig2-64.png"
       }
     }
   },
@@ -50135,15 +49603,15 @@
     "files": {
       "svg": "/SVG/Animals/prawn.svg",
       "svg.simplified": "/SVG_for_Font/Nature/prawn.svg",
-      "eps": "/EPS/Nature/prawn.eps",
+      "eps": "/EPS/Animals/prawn.eps",
       "png": {
-        "32": "/PNG/32/Nature/prawn-32.png",
-        "128": "/PNG/128/Nature/prawn-128.png",
-        "26": "/PNG/26/Nature/prawn-26.png",
-        "256": "/PNG/256/Nature/prawn-256.png",
-        "512": "/PNG/512/Nature/prawn-512.png",
-        "64": "/PNG/64/Nature/prawn-64.png",
-        "48": "/PNG/48/Nature/prawn-48.png"
+        "32": "/PNG/32/Animals/prawn-32.png",
+        "128": "/PNG/128/Animals/prawn-128.png",
+        "26": "/PNG/26/Animals/prawn-26.png",
+        "256": "/PNG/256/Animals/prawn-256.png",
+        "512": "/PNG/512/Animals/prawn-512.png",
+        "64": "/PNG/64/Animals/prawn-64.png",
+        "48": "/PNG/48/Animals/prawn-48.png"
       }
     }
   },
@@ -50164,13 +49632,13 @@
       "svg.simplified": "/SVG_for_Font/Cinema/predator.svg",
       "eps": "/EPS/Cinema/predator.eps",
       "png": {
-        "32": "/PNG/Aliens/predator/predator-32.png",
-        "256": "/PNG/256/Cinema/predator-256.png",
+        "32": "/PNG/32/Cinema/predator-32.png",
         "128": "/PNG/128/Cinema/predator-128.png",
-        "48": "/PNG/Aliens/predator/predator-48.png",
         "26": "/PNG/26/Cinema/predator-26.png",
+        "256": "/PNG/256/Cinema/predator-256.png",
+        "512": "/PNG/512/Cinema/predator-512.png",
         "64": "/PNG/64/Cinema/predator-64.png",
-        "512": "/PNG/512/Cinema/predator-512.png"
+        "48": "/PNG/48/Cinema/predator-48.png"
       }
     }
   },
@@ -50243,15 +49711,15 @@
     "files": {
       "svg": "/SVG/Science/pressure.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/pressure.svg",
-      "eps": "/EPS/Measurement_Units/pressure.eps",
+      "eps": "/EPS/Science/pressure.eps",
       "png": {
-        "32": "/PNG/32/Measurement_Units/pressure-32.png",
-        "128": "/PNG/128/Measurement_Units/pressure-128.png",
-        "26": "/PNG/26/Measurement_Units/pressure-26.png",
-        "256": "/PNG/256/Measurement_Units/pressure-256.png",
-        "512": "/PNG/512/Measurement_Units/pressure-512.png",
-        "64": "/PNG/64/Measurement_Units/pressure-64.png",
-        "48": "/PNG/48/Measurement_Units/pressure-48.png"
+        "32": "/PNG/32/Science/pressure-32.png",
+        "128": "/PNG/128/Science/pressure-128.png",
+        "26": "/PNG/26/Science/pressure-26.png",
+        "256": "/PNG/256/Science/pressure-256.png",
+        "512": "/PNG/512/Science/pressure-512.png",
+        "64": "/PNG/64/Science/pressure-64.png",
+        "48": "/PNG/48/Science/pressure-48.png"
       }
     }
   },
@@ -51055,7 +50523,7 @@
         "256": "/PNG/256/Holidays/pumpkin-256.png",
         "512": "/PNG/512/Holidays/pumpkin-512.png",
         "64": "/PNG/64/Holidays/pumpkin-64.png",
-        "48": "/PNG/48/Halloween/pumpkin-48.png"
+        "48": "/PNG/48/Holidays/pumpkin-48.png"
       }
     }
   },
@@ -51183,15 +50651,15 @@
     "files": {
       "svg": "/SVG/Holidays/pussy_willow.svg",
       "svg.simplified": "/SVG_for_Font/Easter/pussy_willow.svg",
-      "eps": "/EPS/Easter/pussy_willow.eps",
+      "eps": "/EPS/Holidays/pussy_willow.eps",
       "png": {
-        "32": "/PNG/32/Easter/pussy_willow-32.png",
-        "128": "/PNG/128/Easter/pussy_willow-128.png",
-        "26": "/PNG/26/Easter/pussy_willow-26.png",
-        "256": "/PNG/256/Easter/pussy_willow-256.png",
-        "512": "/PNG/512/Easter/pussy_willow-512.png",
-        "64": "/PNG/64/Easter/pussy_willow-64.png",
-        "48": "/PNG/48/Easter/pussy_willow-48.png"
+        "32": "/PNG/32/Holidays/pussy_willow-32.png",
+        "128": "/PNG/128/Holidays/pussy_willow-128.png",
+        "26": "/PNG/26/Holidays/pussy_willow-26.png",
+        "256": "/PNG/256/Holidays/pussy_willow-256.png",
+        "512": "/PNG/512/Holidays/pussy_willow-512.png",
+        "64": "/PNG/64/Holidays/pussy_willow-64.png",
+        "48": "/PNG/48/Holidays/pussy_willow-48.png"
       }
     }
   },
@@ -52067,15 +51535,15 @@
     "files": {
       "svg": "/SVG/Animals/rabbit.svg",
       "svg.simplified": "/SVG_for_Font/Nature/rabbit.svg",
-      "eps": "/EPS/Nature/rabbit.eps",
+      "eps": "/EPS/Animals/rabbit.eps",
       "png": {
-        "32": "/PNG/Animals/rabbit/rabbit-32.png",
-        "128": "/PNG/Animals/rabbit/rabbit-128.png",
-        "26": "/PNG/Animals/rabbit/rabbit-26.png",
-        "256": "/PNG/Animals/rabbit/rabbit-256.png",
-        "48": "/PNG/Animals/rabbit/rabbit-48.png",
-        "64": "/PNG/64/Nature/rabbit-64.png",
-        "512": "/PNG/512/Nature/rabbit-512.png"
+        "32": "/PNG/32/Animals/rabbit-32.png",
+        "128": "/PNG/128/Animals/rabbit-128.png",
+        "26": "/PNG/26/Animals/rabbit-26.png",
+        "256": "/PNG/256/Animals/rabbit-256.png",
+        "512": "/PNG/512/Animals/rabbit-512.png",
+        "64": "/PNG/64/Animals/rabbit-64.png",
+        "48": "/PNG/48/Animals/rabbit-48.png"
       }
     }
   },
@@ -52462,65 +51930,6 @@
         "512": "/PNG/512/Files/rar-512.png",
         "64": "/PNG/64/Files/rar-64.png",
         "48": "/PNG/48/Files/rar-48.png"
-      }
-    }
-  },
-  {
-    "id": 3442,
-    "name": "rat",
-    "platform": "Windows 8/Metro",
-    "category": "Astrology",
-    "created": 1392803463,
-    "tags": [
-      "vector",
-      "animal",
-      "clip",
-      "symbol",
-      "smile",
-      "illustration",
-      "graphic",
-      "black",
-      "small",
-      "art",
-      "funny",
-      "isolated",
-      "character",
-      "standing",
-      "cute",
-      "mouse",
-      "silhouette",
-      "sketch",
-      "comic",
-      "friendly",
-      "coloring",
-      "nobody",
-      "clip-art",
-      "tail",
-      "brown",
-      "characters",
-      "mammal",
-      "cheerful",
-      "rat",
-      "rodent",
-      "claw",
-      "pest",
-      "caricature",
-      "beckon",
-      "amusing",
-      "vermin"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Astrology/rat.svg",
-      "eps": "/EPS/Astrology/rat.eps",
-      "png": {
-        "32": "/PNG/32/Astrology/rat-32.png",
-        "128": "/PNG/128/Astrology/rat-128.png",
-        "26": "/PNG/26/Astrology/rat-26.png",
-        "256": "/PNG/256/Astrology/rat-256.png",
-        "512": "/PNG/512/Astrology/rat-512.png",
-        "64": "/PNG/64/Astrology/rat-64.png",
-        "48": "/PNG/48/Astrology/rat-48.png"
       }
     }
   },
@@ -53540,7 +52949,8 @@
       "push",
       "regulator",
       "update",
-      "try again"
+      "try again",
+      "return-64"
     ],
     "copyright": false,
     "files": {
@@ -54223,15 +53633,15 @@
     "files": {
       "svg": "/SVG/Holidays/ring.svg",
       "svg.simplified": "/SVG_for_Font/Wedding/ring.svg",
-      "eps": "/EPS/Wedding/ring.eps",
+      "eps": "/EPS/Holidays/ring.eps",
       "png": {
-        "32": "/PNG/32/Wedding/ring-32.png",
-        "128": "/PNG/128/Wedding/ring-128.png",
-        "26": "/PNG/26/Wedding/ring-26.png",
-        "256": "/PNG/256/Wedding/ring-256.png",
-        "512": "/PNG/512/Wedding/ring-512.png",
-        "64": "/PNG/64/Wedding/ring-64.png",
-        "48": "/PNG/48/Wedding/ring-48.png"
+        "32": "/PNG/32/Holidays/ring-32.png",
+        "128": "/PNG/128/Holidays/ring-128.png",
+        "26": "/PNG/26/Holidays/ring-26.png",
+        "256": "/PNG/256/Holidays/ring-256.png",
+        "512": "/PNG/512/Holidays/ring-512.png",
+        "64": "/PNG/64/Holidays/ring-64.png",
+        "48": "/PNG/48/Holidays/ring-48.png"
       }
     }
   },
@@ -54512,15 +53922,15 @@
     "files": {
       "svg": "/SVG/Gaming/rock.svg",
       "svg.simplified": "/SVG_for_Font/Nature/rock.svg",
-      "eps": "/EPS/Nature/rock.eps",
+      "eps": "/EPS/Gaming/rock.eps",
       "png": {
-        "32": "/PNG/32/Nature/rock-32.png",
-        "128": "/PNG/128/Nature/rock-128.png",
-        "26": "/PNG/26/Nature/rock-26.png",
-        "256": "/PNG/256/Nature/rock-256.png",
-        "512": "/PNG/512/Nature/rock-512.png",
-        "64": "/PNG/64/Nature/rock-64.png",
-        "48": "/PNG/48/Nature/rock-48.png"
+        "32": "/PNG/32/Gaming/rock-32.png",
+        "128": "/PNG/128/Gaming/rock-128.png",
+        "26": "/PNG/26/Gaming/rock-26.png",
+        "256": "/PNG/256/Gaming/rock-256.png",
+        "512": "/PNG/512/Gaming/rock-512.png",
+        "64": "/PNG/64/Gaming/rock-64.png",
+        "48": "/PNG/48/Gaming/rock-48.png"
       }
     }
   },
@@ -54693,77 +54103,6 @@
         "512": "/PNG/512/Household/room-512.png",
         "64": "/PNG/64/Household/room-64.png",
         "48": "/PNG/48/Household/room-48.png"
-      }
-    }
-  },
-  {
-    "id": 3462,
-    "name": "rooster",
-    "platform": "Windows 8/Metro",
-    "category": "Astrology",
-    "created": 1393318286,
-    "tags": [
-      "design",
-      "clock",
-      "alarm",
-      "ring",
-      "morning",
-      "animal",
-      "time",
-      "symbol",
-      "gold",
-      "agriculture",
-      "illustration",
-      "sign",
-      "head",
-      "bird",
-      "bell",
-      "sleep",
-      "white",
-      "one",
-      "nature",
-      "natural",
-      "feather",
-      "early",
-      "beautiful",
-      "old",
-      "isolated",
-      "cartoon",
-      "standing",
-      "cute",
-      "male",
-      "studio",
-      "red",
-      "chicken",
-      "portrait",
-      "background",
-      "reminder",
-      "artwork",
-      "farm",
-      "domestic",
-      "brown",
-      "crest",
-      "mammal",
-      "rural",
-      "rooster",
-      "cock",
-      "cock-a-doodle-doo",
-      "fowl",
-      "poultry",
-      "waking"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Astrology/rooster.svg",
-      "eps": "/EPS/Astrology/rooster.eps",
-      "png": {
-        "32": "/PNG/32/Astrology/rooster-32.png",
-        "128": "/PNG/128/Astrology/rooster-128.png",
-        "26": "/PNG/26/Astrology/rooster-26.png",
-        "256": "/PNG/256/Astrology/rooster-256.png",
-        "512": "/PNG/512/Astrology/rooster-512.png",
-        "64": "/PNG/64/Astrology/rooster-64.png",
-        "48": "/PNG/48/Astrology/rooster-48.png"
       }
     }
   },
@@ -55373,15 +54712,15 @@
     "files": {
       "svg": "/SVG/Animals/running_rabbit.svg",
       "svg.simplified": "/SVG_for_Font/Nature/running_rabbit.svg",
-      "eps": "/EPS/Nature/running_rabbit.eps",
+      "eps": "/EPS/Animals/running_rabbit.eps",
       "png": {
-        "32": "/PNG/32/Nature/running_rabbit-32.png",
-        "128": "/PNG/128/Nature/running_rabbit-128.png",
-        "26": "/PNG/26/Nature/running_rabbit-26.png",
-        "256": "/PNG/256/Nature/running_rabbit-256.png",
-        "512": "/PNG/512/Nature/running_rabbit-512.png",
-        "64": "/PNG/64/Nature/running_rabbit-64.png",
-        "48": "/PNG/48/Nature/running_rabbit-48.png"
+        "32": "/PNG/32/Animals/running_rabbit-32.png",
+        "128": "/PNG/128/Animals/running_rabbit-128.png",
+        "26": "/PNG/26/Animals/running_rabbit-26.png",
+        "256": "/PNG/256/Animals/running_rabbit-256.png",
+        "512": "/PNG/512/Animals/running_rabbit-512.png",
+        "64": "/PNG/64/Animals/running_rabbit-64.png",
+        "48": "/PNG/48/Animals/running_rabbit-48.png"
       }
     }
   },
@@ -55827,7 +55166,7 @@
         "256": "/PNG/256/Holidays/santa-256.png",
         "512": "/PNG/512/Holidays/santa-512.png",
         "64": "/PNG/64/Holidays/santa-64.png",
-        "48": "/PNG/48/Christmas/santa-48.png"
+        "48": "/PNG/48/Holidays/santa-48.png"
       }
     }
   },
@@ -56071,15 +55410,15 @@
     "files": {
       "svg": "/SVG/Science/scale.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/scale.svg",
-      "eps": "/EPS/Measurement_Units/scale.eps",
+      "eps": "/EPS/Science/scale.eps",
       "png": {
-        "32": "/PNG/32/Measurement_Units/scale-32.png",
-        "128": "/PNG/128/Measurement_Units/scale-128.png",
-        "26": "/PNG/26/Measurement_Units/scale-26.png",
-        "256": "/PNG/256/Measurement_Units/scale-256.png",
-        "512": "/PNG/512/Measurement_Units/scale-512.png",
-        "64": "/PNG/64/Measurement_Units/scale-64.png",
-        "48": "/PNG/48/Measurement_Units/scale-48.png"
+        "32": "/PNG/32/Science/scale-32.png",
+        "128": "/PNG/128/Science/scale-128.png",
+        "26": "/PNG/26/Science/scale-26.png",
+        "256": "/PNG/256/Science/scale-256.png",
+        "512": "/PNG/512/Science/scale-512.png",
+        "64": "/PNG/64/Science/scale-64.png",
+        "48": "/PNG/48/Science/scale-48.png"
       }
     }
   },
@@ -56098,15 +55437,15 @@
     "files": {
       "svg": "/SVG/Science/scales.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/scales.svg",
-      "eps": "/EPS/Measurement_Units/scales.eps",
+      "eps": "/EPS/Science/scales.eps",
       "png": {
-        "32": "/PNG/32/Measurement_Units/scales-32.png",
-        "128": "/PNG/128/Measurement_Units/scales-128.png",
-        "26": "/PNG/26/Measurement_Units/scales-26.png",
-        "256": "/PNG/256/Measurement_Units/scales-256.png",
-        "512": "/PNG/512/Measurement_Units/scales-512.png",
-        "64": "/PNG/64/Measurement_Units/scales-64.png",
-        "48": "/PNG/48/Measurement_Units/scales-48.png"
+        "32": "/PNG/32/Science/scales-32.png",
+        "128": "/PNG/128/Science/scales-128.png",
+        "26": "/PNG/26/Science/scales-26.png",
+        "256": "/PNG/256/Science/scales-256.png",
+        "512": "/PNG/512/Science/scales-512.png",
+        "64": "/PNG/64/Science/scales-64.png",
+        "48": "/PNG/48/Science/scales-48.png"
       }
     }
   },
@@ -56793,15 +56132,15 @@
     "files": {
       "svg": "/SVG/Animals/seahorse.svg",
       "svg.simplified": "/SVG_for_Font/Nature/seahorse.svg",
-      "eps": "/EPS/Nature/seahorse.eps",
+      "eps": "/EPS/Animals/seahorse.eps",
       "png": {
-        "32": "/PNG/32/Nature/seahorse-32.png",
-        "128": "/PNG/128/Nature/seahorse-128.png",
-        "26": "/PNG/26/Nature/seahorse-26.png",
-        "256": "/PNG/256/Nature/seahorse-256.png",
-        "512": "/PNG/512/Nature/seahorse-512.png",
-        "64": "/PNG/64/Nature/seahorse-64.png",
-        "48": "/PNG/48/Nature/seahorse-48.png"
+        "32": "/PNG/32/Animals/seahorse-32.png",
+        "128": "/PNG/128/Animals/seahorse-128.png",
+        "26": "/PNG/26/Animals/seahorse-26.png",
+        "256": "/PNG/256/Animals/seahorse-256.png",
+        "512": "/PNG/512/Animals/seahorse-512.png",
+        "64": "/PNG/64/Animals/seahorse-64.png",
+        "48": "/PNG/48/Animals/seahorse-48.png"
       }
     }
   },
@@ -56861,15 +56200,15 @@
     "files": {
       "svg": "/SVG/Animals/sea_waves.svg",
       "svg.simplified": "/SVG_for_Font/Nature/sea_waves.svg",
-      "eps": "/EPS/Nature/sea_waves.eps",
+      "eps": "/EPS/Animals/sea_waves.eps",
       "png": {
-        "32": "/PNG/32/Nature/sea_waves-32.png",
-        "128": "/PNG/128/Nature/sea_waves-128.png",
-        "26": "/PNG/26/Nature/sea_waves-26.png",
-        "256": "/PNG/256/Nature/sea_waves-256.png",
-        "512": "/PNG/512/Nature/sea_waves-512.png",
-        "64": "/PNG/64/Nature/sea_waves-64.png",
-        "48": "/PNG/48/Nature/sea_waves-48.png"
+        "32": "/PNG/32/Animals/sea_waves-32.png",
+        "128": "/PNG/128/Animals/sea_waves-128.png",
+        "26": "/PNG/26/Animals/sea_waves-26.png",
+        "256": "/PNG/256/Animals/sea_waves-256.png",
+        "512": "/PNG/512/Animals/sea_waves-512.png",
+        "64": "/PNG/64/Animals/sea_waves-64.png",
+        "48": "/PNG/48/Animals/sea_waves-48.png"
       }
     }
   },
@@ -57531,6 +56870,7 @@
       "internet",
       "document",
       "symbol",
+      "signal",
       "media",
       "graphic",
       "sign",
@@ -57565,8 +56905,7 @@
       "neutron",
       "recovery",
       "blog",
-      "net",
-      "inte"
+      "n"
     ],
     "copyright": false,
     "files": {
@@ -57641,15 +56980,15 @@
     "files": {
       "svg": "/SVG/Animals/shark.svg",
       "svg.simplified": "/SVG_for_Font/Nature/shark.svg",
-      "eps": "/EPS/Nature/shark.eps",
+      "eps": "/EPS/Animals/shark.eps",
       "png": {
-        "32": "/PNG/32/Nature/shark-32.png",
-        "128": "/PNG/128/Nature/shark-128.png",
-        "26": "/PNG/26/Nature/shark-26.png",
-        "256": "/PNG/256/Nature/shark-256.png",
-        "512": "/PNG/512/Nature/shark-512.png",
-        "64": "/PNG/64/Nature/shark-64.png",
-        "48": "/PNG/48/Nature/shark-48.png"
+        "32": "/PNG/32/Animals/shark-32.png",
+        "128": "/PNG/128/Animals/shark-128.png",
+        "26": "/PNG/26/Animals/shark-26.png",
+        "256": "/PNG/256/Animals/shark-256.png",
+        "512": "/PNG/512/Animals/shark-512.png",
+        "64": "/PNG/64/Animals/shark-64.png",
+        "48": "/PNG/48/Animals/shark-48.png"
       }
     }
   },
@@ -57668,15 +57007,15 @@
     "files": {
       "svg": "/SVG/Animals/sheep.svg",
       "svg.simplified": "/SVG_for_Font/Nature/sheep.svg",
-      "eps": "/EPS/Nature/sheep.eps",
+      "eps": "/EPS/Animals/sheep.eps",
       "png": {
-        "32": "/PNG/32/Nature/sheep-32.png",
-        "128": "/PNG/128/Nature/sheep-128.png",
-        "26": "/PNG/26/Nature/sheep-26.png",
-        "256": "/PNG/256/Nature/sheep-256.png",
-        "512": "/PNG/512/Nature/sheep-512.png",
-        "64": "/PNG/64/Nature/sheep-64.png",
-        "48": "/PNG/48/Nature/sheep-48.png"
+        "32": "/PNG/32/Animals/sheep-32.png",
+        "128": "/PNG/128/Animals/sheep-128.png",
+        "26": "/PNG/26/Animals/sheep-26.png",
+        "256": "/PNG/256/Animals/sheep-256.png",
+        "512": "/PNG/512/Animals/sheep-512.png",
+        "64": "/PNG/64/Animals/sheep-64.png",
+        "48": "/PNG/48/Animals/sheep-48.png"
       }
     }
   },
@@ -57700,15 +57039,15 @@
     "files": {
       "svg": "/SVG/Animals/sheep2.svg",
       "svg.simplified": "/SVG_for_Font/Nature/sheep2.svg",
-      "eps": "/EPS/Nature/sheep2.eps",
+      "eps": "/EPS/Animals/sheep2.eps",
       "png": {
-        "32": "/PNG/32/Nature/sheep2-32.png",
-        "128": "/PNG/128/Nature/sheep2-128.png",
-        "26": "/PNG/26/Nature/sheep2-26.png",
-        "256": "/PNG/256/Nature/sheep2-256.png",
-        "512": "/PNG/512/Nature/sheep2-512.png",
-        "64": "/PNG/64/Nature/sheep2-64.png",
-        "48": "/PNG/48/Nature/sheep2-48.png"
+        "32": "/PNG/32/Animals/sheep2-32.png",
+        "128": "/PNG/128/Animals/sheep2-128.png",
+        "26": "/PNG/26/Animals/sheep2-26.png",
+        "256": "/PNG/256/Animals/sheep2-256.png",
+        "512": "/PNG/512/Animals/sheep2-512.png",
+        "64": "/PNG/64/Animals/sheep2-64.png",
+        "48": "/PNG/48/Animals/sheep2-48.png"
       }
     }
   },
@@ -57732,15 +57071,15 @@
     "files": {
       "svg": "/SVG/Animals/sheep_on_bike.svg",
       "svg.simplified": "/SVG_for_Font/Nature/sheep_on_bike.svg",
-      "eps": "/EPS/Nature/sheep_on_bike.eps",
+      "eps": "/EPS/Animals/sheep_on_bike.eps",
       "png": {
-        "32": "/PNG/32/Nature/sheep_on_bike-32.png",
-        "128": "/PNG/128/Nature/sheep_on_bike-128.png",
-        "26": "/PNG/26/Nature/sheep_on_bike-26.png",
-        "256": "/PNG/256/Nature/sheep_on_bike-256.png",
-        "512": "/PNG/512/Nature/sheep_on_bike-512.png",
-        "64": "/PNG/64/Nature/sheep_on_bike-64.png",
-        "48": "/PNG/48/Nature/sheep_on_bike-48.png"
+        "32": "/PNG/32/Animals/sheep_on_bike-32.png",
+        "128": "/PNG/128/Animals/sheep_on_bike-128.png",
+        "26": "/PNG/26/Animals/sheep_on_bike-26.png",
+        "256": "/PNG/256/Animals/sheep_on_bike-256.png",
+        "512": "/PNG/512/Animals/sheep_on_bike-512.png",
+        "64": "/PNG/64/Animals/sheep_on_bike-64.png",
+        "48": "/PNG/48/Animals/sheep_on_bike-48.png"
       }
     }
   },
@@ -58159,14 +57498,10 @@
     "category": "Ecommerce",
     "created": 1394153483,
     "tags": [
-      "smartphone",
       "shopping",
       "buy",
-      "loan",
       "cart",
-      "next",
       "shop",
-      "hat",
       "open",
       "supermarket",
       "checkout"
@@ -59709,6 +59044,7 @@
       "camera",
       "slr",
       "slr camera",
+      "bar",
       "ads"
     ],
     "copyright": false,
@@ -59878,14 +59214,14 @@
     "files": {
       "svg": "/SVG/Animals/slug.svg",
       "svg.simplified": "/SVG_for_Font/Nature/slug.svg",
-      "eps": "/EPS/Nature/slug.eps",
+      "eps": "/EPS/Animals/slug.eps",
       "png": {
-        "32": "/PNG/32/Nature/slug-32.png",
-        "128": "/PNG/128/Nature/slug-128.png",
-        "26": "/PNG/26/Nature/slug-26.png",
-        "256": "/PNG/256/Nature/slug-256.png",
-        "512": "/PNG/512/Nature/slug-512.png",
-        "64": "/PNG/64/Nature/slug-64.png"
+        "32": "/PNG/32/Animals/slug-32.png",
+        "128": "/PNG/128/Animals/slug-128.png",
+        "26": "/PNG/26/Animals/slug-26.png",
+        "256": "/PNG/256/Animals/slug-256.png",
+        "512": "/PNG/512/Animals/slug-512.png",
+        "64": "/PNG/64/Animals/slug-64.png"
       }
     }
   },
@@ -60199,83 +59535,14 @@
     "files": {
       "svg": "/SVG/Animals/snail.svg",
       "svg.simplified": "/SVG_for_Font/Nature/snail.svg",
-      "eps": "/EPS/Nature/snail.eps",
+      "eps": "/EPS/Animals/snail.eps",
       "png": {
-        "32": "/PNG/32/Nature/snail-32.png",
-        "128": "/PNG/128/Nature/snail-128.png",
-        "26": "/PNG/26/Nature/snail-26.png",
-        "256": "/PNG/256/Nature/snail-256.png",
-        "512": "/PNG/512/Nature/snail-512.png",
-        "64": "/PNG/64/Nature/snail-64.png"
-      }
-    }
-  },
-  {
-    "id": 3450,
-    "name": "snake",
-    "platform": "Windows 8/Metro",
-    "category": "Astrology",
-    "created": 1392886277,
-    "tags": [
-      "design",
-      "calendar",
-      "year",
-      "animal",
-      "print",
-      "collection",
-      "expression",
-      "symbol",
-      "happy",
-      "image",
-      "illustration",
-      "graphic",
-      "sign",
-      "head",
-      "black",
-      "young",
-      "white",
-      "icon",
-      "wild",
-      "outdoors",
-      "paint",
-      "art",
-      "emblem",
-      "funny",
-      "eyes",
-      "predator",
-      "danger",
-      "isolated",
-      "abstract",
-      "character",
-      "cartoon",
-      "cute",
-      "dangerous",
-      "elements",
-      "python",
-      "tattoo",
-      "looking",
-      "vector icons",
-      "avatar",
-      "silhouette",
-      "background",
-      "loop",
-      "pattern",
-      "snake",
-      "wildlife",
-      "to"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Astrology/snake.svg",
-      "eps": "/EPS/Astrology/snake.eps",
-      "png": {
-        "32": "/PNG/32/Astrology/snake-32.png",
-        "128": "/PNG/128/Astrology/snake-128.png",
-        "26": "/PNG/26/Astrology/snake-26.png",
-        "256": "/PNG/256/Astrology/snake-256.png",
-        "512": "/PNG/512/Astrology/snake-512.png",
-        "64": "/PNG/64/Astrology/snake-64.png",
-        "48": "/PNG/48/Astrology/snake-48.png"
+        "32": "/PNG/32/Animals/snail-32.png",
+        "128": "/PNG/128/Animals/snail-128.png",
+        "26": "/PNG/26/Animals/snail-26.png",
+        "256": "/PNG/256/Animals/snail-256.png",
+        "512": "/PNG/512/Animals/snail-512.png",
+        "64": "/PNG/64/Animals/snail-64.png"
       }
     }
   },
@@ -60749,15 +60016,15 @@
     "files": {
       "svg": "/SVG/Plants/soy.svg",
       "svg.simplified": "/SVG_for_Font/Nature/soy.svg",
-      "eps": "/EPS/Nature/soy.eps",
+      "eps": "/EPS/Plants/soy.eps",
       "png": {
-        "32": "/PNG/32/Nature/soy-32.png",
-        "128": "/PNG/128/Nature/soy-128.png",
-        "26": "/PNG/26/Nature/soy-26.png",
-        "256": "/PNG/256/Nature/soy-256.png",
-        "512": "/PNG/512/Nature/soy-512.png",
-        "64": "/PNG/64/Nature/soy-64.png",
-        "48": "/PNG/48/Nature/soy-48.png"
+        "32": "/PNG/32/Plants/soy-32.png",
+        "128": "/PNG/128/Plants/soy-128.png",
+        "26": "/PNG/26/Plants/soy-26.png",
+        "256": "/PNG/256/Plants/soy-256.png",
+        "512": "/PNG/512/Plants/soy-512.png",
+        "64": "/PNG/64/Plants/soy-64.png",
+        "48": "/PNG/48/Plants/soy-48.png"
       }
     }
   },
@@ -60968,15 +60235,15 @@
     "files": {
       "svg": "/SVG/Science/speed.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/speed.svg",
-      "eps": "/EPS/Measurement_Units/speed.eps",
+      "eps": "/EPS/Science/speed.eps",
       "png": {
-        "32": "/PNG/32/Measurement_Units/speed-32.png",
-        "128": "/PNG/128/Measurement_Units/speed-128.png",
-        "26": "/PNG/26/Measurement_Units/speed-26.png",
-        "256": "/PNG/256/Measurement_Units/speed-256.png",
-        "512": "/PNG/512/Measurement_Units/speed-512.png",
-        "64": "/PNG/64/Measurement_Units/speed-64.png",
-        "48": "/PNG/48/Measurement_Units/speed-48.png"
+        "32": "/PNG/32/Science/speed-32.png",
+        "128": "/PNG/128/Science/speed-128.png",
+        "26": "/PNG/26/Science/speed-26.png",
+        "256": "/PNG/256/Science/speed-256.png",
+        "512": "/PNG/512/Science/speed-512.png",
+        "64": "/PNG/64/Science/speed-64.png",
+        "48": "/PNG/48/Science/speed-48.png"
       }
     }
   },
@@ -61060,7 +60327,7 @@
         "256": "/PNG/256/Holidays/spider-256.png",
         "512": "/PNG/512/Holidays/spider-512.png",
         "64": "/PNG/64/Holidays/spider-64.png",
-        "48": "/PNG/48/Halloween/spider-48.png"
+        "48": "/PNG/48/Holidays/spider-48.png"
       }
     }
   },
@@ -61178,7 +60445,7 @@
         "256": "/PNG/256/Holidays/spiderweb-256.png",
         "512": "/PNG/512/Holidays/spiderweb-512.png",
         "64": "/PNG/64/Holidays/spiderweb-64.png",
-        "48": "/PNG/48/Halloween/spiderweb-48.png"
+        "48": "/PNG/48/Holidays/spiderweb-48.png"
       }
     }
   },
@@ -62014,15 +61281,15 @@
     "files": {
       "svg": "/SVG/Animals/starfish.svg",
       "svg.simplified": "/SVG_for_Font/Nature/starfish.svg",
-      "eps": "/EPS/Nature/starfish.eps",
+      "eps": "/EPS/Animals/starfish.eps",
       "png": {
-        "32": "/PNG/32/Nature/starfish-32.png",
-        "128": "/PNG/128/Nature/starfish-128.png",
-        "26": "/PNG/26/Nature/starfish-26.png",
-        "256": "/PNG/256/Nature/starfish-256.png",
-        "512": "/PNG/512/Nature/starfish-512.png",
-        "64": "/PNG/64/Nature/starfish-64.png",
-        "48": "/PNG/48/Nature/starfish-48.png"
+        "32": "/PNG/32/Animals/starfish-32.png",
+        "128": "/PNG/128/Animals/starfish-128.png",
+        "26": "/PNG/26/Animals/starfish-26.png",
+        "256": "/PNG/256/Animals/starfish-256.png",
+        "512": "/PNG/512/Animals/starfish-512.png",
+        "64": "/PNG/64/Animals/starfish-64.png",
+        "48": "/PNG/48/Animals/starfish-48.png"
       }
     }
   },
@@ -63269,15 +62536,15 @@
     "files": {
       "svg": "/SVG/Science/surface.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/surface.svg",
-      "eps": "/EPS/Measurement_Units/surface.eps",
+      "eps": "/EPS/Science/surface.eps",
       "png": {
-        "32": "/PNG/32/Measurement_Units/surface-32.png",
-        "128": "/PNG/128/Measurement_Units/surface-128.png",
-        "26": "/PNG/26/Measurement_Units/surface-26.png",
-        "256": "/PNG/256/Measurement_Units/surface-256.png",
-        "512": "/PNG/512/Measurement_Units/surface-512.png",
-        "64": "/PNG/64/Measurement_Units/surface-64.png",
-        "48": "/PNG/48/Measurement_Units/surface-48.png"
+        "32": "/PNG/32/Science/surface-32.png",
+        "128": "/PNG/128/Science/surface-128.png",
+        "26": "/PNG/26/Science/surface-26.png",
+        "256": "/PNG/256/Science/surface-256.png",
+        "512": "/PNG/512/Science/surface-512.png",
+        "64": "/PNG/64/Science/surface-64.png",
+        "48": "/PNG/48/Science/surface-48.png"
       }
     }
   },
@@ -65005,15 +64272,15 @@
     "files": {
       "svg": "/SVG/Science/temperature.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/temperature.svg",
-      "eps": "/EPS/Measurement_Units/temperature.eps",
+      "eps": "/EPS/Science/temperature.eps",
       "png": {
-        "32": "/PNG/32/Measurement_Units/temperature-32.png",
-        "128": "/PNG/128/Measurement_Units/temperature-128.png",
-        "26": "/PNG/26/Measurement_Units/temperature-26.png",
-        "256": "/PNG/256/Measurement_Units/temperature-256.png",
-        "512": "/PNG/512/Measurement_Units/temperature-512.png",
-        "64": "/PNG/64/Measurement_Units/temperature-64.png",
-        "48": "/PNG/48/Measurement_Units/temperature-48.png"
+        "32": "/PNG/32/Science/temperature-32.png",
+        "128": "/PNG/128/Science/temperature-128.png",
+        "26": "/PNG/26/Science/temperature-26.png",
+        "256": "/PNG/256/Science/temperature-256.png",
+        "512": "/PNG/512/Science/temperature-512.png",
+        "64": "/PNG/64/Science/temperature-64.png",
+        "48": "/PNG/48/Science/temperature-48.png"
       }
     }
   },
@@ -65832,64 +65099,6 @@
     }
   },
   {
-    "id": 3440,
-    "name": "tiger",
-    "platform": "Windows 8/Metro",
-    "category": "Astrology",
-    "created": 1392803463,
-    "tags": [
-      "design",
-      "animal",
-      "celebration",
-      "line",
-      "yellow",
-      "graphic",
-      "burn",
-      "head",
-      "power",
-      "wild",
-      "explosion",
-      "leadership",
-      "courage",
-      "flame",
-      "aggression",
-      "painting",
-      "pattern",
-      "fight",
-      "mascot",
-      "canvas",
-      "mammal",
-      "killer",
-      "carnivore",
-      "scratch",
-      "cruel",
-      "tiger",
-      "majesty",
-      "captivity",
-      "scrape",
-      "feline",
-      "digital painting",
-      "zoo",
-      "anger",
-      "roar",
-      "screensaver"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Astrology/tiger.svg",
-      "eps": "/EPS/Astrology/tiger.eps",
-      "png": {
-        "32": "/PNG/32/Astrology/tiger-32.png",
-        "128": "/PNG/128/Astrology/tiger-128.png",
-        "26": "/PNG/26/Astrology/tiger-26.png",
-        "256": "/PNG/256/Astrology/tiger-256.png",
-        "512": "/PNG/512/Astrology/tiger-512.png",
-        "64": "/PNG/64/Astrology/tiger-64.png",
-        "48": "/PNG/48/Astrology/tiger-48.png"
-      }
-    }
-  },
-  {
     "id": 1411,
     "name": "time",
     "platform": "Windows 8/Metro",
@@ -65919,15 +65128,15 @@
     "files": {
       "svg": "/SVG/Science/time.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/time.svg",
-      "eps": "/EPS/Measurement_Units/time.eps",
+      "eps": "/EPS/Science/time.eps",
       "png": {
-        "32": "/PNG/32/Measurement_Units/time-32.png",
-        "128": "/PNG/128/Measurement_Units/time-128.png",
-        "26": "/PNG/26/Measurement_Units/time-26.png",
-        "256": "/PNG/256/Measurement_Units/time-256.png",
-        "512": "/PNG/512/Measurement_Units/time-512.png",
-        "64": "/PNG/64/Measurement_Units/time-64.png",
-        "48": "/PNG/48/Measurement_Units/time-48.png"
+        "32": "/PNG/32/Science/time-32.png",
+        "128": "/PNG/128/Science/time-128.png",
+        "26": "/PNG/26/Science/time-26.png",
+        "256": "/PNG/256/Science/time-256.png",
+        "512": "/PNG/512/Science/time-512.png",
+        "64": "/PNG/64/Science/time-64.png",
+        "48": "/PNG/48/Science/time-48.png"
       }
     }
   },
@@ -67835,15 +67044,15 @@
     "files": {
       "svg": "/SVG/Plants/tomato.svg",
       "svg.simplified": "/SVG_for_Font/Nature/tomato.svg",
-      "eps": "/EPS/Nature/tomato.eps",
+      "eps": "/EPS/Plants/tomato.eps",
       "png": {
-        "32": "/PNG/32/Nature/tomato-32.png",
-        "128": "/PNG/128/Nature/tomato-128.png",
-        "26": "/PNG/26/Nature/tomato-26.png",
-        "256": "/PNG/256/Nature/tomato-256.png",
-        "512": "/PNG/512/Nature/tomato-512.png",
-        "64": "/PNG/64/Nature/tomato-64.png",
-        "48": "/PNG/48/Nature/tomato-48.png"
+        "32": "/PNG/32/Plants/tomato-32.png",
+        "128": "/PNG/128/Plants/tomato-128.png",
+        "26": "/PNG/26/Plants/tomato-26.png",
+        "256": "/PNG/256/Plants/tomato-256.png",
+        "512": "/PNG/512/Plants/tomato-512.png",
+        "64": "/PNG/64/Plants/tomato-64.png",
+        "48": "/PNG/48/Plants/tomato-48.png"
       }
     }
   },
@@ -69382,15 +68591,15 @@
     "files": {
       "svg": "/SVG/Animals/turtle.svg",
       "svg.simplified": "/SVG_for_Font/Nature/turtle.svg",
-      "eps": "/EPS/Nature/turtle.eps",
+      "eps": "/EPS/Animals/turtle.eps",
       "png": {
-        "32": "/PNG/32/Nature/turtle-32.png",
-        "128": "/PNG/128/Nature/turtle-128.png",
-        "26": "/PNG/26/Nature/turtle-26.png",
-        "256": "/PNG/256/Nature/turtle-256.png",
-        "512": "/PNG/512/Nature/turtle-512.png",
-        "64": "/PNG/64/Nature/turtle-64.png",
-        "48": "/PNG/48/Nature/turtle-48.png"
+        "32": "/PNG/32/Animals/turtle-32.png",
+        "128": "/PNG/128/Animals/turtle-128.png",
+        "26": "/PNG/26/Animals/turtle-26.png",
+        "256": "/PNG/256/Animals/turtle-256.png",
+        "512": "/PNG/512/Animals/turtle-512.png",
+        "64": "/PNG/64/Animals/turtle-64.png",
+        "48": "/PNG/48/Animals/turtle-48.png"
       }
     }
   },
@@ -69601,15 +68810,15 @@
     "files": {
       "svg": "/SVG/Holidays/two_hearts.svg",
       "svg.simplified": "/SVG_for_Font/Wedding/two_hearts.svg",
-      "eps": "/EPS/Wedding/two_hearts.eps",
+      "eps": "/EPS/Holidays/two_hearts.eps",
       "png": {
-        "32": "/PNG/32/Wedding/two_hearts-32.png",
-        "128": "/PNG/128/Wedding/two_hearts-128.png",
-        "26": "/PNG/26/Wedding/two_hearts-26.png",
-        "256": "/PNG/256/Wedding/two_hearts-256.png",
-        "512": "/PNG/512/Wedding/two_hearts-512.png",
-        "64": "/PNG/64/Wedding/two_hearts-64.png",
-        "48": "/PNG/48/Wedding/two_hearts-48.png"
+        "32": "/PNG/32/Holidays/two_hearts-32.png",
+        "128": "/PNG/128/Holidays/two_hearts-128.png",
+        "26": "/PNG/26/Holidays/two_hearts-26.png",
+        "256": "/PNG/256/Holidays/two_hearts-256.png",
+        "512": "/PNG/512/Holidays/two_hearts-512.png",
+        "64": "/PNG/64/Holidays/two_hearts-64.png",
+        "48": "/PNG/48/Holidays/two_hearts-48.png"
       }
     }
   },
@@ -70799,7 +70008,7 @@
         "256": "/PNG/256/Holidays/vampire-256.png",
         "512": "/PNG/512/Holidays/vampire-512.png",
         "64": "/PNG/64/Holidays/vampire-64.png",
-        "48": "/PNG/48/Halloween/vampire-48.png"
+        "48": "/PNG/48/Holidays/vampire-48.png"
       }
     }
   },
@@ -72146,15 +71355,15 @@
     "files": {
       "svg": "/SVG/Science/volume.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/volume.svg",
-      "eps": "/EPS/Measurement_Units/volume.eps",
+      "eps": "/EPS/Science/volume.eps",
       "png": {
-        "32": "/PNG/32/Measurement_Units/volume-32.png",
-        "128": "/PNG/128/Measurement_Units/volume-128.png",
-        "26": "/PNG/26/Measurement_Units/volume-26.png",
-        "256": "/PNG/256/Measurement_Units/volume-256.png",
-        "512": "/PNG/512/Measurement_Units/volume-512.png",
-        "64": "/PNG/64/Measurement_Units/volume-64.png",
-        "48": "/PNG/48/Measurement_Units/volume-48.png"
+        "32": "/PNG/32/Science/volume-32.png",
+        "128": "/PNG/128/Science/volume-128.png",
+        "26": "/PNG/26/Science/volume-26.png",
+        "256": "/PNG/256/Science/volume-256.png",
+        "512": "/PNG/512/Science/volume-512.png",
+        "64": "/PNG/64/Science/volume-64.png",
+        "48": "/PNG/48/Science/volume-48.png"
       }
     }
   },
@@ -73638,15 +72847,15 @@
     "files": {
       "svg": "/SVG/Holidays/wedding_cake.svg",
       "svg.simplified": "/SVG_for_Font/Wedding/wedding_cake.svg",
-      "eps": "/EPS/Wedding/wedding_cake.eps",
+      "eps": "/EPS/Holidays/wedding_cake.eps",
       "png": {
-        "32": "/PNG/32/Wedding/wedding_cake-32.png",
-        "128": "/PNG/128/Wedding/wedding_cake-128.png",
-        "26": "/PNG/26/Wedding/wedding_cake-26.png",
-        "256": "/PNG/256/Wedding/wedding_cake-256.png",
-        "512": "/PNG/512/Wedding/wedding_cake-512.png",
-        "64": "/PNG/64/Wedding/wedding_cake-64.png",
-        "48": "/PNG/48/Wedding/wedding_cake-48.png"
+        "32": "/PNG/32/Holidays/wedding_cake-32.png",
+        "128": "/PNG/128/Holidays/wedding_cake-128.png",
+        "26": "/PNG/26/Holidays/wedding_cake-26.png",
+        "256": "/PNG/256/Holidays/wedding_cake-256.png",
+        "512": "/PNG/512/Holidays/wedding_cake-512.png",
+        "64": "/PNG/64/Holidays/wedding_cake-64.png",
+        "48": "/PNG/48/Holidays/wedding_cake-48.png"
       }
     }
   },
@@ -73667,15 +72876,15 @@
     "files": {
       "svg": "/SVG/Holidays/wedding_day.svg",
       "svg.simplified": "/SVG_for_Font/Wedding/wedding_day.svg",
-      "eps": "/EPS/Wedding/wedding_day.eps",
+      "eps": "/EPS/Holidays/wedding_day.eps",
       "png": {
-        "32": "/PNG/32/Wedding/wedding_day-32.png",
-        "128": "/PNG/128/Wedding/wedding_day-128.png",
-        "26": "/PNG/26/Wedding/wedding_day-26.png",
-        "256": "/PNG/256/Wedding/wedding_day-256.png",
-        "512": "/PNG/512/Wedding/wedding_day-512.png",
-        "64": "/PNG/64/Wedding/wedding_day-64.png",
-        "48": "/PNG/48/Wedding/wedding_day-48.png"
+        "32": "/PNG/32/Holidays/wedding_day-32.png",
+        "128": "/PNG/128/Holidays/wedding_day-128.png",
+        "26": "/PNG/26/Holidays/wedding_day-26.png",
+        "256": "/PNG/256/Holidays/wedding_day-256.png",
+        "512": "/PNG/512/Holidays/wedding_day-512.png",
+        "64": "/PNG/64/Holidays/wedding_day-64.png",
+        "48": "/PNG/48/Holidays/wedding_day-48.png"
       }
     }
   },
@@ -73701,15 +72910,15 @@
     "files": {
       "svg": "/SVG/Holidays/wedding_photo.svg",
       "svg.simplified": "/SVG_for_Font/Wedding/wedding_photo.svg",
-      "eps": "/EPS/Wedding/wedding_photo.eps",
+      "eps": "/EPS/Holidays/wedding_photo.eps",
       "png": {
-        "32": "/PNG/32/Wedding/wedding_photo-32.png",
-        "128": "/PNG/128/Wedding/wedding_photo-128.png",
-        "26": "/PNG/26/Wedding/wedding_photo-26.png",
-        "256": "/PNG/256/Wedding/wedding_photo-256.png",
-        "512": "/PNG/512/Wedding/wedding_photo-512.png",
-        "64": "/PNG/64/Wedding/wedding_photo-64.png",
-        "48": "/PNG/48/Wedding/wedding_photo-48.png"
+        "32": "/PNG/32/Holidays/wedding_photo-32.png",
+        "128": "/PNG/128/Holidays/wedding_photo-128.png",
+        "26": "/PNG/26/Holidays/wedding_photo-26.png",
+        "256": "/PNG/256/Holidays/wedding_photo-256.png",
+        "512": "/PNG/512/Holidays/wedding_photo-512.png",
+        "64": "/PNG/64/Holidays/wedding_photo-64.png",
+        "48": "/PNG/48/Holidays/wedding_photo-48.png"
       }
     }
   },
@@ -73729,15 +72938,15 @@
     "files": {
       "svg": "/SVG/Holidays/wedding_rings.svg",
       "svg.simplified": "/SVG_for_Font/Wedding/wedding_rings.svg",
-      "eps": "/EPS/Wedding/wedding_rings.eps",
+      "eps": "/EPS/Holidays/wedding_rings.eps",
       "png": {
-        "32": "/PNG/32/Wedding/wedding_rings-32.png",
-        "128": "/PNG/128/Wedding/wedding_rings-128.png",
-        "26": "/PNG/26/Wedding/wedding_rings-26.png",
-        "256": "/PNG/256/Wedding/wedding_rings-256.png",
-        "512": "/PNG/512/Wedding/wedding_rings-512.png",
-        "64": "/PNG/64/Wedding/wedding_rings-64.png",
-        "48": "/PNG/48/Wedding/wedding_rings-48.png"
+        "32": "/PNG/32/Holidays/wedding_rings-32.png",
+        "128": "/PNG/128/Holidays/wedding_rings-128.png",
+        "26": "/PNG/26/Holidays/wedding_rings-26.png",
+        "256": "/PNG/256/Holidays/wedding_rings-256.png",
+        "512": "/PNG/512/Holidays/wedding_rings-512.png",
+        "64": "/PNG/64/Holidays/wedding_rings-64.png",
+        "48": "/PNG/48/Holidays/wedding_rings-48.png"
       }
     }
   },
@@ -73795,15 +73004,15 @@
     "files": {
       "svg": "/SVG/Science/weght.svg",
       "svg.simplified": "/SVG_for_Font/Measurement_Units/weght.svg",
-      "eps": "/EPS/Measurement_Units/weght.eps",
+      "eps": "/EPS/Science/weght.eps",
       "png": {
-        "32": "/PNG/32/Measurement_Units/weght-32.png",
-        "128": "/PNG/128/Measurement_Units/weght-128.png",
-        "26": "/PNG/26/Measurement_Units/weght-26.png",
-        "256": "/PNG/256/Measurement_Units/weght-256.png",
-        "512": "/PNG/512/Measurement_Units/weght-512.png",
-        "64": "/PNG/64/Measurement_Units/weght-64.png",
-        "48": "/PNG/48/Measurement_Units/weght-48.png"
+        "32": "/PNG/32/Science/weght-32.png",
+        "128": "/PNG/128/Science/weght-128.png",
+        "26": "/PNG/26/Science/weght-26.png",
+        "256": "/PNG/256/Science/weght-256.png",
+        "512": "/PNG/512/Science/weght-512.png",
+        "64": "/PNG/64/Science/weght-64.png",
+        "48": "/PNG/48/Science/weght-48.png"
       }
     }
   },
@@ -73919,7 +73128,7 @@
         "256": "/PNG/256/Holidays/werewolf-256.png",
         "512": "/PNG/512/Holidays/werewolf-512.png",
         "64": "/PNG/64/Holidays/werewolf-64.png",
-        "48": "/PNG/48/Halloween/werewolf-48.png"
+        "48": "/PNG/48/Holidays/werewolf-48.png"
       }
     }
   },
@@ -74100,15 +73309,15 @@
     "files": {
       "svg": "/SVG/Plants/wheat.svg",
       "svg.simplified": "/SVG_for_Font/Nature/wheat.svg",
-      "eps": "/EPS/Nature/wheat.eps",
+      "eps": "/EPS/Plants/wheat.eps",
       "png": {
-        "32": "/PNG/32/Nature/wheat-32.png",
-        "128": "/PNG/128/Nature/wheat-128.png",
-        "26": "/PNG/26/Nature/wheat-26.png",
-        "256": "/PNG/256/Nature/wheat-256.png",
-        "512": "/PNG/512/Nature/wheat-512.png",
-        "64": "/PNG/64/Nature/wheat-64.png",
-        "48": "/PNG/48/Nature/wheat-48.png"
+        "32": "/PNG/32/Plants/wheat-32.png",
+        "128": "/PNG/128/Plants/wheat-128.png",
+        "26": "/PNG/26/Plants/wheat-26.png",
+        "256": "/PNG/256/Plants/wheat-256.png",
+        "512": "/PNG/512/Plants/wheat-512.png",
+        "64": "/PNG/64/Plants/wheat-64.png",
+        "48": "/PNG/48/Plants/wheat-48.png"
       }
     }
   },
@@ -74472,17 +73681,17 @@
     "category": "Operating Systems",
     "created": 1340263836,
     "tags": [
-      "windows",
-      "microsoft",
       "web",
-      "operating system",
-      "os",
       "tablet",
       "logo",
       "icon",
-      "so so",
-      "windows 8",
-      "bill gates"
+      "logotype",
+      "windows 8 1",
+      "windows",
+      "microsoft",
+      "operating system",
+      "os",
+      "windows 8"
     ],
     "copyright": true,
     "files": {
@@ -74974,7 +74183,7 @@
         "256": "/PNG/256/Holidays/witch-256.png",
         "512": "/PNG/512/Holidays/witch-512.png",
         "64": "/PNG/64/Holidays/witch-64.png",
-        "48": "/PNG/48/Halloween/witch-48.png"
+        "48": "/PNG/48/Holidays/witch-48.png"
       }
     }
   },
@@ -75000,7 +74209,7 @@
         "256": "/PNG/256/Holidays/wizard-256.png",
         "512": "/PNG/512/Holidays/wizard-512.png",
         "64": "/PNG/64/Holidays/wizard-64.png",
-        "48": "/PNG/48/Halloween/wizard-48.png"
+        "48": "/PNG/48/Holidays/wizard-48.png"
       }
     }
   },
@@ -76352,7 +75561,7 @@
         "256": "/PNG/256/Holidays/zombie-256.png",
         "512": "/PNG/512/Holidays/zombie-512.png",
         "64": "/PNG/64/Holidays/zombie-64.png",
-        "48": "/PNG/48/Halloween/zombie-48.png"
+        "48": "/PNG/48/Holidays/zombie-48.png"
       }
     }
   },

@@ -20000,26 +20000,14 @@
     "created": 1391770248,
     "tags": [
       "find",
-      "control",
-      "favorite",
       "search",
-      "replace",
-      "loupe",
       "detect",
-      "detective",
       "scan",
       "magnify",
       "magnified",
       "zoom",
       "zoom in",
-      "zoom out",
-      "rating",
-      "car",
-      "scale",
-      "nail",
-      "finder",
-      "Platform Administration",
-      "weld"
+      "finder"
     ],
     "copyright": false,
     "files": {
@@ -23261,6 +23249,7 @@
     "category": "Measurement Units",
     "created": 1397249506,
     "tags": [
+      "stopwatch",
       "24"
     ],
     "copyright": false,
