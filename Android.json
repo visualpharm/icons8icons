@@ -8796,7 +8796,7 @@
     "id": 3207,
     "name": "garage",
     "platform": "Android",
-    "category": "Transport",
+    "category": "Household",
     "created": 1391770248,
     "tags": [
       "window",
@@ -8842,7 +8842,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Transport/garage.svg",
+      "svg": "/SVG/Household/garage.svg",
       "eps": "/EPS/Transport/garage.eps",
       "png": {
         "32": "/PNG/32/Transport/garage-32.png",
@@ -11974,7 +11974,6 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-      "user",
       "key",
       "person",
       "accounts"
