@@ -280,8 +280,7 @@
       "frames",
       "picture frame",
       "paintings",
-      "photography",
-      "painted image"
+      "photography"
     ],
     "copyright": false,
     "files": {
@@ -2715,16 +2714,18 @@
       "appointment",
       "past",
       "organization",
-      "block",
-      "schedule",
       "holiday",
+      "task",
+      "future",
+      "occasion",
+      "agenda",
+      "ical",
+      "gtd",
+      "time management",
+      "schedule",
       "week",
       "event",
       "plan",
-      "task",
-      "management",
-      "future",
-      "occasion",
       "day"
     ],
     "copyright": false,
@@ -12821,13 +12822,17 @@
       "ticker",
       "favorite",
       "favourite",
-      "heart",
-      "heart beat",
       "anatomy",
       "love",
       "couple",
       "together",
-      "dating"
+      "dating",
+      "life",
+      "hearbeat",
+      "hartbleed",
+      "alive",
+      "heart",
+      "heart beat"
     ],
     "copyright": false,
     "files": {
@@ -16499,6 +16504,8 @@
       "image",
       "illustration",
       "photo",
+      "JPG",
+      "JPEG",
       "art",
       "gallery",
       "lifestyle",
@@ -16507,7 +16514,8 @@
       "multimedia",
       "landscape",
       "painting",
-      "graphic object"
+      "graphic object",
+      "photo frame"
     ],
     "copyright": false,
     "files": {
@@ -18023,14 +18031,19 @@
     "tags": [
       "mark",
       "box",
-      "star",
       "achievements",
       "rating",
       "symbols",
-      "score",
-      "checkbox",
       "rate",
-      "qww"
+      "medal",
+      "evaluation",
+      "hero",
+      "qww",
+      "evaluate",
+      "favorite",
+      "star",
+      "starred",
+      "score"
     ],
     "copyright": false,
     "files": {
@@ -20603,12 +20616,15 @@
     "tags": [
       "delivery",
       "user",
+      "search",
       "pay",
       "cashier",
       "product",
       "fill",
       "checkout",
-      "arow"
+      "arow",
+      "calculadora",
+      "consulta"
     ],
     "copyright": false,
     "files": {
@@ -21016,7 +21032,8 @@
       "spin",
       "repeat",
       "cycle",
-      "reuse"
+      "reuse",
+      "reload"
     ],
     "copyright": false,
     "files": {
@@ -22475,7 +22492,12 @@
     "category": "Transport",
     "created": 1391770248,
     "tags": [
-
+      "transport",
+      "car",
+      "vehicle",
+      "4x4",
+      "all road",
+      "suv"
     ],
     "copyright": false,
     "files": {
