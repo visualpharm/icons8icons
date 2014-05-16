@@ -1525,6 +1525,8 @@
     "category": "Files",
     "created": 1325248441,
     "tags": [
+      "add",
+      "new",
       "plus",
       "list",
       "add list",
@@ -35510,7 +35512,8 @@
     "tags": [
       "home",
       "light",
-      "living room"
+      "living room",
+      "teeth"
     ],
     "copyright": false,
     "files": {
@@ -38602,7 +38605,6 @@
       "maps",
       "signage",
       "symbols",
-      "location",
       "travel",
       "point",
       "follow",
@@ -56790,6 +56792,7 @@
     "created": 1327313615,
     "tags": [
       "admin",
+      "data",
       "search",
       "item",
       "services",
@@ -61317,8 +61320,7 @@
       "element",
       "bright",
       "shiny",
-      "painting",
-      "geometric"
+      "painting"
     ],
     "copyright": false,
     "files": {
@@ -70742,7 +70744,6 @@
     "category": "Business",
     "created": 1327576749,
     "tags": [
-      "office",
       "light",
       "screen",
       "laptop",
