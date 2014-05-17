@@ -67704,7 +67704,8 @@
       "lines",
       "passengers",
       "riders",
-      "streetcar"
+      "streetcar",
+      "beacon"
     ],
     "copyright": false,
     "files": {
