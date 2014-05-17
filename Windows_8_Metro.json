@@ -2909,6 +2909,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/ancore.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/ancore.svg",
       "eps": "/EPS/Transport/ancore.eps",
       "png": {
         "32": "/PNG/32/Transport/ancore-32.png",
@@ -5485,6 +5486,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/barley.svg",
+      "svg.simplified": "/SVG_for_Font/Plants/barley.svg",
       "eps": "/EPS/Plants/barley.eps",
       "png": {
         "32": "/PNG/32/Plants/barley-32.png",
@@ -6735,6 +6737,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/berry.svg",
+      "svg.simplified": "/SVG_for_Font/Plants/berry.svg",
       "eps": "/EPS/Plants/berry.eps",
       "png": {
         "32": "/PNG/32/Plants/berry-32.png",
@@ -9628,6 +9631,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/caliper.svg",
+      "svg.simplified": "/SVG_for_Font/Science/caliper.svg",
       "eps": "/EPS/Science/caliper.eps",
       "png": {
         "32": "/PNG/32/Science/caliper-32.png",
@@ -13137,6 +13141,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/citrus.svg",
+      "svg.simplified": "/SVG_for_Font/Plants/citrus.svg",
       "eps": "/EPS/Plants/citrus.eps",
       "png": {
         "32": "/PNG/32/Plants/citrus-32.png",
@@ -15342,6 +15347,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/coniferous_tree.svg",
+      "svg.simplified": "/SVG_for_Font/Plants/coniferous_tree.svg",
       "eps": "/EPS/Plants/coniferous_tree.eps",
       "png": {
         "32": "/PNG/32/Plants/coniferous_tree-32.png",
@@ -17908,6 +17914,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/deciduous_tree.svg",
+      "svg.simplified": "/SVG_for_Font/Plants/deciduous_tree.svg",
       "eps": "/EPS/Plants/deciduous_tree.eps",
       "png": {
         "32": "/PNG/32/Plants/deciduous_tree-32.png",
@@ -18043,6 +18050,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/degrees.svg",
+      "svg.simplified": "/SVG_for_Font/Science/degrees.svg",
       "eps": "/EPS/Science/degrees.eps",
       "png": {
         "32": "/PNG/32/Science/degrees-32.png",
@@ -25351,6 +25359,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/flower.svg",
+      "svg.simplified": "/SVG_for_Font/Plants/flower.svg",
       "eps": "/EPS/Plants/flower.eps",
       "png": {
         "32": "/PNG/32/Plants/flower-32.png",
@@ -29179,6 +29188,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/grapes.svg",
+      "svg.simplified": "/SVG_for_Font/Plants/grapes.svg",
       "eps": "/EPS/Plants/grapes.eps",
       "png": {
         "32": "/PNG/32/Plants/grapes-32.png",
@@ -29210,6 +29220,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/grass.svg",
+      "svg.simplified": "/SVG_for_Font/Plants/grass.svg",
       "eps": "/EPS/Plants/grass.eps",
       "png": {
         "32": "/PNG/32/Plants/grass-32.png",
@@ -30679,6 +30690,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/hazelnut.svg",
+      "svg.simplified": "/SVG_for_Font/Plants/hazelnut.svg",
       "eps": "/EPS/Plants/hazelnut.eps",
       "png": {
         "32": "/PNG/32/Plants/hazelnut-32.png",
@@ -31648,6 +31660,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/hops.svg",
+      "svg.simplified": "/SVG_for_Font/Plants/hops.svg",
       "eps": "/EPS/Plants/hops.eps",
       "png": {
         "32": "/PNG/32/Plants/hops-32.png",
@@ -32266,6 +32279,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/humidity.svg",
+      "svg.simplified": "/SVG_for_Font/Science/humidity.svg",
       "eps": "/EPS/Science/humidity.eps",
       "png": {
         "32": "/PNG/32/Science/humidity-32.png",
@@ -33233,6 +33247,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/interstate_truck.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/interstate_truck.svg",
       "eps": "/EPS/Transport/interstate_truck.eps",
       "png": {
         "32": "/PNG/32/Transport/interstate_truck-32.png",
@@ -35974,6 +35989,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/leaf.svg",
+      "svg.simplified": "/SVG_for_Font/Plants/leaf.svg",
       "eps": "/EPS/Plants/leaf.eps",
       "png": {
         "32": "/PNG/32/Plants/leaf-32.png",
@@ -36443,6 +36459,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/length.svg",
+      "svg.simplified": "/SVG_for_Font/Science/length.svg",
       "eps": "/EPS/Science/length.eps",
       "png": {
         "32": "/PNG/32/Science/length-32.png",
@@ -36946,6 +36963,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/line_splitting.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/line_splitting.svg",
       "eps": "/EPS/Transport/line_splitting.eps",
       "png": {
         "32": "/PNG/32/Transport/line_splitting-32.png",
@@ -44484,6 +44502,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/nut.svg",
+      "svg.simplified": "/SVG_for_Font/Plants/nut.svg",
       "eps": "/EPS/Plants/nut.eps",
       "png": {
         "32": "/PNG/32/Plants/nut-32.png",
@@ -45397,7 +45416,8 @@
       "pattern",
       "corners",
       "stripes",
-      "workforce"
+      "workforce",
+      "org unit"
     ],
     "copyright": false,
     "files": {
@@ -46146,6 +46166,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/palm_tree.svg",
+      "svg.simplified": "/SVG_for_Font/Plants/palm_tree.svg",
       "eps": "/EPS/Plants/palm_tree.eps",
       "png": {
         "32": "/PNG/32/Plants/palm_tree-32.png",
@@ -46900,6 +46921,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/peanuts.svg",
+      "svg.simplified": "/SVG_for_Font/Plants/peanuts.svg",
       "eps": "/EPS/Plants/peanuts.eps",
       "png": {
         "32": "/PNG/32/Plants/peanuts-32.png",
@@ -48798,8 +48820,8 @@
       "healtcare",
       "care",
       "pi",
-      "add",
-      "addition"
+      "addition",
+      "add"
     ],
     "copyright": false,
     "files": {
@@ -49737,6 +49759,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/pressure.svg",
+      "svg.simplified": "/SVG_for_Font/Science/pressure.svg",
       "eps": "/EPS/Science/pressure.eps",
       "png": {
         "32": "/PNG/32/Science/pressure-32.png",
@@ -55449,6 +55472,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/scale.svg",
+      "svg.simplified": "/SVG_for_Font/Science/scale.svg",
       "eps": "/EPS/Science/scale.eps",
       "png": {
         "32": "/PNG/32/Science/scale-32.png",
@@ -55475,6 +55499,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/scales.svg",
+      "svg.simplified": "/SVG_for_Font/Science/scales.svg",
       "eps": "/EPS/Science/scales.eps",
       "png": {
         "32": "/PNG/32/Science/scales-32.png",
@@ -60058,6 +60083,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/soy.svg",
+      "svg.simplified": "/SVG_for_Font/Plants/soy.svg",
       "eps": "/EPS/Plants/soy.eps",
       "png": {
         "32": "/PNG/32/Plants/soy-32.png",
@@ -60276,6 +60302,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/speed.svg",
+      "svg.simplified": "/SVG_for_Font/Science/speed.svg",
       "eps": "/EPS/Science/speed.eps",
       "png": {
         "32": "/PNG/32/Science/speed-32.png",
@@ -62576,6 +62603,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/surface.svg",
+      "svg.simplified": "/SVG_for_Font/Science/surface.svg",
       "eps": "/EPS/Science/surface.eps",
       "png": {
         "32": "/PNG/32/Science/surface-32.png",
@@ -64313,6 +64341,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/temperature.svg",
+      "svg.simplified": "/SVG_for_Font/Science/temperature.svg",
       "eps": "/EPS/Science/temperature.eps",
       "png": {
         "32": "/PNG/32/Science/temperature-32.png",
@@ -65168,6 +65197,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/time.svg",
+      "svg.simplified": "/SVG_for_Font/Science/time.svg",
       "eps": "/EPS/Science/time.eps",
       "png": {
         "32": "/PNG/32/Science/time-32.png",
@@ -67088,6 +67118,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/tomato.svg",
+      "svg.simplified": "/SVG_for_Font/Plants/tomato.svg",
       "eps": "/EPS/Plants/tomato.eps",
       "png": {
         "32": "/PNG/32/Plants/tomato-32.png",
@@ -67491,6 +67522,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Programming/to_do.svg",
+      "svg.simplified": "/SVG_for_Font/Programming/to_do.svg",
       "eps": "/EPS/Programming/to_do.eps",
       "png": {
         "32": "/PNG/32/Programming/to_do-32.png",
@@ -71407,6 +71439,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/volume.svg",
+      "svg.simplified": "/SVG_for_Font/Science/volume.svg",
       "eps": "/EPS/Science/volume.eps",
       "png": {
         "32": "/PNG/32/Science/volume-32.png",
@@ -73150,6 +73183,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/weight_station.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/weight_station.svg",
       "eps": "/EPS/Transport/weight_station.eps",
       "png": {
         "32": "/PNG/32/Transport/weight_station-32.png",
@@ -73363,6 +73397,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/wheat.svg",
+      "svg.simplified": "/SVG_for_Font/Plants/wheat.svg",
       "eps": "/EPS/Plants/wheat.eps",
       "png": {
         "32": "/PNG/32/Plants/wheat-32.png",
