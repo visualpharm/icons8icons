@@ -2909,7 +2909,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/ancore.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/ancore.svg",
       "eps": "/EPS/Transport/ancore.eps",
       "png": {
         "32": "/PNG/32/Transport/ancore-32.png",
@@ -3245,7 +3244,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/ant.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/ant.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/ant.svg",
       "eps": "/EPS/Animals/ant.eps",
       "png": {
         "32": "/PNG/32/Animals/ant-32.png",
@@ -3548,7 +3547,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/aquarium.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/aquarium.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/aquarium.svg",
       "eps": "/EPS/Animals/aquarium.eps",
       "png": {
         "32": "/PNG/32/Animals/aquarium-32.png",
@@ -5486,7 +5485,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/barley.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/barley.svg",
       "eps": "/EPS/Plants/barley.eps",
       "png": {
         "32": "/PNG/32/Plants/barley-32.png",
@@ -5893,7 +5891,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/bat.svg",
-      "svg.simplified": "/SVG_for_Font/Halloween/bat.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/bat.svg",
       "eps": "/EPS/Holidays/bat.eps",
       "png": {
         "32": "/PNG/32/Holidays/bat-32.png",
@@ -6381,7 +6379,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/bee.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/bee.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/bee.svg",
       "eps": "/EPS/Animals/bee.eps",
       "png": {
         "32": "/PNG/32/Animals/bee-32.png",
@@ -6604,7 +6602,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/bell.svg",
-      "svg.simplified": "/SVG_for_Font/Easter/bell.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/bell.svg",
       "eps": "/EPS/Holidays/bell.eps",
       "png": {
         "32": "/PNG/32/Holidays/bell-32.png",
@@ -6737,7 +6735,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/berry.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/berry.svg",
       "eps": "/EPS/Plants/berry.eps",
       "png": {
         "32": "/PNG/32/Plants/berry-32.png",
@@ -7250,7 +7247,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/bird.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/bird.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/bird.svg",
       "eps": "/EPS/Animals/bird.eps",
       "png": {
         "32": "/PNG/32/Animals/bird-32.png",
@@ -7545,7 +7542,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/black_cat.svg",
-      "svg.simplified": "/SVG_for_Font/Halloween/black_cat.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/black_cat.svg",
       "eps": "/EPS/Holidays/black_cat.eps",
       "png": {
         "32": "/PNG/32/Holidays/black_cat-32.png",
@@ -8910,7 +8907,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/bumblebee.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/bumblebee.svg",
       "eps": "/EPS/Animals/bumblebee.eps",
       "png": {
         "32": "/PNG/32/Animals/bumblebee-32.png",
@@ -9632,7 +9628,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/caliper.svg",
-      "svg.simplified": "/SVG_for_Font/Measurement_Units/caliper.svg",
       "eps": "/EPS/Science/caliper.eps",
       "png": {
         "32": "/PNG/32/Science/caliper-32.png",
@@ -10345,7 +10340,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/candy.svg",
-      "svg.simplified": "/SVG_for_Font/Halloween/candy.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/candy.svg",
       "eps": "/EPS/Holidays/candy.eps",
       "png": {
         "32": "/PNG/32/Holidays/candy-32.png",
@@ -11095,7 +11090,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/cat.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/cat.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/cat.svg",
       "eps": "/EPS/Animals/cat.eps",
       "png": {
         "32": "/PNG/32/Animals/cat-32.png",
@@ -11170,7 +11165,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/caterpillar.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/caterpillar.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/caterpillar.svg",
       "eps": "/EPS/Animals/caterpillar.eps",
       "png": {
         "32": "/PNG/32/Animals/caterpillar-32.png",
@@ -11624,7 +11619,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/champagne.svg",
-      "svg.simplified": "/SVG_for_Font/Wedding/champagne.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/champagne.svg",
       "eps": "/EPS/Holidays/champagne.eps",
       "png": {
         "32": "/PNG/32/Holidays/champagne-32.png",
@@ -12322,7 +12317,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/chicken.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/chicken.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/chicken.svg",
       "eps": "/EPS/Animals/chicken.eps",
       "png": {
         "32": "/PNG/32/Animals/chicken-32.png",
@@ -12484,7 +12479,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/christmas_ball.svg",
-      "svg.simplified": "/SVG_for_Font/Christmas/christmas_ball.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/christmas_ball.svg",
       "eps": "/EPS/Holidays/christmas_ball.eps",
       "png": {
         "32": "/PNG/32/Holidays/christmas_ball-32.png",
@@ -12509,7 +12504,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/christmas_candle.svg",
-      "svg.simplified": "/SVG_for_Font/Christmas/christmas_candle.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/christmas_candle.svg",
       "eps": "/EPS/Holidays/christmas_candle.eps",
       "png": {
         "32": "/PNG/32/Holidays/christmas_candle-32.png",
@@ -12534,7 +12529,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/christmas_candy.svg",
-      "svg.simplified": "/SVG_for_Font/Christmas/christmas_candy.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/christmas_candy.svg",
       "eps": "/EPS/Holidays/christmas_candy.eps",
       "png": {
         "32": "/PNG/32/Holidays/christmas_candy-32.png",
@@ -12559,7 +12554,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/christmas_candy_cane.svg",
-      "svg.simplified": "/SVG_for_Font/Christmas/christmas_candy_cane.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/christmas_candy_cane.svg",
       "eps": "/EPS/Holidays/christmas_candy_cane.eps",
       "png": {
         "32": "/PNG/32/Holidays/christmas_candy_cane-32.png",
@@ -12584,7 +12579,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/christmas_deer.svg",
-      "svg.simplified": "/SVG_for_Font/Christmas/christmas_deer.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/christmas_deer.svg",
       "eps": "/EPS/Holidays/christmas_deer.eps",
       "png": {
         "32": "/PNG/32/Holidays/christmas_deer-32.png",
@@ -12609,7 +12604,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/christmas_firework.svg",
-      "svg.simplified": "/SVG_for_Font/Christmas/christmas_firework.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/christmas_firework.svg",
       "eps": "/EPS/Holidays/christmas_firework.eps",
       "png": {
         "32": "/PNG/32/Holidays/christmas_firework-32.png",
@@ -12634,7 +12629,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/christmas_gift.svg",
-      "svg.simplified": "/SVG_for_Font/Christmas/christmas_gift.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/christmas_gift.svg",
       "eps": "/EPS/Holidays/christmas_gift.eps",
       "png": {
         "32": "/PNG/32/Holidays/christmas_gift-32.png",
@@ -12659,7 +12654,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/christmas_hat.svg",
-      "svg.simplified": "/SVG_for_Font/Christmas/christmas_hat.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/christmas_hat.svg",
       "eps": "/EPS/Holidays/christmas_hat.eps",
       "png": {
         "32": "/PNG/32/Holidays/christmas_hat-32.png",
@@ -12684,7 +12679,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/christmas_ice_skate.svg",
-      "svg.simplified": "/SVG_for_Font/Christmas/christmas_ice_skate.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/christmas_ice_skate.svg",
       "eps": "/EPS/Holidays/christmas_ice_skate.eps",
       "png": {
         "32": "/PNG/32/Holidays/christmas_ice_skate-32.png",
@@ -12709,7 +12704,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/christmas_mitten.svg",
-      "svg.simplified": "/SVG_for_Font/Christmas/christmas_mitten.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/christmas_mitten.svg",
       "eps": "/EPS/Holidays/christmas_mitten.eps",
       "png": {
         "32": "/PNG/32/Holidays/christmas_mitten-32.png",
@@ -12734,7 +12729,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/christmas_penguin.svg",
-      "svg.simplified": "/SVG_for_Font/Christmas/christmas_penguin.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/christmas_penguin.svg",
       "eps": "/EPS/Holidays/christmas_penguin.eps",
       "png": {
         "32": "/PNG/32/Holidays/christmas_penguin-32.png",
@@ -12759,7 +12754,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/christmas_sleigh.svg",
-      "svg.simplified": "/SVG_for_Font/Christmas/christmas_sleigh.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/christmas_sleigh.svg",
       "eps": "/EPS/Holidays/christmas_sleigh.eps",
       "png": {
         "32": "/PNG/32/Holidays/christmas_sleigh-32.png",
@@ -12784,7 +12779,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/christmas_snowflake.svg",
-      "svg.simplified": "/SVG_for_Font/Christmas/christmas_snowflake.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/christmas_snowflake.svg",
       "eps": "/EPS/Holidays/christmas_snowflake.eps",
       "png": {
         "32": "/PNG/32/Holidays/christmas_snowflake-32.png",
@@ -12809,7 +12804,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/christmas_snowman.svg",
-      "svg.simplified": "/SVG_for_Font/Christmas/christmas_snowman.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/christmas_snowman.svg",
       "eps": "/EPS/Holidays/christmas_snowman.eps",
       "png": {
         "32": "/PNG/32/Holidays/christmas_snowman-32.png",
@@ -12834,7 +12829,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/christmas_sock.svg",
-      "svg.simplified": "/SVG_for_Font/Christmas/christmas_sock.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/christmas_sock.svg",
       "eps": "/EPS/Holidays/christmas_sock.eps",
       "png": {
         "32": "/PNG/32/Holidays/christmas_sock-32.png",
@@ -12859,7 +12854,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/christmas_star.svg",
-      "svg.simplified": "/SVG_for_Font/Christmas/christmas_star.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/christmas_star.svg",
       "eps": "/EPS/Holidays/christmas_star.eps",
       "png": {
         "32": "/PNG/32/Holidays/christmas_star-32.png",
@@ -12884,7 +12879,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/christmas_tree.svg",
-      "svg.simplified": "/SVG_for_Font/Christmas/christmas_tree.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/christmas_tree.svg",
       "eps": "/EPS/Holidays/christmas_tree.eps",
       "png": {
         "32": "/PNG/32/Holidays/christmas_tree-32.png",
@@ -12981,7 +12976,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/church.svg",
-      "svg.simplified": "/SVG_for_Font/Easter/church.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/church.svg",
       "eps": "/EPS/Holidays/church.eps",
       "png": {
         "32": "/PNG/32/Holidays/church-32.png",
@@ -13142,7 +13137,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/citrus.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/citrus.svg",
       "eps": "/EPS/Plants/citrus.eps",
       "png": {
         "32": "/PNG/32/Plants/citrus-32.png",
@@ -14143,7 +14137,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/clown_fish.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/clown_fish.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/clown_fish.svg",
       "eps": "/EPS/Animals/clown_fish.eps",
       "png": {
         "32": "/PNG/32/Animals/clown_fish-32.png",
@@ -14528,7 +14522,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/coffin.svg",
-      "svg.simplified": "/SVG_for_Font/Halloween/coffin.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/coffin.svg",
       "eps": "/EPS/Holidays/coffin.eps",
       "png": {
         "32": "/PNG/32/Holidays/coffin-32.png",
@@ -15348,7 +15342,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/coniferous_tree.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/coniferous_tree.svg",
       "eps": "/EPS/Plants/coniferous_tree.eps",
       "png": {
         "32": "/PNG/32/Plants/coniferous_tree-32.png",
@@ -15946,7 +15939,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/coral.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/coral.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/coral.svg",
       "eps": "/EPS/Animals/coral.eps",
       "png": {
         "32": "/PNG/32/Animals/coral-32.png",
@@ -16260,7 +16253,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/cow.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/cow.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/cow.svg",
       "eps": "/EPS/Animals/cow.eps",
       "png": {
         "32": "/PNG/32/Animals/cow-32.png",
@@ -16313,7 +16306,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/crab.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/crab.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/crab.svg",
       "eps": "/EPS/Animals/crab.eps",
       "png": {
         "32": "/PNG/32/Animals/crab-32.png",
@@ -17915,7 +17908,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/deciduous_tree.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/deciduous_tree.svg",
       "eps": "/EPS/Plants/deciduous_tree.eps",
       "png": {
         "32": "/PNG/32/Plants/deciduous_tree-32.png",
@@ -18051,7 +18043,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/degrees.svg",
-      "svg.simplified": "/SVG_for_Font/Measurement_Units/degrees.svg",
       "eps": "/EPS/Science/degrees.eps",
       "png": {
         "32": "/PNG/32/Science/degrees-32.png",
@@ -18567,6 +18558,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Business/department.svg",
+      "svg.simplified": "/SVG_for_Font/Business/department.svg",
       "eps": "/EPS/Business/department.eps",
       "png": {
         "32": "/PNG/32/Business/department-32.png",
@@ -19619,7 +19611,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/dog.svg",
-      "svg.simplified": "/SVG_for_Font/Astrology/dog.svg",
       "eps": "/EPS/Animals/dog.eps",
       "png": {
         "32": "/PNG/32/Animals/dog-32.png",
@@ -19653,7 +19644,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/dog_bone.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/dog_bone.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/dog_bone.svg",
       "eps": "/EPS/Animals/dog_bone.eps",
       "png": {
         "32": "/PNG/32/Animals/dog_bone-32.png",
@@ -19696,7 +19687,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/dog_bowl.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/dog_bowl.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/dog_bowl.svg",
       "eps": "/EPS/Animals/dog_bowl.eps",
       "png": {
         "32": "/PNG/32/Animals/dog_bowl-32.png",
@@ -19739,7 +19730,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/dog_house.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/dog_house.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/dog_house.svg",
       "eps": "/EPS/Animals/dog_house.eps",
       "png": {
         "32": "/PNG/32/Animals/dog_house-32.png",
@@ -19781,7 +19772,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/dog_leash.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/dog_leash.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/dog_leash.svg",
       "eps": "/EPS/Animals/dog_leash.eps",
       "png": {
         "32": "/PNG/32/Animals/dog_leash-32.png",
@@ -19876,7 +19867,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/dolphin.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/dolphin.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/dolphin.svg",
       "eps": "/EPS/Animals/dolphin.eps",
       "png": {
         "32": "/PNG/32/Animals/dolphin-32.png",
@@ -20617,7 +20608,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/dragonfly.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/dragonfly.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/dragonfly.svg",
       "eps": "/EPS/Animals/dragonfly.eps",
       "png": {
         "32": "/PNG/32/Animals/dragonfly-32.png",
@@ -20973,7 +20964,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/duck.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/duck.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/duck.svg",
       "eps": "/EPS/Animals/duck.eps",
       "png": {
         "32": "/PNG/32/Animals/duck-32.png",
@@ -21315,7 +21306,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/easter_cake.svg",
-      "svg.simplified": "/SVG_for_Font/Easter/easter_cake.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/easter_cake.svg",
       "eps": "/EPS/Holidays/easter_cake.eps",
       "png": {
         "32": "/PNG/32/Holidays/easter_cake-32.png",
@@ -21348,7 +21339,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/easter_egg.svg",
-      "svg.simplified": "/SVG_for_Font/Easter/easter_egg.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/easter_egg.svg",
       "eps": "/EPS/Holidays/easter_egg.eps",
       "png": {
         "32": "/PNG/32/Holidays/easter_egg-32.png",
@@ -21379,7 +21370,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/easter_rabbit.svg",
-      "svg.simplified": "/SVG_for_Font/Easter/easter_rabbit.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/easter_rabbit.svg",
       "eps": "/EPS/Holidays/easter_rabbit.eps",
       "png": {
         "32": "/PNG/32/Holidays/easter_rabbit-32.png",
@@ -21493,7 +21484,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/eating_slug.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/eating_slug.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/eating_slug.svg",
       "eps": "/EPS/Animals/eating_slug.eps",
       "png": {
         "32": "/PNG/32/Animals/eating_slug-32.png",
@@ -21760,7 +21751,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/eggs_basket.svg",
-      "svg.simplified": "/SVG_for_Font/Easter/eggs_basket.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/eggs_basket.svg",
       "eps": "/EPS/Holidays/eggs_basket.eps",
       "png": {
         "32": "/PNG/32/Holidays/eggs_basket-32.png",
@@ -25360,7 +25351,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/flower.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/flower.svg",
       "eps": "/EPS/Plants/flower.eps",
       "png": {
         "32": "/PNG/32/Plants/flower-32.png",
@@ -26156,7 +26146,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/frankenstein.svg",
-      "svg.simplified": "/SVG_for_Font/Halloween/frankenstein.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/frankenstein.svg",
       "eps": "/EPS/Holidays/frankenstein.eps",
       "png": {
         "32": "/PNG/32/Holidays/frankenstein-32.png",
@@ -27680,7 +27670,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Cinema/genie.svg",
-      "svg.simplified": "/SVG_for_Font/Fiction/genie.svg",
+      "svg.simplified": "/SVG_for_Font/Cinema/genie.svg",
       "eps": "/EPS/Cinema/genie.eps",
       "png": {
         "32": "/PNG/32/Cinema/genie-32.png",
@@ -27965,7 +27955,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/ghost.svg",
-      "svg.simplified": "/SVG_for_Font/Halloween/ghost.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/ghost.svg",
       "eps": "/EPS/Holidays/ghost.eps",
       "png": {
         "32": "/PNG/32/Holidays/ghost-32.png",
@@ -28061,7 +28051,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/gingerbread_men.svg",
-      "svg.simplified": "/SVG_for_Font/Christmas/gingerbread_men.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/gingerbread_men.svg",
       "eps": "/EPS/Holidays/gingerbread_men.eps",
       "png": {
         "32": "/PNG/32/Holidays/gingerbread_men-32.png",
@@ -28387,7 +28377,7 @@
     "copyright": true,
     "files": {
       "svg": "/SVG/Logos/google_alerts_copyrighted.svg",
-      "svg.simplified": "/SVG_for_Font/Google_Services/google_alerts_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/Logos/google_alerts_copyrighted.svg",
       "eps": "/EPS/Logos/google_alerts_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Logos/google_alerts_copyrighted-32.png",
@@ -28419,7 +28409,7 @@
     "copyright": true,
     "files": {
       "svg": "/SVG/Logos/google_blog_search_copyrighted.svg",
-      "svg.simplified": "/SVG_for_Font/Google_Services/google_blog_search_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/Logos/google_blog_search_copyrighted.svg",
       "eps": "/EPS/Logos/google_blog_search_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Logos/google_blog_search_copyrighted-32.png",
@@ -28451,7 +28441,7 @@
     "copyright": true,
     "files": {
       "svg": "/SVG/Logos/google_code_copyrighted.svg",
-      "svg.simplified": "/SVG_for_Font/Google_Services/google_code_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/Logos/google_code_copyrighted.svg",
       "eps": "/EPS/Logos/google_code_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Logos/google_code_copyrighted-32.png",
@@ -28524,7 +28514,7 @@
     "copyright": true,
     "files": {
       "svg": "/SVG/Logos/google_drive_copyrighted.svg",
-      "svg.simplified": "/SVG_for_Font/Google_Services/google_drive_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/Logos/google_drive_copyrighted.svg",
       "eps": "/EPS/Logos/google_drive_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Logos/google_drive_copyrighted-32.png",
@@ -28554,7 +28544,7 @@
     "copyright": true,
     "files": {
       "svg": "/SVG/Logos/google_earth_copyrighted.svg",
-      "svg.simplified": "/SVG_for_Font/Google_Services/google_earth_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/Logos/google_earth_copyrighted.svg",
       "eps": "/EPS/Logos/google_earth_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Logos/google_earth_copyrighted-32.png",
@@ -28598,7 +28588,7 @@
     "copyright": true,
     "files": {
       "svg": "/SVG/Logos/google_groups_copyrighted.svg",
-      "svg.simplified": "/SVG_for_Font/Google_Services/google_groups_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/Logos/google_groups_copyrighted.svg",
       "eps": "/EPS/Logos/google_groups_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Logos/google_groups_copyrighted-32.png",
@@ -28671,7 +28661,7 @@
     "copyright": true,
     "files": {
       "svg": "/SVG/Logos/google_images_copyrighted.svg",
-      "svg.simplified": "/SVG_for_Font/Google_Services/google_images_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/Logos/google_images_copyrighted.svg",
       "eps": "/EPS/Logos/google_images_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Logos/google_images_copyrighted-32.png",
@@ -28715,7 +28705,7 @@
     "copyright": true,
     "files": {
       "svg": "/SVG/Logos/google_mobile_copyrighted.svg",
-      "svg.simplified": "/SVG_for_Font/Google_Services/google_mobile_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/Logos/google_mobile_copyrighted.svg",
       "eps": "/EPS/Logos/google_mobile_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Logos/google_mobile_copyrighted-32.png",
@@ -28744,7 +28734,7 @@
     "copyright": true,
     "files": {
       "svg": "/SVG/Logos/google_news_copyrighted.svg",
-      "svg.simplified": "/SVG_for_Font/Google_Services/google_news_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/Logos/google_news_copyrighted.svg",
       "eps": "/EPS/Logos/google_news_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Logos/google_news_copyrighted-32.png",
@@ -28803,7 +28793,7 @@
     "copyright": true,
     "files": {
       "svg": "/SVG/Logos/google_scholar_copyrighted.svg",
-      "svg.simplified": "/SVG_for_Font/Google_Services/google_scholar_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/Logos/google_scholar_copyrighted.svg",
       "eps": "/EPS/Logos/google_scholar_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Logos/google_scholar_copyrighted-32.png",
@@ -28829,7 +28819,7 @@
     "copyright": true,
     "files": {
       "svg": "/SVG/Logos/google_sketchup_copyrighted.svg",
-      "svg.simplified": "/SVG_for_Font/Google_Services/google_sketchup_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/Logos/google_sketchup_copyrighted.svg",
       "eps": "/EPS/Logos/google_sketchup_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Logos/google_sketchup_copyrighted-32.png",
@@ -28861,7 +28851,7 @@
     "copyright": true,
     "files": {
       "svg": "/SVG/Logos/google_translate_copyrighted.svg",
-      "svg.simplified": "/SVG_for_Font/Google_Services/google_translate_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/Logos/google_translate_copyrighted.svg",
       "eps": "/EPS/Logos/google_translate_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Logos/google_translate_copyrighted-32.png",
@@ -28899,7 +28889,7 @@
     "copyright": true,
     "files": {
       "svg": "/SVG/Logos/google_web_search_copyrighted.svg",
-      "svg.simplified": "/SVG_for_Font/Google_Services/google_web_search_copyrighted.svg",
+      "svg.simplified": "/SVG_for_Font/Logos/google_web_search_copyrighted.svg",
       "eps": "/EPS/Logos/google_web_search_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Logos/google_web_search_copyrighted-32.png",
@@ -28962,7 +28952,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/gorilla.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/gorilla.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/gorilla.svg",
       "eps": "/EPS/Animals/gorilla.eps",
       "png": {
         "32": "/PNG/32/Animals/gorilla-32.png",
@@ -29189,7 +29179,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/grapes.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/grapes.svg",
       "eps": "/EPS/Plants/grapes.eps",
       "png": {
         "32": "/PNG/32/Plants/grapes-32.png",
@@ -29221,7 +29210,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/grass.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/grass.svg",
       "eps": "/EPS/Plants/grass.eps",
       "png": {
         "32": "/PNG/32/Plants/grass-32.png",
@@ -30691,7 +30679,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/hazelnut.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/hazelnut.svg",
       "eps": "/EPS/Plants/hazelnut.eps",
       "png": {
         "32": "/PNG/32/Plants/hazelnut-32.png",
@@ -30797,7 +30784,6 @@
     "created": 1354709635,
     "tags": [
       "phone",
-      "skype",
       "telephone",
       "talking",
       "call center",
@@ -30816,7 +30802,8 @@
       "it support",
       "microphone",
       "on the phone",
-      "bluetooth"
+      "bluetooth",
+      "skype"
     ],
     "copyright": false,
     "files": {
@@ -30891,7 +30878,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/headstone.svg",
-      "svg.simplified": "/SVG_for_Font/Halloween/headstone.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/headstone.svg",
       "eps": "/EPS/Holidays/headstone.eps",
       "png": {
         "32": "/PNG/32/Holidays/headstone-32.png",
@@ -31550,7 +31537,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/holy_bible.svg",
-      "svg.simplified": "/SVG_for_Font/Easter/holy_bible.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/holy_bible.svg",
       "eps": "/EPS/Holidays/holy_bible.eps",
       "png": {
         "32": "/PNG/32/Holidays/holy_bible-32.png",
@@ -31661,7 +31648,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/hops.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/hops.svg",
       "eps": "/EPS/Plants/hops.eps",
       "png": {
         "32": "/PNG/32/Plants/hops-32.png",
@@ -32280,7 +32266,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/humidity.svg",
-      "svg.simplified": "/SVG_for_Font/Measurement_Units/humidity.svg",
       "eps": "/EPS/Science/humidity.eps",
       "png": {
         "32": "/PNG/32/Science/humidity-32.png",
@@ -32922,7 +32907,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/insect.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/insect.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/insect.svg",
       "eps": "/EPS/Animals/insect.eps",
       "png": {
         "32": "/PNG/32/Animals/insect-32.png",
@@ -34128,7 +34113,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/jingle_bell.svg",
-      "svg.simplified": "/SVG_for_Font/Christmas/jingle_bell.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/jingle_bell.svg",
       "eps": "/EPS/Holidays/jingle_bell.eps",
       "png": {
         "32": "/PNG/32/Holidays/jingle_bell-32.png",
@@ -35547,6 +35532,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Cinema/lamp_of_alladin.svg",
+      "svg.simplified": "/SVG_for_Font/Cinema/lamp_of_alladin.svg",
       "eps": "/EPS/Cinema/lamp_of_alladin.eps",
       "png": {
         "32": "/PNG/32/Cinema/lamp_of_alladin-32.png",
@@ -35988,7 +35974,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/leaf.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/leaf.svg",
       "eps": "/EPS/Plants/leaf.eps",
       "png": {
         "32": "/PNG/32/Plants/leaf-32.png",
@@ -36458,7 +36443,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/length.svg",
-      "svg.simplified": "/SVG_for_Font/Measurement_Units/length.svg",
       "eps": "/EPS/Science/length.eps",
       "png": {
         "32": "/PNG/32/Science/length-32.png",
@@ -38201,6 +38185,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Cinema/magic_lamp.svg",
+      "svg.simplified": "/SVG_for_Font/Cinema/magic_lamp.svg",
       "eps": "/EPS/Cinema/magic_lamp.eps",
       "png": {
         "32": "/PNG/32/Cinema/magic_lamp-32.png",
@@ -40683,7 +40668,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/mite.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/mite.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/mite.svg",
       "eps": "/EPS/Animals/mite.eps",
       "png": {
         "32": "/PNG/32/Animals/mite-32.png",
@@ -41296,7 +41281,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/mosquito.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/mosquito.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/mosquito.svg",
       "eps": "/EPS/Animals/mosquito.eps",
       "png": {
         "32": "/PNG/32/Animals/mosquito-32.png",
@@ -42271,7 +42256,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/mummy.svg",
-      "svg.simplified": "/SVG_for_Font/Halloween/mummy.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/mummy.svg",
       "eps": "/EPS/Holidays/mummy.eps",
       "png": {
         "32": "/PNG/32/Holidays/mummy-32.png",
@@ -44499,7 +44484,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/nut.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/nut.svg",
       "eps": "/EPS/Plants/nut.eps",
       "png": {
         "32": "/PNG/32/Plants/nut-32.png",
@@ -44665,7 +44649,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/octopus.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/octopus.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/octopus.svg",
       "eps": "/EPS/Animals/octopus.eps",
       "png": {
         "32": "/PNG/32/Animals/octopus-32.png",
@@ -45418,6 +45402,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Business/org_unit.svg",
+      "svg.simplified": "/SVG_for_Font/Business/org_unit.svg",
       "eps": "/EPS/Business/org_unit.eps",
       "png": {
         "32": "/PNG/32/Business/org_unit-32.png",
@@ -46161,7 +46146,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/palm_tree.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/palm_tree.svg",
       "eps": "/EPS/Plants/palm_tree.eps",
       "png": {
         "32": "/PNG/32/Plants/palm_tree-32.png",
@@ -46916,7 +46900,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/peanuts.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/peanuts.svg",
       "eps": "/EPS/Plants/peanuts.eps",
       "png": {
         "32": "/PNG/32/Plants/peanuts-32.png",
@@ -47746,7 +47729,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/pig2.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/pig2.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/pig2.svg",
       "eps": "/EPS/Animals/pig2.eps",
       "png": {
         "32": "/PNG/32/Animals/pig2-32.png",
@@ -49646,7 +49629,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/prawn.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/prawn.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/prawn.svg",
       "eps": "/EPS/Animals/prawn.eps",
       "png": {
         "32": "/PNG/32/Animals/prawn-32.png",
@@ -49754,7 +49737,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/pressure.svg",
-      "svg.simplified": "/SVG_for_Font/Measurement_Units/pressure.svg",
       "eps": "/EPS/Science/pressure.eps",
       "png": {
         "32": "/PNG/32/Science/pressure-32.png",
@@ -50083,6 +50065,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Business/process.svg",
+      "svg.simplified": "/SVG_for_Font/Business/process.svg",
       "eps": "/EPS/Business/process.eps",
       "png": {
         "32": "/PNG/32/Business/process-32.png",
@@ -50558,7 +50541,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/pumpkin.svg",
-      "svg.simplified": "/SVG_for_Font/Halloween/pumpkin.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/pumpkin.svg",
       "eps": "/EPS/Holidays/pumpkin.eps",
       "png": {
         "32": "/PNG/32/Holidays/pumpkin-32.png",
@@ -50694,7 +50677,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/pussy_willow.svg",
-      "svg.simplified": "/SVG_for_Font/Easter/pussy_willow.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/pussy_willow.svg",
       "eps": "/EPS/Holidays/pussy_willow.eps",
       "png": {
         "32": "/PNG/32/Holidays/pussy_willow-32.png",
@@ -51578,7 +51561,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/rabbit.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/rabbit.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/rabbit.svg",
       "eps": "/EPS/Animals/rabbit.eps",
       "png": {
         "32": "/PNG/32/Animals/rabbit-32.png",
@@ -53678,7 +53661,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/ring.svg",
-      "svg.simplified": "/SVG_for_Font/Wedding/ring.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/ring.svg",
       "eps": "/EPS/Holidays/ring.eps",
       "png": {
         "32": "/PNG/32/Holidays/ring-32.png",
@@ -53967,7 +53950,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Gaming/rock.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/rock.svg",
+      "svg.simplified": "/SVG_for_Font/Gaming/rock.svg",
       "eps": "/EPS/Gaming/rock.eps",
       "png": {
         "32": "/PNG/32/Gaming/rock-32.png",
@@ -54768,7 +54751,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/running_rabbit.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/running_rabbit.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/running_rabbit.svg",
       "eps": "/EPS/Animals/running_rabbit.eps",
       "png": {
         "32": "/PNG/32/Animals/running_rabbit-32.png",
@@ -55214,7 +55197,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/santa.svg",
-      "svg.simplified": "/SVG_for_Font/Christmas/santa.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/santa.svg",
       "eps": "/EPS/Holidays/santa.eps",
       "png": {
         "32": "/PNG/32/Holidays/santa-32.png",
@@ -55466,7 +55449,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/scale.svg",
-      "svg.simplified": "/SVG_for_Font/Measurement_Units/scale.svg",
       "eps": "/EPS/Science/scale.eps",
       "png": {
         "32": "/PNG/32/Science/scale-32.png",
@@ -55493,7 +55475,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/scales.svg",
-      "svg.simplified": "/SVG_for_Font/Measurement_Units/scales.svg",
       "eps": "/EPS/Science/scales.eps",
       "png": {
         "32": "/PNG/32/Science/scales-32.png",
@@ -56189,7 +56170,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/seahorse.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/seahorse.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/seahorse.svg",
       "eps": "/EPS/Animals/seahorse.eps",
       "png": {
         "32": "/PNG/32/Animals/seahorse-32.png",
@@ -56257,7 +56238,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/sea_waves.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/sea_waves.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/sea_waves.svg",
       "eps": "/EPS/Animals/sea_waves.eps",
       "png": {
         "32": "/PNG/32/Animals/sea_waves-32.png",
@@ -57039,7 +57020,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/shark.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/shark.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/shark.svg",
       "eps": "/EPS/Animals/shark.eps",
       "png": {
         "32": "/PNG/32/Animals/shark-32.png",
@@ -57066,7 +57047,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/sheep.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/sheep.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/sheep.svg",
       "eps": "/EPS/Animals/sheep.eps",
       "png": {
         "32": "/PNG/32/Animals/sheep-32.png",
@@ -57098,7 +57079,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/sheep2.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/sheep2.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/sheep2.svg",
       "eps": "/EPS/Animals/sheep2.eps",
       "png": {
         "32": "/PNG/32/Animals/sheep2-32.png",
@@ -57130,7 +57111,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/sheep_on_bike.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/sheep_on_bike.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/sheep_on_bike.svg",
       "eps": "/EPS/Animals/sheep_on_bike.eps",
       "png": {
         "32": "/PNG/32/Animals/sheep_on_bike-32.png",
@@ -59275,7 +59256,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/slug.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/slug.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/slug.svg",
       "eps": "/EPS/Animals/slug.eps",
       "png": {
         "32": "/PNG/32/Animals/slug-32.png",
@@ -59596,7 +59577,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/snail.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/snail.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/snail.svg",
       "eps": "/EPS/Animals/snail.eps",
       "png": {
         "32": "/PNG/32/Animals/snail-32.png",
@@ -60077,7 +60058,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/soy.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/soy.svg",
       "eps": "/EPS/Plants/soy.eps",
       "png": {
         "32": "/PNG/32/Plants/soy-32.png",
@@ -60296,7 +60276,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/speed.svg",
-      "svg.simplified": "/SVG_for_Font/Measurement_Units/speed.svg",
       "eps": "/EPS/Science/speed.eps",
       "png": {
         "32": "/PNG/32/Science/speed-32.png",
@@ -60380,7 +60359,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/spider.svg",
-      "svg.simplified": "/SVG_for_Font/Halloween/spider.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/spider.svg",
       "eps": "/EPS/Holidays/spider.eps",
       "png": {
         "32": "/PNG/32/Holidays/spider-32.png",
@@ -60498,7 +60477,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/spiderweb.svg",
-      "svg.simplified": "/SVG_for_Font/Halloween/spiderweb.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/spiderweb.svg",
       "eps": "/EPS/Holidays/spiderweb.eps",
       "png": {
         "32": "/PNG/32/Holidays/spiderweb-32.png",
@@ -61342,7 +61321,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/starfish.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/starfish.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/starfish.svg",
       "eps": "/EPS/Animals/starfish.eps",
       "png": {
         "32": "/PNG/32/Animals/starfish-32.png",
@@ -62597,7 +62576,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/surface.svg",
-      "svg.simplified": "/SVG_for_Font/Measurement_Units/surface.svg",
       "eps": "/EPS/Science/surface.eps",
       "png": {
         "32": "/PNG/32/Science/surface-32.png",
@@ -64335,7 +64313,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/temperature.svg",
-      "svg.simplified": "/SVG_for_Font/Measurement_Units/temperature.svg",
       "eps": "/EPS/Science/temperature.eps",
       "png": {
         "32": "/PNG/32/Science/temperature-32.png",
@@ -65191,7 +65168,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/time.svg",
-      "svg.simplified": "/SVG_for_Font/Measurement_Units/time.svg",
       "eps": "/EPS/Science/time.eps",
       "png": {
         "32": "/PNG/32/Science/time-32.png",
@@ -67112,7 +67088,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/tomato.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/tomato.svg",
       "eps": "/EPS/Plants/tomato.eps",
       "png": {
         "32": "/PNG/32/Plants/tomato-32.png",
@@ -68669,7 +68644,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/turtle.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/turtle.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/turtle.svg",
       "eps": "/EPS/Animals/turtle.eps",
       "png": {
         "32": "/PNG/32/Animals/turtle-32.png",
@@ -68888,7 +68863,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/two_hearts.svg",
-      "svg.simplified": "/SVG_for_Font/Wedding/two_hearts.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/two_hearts.svg",
       "eps": "/EPS/Holidays/two_hearts.eps",
       "png": {
         "32": "/PNG/32/Holidays/two_hearts-32.png",
@@ -70078,7 +70053,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/vampire.svg",
-      "svg.simplified": "/SVG_for_Font/Halloween/vampire.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/vampire.svg",
       "eps": "/EPS/Holidays/vampire.eps",
       "png": {
         "32": "/PNG/32/Holidays/vampire-32.png",
@@ -71432,7 +71407,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/volume.svg",
-      "svg.simplified": "/SVG_for_Font/Measurement_Units/volume.svg",
       "eps": "/EPS/Science/volume.eps",
       "png": {
         "32": "/PNG/32/Science/volume-32.png",
@@ -72928,7 +72902,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/wedding_cake.svg",
-      "svg.simplified": "/SVG_for_Font/Wedding/wedding_cake.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/wedding_cake.svg",
       "eps": "/EPS/Holidays/wedding_cake.eps",
       "png": {
         "32": "/PNG/32/Holidays/wedding_cake-32.png",
@@ -72957,7 +72931,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/wedding_day.svg",
-      "svg.simplified": "/SVG_for_Font/Wedding/wedding_day.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/wedding_day.svg",
       "eps": "/EPS/Holidays/wedding_day.eps",
       "png": {
         "32": "/PNG/32/Holidays/wedding_day-32.png",
@@ -72991,7 +72965,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/wedding_photo.svg",
-      "svg.simplified": "/SVG_for_Font/Wedding/wedding_photo.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/wedding_photo.svg",
       "eps": "/EPS/Holidays/wedding_photo.eps",
       "png": {
         "32": "/PNG/32/Holidays/wedding_photo-32.png",
@@ -73019,7 +72993,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/wedding_rings.svg",
-      "svg.simplified": "/SVG_for_Font/Wedding/wedding_rings.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/wedding_rings.svg",
       "eps": "/EPS/Holidays/wedding_rings.eps",
       "png": {
         "32": "/PNG/32/Holidays/wedding_rings-32.png",
@@ -73085,7 +73059,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/weght.svg",
-      "svg.simplified": "/SVG_for_Font/Measurement_Units/weght.svg",
       "eps": "/EPS/Science/weght.eps",
       "png": {
         "32": "/PNG/32/Science/weght-32.png",
@@ -73201,7 +73174,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/werewolf.svg",
-      "svg.simplified": "/SVG_for_Font/Halloween/werewolf.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/werewolf.svg",
       "eps": "/EPS/Holidays/werewolf.eps",
       "png": {
         "32": "/PNG/32/Holidays/werewolf-32.png",
@@ -73390,7 +73363,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/wheat.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/wheat.svg",
       "eps": "/EPS/Plants/wheat.eps",
       "png": {
         "32": "/PNG/32/Plants/wheat-32.png",
@@ -74257,7 +74229,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/witch.svg",
-      "svg.simplified": "/SVG_for_Font/Halloween/witch.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/witch.svg",
       "eps": "/EPS/Holidays/witch.eps",
       "png": {
         "32": "/PNG/32/Holidays/witch-32.png",
@@ -74283,7 +74255,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/wizard.svg",
-      "svg.simplified": "/SVG_for_Font/Halloween/wizard.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/wizard.svg",
       "eps": "/EPS/Holidays/wizard.eps",
       "png": {
         "32": "/PNG/32/Holidays/wizard-32.png",
@@ -75635,7 +75607,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Holidays/zombie.svg",
-      "svg.simplified": "/SVG_for_Font/Halloween/zombie.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/zombie.svg",
       "eps": "/EPS/Holidays/zombie.eps",
       "png": {
         "32": "/PNG/32/Holidays/zombie-32.png",
