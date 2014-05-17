@@ -1025,6 +1025,7 @@
     "tags": [
       "user",
       "edit",
+      "airplane",
       "checkbox",
       "holiday",
       "plai",
@@ -6372,7 +6373,6 @@
       "day",
       "year",
       "time",
-      "hours",
       "business",
       "work",
       "present",
@@ -6395,7 +6395,8 @@
       "invitation",
       "invite",
       "survey",
-      "month"
+      "month",
+      "hours"
     ],
     "copyright": false,
     "files": {
@@ -26195,6 +26196,7 @@
       "wireless",
       "mac",
       "mobile",
+      "menu",
       "smartphone",
       "device",
       "iphone"
@@ -44643,6 +44645,7 @@
       "menu",
       "sort",
       "history",
+      "fight",
       "preferences",
       "Upload a photo",
       "localization",
@@ -44823,6 +44826,7 @@
       "internet",
       "weather",
       "online",
+      "activity",
       "cloud",
       "cloud computing",
       "ec2",
@@ -55657,6 +55661,7 @@
       "calendar",
       "line",
       "sound",
+      "slideshow",
       "upload",
       "video",
       "cart",
