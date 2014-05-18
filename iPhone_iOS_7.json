@@ -9966,6 +9966,7 @@
       "road",
       "symbol",
       "round",
+      "image",
       "error",
       "end",
       "icon",
@@ -31135,7 +31136,6 @@
       "movie",
       "image",
       "illustration",
-      "graphic",
       "photo",
       "record",
       "logo",
@@ -31155,7 +31155,8 @@
       "radio",
       "template",
       "hamburger",
-      "p"
+      "panel",
+      "pic"
     ],
     "copyright": false,
     "files": {
@@ -43773,6 +43774,7 @@
       "start",
       "school",
       "education",
+      "teacher",
       "elementary school",
       "secondary school"
     ],
@@ -45194,6 +45196,7 @@
     "tags": [
       "call",
       "restaurant",
+      "sell",
       "business",
       "shop",
       "store"

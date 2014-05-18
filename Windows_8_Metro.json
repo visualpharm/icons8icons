@@ -8910,7 +8910,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/bumblebee.svg",
-      "eps": "/EPS/Animals/bumblebee.eps",
       "png": {
         "32": "/PNG/32/Animals/bumblebee-32.png",
         "128": "/PNG/128/Animals/bumblebee-128.png",
@@ -18071,12 +18070,13 @@
     "created": 1323262362,
     "tags": [
       "close",
-      "delete",
       "edit",
       "erase",
       "city",
       "turn",
-      "area"
+      "area",
+      "delete",
+      "remove"
     ],
     "copyright": false,
     "files": {
@@ -18423,7 +18423,8 @@
       "personality",
       "explain",
       "fasta",
-      "open list"
+      "open list",
+      "remove"
     ],
     "copyright": false,
     "files": {
@@ -19619,7 +19620,6 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/dog.svg",
-      "eps": "/EPS/Animals/dog.eps",
       "png": {
         "32": "/PNG/32/Animals/dog-32.png",
         "128": "/PNG/128/Animals/dog-128.png",
@@ -44269,7 +44269,8 @@
       "plant",
       "nuclear power plant",
       "nuclear",
-      "nuclear power"
+      "nuclear power",
+      "tank"
     ],
     "copyright": false,
     "files": {
