@@ -16404,7 +16404,6 @@
     "category": "Editing",
     "created": 1371509057,
     "tags": [
-      "pencil",
       "edit",
       "correct",
       "sharpen",
@@ -16413,14 +16412,14 @@
       "draw",
       "pen",
       "write",
-      "writing",
-      "editing",
       "line",
       "change",
-      "handwriting",
-      "share",
       "form",
-      "fill"
+      "fill",
+      "pencil",
+      "writing",
+      "editing",
+      "handwriting"
     ],
     "copyright": false,
     "files": {
@@ -21699,7 +21698,6 @@
       "search",
       "compass",
       "destination",
-      "map",
       "journey",
       "adventure",
       "planning",
@@ -21711,7 +21709,8 @@
       "geocaching",
       "guidance",
       "magnetic",
-      "surveying"
+      "surveying",
+      "map"
     ],
     "copyright": false,
     "files": {
@@ -44658,8 +44657,6 @@
       "user",
       "tools",
       "save",
-      "buy",
-      "options",
       "account",
       "switch",
       "gear",
@@ -44667,10 +44664,10 @@
       "menu",
       "sort",
       "history",
-      "preferences",
-      "Upload a photo",
       "localization",
-      "about"
+      "options",
+      "about",
+      "preferences"
     ],
     "copyright": false,
     "files": {
@@ -50507,6 +50504,7 @@
       "people",
       "cruise",
       "speak",
+      "friend",
       "pronnounce",
       "communication",
       "talking",
