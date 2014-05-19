@@ -1029,7 +1029,6 @@
       "airplane",
       "checkbox",
       "holiday",
-      "plai",
       "chef"
     ],
     "copyright": false,
@@ -8437,12 +8436,12 @@
       "completed",
       "correct",
       "right",
-      "checkbox",
       "yes",
       "v",
       "checklist",
       "todo",
-      "check"
+      "check",
+      "checkbox"
     ],
     "copyright": false,
     "files": {
@@ -9781,7 +9780,15 @@
     "category": "Photo and Video",
     "created": 1390342414,
     "tags": [
-
+      "film",
+      "movie",
+      "cinema",
+      "director",
+      "oscar",
+      "actor",
+      "actress",
+      "shooting",
+      "celebrity"
     ],
     "copyright": false,
     "files": {
@@ -9966,7 +9973,6 @@
       "road",
       "symbol",
       "round",
-      "image",
       "error",
       "end",
       "icon",
@@ -9989,8 +9995,8 @@
       "stop",
       "circle",
       "cease",
-      "fatal error",
-      "x"
+      "x",
+      "fatal error"
     ],
     "copyright": false,
     "files": {
@@ -15225,9 +15231,10 @@
     "tags": [
       "arrow",
       "down",
-      "up",
       "accept",
-      "right arrow"
+      "expand",
+      "right arrow",
+      "low priority"
     ],
     "copyright": false,
     "files": {
@@ -22797,7 +22804,6 @@
     "category": "Users",
     "created": 1371758569,
     "tags": [
-      "conference",
       "world",
       "group",
       "gather",
@@ -22807,6 +22813,7 @@
       "money",
       "charts",
       "todo",
+      "conference",
       "grouping",
       "users",
       "multiple",
@@ -26894,6 +26901,7 @@
       "joystick",
       "move",
       "operations",
+      "social",
       "how"
     ],
     "copyright": false,
@@ -32025,7 +32033,6 @@
     "category": "Clothing",
     "created": 1390342414,
     "tags": [
-      "vector",
       "health",
       "operation",
       "games",
@@ -32035,7 +32042,6 @@
       "human",
       "sport",
       "illustration",
-      "hand",
       "safety",
       "black",
       "nurse",
@@ -32055,7 +32061,6 @@
       "finger",
       "fighter",
       "latex",
-      "surgeon",
       "boxing",
       "wrestling",
       "fight",
@@ -32063,7 +32068,10 @@
       "stiff",
       "ruff",
       "tight",
-      "dignity"
+      "dignity",
+      "cold",
+      "hand",
+      "winter"
     ],
     "copyright": false,
     "files": {
@@ -37768,6 +37776,7 @@
       "play",
       "start",
       "audio",
+      "up",
       "media",
       "media controls",
       "triangle",
@@ -37896,10 +37905,11 @@
       "mathematics",
       "plus sign",
       "sum",
+      "expand",
       "penicl",
-      "calculator",
       "mathematical symbol",
       "calculator button",
+      "calculator",
       "add"
     ],
     "copyright": false,
@@ -39702,9 +39712,10 @@
     "category": "Ecommerce",
     "created": 1390342414,
     "tags": [
-      "news",
-      "doctor",
-      "welding"
+      "add",
+      "buy",
+      "shopping cart",
+      "shopping basket"
     ],
     "copyright": false,
     "files": {
@@ -43771,12 +43782,16 @@
     "created": 1373022334,
     "tags": [
       "book",
+      "reading",
       "start",
       "school",
-      "education",
       "teacher",
+      "student",
       "elementary school",
-      "secondary school"
+      "secondary school",
+      "class",
+      "education",
+      "study"
     ],
     "copyright": false,
     "files": {
@@ -44121,7 +44136,6 @@
       "circle",
       "exam",
       "tap",
-      "details",
       "finder",
       "spotlight",
       "categories",
@@ -44130,6 +44144,7 @@
       "reorder",
       "detective",
       "zoom out",
+      "details",
       "find",
       "scan"
     ],
@@ -44652,7 +44667,6 @@
       "menu",
       "sort",
       "history",
-      "fight",
       "preferences",
       "Upload a photo",
       "localization",
@@ -44833,14 +44847,16 @@
       "internet",
       "weather",
       "online",
-      "activity",
+      "dropbox",
       "cloud",
       "cloud computing",
+      "skydrive",
       "ec2",
       "icloud",
       "vps",
       "virtualization",
-      "online storage"
+      "online storage",
+      "vds"
     ],
     "copyright": false,
     "files": {
@@ -55148,7 +55164,7 @@
     "category": "Clothing",
     "created": 1390342414,
     "tags": [
-
+      "sticker"
     ],
     "copyright": false,
     "files": {
@@ -55666,16 +55682,10 @@
     "category": "Very Basic",
     "created": 1323361504,
     "tags": [
-      "calendar",
-      "line",
-      "sound",
-      "slideshow",
+      "sync",
       "upload",
-      "video",
-      "cart",
       "font",
-      "share",
-      "agenda"
+      "share"
     ],
     "copyright": false,
     "files": {
@@ -56274,10 +56284,13 @@
       "curve",
       "angle",
       "scalable",
+      "sketch",
       "eps",
       "ai",
+      "pdf",
       "svg",
-      "bezier"
+      "bezier",
+      "corel"
     ],
     "copyright": false,
     "files": {

@@ -1402,7 +1402,9 @@
     "tags": [
       "create",
       "new file",
-      "save"
+      "save",
+      "template",
+      "new document"
     ],
     "copyright": false,
     "files": {
@@ -8043,7 +8045,7 @@
       "rearing",
       "lactose",
       "suckle",
-      "SPORT WATER"
+      "sports water bottle"
     ],
     "copyright": false,
     "files": {
@@ -9313,16 +9315,15 @@
       "buy",
       "goods",
       "buying",
+      "retail",
       "e-commerce",
       "store",
       "shop",
-      "post",
       "customer",
       "price",
       "supermarket",
       "detail",
-      "motor",
-      "advertise"
+      "motor"
     ],
     "copyright": false,
     "files": {
@@ -13702,7 +13703,6 @@
     "tags": [
       "clock",
       "calendar",
-      "time",
       "watch",
       "wall clock",
       "minutes",
@@ -13717,9 +13717,11 @@
       "time efficiency",
       "fast",
       "ready",
+      "timer",
       "wine",
       "truck",
-      "complete"
+      "complete",
+      "time"
     ],
     "copyright": false,
     "files": {
@@ -13906,7 +13908,8 @@
       "windows controls",
       "exit application",
       "program",
-      "quit"
+      "quit",
+      "cancel"
     ],
     "copyright": false,
     "files": {
@@ -35514,10 +35517,10 @@
     "category": "Household",
     "created": 1328289718,
     "tags": [
+      "reading",
       "home",
       "light",
-      "living room",
-      "teeth"
+      "living room"
     ],
     "copyright": false,
     "files": {
@@ -35975,6 +35978,10 @@
     "category": "Plants",
     "created": 1335345088,
     "tags": [
+      "sport",
+      "park",
+      "green",
+      "environment",
       "wired network",
       "tree",
       "plant",
@@ -35983,7 +35990,10 @@
       "nature",
       "mother earth",
       "chlorophyll",
-      "sport",
+      "ecological",
+      "green peace",
+      "wwf",
+      "peta",
       "white"
     ],
     "copyright": false,
@@ -44265,12 +44275,18 @@
     "category": "Industry",
     "created": 1377683318,
     "tags": [
+      "electric",
       "logo",
+      "electricity",
       "plant",
+      "radiation",
       "nuclear power plant",
       "nuclear",
       "nuclear power",
-      "tank"
+      "tank",
+      "uranium",
+      "chernobyl",
+      "plutonium"
     ],
     "copyright": false,
     "files": {
@@ -49297,8 +49313,10 @@
     "category": "Folders",
     "created": 1394020283,
     "tags": [
-      "porn",
-      "orazio"
+      "sex",
+      "orazio",
+      "doggy style",
+      "porn"
     ],
     "copyright": false,
     "files": {
@@ -69918,7 +69936,6 @@
       "filing",
       "booklet",
       "brochure",
-      "leaflet",
       "cover",
       "user folder",
       "user directory",
@@ -71871,7 +71888,11 @@
     "created": 1379673291,
     "tags": [
       "walking",
-      "walks"
+      "walks",
+      "hiking",
+      "pedestrian",
+      "crosswalk",
+      "walking tour"
     ],
     "copyright": false,
     "files": {
