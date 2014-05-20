@@ -1203,6 +1203,7 @@
       "wake up",
       "morning",
       "time",
+      "live",
       "switch",
       "map",
       "reminder",
@@ -2082,7 +2083,9 @@
     "category": "Very Basic",
     "created": 1324991427,
     "tags": [
+      "add",
       "file",
+      "new",
       "filing",
       "storage",
       "archive",
@@ -5320,11 +5323,11 @@
       "setting",
       "text",
       "formatting",
-      "color",
       "brush",
       "style",
       "paint",
-      "art"
+      "art",
+      "color"
     ],
     "copyright": false,
     "files": {
@@ -17646,11 +17649,13 @@
       "edit",
       "arrows",
       "arrow",
+      "graph",
       "zoom in",
       "scale",
       "expand",
       "enlarge",
-      "unfold"
+      "unfold",
+      "stadistic"
     ],
     "copyright": false,
     "files": {
@@ -25777,7 +25782,8 @@
       "instagram",
       "snapshot",
       "gallery",
-      "interface"
+      "interface",
+      "social"
     ],
     "copyright": false,
     "files": {
@@ -29118,6 +29124,7 @@
     "created": 1334650113,
     "tags": [
       "chart",
+      "book",
       "day",
       "graph",
       "temperature",
@@ -29332,6 +29339,7 @@
       "tag",
       "search",
       "location",
+      "menu",
       "night",
       "coffee",
       "map",
@@ -36774,6 +36782,7 @@
       "communication",
       "communicate",
       "comms",
+      "web",
       "headset",
       "call",
       "telephone",
@@ -37779,6 +37788,7 @@
       "media",
       "media controls",
       "triangle",
+      "youtube",
       "option",
       "pause"
     ],
@@ -55981,7 +55991,8 @@
     "category": "Users",
     "created": 1390342414,
     "tags": [
-      "translate"
+      "translate",
+      "ffffff"
     ],
     "copyright": false,
     "files": {
