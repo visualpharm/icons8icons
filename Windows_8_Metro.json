@@ -8316,13 +8316,13 @@
       "reflexes",
       "boxer",
       "punches",
-      "knockdown",
       "knuckle",
       "rounds",
       "hitting",
       "tripping",
       "pushing",
-      "cl"
+      "clinch",
+      "heavy"
     ],
     "copyright": false,
     "files": {
@@ -21980,7 +21980,8 @@
       "drink",
       "boil",
       "electricity",
-      "hot water"
+      "hot water",
+      "bottle"
     ],
     "copyright": false,
     "files": {
@@ -25254,9 +25255,14 @@
     "created": 1377768771,
     "tags": [
       "yoga",
+      "spirituality",
+      "buddhism",
       "guru",
       "meditation",
-      "floating guru"
+      "floating guru",
+      "buddha",
+      "yogi",
+      "hinduism"
     ],
     "copyright": false,
     "files": {
@@ -26923,6 +26929,7 @@
     "created": 1380708756,
     "tags": [
       "garden",
+      "flower",
       "shears"
     ],
     "copyright": false,
@@ -28180,6 +28187,7 @@
       "globe",
       "earth",
       "internet",
+      "compass",
       "wallet",
       "view",
       "maps",
@@ -29703,11 +29711,14 @@
     "created": 1377768771,
     "tags": [
       "yoga",
+      "teacher",
+      "buddhism",
       "guru",
       "meditation",
       "meditation guru",
       "floating guru",
-      "levitation"
+      "levitation",
+      "buddha"
     ],
     "copyright": false,
     "files": {
@@ -35205,7 +35216,7 @@
     "id": 268,
     "name": "knife",
     "platform": "Windows 8/Metro",
-    "category": "Military",
+    "category": "Food",
     "created": 1321620999,
     "tags": [
       "cut",
@@ -35221,7 +35232,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Military/knife.svg",
+      "svg": "/SVG/Food/knife.svg",
       "svg.simplified": "/SVG_for_Font/Military/knife.svg",
       "eps": "/EPS/Military/knife.eps",
       "png": {
@@ -39222,9 +39233,12 @@
     "created": 1377768771,
     "tags": [
       "yoga",
+      "buddhism",
       "guru",
       "meditation",
-      "meditation guru"
+      "meditation guru",
+      "buddha",
+      "conciseness"
     ],
     "copyright": false,
     "files": {
@@ -40969,7 +40983,8 @@
       "graph",
       "money",
       "coins",
-      "bag money bag"
+      "bag money bag",
+      "emotions"
     ],
     "copyright": false,
     "files": {
@@ -49641,9 +49656,11 @@
     "category": "Cultures",
     "created": 1376311223,
     "tags": [
+      "east",
       "yoga",
       "philosophy",
       "religion",
+      "spirituality",
       "pranava",
       "torii",
       "india"
@@ -75486,6 +75503,7 @@
     "created": 1340176239,
     "tags": [
       "mind",
+      "east",
       "sport",
       "muscles",
       "park",
@@ -75494,7 +75512,9 @@
       "sports",
       "lifestyle",
       "yoga",
-      "concentrate"
+      "concentrate",
+      "workout",
+      "stretching"
     ],
     "copyright": false,
     "files": {

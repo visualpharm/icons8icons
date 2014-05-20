@@ -335,7 +335,8 @@
       "add user",
       "append user",
       "create user",
-      "remove"
+      "remove",
+      "Existing user"
     ],
     "copyright": false,
     "files": {
