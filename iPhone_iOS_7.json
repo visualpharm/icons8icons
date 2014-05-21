@@ -6176,7 +6176,6 @@
       "school",
       "transport set",
       "city",
-      "station",
       "bus station",
       "car",
       "bus stop"
@@ -48547,8 +48546,7 @@
       "religion",
       "muslim",
       "christian",
-      "dharmacakra",
-      "star and crescent"
+      "dharmacakra"
     ],
     "copyright": false,
     "files": {
@@ -53379,7 +53377,12 @@
       "washing",
       "1search",
       "hyperlink",
-      "category 2 it provides royalty images it mainly describes white app button with shadow its"
+      "toilet",
+      "restroom",
+      "lavatory",
+      "urinal",
+      "latrine",
+      "changing"
     ],
     "copyright": false,
     "files": {
