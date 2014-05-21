@@ -1027,6 +1027,7 @@
       "user",
       "edit",
       "star",
+      "car",
       "airplane",
       "checkbox",
       "holiday",
@@ -3562,6 +3563,7 @@
     "category": "Clothing",
     "created": 1348650613,
     "tags": [
+      "edit",
       "head",
       "clothes",
       "score",
@@ -15270,7 +15272,8 @@
       "upload",
       "download",
       "back",
-      "change layout"
+      "change layout",
+      "hoverback"
     ],
     "copyright": false,
     "files": {
@@ -19038,6 +19041,7 @@
       "fire",
       "line",
       "light",
+      "lightning",
       "arrow",
       "direction",
       "clip",
@@ -19082,8 +19086,7 @@
       "hook",
       "nobody",
       "layer",
-      "fuel",
-      "burning"
+      "fue"
     ],
     "copyright": false,
     "files": {
@@ -42500,6 +42503,7 @@
       "group",
       "users",
       "team",
+      "photo",
       "awards",
       "collaborate",
       "partner",
@@ -51025,8 +51029,8 @@
       "page components",
       "controls",
       "screen",
-      "layout",
-      "user interface"
+      "user interface",
+      "layout"
     ],
     "copyright": false,
     "files": {
