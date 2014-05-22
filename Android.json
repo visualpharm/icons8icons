@@ -18536,14 +18536,14 @@
       "match",
       "money",
       "structure",
-      "interface",
       "plugin",
       "property",
       "piece",
       "enable",
       "extension",
       "mosaic",
-      "integration"
+      "integration",
+      "interface"
     ],
     "copyright": false,
     "files": {

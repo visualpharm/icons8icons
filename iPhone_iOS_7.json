@@ -31762,6 +31762,7 @@
       "reply",
       "link",
       "announcement",
+      "sport",
       "announce",
       "attention",
       "news",
@@ -45915,6 +45916,7 @@
     "tags": [
       "calendar",
       "share",
+      "notifications",
       "folder",
       "arrow",
       "settings",
