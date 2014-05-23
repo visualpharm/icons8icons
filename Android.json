@@ -11203,6 +11203,7 @@
     "tags": [
       "mark",
       "business",
+      "bus",
       "priority",
       "high importance",
       "high",
@@ -14544,7 +14545,7 @@
     "category": "Healthcare",
     "created": 1399402290,
     "tags": [
-
+      "inscription"
     ],
     "copyright": false,
     "files": {
@@ -18000,6 +18001,7 @@
       "white",
       "icon",
       "style",
+      "font",
       "modern",
       "side",
       "beautiful",
@@ -18016,8 +18018,7 @@
       "avatar",
       "silhouette",
       "sketch",
-      "pattern",
-      "clip-"
+      "pattern"
     ],
     "copyright": false,
     "files": {
@@ -21141,6 +21142,8 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
+      "server",
+      "reorcer",
       "find",
       "search",
       "detect",
