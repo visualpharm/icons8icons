@@ -1708,7 +1708,6 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
-      "scan",
       "payment methods",
       "barcode",
       "bar code",
@@ -6004,6 +6003,7 @@
       "deliveries",
       "man",
       "sign in",
+      "podcast",
       "high quality"
     ],
     "copyright": false,
@@ -18199,8 +18199,10 @@
       "sale",
       "tag",
       "label",
+      "pound",
       "dollar",
       "pricing",
+      "euro",
       "parts",
       "spare part",
       "price list",
