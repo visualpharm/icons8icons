@@ -2480,6 +2480,98 @@
     }
   },
   {
+    "id": 4763,
+    "name": "align_center",
+    "platform": "Windows 8/Metro",
+    "category": "Editing",
+    "created": 1401166273,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Editing/align_center.svg",
+      "eps": "/EPS/Editing/align_center.eps",
+      "png": {
+        "32": "/PNG/32/Editing/align_center-32.png",
+        "128": "/PNG/128/Editing/align_center-128.png",
+        "26": "/PNG/26/Editing/align_center-26.png",
+        "256": "/PNG/256/Editing/align_center-256.png",
+        "512": "/PNG/512/Editing/align_center-512.png",
+        "64": "/PNG/64/Editing/align_center-64.png"
+      }
+    }
+  },
+  {
+    "id": 4761,
+    "name": "align_justify",
+    "platform": "Windows 8/Metro",
+    "category": "Editing",
+    "created": 1401166273,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Editing/align_justify.svg",
+      "eps": "/EPS/Editing/align_justify.eps",
+      "png": {
+        "32": "/PNG/32/Editing/align_justify-32.png",
+        "128": "/PNG/128/Editing/align_justify-128.png",
+        "26": "/PNG/26/Editing/align_justify-26.png",
+        "256": "/PNG/256/Editing/align_justify-256.png",
+        "512": "/PNG/512/Editing/align_justify-512.png",
+        "64": "/PNG/64/Editing/align_justify-64.png"
+      }
+    }
+  },
+  {
+    "id": 4765,
+    "name": "align_left",
+    "platform": "Windows 8/Metro",
+    "category": "Editing",
+    "created": 1401166273,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Editing/align_left.svg",
+      "eps": "/EPS/Editing/align_left.eps",
+      "png": {
+        "32": "/PNG/32/Editing/align_left-32.png",
+        "128": "/PNG/128/Editing/align_left-128.png",
+        "26": "/PNG/26/Editing/align_left-26.png",
+        "256": "/PNG/256/Editing/align_left-256.png",
+        "512": "/PNG/512/Editing/align_left-512.png",
+        "64": "/PNG/64/Editing/align_left-64.png"
+      }
+    }
+  },
+  {
+    "id": 4759,
+    "name": "align_right",
+    "platform": "Windows 8/Metro",
+    "category": "Editing",
+    "created": 1401166273,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Editing/align_right.svg",
+      "eps": "/EPS/Editing/align_right.eps",
+      "png": {
+        "32": "/PNG/32/Editing/align_right-32.png",
+        "128": "/PNG/128/Editing/align_right-128.png",
+        "26": "/PNG/26/Editing/align_right-26.png",
+        "256": "/PNG/256/Editing/align_right-256.png",
+        "512": "/PNG/512/Editing/align_right-512.png",
+        "64": "/PNG/64/Editing/align_right-64.png"
+      }
+    }
+  },
+  {
     "id": 1087,
     "name": "almost_empty",
     "platform": "Windows 8/Metro",
@@ -6784,6 +6876,29 @@
         "512": "/PNG/512/Household/bell_service-512.png",
         "64": "/PNG/64/Household/bell_service-64.png",
         "48": "/PNG/48/Household/bell_service-48.png"
+      }
+    }
+  },
+  {
+    "id": 4766,
+    "name": "bench",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1401166273,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/bench.svg",
+      "eps": "/EPS/City/bench.eps",
+      "png": {
+        "32": "/PNG/32/City/bench-32.png",
+        "128": "/PNG/128/City/bench-128.png",
+        "26": "/PNG/26/City/bench-26.png",
+        "256": "/PNG/256/City/bench-256.png",
+        "512": "/PNG/512/City/bench-512.png",
+        "64": "/PNG/64/City/bench-64.png"
       }
     }
   },
@@ -11527,43 +11642,6 @@
         "256": "/PNG/256/City/cemetery-256.png",
         "512": "/PNG/512/City/cemetery-512.png",
         "64": "/PNG/64/City/cemetery-64.png"
-      }
-    }
-  },
-  {
-    "id": 806,
-    "name": "center",
-    "platform": "Windows 8/Metro",
-    "category": "Editing",
-    "created": 1335943535,
-    "tags": [
-      "design",
-      "position",
-      "note",
-      "pad",
-      "format",
-      "word",
-      "documents",
-      "lines",
-      "layout",
-      "middle",
-      "equal",
-      "structure",
-      "microsoft word"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Editing/center.svg",
-      "svg.simplified": "/SVG_for_Font/Editing/center.svg",
-      "eps": "/EPS/Editing/center.eps",
-      "png": {
-        "32": "/PNG/32/Editing/center-32.png",
-        "128": "/PNG/128/Editing/center-128.png",
-        "26": "/PNG/26/Editing/center-26.png",
-        "256": "/PNG/256/Editing/center-256.png",
-        "512": "/PNG/512/Editing/center-512.png",
-        "64": "/PNG/64/Editing/center-64.png",
-        "48": "/PNG/48/Editing/center-48.png"
       }
     }
   },
@@ -27668,7 +27746,8 @@
       "fuel",
       "explore",
       "gasohol",
-      "propellant"
+      "propellant",
+      "liter"
     ],
     "copyright": false,
     "files": {
@@ -35160,43 +35239,6 @@
     }
   },
   {
-    "id": 807,
-    "name": "justify",
-    "platform": "Windows 8/Metro",
-    "category": "Editing",
-    "created": 1335943535,
-    "tags": [
-      "design",
-      "position",
-      "note",
-      "pad",
-      "format",
-      "word",
-      "documents",
-      "lines",
-      "layout",
-      "microsoft word",
-      "text align",
-      "alignment",
-      "cube"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Editing/justify.svg",
-      "svg.simplified": "/SVG_for_Font/Editing/justify.svg",
-      "eps": "/EPS/Editing/justify.eps",
-      "png": {
-        "32": "/PNG/32/Editing/justify-32.png",
-        "128": "/PNG/128/Editing/justify-128.png",
-        "26": "/PNG/26/Editing/justify-26.png",
-        "256": "/PNG/256/Editing/justify-256.png",
-        "512": "/PNG/512/Editing/justify-512.png",
-        "64": "/PNG/64/Editing/justify-64.png",
-        "48": "/PNG/48/Editing/justify-48.png"
-      }
-    }
-  },
-  {
     "id": 3068,
     "name": "j_lowercase",
     "platform": "Windows 8/Metro",
@@ -36642,48 +36684,6 @@
         "512": "/PNG/512/Industry/led_diode-512.png",
         "64": "/PNG/64/Industry/led_diode-64.png",
         "48": "/PNG/48/Industry/led_diode-48.png"
-      }
-    }
-  },
-  {
-    "id": 356,
-    "name": "left",
-    "platform": "Windows 8/Metro",
-    "category": "Editing",
-    "created": 1318518052,
-    "tags": [
-      "track",
-      "left",
-      "direction",
-      "west",
-      "right",
-      "east",
-      "options",
-      "course",
-      "way",
-      "down",
-      "buttons",
-      "traffic",
-      "compass",
-      "road",
-      "path",
-      "north",
-      "up",
-      "sideward"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Editing/left.svg",
-      "svg.simplified": "/SVG_for_Font/Editing/left.svg",
-      "eps": "/EPS/Editing/left.eps",
-      "png": {
-        "32": "/PNG/32/Editing/left-32.png",
-        "128": "/PNG/128/Editing/left-128.png",
-        "26": "/PNG/26/Editing/left-26.png",
-        "256": "/PNG/256/Editing/left-256.png",
-        "512": "/PNG/512/Editing/left-512.png",
-        "64": "/PNG/64/Editing/left-64.png",
-        "48": "/PNG/48/Editing/left-48.png"
       }
     }
   },
@@ -41698,31 +41698,6 @@
         "256": "/PNG/256/City/monument-256.png",
         "512": "/PNG/512/City/monument-512.png",
         "64": "/PNG/64/City/monument-64.png"
-      }
-    }
-  },
-  {
-    "id": 651,
-    "name": "moon",
-    "platform": "Windows 8/Metro",
-    "category": "Weather",
-    "created": 1331541214,
-    "tags": [
-      "weather"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Weather/moon.svg",
-      "svg.simplified": "/SVG_for_Font/Weather/moon.svg",
-      "eps": "/EPS/Weather/moon.eps",
-      "png": {
-        "32": "/PNG/32/Weather/moon-32.png",
-        "128": "/PNG/128/Weather/moon-128.png",
-        "26": "/PNG/26/Weather/moon-26.png",
-        "256": "/PNG/256/Weather/moon-256.png",
-        "512": "/PNG/512/Weather/moon-512.png",
-        "64": "/PNG/64/Weather/moon-64.png",
-        "48": "/PNG/48/Weather/moon-48.png"
       }
     }
   },
@@ -47189,7 +47164,7 @@
     "id": 2409,
     "name": "park_bench",
     "platform": "Windows 8/Metro",
-    "category": "City",
+    "category": "Travel",
     "created": 1390342413,
     "tags": [
       "vector",
@@ -47240,16 +47215,16 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/City/park_bench.svg",
+      "svg": "/SVG/Travel/park_bench.svg",
       "svg.simplified": "/SVG_for_Font/Travel/park_bench.svg",
-      "eps": "/EPS/City/park_bench.eps",
+      "eps": "/EPS/Travel/park_bench.eps",
       "png": {
-        "32": "/PNG/32/City/park_bench-32.png",
-        "128": "/PNG/128/City/park_bench-128.png",
-        "26": "/PNG/26/City/park_bench-26.png",
-        "256": "/PNG/256/City/park_bench-256.png",
-        "512": "/PNG/512/City/park_bench-512.png",
-        "64": "/PNG/64/City/park_bench-64.png",
+        "32": "/PNG/32/Travel/park_bench-32.png",
+        "128": "/PNG/128/Travel/park_bench-128.png",
+        "26": "/PNG/26/Travel/park_bench-26.png",
+        "256": "/PNG/256/Travel/park_bench-256.png",
+        "512": "/PNG/512/Travel/park_bench-512.png",
+        "64": "/PNG/64/Travel/park_bench-64.png",
         "48": "/PNG/48/Travel/park_bench-48.png"
       }
     }
@@ -54281,32 +54256,6 @@
         "512": "/PNG/512/Military/rifle-512.png",
         "64": "/PNG/64/Military/rifle-64.png",
         "48": "/PNG/48/Military/rifle-48.png"
-      }
-    }
-  },
-  {
-    "id": 354,
-    "name": "right",
-    "platform": "Windows 8/Metro",
-    "category": "Editing",
-    "created": 1318518052,
-    "tags": [
-      "direction",
-      "right"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Editing/right.svg",
-      "svg.simplified": "/SVG_for_Font/Editing/right.svg",
-      "eps": "/EPS/Editing/right.eps",
-      "png": {
-        "32": "/PNG/32/Editing/right-32.png",
-        "128": "/PNG/128/Editing/right-128.png",
-        "26": "/PNG/26/Editing/right-26.png",
-        "256": "/PNG/256/Editing/right-256.png",
-        "512": "/PNG/512/Editing/right-512.png",
-        "64": "/PNG/64/Editing/right-64.png",
-        "48": "/PNG/48/Editing/right-48.png"
       }
     }
   },

@@ -2810,6 +2810,31 @@
     }
   },
   {
+    "id": 4768,
+    "name": "average_price",
+    "platform": "iPhone/iOS 7",
+    "category": "Ecommerce",
+    "created": 1401166273,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Ecommerce/average_price.svg",
+      "eps": "/EPS/Ecommerce/average_price.eps",
+      "png": {
+        "25": "/PNG/25/Ecommerce/average_price-25.png",
+        "32": "/PNG/32/Ecommerce/average_price-32.png",
+        "128": "/PNG/128/Ecommerce/average_price-128.png",
+        "75": "/PNG/75/Ecommerce/average_price-75.png",
+        "256": "/PNG/256/Ecommerce/average_price-256.png",
+        "100": "/PNG/100/Ecommerce/average_price-100.png",
+        "512": "/PNG/512/Ecommerce/average_price-512.png",
+        "50": "/PNG/50/Ecommerce/average_price-50.png"
+      }
+    }
+  },
+  {
     "id": 322,
     "name": "avi",
     "platform": "iPhone/iOS 7",
@@ -4555,6 +4580,31 @@
         "100": "/PNG/100/Household/bell_service-100.png",
         "512": "/PNG/512/Household/bell_service-512.png",
         "50": "/PNG/50/Household/bell_service-50.png"
+      }
+    }
+  },
+  {
+    "id": 4767,
+    "name": "bench",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1401166273,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/bench.svg",
+      "eps": "/EPS/City/bench.eps",
+      "png": {
+        "25": "/PNG/25/City/bench-25.png",
+        "32": "/PNG/32/City/bench-32.png",
+        "128": "/PNG/128/City/bench-128.png",
+        "75": "/PNG/75/City/bench-75.png",
+        "256": "/PNG/256/City/bench-256.png",
+        "100": "/PNG/100/City/bench-100.png",
+        "512": "/PNG/512/City/bench-512.png",
+        "50": "/PNG/50/City/bench-50.png"
       }
     }
   },
@@ -8910,6 +8960,7 @@
       "good",
       "ok",
       "data",
+      "button",
       "upright",
       "suitable",
       "appropriate",
@@ -25693,7 +25744,17 @@
     "category": "Ecommerce",
     "created": 1401144672,
     "tags": [
-
+      "coin",
+      "coins",
+      "charge",
+      "duty",
+      "tax",
+      "expensive",
+      "margin",
+      "cost",
+      "costly",
+      "fee",
+      "many"
     ],
     "copyright": false,
     "files": {
@@ -26455,6 +26516,7 @@
       "paint",
       "button",
       "schedule",
+      "pressure",
       "simple",
       "face",
       "drops",
@@ -30351,6 +30413,7 @@
     "tags": [
       "distance",
       "tool",
+      "open",
       "line width",
       "horizontal"
     ],
@@ -31101,7 +31164,14 @@
     "category": "Ecommerce",
     "created": 1401144672,
     "tags": [
-
+      "discount",
+      "coin",
+      "one",
+      "rate",
+      "cheap",
+      "tax",
+      "cost",
+      "inexpensive"
     ],
     "copyright": false,
     "files": {
@@ -32115,8 +32185,7 @@
     "category": "Sports",
     "created": 1346751632,
     "tags": [
-      "military",
-      "pause"
+      "military"
     ],
     "copyright": false,
     "files": {
@@ -37792,7 +37861,7 @@
     "id": 2410,
     "name": "park_bench",
     "platform": "iPhone/iOS 7",
-    "category": "City",
+    "category": "Travel",
     "created": 1390342413,
     "tags": [
       "vector",
@@ -37843,18 +37912,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/City/park_bench.svg",
+      "svg": "/SVG/Travel/park_bench.svg",
       "svg.simplified": "/SVG_for_Font/Travel/park_bench.svg",
-      "eps": "/EPS/City/park_bench.eps",
+      "eps": "/EPS/Travel/park_bench.eps",
       "png": {
-        "25": "/PNG/25/City/park_bench-25.png",
-        "32": "/PNG/32/City/park_bench-32.png",
-        "128": "/PNG/128/City/park_bench-128.png",
-        "75": "/PNG/75/City/park_bench-75.png",
-        "256": "/PNG/256/City/park_bench-256.png",
-        "100": "/PNG/100/City/park_bench-100.png",
-        "512": "/PNG/512/City/park_bench-512.png",
-        "50": "/PNG/50/City/park_bench-50.png"
+        "25": "/PNG/25/Travel/park_bench-25.png",
+        "32": "/PNG/32/Travel/park_bench-32.png",
+        "128": "/PNG/128/Travel/park_bench-128.png",
+        "75": "/PNG/75/Travel/park_bench-75.png",
+        "256": "/PNG/256/Travel/park_bench-256.png",
+        "100": "/PNG/100/Travel/park_bench-100.png",
+        "512": "/PNG/512/Travel/park_bench-512.png",
+        "50": "/PNG/50/Travel/park_bench-50.png"
       }
     }
   },
@@ -39120,10 +39189,10 @@
       "smiling",
       "computer graphic",
       "animal head",
-      "young animal",
       "illustrations and vector art",
       "oink",
-      "vector cart"
+      "vector cartoons",
+      "illustra"
     ],
     "copyright": false,
     "files": {
@@ -43985,6 +44054,7 @@
     "category": "Arrows",
     "created": 1318518052,
     "tags": [
+      "ok",
       "direction",
       "right"
     ],
@@ -58153,11 +58223,11 @@
       "options",
       "course",
       "way",
+      "down",
       "buttons",
       "traffic",
       "compass",
       "road",
-      "path",
       "north",
       "up",
       "sideward"
