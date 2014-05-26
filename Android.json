@@ -683,7 +683,7 @@
       "eps": "/EPS/Shopping/alarm_clock.eps",
       "png": {
         "32": "/PNG/32/Shopping/alarm_clock-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/alarm_clock-128.png",
+        "128": "/PNG/128/Shopping/alarm_clock-128.png",
         "256": "/PNG/256/Shopping/alarm_clock-256.png",
         "36": "/PNG/36/Shopping/alarm_clock-36.png",
         "512": "/PNG/512/Shopping/alarm_clock-512.png",
@@ -834,7 +834,7 @@
       "eps": "/EPS/Shopping/amex_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Shopping/amex_copyrighted-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/amex_copyrighted-128.png",
+        "128": "/PNG/128/Shopping/amex_copyrighted-128.png",
         "256": "/PNG/256/Shopping/amex_copyrighted-256.png",
         "36": "/PNG/36/Shopping/amex_copyrighted-36.png",
         "512": "/PNG/512/Shopping/amex_copyrighted-512.png",
@@ -842,6 +842,32 @@
         "24": "/PNG/24/Shopping/amex_copyrighted-24.png",
         "96": "/PNG/96/Shopping/amex_copyrighted-96.png",
         "48": "/PNG/48/Shopping/amex_copyrighted-48.png"
+      }
+    }
+  },
+  {
+    "id": 4666,
+    "name": "ammo_tin",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/ammo_tin.svg",
+      "eps": "/EPS/Military/ammo_tin.eps",
+      "png": {
+        "32": "/PNG/32/Military/ammo_tin-32.png",
+        "128": "/PNG/128/Military/ammo_tin-128.png",
+        "256": "/PNG/256/Military/ammo_tin-256.png",
+        "36": "/PNG/36/Military/ammo_tin-36.png",
+        "512": "/PNG/512/Military/ammo_tin-512.png",
+        "64": "/PNG/64/Military/ammo_tin-64.png",
+        "24": "/PNG/24/Military/ammo_tin-24.png",
+        "96": "/PNG/96/Military/ammo_tin-96.png",
+        "48": "/PNG/48/Military/ammo_tin-48.png"
       }
     }
   },
@@ -1390,7 +1416,7 @@
       "eps": "/EPS/Very_Basic/audio_file.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/audio_file-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/audio_file-128.png",
+        "128": "/PNG/128/Very_Basic/audio_file-128.png",
         "256": "/PNG/256/Very_Basic/audio_file-256.png",
         "36": "/PNG/36/Very_Basic/audio_file-36.png",
         "512": "/PNG/512/Very_Basic/audio_file-512.png",
@@ -1674,7 +1700,7 @@
       "eps": "/EPS/Shopping/average.eps",
       "png": {
         "32": "/PNG/32/Shopping/average-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (3))/average-128.png",
+        "128": "/PNG/128/Shopping/average-128.png",
         "256": "/PNG/256/Shopping/average-256.png",
         "36": "/PNG/36/Shopping/average-36.png",
         "512": "/PNG/512/Shopping/average-512.png",
@@ -1884,7 +1910,7 @@
       "eps": "/EPS/Shopping/banknotes.eps",
       "png": {
         "32": "/PNG/32/Shopping/banknotes-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (3))/banknotes-128.png",
+        "128": "/PNG/128/Shopping/banknotes-128.png",
         "256": "/PNG/256/Shopping/banknotes-256.png",
         "36": "/PNG/36/Shopping/banknotes-36.png",
         "512": "/PNG/512/Shopping/banknotes-512.png",
@@ -1928,7 +1954,7 @@
       "eps": "/EPS/Shopping/bank_cards.eps",
       "png": {
         "32": "/PNG/32/Shopping/bank_cards-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (2))/bank_cards-128.png",
+        "128": "/PNG/128/Shopping/bank_cards-128.png",
         "256": "/PNG/256/Shopping/bank_cards-256.png",
         "36": "/PNG/36/Shopping/bank_cards-36.png",
         "512": "/PNG/512/Shopping/bank_cards-512.png",
@@ -1989,7 +2015,7 @@
       "eps": "/EPS/Shopping/barcode.eps",
       "png": {
         "32": "/PNG/32/Shopping/barcode-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/barcode-128.png",
+        "128": "/PNG/128/Shopping/barcode-128.png",
         "256": "/PNG/256/Shopping/barcode-256.png",
         "36": "/PNG/36/Shopping/barcode-36.png",
         "512": "/PNG/512/Shopping/barcode-512.png",
@@ -2914,7 +2940,7 @@
       "eps": "/EPS/Very_Basic/bookmark.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/bookmark-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/bookmark-128.png",
+        "128": "/PNG/128/Very_Basic/bookmark-128.png",
         "256": "/PNG/256/Very_Basic/bookmark-256.png",
         "36": "/PNG/36/Very_Basic/bookmark-36.png",
         "512": "/PNG/512/Very_Basic/bookmark-512.png",
@@ -3138,7 +3164,7 @@
       "eps": "/EPS/Shopping/box2.eps",
       "png": {
         "32": "/PNG/32/Shopping/box2-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (21))/box2-128.png",
+        "128": "/PNG/128/Shopping/box2-128.png",
         "256": "/PNG/256/Shopping/box2-256.png",
         "36": "/PNG/36/Shopping/box2-36.png",
         "512": "/PNG/512/Shopping/box2-512.png",
@@ -3219,7 +3245,7 @@
       "eps": "/EPS/Shopping/breifcase.eps",
       "png": {
         "32": "/PNG/32/Shopping/breifcase-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/breifcase-128.png",
+        "128": "/PNG/128/Shopping/breifcase-128.png",
         "256": "/PNG/256/Shopping/breifcase-256.png",
         "36": "/PNG/36/Shopping/breifcase-36.png",
         "512": "/PNG/512/Shopping/breifcase-512.png",
@@ -3452,7 +3478,7 @@
       "eps": "/EPS/Objects/burn_cd.eps",
       "png": {
         "32": "/PNG/32/Objects/burn_cd-32.png",
-        "128": "/PNG/128/objects (Case Conflict (9))/burn_cd-128.png",
+        "128": "/PNG/128/Objects/burn_cd-128.png",
         "256": "/PNG/256/Objects/burn_cd-256.png",
         "36": "/PNG/36/Objects/burn_cd-36.png",
         "512": "/PNG/512/Objects/burn_cd-512.png",
@@ -3524,7 +3550,7 @@
       "eps": "/EPS/Shopping/buy.eps",
       "png": {
         "32": "/PNG/32/Shopping/buy-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (15))/buy-128.png",
+        "128": "/PNG/128/Shopping/buy-128.png",
         "256": "/PNG/256/Shopping/buy-256.png",
         "36": "/PNG/36/Shopping/buy-36.png",
         "512": "/PNG/512/Shopping/buy-512.png",
@@ -3562,7 +3588,7 @@
       "eps": "/EPS/Very_Basic/calculator.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/calculator-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/calculator-128.png",
+        "128": "/PNG/128/Very_Basic/calculator-128.png",
         "256": "/PNG/256/Very_Basic/calculator-256.png",
         "36": "/PNG/36/Very_Basic/calculator-36.png",
         "512": "/PNG/512/Very_Basic/calculator-512.png",
@@ -3612,7 +3638,7 @@
       "eps": "/EPS/Very_Basic/calendar.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/calendar-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/calendar-128.png",
+        "128": "/PNG/128/Very_Basic/calendar-128.png",
         "256": "/PNG/256/Very_Basic/calendar-256.png",
         "36": "/PNG/36/Very_Basic/calendar-36.png",
         "512": "/PNG/512/Very_Basic/calendar-512.png",
@@ -4229,7 +4255,7 @@
       "eps": "/EPS/Shopping/card_inserting.eps",
       "png": {
         "32": "/PNG/32/Shopping/card_inserting-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (29))/card_inserting-128.png",
+        "128": "/PNG/128/Shopping/card_inserting-128.png",
         "256": "/PNG/256/Shopping/card_inserting-256.png",
         "36": "/PNG/36/Shopping/card_inserting-36.png",
         "512": "/PNG/512/Shopping/card_inserting-512.png",
@@ -4273,7 +4299,7 @@
       "eps": "/EPS/Shopping/card_in_use.eps",
       "png": {
         "32": "/PNG/32/Shopping/card_in_use-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (19))/card_in_use-128.png",
+        "128": "/PNG/128/Shopping/card_in_use-128.png",
         "256": "/PNG/256/Shopping/card_in_use-256.png",
         "36": "/PNG/36/Shopping/card_in_use-36.png",
         "512": "/PNG/512/Shopping/card_in_use-512.png",
@@ -4321,7 +4347,7 @@
       "eps": "/EPS/Shopping/cash_receiving.eps",
       "png": {
         "32": "/PNG/32/Shopping/cash_receiving-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (20))/cash_receiving-128.png",
+        "128": "/PNG/128/Shopping/cash_receiving-128.png",
         "256": "/PNG/256/Shopping/cash_receiving-256.png",
         "36": "/PNG/36/Shopping/cash_receiving-36.png",
         "512": "/PNG/512/Shopping/cash_receiving-512.png",
@@ -4680,7 +4706,7 @@
       "eps": "/EPS/Shopping/cheap.eps",
       "png": {
         "32": "/PNG/32/Shopping/cheap-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (21))/cheap-128.png",
+        "128": "/PNG/128/Shopping/cheap-128.png",
         "256": "/PNG/256/Shopping/cheap-256.png",
         "36": "/PNG/36/Shopping/cheap-36.png",
         "512": "/PNG/512/Shopping/cheap-512.png",
@@ -4776,7 +4802,7 @@
       "eps": "/EPS/Very_Basic/checkmark.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/checkmark-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict (20))/checkmark-128.png",
+        "128": "/PNG/128/Very_Basic/checkmark-128.png",
         "256": "/PNG/256/Very_Basic/checkmark-256.png",
         "36": "/PNG/36/Very_Basic/checkmark-36.png",
         "512": "/PNG/512/Very_Basic/checkmark-512.png",
@@ -4813,7 +4839,7 @@
       "eps": "/EPS/Shopping/checkout.eps",
       "png": {
         "32": "/PNG/32/Shopping/checkout-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (1))/checkout-128.png",
+        "128": "/PNG/128/Shopping/checkout-128.png",
         "256": "/PNG/256/Shopping/checkout-256.png",
         "36": "/PNG/36/Shopping/checkout-36.png",
         "512": "/PNG/512/Shopping/checkout-512.png",
@@ -4853,7 +4879,7 @@
       "eps": "/EPS/Shopping/check_book.eps",
       "png": {
         "32": "/PNG/32/Shopping/check_book-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (28))/check_book-128.png",
+        "128": "/PNG/128/Shopping/check_book-128.png",
         "256": "/PNG/256/Shopping/check_book-256.png",
         "36": "/PNG/36/Shopping/check_book-36.png",
         "512": "/PNG/512/Shopping/check_book-512.png",
@@ -5506,7 +5532,7 @@
       "eps": "/EPS/Very_Basic/clock.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/clock-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/clock-128.png",
+        "128": "/PNG/128/Very_Basic/clock-128.png",
         "256": "/PNG/256/Very_Basic/clock-256.png",
         "36": "/PNG/36/Very_Basic/clock-36.png",
         "512": "/PNG/512/Very_Basic/clock-512.png",
@@ -5795,7 +5821,7 @@
       "eps": "/EPS/Shopping/coins.eps",
       "png": {
         "32": "/PNG/32/Shopping/coins-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (29))/coins-128.png",
+        "128": "/PNG/128/Shopping/coins-128.png",
         "256": "/PNG/256/Shopping/coins-256.png",
         "36": "/PNG/36/Shopping/coins-36.png",
         "512": "/PNG/512/Shopping/coins-512.png",
@@ -6202,7 +6228,7 @@
       "eps": "/EPS/Very_Basic/contacts.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/contacts-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict (22))/contacts-128.png",
+        "128": "/PNG/128/Very_Basic/contacts-128.png",
         "256": "/PNG/256/Very_Basic/contacts-256.png",
         "36": "/PNG/36/Very_Basic/contacts-36.png",
         "512": "/PNG/512/Very_Basic/contacts-512.png",
@@ -6686,7 +6712,7 @@
       "eps": "/EPS/Very_Basic/cursor.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/cursor-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/cursor-128.png",
+        "128": "/PNG/128/Very_Basic/cursor-128.png",
         "256": "/PNG/256/Very_Basic/cursor-256.png",
         "36": "/PNG/36/Very_Basic/cursor-36.png",
         "512": "/PNG/512/Very_Basic/cursor-512.png",
@@ -6932,7 +6958,7 @@
       "eps": "/EPS/Very_Basic/delete.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/delete-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/delete-128.png",
+        "128": "/PNG/128/Very_Basic/delete-128.png",
         "256": "/PNG/256/Very_Basic/delete-256.png",
         "36": "/PNG/36/Very_Basic/delete-36.png",
         "512": "/PNG/512/Very_Basic/delete-512.png",
@@ -6994,7 +7020,7 @@
       "eps": "/EPS/Shopping/delivery.eps",
       "png": {
         "32": "/PNG/32/Shopping/delivery-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/delivery-128.png",
+        "128": "/PNG/128/Shopping/delivery-128.png",
         "256": "/PNG/256/Shopping/delivery-256.png",
         "36": "/PNG/36/Shopping/delivery-36.png",
         "512": "/PNG/512/Shopping/delivery-512.png",
@@ -7228,7 +7254,7 @@
       "eps": "/EPS/Shopping/diploma1.eps",
       "png": {
         "32": "/PNG/32/Shopping/diploma1-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (7))/diploma1-128.png",
+        "128": "/PNG/128/Shopping/diploma1-128.png",
         "256": "/PNG/256/Shopping/diploma1-256.png",
         "36": "/PNG/36/Shopping/diploma1-36.png",
         "512": "/PNG/512/Shopping/diploma1-512.png",
@@ -7266,7 +7292,7 @@
       "eps": "/EPS/Shopping/diploma2.eps",
       "png": {
         "32": "/PNG/32/Shopping/diploma2-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (13))/diploma2-128.png",
+        "128": "/PNG/128/Shopping/diploma2-128.png",
         "256": "/PNG/256/Shopping/diploma2-256.png",
         "36": "/PNG/36/Shopping/diploma2-36.png",
         "512": "/PNG/512/Shopping/diploma2-512.png",
@@ -7436,7 +7462,7 @@
       "eps": "/EPS/Very_Basic/document.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/document-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/document-128.png",
+        "128": "/PNG/128/Very_Basic/document-128.png",
         "256": "/PNG/256/Very_Basic/document-256.png",
         "36": "/PNG/36/Very_Basic/document-36.png",
         "512": "/PNG/512/Very_Basic/document-512.png",
@@ -7833,7 +7859,7 @@
       "eps": "/EPS/Very_Basic/download.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/download-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/download-128.png",
+        "128": "/PNG/128/Very_Basic/download-128.png",
         "256": "/PNG/256/Very_Basic/download-256.png",
         "36": "/PNG/36/Very_Basic/download-36.png",
         "512": "/PNG/512/Very_Basic/download-512.png",
@@ -8536,7 +8562,7 @@
       "eps": "/EPS/Shopping/empty_box.eps",
       "png": {
         "32": "/PNG/32/Shopping/empty_box-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (20))/empty_box-128.png",
+        "128": "/PNG/128/Shopping/empty_box-128.png",
         "256": "/PNG/256/Shopping/empty_box-256.png",
         "36": "/PNG/36/Shopping/empty_box-36.png",
         "512": "/PNG/512/Shopping/empty_box-512.png",
@@ -8563,7 +8589,7 @@
       "eps": "/EPS/Objects/empty_filter.eps",
       "png": {
         "32": "/PNG/32/Objects/empty_filter-32.png",
-        "128": "/PNG/128/objects (Case Conflict (5))/empty_filter-128.png",
+        "128": "/PNG/128/Objects/empty_filter-128.png",
         "256": "/PNG/256/Objects/empty_filter-256.png",
         "36": "/PNG/36/Objects/empty_filter-36.png",
         "512": "/PNG/512/Objects/empty_filter-512.png",
@@ -8860,7 +8886,7 @@
       "eps": "/EPS/Shopping/expensive.eps",
       "png": {
         "32": "/PNG/32/Shopping/expensive-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/expensive-128.png",
+        "128": "/PNG/128/Shopping/expensive-128.png",
         "256": "/PNG/256/Shopping/expensive-256.png",
         "36": "/PNG/36/Shopping/expensive-36.png",
         "512": "/PNG/512/Shopping/expensive-512.png",
@@ -9364,7 +9390,7 @@
       "eps": "/EPS/Very_Basic/file.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/file-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/file-128.png",
+        "128": "/PNG/128/Very_Basic/file-128.png",
         "256": "/PNG/256/Very_Basic/file-256.png",
         "36": "/PNG/36/Very_Basic/file-36.png",
         "512": "/PNG/512/Very_Basic/file-512.png",
@@ -9437,7 +9463,7 @@
       "eps": "/EPS/Shopping/filled_box.eps",
       "png": {
         "32": "/PNG/32/Shopping/filled_box-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (23))/filled_box-128.png",
+        "128": "/PNG/128/Shopping/filled_box-128.png",
         "256": "/PNG/256/Shopping/filled_box-256.png",
         "36": "/PNG/36/Shopping/filled_box-36.png",
         "512": "/PNG/512/Shopping/filled_box-512.png",
@@ -9794,6 +9820,32 @@
     }
   },
   {
+    "id": 4661,
+    "name": "firing_gun",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/firing_gun.svg",
+      "eps": "/EPS/Military/firing_gun.eps",
+      "png": {
+        "32": "/PNG/32/Military/firing_gun-32.png",
+        "128": "/PNG/128/Military/firing_gun-128.png",
+        "256": "/PNG/256/Military/firing_gun-256.png",
+        "36": "/PNG/36/Military/firing_gun-36.png",
+        "512": "/PNG/512/Military/firing_gun-512.png",
+        "64": "/PNG/64/Military/firing_gun-64.png",
+        "24": "/PNG/24/Military/firing_gun-24.png",
+        "96": "/PNG/96/Military/firing_gun-96.png",
+        "48": "/PNG/48/Military/firing_gun-48.png"
+      }
+    }
+  },
+  {
     "id": 4515,
     "name": "first_quarter",
     "platform": "Android",
@@ -9936,6 +9988,32 @@
         "24": "/PNG/24/Sports/fishing-24.png",
         "96": "/PNG/96/Sports/fishing-96.png",
         "48": "/PNG/48/Sports/fishing-48.png"
+      }
+    }
+  },
+  {
+    "id": 4659,
+    "name": "flash_bang",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/flash_bang.svg",
+      "eps": "/EPS/Military/flash_bang.eps",
+      "png": {
+        "32": "/PNG/32/Military/flash_bang-32.png",
+        "128": "/PNG/128/Military/flash_bang-128.png",
+        "256": "/PNG/256/Military/flash_bang-256.png",
+        "36": "/PNG/36/Military/flash_bang-36.png",
+        "512": "/PNG/512/Military/flash_bang-512.png",
+        "64": "/PNG/64/Military/flash_bang-64.png",
+        "24": "/PNG/24/Military/flash_bang-24.png",
+        "96": "/PNG/96/Military/flash_bang-96.png",
+        "48": "/PNG/48/Military/flash_bang-48.png"
       }
     }
   },
@@ -10342,7 +10420,7 @@
       "eps": "/EPS/Very_Basic/frame.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/frame-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/frame-128.png",
+        "128": "/PNG/128/Very_Basic/frame-128.png",
         "256": "/PNG/256/Very_Basic/frame-256.png",
         "36": "/PNG/36/Very_Basic/frame-36.png",
         "512": "/PNG/512/Very_Basic/frame-512.png",
@@ -11051,7 +11129,7 @@
       "eps": "/EPS/Shopping/gift.eps",
       "png": {
         "32": "/PNG/32/Shopping/gift-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/gift-128.png",
+        "128": "/PNG/128/Shopping/gift-128.png",
         "256": "/PNG/256/Shopping/gift-256.png",
         "36": "/PNG/36/Shopping/gift-36.png",
         "512": "/PNG/512/Shopping/gift-512.png",
@@ -11122,7 +11200,7 @@
       "eps": "/EPS/Very_Basic/globe.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/globe-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict (12))/globe-128.png",
+        "128": "/PNG/128/Very_Basic/globe-128.png",
         "256": "/PNG/256/Very_Basic/globe-256.png",
         "36": "/PNG/36/Very_Basic/globe-36.png",
         "512": "/PNG/512/Very_Basic/globe-512.png",
@@ -11872,6 +11950,32 @@
     }
   },
   {
+    "id": 4658,
+    "name": "grenade",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/grenade.svg",
+      "eps": "/EPS/Military/grenade.eps",
+      "png": {
+        "32": "/PNG/32/Military/grenade-32.png",
+        "128": "/PNG/128/Military/grenade-128.png",
+        "256": "/PNG/256/Military/grenade-256.png",
+        "36": "/PNG/36/Military/grenade-36.png",
+        "512": "/PNG/512/Military/grenade-512.png",
+        "64": "/PNG/64/Military/grenade-64.png",
+        "24": "/PNG/24/Military/grenade-24.png",
+        "96": "/PNG/96/Military/grenade-96.png",
+        "48": "/PNG/48/Military/grenade-48.png"
+      }
+    }
+  },
+  {
     "id": 3206,
     "name": "group",
     "platform": "Android",
@@ -12026,6 +12130,32 @@
     }
   },
   {
+    "id": 4656,
+    "name": "gun",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/gun.svg",
+      "eps": "/EPS/Military/gun.eps",
+      "png": {
+        "32": "/PNG/32/Military/gun-32.png",
+        "128": "/PNG/128/Military/gun-128.png",
+        "256": "/PNG/256/Military/gun-256.png",
+        "36": "/PNG/36/Military/gun-36.png",
+        "512": "/PNG/512/Military/gun-512.png",
+        "64": "/PNG/64/Military/gun-64.png",
+        "24": "/PNG/24/Military/gun-24.png",
+        "96": "/PNG/96/Military/gun-96.png",
+        "48": "/PNG/48/Military/gun-48.png"
+      }
+    }
+  },
+  {
     "id": 3947,
     "name": "guru",
     "platform": "Android",
@@ -12092,7 +12222,7 @@
       "eps": "/EPS/Shopping/handshake.eps",
       "png": {
         "32": "/PNG/32/Shopping/handshake-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (23))/handshake-128.png",
+        "128": "/PNG/128/Shopping/handshake-128.png",
         "256": "/PNG/256/Shopping/handshake-256.png",
         "36": "/PNG/36/Shopping/handshake-36.png",
         "512": "/PNG/512/Shopping/handshake-512.png",
@@ -12772,7 +12902,7 @@
       "eps": "/EPS/Very_Basic/home.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/home-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/home-128.png",
+        "128": "/PNG/128/Very_Basic/home-128.png",
         "256": "/PNG/256/Very_Basic/home-256.png",
         "36": "/PNG/36/Very_Basic/home-36.png",
         "512": "/PNG/512/Very_Basic/home-512.png",
@@ -12919,7 +13049,7 @@
       "eps": "/EPS/Objects/hot_article.eps",
       "png": {
         "32": "/PNG/32/Objects/hot_article-32.png",
-        "128": "/PNG/128/objects (Case Conflict (9))/hot_article-128.png",
+        "128": "/PNG/128/Objects/hot_article-128.png",
         "256": "/PNG/256/Objects/hot_article-256.png",
         "36": "/PNG/36/Objects/hot_article-36.png",
         "512": "/PNG/512/Objects/hot_article-512.png",
@@ -13128,7 +13258,7 @@
       "eps": "/EPS/Shopping/idea.eps",
       "png": {
         "32": "/PNG/32/Shopping/idea-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (5))/idea-128.png",
+        "128": "/PNG/128/Shopping/idea-128.png",
         "256": "/PNG/256/Shopping/idea-256.png",
         "36": "/PNG/36/Shopping/idea-36.png",
         "512": "/PNG/512/Shopping/idea-512.png",
@@ -13163,7 +13293,7 @@
       "eps": "/EPS/Very_Basic/image_file.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/image_file-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/image_file-128.png",
+        "128": "/PNG/128/Very_Basic/image_file-128.png",
         "256": "/PNG/256/Very_Basic/image_file-256.png",
         "36": "/PNG/36/Very_Basic/image_file-36.png",
         "512": "/PNG/512/Very_Basic/image_file-512.png",
@@ -13282,7 +13412,7 @@
       "eps": "/EPS/Very_Basic/info.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/info-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/info-128.png",
+        "128": "/PNG/128/Very_Basic/info-128.png",
         "256": "/PNG/256/Very_Basic/info-256.png",
         "36": "/PNG/36/Very_Basic/info-36.png",
         "512": "/PNG/512/Very_Basic/info-512.png",
@@ -13834,7 +13964,7 @@
       "eps": "/EPS/Shopping/jcb_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Shopping/jcb_copyrighted-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (15))/jcb_copyrighted-128.png",
+        "128": "/PNG/128/Shopping/jcb_copyrighted-128.png",
         "256": "/PNG/256/Shopping/jcb_copyrighted-256.png",
         "36": "/PNG/36/Shopping/jcb_copyrighted-36.png",
         "512": "/PNG/512/Shopping/jcb_copyrighted-512.png",
@@ -14072,7 +14202,7 @@
       "eps": "/EPS/Objects/joystick.eps",
       "png": {
         "32": "/PNG/32/Objects/joystick-32.png",
-        "128": "/PNG/128/objects (Case Conflict (2))/joystick-128.png",
+        "128": "/PNG/128/Objects/joystick-128.png",
         "256": "/PNG/256/Objects/joystick-256.png",
         "36": "/PNG/36/Objects/joystick-36.png",
         "512": "/PNG/512/Objects/joystick-512.png",
@@ -14182,7 +14312,7 @@
       "eps": "/EPS/Very_Basic/key.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/key-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/key-128.png",
+        "128": "/PNG/128/Very_Basic/key-128.png",
         "256": "/PNG/256/Very_Basic/key-256.png",
         "36": "/PNG/36/Very_Basic/key-36.png",
         "512": "/PNG/512/Very_Basic/key-512.png",
@@ -15108,7 +15238,7 @@
       "eps": "/EPS/Very_Basic/lifebouy.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/lifebouy-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/lifebouy-128.png",
+        "128": "/PNG/128/Very_Basic/lifebouy-128.png",
         "256": "/PNG/256/Very_Basic/lifebouy-256.png",
         "36": "/PNG/36/Very_Basic/lifebouy-36.png",
         "512": "/PNG/512/Very_Basic/lifebouy-512.png",
@@ -15181,7 +15311,7 @@
       "eps": "/EPS/Very_Basic/like.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/like-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/like-128.png",
+        "128": "/PNG/128/Very_Basic/like-128.png",
         "256": "/PNG/256/Very_Basic/like-256.png",
         "36": "/PNG/36/Very_Basic/like-36.png",
         "512": "/PNG/512/Very_Basic/like-512.png",
@@ -15253,7 +15383,7 @@
       "eps": "/EPS/Very_Basic/like_outline.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/like_outline-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/like_outline-128.png",
+        "128": "/PNG/128/Very_Basic/like_outline-128.png",
         "256": "/PNG/256/Very_Basic/like_outline-256.png",
         "36": "/PNG/36/Very_Basic/like_outline-36.png",
         "512": "/PNG/512/Very_Basic/like_outline-512.png",
@@ -15348,7 +15478,7 @@
       "eps": "/EPS/Very_Basic/link.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/link-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/link-128.png",
+        "128": "/PNG/128/Very_Basic/link-128.png",
         "256": "/PNG/256/Very_Basic/link-256.png",
         "36": "/PNG/36/Very_Basic/link-36.png",
         "512": "/PNG/512/Very_Basic/link-512.png",
@@ -15404,7 +15534,7 @@
       "eps": "/EPS/Very_Basic/link_broken.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/link_broken-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/link_broken-128.png",
+        "128": "/PNG/128/Very_Basic/link_broken-128.png",
         "256": "/PNG/256/Very_Basic/link_broken-256.png",
         "36": "/PNG/36/Very_Basic/link_broken-36.png",
         "512": "/PNG/512/Very_Basic/link_broken-512.png",
@@ -15549,7 +15679,7 @@
       "eps": "/EPS/Very_Basic/lock.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/lock-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/lock-128.png",
+        "128": "/PNG/128/Very_Basic/lock-128.png",
         "256": "/PNG/256/Very_Basic/lock-256.png",
         "36": "/PNG/36/Very_Basic/lock-36.png",
         "512": "/PNG/512/Very_Basic/lock-512.png",
@@ -16181,6 +16311,32 @@
     }
   },
   {
+    "id": 4665,
+    "name": "marine_radio",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/marine_radio.svg",
+      "eps": "/EPS/Military/marine_radio.eps",
+      "png": {
+        "32": "/PNG/32/Military/marine_radio-32.png",
+        "128": "/PNG/128/Military/marine_radio-128.png",
+        "256": "/PNG/256/Military/marine_radio-256.png",
+        "36": "/PNG/36/Military/marine_radio-36.png",
+        "512": "/PNG/512/Military/marine_radio-512.png",
+        "64": "/PNG/64/Military/marine_radio-64.png",
+        "24": "/PNG/24/Military/marine_radio-24.png",
+        "96": "/PNG/96/Military/marine_radio-96.png",
+        "48": "/PNG/48/Military/marine_radio-48.png"
+      }
+    }
+  },
+  {
     "id": 3781,
     "name": "marker",
     "platform": "Android",
@@ -16278,7 +16434,7 @@
       "eps": "/EPS/Shopping/mastercard_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Shopping/mastercard_copyrighted-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (9))/mastercard_copyrighted-128.png",
+        "128": "/PNG/128/Shopping/mastercard_copyrighted-128.png",
         "256": "/PNG/256/Shopping/mastercard_copyrighted-256.png",
         "36": "/PNG/36/Shopping/mastercard_copyrighted-36.png",
         "512": "/PNG/512/Shopping/mastercard_copyrighted-512.png",
@@ -16286,6 +16442,32 @@
         "24": "/PNG/24/Shopping/mastercard_copyrighted-24.png",
         "96": "/PNG/96/Shopping/mastercard_copyrighted-96.png",
         "48": "/PNG/48/Shopping/mastercard_copyrighted-48.png"
+      }
+    }
+  },
+  {
+    "id": 4664,
+    "name": "medal",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/medal.svg",
+      "eps": "/EPS/Military/medal.eps",
+      "png": {
+        "32": "/PNG/32/Military/medal-32.png",
+        "128": "/PNG/128/Military/medal-128.png",
+        "256": "/PNG/256/Military/medal-256.png",
+        "36": "/PNG/36/Military/medal-36.png",
+        "512": "/PNG/512/Military/medal-512.png",
+        "64": "/PNG/64/Military/medal-64.png",
+        "24": "/PNG/24/Military/medal-24.png",
+        "96": "/PNG/96/Military/medal-96.png",
+        "48": "/PNG/48/Military/medal-48.png"
       }
     }
   },
@@ -16680,7 +16862,7 @@
       "eps": "/EPS/Very_Basic/menu.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/menu-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/menu-128.png",
+        "128": "/PNG/128/Very_Basic/menu-128.png",
         "256": "/PNG/256/Very_Basic/menu-256.png",
         "36": "/PNG/36/Very_Basic/menu-36.png",
         "512": "/PNG/512/Very_Basic/menu-512.png",
@@ -16918,6 +17100,32 @@
     }
   },
   {
+    "id": 4657,
+    "name": "military_backpack_radio",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/military_backpack_radio.svg",
+      "eps": "/EPS/Military/military_backpack_radio.eps",
+      "png": {
+        "32": "/PNG/32/Military/military_backpack_radio-32.png",
+        "128": "/PNG/128/Military/military_backpack_radio-128.png",
+        "256": "/PNG/256/Military/military_backpack_radio-256.png",
+        "36": "/PNG/36/Military/military_backpack_radio-36.png",
+        "512": "/PNG/512/Military/military_backpack_radio-512.png",
+        "64": "/PNG/64/Military/military_backpack_radio-64.png",
+        "24": "/PNG/24/Military/military_backpack_radio-24.png",
+        "96": "/PNG/96/Military/military_backpack_radio-96.png",
+        "48": "/PNG/48/Military/military_backpack_radio-48.png"
+      }
+    }
+  },
+  {
     "id": 3314,
     "name": "minus",
     "platform": "Android",
@@ -16945,7 +17153,7 @@
       "eps": "/EPS/Very_Basic/minus.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/minus-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/minus-128.png",
+        "128": "/PNG/128/Very_Basic/minus-128.png",
         "256": "/PNG/256/Very_Basic/minus-256.png",
         "36": "/PNG/36/Very_Basic/minus-36.png",
         "512": "/PNG/512/Very_Basic/minus-512.png",
@@ -16980,6 +17188,32 @@
         "24": "/PNG/24/Mobile/missed_call-24.png",
         "96": "/PNG/96/Mobile/missed_call-96.png",
         "48": "/PNG/48/Mobile/missed_call-48.png"
+      }
+    }
+  },
+  {
+    "id": 4655,
+    "name": "missile",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/missile.svg",
+      "eps": "/EPS/Military/missile.eps",
+      "png": {
+        "32": "/PNG/32/Military/missile-32.png",
+        "128": "/PNG/128/Military/missile-128.png",
+        "256": "/PNG/256/Military/missile-256.png",
+        "36": "/PNG/36/Military/missile-36.png",
+        "512": "/PNG/512/Military/missile-512.png",
+        "64": "/PNG/64/Military/missile-64.png",
+        "24": "/PNG/24/Military/missile-24.png",
+        "96": "/PNG/96/Military/missile-96.png",
+        "48": "/PNG/48/Military/missile-48.png"
       }
     }
   },
@@ -17222,7 +17456,7 @@
       "eps": "/EPS/Shopping/money_bag.eps",
       "png": {
         "32": "/PNG/32/Shopping/money_bag-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/money_bag-128.png",
+        "128": "/PNG/128/Shopping/money_bag-128.png",
         "256": "/PNG/256/Shopping/money_bag-256.png",
         "36": "/PNG/36/Shopping/money_bag-36.png",
         "512": "/PNG/512/Shopping/money_bag-512.png",
@@ -17256,7 +17490,7 @@
       "eps": "/EPS/Shopping/money_box.eps",
       "png": {
         "32": "/PNG/32/Shopping/money_box-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/money_box-128.png",
+        "128": "/PNG/128/Shopping/money_box-128.png",
         "256": "/PNG/256/Shopping/money_box-256.png",
         "36": "/PNG/36/Shopping/money_box-36.png",
         "512": "/PNG/512/Shopping/money_box-512.png",
@@ -17284,7 +17518,7 @@
       "eps": "/EPS/Objects/more.eps",
       "png": {
         "32": "/PNG/32/Objects/more-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict (7))/more-128.png",
+        "128": "/PNG/128/Objects/more-128.png",
         "256": "/PNG/256/Objects/more-256.png",
         "36": "/PNG/36/Objects/more-36.png",
         "512": "/PNG/512/Objects/more-512.png",
@@ -17817,7 +18051,7 @@
       "eps": "/EPS/Very_Basic/music.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/music-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/music-128.png",
+        "128": "/PNG/128/Very_Basic/music-128.png",
         "256": "/PNG/256/Very_Basic/music-256.png",
         "36": "/PNG/36/Very_Basic/music-36.png",
         "512": "/PNG/512/Very_Basic/music-512.png",
@@ -18110,7 +18344,7 @@
       "eps": "/EPS/Shopping/new.eps",
       "png": {
         "32": "/PNG/32/Shopping/new-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (14))/new-128.png",
+        "128": "/PNG/128/Shopping/new-128.png",
         "256": "/PNG/256/Shopping/new-256.png",
         "36": "/PNG/36/Shopping/new-36.png",
         "512": "/PNG/512/Shopping/new-512.png",
@@ -18237,6 +18471,32 @@
         "24": "/PNG/24/Arrows/next-24.png",
         "96": "/PNG/96/Arrows/next-96.png",
         "48": "/PNG/48/Arrows/next-48.png"
+      }
+    }
+  },
+  {
+    "id": 4663,
+    "name": "nightvision",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/nightvision.svg",
+      "eps": "/EPS/Military/nightvision.eps",
+      "png": {
+        "32": "/PNG/32/Military/nightvision-32.png",
+        "128": "/PNG/128/Military/nightvision-128.png",
+        "256": "/PNG/256/Military/nightvision-256.png",
+        "36": "/PNG/36/Military/nightvision-36.png",
+        "512": "/PNG/512/Military/nightvision-512.png",
+        "64": "/PNG/64/Military/nightvision-64.png",
+        "24": "/PNG/24/Military/nightvision-24.png",
+        "96": "/PNG/96/Military/nightvision-96.png",
+        "48": "/PNG/48/Military/nightvision-48.png"
       }
     }
   },
@@ -18585,7 +18845,7 @@
       "eps": "/EPS/Objects/no_smoking.eps",
       "png": {
         "32": "/PNG/32/Objects/no_smoking-32.png",
-        "128": "/PNG/128/objects (Case Conflict (8))/no_smoking-128.png",
+        "128": "/PNG/128/Objects/no_smoking-128.png",
         "256": "/PNG/256/Objects/no_smoking-256.png",
         "36": "/PNG/36/Objects/no_smoking-36.png",
         "512": "/PNG/512/Objects/no_smoking-512.png",
@@ -18807,7 +19067,7 @@
       "eps": "/EPS/Shopping/one_free.eps",
       "png": {
         "32": "/PNG/32/Shopping/one_free-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/one_free-128.png",
+        "128": "/PNG/128/Shopping/one_free-128.png",
         "256": "/PNG/256/Shopping/one_free-256.png",
         "36": "/PNG/36/Shopping/one_free-36.png",
         "512": "/PNG/512/Shopping/one_free-512.png",
@@ -18845,7 +19105,7 @@
       "eps": "/EPS/Very_Basic/opened_folder.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/opened_folder-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict (14))/opened_folder-128.png",
+        "128": "/PNG/128/Very_Basic/opened_folder-128.png",
         "256": "/PNG/256/Very_Basic/opened_folder-256.png",
         "36": "/PNG/36/Very_Basic/opened_folder-36.png",
         "512": "/PNG/512/Very_Basic/opened_folder-512.png",
@@ -19138,7 +19398,7 @@
       "eps": "/EPS/Shopping/paypal_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Shopping/paypal_copyrighted-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (19))/paypal_copyrighted-128.png",
+        "128": "/PNG/128/Shopping/paypal_copyrighted-128.png",
         "256": "/PNG/256/Shopping/paypal_copyrighted-256.png",
         "36": "/PNG/36/Shopping/paypal_copyrighted-36.png",
         "512": "/PNG/512/Shopping/paypal_copyrighted-512.png",
@@ -19496,7 +19756,7 @@
       "eps": "/EPS/Very_Basic/picture.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/picture-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict (12))/picture-128.png",
+        "128": "/PNG/128/Very_Basic/picture-128.png",
         "256": "/PNG/256/Very_Basic/picture-256.png",
         "36": "/PNG/36/Very_Basic/picture-36.png",
         "512": "/PNG/512/Very_Basic/picture-512.png",
@@ -19830,7 +20090,7 @@
       "eps": "/EPS/Objects/plugin.eps",
       "png": {
         "32": "/PNG/32/Objects/plugin-32.png",
-        "128": "/PNG/128/objects (Case Conflict (9))/plugin-128.png",
+        "128": "/PNG/128/Objects/plugin-128.png",
         "256": "/PNG/256/Objects/plugin-256.png",
         "36": "/PNG/36/Objects/plugin-36.png",
         "512": "/PNG/512/Objects/plugin-512.png",
@@ -19869,7 +20129,7 @@
       "eps": "/EPS/Very_Basic/plus.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/plus-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/plus-128.png",
+        "128": "/PNG/128/Very_Basic/plus-128.png",
         "256": "/PNG/256/Very_Basic/plus-256.png",
         "36": "/PNG/36/Very_Basic/plus-36.png",
         "512": "/PNG/512/Very_Basic/plus-512.png",
@@ -19896,7 +20156,7 @@
       "eps": "/EPS/Objects/pocket_lantern.eps",
       "png": {
         "32": "/PNG/32/Objects/pocket_lantern-32.png",
-        "128": "/PNG/128/objects (Case Conflict (10))/pocket_lantern-128.png",
+        "128": "/PNG/128/Objects/pocket_lantern-128.png",
         "256": "/PNG/256/Objects/pocket_lantern-256.png",
         "36": "/PNG/36/Objects/pocket_lantern-36.png",
         "512": "/PNG/512/Objects/pocket_lantern-512.png",
@@ -20310,7 +20570,7 @@
       "eps": "/EPS/Shopping/price_tag.eps",
       "png": {
         "32": "/PNG/32/Shopping/price_tag-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (21))/price_tag-128.png",
+        "128": "/PNG/128/Shopping/price_tag-128.png",
         "256": "/PNG/256/Shopping/price_tag-256.png",
         "36": "/PNG/36/Shopping/price_tag-36.png",
         "512": "/PNG/512/Shopping/price_tag-512.png",
@@ -20350,7 +20610,7 @@
       "eps": "/EPS/Shopping/price_tag_euro.eps",
       "png": {
         "32": "/PNG/32/Shopping/price_tag_euro-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (12))/price_tag_euro-128.png",
+        "128": "/PNG/128/Shopping/price_tag_euro-128.png",
         "256": "/PNG/256/Shopping/price_tag_euro-256.png",
         "36": "/PNG/36/Shopping/price_tag_euro-36.png",
         "512": "/PNG/512/Shopping/price_tag_euro-512.png",
@@ -20395,7 +20655,7 @@
       "eps": "/EPS/Very_Basic/print.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/print-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict (17))/print-128.png",
+        "128": "/PNG/128/Very_Basic/print-128.png",
         "256": "/PNG/256/Very_Basic/print-256.png",
         "36": "/PNG/36/Very_Basic/print-36.png",
         "512": "/PNG/512/Very_Basic/print-512.png",
@@ -20569,7 +20829,7 @@
       "eps": "/EPS/Shopping/purse.eps",
       "png": {
         "32": "/PNG/32/Shopping/purse-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/purse-128.png",
+        "128": "/PNG/128/Shopping/purse-128.png",
         "256": "/PNG/256/Shopping/purse-256.png",
         "36": "/PNG/36/Shopping/purse-36.png",
         "512": "/PNG/512/Shopping/purse-512.png",
@@ -20652,7 +20912,7 @@
       "eps": "/EPS/Very_Basic/puzzle.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/puzzle-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict (22))/puzzle-128.png",
+        "128": "/PNG/128/Very_Basic/puzzle-128.png",
         "256": "/PNG/256/Very_Basic/puzzle-256.png",
         "36": "/PNG/36/Very_Basic/puzzle-36.png",
         "512": "/PNG/512/Very_Basic/puzzle-512.png",
@@ -20691,7 +20951,7 @@
       "eps": "/EPS/Shopping/qr_code.eps",
       "png": {
         "32": "/PNG/32/Shopping/qr_code-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (28))/qr_code-128.png",
+        "128": "/PNG/128/Shopping/qr_code-128.png",
         "256": "/PNG/256/Shopping/qr_code-256.png",
         "36": "/PNG/36/Shopping/qr_code-36.png",
         "512": "/PNG/512/Shopping/qr_code-512.png",
@@ -21107,7 +21367,7 @@
       "eps": "/EPS/Very_Basic/rating.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/rating-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict (1))/rating-128.png",
+        "128": "/PNG/128/Very_Basic/rating-128.png",
         "256": "/PNG/256/Very_Basic/rating-256.png",
         "36": "/PNG/36/Very_Basic/rating-36.png",
         "512": "/PNG/512/Very_Basic/rating-512.png",
@@ -21327,7 +21587,7 @@
       "eps": "/EPS/Very_Basic/redo.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/redo-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/redo-128.png",
+        "128": "/PNG/128/Very_Basic/redo-128.png",
         "256": "/PNG/256/Very_Basic/redo-256.png",
         "36": "/PNG/36/Very_Basic/redo-36.png",
         "512": "/PNG/512/Very_Basic/redo-512.png",
@@ -21775,7 +22035,7 @@
       "eps": "/EPS/Shopping/return_purchase.eps",
       "png": {
         "32": "/PNG/32/Shopping/return_purchase-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (25))/return_purchase-128.png",
+        "128": "/PNG/128/Shopping/return_purchase-128.png",
         "256": "/PNG/256/Shopping/return_purchase-256.png",
         "36": "/PNG/36/Shopping/return_purchase-36.png",
         "512": "/PNG/512/Shopping/return_purchase-512.png",
@@ -21894,6 +22154,32 @@
         "24": "/PNG/24/Industry/rfid_tag-24.png",
         "96": "/PNG/96/Industry/rfid_tag-96.png",
         "48": "/PNG/48/Industry/rfid_tag-48.png"
+      }
+    }
+  },
+  {
+    "id": 4654,
+    "name": "rifle",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/rifle.svg",
+      "eps": "/EPS/Military/rifle.eps",
+      "png": {
+        "32": "/PNG/32/Military/rifle-32.png",
+        "128": "/PNG/128/Military/rifle-128.png",
+        "256": "/PNG/256/Military/rifle-256.png",
+        "36": "/PNG/36/Military/rifle-36.png",
+        "512": "/PNG/512/Military/rifle-512.png",
+        "64": "/PNG/64/Military/rifle-64.png",
+        "24": "/PNG/24/Military/rifle-24.png",
+        "96": "/PNG/96/Military/rifle-96.png",
+        "48": "/PNG/48/Military/rifle-48.png"
       }
     }
   },
@@ -22714,7 +23000,7 @@
       "eps": "/EPS/Shopping/safe.eps",
       "png": {
         "32": "/PNG/32/Shopping/safe-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (14))/safe-128.png",
+        "128": "/PNG/128/Shopping/safe-128.png",
         "256": "/PNG/256/Shopping/safe-256.png",
         "36": "/PNG/36/Shopping/safe-36.png",
         "512": "/PNG/512/Shopping/safe-512.png",
@@ -22823,7 +23109,7 @@
       "eps": "/EPS/Shopping/sale.eps",
       "png": {
         "32": "/PNG/32/Shopping/sale-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/sale-128.png",
+        "128": "/PNG/128/Shopping/sale-128.png",
         "256": "/PNG/256/Shopping/sale-256.png",
         "36": "/PNG/36/Shopping/sale-36.png",
         "512": "/PNG/512/Shopping/sale-512.png",
@@ -22850,7 +23136,7 @@
       "eps": "/EPS/Shopping/sale2.eps",
       "png": {
         "32": "/PNG/32/Shopping/sale2-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/sale2-128.png",
+        "128": "/PNG/128/Shopping/sale2-128.png",
         "256": "/PNG/256/Shopping/sale2-256.png",
         "36": "/PNG/36/Shopping/sale2-36.png",
         "512": "/PNG/512/Shopping/sale2-512.png",
@@ -22877,7 +23163,7 @@
       "eps": "/EPS/Objects/sandglass.eps",
       "png": {
         "32": "/PNG/32/Objects/sandglass-32.png",
-        "128": "/PNG/128/objects (Case Conflict (11))/sandglass-128.png",
+        "128": "/PNG/128/Objects/sandglass-128.png",
         "256": "/PNG/256/Objects/sandglass-256.png",
         "36": "/PNG/36/Objects/sandglass-36.png",
         "512": "/PNG/512/Objects/sandglass-512.png",
@@ -23091,7 +23377,7 @@
       "eps": "/EPS/Objects/scale.eps",
       "png": {
         "32": "/PNG/32/Objects/scale-32.png",
-        "128": "/PNG/128/objects (Case Conflict (10))/scale-128.png",
+        "128": "/PNG/128/Objects/scale-128.png",
         "256": "/PNG/256/Objects/scale-256.png",
         "36": "/PNG/36/Objects/scale-36.png",
         "512": "/PNG/512/Objects/scale-512.png",
@@ -23118,7 +23404,7 @@
       "eps": "/EPS/Objects/scales.eps",
       "png": {
         "32": "/PNG/32/Objects/scales-32.png",
-        "128": "/PNG/128/objects (Case Conflict (7))/scales-128.png",
+        "128": "/PNG/128/Objects/scales-128.png",
         "256": "/PNG/256/Objects/scales-256.png",
         "36": "/PNG/36/Objects/scales-36.png",
         "512": "/PNG/512/Objects/scales-512.png",
@@ -23423,7 +23709,7 @@
       "eps": "/EPS/Very_Basic/search.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/search-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/search-128.png",
+        "128": "/PNG/128/Very_Basic/search-128.png",
         "256": "/PNG/256/Very_Basic/search-256.png",
         "36": "/PNG/36/Very_Basic/search-36.png",
         "512": "/PNG/512/Very_Basic/search-512.png",
@@ -23522,7 +23808,7 @@
       "eps": "/EPS/Shopping/sell.eps",
       "png": {
         "32": "/PNG/32/Shopping/sell-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (14))/sell-128.png",
+        "128": "/PNG/128/Shopping/sell-128.png",
         "256": "/PNG/256/Shopping/sell-256.png",
         "36": "/PNG/36/Shopping/sell-36.png",
         "512": "/PNG/512/Shopping/sell-512.png",
@@ -23649,7 +23935,7 @@
       "eps": "/EPS/Very_Basic/settings.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/settings-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/settings-128.png",
+        "128": "/PNG/128/Very_Basic/settings-128.png",
         "256": "/PNG/256/Very_Basic/settings-256.png",
         "36": "/PNG/36/Very_Basic/settings-36.png",
         "512": "/PNG/512/Very_Basic/settings-512.png",
@@ -23698,7 +23984,7 @@
       "eps": "/EPS/Very_Basic/settings2.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/settings2-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict (12))/settings2-128.png",
+        "128": "/PNG/128/Very_Basic/settings2-128.png",
         "256": "/PNG/256/Very_Basic/settings2-256.png",
         "36": "/PNG/36/Very_Basic/settings2-36.png",
         "512": "/PNG/512/Very_Basic/settings2-512.png",
@@ -23770,7 +24056,7 @@
       "eps": "/EPS/Very_Basic/share.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/share-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict (17))/share-128.png",
+        "128": "/PNG/128/Very_Basic/share-128.png",
         "256": "/PNG/256/Very_Basic/share-256.png",
         "36": "/PNG/36/Very_Basic/share-36.png",
         "512": "/PNG/512/Very_Basic/share-512.png",
@@ -23975,7 +24261,7 @@
       "eps": "/EPS/Shopping/shop.eps",
       "png": {
         "32": "/PNG/32/Shopping/shop-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/shop-128.png",
+        "128": "/PNG/128/Shopping/shop-128.png",
         "256": "/PNG/256/Shopping/shop-256.png",
         "36": "/PNG/36/Shopping/shop-36.png",
         "512": "/PNG/512/Shopping/shop-512.png",
@@ -24003,7 +24289,7 @@
       "eps": "/EPS/Shopping/shopping_bag.eps",
       "png": {
         "32": "/PNG/32/Shopping/shopping_bag-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (16))/shopping_bag-128.png",
+        "128": "/PNG/128/Shopping/shopping_bag-128.png",
         "256": "/PNG/256/Shopping/shopping_bag-256.png",
         "36": "/PNG/36/Shopping/shopping_bag-36.png",
         "512": "/PNG/512/Shopping/shopping_bag-512.png",
@@ -24033,7 +24319,7 @@
       "eps": "/EPS/Shopping/shopping_basket.eps",
       "png": {
         "32": "/PNG/32/Shopping/shopping_basket-32.png",
-        "128": "/PNG/128/shopping (Case Conflict)/shopping_basket-128.png",
+        "128": "/PNG/128/Shopping/shopping_basket-128.png",
         "256": "/PNG/256/Shopping/shopping_basket-256.png",
         "36": "/PNG/36/Shopping/shopping_basket-36.png",
         "512": "/PNG/512/Shopping/shopping_basket-512.png",
@@ -24073,7 +24359,7 @@
       "eps": "/EPS/Shopping/shopping_cart.eps",
       "png": {
         "32": "/PNG/32/Shopping/shopping_cart-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (8))/shopping_cart-128.png",
+        "128": "/PNG/128/Shopping/shopping_cart-128.png",
         "256": "/PNG/256/Shopping/shopping_cart-256.png",
         "36": "/PNG/36/Shopping/shopping_cart-36.png",
         "512": "/PNG/512/Shopping/shopping_cart-512.png",
@@ -24110,7 +24396,7 @@
       "eps": "/EPS/Shopping/shopping_cart_filled.eps",
       "png": {
         "32": "/PNG/32/Shopping/shopping_cart_filled-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (9))/shopping_cart_filled-128.png",
+        "128": "/PNG/128/Shopping/shopping_cart_filled-128.png",
         "256": "/PNG/256/Shopping/shopping_cart_filled-256.png",
         "36": "/PNG/36/Shopping/shopping_cart_filled-36.png",
         "512": "/PNG/512/Shopping/shopping_cart_filled-512.png",
@@ -24529,7 +24815,7 @@
       "eps": "/EPS/Very_Basic/sinchronize.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/sinchronize-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict (14))/sinchronize-128.png",
+        "128": "/PNG/128/Very_Basic/sinchronize-128.png",
         "256": "/PNG/256/Very_Basic/sinchronize-256.png",
         "36": "/PNG/36/Very_Basic/sinchronize-36.png",
         "512": "/PNG/512/Very_Basic/sinchronize-512.png",
@@ -25061,7 +25347,7 @@
       "eps": "/EPS/Objects/smoking.eps",
       "png": {
         "32": "/PNG/32/Objects/smoking-32.png",
-        "128": "/PNG/128/objects (Case Conflict (4))/smoking-128.png",
+        "128": "/PNG/128/Objects/smoking-128.png",
         "256": "/PNG/256/Objects/smoking-256.png",
         "36": "/PNG/36/Objects/smoking-36.png",
         "512": "/PNG/512/Objects/smoking-512.png",
@@ -25282,7 +25568,7 @@
       "eps": "/EPS/Objects/software_box.eps",
       "png": {
         "32": "/PNG/32/Objects/software_box-32.png",
-        "128": "/PNG/128/objects (Case Conflict (8))/software_box-128.png",
+        "128": "/PNG/128/Objects/software_box-128.png",
         "256": "/PNG/256/Objects/software_box-256.png",
         "36": "/PNG/36/Objects/software_box-36.png",
         "512": "/PNG/512/Objects/software_box-512.png",
@@ -26615,7 +26901,7 @@
       "eps": "/EPS/Objects/switch_off.eps",
       "png": {
         "32": "/PNG/32/Objects/switch_off-32.png",
-        "128": "/PNG/128/objects (Case Conflict (1))/switch_off-128.png",
+        "128": "/PNG/128/Objects/switch_off-128.png",
         "256": "/PNG/256/Objects/switch_off-256.png",
         "36": "/PNG/36/Objects/switch_off-36.png",
         "512": "/PNG/512/Objects/switch_off-512.png",
@@ -26642,7 +26928,7 @@
       "eps": "/EPS/Objects/switch_on.eps",
       "png": {
         "32": "/PNG/32/Objects/switch_on-32.png",
-        "128": "/PNG/128/objects (Case Conflict (6))/switch_on-128.png",
+        "128": "/PNG/128/Objects/switch_on-128.png",
         "256": "/PNG/256/Objects/switch_on-256.png",
         "36": "/PNG/36/Objects/switch_on-36.png",
         "512": "/PNG/512/Objects/switch_on-512.png",
@@ -26855,7 +27141,7 @@
       "eps": "/EPS/Shopping/tag.eps",
       "png": {
         "32": "/PNG/32/Shopping/tag-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (31))/tag-128.png",
+        "128": "/PNG/128/Shopping/tag-128.png",
         "256": "/PNG/256/Shopping/tag-256.png",
         "36": "/PNG/36/Shopping/tag-36.png",
         "512": "/PNG/512/Shopping/tag-512.png",
@@ -27017,7 +27303,7 @@
       "eps": "/EPS/Objects/tear_off_calendar.eps",
       "png": {
         "32": "/PNG/32/Objects/tear_off_calendar-32.png",
-        "128": "/PNG/128/objects (Case Conflict (9))/tear_off_calendar-128.png",
+        "128": "/PNG/128/Objects/tear_off_calendar-128.png",
         "256": "/PNG/256/Objects/tear_off_calendar-256.png",
         "36": "/PNG/36/Objects/tear_off_calendar-36.png",
         "512": "/PNG/512/Objects/tear_off_calendar-512.png",
@@ -27079,6 +27365,32 @@
         "24": "/PNG/24/Sports/tennis-24.png",
         "96": "/PNG/96/Sports/tennis-96.png",
         "48": "/PNG/48/Sports/tennis-48.png"
+      }
+    }
+  },
+  {
+    "id": 4662,
+    "name": "tent",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/tent.svg",
+      "eps": "/EPS/Military/tent.eps",
+      "png": {
+        "32": "/PNG/32/Military/tent-32.png",
+        "128": "/PNG/128/Military/tent-128.png",
+        "256": "/PNG/256/Military/tent-256.png",
+        "36": "/PNG/36/Military/tent-36.png",
+        "512": "/PNG/512/Military/tent-512.png",
+        "64": "/PNG/64/Military/tent-64.png",
+        "24": "/PNG/24/Military/tent-24.png",
+        "96": "/PNG/96/Military/tent-96.png",
+        "48": "/PNG/48/Military/tent-48.png"
       }
     }
   },
@@ -27379,7 +27691,7 @@
       "eps": "/EPS/Objects/timer.eps",
       "png": {
         "32": "/PNG/32/Objects/timer-32.png",
-        "128": "/PNG/128/objects (Case Conflict (4))/timer-128.png",
+        "128": "/PNG/128/Objects/timer-128.png",
         "256": "/PNG/256/Objects/timer-256.png",
         "36": "/PNG/36/Objects/timer-36.png",
         "512": "/PNG/512/Objects/timer-512.png",
@@ -30403,7 +30715,7 @@
       "eps": "/EPS/Very_Basic/undo.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/undo-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/undo-128.png",
+        "128": "/PNG/128/Very_Basic/undo-128.png",
         "256": "/PNG/256/Very_Basic/undo-256.png",
         "36": "/PNG/36/Very_Basic/undo-36.png",
         "512": "/PNG/512/Very_Basic/undo-512.png",
@@ -30468,7 +30780,7 @@
       "eps": "/EPS/Very_Basic/unlock.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/unlock-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/unlock-128.png",
+        "128": "/PNG/128/Very_Basic/unlock-128.png",
         "256": "/PNG/256/Very_Basic/unlock-256.png",
         "36": "/PNG/36/Very_Basic/unlock-36.png",
         "512": "/PNG/512/Very_Basic/unlock-512.png",
@@ -30536,7 +30848,7 @@
       "eps": "/EPS/Very_Basic/upload.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/upload-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/upload-128.png",
+        "128": "/PNG/128/Very_Basic/upload-128.png",
         "256": "/PNG/256/Very_Basic/upload-256.png",
         "36": "/PNG/36/Very_Basic/upload-36.png",
         "512": "/PNG/512/Very_Basic/upload-512.png",
@@ -30844,7 +31156,7 @@
       "eps": "/EPS/Very_Basic/video_file.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/video_file-32.png",
-        "128": "/PNG/128/very_basic (Case Conflict)/video_file-128.png",
+        "128": "/PNG/128/Very_Basic/video_file-128.png",
         "256": "/PNG/256/Very_Basic/video_file-256.png",
         "36": "/PNG/36/Very_Basic/video_file-36.png",
         "512": "/PNG/512/Very_Basic/video_file-512.png",
@@ -30996,7 +31308,7 @@
       "eps": "/EPS/Shopping/visa_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Shopping/visa_copyrighted-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (26))/visa_copyrighted-128.png",
+        "128": "/PNG/128/Shopping/visa_copyrighted-128.png",
         "256": "/PNG/256/Shopping/visa_copyrighted-256.png",
         "36": "/PNG/36/Shopping/visa_copyrighted-36.png",
         "512": "/PNG/512/Shopping/visa_copyrighted-512.png",
@@ -31311,7 +31623,7 @@
       "eps": "/EPS/Shopping/wallet.eps",
       "png": {
         "32": "/PNG/32/Shopping/wallet-32.png",
-        "128": "/PNG/128/shopping (Case Conflict (16))/wallet-128.png",
+        "128": "/PNG/128/Shopping/wallet-128.png",
         "256": "/PNG/256/Shopping/wallet-256.png",
         "36": "/PNG/36/Shopping/wallet-36.png",
         "512": "/PNG/512/Shopping/wallet-512.png",
@@ -31783,6 +32095,32 @@
         "24": "/PNG/24/Maps/waypoint_map-24.png",
         "96": "/PNG/96/Maps/waypoint_map-96.png",
         "48": "/PNG/48/Maps/waypoint_map-48.png"
+      }
+    }
+  },
+  {
+    "id": 4660,
+    "name": "webbing",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/webbing.svg",
+      "eps": "/EPS/Military/webbing.eps",
+      "png": {
+        "32": "/PNG/32/Military/webbing-32.png",
+        "128": "/PNG/128/Military/webbing-128.png",
+        "256": "/PNG/256/Military/webbing-256.png",
+        "36": "/PNG/36/Military/webbing-36.png",
+        "512": "/PNG/512/Military/webbing-512.png",
+        "64": "/PNG/64/Military/webbing-64.png",
+        "24": "/PNG/24/Military/webbing-24.png",
+        "96": "/PNG/96/Military/webbing-96.png",
+        "48": "/PNG/48/Military/webbing-48.png"
       }
     }
   },

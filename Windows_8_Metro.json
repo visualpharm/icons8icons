@@ -3430,6 +3430,7 @@
       "business",
       "sign",
       "success",
+      "walking",
       "stamp",
       "return",
       "business symbols",
@@ -3686,6 +3687,49 @@
         "512": "/PNG/512/Data/area_chart-512.png",
         "64": "/PNG/64/Data/area_chart-64.png",
         "48": "/PNG/48/Data/area_chart-48.png"
+      }
+    }
+  },
+  {
+    "id": 4700,
+    "name": "arena",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1401144672,
+    "tags": [
+      "exit",
+      "windows",
+      "window",
+      "stadium",
+      "ground",
+      "door",
+      "path",
+      "flag",
+      "building",
+      "players",
+      "game",
+      "entrance",
+      "chair",
+      "monument",
+      "capital",
+      "coliseum",
+      "ball field",
+      "gathering place",
+      "two story",
+      "flags",
+      "large entrance"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/arena.svg",
+      "eps": "/EPS/City/arena.eps",
+      "png": {
+        "32": "/PNG/32/City/arena-32.png",
+        "128": "/PNG/128/City/arena-128.png",
+        "26": "/PNG/26/City/arena-26.png",
+        "256": "/PNG/256/City/arena-256.png",
+        "512": "/PNG/512/City/arena-512.png",
+        "64": "/PNG/64/City/arena-64.png"
       }
     }
   },
@@ -5754,6 +5798,48 @@
     }
   },
   {
+    "id": 4708,
+    "name": "basilica",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1401144672,
+    "tags": [
+      "church",
+      "god",
+      "worship",
+      "windows",
+      "lines",
+      "building",
+      "rectangle",
+      "entrance",
+      "structure",
+      "religion",
+      "mosque",
+      "half-circle",
+      "sketch",
+      "pointed",
+      "arch",
+      "basilica",
+      "meeting place",
+      "cult",
+      "gathering",
+      "doom"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/basilica.svg",
+      "eps": "/EPS/City/basilica.eps",
+      "png": {
+        "32": "/PNG/32/City/basilica-32.png",
+        "128": "/PNG/128/City/basilica-128.png",
+        "26": "/PNG/26/City/basilica-26.png",
+        "256": "/PNG/256/City/basilica-256.png",
+        "512": "/PNG/512/City/basilica-512.png",
+        "64": "/PNG/64/City/basilica-64.png"
+      }
+    }
+  },
+  {
     "id": 195,
     "name": "basketball",
     "platform": "Windows 8/Metro",
@@ -6921,6 +7007,47 @@
         "512": "/PNG/512/Transport/bicycle-512.png",
         "64": "/PNG/64/Transport/bicycle-64.png",
         "48": "/PNG/48/Transport/bicycle-48.png"
+      }
+    }
+  },
+  {
+    "id": 4677,
+    "name": "big_ben",
+    "platform": "Windows 8/Metro",
+    "category": "Travel",
+    "created": 1401144672,
+    "tags": [
+      "clock",
+      "time",
+      "building",
+      "bell",
+      "structure",
+      "bridge",
+      "tour",
+      "architecture",
+      "place",
+      "monument",
+      "london",
+      "tower",
+      "landmark",
+      "famous",
+      "bell tower",
+      "ben",
+      "big ben",
+      "four-faced clock",
+      "elizabeth tower"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Travel/big_ben.svg",
+      "eps": "/EPS/Travel/big_ben.eps",
+      "png": {
+        "32": "/PNG/32/Travel/big_ben-32.png",
+        "128": "/PNG/128/Travel/big_ben-128.png",
+        "26": "/PNG/26/Travel/big_ben-26.png",
+        "256": "/PNG/256/Travel/big_ben-256.png",
+        "512": "/PNG/512/Travel/big_ben-512.png",
+        "64": "/PNG/64/Travel/big_ben-64.png"
       }
     }
   },
@@ -8893,6 +9020,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/bumblebee.svg",
+      "eps": "/EPS/Animals/bumblebee.eps",
       "png": {
         "32": "/PNG/32/Animals/bumblebee-32.png",
         "128": "/PNG/128/Animals/bumblebee-128.png",
@@ -11170,6 +11298,48 @@
     }
   },
   {
+    "id": 4698,
+    "name": "cathedral",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1401144672,
+    "tags": [
+      "church",
+      "worship",
+      "building",
+      "square",
+      "holy",
+      "tall",
+      "architecture",
+      "old",
+      "mosque",
+      "europe",
+      "christian",
+      "medieval",
+      "temple",
+      "german",
+      "historical",
+      "exterior",
+      "cathedral",
+      "christianity",
+      "catholicism",
+      "hindu"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/cathedral.svg",
+      "eps": "/EPS/City/cathedral.eps",
+      "png": {
+        "32": "/PNG/32/City/cathedral-32.png",
+        "128": "/PNG/128/City/cathedral-128.png",
+        "26": "/PNG/26/City/cathedral-26.png",
+        "256": "/PNG/256/City/cathedral-256.png",
+        "512": "/PNG/512/City/cathedral-512.png",
+        "64": "/PNG/64/City/cathedral-64.png"
+      }
+    }
+  },
+  {
     "id": 24,
     "name": "cat_track",
     "platform": "Windows 8/Metro",
@@ -11315,6 +11485,48 @@
         "512": "/PNG/512/Mobile/cell_phone-512.png",
         "64": "/PNG/64/Mobile/cell_phone-64.png",
         "48": "/PNG/48/Mobile/cell_phone-48.png"
+      }
+    }
+  },
+  {
+    "id": 4688,
+    "name": "cemetery",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1401144672,
+    "tags": [
+      "cover",
+      "stick",
+      "flat",
+      "board",
+      "death",
+      "pipe",
+      "stone",
+      "memorial",
+      "cemetery",
+      "grave",
+      "rip",
+      "tombstone",
+      "headstone",
+      "stand",
+      "gravestone",
+      "whole",
+      "arch",
+      "mourn",
+      "balence",
+      "apparet"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/cemetery.svg",
+      "eps": "/EPS/City/cemetery.eps",
+      "png": {
+        "32": "/PNG/32/City/cemetery-32.png",
+        "128": "/PNG/128/City/cemetery-128.png",
+        "26": "/PNG/26/City/cemetery-26.png",
+        "256": "/PNG/256/City/cemetery-256.png",
+        "512": "/PNG/512/City/cemetery-512.png",
+        "64": "/PNG/64/City/cemetery-64.png"
       }
     }
   },
@@ -11773,6 +11985,49 @@
         "512": "/PNG/512/Household/channel_mosaic-512.png",
         "64": "/PNG/64/Household/channel_mosaic-64.png",
         "48": "/PNG/48/Household/channel_mosaic-48.png"
+      }
+    }
+  },
+  {
+    "id": 4690,
+    "name": "chapel",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1401144672,
+    "tags": [
+      "church",
+      "god",
+      "worship",
+      "pen",
+      "tag",
+      "slope",
+      "triangle",
+      "structure",
+      "architecture",
+      "sharp",
+      "religion",
+      "cube",
+      "faith",
+      "arch",
+      "chapel",
+      "cult",
+      "gathering",
+      "monastery",
+      "pencilnip",
+      "drawingart",
+      "slanding"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/chapel.svg",
+      "eps": "/EPS/City/chapel.eps",
+      "png": {
+        "32": "/PNG/32/City/chapel-32.png",
+        "128": "/PNG/128/City/chapel-128.png",
+        "26": "/PNG/26/City/chapel-26.png",
+        "256": "/PNG/256/City/chapel-256.png",
+        "512": "/PNG/512/City/chapel-512.png",
+        "64": "/PNG/64/City/chapel-64.png"
       }
     }
   },
@@ -13186,6 +13441,48 @@
     }
   },
   {
+    "id": 4704,
+    "name": "city_hall",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1401144672,
+    "tags": [
+      "office",
+      "meeting",
+      "house",
+      "business",
+      "people",
+      "functions",
+      "store",
+      "celebrations",
+      "building",
+      "cinema",
+      "company",
+      "factory",
+      "arts",
+      "parking",
+      "seminar",
+      "hall",
+      "ciy",
+      "furnitures",
+      "politicians",
+      "auditorium"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/city_hall.svg",
+      "eps": "/EPS/City/city_hall.eps",
+      "png": {
+        "32": "/PNG/32/City/city_hall-32.png",
+        "128": "/PNG/128/City/city_hall-128.png",
+        "26": "/PNG/26/City/city_hall-26.png",
+        "256": "/PNG/256/City/city_hall-256.png",
+        "512": "/PNG/512/City/city_hall-512.png",
+        "64": "/PNG/64/City/city_hall-64.png"
+      }
+    }
+  },
+  {
     "id": 1425,
     "name": "clapperboard",
     "platform": "Windows 8/Metro",
@@ -14565,6 +14862,47 @@
         "512": "/PNG/512/Finance/coins-512.png",
         "64": "/PNG/64/Finance/coins-64.png",
         "48": "/PNG/48/Finance/coins-48.png"
+      }
+    }
+  },
+  {
+    "id": 4679,
+    "name": "coliseum",
+    "platform": "Windows 8/Metro",
+    "category": "Travel",
+    "created": 1401144672,
+    "tags": [
+      "stadium",
+      "city",
+      "history",
+      "tourism",
+      "engineering",
+      "monument",
+      "ancient",
+      "area",
+      "roman",
+      "temple",
+      "rome",
+      "italy",
+      "coliseum",
+      "gladiator",
+      "ceasar",
+      "ruin",
+      "walls",
+      "architectural style",
+      "province"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Travel/coliseum.svg",
+      "eps": "/EPS/Travel/coliseum.eps",
+      "png": {
+        "32": "/PNG/32/Travel/coliseum-32.png",
+        "128": "/PNG/128/Travel/coliseum-128.png",
+        "26": "/PNG/26/Travel/coliseum-26.png",
+        "256": "/PNG/256/Travel/coliseum-256.png",
+        "512": "/PNG/512/Travel/coliseum-512.png",
+        "64": "/PNG/64/Travel/coliseum-64.png"
       }
     }
   },
@@ -19629,6 +19967,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/dog.svg",
+      "eps": "/EPS/Animals/dog.eps",
       "png": {
         "32": "/PNG/32/Animals/dog-32.png",
         "128": "/PNG/128/Animals/dog-128.png",
@@ -21786,6 +22125,48 @@
     }
   },
   {
+    "id": 4675,
+    "name": "eiffel_tower",
+    "platform": "Windows 8/Metro",
+    "category": "Travel",
+    "created": 1401144672,
+    "tags": [
+      "steel",
+      "tall",
+      "beautiful",
+      "engineering",
+      "monument",
+      "france",
+      "tower",
+      "french",
+      "tourist attraction",
+      "city symbol",
+      "bell tower",
+      "clock tower",
+      "transmission tower",
+      "canton tower",
+      "milad tower",
+      "kl tower",
+      "almaty tower",
+      "macau tower",
+      "dragon tower",
+      "tokyo tower"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Travel/eiffel_tower.svg",
+      "eps": "/EPS/Travel/eiffel_tower.eps",
+      "png": {
+        "32": "/PNG/32/Travel/eiffel_tower-32.png",
+        "128": "/PNG/128/Travel/eiffel_tower-128.png",
+        "26": "/PNG/26/Travel/eiffel_tower-26.png",
+        "256": "/PNG/256/Travel/eiffel_tower-256.png",
+        "512": "/PNG/512/Travel/eiffel_tower-512.png",
+        "64": "/PNG/64/Travel/eiffel_tower-64.png"
+      }
+    }
+  },
+  {
     "id": 415,
     "name": "eject",
     "platform": "Windows 8/Metro",
@@ -22198,6 +22579,47 @@
         "512": "/PNG/512/Users/email-512.png",
         "64": "/PNG/64/Users/email-64.png",
         "48": "/PNG/48/Users/email-48.png"
+      }
+    }
+  },
+  {
+    "id": 4706,
+    "name": "embassy",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1401144672,
+    "tags": [
+      "exit",
+      "windows",
+      "window",
+      "door",
+      "flag",
+      "building",
+      "entrance",
+      "company",
+      "factory",
+      "monument",
+      "capital",
+      "government",
+      "workplace",
+      "employees",
+      "goverment",
+      "court house",
+      "three story",
+      "office building",
+      "meeting place"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/embassy.svg",
+      "eps": "/EPS/City/embassy.eps",
+      "png": {
+        "32": "/PNG/32/City/embassy-32.png",
+        "128": "/PNG/128/City/embassy-128.png",
+        "26": "/PNG/26/City/embassy-26.png",
+        "256": "/PNG/256/City/embassy-256.png",
+        "512": "/PNG/512/City/embassy-512.png",
+        "64": "/PNG/64/City/embassy-64.png"
       }
     }
   },
@@ -24998,6 +25420,30 @@
     }
   },
   {
+    "id": 4683,
+    "name": "fish-2",
+    "platform": "Windows 8/Metro",
+    "category": "Animals",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Animals/fish-2.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/fish-2.svg",
+      "eps": "/EPS/Animals/fish-2.eps",
+      "png": {
+        "32": "/PNG/32/Animals/fish-2-32.png",
+        "128": "/PNG/128/Animals/fish-2-128.png",
+        "26": "/PNG/26/Animals/fish-2-26.png",
+        "256": "/PNG/256/Animals/fish-2-256.png",
+        "512": "/PNG/512/Animals/fish-2-512.png",
+        "64": "/PNG/64/Animals/fish-2-64.png"
+      }
+    }
+  },
+  {
     "id": 1307,
     "name": "fishing",
     "platform": "Windows 8/Metro",
@@ -26006,6 +26452,38 @@
         "512": "/PNG/512/Messaging/forward-512.png",
         "64": "/PNG/64/Messaging/forward-64.png",
         "48": "/PNG/48/Messaging/forward-48.png"
+      }
+    }
+  },
+  {
+    "id": 4692,
+    "name": "fountain",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1401144672,
+    "tags": [
+      "clean",
+      "wash",
+      "drink",
+      "water",
+      "wet",
+      "fountain",
+      "spray",
+      "scrub",
+      "hydrate",
+      "quench"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/fountain.svg",
+      "eps": "/EPS/City/fountain.eps",
+      "png": {
+        "32": "/PNG/32/City/fountain-32.png",
+        "128": "/PNG/128/City/fountain-128.png",
+        "26": "/PNG/26/City/fountain-26.png",
+        "256": "/PNG/256/City/fountain-256.png",
+        "512": "/PNG/512/City/fountain-512.png",
+        "64": "/PNG/64/City/fountain-64.png"
       }
     }
   },
@@ -38588,6 +39066,29 @@
     }
   },
   {
+    "id": 4668,
+    "name": "maple_leaf",
+    "platform": "Windows 8/Metro",
+    "category": "Plants",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Plants/maple_leaf.svg",
+      "eps": "/EPS/Plants/maple_leaf.eps",
+      "png": {
+        "32": "/PNG/32/Plants/maple_leaf-32.png",
+        "128": "/PNG/128/Plants/maple_leaf-128.png",
+        "26": "/PNG/26/Plants/maple_leaf-26.png",
+        "256": "/PNG/256/Plants/maple_leaf-256.png",
+        "512": "/PNG/512/Plants/maple_leaf-512.png",
+        "64": "/PNG/64/Plants/maple_leaf-64.png"
+      }
+    }
+  },
+  {
     "id": 2651,
     "name": "map_editing",
     "platform": "Windows 8/Metro",
@@ -40957,6 +41458,50 @@
     }
   },
   {
+    "id": 4686,
+    "name": "monastery",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1401144672,
+    "tags": [
+      "church",
+      "prayer",
+      "monastry",
+      "silent",
+      "house",
+      "door",
+      "site",
+      "travel",
+      "history",
+      "tourism",
+      "religion",
+      "mosque",
+      "europe",
+      "landmark",
+      "angle",
+      "traditional",
+      "arch",
+      "float",
+      "medieval",
+      "slop",
+      "enterence",
+      "traiangle"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/monastery.svg",
+      "eps": "/EPS/City/monastery.eps",
+      "png": {
+        "32": "/PNG/32/City/monastery-32.png",
+        "128": "/PNG/128/City/monastery-128.png",
+        "26": "/PNG/26/City/monastery-26.png",
+        "256": "/PNG/256/City/monastery-256.png",
+        "512": "/PNG/512/City/monastery-512.png",
+        "64": "/PNG/64/City/monastery-64.png"
+      }
+    }
+  },
+  {
     "id": 210,
     "name": "moneybox",
     "platform": "Windows 8/Metro",
@@ -41110,6 +41655,49 @@
         "512": "/PNG/512/Time/month_view-512.png",
         "64": "/PNG/64/Time/month_view-64.png",
         "48": "/PNG/48/Time/month_view-48.png"
+      }
+    }
+  },
+  {
+    "id": 4702,
+    "name": "monument",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1401144672,
+    "tags": [
+      "play",
+      "building",
+      "game",
+      "move",
+      "chess",
+      "pawn",
+      "emblem",
+      "property",
+      "monument",
+      "strategy",
+      "tower",
+      "representation",
+      "attraction",
+      "statue",
+      "income",
+      "goverment",
+      "tourist spot",
+      "tourists",
+      "scenario",
+      "game piece",
+      "one of many"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/monument.svg",
+      "eps": "/EPS/City/monument.eps",
+      "png": {
+        "32": "/PNG/32/City/monument-32.png",
+        "128": "/PNG/128/City/monument-128.png",
+        "26": "/PNG/26/City/monument-26.png",
+        "256": "/PNG/256/City/monument-256.png",
+        "512": "/PNG/512/City/monument-512.png",
+        "64": "/PNG/64/City/monument-64.png"
       }
     }
   },
@@ -44662,6 +45250,61 @@
     }
   },
   {
+    "id": 4667,
+    "name": "oak_leaf",
+    "platform": "Windows 8/Metro",
+    "category": "Plants",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Plants/oak_leaf.svg",
+      "eps": "/EPS/Plants/oak_leaf.eps",
+      "png": {
+        "32": "/PNG/32/Plants/oak_leaf-32.png",
+        "128": "/PNG/128/Plants/oak_leaf-128.png",
+        "26": "/PNG/26/Plants/oak_leaf-26.png",
+        "256": "/PNG/256/Plants/oak_leaf-256.png",
+        "512": "/PNG/512/Plants/oak_leaf-512.png",
+        "64": "/PNG/64/Plants/oak_leaf-64.png"
+      }
+    }
+  },
+  {
+    "id": 4710,
+    "name": "obelisk",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1401144672,
+    "tags": [
+      "monument",
+      "memorial",
+      "pyramid",
+      "column",
+      "tower",
+      "historical",
+      "monolithic pillar",
+      "sculptor",
+      "pylon",
+      "tall structure"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/obelisk.svg",
+      "eps": "/EPS/City/obelisk.eps",
+      "png": {
+        "32": "/PNG/32/City/obelisk-32.png",
+        "128": "/PNG/128/City/obelisk-128.png",
+        "26": "/PNG/26/City/obelisk-26.png",
+        "256": "/PNG/256/City/obelisk-256.png",
+        "512": "/PNG/512/City/obelisk-512.png",
+        "64": "/PNG/64/City/obelisk-64.png"
+      }
+    }
+  },
+  {
     "id": 2034,
     "name": "octagon",
     "platform": "Windows 8/Metro",
@@ -46169,6 +46812,50 @@
     }
   },
   {
+    "id": 4696,
+    "name": "pagoda",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1401144672,
+    "tags": [
+      "church",
+      "prayer",
+      "jesus",
+      "app",
+      "destination",
+      "point",
+      "building",
+      "tree",
+      "christmas",
+      "architecture",
+      "simple",
+      "japan",
+      "japanese",
+      "tower",
+      "stand",
+      "traditional",
+      "whole",
+      "float",
+      "temple",
+      "culture",
+      "pagoda",
+      "slop"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/pagoda.svg",
+      "eps": "/EPS/City/pagoda.eps",
+      "png": {
+        "32": "/PNG/32/City/pagoda-32.png",
+        "128": "/PNG/128/City/pagoda-128.png",
+        "26": "/PNG/26/City/pagoda-26.png",
+        "256": "/PNG/256/City/pagoda-256.png",
+        "512": "/PNG/512/City/pagoda-512.png",
+        "64": "/PNG/64/City/pagoda-64.png"
+      }
+    }
+  },
+  {
     "id": 1217,
     "name": "paint_brush",
     "platform": "Windows 8/Metro",
@@ -46564,6 +47251,47 @@
         "512": "/PNG/512/City/park_bench-512.png",
         "64": "/PNG/64/City/park_bench-64.png",
         "48": "/PNG/48/Travel/park_bench-48.png"
+      }
+    }
+  },
+  {
+    "id": 4694,
+    "name": "parliament",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1401144672,
+    "tags": [
+      "park",
+      "building",
+      "country",
+      "bus",
+      "gallery",
+      "architecture",
+      "election",
+      "law",
+      "landmark",
+      "congress",
+      "vote",
+      "national",
+      "member",
+      "politics",
+      "government",
+      "COUNCIL",
+      "parliament",
+      "democracy",
+      "commission"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/parliament.svg",
+      "eps": "/EPS/City/parliament.eps",
+      "png": {
+        "32": "/PNG/32/City/parliament-32.png",
+        "128": "/PNG/128/City/parliament-128.png",
+        "26": "/PNG/26/City/parliament-26.png",
+        "256": "/PNG/256/City/parliament-256.png",
+        "512": "/PNG/512/City/parliament-512.png",
+        "64": "/PNG/64/City/parliament-64.png"
       }
     }
   },
@@ -61655,6 +62383,48 @@
     }
   },
   {
+    "id": 4673,
+    "name": "statue_of_liberty",
+    "platform": "Windows 8/Metro",
+    "category": "Travel",
+    "created": 1401144672,
+    "tags": [
+      "world",
+      "tablet",
+      "gift",
+      "freedom",
+      "history",
+      "beautiful",
+      "tourism",
+      "monument",
+      "crown",
+      "lady",
+      "sculpture",
+      "statue",
+      "liberty",
+      "torch",
+      "immigrants",
+      "copper",
+      "liberty island",
+      "american declaration",
+      "people of france",
+      "newyork"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Travel/statue_of_liberty.svg",
+      "eps": "/EPS/Travel/statue_of_liberty.eps",
+      "png": {
+        "32": "/PNG/32/Travel/statue_of_liberty-32.png",
+        "128": "/PNG/128/Travel/statue_of_liberty-128.png",
+        "26": "/PNG/26/Travel/statue_of_liberty-26.png",
+        "256": "/PNG/256/Travel/statue_of_liberty-256.png",
+        "512": "/PNG/512/Travel/statue_of_liberty-512.png",
+        "64": "/PNG/64/Travel/statue_of_liberty-64.png"
+      }
+    }
+  },
+  {
     "id": 468,
     "name": "steam",
     "platform": "Windows 8/Metro",
@@ -63482,6 +64252,47 @@
     }
   },
   {
+    "id": 4684,
+    "name": "synagogue",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1401144672,
+    "tags": [
+      "church",
+      "house of worship",
+      "house",
+      "star",
+      "religion",
+      "star of david",
+      "jewish",
+      "front",
+      "arch",
+      "temple",
+      "slanding",
+      "hebrew",
+      "shul",
+      "beth tfila",
+      "synagog",
+      "piller",
+      "slop",
+      "enterence",
+      "cubic"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/synagogue.svg",
+      "eps": "/EPS/City/synagogue.eps",
+      "png": {
+        "32": "/PNG/32/City/synagogue-32.png",
+        "128": "/PNG/128/City/synagogue-128.png",
+        "26": "/PNG/26/City/synagogue-26.png",
+        "256": "/PNG/256/City/synagogue-256.png",
+        "512": "/PNG/512/City/synagogue-512.png",
+        "64": "/PNG/64/City/synagogue-64.png"
+      }
+    }
+  },
+  {
     "id": 961,
     "name": "syringe",
     "platform": "Windows 8/Metro",
@@ -63929,6 +64740,53 @@
         "512": "/PNG/512/User_Interface/tails-512.png",
         "64": "/PNG/64/User_Interface/tails-64.png",
         "48": "/PNG/48/User_Interface/tails-48.png"
+      }
+    }
+  },
+  {
+    "id": 4671,
+    "name": "taj_mahal",
+    "platform": "Windows 8/Metro",
+    "category": "Travel",
+    "created": 1401144672,
+    "tags": [
+      "love",
+      "architecture",
+      "place",
+      "monument",
+      "memorial",
+      "chichen itza",
+      "ancient",
+      "miracle",
+      "india",
+      "famous",
+      "dome",
+      "marble",
+      "asia",
+      "islam",
+      "agra",
+      "palace",
+      "christ the redeemer",
+      "the great wall china",
+      "the abu simbel temple",
+      "pyramid and sphinx",
+      "burj al arab",
+      "marina bay sands",
+      "potala palace",
+      "emam mosque",
+      "sydney opera house"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Travel/taj_mahal.svg",
+      "eps": "/EPS/Travel/taj_mahal.eps",
+      "png": {
+        "32": "/PNG/32/Travel/taj_mahal-32.png",
+        "128": "/PNG/128/Travel/taj_mahal-128.png",
+        "26": "/PNG/26/Travel/taj_mahal-26.png",
+        "256": "/PNG/256/Travel/taj_mahal-256.png",
+        "512": "/PNG/512/Travel/taj_mahal-512.png",
+        "64": "/PNG/64/Travel/taj_mahal-64.png"
       }
     }
   },
@@ -70088,6 +70946,54 @@
     }
   },
   {
+    "id": 4681,
+    "name": "us_capitol",
+    "platform": "Windows 8/Metro",
+    "category": "Travel",
+    "created": 1401144672,
+    "tags": [
+      "travel",
+      "building",
+      "structure",
+      "history",
+      "monument",
+      "landmark",
+      "dome",
+      "congress",
+      "vote",
+      "tourist",
+      "usa",
+      "america",
+      "politics",
+      "capitol",
+      "government",
+      "senate",
+      "washington dc",
+      "legislative",
+      "assembly",
+      "federal",
+      "states",
+      "us capitol",
+      "house of representatives",
+      "united states capitol",
+      "capitol building",
+      "legislature"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Travel/us_capitol.svg",
+      "eps": "/EPS/Travel/us_capitol.eps",
+      "png": {
+        "32": "/PNG/32/Travel/us_capitol-32.png",
+        "128": "/PNG/128/Travel/us_capitol-128.png",
+        "26": "/PNG/26/Travel/us_capitol-26.png",
+        "256": "/PNG/256/Travel/us_capitol-256.png",
+        "512": "/PNG/512/Travel/us_capitol-512.png",
+        "64": "/PNG/64/Travel/us_capitol-64.png"
+      }
+    }
+  },
+  {
     "id": 865,
     "name": "utorrent",
     "platform": "Windows 8/Metro",
@@ -73264,9 +74170,9 @@
       "big rig",
       "weight station",
       "commercial vehicle",
-      "weighbridge",
       "axle weight",
-      "weight"
+      "weight",
+      "weighbridge"
     ],
     "copyright": false,
     "files": {
@@ -75517,6 +76423,282 @@
     }
   },
   {
+    "id": 4645,
+    "name": "year_of_dog",
+    "platform": "Windows 8/Metro",
+    "category": "Astrology",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_dog.svg",
+      "eps": "/EPS/Astrology/year_of_dog.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_dog-32.png",
+        "128": "/PNG/128/Astrology/year_of_dog-128.png",
+        "26": "/PNG/26/Astrology/year_of_dog-26.png",
+        "256": "/PNG/256/Astrology/year_of_dog-256.png",
+        "512": "/PNG/512/Astrology/year_of_dog-512.png",
+        "64": "/PNG/64/Astrology/year_of_dog-64.png"
+      }
+    }
+  },
+  {
+    "id": 4639,
+    "name": "year_of_dragon",
+    "platform": "Windows 8/Metro",
+    "category": "Astrology",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_dragon.svg",
+      "eps": "/EPS/Astrology/year_of_dragon.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_dragon-32.png",
+        "128": "/PNG/128/Astrology/year_of_dragon-128.png",
+        "26": "/PNG/26/Astrology/year_of_dragon-26.png",
+        "256": "/PNG/256/Astrology/year_of_dragon-256.png",
+        "512": "/PNG/512/Astrology/year_of_dragon-512.png",
+        "64": "/PNG/64/Astrology/year_of_dragon-64.png"
+      }
+    }
+  },
+  {
+    "id": 4650,
+    "name": "year_of_goat",
+    "platform": "Windows 8/Metro",
+    "category": "Astrology",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_goat.svg",
+      "eps": "/EPS/Astrology/year_of_goat.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_goat-32.png",
+        "128": "/PNG/128/Astrology/year_of_goat-128.png",
+        "26": "/PNG/26/Astrology/year_of_goat-26.png",
+        "256": "/PNG/256/Astrology/year_of_goat-256.png",
+        "512": "/PNG/512/Astrology/year_of_goat-512.png",
+        "64": "/PNG/64/Astrology/year_of_goat-64.png"
+      }
+    }
+  },
+  {
+    "id": 4640,
+    "name": "year_of_horse",
+    "platform": "Windows 8/Metro",
+    "category": "Astrology",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_horse.svg",
+      "eps": "/EPS/Astrology/year_of_horse.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_horse-32.png",
+        "128": "/PNG/128/Astrology/year_of_horse-128.png",
+        "26": "/PNG/26/Astrology/year_of_horse-26.png",
+        "256": "/PNG/256/Astrology/year_of_horse-256.png",
+        "512": "/PNG/512/Astrology/year_of_horse-512.png",
+        "64": "/PNG/64/Astrology/year_of_horse-64.png"
+      }
+    }
+  },
+  {
+    "id": 4648,
+    "name": "year_of_monkey",
+    "platform": "Windows 8/Metro",
+    "category": "Astrology",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_monkey.svg",
+      "eps": "/EPS/Astrology/year_of_monkey.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_monkey-32.png",
+        "128": "/PNG/128/Astrology/year_of_monkey-128.png",
+        "26": "/PNG/26/Astrology/year_of_monkey-26.png",
+        "256": "/PNG/256/Astrology/year_of_monkey-256.png",
+        "512": "/PNG/512/Astrology/year_of_monkey-512.png",
+        "64": "/PNG/64/Astrology/year_of_monkey-64.png"
+      }
+    }
+  },
+  {
+    "id": 4651,
+    "name": "year_of_ox",
+    "platform": "Windows 8/Metro",
+    "category": "Astrology",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_ox.svg",
+      "eps": "/EPS/Astrology/year_of_ox.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_ox-32.png",
+        "128": "/PNG/128/Astrology/year_of_ox-128.png",
+        "26": "/PNG/26/Astrology/year_of_ox-26.png",
+        "256": "/PNG/256/Astrology/year_of_ox-256.png",
+        "512": "/PNG/512/Astrology/year_of_ox-512.png",
+        "64": "/PNG/64/Astrology/year_of_ox-64.png"
+      }
+    }
+  },
+  {
+    "id": 4652,
+    "name": "year_of_pig",
+    "platform": "Windows 8/Metro",
+    "category": "Astrology",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_pig.svg",
+      "eps": "/EPS/Astrology/year_of_pig.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_pig-32.png",
+        "128": "/PNG/128/Astrology/year_of_pig-128.png",
+        "26": "/PNG/26/Astrology/year_of_pig-26.png",
+        "256": "/PNG/256/Astrology/year_of_pig-256.png",
+        "512": "/PNG/512/Astrology/year_of_pig-512.png",
+        "64": "/PNG/64/Astrology/year_of_pig-64.png"
+      }
+    }
+  },
+  {
+    "id": 4649,
+    "name": "year_of_rabbit",
+    "platform": "Windows 8/Metro",
+    "category": "Astrology",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_rabbit.svg",
+      "eps": "/EPS/Astrology/year_of_rabbit.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_rabbit-32.png",
+        "128": "/PNG/128/Astrology/year_of_rabbit-128.png",
+        "26": "/PNG/26/Astrology/year_of_rabbit-26.png",
+        "256": "/PNG/256/Astrology/year_of_rabbit-256.png",
+        "512": "/PNG/512/Astrology/year_of_rabbit-512.png",
+        "64": "/PNG/64/Astrology/year_of_rabbit-64.png"
+      }
+    }
+  },
+  {
+    "id": 4653,
+    "name": "year_of_rat",
+    "platform": "Windows 8/Metro",
+    "category": "Astrology",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_rat.svg",
+      "eps": "/EPS/Astrology/year_of_rat.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_rat-32.png",
+        "128": "/PNG/128/Astrology/year_of_rat-128.png",
+        "26": "/PNG/26/Astrology/year_of_rat-26.png",
+        "256": "/PNG/256/Astrology/year_of_rat-256.png",
+        "512": "/PNG/512/Astrology/year_of_rat-512.png",
+        "64": "/PNG/64/Astrology/year_of_rat-64.png"
+      }
+    }
+  },
+  {
+    "id": 4641,
+    "name": "year_of_rooster",
+    "platform": "Windows 8/Metro",
+    "category": "Astrology",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_rooster.svg",
+      "eps": "/EPS/Astrology/year_of_rooster.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_rooster-32.png",
+        "128": "/PNG/128/Astrology/year_of_rooster-128.png",
+        "26": "/PNG/26/Astrology/year_of_rooster-26.png",
+        "256": "/PNG/256/Astrology/year_of_rooster-256.png",
+        "512": "/PNG/512/Astrology/year_of_rooster-512.png",
+        "64": "/PNG/64/Astrology/year_of_rooster-64.png"
+      }
+    }
+  },
+  {
+    "id": 4646,
+    "name": "year_of_snake",
+    "platform": "Windows 8/Metro",
+    "category": "Astrology",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_snake.svg",
+      "eps": "/EPS/Astrology/year_of_snake.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_snake-32.png",
+        "128": "/PNG/128/Astrology/year_of_snake-128.png",
+        "26": "/PNG/26/Astrology/year_of_snake-26.png",
+        "256": "/PNG/256/Astrology/year_of_snake-256.png",
+        "512": "/PNG/512/Astrology/year_of_snake-512.png",
+        "64": "/PNG/64/Astrology/year_of_snake-64.png"
+      }
+    }
+  },
+  {
+    "id": 4643,
+    "name": "year_of_tiger",
+    "platform": "Windows 8/Metro",
+    "category": "Astrology",
+    "created": 1401144672,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_tiger.svg",
+      "eps": "/EPS/Astrology/year_of_tiger.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_tiger-32.png",
+        "128": "/PNG/128/Astrology/year_of_tiger-128.png",
+        "26": "/PNG/26/Astrology/year_of_tiger-26.png",
+        "256": "/PNG/256/Astrology/year_of_tiger-256.png",
+        "512": "/PNG/512/Astrology/year_of_tiger-512.png",
+        "64": "/PNG/64/Astrology/year_of_tiger-64.png"
+      }
+    }
+  },
+  {
     "id": 1994,
     "name": "yin_yang",
     "platform": "Windows 8/Metro",
@@ -75780,7 +76962,8 @@
       "icon",
       "size",
       "edits",
-      "customer"
+      "customer",
+      "editer"
     ],
     "copyright": false,
     "files": {
