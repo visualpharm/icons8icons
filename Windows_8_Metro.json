@@ -9631,6 +9631,7 @@
       "settings",
       "wrench",
       "change",
+      "gun",
       "redo",
       "fix",
       "repair"
@@ -10157,6 +10158,7 @@
       "CANCE",
       "what",
       "pending",
+      "fechar",
       "break"
     ],
     "copyright": false,
@@ -15032,6 +15034,7 @@
     "tags": [
       "talk",
       "speech bubble",
+      "cloud",
       "categories",
       "comments"
     ],
@@ -15538,7 +15541,8 @@
     "tags": [
       "contacts",
       "dial",
-      "phonebook"
+      "phonebook",
+      "skills"
     ],
     "copyright": false,
     "files": {
@@ -18091,13 +18095,14 @@
     "category": "Editing",
     "created": 1323262362,
     "tags": [
-      "add",
       "close",
       "edit",
       "erase",
       "city",
+      "gps",
       "turn",
       "area",
+      "add",
       "delete",
       "remove"
     ],
@@ -20154,7 +20159,8 @@
     "created": 1323361504,
     "tags": [
       "minus",
-      "upload"
+      "upload",
+      "learn"
     ],
     "copyright": false,
     "files": {
@@ -21551,6 +21557,7 @@
       "writing",
       "create",
       "house",
+      "tool",
       "del",
       "hand writing",
       "draw",
@@ -25669,6 +25676,7 @@
       "lunch",
       "utensil",
       "diner",
+      "use",
       "goblet",
       "caf",
       "cafeteria",
@@ -29300,7 +29308,8 @@
       "china",
       "chinese",
       "great wall",
-      "chinese wall"
+      "chinese wall",
+      "landmark"
     ],
     "copyright": false,
     "files": {
@@ -46515,11 +46524,12 @@
     "id": 2409,
     "name": "park_bench",
     "platform": "Windows 8/Metro",
-    "category": "Travel",
+    "category": "City",
     "created": 1390342413,
     "tags": [
       "vector",
       "sad",
+      "park",
       "animation",
       "wood",
       "black",
@@ -46532,7 +46542,10 @@
       "art",
       "funny",
       "chair",
+      "relaxing",
       "legs",
+      "sunset",
+      "woods",
       "falling",
       "isolated",
       "part",
@@ -46556,11 +46569,13 @@
       "bench",
       "ornamental",
       "distressed",
-      "allegory"
+      "allegory",
+      "sitting",
+      "rest"
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Travel/park_bench.svg",
+      "svg": "/SVG/City/park_bench.svg",
       "svg.simplified": "/SVG_for_Font/Travel/park_bench.svg",
       "eps": "/EPS/Travel/park_bench.eps",
       "png": {
@@ -49162,6 +49177,7 @@
     "created": 1342091366,
     "tags": [
       "call",
+      "buttons",
       "network",
       "police",
       "gun",
@@ -50981,7 +50997,8 @@
       "spirituality",
       "fantasy",
       "mythology",
-      "ancient"
+      "ancient",
+      "landmark"
     ],
     "copyright": false,
     "files": {
@@ -52139,7 +52156,8 @@
       "finance",
       "article",
       "movement",
-      "result"
+      "result",
+      "mission"
     ],
     "copyright": false,
     "files": {
@@ -52647,7 +52665,6 @@
       "green",
       "walking",
       "sports",
-      "cycling",
       "regular biking",
       "mountain biking",
       "time trial biking",
@@ -54026,6 +54043,7 @@
     "created": 1339750703,
     "tags": [
       "ready",
+      "work",
       "electric",
       "industry",
       "equipment",
@@ -55166,7 +55184,8 @@
       "architecture and buildings",
       "sagrada familia",
       "built structure",
-      "elegance"
+      "elegance",
+      "landmark"
     ],
     "copyright": false,
     "files": {
@@ -64332,7 +64351,8 @@
       "mug",
       "porcelain",
       "infusion",
-      "pause"
+      "pause",
+      "ribbon"
     ],
     "copyright": false,
     "files": {
@@ -71680,6 +71700,7 @@
       "data",
       "business",
       "image",
+      "white",
       "work tool",
       "vpn",
       "virtual private network",
@@ -73971,6 +73992,7 @@
       "start",
       "information",
       "screen",
+      "printer",
       "system",
       "development",
       "clear",
@@ -74733,7 +74755,8 @@
       "doc",
       "docx",
       "words",
-      "macro"
+      "macro",
+      "xlsx"
     ],
     "copyright": true,
     "files": {
