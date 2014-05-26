@@ -7649,6 +7649,7 @@
       "gamble",
       "poker",
       "cubes",
+      "nothing",
       "game",
       "black jack"
     ],
@@ -7679,6 +7680,7 @@
       "atm",
       "cash",
       "hospital",
+      "shopping",
       "payment methods",
       "instant",
       "receipt",
@@ -11168,7 +11170,8 @@
     "created": 1390342414,
     "tags": [
       "card",
-      "note"
+      "note",
+      "settings"
     ],
     "copyright": false,
     "files": {
@@ -18387,6 +18390,7 @@
     "category": "Logos",
     "created": 1324900438,
     "tags": [
+      "phone",
       "search",
       "social network",
       "Facebook"
@@ -37696,6 +37700,7 @@
       "communication",
       "comms",
       "info",
+      "iphone",
       "headset",
       "talking",
       "talk",
@@ -50426,7 +50431,8 @@
       "new generation",
       "school going",
       "fundamental",
-      "chatting"
+      "chatting",
+      "dinghy"
     ],
     "copyright": false,
     "files": {
@@ -56673,6 +56679,7 @@
       "close",
       "protect",
       "care",
+      "people",
       "objects",
       "weather",
       "rain",

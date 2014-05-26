@@ -26860,7 +26860,6 @@
       "simple",
       "vehicle",
       "garage",
-      "parked",
       "mechanic",
       "silhouette",
       "front",
@@ -26877,7 +26876,7 @@
       "inspection",
       "petrol",
       "lights",
-      "c"
+      "car mech"
     ],
     "copyright": false,
     "files": {
@@ -52555,7 +52554,6 @@
       "pc",
       "computer",
       "notebook",
-      "portable computer",
       "personal computer",
       "reload",
       "cerrar session",
