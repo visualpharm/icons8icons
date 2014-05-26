@@ -573,6 +573,88 @@
     }
   },
   {
+    "id": 4553,
+    "name": "air_element",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1401137474,
+    "tags": [
+      "design",
+      "app",
+      "home",
+      "swim",
+      "sea",
+      "earthly",
+      "dry",
+      "fire",
+      "light",
+      "spirit",
+      "low",
+      "goods",
+      "symbol",
+      "clouds",
+      "liquidity",
+      "classical",
+      "speed",
+      "row",
+      "lines",
+      "wind",
+      "water",
+      "hot",
+      "heat",
+      "motion",
+      "paths",
+      "illustration",
+      "sign",
+      "item",
+      "air",
+      "wood",
+      "five",
+      "black",
+      "darkness",
+      "gas",
+      "wet",
+      "moon",
+      "rest",
+      "dark",
+      "white",
+      "icon",
+      "size",
+      "nature",
+      "life",
+      "shape",
+      "natural",
+      "move",
+      "metal",
+      "marine",
+      "invisible",
+      "space",
+      "signs",
+      "force",
+      "falling",
+      "two",
+      "third",
+      "kitchen",
+      "abst"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/air_element.svg",
+      "eps": "/EPS/Astrology/air_element.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/air_element-32.png",
+        "128": "/PNG/128/Astrology/air_element-128.png",
+        "256": "/PNG/256/Astrology/air_element-256.png",
+        "36": "/PNG/36/Astrology/air_element-36.png",
+        "512": "/PNG/512/Astrology/air_element-512.png",
+        "64": "/PNG/64/Astrology/air_element-64.png",
+        "24": "/PNG/24/Astrology/air_element-24.png",
+        "96": "/PNG/96/Astrology/air_element-96.png",
+        "48": "/PNG/48/Astrology/air_element-48.png"
+      }
+    }
+  },
+  {
     "id": 3268,
     "name": "alarm_clock",
     "platform": "Android",
@@ -601,7 +683,7 @@
       "eps": "/EPS/Shopping/alarm_clock.eps",
       "png": {
         "32": "/PNG/32/Shopping/alarm_clock-32.png",
-        "128": "/PNG/128/Shopping/alarm_clock-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/alarm_clock-128.png",
         "256": "/PNG/256/Shopping/alarm_clock-256.png",
         "36": "/PNG/36/Shopping/alarm_clock-36.png",
         "512": "/PNG/512/Shopping/alarm_clock-512.png",
@@ -752,7 +834,7 @@
       "eps": "/EPS/Shopping/amex_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Shopping/amex_copyrighted-32.png",
-        "128": "/PNG/128/Shopping/amex_copyrighted-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/amex_copyrighted-128.png",
         "256": "/PNG/256/Shopping/amex_copyrighted-256.png",
         "36": "/PNG/36/Shopping/amex_copyrighted-36.png",
         "512": "/PNG/512/Shopping/amex_copyrighted-512.png",
@@ -933,6 +1015,32 @@
         "24": "/PNG/24/Healthcare/antiseptic_cream-24.png",
         "96": "/PNG/96/Healthcare/antiseptic_cream-96.png",
         "48": "/PNG/48/Healthcare/antiseptic_cream-48.png"
+      }
+    }
+  },
+  {
+    "id": 4602,
+    "name": "apartment",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/apartment.svg",
+      "eps": "/EPS/Household/apartment.eps",
+      "png": {
+        "32": "/PNG/32/Household/apartment-32.png",
+        "128": "/PNG/128/Household/apartment-128.png",
+        "256": "/PNG/256/Household/apartment-256.png",
+        "36": "/PNG/36/Household/apartment-36.png",
+        "512": "/PNG/512/Household/apartment-512.png",
+        "64": "/PNG/64/Household/apartment-64.png",
+        "24": "/PNG/24/Household/apartment-24.png",
+        "96": "/PNG/96/Household/apartment-96.png",
+        "48": "/PNG/48/Household/apartment-48.png"
       }
     }
   },
@@ -1148,6 +1256,32 @@
     }
   },
   {
+    "id": 4575,
+    "name": "armchair",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/armchair.svg",
+      "eps": "/EPS/Household/armchair.eps",
+      "png": {
+        "32": "/PNG/32/Household/armchair-32.png",
+        "128": "/PNG/128/Household/armchair-128.png",
+        "256": "/PNG/256/Household/armchair-256.png",
+        "36": "/PNG/36/Household/armchair-36.png",
+        "512": "/PNG/512/Household/armchair-512.png",
+        "64": "/PNG/64/Household/armchair-64.png",
+        "24": "/PNG/24/Household/armchair-24.png",
+        "96": "/PNG/96/Household/armchair-96.png",
+        "48": "/PNG/48/Household/armchair-48.png"
+      }
+    }
+  },
+  {
     "id": 4292,
     "name": "arrow",
     "platform": "Android",
@@ -1256,7 +1390,7 @@
       "eps": "/EPS/Very_Basic/audio_file.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/audio_file-32.png",
-        "128": "/PNG/128/Very_Basic/audio_file-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/audio_file-128.png",
         "256": "/PNG/256/Very_Basic/audio_file-256.png",
         "36": "/PNG/36/Very_Basic/audio_file-36.png",
         "512": "/PNG/512/Very_Basic/audio_file-512.png",
@@ -1456,6 +1590,73 @@
     }
   },
   {
+    "id": 4568,
+    "name": "autumn",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1401137474,
+    "tags": [
+      "design",
+      "beauty",
+      "change",
+      "gold",
+      "garden",
+      "motion",
+      "leaf",
+      "green",
+      "border",
+      "plant",
+      "forest",
+      "nature",
+      "fall",
+      "autumn",
+      "trees",
+      "outdoors",
+      "orange",
+      "natural",
+      "outdoor",
+      "concept",
+      "halloween",
+      "beautiful",
+      "isolated",
+      "focus",
+      "element",
+      "black and white",
+      "bright",
+      "colour",
+      "scenery",
+      "red",
+      "holidays",
+      "background",
+      "seasonal",
+      "pattern",
+      "thanksgiving",
+      "texture",
+      "foliage",
+      "season",
+      "vegetation",
+      "organic matter",
+      "natural material",
+      "natu"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/autumn.svg",
+      "eps": "/EPS/Astrology/autumn.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/autumn-32.png",
+        "128": "/PNG/128/Astrology/autumn-128.png",
+        "256": "/PNG/256/Astrology/autumn-256.png",
+        "36": "/PNG/36/Astrology/autumn-36.png",
+        "512": "/PNG/512/Astrology/autumn-512.png",
+        "64": "/PNG/64/Astrology/autumn-64.png",
+        "24": "/PNG/24/Astrology/autumn-24.png",
+        "96": "/PNG/96/Astrology/autumn-96.png",
+        "48": "/PNG/48/Astrology/autumn-48.png"
+      }
+    }
+  },
+  {
     "id": 3342,
     "name": "average",
     "platform": "Android",
@@ -1473,7 +1674,7 @@
       "eps": "/EPS/Shopping/average.eps",
       "png": {
         "32": "/PNG/32/Shopping/average-32.png",
-        "128": "/PNG/128/Shopping/average-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (3))/average-128.png",
         "256": "/PNG/256/Shopping/average-256.png",
         "36": "/PNG/36/Shopping/average-36.png",
         "512": "/PNG/512/Shopping/average-512.png",
@@ -1481,6 +1682,70 @@
         "24": "/PNG/24/Shopping/average-24.png",
         "96": "/PNG/96/Shopping/average-96.png",
         "48": "/PNG/48/Shopping/average-48.png"
+      }
+    }
+  },
+  {
+    "id": 4612,
+    "name": "babyroom",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+      "message",
+      "girl",
+      "expression",
+      "round",
+      "child",
+      "smile",
+      "happy",
+      "person",
+      "head",
+      "laugh",
+      "black",
+      "eye",
+      "young",
+      "joy",
+      "white",
+      "childhood",
+      "one",
+      "life",
+      "shape",
+      "baby",
+      "infant",
+      "two",
+      "circle",
+      "cute",
+      "face",
+      "boy",
+      "son",
+      "daughter",
+      "little",
+      "bright",
+      "ear",
+      "glow",
+      "mood",
+      "innocence",
+      "toddler",
+      "mouth",
+      "arc",
+      "semi-circle",
+      "shade"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/babyroom.svg",
+      "eps": "/EPS/Household/babyroom.eps",
+      "png": {
+        "32": "/PNG/32/Household/babyroom-32.png",
+        "128": "/PNG/128/Household/babyroom-128.png",
+        "256": "/PNG/256/Household/babyroom-256.png",
+        "36": "/PNG/36/Household/babyroom-36.png",
+        "512": "/PNG/512/Household/babyroom-512.png",
+        "64": "/PNG/64/Household/babyroom-64.png",
+        "24": "/PNG/24/Household/babyroom-24.png",
+        "96": "/PNG/96/Household/babyroom-96.png",
+        "48": "/PNG/48/Household/babyroom-48.png"
       }
     }
   },
@@ -1619,7 +1884,7 @@
       "eps": "/EPS/Shopping/banknotes.eps",
       "png": {
         "32": "/PNG/32/Shopping/banknotes-32.png",
-        "128": "/PNG/128/Shopping/banknotes-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (3))/banknotes-128.png",
         "256": "/PNG/256/Shopping/banknotes-256.png",
         "36": "/PNG/36/Shopping/banknotes-36.png",
         "512": "/PNG/512/Shopping/banknotes-512.png",
@@ -1663,7 +1928,7 @@
       "eps": "/EPS/Shopping/bank_cards.eps",
       "png": {
         "32": "/PNG/32/Shopping/bank_cards-32.png",
-        "128": "/PNG/128/Shopping/bank_cards-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (2))/bank_cards-128.png",
         "256": "/PNG/256/Shopping/bank_cards-256.png",
         "36": "/PNG/36/Shopping/bank_cards-36.png",
         "512": "/PNG/512/Shopping/bank_cards-512.png",
@@ -1724,7 +1989,7 @@
       "eps": "/EPS/Shopping/barcode.eps",
       "png": {
         "32": "/PNG/32/Shopping/barcode-32.png",
-        "128": "/PNG/128/Shopping/barcode-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/barcode-128.png",
         "256": "/PNG/256/Shopping/barcode-256.png",
         "36": "/PNG/36/Shopping/barcode-36.png",
         "512": "/PNG/512/Shopping/barcode-512.png",
@@ -1759,6 +2024,32 @@
         "24": "/PNG/24/Nature/barley-24.png",
         "96": "/PNG/96/Nature/barley-96.png",
         "48": "/PNG/48/Nature/barley-48.png"
+      }
+    }
+  },
+  {
+    "id": 4576,
+    "name": "barn",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/barn.svg",
+      "eps": "/EPS/Household/barn.eps",
+      "png": {
+        "32": "/PNG/32/Household/barn-32.png",
+        "128": "/PNG/128/Household/barn-128.png",
+        "256": "/PNG/256/Household/barn-256.png",
+        "36": "/PNG/36/Household/barn-36.png",
+        "512": "/PNG/512/Household/barn-512.png",
+        "64": "/PNG/64/Household/barn-64.png",
+        "24": "/PNG/24/Household/barn-24.png",
+        "96": "/PNG/96/Household/barn-96.png",
+        "48": "/PNG/48/Household/barn-48.png"
       }
     }
   },
@@ -1878,6 +2169,124 @@
     }
   },
   {
+    "id": 4590,
+    "name": "bath",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+      "design",
+      "vector",
+      "health",
+      "clean",
+      "home",
+      "wash",
+      "house",
+      "care",
+      "bubble",
+      "water",
+      "illustration",
+      "equipment",
+      "soap",
+      "black",
+      "recreation",
+      "white",
+      "iron",
+      "aroma",
+      "relaxation",
+      "old",
+      "body",
+      "bath",
+      "bathroom",
+      "hygiene",
+      "relax",
+      "dirty",
+      "realistic",
+      "glossy",
+      "background",
+      "gray",
+      "vintage",
+      "victorian",
+      "retro",
+      "interior",
+      "indoor",
+      "leisure",
+      "enjoy",
+      "washroom",
+      "spa",
+      "ceramic",
+      "tub",
+      "treatment",
+      "bathwater",
+      "refreshing",
+      "detailed",
+      "whirlpool"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/bath.svg",
+      "eps": "/EPS/Household/bath.eps",
+      "png": {
+        "32": "/PNG/32/Household/bath-32.png",
+        "128": "/PNG/128/Household/bath-128.png",
+        "256": "/PNG/256/Household/bath-256.png",
+        "36": "/PNG/36/Household/bath-36.png",
+        "512": "/PNG/512/Household/bath-512.png",
+        "64": "/PNG/64/Household/bath-64.png",
+        "24": "/PNG/24/Household/bath-24.png",
+        "96": "/PNG/96/Household/bath-96.png",
+        "48": "/PNG/48/Household/bath-48.png"
+      }
+    }
+  },
+  {
+    "id": 4586,
+    "name": "bath_room",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+      "spring",
+      "shower",
+      "bath",
+      "bathroom",
+      "shower bath",
+      "shower curtain",
+      "shower cap",
+      "shower gel",
+      "shower down",
+      "shower cascade",
+      "shower room",
+      "shower stall",
+      "shower head",
+      "fountain",
+      "showery",
+      "splash",
+      "shower proof",
+      "spray",
+      "sprinkle",
+      "nebulizer",
+      "dispensor",
+      "scatter"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/bath_room.svg",
+      "eps": "/EPS/Household/bath_room.eps",
+      "png": {
+        "32": "/PNG/32/Household/bath_room-32.png",
+        "128": "/PNG/128/Household/bath_room-128.png",
+        "256": "/PNG/256/Household/bath_room-256.png",
+        "36": "/PNG/36/Household/bath_room-36.png",
+        "512": "/PNG/512/Household/bath_room-512.png",
+        "64": "/PNG/64/Household/bath_room-64.png",
+        "24": "/PNG/24/Household/bath_room-24.png",
+        "96": "/PNG/96/Household/bath_room-96.png",
+        "48": "/PNG/48/Household/bath_room-48.png"
+      }
+    }
+  },
+  {
     "id": 3867,
     "name": "bebo",
     "platform": "Android",
@@ -1902,6 +2311,32 @@
         "24": "/PNG/24/Social_Networks/bebo-24.png",
         "96": "/PNG/96/Social_Networks/bebo-96.png",
         "48": "/PNG/48/Social_Networks/bebo-48.png"
+      }
+    }
+  },
+  {
+    "id": 4595,
+    "name": "bed",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/bed.svg",
+      "eps": "/EPS/Household/bed.eps",
+      "png": {
+        "32": "/PNG/32/Household/bed-32.png",
+        "128": "/PNG/128/Household/bed-128.png",
+        "256": "/PNG/256/Household/bed-256.png",
+        "36": "/PNG/36/Household/bed-36.png",
+        "512": "/PNG/512/Household/bed-512.png",
+        "64": "/PNG/64/Household/bed-64.png",
+        "24": "/PNG/24/Household/bed-24.png",
+        "96": "/PNG/96/Household/bed-96.png",
+        "48": "/PNG/48/Household/bed-48.png"
       }
     }
   },
@@ -1980,6 +2415,83 @@
         "24": "/PNG/24/Music/bell_lyre-24.png",
         "96": "/PNG/96/Music/bell_lyre-96.png",
         "48": "/PNG/48/Music/bell_lyre-48.png"
+      }
+    }
+  },
+  {
+    "id": 4608,
+    "name": "bell_service",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+      "ring",
+      "office",
+      "food",
+      "cover",
+      "nutrition",
+      "sound",
+      "dine",
+      "eat",
+      "tool",
+      "round",
+      "table",
+      "silver",
+      "hot",
+      "function",
+      "attention",
+      "room",
+      "request",
+      "bell",
+      "steel",
+      "color",
+      "catering",
+      "metal",
+      "diet",
+      "service",
+      "cap",
+      "push",
+      "kitchen",
+      "curve",
+      "lunch",
+      "gray",
+      "alert",
+      "lid",
+      "desk",
+      "cafe",
+      "attend",
+      "hotel",
+      "hit",
+      "dome",
+      "call for",
+      "inn",
+      "serve",
+      "bistro",
+      "consumption",
+      "storing",
+      "plateful",
+      "bakery",
+      "pantry",
+      "chafing",
+      "dish",
+      "bowl",
+      "dishes",
+      "preserve"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/bell_service.svg",
+      "eps": "/EPS/Household/bell_service.eps",
+      "png": {
+        "32": "/PNG/32/Household/bell_service-32.png",
+        "128": "/PNG/128/Household/bell_service-128.png",
+        "256": "/PNG/256/Household/bell_service-256.png",
+        "36": "/PNG/36/Household/bell_service-36.png",
+        "512": "/PNG/512/Household/bell_service-512.png",
+        "64": "/PNG/64/Household/bell_service-64.png",
+        "24": "/PNG/24/Household/bell_service-24.png",
+        "96": "/PNG/96/Household/bell_service-96.png",
+        "48": "/PNG/48/Household/bell_service-48.png"
       }
     }
   },
@@ -2262,6 +2774,32 @@
     }
   },
   {
+    "id": 4623,
+    "name": "blunderbuss",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/blunderbuss.svg",
+      "eps": "/EPS/Military/blunderbuss.eps",
+      "png": {
+        "32": "/PNG/32/Military/blunderbuss-32.png",
+        "128": "/PNG/128/Military/blunderbuss-128.png",
+        "256": "/PNG/256/Military/blunderbuss-256.png",
+        "36": "/PNG/36/Military/blunderbuss-36.png",
+        "512": "/PNG/512/Military/blunderbuss-512.png",
+        "64": "/PNG/64/Military/blunderbuss-64.png",
+        "24": "/PNG/24/Military/blunderbuss-24.png",
+        "96": "/PNG/96/Military/blunderbuss-96.png",
+        "48": "/PNG/48/Military/blunderbuss-48.png"
+      }
+    }
+  },
+  {
     "id": 4265,
     "name": "bold",
     "platform": "Android",
@@ -2285,6 +2823,68 @@
         "24": "/PNG/24/Editing/bold-24.png",
         "96": "/PNG/96/Editing/bold-96.png",
         "48": "/PNG/48/Editing/bold-48.png"
+      }
+    }
+  },
+  {
+    "id": 4629,
+    "name": "bomb",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/bomb.svg",
+      "eps": "/EPS/Military/bomb.eps",
+      "png": {
+        "32": "/PNG/32/Military/bomb-32.png",
+        "128": "/PNG/128/Military/bomb-128.png",
+        "256": "/PNG/256/Military/bomb-256.png",
+        "36": "/PNG/36/Military/bomb-36.png",
+        "512": "/PNG/512/Military/bomb-512.png",
+        "64": "/PNG/64/Military/bomb-64.png",
+        "24": "/PNG/24/Military/bomb-24.png",
+        "96": "/PNG/96/Military/bomb-96.png",
+        "48": "/PNG/48/Military/bomb-48.png"
+      }
+    }
+  },
+  {
+    "id": 4616,
+    "name": "booking",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+      "print",
+      "receipt",
+      "money",
+      "account",
+      "ticket",
+      "text",
+      "online",
+      "bus",
+      "papper",
+      "booking",
+      "railway"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/booking.svg",
+      "eps": "/EPS/Household/booking.eps",
+      "png": {
+        "32": "/PNG/32/Household/booking-32.png",
+        "128": "/PNG/128/Household/booking-128.png",
+        "256": "/PNG/256/Household/booking-256.png",
+        "36": "/PNG/36/Household/booking-36.png",
+        "512": "/PNG/512/Household/booking-512.png",
+        "64": "/PNG/64/Household/booking-64.png",
+        "24": "/PNG/24/Household/booking-24.png",
+        "96": "/PNG/96/Household/booking-96.png",
+        "48": "/PNG/48/Household/booking-48.png"
       }
     }
   },
@@ -2314,7 +2914,7 @@
       "eps": "/EPS/Very_Basic/bookmark.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/bookmark-32.png",
-        "128": "/PNG/128/Very_Basic/bookmark-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/bookmark-128.png",
         "256": "/PNG/256/Very_Basic/bookmark-256.png",
         "36": "/PNG/36/Very_Basic/bookmark-36.png",
         "512": "/PNG/512/Very_Basic/bookmark-512.png",
@@ -2362,6 +2962,32 @@
         "24": "/PNG/24/Music/boombox-24.png",
         "96": "/PNG/96/Music/boombox-96.png",
         "48": "/PNG/48/Music/boombox-48.png"
+      }
+    }
+  },
+  {
+    "id": 4634,
+    "name": "boots",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/boots.svg",
+      "eps": "/EPS/Military/boots.eps",
+      "png": {
+        "32": "/PNG/32/Military/boots-32.png",
+        "128": "/PNG/128/Military/boots-128.png",
+        "256": "/PNG/256/Military/boots-256.png",
+        "36": "/PNG/36/Military/boots-36.png",
+        "512": "/PNG/512/Military/boots-512.png",
+        "64": "/PNG/64/Military/boots-64.png",
+        "24": "/PNG/24/Military/boots-24.png",
+        "96": "/PNG/96/Military/boots-96.png",
+        "48": "/PNG/48/Military/boots-48.png"
       }
     }
   },
@@ -2512,7 +3138,7 @@
       "eps": "/EPS/Shopping/box2.eps",
       "png": {
         "32": "/PNG/32/Shopping/box2-32.png",
-        "128": "/PNG/128/Shopping/box2-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (21))/box2-128.png",
         "256": "/PNG/256/Shopping/box2-256.png",
         "36": "/PNG/36/Shopping/box2-36.png",
         "512": "/PNG/512/Shopping/box2-512.png",
@@ -2593,7 +3219,7 @@
       "eps": "/EPS/Shopping/breifcase.eps",
       "png": {
         "32": "/PNG/32/Shopping/breifcase-32.png",
-        "128": "/PNG/128/Shopping/breifcase-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/breifcase-128.png",
         "256": "/PNG/256/Shopping/breifcase-256.png",
         "36": "/PNG/36/Shopping/breifcase-36.png",
         "512": "/PNG/512/Shopping/breifcase-512.png",
@@ -2659,6 +3285,71 @@
     }
   },
   {
+    "id": 4596,
+    "name": "broom",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+      "print",
+      "screen",
+      "look",
+      "drive",
+      "round",
+      "change",
+      "swipe",
+      "happy",
+      "speed",
+      "image",
+      "picture",
+      "fly",
+      "black",
+      "white",
+      "frame",
+      "color",
+      "small",
+      "brush",
+      "paint",
+      "art",
+      "alphabet",
+      "beautiful",
+      "vertical",
+      "interest",
+      "bright",
+      "colorful",
+      "diagram",
+      "eight",
+      "nice",
+      "thick",
+      "joke",
+      "sweeper",
+      "dust",
+      "particles",
+      "joints",
+      "bubbles",
+      "stationary",
+      "slant",
+      "painter",
+      "decorate"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/broom.svg",
+      "eps": "/EPS/Household/broom.eps",
+      "png": {
+        "32": "/PNG/32/Household/broom-32.png",
+        "128": "/PNG/128/Household/broom-128.png",
+        "256": "/PNG/256/Household/broom-256.png",
+        "36": "/PNG/36/Household/broom-36.png",
+        "512": "/PNG/512/Household/broom-512.png",
+        "64": "/PNG/64/Household/broom-64.png",
+        "24": "/PNG/24/Household/broom-24.png",
+        "96": "/PNG/96/Household/broom-96.png",
+        "48": "/PNG/48/Household/broom-48.png"
+      }
+    }
+  },
+  {
     "id": 4300,
     "name": "brush",
     "platform": "Android",
@@ -2720,6 +3411,32 @@
     }
   },
   {
+    "id": 4594,
+    "name": "bungalow",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/bungalow.svg",
+      "eps": "/EPS/Household/bungalow.eps",
+      "png": {
+        "32": "/PNG/32/Household/bungalow-32.png",
+        "128": "/PNG/128/Household/bungalow-128.png",
+        "256": "/PNG/256/Household/bungalow-256.png",
+        "36": "/PNG/36/Household/bungalow-36.png",
+        "512": "/PNG/512/Household/bungalow-512.png",
+        "64": "/PNG/64/Household/bungalow-64.png",
+        "24": "/PNG/24/Household/bungalow-24.png",
+        "96": "/PNG/96/Household/bungalow-96.png",
+        "48": "/PNG/48/Household/bungalow-48.png"
+      }
+    }
+  },
+  {
     "id": 3916,
     "name": "burn_cd",
     "platform": "Android",
@@ -2735,7 +3452,7 @@
       "eps": "/EPS/Objects/burn_cd.eps",
       "png": {
         "32": "/PNG/32/Objects/burn_cd-32.png",
-        "128": "/PNG/128/Objects/burn_cd-128.png",
+        "128": "/PNG/128/objects (Case Conflict (9))/burn_cd-128.png",
         "256": "/PNG/256/Objects/burn_cd-256.png",
         "36": "/PNG/36/Objects/burn_cd-36.png",
         "512": "/PNG/512/Objects/burn_cd-512.png",
@@ -2807,7 +3524,7 @@
       "eps": "/EPS/Shopping/buy.eps",
       "png": {
         "32": "/PNG/32/Shopping/buy-32.png",
-        "128": "/PNG/128/Shopping/buy-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (15))/buy-128.png",
         "256": "/PNG/256/Shopping/buy-256.png",
         "36": "/PNG/36/Shopping/buy-36.png",
         "512": "/PNG/512/Shopping/buy-512.png",
@@ -2845,7 +3562,7 @@
       "eps": "/EPS/Very_Basic/calculator.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/calculator-32.png",
-        "128": "/PNG/128/Very_Basic/calculator-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/calculator-128.png",
         "256": "/PNG/256/Very_Basic/calculator-256.png",
         "36": "/PNG/36/Very_Basic/calculator-36.png",
         "512": "/PNG/512/Very_Basic/calculator-512.png",
@@ -2895,7 +3612,7 @@
       "eps": "/EPS/Very_Basic/calendar.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/calendar-32.png",
-        "128": "/PNG/128/Very_Basic/calendar-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/calendar-128.png",
         "256": "/PNG/256/Very_Basic/calendar-256.png",
         "36": "/PNG/36/Very_Basic/calendar-36.png",
         "512": "/PNG/512/Very_Basic/calendar-512.png",
@@ -2998,6 +3715,32 @@
         "24": "/PNG/24/Photo_Video/camcoder_pro-24.png",
         "96": "/PNG/96/Photo_Video/camcoder_pro-96.png",
         "48": "/PNG/48/Photo_Video/camcoder_pro-48.png"
+      }
+    }
+  },
+  {
+    "id": 4621,
+    "name": "camo_cream",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/camo_cream.svg",
+      "eps": "/EPS/Military/camo_cream.eps",
+      "png": {
+        "32": "/PNG/32/Military/camo_cream-32.png",
+        "128": "/PNG/128/Military/camo_cream-128.png",
+        "256": "/PNG/256/Military/camo_cream-256.png",
+        "36": "/PNG/36/Military/camo_cream-36.png",
+        "512": "/PNG/512/Military/camo_cream-512.png",
+        "64": "/PNG/64/Military/camo_cream-64.png",
+        "24": "/PNG/24/Military/camo_cream-24.png",
+        "96": "/PNG/96/Military/camo_cream-96.png",
+        "48": "/PNG/48/Military/camo_cream-48.png"
       }
     }
   },
@@ -3172,6 +3915,32 @@
         "24": "/PNG/24/Christmas/candy_cane-24.png",
         "96": "/PNG/96/Christmas/candy_cane-96.png",
         "48": "/PNG/48/Christmas/candy_cane-48.png"
+      }
+    }
+  },
+  {
+    "id": 4626,
+    "name": "cannon",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/cannon.svg",
+      "eps": "/EPS/Military/cannon.eps",
+      "png": {
+        "32": "/PNG/32/Military/cannon-32.png",
+        "128": "/PNG/128/Military/cannon-128.png",
+        "256": "/PNG/256/Military/cannon-256.png",
+        "36": "/PNG/36/Military/cannon-36.png",
+        "512": "/PNG/512/Military/cannon-512.png",
+        "64": "/PNG/64/Military/cannon-64.png",
+        "24": "/PNG/24/Military/cannon-24.png",
+        "96": "/PNG/96/Military/cannon-96.png",
+        "48": "/PNG/48/Military/cannon-48.png"
       }
     }
   },
@@ -3460,7 +4229,7 @@
       "eps": "/EPS/Shopping/card_inserting.eps",
       "png": {
         "32": "/PNG/32/Shopping/card_inserting-32.png",
-        "128": "/PNG/128/Shopping/card_inserting-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (29))/card_inserting-128.png",
         "256": "/PNG/256/Shopping/card_inserting-256.png",
         "36": "/PNG/36/Shopping/card_inserting-36.png",
         "512": "/PNG/512/Shopping/card_inserting-512.png",
@@ -3504,7 +4273,7 @@
       "eps": "/EPS/Shopping/card_in_use.eps",
       "png": {
         "32": "/PNG/32/Shopping/card_in_use-32.png",
-        "128": "/PNG/128/Shopping/card_in_use-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (19))/card_in_use-128.png",
         "256": "/PNG/256/Shopping/card_in_use-256.png",
         "36": "/PNG/36/Shopping/card_in_use-36.png",
         "512": "/PNG/512/Shopping/card_in_use-512.png",
@@ -3552,7 +4321,7 @@
       "eps": "/EPS/Shopping/cash_receiving.eps",
       "png": {
         "32": "/PNG/32/Shopping/cash_receiving-32.png",
-        "128": "/PNG/128/Shopping/cash_receiving-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (20))/cash_receiving-128.png",
         "256": "/PNG/256/Shopping/cash_receiving-256.png",
         "36": "/PNG/36/Shopping/cash_receiving-36.png",
         "512": "/PNG/512/Shopping/cash_receiving-512.png",
@@ -3859,6 +4628,32 @@
     }
   },
   {
+    "id": 4599,
+    "name": "channel_mosaic",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/channel_mosaic.svg",
+      "eps": "/EPS/Household/channel_mosaic.eps",
+      "png": {
+        "32": "/PNG/32/Household/channel_mosaic-32.png",
+        "128": "/PNG/128/Household/channel_mosaic-128.png",
+        "256": "/PNG/256/Household/channel_mosaic-256.png",
+        "36": "/PNG/36/Household/channel_mosaic-36.png",
+        "512": "/PNG/512/Household/channel_mosaic-512.png",
+        "64": "/PNG/64/Household/channel_mosaic-64.png",
+        "24": "/PNG/24/Household/channel_mosaic-24.png",
+        "96": "/PNG/96/Household/channel_mosaic-96.png",
+        "48": "/PNG/48/Household/channel_mosaic-48.png"
+      }
+    }
+  },
+  {
     "id": 3300,
     "name": "cheap",
     "platform": "Android",
@@ -3885,7 +4680,7 @@
       "eps": "/EPS/Shopping/cheap.eps",
       "png": {
         "32": "/PNG/32/Shopping/cheap-32.png",
-        "128": "/PNG/128/Shopping/cheap-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (21))/cheap-128.png",
         "256": "/PNG/256/Shopping/cheap-256.png",
         "36": "/PNG/36/Shopping/cheap-36.png",
         "512": "/PNG/512/Shopping/cheap-512.png",
@@ -3981,7 +4776,7 @@
       "eps": "/EPS/Very_Basic/checkmark.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/checkmark-32.png",
-        "128": "/PNG/128/Very_Basic/checkmark-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict (20))/checkmark-128.png",
         "256": "/PNG/256/Very_Basic/checkmark-256.png",
         "36": "/PNG/36/Very_Basic/checkmark-36.png",
         "512": "/PNG/512/Very_Basic/checkmark-512.png",
@@ -4018,7 +4813,7 @@
       "eps": "/EPS/Shopping/checkout.eps",
       "png": {
         "32": "/PNG/32/Shopping/checkout-32.png",
-        "128": "/PNG/128/Shopping/checkout-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (1))/checkout-128.png",
         "256": "/PNG/256/Shopping/checkout-256.png",
         "36": "/PNG/36/Shopping/checkout-36.png",
         "512": "/PNG/512/Shopping/checkout-512.png",
@@ -4058,7 +4853,7 @@
       "eps": "/EPS/Shopping/check_book.eps",
       "png": {
         "32": "/PNG/32/Shopping/check_book-32.png",
-        "128": "/PNG/128/Shopping/check_book-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (28))/check_book-128.png",
         "256": "/PNG/256/Shopping/check_book-256.png",
         "36": "/PNG/36/Shopping/check_book-36.png",
         "512": "/PNG/512/Shopping/check_book-512.png",
@@ -4615,6 +5410,69 @@
     }
   },
   {
+    "id": 4614,
+    "name": "cloakroom",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+      "textile",
+      "clean",
+      "fashion",
+      "up",
+      "symbol",
+      "storage",
+      "rack",
+      "sign",
+      "equipment",
+      "clothing",
+      "icon",
+      "cleanliness",
+      "wall",
+      "suit",
+      "single",
+      "object",
+      "shower",
+      "cotton",
+      "bath",
+      "bathroom",
+      "towel",
+      "closet",
+      "hygiene",
+      "neat",
+      "hook",
+      "accessory",
+      "hanger",
+      "cloth",
+      "hang",
+      "linens",
+      "coat",
+      "shirt",
+      "coat-hanger",
+      "lone",
+      "jacket",
+      "cloakroom",
+      "wardrobe",
+      "clothes-hanger"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/cloakroom.svg",
+      "eps": "/EPS/Household/cloakroom.eps",
+      "png": {
+        "32": "/PNG/32/Household/cloakroom-32.png",
+        "128": "/PNG/128/Household/cloakroom-128.png",
+        "256": "/PNG/256/Household/cloakroom-256.png",
+        "36": "/PNG/36/Household/cloakroom-36.png",
+        "512": "/PNG/512/Household/cloakroom-512.png",
+        "64": "/PNG/64/Household/cloakroom-64.png",
+        "24": "/PNG/24/Household/cloakroom-24.png",
+        "96": "/PNG/96/Household/cloakroom-96.png",
+        "48": "/PNG/48/Household/cloakroom-48.png"
+      }
+    }
+  },
+  {
     "id": 3160,
     "name": "clock",
     "platform": "Android",
@@ -4648,7 +5506,7 @@
       "eps": "/EPS/Very_Basic/clock.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/clock-32.png",
-        "128": "/PNG/128/Very_Basic/clock-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/clock-128.png",
         "256": "/PNG/256/Very_Basic/clock-256.png",
         "36": "/PNG/36/Very_Basic/clock-36.png",
         "512": "/PNG/512/Very_Basic/clock-512.png",
@@ -4881,6 +5739,32 @@
     }
   },
   {
+    "id": 4577,
+    "name": "coffee_maker",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/coffee_maker.svg",
+      "eps": "/EPS/Household/coffee_maker.eps",
+      "png": {
+        "32": "/PNG/32/Household/coffee_maker-32.png",
+        "128": "/PNG/128/Household/coffee_maker-128.png",
+        "256": "/PNG/256/Household/coffee_maker-256.png",
+        "36": "/PNG/36/Household/coffee_maker-36.png",
+        "512": "/PNG/512/Household/coffee_maker-512.png",
+        "64": "/PNG/64/Household/coffee_maker-64.png",
+        "24": "/PNG/24/Household/coffee_maker-24.png",
+        "96": "/PNG/96/Household/coffee_maker-96.png",
+        "48": "/PNG/48/Household/coffee_maker-48.png"
+      }
+    }
+  },
+  {
     "id": 3139,
     "name": "coins",
     "platform": "Android",
@@ -4911,7 +5795,7 @@
       "eps": "/EPS/Shopping/coins.eps",
       "png": {
         "32": "/PNG/32/Shopping/coins-32.png",
-        "128": "/PNG/128/Shopping/coins-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (29))/coins-128.png",
         "256": "/PNG/256/Shopping/coins-256.png",
         "36": "/PNG/36/Shopping/coins-36.png",
         "512": "/PNG/512/Shopping/coins-512.png",
@@ -5035,6 +5919,32 @@
         "24": "/PNG/24/Cinema/comedy2-24.png",
         "96": "/PNG/96/Cinema/comedy2-96.png",
         "48": "/PNG/48/Cinema/comedy2-48.png"
+      }
+    }
+  },
+  {
+    "id": 4584,
+    "name": "commode",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/commode.svg",
+      "eps": "/EPS/Household/commode.eps",
+      "png": {
+        "32": "/PNG/32/Household/commode-32.png",
+        "128": "/PNG/128/Household/commode-128.png",
+        "256": "/PNG/256/Household/commode-256.png",
+        "36": "/PNG/36/Household/commode-36.png",
+        "512": "/PNG/512/Household/commode-512.png",
+        "64": "/PNG/64/Household/commode-64.png",
+        "24": "/PNG/24/Household/commode-24.png",
+        "96": "/PNG/96/Household/commode-96.png",
+        "48": "/PNG/48/Household/commode-48.png"
       }
     }
   },
@@ -5292,7 +6202,7 @@
       "eps": "/EPS/Very_Basic/contacts.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/contacts-32.png",
-        "128": "/PNG/128/Very_Basic/contacts-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict (22))/contacts-128.png",
         "256": "/PNG/256/Very_Basic/contacts-256.png",
         "36": "/PNG/36/Very_Basic/contacts-36.png",
         "512": "/PNG/512/Very_Basic/contacts-512.png",
@@ -5398,6 +6308,32 @@
         "24": "/PNG/24/Music/cornet-24.png",
         "96": "/PNG/96/Music/cornet-96.png",
         "48": "/PNG/48/Music/cornet-48.png"
+      }
+    }
+  },
+  {
+    "id": 4579,
+    "name": "cottage",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/cottage.svg",
+      "eps": "/EPS/Household/cottage.eps",
+      "png": {
+        "32": "/PNG/32/Household/cottage-32.png",
+        "128": "/PNG/128/Household/cottage-128.png",
+        "256": "/PNG/256/Household/cottage-256.png",
+        "36": "/PNG/36/Household/cottage-36.png",
+        "512": "/PNG/512/Household/cottage-512.png",
+        "64": "/PNG/64/Household/cottage-64.png",
+        "24": "/PNG/24/Household/cottage-24.png",
+        "96": "/PNG/96/Household/cottage-96.png",
+        "48": "/PNG/48/Household/cottage-48.png"
       }
     }
   },
@@ -5651,6 +6587,51 @@
     }
   },
   {
+    "id": 4560,
+    "name": "crystal_ball",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1401137474,
+    "tags": [
+      "vector",
+      "bulb",
+      "light",
+      "lamp",
+      "save",
+      "symbol",
+      "electric",
+      "sign",
+      "electricity",
+      "icon",
+      "power",
+      "isolated",
+      "innovation",
+      "element",
+      "tech",
+      "lightbulb",
+      "halogen",
+      "tungsten",
+      "bio",
+      "socle"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/crystal_ball.svg",
+      "eps": "/EPS/Astrology/crystal_ball.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/crystal_ball-32.png",
+        "128": "/PNG/128/Astrology/crystal_ball-128.png",
+        "256": "/PNG/256/Astrology/crystal_ball-256.png",
+        "36": "/PNG/36/Astrology/crystal_ball-36.png",
+        "512": "/PNG/512/Astrology/crystal_ball-512.png",
+        "64": "/PNG/64/Astrology/crystal_ball-64.png",
+        "24": "/PNG/24/Astrology/crystal_ball-24.png",
+        "96": "/PNG/96/Astrology/crystal_ball-96.png",
+        "48": "/PNG/48/Astrology/crystal_ball-48.png"
+      }
+    }
+  },
+  {
     "id": 4088,
     "name": "crystal_oscillator",
     "platform": "Android",
@@ -5705,7 +6686,7 @@
       "eps": "/EPS/Very_Basic/cursor.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/cursor-32.png",
-        "128": "/PNG/128/Very_Basic/cursor-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/cursor-128.png",
         "256": "/PNG/256/Very_Basic/cursor-256.png",
         "36": "/PNG/36/Very_Basic/cursor-36.png",
         "512": "/PNG/512/Very_Basic/cursor-512.png",
@@ -5951,7 +6932,7 @@
       "eps": "/EPS/Very_Basic/delete.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/delete-32.png",
-        "128": "/PNG/128/Very_Basic/delete-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/delete-128.png",
         "256": "/PNG/256/Very_Basic/delete-256.png",
         "36": "/PNG/36/Very_Basic/delete-36.png",
         "512": "/PNG/512/Very_Basic/delete-512.png",
@@ -6013,7 +6994,7 @@
       "eps": "/EPS/Shopping/delivery.eps",
       "png": {
         "32": "/PNG/32/Shopping/delivery-32.png",
-        "128": "/PNG/128/Shopping/delivery-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/delivery-128.png",
         "256": "/PNG/256/Shopping/delivery-256.png",
         "36": "/PNG/36/Shopping/delivery-36.png",
         "512": "/PNG/512/Shopping/delivery-512.png",
@@ -6179,6 +7160,51 @@
     }
   },
   {
+    "id": 4582,
+    "name": "dining_room",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+      "food",
+      "knife",
+      "nourishment",
+      "restaurant",
+      "dinner",
+      "eating",
+      "dining",
+      "breakfast",
+      "fork",
+      "tasty",
+      "meal",
+      "delicious",
+      "menu",
+      "lunch",
+      "yummy",
+      "silverware",
+      "hungry",
+      "calories",
+      "utensils",
+      "cutlery"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/dining_room.svg",
+      "eps": "/EPS/Household/dining_room.eps",
+      "png": {
+        "32": "/PNG/32/Household/dining_room-32.png",
+        "128": "/PNG/128/Household/dining_room-128.png",
+        "256": "/PNG/256/Household/dining_room-256.png",
+        "36": "/PNG/36/Household/dining_room-36.png",
+        "512": "/PNG/512/Household/dining_room-512.png",
+        "64": "/PNG/64/Household/dining_room-64.png",
+        "24": "/PNG/24/Household/dining_room-24.png",
+        "96": "/PNG/96/Household/dining_room-96.png",
+        "48": "/PNG/48/Household/dining_room-48.png"
+      }
+    }
+  },
+  {
     "id": 3288,
     "name": "diploma1",
     "platform": "Android",
@@ -6202,7 +7228,7 @@
       "eps": "/EPS/Shopping/diploma1.eps",
       "png": {
         "32": "/PNG/32/Shopping/diploma1-32.png",
-        "128": "/PNG/128/Shopping/diploma1-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (7))/diploma1-128.png",
         "256": "/PNG/256/Shopping/diploma1-256.png",
         "36": "/PNG/36/Shopping/diploma1-36.png",
         "512": "/PNG/512/Shopping/diploma1-512.png",
@@ -6240,7 +7266,7 @@
       "eps": "/EPS/Shopping/diploma2.eps",
       "png": {
         "32": "/PNG/32/Shopping/diploma2-32.png",
-        "128": "/PNG/128/Shopping/diploma2-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (13))/diploma2-128.png",
         "256": "/PNG/256/Shopping/diploma2-256.png",
         "36": "/PNG/36/Shopping/diploma2-36.png",
         "512": "/PNG/512/Shopping/diploma2-512.png",
@@ -6410,7 +7436,7 @@
       "eps": "/EPS/Very_Basic/document.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/document-32.png",
-        "128": "/PNG/128/Very_Basic/document-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/document-128.png",
         "256": "/PNG/256/Very_Basic/document-256.png",
         "36": "/PNG/36/Very_Basic/document-36.png",
         "512": "/PNG/512/Very_Basic/document-512.png",
@@ -6807,7 +7833,7 @@
       "eps": "/EPS/Very_Basic/download.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/download-32.png",
-        "128": "/PNG/128/Very_Basic/download-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/download-128.png",
         "256": "/PNG/256/Very_Basic/download-256.png",
         "36": "/PNG/36/Very_Basic/download-36.png",
         "512": "/PNG/512/Very_Basic/download-512.png",
@@ -7012,6 +8038,83 @@
         "24": "/PNG/24/Sports/dumbbell-24.png",
         "96": "/PNG/96/Sports/dumbbell-96.png",
         "48": "/PNG/48/Sports/dumbbell-48.png"
+      }
+    }
+  },
+  {
+    "id": 4569,
+    "name": "earth_element",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1401137474,
+    "tags": [
+      "design",
+      "zodiac",
+      "earth",
+      "ground",
+      "house",
+      "fire",
+      "line",
+      "light",
+      "spirit",
+      "low",
+      "cycle",
+      "symbol",
+      "table",
+      "liquidity",
+      "classical",
+      "speed",
+      "pollution",
+      "water",
+      "motion",
+      "paths",
+      "illustration",
+      "creation",
+      "point",
+      "sign",
+      "balance",
+      "weather",
+      "triangle",
+      "building",
+      "air",
+      "wood",
+      "rectangle",
+      "four",
+      "five",
+      "green",
+      "black",
+      "magic",
+      "darkness",
+      "rest",
+      "dark",
+      "white",
+      "glass",
+      "icon",
+      "angels",
+      "nature",
+      "snow",
+      "life",
+      "shape",
+      "style",
+      "art",
+      "bold",
+      "natural",
+      "move"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/earth_element.svg",
+      "eps": "/EPS/Astrology/earth_element.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/earth_element-32.png",
+        "128": "/PNG/128/Astrology/earth_element-128.png",
+        "256": "/PNG/256/Astrology/earth_element-256.png",
+        "36": "/PNG/36/Astrology/earth_element-36.png",
+        "512": "/PNG/512/Astrology/earth_element-512.png",
+        "64": "/PNG/64/Astrology/earth_element-64.png",
+        "24": "/PNG/24/Astrology/earth_element-24.png",
+        "96": "/PNG/96/Astrology/earth_element-96.png",
+        "48": "/PNG/48/Astrology/earth_element-48.png"
       }
     }
   },
@@ -7243,6 +8346,32 @@
     }
   },
   {
+    "id": 4604,
+    "name": "electric_teapot",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/electric_teapot.svg",
+      "eps": "/EPS/Household/electric_teapot.eps",
+      "png": {
+        "32": "/PNG/32/Household/electric_teapot-32.png",
+        "128": "/PNG/128/Household/electric_teapot-128.png",
+        "256": "/PNG/256/Household/electric_teapot-256.png",
+        "36": "/PNG/36/Household/electric_teapot-36.png",
+        "512": "/PNG/512/Household/electric_teapot-512.png",
+        "64": "/PNG/64/Household/electric_teapot-64.png",
+        "24": "/PNG/24/Household/electric_teapot-24.png",
+        "96": "/PNG/96/Household/electric_teapot-96.png",
+        "48": "/PNG/48/Household/electric_teapot-48.png"
+      }
+    }
+  },
+  {
     "id": 4067,
     "name": "electronics",
     "platform": "Android",
@@ -7407,7 +8536,7 @@
       "eps": "/EPS/Shopping/empty_box.eps",
       "png": {
         "32": "/PNG/32/Shopping/empty_box-32.png",
-        "128": "/PNG/128/Shopping/empty_box-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (20))/empty_box-128.png",
         "256": "/PNG/256/Shopping/empty_box-256.png",
         "36": "/PNG/36/Shopping/empty_box-36.png",
         "512": "/PNG/512/Shopping/empty_box-512.png",
@@ -7434,7 +8563,7 @@
       "eps": "/EPS/Objects/empty_filter.eps",
       "png": {
         "32": "/PNG/32/Objects/empty_filter-32.png",
-        "128": "/PNG/128/Objects/empty_filter-128.png",
+        "128": "/PNG/128/objects (Case Conflict (5))/empty_filter-128.png",
         "256": "/PNG/256/Objects/empty_filter-256.png",
         "36": "/PNG/36/Objects/empty_filter-36.png",
         "512": "/PNG/512/Objects/empty_filter-512.png",
@@ -7731,7 +8860,7 @@
       "eps": "/EPS/Shopping/expensive.eps",
       "png": {
         "32": "/PNG/32/Shopping/expensive-32.png",
-        "128": "/PNG/128/Shopping/expensive-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/expensive-128.png",
         "256": "/PNG/256/Shopping/expensive-256.png",
         "36": "/PNG/36/Shopping/expensive-36.png",
         "512": "/PNG/512/Shopping/expensive-512.png",
@@ -7739,6 +8868,32 @@
         "24": "/PNG/24/Shopping/expensive-24.png",
         "96": "/PNG/96/Shopping/expensive-96.png",
         "48": "/PNG/48/Shopping/expensive-48.png"
+      }
+    }
+  },
+  {
+    "id": 4632,
+    "name": "explosion",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/explosion.svg",
+      "eps": "/EPS/Military/explosion.eps",
+      "png": {
+        "32": "/PNG/32/Military/explosion-32.png",
+        "128": "/PNG/128/Military/explosion-128.png",
+        "256": "/PNG/256/Military/explosion-256.png",
+        "36": "/PNG/36/Military/explosion-36.png",
+        "512": "/PNG/512/Military/explosion-512.png",
+        "64": "/PNG/64/Military/explosion-64.png",
+        "24": "/PNG/24/Military/explosion-24.png",
+        "96": "/PNG/96/Military/explosion-96.png",
+        "48": "/PNG/48/Military/explosion-48.png"
       }
     }
   },
@@ -7953,6 +9108,32 @@
         "24": "/PNG/24/Healthcare/false_teeth-24.png",
         "96": "/PNG/96/Healthcare/false_teeth-96.png",
         "48": "/PNG/48/Healthcare/false_teeth-48.png"
+      }
+    }
+  },
+  {
+    "id": 4583,
+    "name": "fan",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/fan.svg",
+      "eps": "/EPS/Household/fan.eps",
+      "png": {
+        "32": "/PNG/32/Household/fan-32.png",
+        "128": "/PNG/128/Household/fan-128.png",
+        "256": "/PNG/256/Household/fan-256.png",
+        "36": "/PNG/36/Household/fan-36.png",
+        "512": "/PNG/512/Household/fan-512.png",
+        "64": "/PNG/64/Household/fan-64.png",
+        "24": "/PNG/24/Household/fan-24.png",
+        "96": "/PNG/96/Household/fan-96.png",
+        "48": "/PNG/48/Household/fan-48.png"
       }
     }
   },
@@ -8183,7 +9364,7 @@
       "eps": "/EPS/Very_Basic/file.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/file-32.png",
-        "128": "/PNG/128/Very_Basic/file-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/file-128.png",
         "256": "/PNG/256/Very_Basic/file-256.png",
         "36": "/PNG/36/Very_Basic/file-36.png",
         "512": "/PNG/512/Very_Basic/file-512.png",
@@ -8256,7 +9437,7 @@
       "eps": "/EPS/Shopping/filled_box.eps",
       "png": {
         "32": "/PNG/32/Shopping/filled_box-32.png",
-        "128": "/PNG/128/Shopping/filled_box-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (23))/filled_box-128.png",
         "256": "/PNG/256/Shopping/filled_box-256.png",
         "36": "/PNG/36/Shopping/filled_box-36.png",
         "512": "/PNG/512/Shopping/filled_box-512.png",
@@ -8504,6 +9685,84 @@
         "24": "/PNG/24/Christmas/firework-24.png",
         "96": "/PNG/96/Christmas/firework-96.png",
         "48": "/PNG/48/Christmas/firework-48.png"
+      }
+    }
+  },
+  {
+    "id": 4555,
+    "name": "fire_element",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1401137474,
+    "tags": [
+      "design",
+      "vector",
+      "chart",
+      "set",
+      "fire",
+      "line",
+      "light",
+      "arrow",
+      "direction",
+      "clip",
+      "collection",
+      "stick",
+      "way",
+      "symbol",
+      "yellow",
+      "hot",
+      "heat",
+      "image",
+      "illustration",
+      "graphic",
+      "picture",
+      "logo",
+      "black",
+      "hell",
+      "frame",
+      "icon",
+      "size",
+      "layout",
+      "shape",
+      "art",
+      "orange",
+      "icons",
+      "tip",
+      "cursor",
+      "isolated",
+      "abstract",
+      "element",
+      "bright",
+      "colour",
+      "red",
+      "shiny",
+      "flame",
+      "background",
+      "aim",
+      "sketch",
+      "blaze",
+      "warm",
+      "texture",
+      "hook",
+      "nobody",
+      "layer",
+      "fuel",
+      "burning"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/fire_element.svg",
+      "eps": "/EPS/Astrology/fire_element.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/fire_element-32.png",
+        "128": "/PNG/128/Astrology/fire_element-128.png",
+        "256": "/PNG/256/Astrology/fire_element-256.png",
+        "36": "/PNG/36/Astrology/fire_element-36.png",
+        "512": "/PNG/512/Astrology/fire_element-512.png",
+        "64": "/PNG/64/Astrology/fire_element-64.png",
+        "24": "/PNG/24/Astrology/fire_element-24.png",
+        "96": "/PNG/96/Astrology/fire_element-96.png",
+        "48": "/PNG/48/Astrology/fire_element-48.png"
       }
     }
   },
@@ -8933,6 +10192,69 @@
     }
   },
   {
+    "id": 4557,
+    "name": "fortune_teller",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1401137474,
+    "tags": [
+      "ring",
+      "communication",
+      "discussion",
+      "chat",
+      "expression",
+      "bubble",
+      "human",
+      "symbol",
+      "round",
+      "listening",
+      "illustration",
+      "picture",
+      "person",
+      "man",
+      "figure",
+      "black",
+      "dark",
+      "white",
+      "icon",
+      "hands",
+      "concept",
+      "conversation",
+      "circle",
+      "character",
+      "ghost",
+      "male",
+      "center",
+      "angry",
+      "holding",
+      "laughing",
+      "dreaming",
+      "command",
+      "emotion",
+      "guy",
+      "argue",
+      "debate",
+      "joking",
+      "lover"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/fortune_teller.svg",
+      "eps": "/EPS/Astrology/fortune_teller.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/fortune_teller-32.png",
+        "128": "/PNG/128/Astrology/fortune_teller-128.png",
+        "256": "/PNG/256/Astrology/fortune_teller-256.png",
+        "36": "/PNG/36/Astrology/fortune_teller-36.png",
+        "512": "/PNG/512/Astrology/fortune_teller-512.png",
+        "64": "/PNG/64/Astrology/fortune_teller-64.png",
+        "24": "/PNG/24/Astrology/fortune_teller-24.png",
+        "96": "/PNG/96/Astrology/fortune_teller-96.png",
+        "48": "/PNG/48/Astrology/fortune_teller-48.png"
+      }
+    }
+  },
+  {
     "id": 3199,
     "name": "forward",
     "platform": "Android",
@@ -9020,7 +10342,7 @@
       "eps": "/EPS/Very_Basic/frame.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/frame-32.png",
-        "128": "/PNG/128/Very_Basic/frame-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/frame-128.png",
         "256": "/PNG/256/Very_Basic/frame-256.png",
         "36": "/PNG/36/Very_Basic/frame-36.png",
         "512": "/PNG/512/Very_Basic/frame-512.png",
@@ -9262,17 +10584,17 @@
     "files": {
       "svg": "/SVG/Household/garage.svg",
       "svg.simplified": "/SVG_for_Font/Transport/garage.svg",
-      "eps": "/EPS/Transport/garage.eps",
+      "eps": "/EPS/Household/garage.eps",
       "png": {
-        "32": "/PNG/32/Transport/garage-32.png",
-        "128": "/PNG/128/Transport/garage-128.png",
-        "256": "/PNG/256/Transport/garage-256.png",
-        "36": "/PNG/36/Transport/garage-36.png",
-        "512": "/PNG/512/Transport/garage-512.png",
-        "64": "/PNG/64/Transport/garage-64.png",
-        "24": "/PNG/24/Transport/garage-24.png",
-        "96": "/PNG/96/Transport/garage-96.png",
-        "48": "/PNG/48/Transport/garage-48.png"
+        "32": "/PNG/32/Household/garage-32.png",
+        "128": "/PNG/128/Household/garage-128.png",
+        "256": "/PNG/256/Household/garage-256.png",
+        "36": "/PNG/36/Household/garage-36.png",
+        "512": "/PNG/512/Household/garage-512.png",
+        "64": "/PNG/64/Household/garage-64.png",
+        "24": "/PNG/24/Household/garage-24.png",
+        "96": "/PNG/96/Household/garage-96.png",
+        "48": "/PNG/48/Household/garage-48.png"
       }
     }
   },
@@ -9400,6 +10722,32 @@
         "24": "/PNG/24/Industry/gas_mask-24.png",
         "96": "/PNG/96/Industry/gas_mask-96.png",
         "48": "/PNG/48/Industry/gas_mask-48.png"
+      }
+    }
+  },
+  {
+    "id": 4622,
+    "name": "gatling_gun",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/gatling_gun.svg",
+      "eps": "/EPS/Military/gatling_gun.eps",
+      "png": {
+        "32": "/PNG/32/Military/gatling_gun-32.png",
+        "128": "/PNG/128/Military/gatling_gun-128.png",
+        "256": "/PNG/256/Military/gatling_gun-256.png",
+        "36": "/PNG/36/Military/gatling_gun-36.png",
+        "512": "/PNG/512/Military/gatling_gun-512.png",
+        "64": "/PNG/64/Military/gatling_gun-64.png",
+        "24": "/PNG/24/Military/gatling_gun-24.png",
+        "96": "/PNG/96/Military/gatling_gun-96.png",
+        "48": "/PNG/48/Military/gatling_gun-48.png"
       }
     }
   },
@@ -9703,7 +11051,7 @@
       "eps": "/EPS/Shopping/gift.eps",
       "png": {
         "32": "/PNG/32/Shopping/gift-32.png",
-        "128": "/PNG/128/Shopping/gift-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/gift-128.png",
         "256": "/PNG/256/Shopping/gift-256.png",
         "36": "/PNG/36/Shopping/gift-36.png",
         "512": "/PNG/512/Shopping/gift-512.png",
@@ -9774,7 +11122,7 @@
       "eps": "/EPS/Very_Basic/globe.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/globe-32.png",
-        "128": "/PNG/128/Very_Basic/globe-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict (12))/globe-128.png",
         "256": "/PNG/256/Very_Basic/globe-256.png",
         "36": "/PNG/36/Very_Basic/globe-36.png",
         "512": "/PNG/512/Very_Basic/globe-512.png",
@@ -10744,7 +12092,7 @@
       "eps": "/EPS/Shopping/handshake.eps",
       "png": {
         "32": "/PNG/32/Shopping/handshake-32.png",
-        "128": "/PNG/128/Shopping/handshake-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (23))/handshake-128.png",
         "256": "/PNG/256/Shopping/handshake-256.png",
         "36": "/PNG/36/Shopping/handshake-36.png",
         "512": "/PNG/512/Shopping/handshake-512.png",
@@ -10962,6 +12310,32 @@
     }
   },
   {
+    "id": 4585,
+    "name": "hdtv",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/hdtv.svg",
+      "eps": "/EPS/Household/hdtv.eps",
+      "png": {
+        "32": "/PNG/32/Household/hdtv-32.png",
+        "128": "/PNG/128/Household/hdtv-128.png",
+        "256": "/PNG/256/Household/hdtv-256.png",
+        "36": "/PNG/36/Household/hdtv-36.png",
+        "512": "/PNG/512/Household/hdtv-512.png",
+        "64": "/PNG/64/Household/hdtv-64.png",
+        "24": "/PNG/24/Household/hdtv-24.png",
+        "96": "/PNG/96/Household/hdtv-96.png",
+        "48": "/PNG/48/Household/hdtv-48.png"
+      }
+    }
+  },
+  {
     "id": 4316,
     "name": "headset",
     "platform": "Android",
@@ -11100,6 +12474,105 @@
         "24": "/PNG/24/Healthcare/heart_monitor-24.png",
         "96": "/PNG/96/Healthcare/heart_monitor-96.png",
         "48": "/PNG/48/Healthcare/heart_monitor-48.png"
+      }
+    }
+  },
+  {
+    "id": 4606,
+    "name": "heating_room",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+      "design",
+      "vector",
+      "home",
+      "food",
+      "devices",
+      "house",
+      "roof",
+      "source",
+      "symbol",
+      "water",
+      "hot",
+      "cooking",
+      "steam",
+      "heat",
+      "oven",
+      "illustration",
+      "safety",
+      "building",
+      "household",
+      "catering",
+      "shape",
+      "natural",
+      "concept",
+      "comfort",
+      "cottage",
+      "stove",
+      "isolated",
+      "kitchen",
+      "equipments",
+      "abstract",
+      "object",
+      "element",
+      "simple",
+      "shower",
+      "warmth",
+      "clipart",
+      "wave",
+      "supply",
+      "tap",
+      "burner",
+      "silhouette",
+      "warm",
+      "creative",
+      "utensil",
+      "pure",
+      "eco",
+      "convection",
+      "a"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/heating_room.svg",
+      "eps": "/EPS/Household/heating_room.eps",
+      "png": {
+        "32": "/PNG/32/Household/heating_room-32.png",
+        "128": "/PNG/128/Household/heating_room-128.png",
+        "256": "/PNG/256/Household/heating_room-256.png",
+        "36": "/PNG/36/Household/heating_room-36.png",
+        "512": "/PNG/512/Household/heating_room-512.png",
+        "64": "/PNG/64/Household/heating_room-64.png",
+        "24": "/PNG/24/Household/heating_room-24.png",
+        "96": "/PNG/96/Household/heating_room-96.png",
+        "48": "/PNG/48/Household/heating_room-48.png"
+      }
+    }
+  },
+  {
+    "id": 4635,
+    "name": "helmet",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/helmet.svg",
+      "eps": "/EPS/Military/helmet.eps",
+      "png": {
+        "32": "/PNG/32/Military/helmet-32.png",
+        "128": "/PNG/128/Military/helmet-128.png",
+        "256": "/PNG/256/Military/helmet-256.png",
+        "36": "/PNG/36/Military/helmet-36.png",
+        "512": "/PNG/512/Military/helmet-512.png",
+        "64": "/PNG/64/Military/helmet-64.png",
+        "24": "/PNG/24/Military/helmet-24.png",
+        "96": "/PNG/96/Military/helmet-96.png",
+        "48": "/PNG/48/Military/helmet-48.png"
       }
     }
   },
@@ -11299,7 +12772,7 @@
       "eps": "/EPS/Very_Basic/home.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/home-32.png",
-        "128": "/PNG/128/Very_Basic/home-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/home-128.png",
         "256": "/PNG/256/Very_Basic/home-256.png",
         "36": "/PNG/36/Very_Basic/home-36.png",
         "512": "/PNG/512/Very_Basic/home-512.png",
@@ -11446,7 +12919,7 @@
       "eps": "/EPS/Objects/hot_article.eps",
       "png": {
         "32": "/PNG/32/Objects/hot_article-32.png",
-        "128": "/PNG/128/Objects/hot_article-128.png",
+        "128": "/PNG/128/objects (Case Conflict (9))/hot_article-128.png",
         "256": "/PNG/256/Objects/hot_article-256.png",
         "36": "/PNG/36/Objects/hot_article-36.png",
         "512": "/PNG/512/Objects/hot_article-512.png",
@@ -11454,6 +12927,32 @@
         "24": "/PNG/24/Objects/hot_article-24.png",
         "96": "/PNG/96/Objects/hot_article-96.png",
         "48": "/PNG/48/Objects/hot_article-48.png"
+      }
+    }
+  },
+  {
+    "id": 4589,
+    "name": "hot_tube",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/hot_tube.svg",
+      "eps": "/EPS/Household/hot_tube.eps",
+      "png": {
+        "32": "/PNG/32/Household/hot_tube-32.png",
+        "128": "/PNG/128/Household/hot_tube-128.png",
+        "256": "/PNG/256/Household/hot_tube-256.png",
+        "36": "/PNG/36/Household/hot_tube-36.png",
+        "512": "/PNG/512/Household/hot_tube-512.png",
+        "64": "/PNG/64/Household/hot_tube-64.png",
+        "24": "/PNG/24/Household/hot_tube-24.png",
+        "96": "/PNG/96/Household/hot_tube-96.png",
+        "48": "/PNG/48/Household/hot_tube-48.png"
       }
     }
   },
@@ -11629,7 +13128,7 @@
       "eps": "/EPS/Shopping/idea.eps",
       "png": {
         "32": "/PNG/32/Shopping/idea-32.png",
-        "128": "/PNG/128/Shopping/idea-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (5))/idea-128.png",
         "256": "/PNG/256/Shopping/idea-256.png",
         "36": "/PNG/36/Shopping/idea-36.png",
         "512": "/PNG/512/Shopping/idea-512.png",
@@ -11664,7 +13163,7 @@
       "eps": "/EPS/Very_Basic/image_file.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/image_file-32.png",
-        "128": "/PNG/128/Very_Basic/image_file-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/image_file-128.png",
         "256": "/PNG/256/Very_Basic/image_file-256.png",
         "36": "/PNG/36/Very_Basic/image_file-36.png",
         "512": "/PNG/512/Very_Basic/image_file-512.png",
@@ -11672,6 +13171,32 @@
         "24": "/PNG/24/Very_Basic/image_file-24.png",
         "96": "/PNG/96/Very_Basic/image_file-96.png",
         "48": "/PNG/48/Very_Basic/image_file-48.png"
+      }
+    }
+  },
+  {
+    "id": 4636,
+    "name": "incendiary_grenade",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/incendiary_grenade.svg",
+      "eps": "/EPS/Military/incendiary_grenade.eps",
+      "png": {
+        "32": "/PNG/32/Military/incendiary_grenade-32.png",
+        "128": "/PNG/128/Military/incendiary_grenade-128.png",
+        "256": "/PNG/256/Military/incendiary_grenade-256.png",
+        "36": "/PNG/36/Military/incendiary_grenade-36.png",
+        "512": "/PNG/512/Military/incendiary_grenade-512.png",
+        "64": "/PNG/64/Military/incendiary_grenade-64.png",
+        "24": "/PNG/24/Military/incendiary_grenade-24.png",
+        "96": "/PNG/96/Military/incendiary_grenade-96.png",
+        "48": "/PNG/48/Military/incendiary_grenade-48.png"
       }
     }
   },
@@ -11757,7 +13282,7 @@
       "eps": "/EPS/Very_Basic/info.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/info-32.png",
-        "128": "/PNG/128/Very_Basic/info-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/info-128.png",
         "256": "/PNG/256/Very_Basic/info-256.png",
         "36": "/PNG/36/Very_Basic/info-36.png",
         "512": "/PNG/512/Very_Basic/info-512.png",
@@ -12175,6 +13700,32 @@
     }
   },
   {
+    "id": 4607,
+    "name": "iron",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/iron.svg",
+      "eps": "/EPS/Household/iron.eps",
+      "png": {
+        "32": "/PNG/32/Household/iron-32.png",
+        "128": "/PNG/128/Household/iron-128.png",
+        "256": "/PNG/256/Household/iron-256.png",
+        "36": "/PNG/36/Household/iron-36.png",
+        "512": "/PNG/512/Household/iron-512.png",
+        "64": "/PNG/64/Household/iron-64.png",
+        "24": "/PNG/24/Household/iron-24.png",
+        "96": "/PNG/96/Household/iron-96.png",
+        "48": "/PNG/48/Household/iron-48.png"
+      }
+    }
+  },
+  {
     "id": 4286,
     "name": "italic",
     "platform": "Android",
@@ -12229,6 +13780,32 @@
     }
   },
   {
+    "id": 4587,
+    "name": "jacuzzi",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/jacuzzi.svg",
+      "eps": "/EPS/Household/jacuzzi.eps",
+      "png": {
+        "32": "/PNG/32/Household/jacuzzi-32.png",
+        "128": "/PNG/128/Household/jacuzzi-128.png",
+        "256": "/PNG/256/Household/jacuzzi-256.png",
+        "36": "/PNG/36/Household/jacuzzi-36.png",
+        "512": "/PNG/512/Household/jacuzzi-512.png",
+        "64": "/PNG/64/Household/jacuzzi-64.png",
+        "24": "/PNG/24/Household/jacuzzi-24.png",
+        "96": "/PNG/96/Household/jacuzzi-96.png",
+        "48": "/PNG/48/Household/jacuzzi-48.png"
+      }
+    }
+  },
+  {
     "id": 3353,
     "name": "jcb",
     "platform": "Android",
@@ -12257,7 +13834,7 @@
       "eps": "/EPS/Shopping/jcb_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Shopping/jcb_copyrighted-32.png",
-        "128": "/PNG/128/Shopping/jcb_copyrighted-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (15))/jcb_copyrighted-128.png",
         "256": "/PNG/256/Shopping/jcb_copyrighted-256.png",
         "36": "/PNG/36/Shopping/jcb_copyrighted-36.png",
         "512": "/PNG/512/Shopping/jcb_copyrighted-512.png",
@@ -12495,7 +14072,7 @@
       "eps": "/EPS/Objects/joystick.eps",
       "png": {
         "32": "/PNG/32/Objects/joystick-32.png",
-        "128": "/PNG/128/Objects/joystick-128.png",
+        "128": "/PNG/128/objects (Case Conflict (2))/joystick-128.png",
         "256": "/PNG/256/Objects/joystick-256.png",
         "36": "/PNG/36/Objects/joystick-36.png",
         "512": "/PNG/512/Objects/joystick-512.png",
@@ -12605,7 +14182,7 @@
       "eps": "/EPS/Very_Basic/key.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/key-32.png",
-        "128": "/PNG/128/Very_Basic/key-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/key-128.png",
         "256": "/PNG/256/Very_Basic/key-256.png",
         "36": "/PNG/36/Very_Basic/key-36.png",
         "512": "/PNG/512/Very_Basic/key-512.png",
@@ -12640,6 +14217,100 @@
         "24": "/PNG/24/Gaming/king-24.png",
         "96": "/PNG/96/Gaming/king-96.png",
         "48": "/PNG/48/Gaming/king-48.png"
+      }
+    }
+  },
+  {
+    "id": 4592,
+    "name": "kitchen",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+      "vector",
+      "food",
+      "cover",
+      "dinner",
+      "symbol",
+      "storage",
+      "hot",
+      "cooking",
+      "soup",
+      "cook",
+      "boil",
+      "illustration",
+      "sign",
+      "equipment",
+      "steel",
+      "icon",
+      "diet",
+      "stove",
+      "container",
+      "isolated",
+      "kitchen",
+      "object",
+      "handle",
+      "pan",
+      "culinary",
+      "kitchenware",
+      "lunch",
+      "metallic",
+      "utensil",
+      "cuisine",
+      "pot",
+      "saucepan",
+      "tureen",
+      "nobody",
+      "casserole",
+      "lid",
+      "cookware",
+      "vessel",
+      "pans",
+      "pots",
+      "baking",
+      "heating",
+      "healthy"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/kitchen.svg",
+      "eps": "/EPS/Household/kitchen.eps",
+      "png": {
+        "32": "/PNG/32/Household/kitchen-32.png",
+        "128": "/PNG/128/Household/kitchen-128.png",
+        "256": "/PNG/256/Household/kitchen-256.png",
+        "36": "/PNG/36/Household/kitchen-36.png",
+        "512": "/PNG/512/Household/kitchen-512.png",
+        "64": "/PNG/64/Household/kitchen-64.png",
+        "24": "/PNG/24/Household/kitchen-24.png",
+        "96": "/PNG/96/Household/kitchen-96.png",
+        "48": "/PNG/48/Household/kitchen-48.png"
+      }
+    }
+  },
+  {
+    "id": 4627,
+    "name": "knife_military",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/knife_military.svg",
+      "eps": "/EPS/Military/knife_military.eps",
+      "png": {
+        "32": "/PNG/32/Military/knife_military-32.png",
+        "128": "/PNG/128/Military/knife_military-128.png",
+        "256": "/PNG/256/Military/knife_military-256.png",
+        "36": "/PNG/36/Military/knife_military-36.png",
+        "512": "/PNG/512/Military/knife_military-512.png",
+        "64": "/PNG/64/Military/knife_military-64.png",
+        "24": "/PNG/24/Military/knife_military-24.png",
+        "96": "/PNG/96/Military/knife_military-96.png",
+        "48": "/PNG/48/Military/knife_military-48.png"
       }
     }
   },
@@ -12694,6 +14365,32 @@
         "24": "/PNG/24/Industry/ladder-24.png",
         "96": "/PNG/96/Industry/ladder-96.png",
         "48": "/PNG/48/Industry/ladder-48.png"
+      }
+    }
+  },
+  {
+    "id": 4617,
+    "name": "lamp",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/lamp.svg",
+      "eps": "/EPS/Household/lamp.eps",
+      "png": {
+        "32": "/PNG/32/Household/lamp-32.png",
+        "128": "/PNG/128/Household/lamp-128.png",
+        "256": "/PNG/256/Household/lamp-256.png",
+        "36": "/PNG/36/Household/lamp-36.png",
+        "512": "/PNG/512/Household/lamp-512.png",
+        "64": "/PNG/64/Household/lamp-64.png",
+        "24": "/PNG/24/Household/lamp-24.png",
+        "96": "/PNG/96/Household/lamp-96.png",
+        "48": "/PNG/48/Household/lamp-48.png"
       }
     }
   },
@@ -13411,7 +15108,7 @@
       "eps": "/EPS/Very_Basic/lifebouy.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/lifebouy-32.png",
-        "128": "/PNG/128/Very_Basic/lifebouy-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/lifebouy-128.png",
         "256": "/PNG/256/Very_Basic/lifebouy-256.png",
         "36": "/PNG/36/Very_Basic/lifebouy-36.png",
         "512": "/PNG/512/Very_Basic/lifebouy-512.png",
@@ -13484,7 +15181,7 @@
       "eps": "/EPS/Very_Basic/like.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/like-32.png",
-        "128": "/PNG/128/Very_Basic/like-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/like-128.png",
         "256": "/PNG/256/Very_Basic/like-256.png",
         "36": "/PNG/36/Very_Basic/like-36.png",
         "512": "/PNG/512/Very_Basic/like-512.png",
@@ -13556,7 +15253,7 @@
       "eps": "/EPS/Very_Basic/like_outline.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/like_outline-32.png",
-        "128": "/PNG/128/Very_Basic/like_outline-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/like_outline-128.png",
         "256": "/PNG/256/Very_Basic/like_outline-256.png",
         "36": "/PNG/36/Very_Basic/like_outline-36.png",
         "512": "/PNG/512/Very_Basic/like_outline-512.png",
@@ -13651,7 +15348,7 @@
       "eps": "/EPS/Very_Basic/link.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/link-32.png",
-        "128": "/PNG/128/Very_Basic/link-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/link-128.png",
         "256": "/PNG/256/Very_Basic/link-256.png",
         "36": "/PNG/36/Very_Basic/link-36.png",
         "512": "/PNG/512/Very_Basic/link-512.png",
@@ -13707,7 +15404,7 @@
       "eps": "/EPS/Very_Basic/link_broken.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/link_broken-32.png",
-        "128": "/PNG/128/Very_Basic/link_broken-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/link_broken-128.png",
         "256": "/PNG/256/Very_Basic/link_broken-256.png",
         "36": "/PNG/36/Very_Basic/link_broken-36.png",
         "512": "/PNG/512/Very_Basic/link_broken-512.png",
@@ -13742,6 +15439,51 @@
         "24": "/PNG/24/Network/linux_client-24.png",
         "96": "/PNG/96/Network/linux_client-96.png",
         "48": "/PNG/48/Network/linux_client-48.png"
+      }
+    }
+  },
+  {
+    "id": 4593,
+    "name": "living_room",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+      "design",
+      "home",
+      "house",
+      "living",
+      "graphic",
+      "rest",
+      "shape",
+      "style",
+      "chair",
+      "comfort",
+      "relax",
+      "armchair",
+      "furniture",
+      "plush",
+      "sit",
+      "silhouette",
+      "texture",
+      "interior",
+      "seat",
+      "chaise"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/living_room.svg",
+      "eps": "/EPS/Household/living_room.eps",
+      "png": {
+        "32": "/PNG/32/Household/living_room-32.png",
+        "128": "/PNG/128/Household/living_room-128.png",
+        "256": "/PNG/256/Household/living_room-256.png",
+        "36": "/PNG/36/Household/living_room-36.png",
+        "512": "/PNG/512/Household/living_room-512.png",
+        "64": "/PNG/64/Household/living_room-64.png",
+        "24": "/PNG/24/Household/living_room-24.png",
+        "96": "/PNG/96/Household/living_room-96.png",
+        "48": "/PNG/48/Household/living_room-48.png"
       }
     }
   },
@@ -13807,7 +15549,7 @@
       "eps": "/EPS/Very_Basic/lock.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/lock-32.png",
-        "128": "/PNG/128/Very_Basic/lock-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/lock-128.png",
         "256": "/PNG/256/Very_Basic/lock-256.png",
         "36": "/PNG/36/Very_Basic/lock-36.png",
         "512": "/PNG/512/Very_Basic/lock-512.png",
@@ -13869,6 +15611,32 @@
         "24": "/PNG/24/Mobile/lock_portrait-24.png",
         "96": "/PNG/96/Mobile/lock_portrait-96.png",
         "48": "/PNG/48/Mobile/lock_portrait-48.png"
+      }
+    }
+  },
+  {
+    "id": 4605,
+    "name": "log_cabin",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/log_cabin.svg",
+      "eps": "/EPS/Household/log_cabin.eps",
+      "png": {
+        "32": "/PNG/32/Household/log_cabin-32.png",
+        "128": "/PNG/128/Household/log_cabin-128.png",
+        "256": "/PNG/256/Household/log_cabin-256.png",
+        "36": "/PNG/36/Household/log_cabin-36.png",
+        "512": "/PNG/512/Household/log_cabin-512.png",
+        "64": "/PNG/64/Household/log_cabin-64.png",
+        "24": "/PNG/24/Household/log_cabin-24.png",
+        "96": "/PNG/96/Household/log_cabin-96.png",
+        "48": "/PNG/48/Household/log_cabin-48.png"
       }
     }
   },
@@ -14014,6 +15782,75 @@
         "24": "/PNG/24/Messaging/low_importance-24.png",
         "96": "/PNG/96/Messaging/low_importance-96.png",
         "48": "/PNG/48/Messaging/low_importance-48.png"
+      }
+    }
+  },
+  {
+    "id": 4618,
+    "name": "luggage_trolley",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+      "deliver",
+      "shopping",
+      "trip",
+      "airport",
+      "ticket",
+      "portable",
+      "travel",
+      "leave",
+      "clothes",
+      "square",
+      "fly",
+      "flight",
+      "color",
+      "wheel",
+      "move",
+      "space",
+      "tour",
+      "navigate",
+      "pack",
+      "cruise",
+      "tourism",
+      "journey",
+      "holiday",
+      "bag",
+      "suit",
+      "circle",
+      "packing",
+      "case",
+      "ride",
+      "items",
+      "plane",
+      "suitcase",
+      "luggage",
+      "carry",
+      "baggage",
+      "trendy",
+      "handbag",
+      "outing",
+      "voyage",
+      "lightweight",
+      "transportable",
+      "stuff",
+      "kit",
+      "belongings"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/luggage_trolley.svg",
+      "eps": "/EPS/Household/luggage_trolley.eps",
+      "png": {
+        "32": "/PNG/32/Household/luggage_trolley-32.png",
+        "128": "/PNG/128/Household/luggage_trolley-128.png",
+        "256": "/PNG/256/Household/luggage_trolley-256.png",
+        "36": "/PNG/36/Household/luggage_trolley-36.png",
+        "512": "/PNG/512/Household/luggage_trolley-512.png",
+        "64": "/PNG/64/Household/luggage_trolley-64.png",
+        "24": "/PNG/24/Household/luggage_trolley-24.png",
+        "96": "/PNG/96/Household/luggage_trolley-96.png",
+        "48": "/PNG/48/Household/luggage_trolley-48.png"
       }
     }
   },
@@ -14441,7 +16278,7 @@
       "eps": "/EPS/Shopping/mastercard_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Shopping/mastercard_copyrighted-32.png",
-        "128": "/PNG/128/Shopping/mastercard_copyrighted-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (9))/mastercard_copyrighted-128.png",
         "256": "/PNG/256/Shopping/mastercard_copyrighted-256.png",
         "36": "/PNG/36/Shopping/mastercard_copyrighted-36.png",
         "512": "/PNG/512/Shopping/mastercard_copyrighted-512.png",
@@ -14843,7 +16680,7 @@
       "eps": "/EPS/Very_Basic/menu.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/menu-32.png",
-        "128": "/PNG/128/Very_Basic/menu-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/menu-128.png",
         "256": "/PNG/256/Very_Basic/menu-256.png",
         "36": "/PNG/36/Very_Basic/menu-36.png",
         "512": "/PNG/512/Very_Basic/menu-512.png",
@@ -15108,7 +16945,7 @@
       "eps": "/EPS/Very_Basic/minus.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/minus-32.png",
-        "128": "/PNG/128/Very_Basic/minus-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/minus-128.png",
         "256": "/PNG/256/Very_Basic/minus-256.png",
         "36": "/PNG/36/Very_Basic/minus-36.png",
         "512": "/PNG/512/Very_Basic/minus-512.png",
@@ -15284,6 +17121,32 @@
     }
   },
   {
+    "id": 4578,
+    "name": "mixer",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/mixer.svg",
+      "eps": "/EPS/Household/mixer.eps",
+      "png": {
+        "32": "/PNG/32/Household/mixer-32.png",
+        "128": "/PNG/128/Household/mixer-128.png",
+        "256": "/PNG/256/Household/mixer-256.png",
+        "36": "/PNG/36/Household/mixer-36.png",
+        "512": "/PNG/512/Household/mixer-512.png",
+        "64": "/PNG/64/Household/mixer-64.png",
+        "24": "/PNG/24/Household/mixer-24.png",
+        "96": "/PNG/96/Household/mixer-96.png",
+        "48": "/PNG/48/Household/mixer-48.png"
+      }
+    }
+  },
+  {
     "id": 4308,
     "name": "mms",
     "platform": "Android",
@@ -15311,6 +17174,32 @@
     }
   },
   {
+    "id": 4598,
+    "name": "mobile_home",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/mobile_home.svg",
+      "eps": "/EPS/Household/mobile_home.eps",
+      "png": {
+        "32": "/PNG/32/Household/mobile_home-32.png",
+        "128": "/PNG/128/Household/mobile_home-128.png",
+        "256": "/PNG/256/Household/mobile_home-256.png",
+        "36": "/PNG/36/Household/mobile_home-36.png",
+        "512": "/PNG/512/Household/mobile_home-512.png",
+        "64": "/PNG/64/Household/mobile_home-64.png",
+        "24": "/PNG/24/Household/mobile_home-24.png",
+        "96": "/PNG/96/Household/mobile_home-96.png",
+        "48": "/PNG/48/Household/mobile_home-48.png"
+      }
+    }
+  },
+  {
     "id": 3174,
     "name": "money_bag",
     "platform": "Android",
@@ -15333,7 +17222,7 @@
       "eps": "/EPS/Shopping/money_bag.eps",
       "png": {
         "32": "/PNG/32/Shopping/money_bag-32.png",
-        "128": "/PNG/128/Shopping/money_bag-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/money_bag-128.png",
         "256": "/PNG/256/Shopping/money_bag-256.png",
         "36": "/PNG/36/Shopping/money_bag-36.png",
         "512": "/PNG/512/Shopping/money_bag-512.png",
@@ -15367,7 +17256,7 @@
       "eps": "/EPS/Shopping/money_box.eps",
       "png": {
         "32": "/PNG/32/Shopping/money_box-32.png",
-        "128": "/PNG/128/Shopping/money_box-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/money_box-128.png",
         "256": "/PNG/256/Shopping/money_box-256.png",
         "36": "/PNG/36/Shopping/money_box-36.png",
         "512": "/PNG/512/Shopping/money_box-512.png",
@@ -15395,7 +17284,7 @@
       "eps": "/EPS/Objects/more.eps",
       "png": {
         "32": "/PNG/32/Objects/more-32.png",
-        "128": "/PNG/128/Objects/more-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict (7))/more-128.png",
         "256": "/PNG/256/Objects/more-256.png",
         "36": "/PNG/36/Objects/more-36.png",
         "512": "/PNG/512/Objects/more-512.png",
@@ -15403,6 +17292,32 @@
         "24": "/PNG/24/Objects/more-24.png",
         "96": "/PNG/96/Objects/more-96.png",
         "48": "/PNG/48/Objects/more-48.png"
+      }
+    }
+  },
+  {
+    "id": 4638,
+    "name": "mortar",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/mortar.svg",
+      "eps": "/EPS/Military/mortar.eps",
+      "png": {
+        "32": "/PNG/32/Military/mortar-32.png",
+        "128": "/PNG/128/Military/mortar-128.png",
+        "256": "/PNG/256/Military/mortar-256.png",
+        "36": "/PNG/36/Military/mortar-36.png",
+        "512": "/PNG/512/Military/mortar-512.png",
+        "64": "/PNG/64/Military/mortar-64.png",
+        "24": "/PNG/24/Military/mortar-24.png",
+        "96": "/PNG/96/Military/mortar-96.png",
+        "48": "/PNG/48/Military/mortar-48.png"
       }
     }
   },
@@ -15573,6 +17488,160 @@
     }
   },
   {
+    "id": 4574,
+    "name": "mouse_trap",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+      "admin",
+      "design",
+      "vector",
+      "clock",
+      "office",
+      "ideas",
+      "add",
+      "find",
+      "app",
+      "control",
+      "delete",
+      "edit",
+      "empty",
+      "file",
+      "paper",
+      "create",
+      "group",
+      "set",
+      "web",
+      "site",
+      "mechanism",
+      "minus",
+      "plus",
+      "data",
+      "internet",
+      "search",
+      "business",
+      "gears",
+      "work",
+      "synchronize",
+      "document",
+      "upload",
+      "symbol",
+      "silver",
+      "accept",
+      "page",
+      "motion",
+      "illustration",
+      "sign",
+      "objects",
+      "download",
+      "progress",
+      "industry",
+      "action",
+      "equipment",
+      "connection",
+      "computer",
+      "white",
+      "steel",
+      "i"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/mouse_trap.svg",
+      "eps": "/EPS/Household/mouse_trap.eps",
+      "png": {
+        "32": "/PNG/32/Household/mouse_trap-32.png",
+        "128": "/PNG/128/Household/mouse_trap-128.png",
+        "256": "/PNG/256/Household/mouse_trap-256.png",
+        "36": "/PNG/36/Household/mouse_trap-36.png",
+        "512": "/PNG/512/Household/mouse_trap-512.png",
+        "64": "/PNG/64/Household/mouse_trap-64.png",
+        "24": "/PNG/24/Household/mouse_trap-24.png",
+        "96": "/PNG/96/Household/mouse_trap-96.png",
+        "48": "/PNG/48/Household/mouse_trap-48.png"
+      }
+    }
+  },
+  {
+    "id": 4610,
+    "name": "mouse_trap_mouse",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+      "design",
+      "device",
+      "box",
+      "exit",
+      "window",
+      "print",
+      "pets",
+      "food",
+      "house",
+      "mechanism",
+      "plot",
+      "screen",
+      "sound",
+      "cheese",
+      "bubble",
+      "human",
+      "way",
+      "road",
+      "happy",
+      "trip",
+      "rabbit",
+      "location",
+      "sign",
+      "warning",
+      "person",
+      "animals",
+      "wood",
+      "board",
+      "ears",
+      "square",
+      "black",
+      "oil",
+      "white",
+      "bar",
+      "game",
+      "small",
+      "cardboard",
+      "natural",
+      "metal",
+      "modern",
+      "meat",
+      "pressure",
+      "plastic",
+      "spring",
+      "model",
+      "simple",
+      "puzzle",
+      "bread",
+      "chocolate",
+      "toxic",
+      "trigger",
+      "mouse",
+      "nice",
+      "ju"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/mouse_trap_mouse.svg",
+      "eps": "/EPS/Household/mouse_trap_mouse.eps",
+      "png": {
+        "32": "/PNG/32/Household/mouse_trap_mouse-32.png",
+        "128": "/PNG/128/Household/mouse_trap_mouse-128.png",
+        "256": "/PNG/256/Household/mouse_trap_mouse-256.png",
+        "36": "/PNG/36/Household/mouse_trap_mouse-36.png",
+        "512": "/PNG/512/Household/mouse_trap_mouse-512.png",
+        "64": "/PNG/64/Household/mouse_trap_mouse-64.png",
+        "24": "/PNG/24/Household/mouse_trap_mouse-24.png",
+        "96": "/PNG/96/Household/mouse_trap_mouse-96.png",
+        "48": "/PNG/48/Household/mouse_trap_mouse-48.png"
+      }
+    }
+  },
+  {
     "id": 3142,
     "name": "movies",
     "platform": "Android",
@@ -15686,6 +17755,32 @@
     }
   },
   {
+    "id": 4624,
+    "name": "mushroom_cloud",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/mushroom_cloud.svg",
+      "eps": "/EPS/Military/mushroom_cloud.eps",
+      "png": {
+        "32": "/PNG/32/Military/mushroom_cloud-32.png",
+        "128": "/PNG/128/Military/mushroom_cloud-128.png",
+        "256": "/PNG/256/Military/mushroom_cloud-256.png",
+        "36": "/PNG/36/Military/mushroom_cloud-36.png",
+        "512": "/PNG/512/Military/mushroom_cloud-512.png",
+        "64": "/PNG/64/Military/mushroom_cloud-64.png",
+        "24": "/PNG/24/Military/mushroom_cloud-24.png",
+        "96": "/PNG/96/Military/mushroom_cloud-96.png",
+        "48": "/PNG/48/Military/mushroom_cloud-48.png"
+      }
+    }
+  },
+  {
     "id": 3351,
     "name": "music",
     "platform": "Android",
@@ -15722,7 +17817,7 @@
       "eps": "/EPS/Very_Basic/music.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/music-32.png",
-        "128": "/PNG/128/Very_Basic/music-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/music-128.png",
         "256": "/PNG/256/Very_Basic/music-256.png",
         "36": "/PNG/36/Very_Basic/music-36.png",
         "512": "/PNG/512/Very_Basic/music-512.png",
@@ -16015,7 +18110,7 @@
       "eps": "/EPS/Shopping/new.eps",
       "png": {
         "32": "/PNG/32/Shopping/new-32.png",
-        "128": "/PNG/128/Shopping/new-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (14))/new-128.png",
         "256": "/PNG/256/Shopping/new-256.png",
         "36": "/PNG/36/Shopping/new-36.png",
         "512": "/PNG/512/Shopping/new-512.png",
@@ -16490,7 +18585,7 @@
       "eps": "/EPS/Objects/no_smoking.eps",
       "png": {
         "32": "/PNG/32/Objects/no_smoking-32.png",
-        "128": "/PNG/128/Objects/no_smoking-128.png",
+        "128": "/PNG/128/objects (Case Conflict (8))/no_smoking-128.png",
         "256": "/PNG/256/Objects/no_smoking-256.png",
         "36": "/PNG/36/Objects/no_smoking-36.png",
         "512": "/PNG/512/Objects/no_smoking-512.png",
@@ -16712,7 +18807,7 @@
       "eps": "/EPS/Shopping/one_free.eps",
       "png": {
         "32": "/PNG/32/Shopping/one_free-32.png",
-        "128": "/PNG/128/Shopping/one_free-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/one_free-128.png",
         "256": "/PNG/256/Shopping/one_free-256.png",
         "36": "/PNG/36/Shopping/one_free-36.png",
         "512": "/PNG/512/Shopping/one_free-512.png",
@@ -16750,7 +18845,7 @@
       "eps": "/EPS/Very_Basic/opened_folder.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/opened_folder-32.png",
-        "128": "/PNG/128/Very_Basic/opened_folder-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict (14))/opened_folder-128.png",
         "256": "/PNG/256/Very_Basic/opened_folder-256.png",
         "36": "/PNG/36/Very_Basic/opened_folder-36.png",
         "512": "/PNG/512/Very_Basic/opened_folder-512.png",
@@ -17043,7 +19138,7 @@
       "eps": "/EPS/Shopping/paypal_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Shopping/paypal_copyrighted-32.png",
-        "128": "/PNG/128/Shopping/paypal_copyrighted-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (19))/paypal_copyrighted-128.png",
         "256": "/PNG/256/Shopping/paypal_copyrighted-256.png",
         "36": "/PNG/36/Shopping/paypal_copyrighted-36.png",
         "512": "/PNG/512/Shopping/paypal_copyrighted-512.png",
@@ -17401,7 +19496,7 @@
       "eps": "/EPS/Very_Basic/picture.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/picture-32.png",
-        "128": "/PNG/128/Very_Basic/picture-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict (12))/picture-128.png",
         "256": "/PNG/256/Very_Basic/picture-256.png",
         "36": "/PNG/36/Very_Basic/picture-36.png",
         "512": "/PNG/512/Very_Basic/picture-512.png",
@@ -17735,7 +19830,7 @@
       "eps": "/EPS/Objects/plugin.eps",
       "png": {
         "32": "/PNG/32/Objects/plugin-32.png",
-        "128": "/PNG/128/Objects/plugin-128.png",
+        "128": "/PNG/128/objects (Case Conflict (9))/plugin-128.png",
         "256": "/PNG/256/Objects/plugin-256.png",
         "36": "/PNG/36/Objects/plugin-36.png",
         "512": "/PNG/512/Objects/plugin-512.png",
@@ -17774,7 +19869,7 @@
       "eps": "/EPS/Very_Basic/plus.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/plus-32.png",
-        "128": "/PNG/128/Very_Basic/plus-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/plus-128.png",
         "256": "/PNG/256/Very_Basic/plus-256.png",
         "36": "/PNG/36/Very_Basic/plus-36.png",
         "512": "/PNG/512/Very_Basic/plus-512.png",
@@ -17801,7 +19896,7 @@
       "eps": "/EPS/Objects/pocket_lantern.eps",
       "png": {
         "32": "/PNG/32/Objects/pocket_lantern-32.png",
-        "128": "/PNG/128/Objects/pocket_lantern-128.png",
+        "128": "/PNG/128/objects (Case Conflict (10))/pocket_lantern-128.png",
         "256": "/PNG/256/Objects/pocket_lantern-256.png",
         "36": "/PNG/36/Objects/pocket_lantern-36.png",
         "512": "/PNG/512/Objects/pocket_lantern-512.png",
@@ -18215,7 +20310,7 @@
       "eps": "/EPS/Shopping/price_tag.eps",
       "png": {
         "32": "/PNG/32/Shopping/price_tag-32.png",
-        "128": "/PNG/128/Shopping/price_tag-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (21))/price_tag-128.png",
         "256": "/PNG/256/Shopping/price_tag-256.png",
         "36": "/PNG/36/Shopping/price_tag-36.png",
         "512": "/PNG/512/Shopping/price_tag-512.png",
@@ -18255,7 +20350,7 @@
       "eps": "/EPS/Shopping/price_tag_euro.eps",
       "png": {
         "32": "/PNG/32/Shopping/price_tag_euro-32.png",
-        "128": "/PNG/128/Shopping/price_tag_euro-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (12))/price_tag_euro-128.png",
         "256": "/PNG/256/Shopping/price_tag_euro-256.png",
         "36": "/PNG/36/Shopping/price_tag_euro-36.png",
         "512": "/PNG/512/Shopping/price_tag_euro-512.png",
@@ -18300,7 +20395,7 @@
       "eps": "/EPS/Very_Basic/print.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/print-32.png",
-        "128": "/PNG/128/Very_Basic/print-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict (17))/print-128.png",
         "256": "/PNG/256/Very_Basic/print-256.png",
         "36": "/PNG/36/Very_Basic/print-36.png",
         "512": "/PNG/512/Very_Basic/print-512.png",
@@ -18474,7 +20569,7 @@
       "eps": "/EPS/Shopping/purse.eps",
       "png": {
         "32": "/PNG/32/Shopping/purse-32.png",
-        "128": "/PNG/128/Shopping/purse-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/purse-128.png",
         "256": "/PNG/256/Shopping/purse-256.png",
         "36": "/PNG/36/Shopping/purse-36.png",
         "512": "/PNG/512/Shopping/purse-512.png",
@@ -18557,7 +20652,7 @@
       "eps": "/EPS/Very_Basic/puzzle.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/puzzle-32.png",
-        "128": "/PNG/128/Very_Basic/puzzle-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict (22))/puzzle-128.png",
         "256": "/PNG/256/Very_Basic/puzzle-256.png",
         "36": "/PNG/36/Very_Basic/puzzle-36.png",
         "512": "/PNG/512/Very_Basic/puzzle-512.png",
@@ -18596,7 +20691,7 @@
       "eps": "/EPS/Shopping/qr_code.eps",
       "png": {
         "32": "/PNG/32/Shopping/qr_code-32.png",
-        "128": "/PNG/128/Shopping/qr_code-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (28))/qr_code-128.png",
         "256": "/PNG/256/Shopping/qr_code-256.png",
         "36": "/PNG/36/Shopping/qr_code-36.png",
         "512": "/PNG/512/Shopping/qr_code-512.png",
@@ -19012,7 +21107,7 @@
       "eps": "/EPS/Very_Basic/rating.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/rating-32.png",
-        "128": "/PNG/128/Very_Basic/rating-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict (1))/rating-128.png",
         "256": "/PNG/256/Very_Basic/rating-256.png",
         "36": "/PNG/36/Very_Basic/rating-36.png",
         "512": "/PNG/512/Very_Basic/rating-512.png",
@@ -19232,7 +21327,7 @@
       "eps": "/EPS/Very_Basic/redo.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/redo-32.png",
-        "128": "/PNG/128/Very_Basic/redo-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/redo-128.png",
         "256": "/PNG/256/Very_Basic/redo-256.png",
         "36": "/PNG/36/Very_Basic/redo-36.png",
         "512": "/PNG/512/Very_Basic/redo-512.png",
@@ -19666,6 +21761,32 @@
     }
   },
   {
+    "id": 4619,
+    "name": "return_purchase",
+    "platform": "Android",
+    "category": "Shopping",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Shopping/return_purchase.svg",
+      "eps": "/EPS/Shopping/return_purchase.eps",
+      "png": {
+        "32": "/PNG/32/Shopping/return_purchase-32.png",
+        "128": "/PNG/128/shopping (Case Conflict (25))/return_purchase-128.png",
+        "256": "/PNG/256/Shopping/return_purchase-256.png",
+        "36": "/PNG/36/Shopping/return_purchase-36.png",
+        "512": "/PNG/512/Shopping/return_purchase-512.png",
+        "64": "/PNG/64/Shopping/return_purchase-64.png",
+        "24": "/PNG/24/Shopping/return_purchase-24.png",
+        "96": "/PNG/96/Shopping/return_purchase-96.png",
+        "48": "/PNG/48/Shopping/return_purchase-48.png"
+      }
+    }
+  },
+  {
     "id": 3834,
     "name": "rewind",
     "platform": "Android",
@@ -19773,6 +21894,32 @@
         "24": "/PNG/24/Industry/rfid_tag-24.png",
         "96": "/PNG/96/Industry/rfid_tag-96.png",
         "48": "/PNG/48/Industry/rfid_tag-48.png"
+      }
+    }
+  },
+  {
+    "id": 4630,
+    "name": "rifle_magazine",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/rifle_magazine.svg",
+      "eps": "/EPS/Military/rifle_magazine.eps",
+      "png": {
+        "32": "/PNG/32/Military/rifle_magazine-32.png",
+        "128": "/PNG/128/Military/rifle_magazine-128.png",
+        "256": "/PNG/256/Military/rifle_magazine-256.png",
+        "36": "/PNG/36/Military/rifle_magazine-36.png",
+        "512": "/PNG/512/Military/rifle_magazine-512.png",
+        "64": "/PNG/64/Military/rifle_magazine-64.png",
+        "24": "/PNG/24/Military/rifle_magazine-24.png",
+        "96": "/PNG/96/Military/rifle_magazine-96.png",
+        "48": "/PNG/48/Military/rifle_magazine-48.png"
       }
     }
   },
@@ -20068,6 +22215,41 @@
     }
   },
   {
+    "id": 4573,
+    "name": "room",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+      "home",
+      "group",
+      "users",
+      "team",
+      "collaborate",
+      "partner",
+      "shared",
+      "workgroup",
+      "add a user",
+      "user groups"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/room.svg",
+      "eps": "/EPS/Household/room.eps",
+      "png": {
+        "32": "/PNG/32/Household/room-32.png",
+        "128": "/PNG/128/Household/room-128.png",
+        "256": "/PNG/256/Household/room-256.png",
+        "36": "/PNG/36/Household/room-36.png",
+        "512": "/PNG/512/Household/room-512.png",
+        "64": "/PNG/64/Household/room-64.png",
+        "24": "/PNG/24/Household/room-24.png",
+        "96": "/PNG/96/Household/room-96.png",
+        "48": "/PNG/48/Household/room-48.png"
+      }
+    }
+  },
+  {
     "id": 3999,
     "name": "rope",
     "platform": "Android",
@@ -20309,6 +22491,58 @@
     }
   },
   {
+    "id": 4637,
+    "name": "rpg",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/rpg.svg",
+      "eps": "/EPS/Military/rpg.eps",
+      "png": {
+        "32": "/PNG/32/Military/rpg-32.png",
+        "128": "/PNG/128/Military/rpg-128.png",
+        "256": "/PNG/256/Military/rpg-256.png",
+        "36": "/PNG/36/Military/rpg-36.png",
+        "512": "/PNG/512/Military/rpg-512.png",
+        "64": "/PNG/64/Military/rpg-64.png",
+        "24": "/PNG/24/Military/rpg-24.png",
+        "96": "/PNG/96/Military/rpg-96.png",
+        "48": "/PNG/48/Military/rpg-48.png"
+      }
+    }
+  },
+  {
+    "id": 4620,
+    "name": "rucksack",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/rucksack.svg",
+      "eps": "/EPS/Military/rucksack.eps",
+      "png": {
+        "32": "/PNG/32/Military/rucksack-32.png",
+        "128": "/PNG/128/Military/rucksack-128.png",
+        "256": "/PNG/256/Military/rucksack-256.png",
+        "36": "/PNG/36/Military/rucksack-36.png",
+        "512": "/PNG/512/Military/rucksack-512.png",
+        "64": "/PNG/64/Military/rucksack-64.png",
+        "24": "/PNG/24/Military/rucksack-24.png",
+        "96": "/PNG/96/Military/rucksack-96.png",
+        "48": "/PNG/48/Military/rucksack-48.png"
+      }
+    }
+  },
+  {
     "id": 3953,
     "name": "rugby",
     "platform": "Android",
@@ -20480,7 +22714,7 @@
       "eps": "/EPS/Shopping/safe.eps",
       "png": {
         "32": "/PNG/32/Shopping/safe-32.png",
-        "128": "/PNG/128/Shopping/safe-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (14))/safe-128.png",
         "256": "/PNG/256/Shopping/safe-256.png",
         "36": "/PNG/36/Shopping/safe-36.png",
         "512": "/PNG/512/Shopping/safe-512.png",
@@ -20589,7 +22823,7 @@
       "eps": "/EPS/Shopping/sale.eps",
       "png": {
         "32": "/PNG/32/Shopping/sale-32.png",
-        "128": "/PNG/128/Shopping/sale-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/sale-128.png",
         "256": "/PNG/256/Shopping/sale-256.png",
         "36": "/PNG/36/Shopping/sale-36.png",
         "512": "/PNG/512/Shopping/sale-512.png",
@@ -20616,7 +22850,7 @@
       "eps": "/EPS/Shopping/sale2.eps",
       "png": {
         "32": "/PNG/32/Shopping/sale2-32.png",
-        "128": "/PNG/128/Shopping/sale2-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/sale2-128.png",
         "256": "/PNG/256/Shopping/sale2-256.png",
         "36": "/PNG/36/Shopping/sale2-36.png",
         "512": "/PNG/512/Shopping/sale2-512.png",
@@ -20643,7 +22877,7 @@
       "eps": "/EPS/Objects/sandglass.eps",
       "png": {
         "32": "/PNG/32/Objects/sandglass-32.png",
-        "128": "/PNG/128/Objects/sandglass-128.png",
+        "128": "/PNG/128/objects (Case Conflict (11))/sandglass-128.png",
         "256": "/PNG/256/Objects/sandglass-256.png",
         "36": "/PNG/36/Objects/sandglass-36.png",
         "512": "/PNG/512/Objects/sandglass-512.png",
@@ -20857,7 +23091,7 @@
       "eps": "/EPS/Objects/scale.eps",
       "png": {
         "32": "/PNG/32/Objects/scale-32.png",
-        "128": "/PNG/128/Objects/scale-128.png",
+        "128": "/PNG/128/objects (Case Conflict (10))/scale-128.png",
         "256": "/PNG/256/Objects/scale-256.png",
         "36": "/PNG/36/Objects/scale-36.png",
         "512": "/PNG/512/Objects/scale-512.png",
@@ -20884,7 +23118,7 @@
       "eps": "/EPS/Objects/scales.eps",
       "png": {
         "32": "/PNG/32/Objects/scales-32.png",
-        "128": "/PNG/128/Objects/scales-128.png",
+        "128": "/PNG/128/objects (Case Conflict (7))/scales-128.png",
         "256": "/PNG/256/Objects/scales-256.png",
         "36": "/PNG/36/Objects/scales-36.png",
         "512": "/PNG/512/Objects/scales-512.png",
@@ -21138,6 +23372,32 @@
     }
   },
   {
+    "id": 4609,
+    "name": "sdtv",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/sdtv.svg",
+      "eps": "/EPS/Household/sdtv.eps",
+      "png": {
+        "32": "/PNG/32/Household/sdtv-32.png",
+        "128": "/PNG/128/Household/sdtv-128.png",
+        "256": "/PNG/256/Household/sdtv-256.png",
+        "36": "/PNG/36/Household/sdtv-36.png",
+        "512": "/PNG/512/Household/sdtv-512.png",
+        "64": "/PNG/64/Household/sdtv-64.png",
+        "24": "/PNG/24/Household/sdtv-24.png",
+        "96": "/PNG/96/Household/sdtv-96.png",
+        "48": "/PNG/48/Household/sdtv-48.png"
+      }
+    }
+  },
+  {
     "id": 3159,
     "name": "search",
     "platform": "Android",
@@ -21163,7 +23423,7 @@
       "eps": "/EPS/Very_Basic/search.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/search-32.png",
-        "128": "/PNG/128/Very_Basic/search-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/search-128.png",
         "256": "/PNG/256/Very_Basic/search-256.png",
         "36": "/PNG/36/Very_Basic/search-36.png",
         "512": "/PNG/512/Very_Basic/search-512.png",
@@ -21202,6 +23462,32 @@
     }
   },
   {
+    "id": 4628,
+    "name": "self_distract_button",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/self_distract_button.svg",
+      "eps": "/EPS/Military/self_distract_button.eps",
+      "png": {
+        "32": "/PNG/32/Military/self_distract_button-32.png",
+        "128": "/PNG/128/Military/self_distract_button-128.png",
+        "256": "/PNG/256/Military/self_distract_button-256.png",
+        "36": "/PNG/36/Military/self_distract_button-36.png",
+        "512": "/PNG/512/Military/self_distract_button-512.png",
+        "64": "/PNG/64/Military/self_distract_button-64.png",
+        "24": "/PNG/24/Military/self_distract_button-24.png",
+        "96": "/PNG/96/Military/self_distract_button-96.png",
+        "48": "/PNG/48/Military/self_distract_button-48.png"
+      }
+    }
+  },
+  {
     "id": 3260,
     "name": "sell",
     "platform": "Android",
@@ -21236,7 +23522,7 @@
       "eps": "/EPS/Shopping/sell.eps",
       "png": {
         "32": "/PNG/32/Shopping/sell-32.png",
-        "128": "/PNG/128/Shopping/sell-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (14))/sell-128.png",
         "256": "/PNG/256/Shopping/sell-256.png",
         "36": "/PNG/36/Shopping/sell-36.png",
         "512": "/PNG/512/Shopping/sell-512.png",
@@ -21363,7 +23649,7 @@
       "eps": "/EPS/Very_Basic/settings.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/settings-32.png",
-        "128": "/PNG/128/Very_Basic/settings-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/settings-128.png",
         "256": "/PNG/256/Very_Basic/settings-256.png",
         "36": "/PNG/36/Very_Basic/settings-36.png",
         "512": "/PNG/512/Very_Basic/settings-512.png",
@@ -21412,7 +23698,7 @@
       "eps": "/EPS/Very_Basic/settings2.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/settings2-32.png",
-        "128": "/PNG/128/Very_Basic/settings2-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict (12))/settings2-128.png",
         "256": "/PNG/256/Very_Basic/settings2-256.png",
         "36": "/PNG/36/Very_Basic/settings2-36.png",
         "512": "/PNG/512/Very_Basic/settings2-512.png",
@@ -21484,7 +23770,7 @@
       "eps": "/EPS/Very_Basic/share.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/share-32.png",
-        "128": "/PNG/128/Very_Basic/share-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict (17))/share-128.png",
         "256": "/PNG/256/Very_Basic/share-256.png",
         "36": "/PNG/36/Very_Basic/share-36.png",
         "512": "/PNG/512/Very_Basic/share-512.png",
@@ -21689,7 +23975,7 @@
       "eps": "/EPS/Shopping/shop.eps",
       "png": {
         "32": "/PNG/32/Shopping/shop-32.png",
-        "128": "/PNG/128/Shopping/shop-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/shop-128.png",
         "256": "/PNG/256/Shopping/shop-256.png",
         "36": "/PNG/36/Shopping/shop-36.png",
         "512": "/PNG/512/Shopping/shop-512.png",
@@ -21717,7 +24003,7 @@
       "eps": "/EPS/Shopping/shopping_bag.eps",
       "png": {
         "32": "/PNG/32/Shopping/shopping_bag-32.png",
-        "128": "/PNG/128/Shopping/shopping_bag-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (16))/shopping_bag-128.png",
         "256": "/PNG/256/Shopping/shopping_bag-256.png",
         "36": "/PNG/36/Shopping/shopping_bag-36.png",
         "512": "/PNG/512/Shopping/shopping_bag-512.png",
@@ -21747,7 +24033,7 @@
       "eps": "/EPS/Shopping/shopping_basket.eps",
       "png": {
         "32": "/PNG/32/Shopping/shopping_basket-32.png",
-        "128": "/PNG/128/Shopping/shopping_basket-128.png",
+        "128": "/PNG/128/shopping (Case Conflict)/shopping_basket-128.png",
         "256": "/PNG/256/Shopping/shopping_basket-256.png",
         "36": "/PNG/36/Shopping/shopping_basket-36.png",
         "512": "/PNG/512/Shopping/shopping_basket-512.png",
@@ -21787,7 +24073,7 @@
       "eps": "/EPS/Shopping/shopping_cart.eps",
       "png": {
         "32": "/PNG/32/Shopping/shopping_cart-32.png",
-        "128": "/PNG/128/Shopping/shopping_cart-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (8))/shopping_cart-128.png",
         "256": "/PNG/256/Shopping/shopping_cart-256.png",
         "36": "/PNG/36/Shopping/shopping_cart-36.png",
         "512": "/PNG/512/Shopping/shopping_cart-512.png",
@@ -21824,7 +24110,7 @@
       "eps": "/EPS/Shopping/shopping_cart_filled.eps",
       "png": {
         "32": "/PNG/32/Shopping/shopping_cart_filled-32.png",
-        "128": "/PNG/128/Shopping/shopping_cart_filled-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (9))/shopping_cart_filled-128.png",
         "256": "/PNG/256/Shopping/shopping_cart_filled-256.png",
         "36": "/PNG/36/Shopping/shopping_cart_filled-36.png",
         "512": "/PNG/512/Shopping/shopping_cart_filled-512.png",
@@ -22243,7 +24529,7 @@
       "eps": "/EPS/Very_Basic/sinchronize.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/sinchronize-32.png",
-        "128": "/PNG/128/Very_Basic/sinchronize-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict (14))/sinchronize-128.png",
         "256": "/PNG/256/Very_Basic/sinchronize-256.png",
         "36": "/PNG/36/Very_Basic/sinchronize-36.png",
         "512": "/PNG/512/Very_Basic/sinchronize-512.png",
@@ -22495,6 +24781,70 @@
     }
   },
   {
+    "id": 4570,
+    "name": "sleeping_room",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+      "design",
+      "cash",
+      "card",
+      "bank",
+      "box",
+      "delivery",
+      "calendar",
+      "window",
+      "discount",
+      "business",
+      "buy",
+      "document",
+      "traffic",
+      "symbol",
+      "school",
+      "transport",
+      "trip",
+      "driver",
+      "children",
+      "illustration",
+      "cart",
+      "businessman",
+      "electricity",
+      "black",
+      "bus",
+      "kids",
+      "tour",
+      "chair",
+      "bag",
+      "element",
+      "safe",
+      "avatar",
+      "bus vector",
+      "bus icon",
+      "students",
+      "highway",
+      "freeway",
+      "shuttle",
+      "clipboard"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/sleeping_room.svg",
+      "eps": "/EPS/Household/sleeping_room.eps",
+      "png": {
+        "32": "/PNG/32/Household/sleeping_room-32.png",
+        "128": "/PNG/128/Household/sleeping_room-128.png",
+        "256": "/PNG/256/Household/sleeping_room-256.png",
+        "36": "/PNG/36/Household/sleeping_room-36.png",
+        "512": "/PNG/512/Household/sleeping_room-512.png",
+        "64": "/PNG/64/Household/sleeping_room-64.png",
+        "24": "/PNG/24/Household/sleeping_room-24.png",
+        "96": "/PNG/96/Household/sleeping_room-96.png",
+        "48": "/PNG/48/Household/sleeping_room-48.png"
+      }
+    }
+  },
+  {
     "id": 3145,
     "name": "sleigh",
     "platform": "Android",
@@ -22670,6 +25020,32 @@
     }
   },
   {
+    "id": 4633,
+    "name": "smoke_explosion",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/smoke_explosion.svg",
+      "eps": "/EPS/Military/smoke_explosion.eps",
+      "png": {
+        "32": "/PNG/32/Military/smoke_explosion-32.png",
+        "128": "/PNG/128/Military/smoke_explosion-128.png",
+        "256": "/PNG/256/Military/smoke_explosion-256.png",
+        "36": "/PNG/36/Military/smoke_explosion-36.png",
+        "512": "/PNG/512/Military/smoke_explosion-512.png",
+        "64": "/PNG/64/Military/smoke_explosion-64.png",
+        "24": "/PNG/24/Military/smoke_explosion-24.png",
+        "96": "/PNG/96/Military/smoke_explosion-96.png",
+        "48": "/PNG/48/Military/smoke_explosion-48.png"
+      }
+    }
+  },
+  {
     "id": 3918,
     "name": "smoking",
     "platform": "Android",
@@ -22685,7 +25061,7 @@
       "eps": "/EPS/Objects/smoking.eps",
       "png": {
         "32": "/PNG/32/Objects/smoking-32.png",
-        "128": "/PNG/128/Objects/smoking-128.png",
+        "128": "/PNG/128/objects (Case Conflict (4))/smoking-128.png",
         "256": "/PNG/256/Objects/smoking-256.png",
         "36": "/PNG/36/Objects/smoking-36.png",
         "512": "/PNG/512/Objects/smoking-512.png",
@@ -22720,6 +25096,32 @@
         "24": "/PNG/24/Mobile/sms-24.png",
         "96": "/PNG/96/Mobile/sms-96.png",
         "48": "/PNG/48/Mobile/sms-48.png"
+      }
+    }
+  },
+  {
+    "id": 4631,
+    "name": "sniper_rifle",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/sniper_rifle.svg",
+      "eps": "/EPS/Military/sniper_rifle.eps",
+      "png": {
+        "32": "/PNG/32/Military/sniper_rifle-32.png",
+        "128": "/PNG/128/Military/sniper_rifle-128.png",
+        "256": "/PNG/256/Military/sniper_rifle-256.png",
+        "36": "/PNG/36/Military/sniper_rifle-36.png",
+        "512": "/PNG/512/Military/sniper_rifle-512.png",
+        "64": "/PNG/64/Military/sniper_rifle-64.png",
+        "24": "/PNG/24/Military/sniper_rifle-24.png",
+        "96": "/PNG/96/Military/sniper_rifle-96.png",
+        "48": "/PNG/48/Military/sniper_rifle-48.png"
       }
     }
   },
@@ -22832,6 +25234,32 @@
     }
   },
   {
+    "id": 4571,
+    "name": "sofa",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/sofa.svg",
+      "eps": "/EPS/Household/sofa.eps",
+      "png": {
+        "32": "/PNG/32/Household/sofa-32.png",
+        "128": "/PNG/128/Household/sofa-128.png",
+        "256": "/PNG/256/Household/sofa-256.png",
+        "36": "/PNG/36/Household/sofa-36.png",
+        "512": "/PNG/512/Household/sofa-512.png",
+        "64": "/PNG/64/Household/sofa-64.png",
+        "24": "/PNG/24/Household/sofa-24.png",
+        "96": "/PNG/96/Household/sofa-96.png",
+        "48": "/PNG/48/Household/sofa-48.png"
+      }
+    }
+  },
+  {
     "id": 3921,
     "name": "software_box",
     "platform": "Android",
@@ -22854,7 +25282,7 @@
       "eps": "/EPS/Objects/software_box.eps",
       "png": {
         "32": "/PNG/32/Objects/software_box-32.png",
-        "128": "/PNG/128/Objects/software_box-128.png",
+        "128": "/PNG/128/objects (Case Conflict (8))/software_box-128.png",
         "256": "/PNG/256/Objects/software_box-256.png",
         "36": "/PNG/36/Objects/software_box-36.png",
         "512": "/PNG/512/Objects/software_box-512.png",
@@ -23197,6 +25625,67 @@
     }
   },
   {
+    "id": 4559,
+    "name": "spring",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1401137474,
+    "tags": [
+      "beauty",
+      "macro",
+      "wings",
+      "garden",
+      "bug",
+      "fly",
+      "flower",
+      "forest",
+      "countryside",
+      "grass",
+      "natural",
+      "free",
+      "horizontal",
+      "summer",
+      "sunset",
+      "organic",
+      "spring",
+      "detail",
+      "closeup",
+      "colour",
+      "insect",
+      "antique",
+      "cherry",
+      "elegance",
+      "best",
+      "retro",
+      "dream",
+      "season",
+      "wilderness",
+      "amazing",
+      "sunrise",
+      "wild flower",
+      "bluebell",
+      "vintage butterfly",
+      "painted",
+      "heritage"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/spring.svg",
+      "eps": "/EPS/Astrology/spring.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/spring-32.png",
+        "128": "/PNG/128/Astrology/spring-128.png",
+        "256": "/PNG/256/Astrology/spring-256.png",
+        "36": "/PNG/36/Astrology/spring-36.png",
+        "512": "/PNG/512/Astrology/spring-512.png",
+        "64": "/PNG/64/Astrology/spring-64.png",
+        "24": "/PNG/24/Astrology/spring-24.png",
+        "96": "/PNG/96/Astrology/spring-96.png",
+        "48": "/PNG/48/Astrology/spring-48.png"
+      }
+    }
+  },
+  {
     "id": 4156,
     "name": "ssd",
     "platform": "Android",
@@ -23290,6 +25779,84 @@
         "24": "/PNG/24/Photo_Video/stack_of_photos-24.png",
         "96": "/PNG/96/Photo_Video/stack_of_photos-96.png",
         "48": "/PNG/48/Photo_Video/stack_of_photos-48.png"
+      }
+    }
+  },
+  {
+    "id": 4613,
+    "name": "stairs",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/stairs.svg",
+      "eps": "/EPS/Household/stairs.eps",
+      "png": {
+        "32": "/PNG/32/Household/stairs-32.png",
+        "128": "/PNG/128/Household/stairs-128.png",
+        "256": "/PNG/256/Household/stairs-256.png",
+        "36": "/PNG/36/Household/stairs-36.png",
+        "512": "/PNG/512/Household/stairs-512.png",
+        "64": "/PNG/64/Household/stairs-64.png",
+        "24": "/PNG/24/Household/stairs-24.png",
+        "96": "/PNG/96/Household/stairs-96.png",
+        "48": "/PNG/48/Household/stairs-48.png"
+      }
+    }
+  },
+  {
+    "id": 4600,
+    "name": "stairs_down",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/stairs_down.svg",
+      "eps": "/EPS/Household/stairs_down.eps",
+      "png": {
+        "32": "/PNG/32/Household/stairs_down-32.png",
+        "128": "/PNG/128/Household/stairs_down-128.png",
+        "256": "/PNG/256/Household/stairs_down-256.png",
+        "36": "/PNG/36/Household/stairs_down-36.png",
+        "512": "/PNG/512/Household/stairs_down-512.png",
+        "64": "/PNG/64/Household/stairs_down-64.png",
+        "24": "/PNG/24/Household/stairs_down-24.png",
+        "96": "/PNG/96/Household/stairs_down-96.png",
+        "48": "/PNG/48/Household/stairs_down-48.png"
+      }
+    }
+  },
+  {
+    "id": 4611,
+    "name": "stairs_up",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/stairs_up.svg",
+      "eps": "/EPS/Household/stairs_up.eps",
+      "png": {
+        "32": "/PNG/32/Household/stairs_up-32.png",
+        "128": "/PNG/128/Household/stairs_up-128.png",
+        "256": "/PNG/256/Household/stairs_up-256.png",
+        "36": "/PNG/36/Household/stairs_up-36.png",
+        "512": "/PNG/512/Household/stairs_up-512.png",
+        "64": "/PNG/64/Household/stairs_up-64.png",
+        "24": "/PNG/24/Household/stairs_up-24.png",
+        "96": "/PNG/96/Household/stairs_up-96.png",
+        "48": "/PNG/48/Household/stairs_up-48.png"
       }
     }
   },
@@ -23730,6 +26297,84 @@
     }
   },
   {
+    "id": 4565,
+    "name": "summer",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1401137474,
+    "tags": [
+      "design",
+      "vector",
+      "paper",
+      "earth",
+      "line",
+      "light",
+      "outline",
+      "clip",
+      "star",
+      "drawing",
+      "sky",
+      "symbol",
+      "clouds",
+      "party",
+      "round",
+      "water",
+      "hot",
+      "cold",
+      "heat",
+      "text",
+      "illustration",
+      "graphic",
+      "travel",
+      "sign",
+      "weather",
+      "logo",
+      "black",
+      "points",
+      "sun",
+      "moon",
+      "white",
+      "border",
+      "icon",
+      "flower",
+      "plant",
+      "nature",
+      "outdoors",
+      "climate",
+      "life",
+      "shape",
+      "art",
+      "natural",
+      "emblem",
+      "tour",
+      "energy",
+      "winter",
+      "happiness",
+      "summer",
+      "sunset",
+      "rising",
+      "circle",
+      "spring",
+      "abstra"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/summer.svg",
+      "eps": "/EPS/Astrology/summer.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/summer-32.png",
+        "128": "/PNG/128/Astrology/summer-128.png",
+        "256": "/PNG/256/Astrology/summer-256.png",
+        "36": "/PNG/36/Astrology/summer-36.png",
+        "512": "/PNG/512/Astrology/summer-512.png",
+        "64": "/PNG/64/Astrology/summer-64.png",
+        "24": "/PNG/24/Astrology/summer-24.png",
+        "96": "/PNG/96/Astrology/summer-96.png",
+        "48": "/PNG/48/Astrology/summer-48.png"
+      }
+    }
+  },
+  {
     "id": 4129,
     "name": "sun_glasses",
     "platform": "Android",
@@ -23970,7 +26615,7 @@
       "eps": "/EPS/Objects/switch_off.eps",
       "png": {
         "32": "/PNG/32/Objects/switch_off-32.png",
-        "128": "/PNG/128/Objects/switch_off-128.png",
+        "128": "/PNG/128/objects (Case Conflict (1))/switch_off-128.png",
         "256": "/PNG/256/Objects/switch_off-256.png",
         "36": "/PNG/36/Objects/switch_off-36.png",
         "512": "/PNG/512/Objects/switch_off-512.png",
@@ -23997,7 +26642,7 @@
       "eps": "/EPS/Objects/switch_on.eps",
       "png": {
         "32": "/PNG/32/Objects/switch_on-32.png",
-        "128": "/PNG/128/Objects/switch_on-128.png",
+        "128": "/PNG/128/objects (Case Conflict (6))/switch_on-128.png",
         "256": "/PNG/256/Objects/switch_on-256.png",
         "36": "/PNG/36/Objects/switch_on-36.png",
         "512": "/PNG/512/Objects/switch_on-512.png",
@@ -24129,6 +26774,58 @@
     }
   },
   {
+    "id": 4580,
+    "name": "table",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/table.svg",
+      "eps": "/EPS/Household/table.eps",
+      "png": {
+        "32": "/PNG/32/Household/table-32.png",
+        "128": "/PNG/128/Household/table-128.png",
+        "256": "/PNG/256/Household/table-256.png",
+        "36": "/PNG/36/Household/table-36.png",
+        "512": "/PNG/512/Household/table-512.png",
+        "64": "/PNG/64/Household/table-64.png",
+        "24": "/PNG/24/Household/table-24.png",
+        "96": "/PNG/96/Household/table-96.png",
+        "48": "/PNG/48/Household/table-48.png"
+      }
+    }
+  },
+  {
+    "id": 4591,
+    "name": "tabletop_radio",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/tabletop_radio.svg",
+      "eps": "/EPS/Household/tabletop_radio.eps",
+      "png": {
+        "32": "/PNG/32/Household/tabletop_radio-32.png",
+        "128": "/PNG/128/Household/tabletop_radio-128.png",
+        "256": "/PNG/256/Household/tabletop_radio-256.png",
+        "36": "/PNG/36/Household/tabletop_radio-36.png",
+        "512": "/PNG/512/Household/tabletop_radio-512.png",
+        "64": "/PNG/64/Household/tabletop_radio-64.png",
+        "24": "/PNG/24/Household/tabletop_radio-24.png",
+        "96": "/PNG/96/Household/tabletop_radio-96.png",
+        "48": "/PNG/48/Household/tabletop_radio-48.png"
+      }
+    }
+  },
+  {
     "id": 3301,
     "name": "tag",
     "platform": "Android",
@@ -24158,7 +26855,7 @@
       "eps": "/EPS/Shopping/tag.eps",
       "png": {
         "32": "/PNG/32/Shopping/tag-32.png",
-        "128": "/PNG/128/Shopping/tag-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (31))/tag-128.png",
         "256": "/PNG/256/Shopping/tag-256.png",
         "36": "/PNG/36/Shopping/tag-36.png",
         "512": "/PNG/512/Shopping/tag-512.png",
@@ -24320,7 +27017,7 @@
       "eps": "/EPS/Objects/tear_off_calendar.eps",
       "png": {
         "32": "/PNG/32/Objects/tear_off_calendar-32.png",
-        "128": "/PNG/128/Objects/tear_off_calendar-128.png",
+        "128": "/PNG/128/objects (Case Conflict (9))/tear_off_calendar-128.png",
         "256": "/PNG/256/Objects/tear_off_calendar-256.png",
         "36": "/PNG/36/Objects/tear_off_calendar-36.png",
         "512": "/PNG/512/Objects/tear_off_calendar-512.png",
@@ -24682,7 +27379,7 @@
       "eps": "/EPS/Objects/timer.eps",
       "png": {
         "32": "/PNG/32/Objects/timer-32.png",
-        "128": "/PNG/128/Objects/timer-128.png",
+        "128": "/PNG/128/objects (Case Conflict (4))/timer-128.png",
         "256": "/PNG/256/Objects/timer-256.png",
         "36": "/PNG/36/Objects/timer-36.png",
         "512": "/PNG/512/Objects/timer-512.png",
@@ -26366,6 +29063,141 @@
     }
   },
   {
+    "id": 4588,
+    "name": "toilet",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+      "design",
+      "graphics",
+      "draw",
+      "print",
+      "door",
+      "link",
+      "artist",
+      "overview",
+      "label",
+      "printed",
+      "refresh",
+      "document",
+      "symbol",
+      "events",
+      "fresh",
+      "text",
+      "download",
+      "female",
+      "room",
+      "white",
+      "icon",
+      "interface",
+      "codes",
+      "signs",
+      "grey",
+      "questionnaire",
+      "sex",
+      "bathroom",
+      "male",
+      "red",
+      "article",
+      "gender",
+      "trust",
+      "washing",
+      "1search",
+      "hyperlink",
+      "category 2 it provides royalty images it mainly describes white app button with shadow its"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/toilet.svg",
+      "eps": "/EPS/Household/toilet.eps",
+      "png": {
+        "32": "/PNG/32/Household/toilet-32.png",
+        "128": "/PNG/128/Household/toilet-128.png",
+        "256": "/PNG/256/Household/toilet-256.png",
+        "36": "/PNG/36/Household/toilet-36.png",
+        "512": "/PNG/512/Household/toilet-512.png",
+        "64": "/PNG/64/Household/toilet-64.png",
+        "24": "/PNG/24/Household/toilet-24.png",
+        "96": "/PNG/96/Household/toilet-96.png",
+        "48": "/PNG/48/Household/toilet-48.png"
+      }
+    }
+  },
+  {
+    "id": 4597,
+    "name": "toilet_pan",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+      "design",
+      "window",
+      "empty",
+      "clean",
+      "new",
+      "home",
+      "wash",
+      "house",
+      "luxury",
+      "water",
+      "equipment",
+      "room",
+      "black",
+      "white",
+      "icon",
+      "small",
+      "wall",
+      "open",
+      "blind",
+      "modern",
+      "grey",
+      "apartment",
+      "architecture",
+      "relaxation",
+      "vertical",
+      "bath",
+      "bathroom",
+      "closet",
+      "hygiene",
+      "clipart",
+      "clip art",
+      "china",
+      "background",
+      "monochrome",
+      "gray",
+      "decoration",
+      "interior",
+      "seat",
+      "nobody",
+      "indoor",
+      "domestic",
+      "brown",
+      "elegant",
+      "hotel",
+      "washroom",
+      "bowl",
+      "toilet",
+      "restr"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/toilet_pan.svg",
+      "eps": "/EPS/Household/toilet_pan.eps",
+      "png": {
+        "32": "/PNG/32/Household/toilet_pan-32.png",
+        "128": "/PNG/128/Household/toilet_pan-128.png",
+        "256": "/PNG/256/Household/toilet_pan-256.png",
+        "36": "/PNG/36/Household/toilet_pan-36.png",
+        "512": "/PNG/512/Household/toilet_pan-512.png",
+        "64": "/PNG/64/Household/toilet_pan-64.png",
+        "24": "/PNG/24/Household/toilet_pan-24.png",
+        "96": "/PNG/96/Household/toilet_pan-96.png",
+        "48": "/PNG/48/Household/toilet_pan-48.png"
+      }
+    }
+  },
+  {
     "id": 4478,
     "name": "tomato",
     "platform": "Android",
@@ -26443,6 +29275,70 @@
         "24": "/PNG/24/Mobile/touchscreen_smartphone-24.png",
         "96": "/PNG/96/Mobile/touchscreen_smartphone-96.png",
         "48": "/PNG/48/Mobile/touchscreen_smartphone-48.png"
+      }
+    }
+  },
+  {
+    "id": 4581,
+    "name": "towel",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+      "clean",
+      "dry",
+      "wash",
+      "water",
+      "hand",
+      "wet",
+      "white",
+      "bar",
+      "color",
+      "beach",
+      "wipes",
+      "body",
+      "shower",
+      "cotton",
+      "bath",
+      "bathroom",
+      "towel",
+      "wave",
+      "fold",
+      "liquid",
+      "gray",
+      "fabric",
+      "cloth",
+      "hang",
+      "soft",
+      "spill",
+      "laundry",
+      "hotel",
+      "rubs",
+      "washroom",
+      "resort",
+      "spa",
+      "wrapper",
+      "bathing",
+      "absorbent",
+      "spongy",
+      "luxurious",
+      "rinse",
+      "rooms"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/towel.svg",
+      "eps": "/EPS/Household/towel.eps",
+      "png": {
+        "32": "/PNG/32/Household/towel-32.png",
+        "128": "/PNG/128/Household/towel-128.png",
+        "256": "/PNG/256/Household/towel-256.png",
+        "36": "/PNG/36/Household/towel-36.png",
+        "512": "/PNG/512/Household/towel-512.png",
+        "64": "/PNG/64/Household/towel-64.png",
+        "24": "/PNG/24/Household/towel-24.png",
+        "96": "/PNG/96/Household/towel-96.png",
+        "48": "/PNG/48/Household/towel-48.png"
       }
     }
   },
@@ -27322,6 +30218,32 @@
     }
   },
   {
+    "id": 4615,
+    "name": "tv",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/tv.svg",
+      "eps": "/EPS/Household/tv.eps",
+      "png": {
+        "32": "/PNG/32/Household/tv-32.png",
+        "128": "/PNG/128/Household/tv-128.png",
+        "256": "/PNG/256/Household/tv-256.png",
+        "36": "/PNG/36/Household/tv-36.png",
+        "512": "/PNG/512/Household/tv-512.png",
+        "64": "/PNG/64/Household/tv-64.png",
+        "24": "/PNG/24/Household/tv-24.png",
+        "96": "/PNG/96/Household/tv-96.png",
+        "48": "/PNG/48/Household/tv-48.png"
+      }
+    }
+  },
+  {
     "id": 3861,
     "name": "twitter",
     "platform": "Android",
@@ -27481,7 +30403,7 @@
       "eps": "/EPS/Very_Basic/undo.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/undo-32.png",
-        "128": "/PNG/128/Very_Basic/undo-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/undo-128.png",
         "256": "/PNG/256/Very_Basic/undo-256.png",
         "36": "/PNG/36/Very_Basic/undo-36.png",
         "512": "/PNG/512/Very_Basic/undo-512.png",
@@ -27546,7 +30468,7 @@
       "eps": "/EPS/Very_Basic/unlock.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/unlock-32.png",
-        "128": "/PNG/128/Very_Basic/unlock-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/unlock-128.png",
         "256": "/PNG/256/Very_Basic/unlock-256.png",
         "36": "/PNG/36/Very_Basic/unlock-36.png",
         "512": "/PNG/512/Very_Basic/unlock-512.png",
@@ -27614,7 +30536,7 @@
       "eps": "/EPS/Very_Basic/upload.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/upload-32.png",
-        "128": "/PNG/128/Very_Basic/upload-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/upload-128.png",
         "256": "/PNG/256/Very_Basic/upload-256.png",
         "36": "/PNG/36/Very_Basic/upload-36.png",
         "512": "/PNG/512/Very_Basic/upload-512.png",
@@ -27922,7 +30844,7 @@
       "eps": "/EPS/Very_Basic/video_file.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/video_file-32.png",
-        "128": "/PNG/128/Very_Basic/video_file-128.png",
+        "128": "/PNG/128/very_basic (Case Conflict)/video_file-128.png",
         "256": "/PNG/256/Very_Basic/video_file-256.png",
         "36": "/PNG/36/Very_Basic/video_file-36.png",
         "512": "/PNG/512/Very_Basic/video_file-512.png",
@@ -28074,7 +30996,7 @@
       "eps": "/EPS/Shopping/visa_copyrighted.eps",
       "png": {
         "32": "/PNG/32/Shopping/visa_copyrighted-32.png",
-        "128": "/PNG/128/Shopping/visa_copyrighted-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (26))/visa_copyrighted-128.png",
         "256": "/PNG/256/Shopping/visa_copyrighted-256.png",
         "36": "/PNG/36/Shopping/visa_copyrighted-36.png",
         "512": "/PNG/512/Shopping/visa_copyrighted-512.png",
@@ -28272,6 +31194,32 @@
     }
   },
   {
+    "id": 4625,
+    "name": "walkie_talkie_radio",
+    "platform": "Android",
+    "category": "Military",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/walkie_talkie_radio.svg",
+      "eps": "/EPS/Military/walkie_talkie_radio.eps",
+      "png": {
+        "32": "/PNG/32/Military/walkie_talkie_radio-32.png",
+        "128": "/PNG/128/Military/walkie_talkie_radio-128.png",
+        "256": "/PNG/256/Military/walkie_talkie_radio-256.png",
+        "36": "/PNG/36/Military/walkie_talkie_radio-36.png",
+        "512": "/PNG/512/Military/walkie_talkie_radio-512.png",
+        "64": "/PNG/64/Military/walkie_talkie_radio-64.png",
+        "24": "/PNG/24/Military/walkie_talkie_radio-24.png",
+        "96": "/PNG/96/Military/walkie_talkie_radio-96.png",
+        "48": "/PNG/48/Military/walkie_talkie_radio-48.png"
+      }
+    }
+  },
+  {
     "id": 4367,
     "name": "walking_stick",
     "platform": "Android",
@@ -28363,7 +31311,7 @@
       "eps": "/EPS/Shopping/wallet.eps",
       "png": {
         "32": "/PNG/32/Shopping/wallet-32.png",
-        "128": "/PNG/128/Shopping/wallet-128.png",
+        "128": "/PNG/128/shopping (Case Conflict (16))/wallet-128.png",
         "256": "/PNG/256/Shopping/wallet-256.png",
         "36": "/PNG/36/Shopping/wallet-36.png",
         "512": "/PNG/512/Shopping/wallet-512.png",
@@ -28504,6 +31452,58 @@
     }
   },
   {
+    "id": 4572,
+    "name": "wardrobe",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/wardrobe.svg",
+      "eps": "/EPS/Household/wardrobe.eps",
+      "png": {
+        "32": "/PNG/32/Household/wardrobe-32.png",
+        "128": "/PNG/128/Household/wardrobe-128.png",
+        "256": "/PNG/256/Household/wardrobe-256.png",
+        "36": "/PNG/36/Household/wardrobe-36.png",
+        "512": "/PNG/512/Household/wardrobe-512.png",
+        "64": "/PNG/64/Household/wardrobe-64.png",
+        "24": "/PNG/24/Household/wardrobe-24.png",
+        "96": "/PNG/96/Household/wardrobe-96.png",
+        "48": "/PNG/48/Household/wardrobe-48.png"
+      }
+    }
+  },
+  {
+    "id": 4601,
+    "name": "washing_machine",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/washing_machine.svg",
+      "eps": "/EPS/Household/washing_machine.eps",
+      "png": {
+        "32": "/PNG/32/Household/washing_machine-32.png",
+        "128": "/PNG/128/Household/washing_machine-128.png",
+        "256": "/PNG/256/Household/washing_machine-256.png",
+        "36": "/PNG/36/Household/washing_machine-36.png",
+        "512": "/PNG/512/Household/washing_machine-512.png",
+        "64": "/PNG/64/Household/washing_machine-64.png",
+        "24": "/PNG/24/Household/washing_machine-24.png",
+        "96": "/PNG/96/Household/washing_machine-96.png",
+        "48": "/PNG/48/Household/washing_machine-48.png"
+      }
+    }
+  },
+  {
     "id": 4070,
     "name": "water",
     "platform": "Android",
@@ -28527,6 +31527,84 @@
         "24": "/PNG/24/Industry/water-24.png",
         "96": "/PNG/96/Industry/water-96.png",
         "48": "/PNG/48/Industry/water-48.png"
+      }
+    }
+  },
+  {
+    "id": 4556,
+    "name": "water_element",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1401137474,
+    "tags": [
+      "fish",
+      "swim",
+      "sea",
+      "earthly",
+      "fire",
+      "light",
+      "spirit",
+      "low",
+      "clouds",
+      "photos",
+      "liquidity",
+      "speed",
+      "row",
+      "cool",
+      "water",
+      "motion",
+      "vectors",
+      "illustration",
+      "videos",
+      "air",
+      "stream",
+      "five",
+      "black",
+      "darkness",
+      "moon",
+      "rest",
+      "dark",
+      "white",
+      "nature",
+      "snow",
+      "life",
+      "natural",
+      "move",
+      "pool",
+      "metal",
+      "marine",
+      "space",
+      "signs",
+      "lake",
+      "falling",
+      "two",
+      "abstract",
+      "element",
+      "high",
+      "royalty",
+      "blue",
+      "footage",
+      "feminine",
+      "storms",
+      "deep",
+      "creative",
+      "personality",
+      "sto"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/water_element.svg",
+      "eps": "/EPS/Astrology/water_element.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/water_element-32.png",
+        "128": "/PNG/128/Astrology/water_element-128.png",
+        "256": "/PNG/256/Astrology/water_element-256.png",
+        "36": "/PNG/36/Astrology/water_element-36.png",
+        "512": "/PNG/512/Astrology/water_element-512.png",
+        "64": "/PNG/64/Astrology/water_element-64.png",
+        "24": "/PNG/24/Astrology/water_element-24.png",
+        "96": "/PNG/96/Astrology/water_element-96.png",
+        "48": "/PNG/48/Astrology/water_element-48.png"
       }
     }
   },
@@ -29006,6 +32084,32 @@
     }
   },
   {
+    "id": 4603,
+    "name": "widescreen_tv",
+    "platform": "Android",
+    "category": "Household",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/widescreen_tv.svg",
+      "eps": "/EPS/Household/widescreen_tv.eps",
+      "png": {
+        "32": "/PNG/32/Household/widescreen_tv-32.png",
+        "128": "/PNG/128/Household/widescreen_tv-128.png",
+        "256": "/PNG/256/Household/widescreen_tv-256.png",
+        "36": "/PNG/36/Household/widescreen_tv-36.png",
+        "512": "/PNG/512/Household/widescreen_tv-512.png",
+        "64": "/PNG/64/Household/widescreen_tv-64.png",
+        "24": "/PNG/24/Household/widescreen_tv-24.png",
+        "96": "/PNG/96/Household/widescreen_tv-96.png",
+        "48": "/PNG/48/Household/widescreen_tv-48.png"
+      }
+    }
+  },
+  {
     "id": 4176,
     "name": "wifi",
     "platform": "Android",
@@ -29144,6 +32248,76 @@
         "24": "/PNG/24/Industry/wind_turbine-24.png",
         "96": "/PNG/96/Industry/wind_turbine-96.png",
         "48": "/PNG/48/Industry/wind_turbine-48.png"
+      }
+    }
+  },
+  {
+    "id": 4549,
+    "name": "winter",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1401137474,
+    "tags": [
+      "design",
+      "vector",
+      "card",
+      "window",
+      "celebration",
+      "cover",
+      "star",
+      "gold",
+      "cool",
+      "cold",
+      "ice",
+      "text",
+      "illustration",
+      "graphic",
+      "weather",
+      "frost",
+      "snowflake",
+      "white",
+      "fall",
+      "christmas",
+      "snow",
+      "chill",
+      "winter",
+      "holiday",
+      "frozen",
+      "abstract",
+      "greeting",
+      "celebrate",
+      "template",
+      "shiny",
+      "background",
+      "snowfall",
+      "decoration",
+      "pattern",
+      "glow",
+      "shine",
+      "elegant",
+      "poster",
+      "season",
+      "postcard",
+      "wallpaper",
+      "freezing",
+      "sparkle",
+      "december",
+      "icy"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/winter.svg",
+      "eps": "/EPS/Astrology/winter.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/winter-32.png",
+        "128": "/PNG/128/Astrology/winter-128.png",
+        "256": "/PNG/256/Astrology/winter-256.png",
+        "36": "/PNG/36/Astrology/winter-36.png",
+        "512": "/PNG/512/Astrology/winter-512.png",
+        "64": "/PNG/64/Astrology/winter-64.png",
+        "24": "/PNG/24/Astrology/winter-24.png",
+        "96": "/PNG/96/Astrology/winter-96.png",
+        "48": "/PNG/48/Astrology/winter-48.png"
       }
     }
   },
@@ -29541,6 +32715,318 @@
         "24": "/PNG/24/Music/xylophone-24.png",
         "96": "/PNG/96/Music/xylophone-96.png",
         "48": "/PNG/48/Music/xylophone-48.png"
+      }
+    }
+  },
+  {
+    "id": 4554,
+    "name": "year_of_dog",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_dog.svg",
+      "eps": "/EPS/Astrology/year_of_dog.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_dog-32.png",
+        "128": "/PNG/128/Astrology/year_of_dog-128.png",
+        "256": "/PNG/256/Astrology/year_of_dog-256.png",
+        "36": "/PNG/36/Astrology/year_of_dog-36.png",
+        "512": "/PNG/512/Astrology/year_of_dog-512.png",
+        "64": "/PNG/64/Astrology/year_of_dog-64.png",
+        "24": "/PNG/24/Astrology/year_of_dog-24.png",
+        "96": "/PNG/96/Astrology/year_of_dog-96.png",
+        "48": "/PNG/48/Astrology/year_of_dog-48.png"
+      }
+    }
+  },
+  {
+    "id": 4548,
+    "name": "year_of_dragon",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_dragon.svg",
+      "eps": "/EPS/Astrology/year_of_dragon.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_dragon-32.png",
+        "128": "/PNG/128/Astrology/year_of_dragon-128.png",
+        "256": "/PNG/256/Astrology/year_of_dragon-256.png",
+        "36": "/PNG/36/Astrology/year_of_dragon-36.png",
+        "512": "/PNG/512/Astrology/year_of_dragon-512.png",
+        "64": "/PNG/64/Astrology/year_of_dragon-64.png",
+        "24": "/PNG/24/Astrology/year_of_dragon-24.png",
+        "96": "/PNG/96/Astrology/year_of_dragon-96.png",
+        "48": "/PNG/48/Astrology/year_of_dragon-48.png"
+      }
+    }
+  },
+  {
+    "id": 4563,
+    "name": "year_of_goat",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_goat.svg",
+      "eps": "/EPS/Astrology/year_of_goat.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_goat-32.png",
+        "128": "/PNG/128/Astrology/year_of_goat-128.png",
+        "256": "/PNG/256/Astrology/year_of_goat-256.png",
+        "36": "/PNG/36/Astrology/year_of_goat-36.png",
+        "512": "/PNG/512/Astrology/year_of_goat-512.png",
+        "64": "/PNG/64/Astrology/year_of_goat-64.png",
+        "24": "/PNG/24/Astrology/year_of_goat-24.png",
+        "96": "/PNG/96/Astrology/year_of_goat-96.png",
+        "48": "/PNG/48/Astrology/year_of_goat-48.png"
+      }
+    }
+  },
+  {
+    "id": 4550,
+    "name": "year_of_horse",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_horse.svg",
+      "eps": "/EPS/Astrology/year_of_horse.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_horse-32.png",
+        "128": "/PNG/128/Astrology/year_of_horse-128.png",
+        "256": "/PNG/256/Astrology/year_of_horse-256.png",
+        "36": "/PNG/36/Astrology/year_of_horse-36.png",
+        "512": "/PNG/512/Astrology/year_of_horse-512.png",
+        "64": "/PNG/64/Astrology/year_of_horse-64.png",
+        "24": "/PNG/24/Astrology/year_of_horse-24.png",
+        "96": "/PNG/96/Astrology/year_of_horse-96.png",
+        "48": "/PNG/48/Astrology/year_of_horse-48.png"
+      }
+    }
+  },
+  {
+    "id": 4561,
+    "name": "year_of_monkey",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_monkey.svg",
+      "eps": "/EPS/Astrology/year_of_monkey.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_monkey-32.png",
+        "128": "/PNG/128/Astrology/year_of_monkey-128.png",
+        "256": "/PNG/256/Astrology/year_of_monkey-256.png",
+        "36": "/PNG/36/Astrology/year_of_monkey-36.png",
+        "512": "/PNG/512/Astrology/year_of_monkey-512.png",
+        "64": "/PNG/64/Astrology/year_of_monkey-64.png",
+        "24": "/PNG/24/Astrology/year_of_monkey-24.png",
+        "96": "/PNG/96/Astrology/year_of_monkey-96.png",
+        "48": "/PNG/48/Astrology/year_of_monkey-48.png"
+      }
+    }
+  },
+  {
+    "id": 4564,
+    "name": "year_of_ox",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_ox.svg",
+      "eps": "/EPS/Astrology/year_of_ox.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_ox-32.png",
+        "128": "/PNG/128/Astrology/year_of_ox-128.png",
+        "256": "/PNG/256/Astrology/year_of_ox-256.png",
+        "36": "/PNG/36/Astrology/year_of_ox-36.png",
+        "512": "/PNG/512/Astrology/year_of_ox-512.png",
+        "64": "/PNG/64/Astrology/year_of_ox-64.png",
+        "24": "/PNG/24/Astrology/year_of_ox-24.png",
+        "96": "/PNG/96/Astrology/year_of_ox-96.png",
+        "48": "/PNG/48/Astrology/year_of_ox-48.png"
+      }
+    }
+  },
+  {
+    "id": 4566,
+    "name": "year_of_pig",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_pig.svg",
+      "eps": "/EPS/Astrology/year_of_pig.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_pig-32.png",
+        "128": "/PNG/128/Astrology/year_of_pig-128.png",
+        "256": "/PNG/256/Astrology/year_of_pig-256.png",
+        "36": "/PNG/36/Astrology/year_of_pig-36.png",
+        "512": "/PNG/512/Astrology/year_of_pig-512.png",
+        "64": "/PNG/64/Astrology/year_of_pig-64.png",
+        "24": "/PNG/24/Astrology/year_of_pig-24.png",
+        "96": "/PNG/96/Astrology/year_of_pig-96.png",
+        "48": "/PNG/48/Astrology/year_of_pig-48.png"
+      }
+    }
+  },
+  {
+    "id": 4562,
+    "name": "year_of_rabbit",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_rabbit.svg",
+      "eps": "/EPS/Astrology/year_of_rabbit.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_rabbit-32.png",
+        "128": "/PNG/128/Astrology/year_of_rabbit-128.png",
+        "256": "/PNG/256/Astrology/year_of_rabbit-256.png",
+        "36": "/PNG/36/Astrology/year_of_rabbit-36.png",
+        "512": "/PNG/512/Astrology/year_of_rabbit-512.png",
+        "64": "/PNG/64/Astrology/year_of_rabbit-64.png",
+        "24": "/PNG/24/Astrology/year_of_rabbit-24.png",
+        "96": "/PNG/96/Astrology/year_of_rabbit-96.png",
+        "48": "/PNG/48/Astrology/year_of_rabbit-48.png"
+      }
+    }
+  },
+  {
+    "id": 4567,
+    "name": "year_of_rat",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_rat.svg",
+      "eps": "/EPS/Astrology/year_of_rat.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_rat-32.png",
+        "128": "/PNG/128/Astrology/year_of_rat-128.png",
+        "256": "/PNG/256/Astrology/year_of_rat-256.png",
+        "36": "/PNG/36/Astrology/year_of_rat-36.png",
+        "512": "/PNG/512/Astrology/year_of_rat-512.png",
+        "64": "/PNG/64/Astrology/year_of_rat-64.png",
+        "24": "/PNG/24/Astrology/year_of_rat-24.png",
+        "96": "/PNG/96/Astrology/year_of_rat-96.png",
+        "48": "/PNG/48/Astrology/year_of_rat-48.png"
+      }
+    }
+  },
+  {
+    "id": 4551,
+    "name": "year_of_rooster",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_rooster.svg",
+      "eps": "/EPS/Astrology/year_of_rooster.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_rooster-32.png",
+        "128": "/PNG/128/Astrology/year_of_rooster-128.png",
+        "256": "/PNG/256/Astrology/year_of_rooster-256.png",
+        "36": "/PNG/36/Astrology/year_of_rooster-36.png",
+        "512": "/PNG/512/Astrology/year_of_rooster-512.png",
+        "64": "/PNG/64/Astrology/year_of_rooster-64.png",
+        "24": "/PNG/24/Astrology/year_of_rooster-24.png",
+        "96": "/PNG/96/Astrology/year_of_rooster-96.png",
+        "48": "/PNG/48/Astrology/year_of_rooster-48.png"
+      }
+    }
+  },
+  {
+    "id": 4558,
+    "name": "year_of_snake",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_snake.svg",
+      "eps": "/EPS/Astrology/year_of_snake.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_snake-32.png",
+        "128": "/PNG/128/Astrology/year_of_snake-128.png",
+        "256": "/PNG/256/Astrology/year_of_snake-256.png",
+        "36": "/PNG/36/Astrology/year_of_snake-36.png",
+        "512": "/PNG/512/Astrology/year_of_snake-512.png",
+        "64": "/PNG/64/Astrology/year_of_snake-64.png",
+        "24": "/PNG/24/Astrology/year_of_snake-24.png",
+        "96": "/PNG/96/Astrology/year_of_snake-96.png",
+        "48": "/PNG/48/Astrology/year_of_snake-48.png"
+      }
+    }
+  },
+  {
+    "id": 4552,
+    "name": "year_of_tiger",
+    "platform": "Android",
+    "category": "Astrology",
+    "created": 1401137474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Astrology/year_of_tiger.svg",
+      "eps": "/EPS/Astrology/year_of_tiger.eps",
+      "png": {
+        "32": "/PNG/32/Astrology/year_of_tiger-32.png",
+        "128": "/PNG/128/Astrology/year_of_tiger-128.png",
+        "256": "/PNG/256/Astrology/year_of_tiger-256.png",
+        "36": "/PNG/36/Astrology/year_of_tiger-36.png",
+        "512": "/PNG/512/Astrology/year_of_tiger-512.png",
+        "64": "/PNG/64/Astrology/year_of_tiger-64.png",
+        "24": "/PNG/24/Astrology/year_of_tiger-24.png",
+        "96": "/PNG/96/Astrology/year_of_tiger-96.png",
+        "48": "/PNG/48/Astrology/year_of_tiger-48.png"
       }
     }
   },

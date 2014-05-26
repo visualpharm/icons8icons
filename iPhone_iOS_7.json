@@ -1047,39 +1047,6 @@
     }
   },
   {
-    "id": 2986,
-    "name": "airplane",
-    "platform": "iPhone/iOS 7",
-    "category": "Transport",
-    "created": 1390342414,
-    "tags": [
-      "user",
-      "edit",
-      "star",
-      "car",
-      "airplane",
-      "checkbox",
-      "holiday",
-      "chef"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Transport/airplane.svg",
-      "svg.simplified": "/SVG_for_Font/Transport/airplane.svg",
-      "eps": "/EPS/Transport/airplane.eps",
-      "png": {
-        "25": "/PNG/25/Transport/airplane-25.png",
-        "32": "/PNG/32/Transport/airplane-32.png",
-        "128": "/PNG/128/Transport/airplane-128.png",
-        "75": "/PNG/75/Transport/airplane-75.png",
-        "256": "/PNG/256/Transport/airplane-256.png",
-        "100": "/PNG/100/Transport/airplane-100.png",
-        "512": "/PNG/512/Transport/airplane-512.png",
-        "50": "/PNG/50/Transport/airplane-50.png"
-      }
-    }
-  },
-  {
     "id": 2487,
     "name": "airplane_take_off",
     "platform": "iPhone/iOS 7",
@@ -17345,7 +17312,6 @@
       "contacts",
       "design",
       "vector",
-      "texting",
       "box",
       "dog",
       "paper",
@@ -17387,7 +17353,8 @@
       "concept",
       "domain",
       "www",
-      "isolated"
+      "isolated",
+      "clipart"
     ],
     "copyright": false,
     "files": {
@@ -30086,6 +30053,7 @@
       "clock",
       "mark",
       "calendar",
+      "home",
       "tag",
       "search",
       "location",
@@ -62111,7 +62079,6 @@
       "photos",
       "scale",
       "image",
-      "icon",
       "size",
       "edits",
       "large",
