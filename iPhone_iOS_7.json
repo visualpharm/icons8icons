@@ -10369,6 +10369,7 @@
     "created": 1390342414,
     "tags": [
       "film",
+      "discount",
       "movie",
       "cinema",
       "director",
@@ -50722,6 +50723,7 @@
       "feature",
       "featured",
       "settings",
+      "export",
       "headphones",
       "etoile",
       "favorite",
@@ -51000,7 +51002,8 @@
       "audio",
       "media",
       "stop",
-      "media controls"
+      "media controls",
+      "map"
     ],
     "copyright": false,
     "files": {
