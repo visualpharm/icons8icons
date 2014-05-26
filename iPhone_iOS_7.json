@@ -24107,32 +24107,6 @@
     }
   },
   {
-    "id": 2989,
-    "name": "hanger",
-    "platform": "iPhone/iOS 7",
-    "category": "Clothing",
-    "created": 1390342414,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Clothing/hanger.svg",
-      "svg.simplified": "/SVG_for_Font/Clothing/hanger.svg",
-      "eps": "/EPS/Clothing/hanger.eps",
-      "png": {
-        "25": "/PNG/25/Clothing/hanger-25.png",
-        "32": "/PNG/32/Clothing/hanger-32.png",
-        "128": "/PNG/128/Clothing/hanger-128.png",
-        "75": "/PNG/75/Clothing/hanger-75.png",
-        "256": "/PNG/256/Clothing/hanger-256.png",
-        "100": "/PNG/100/Clothing/hanger-100.png",
-        "512": "/PNG/512/Clothing/hanger-512.png",
-        "50": "/PNG/50/Clothing/hanger-50.png"
-      }
-    }
-  },
-  {
     "id": 676,
     "name": "happy",
     "platform": "iPhone/iOS 7",
@@ -36955,7 +36929,7 @@
     "id": 2410,
     "name": "park_bench",
     "platform": "iPhone/iOS 7",
-    "category": "Travel",
+    "category": "City",
     "created": 1390342413,
     "tags": [
       "vector",
@@ -37006,7 +36980,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Travel/park_bench.svg",
+      "svg": "/SVG/City/park_bench.svg",
       "svg.simplified": "/SVG_for_Font/Travel/park_bench.svg",
       "eps": "/EPS/Travel/park_bench.eps",
       "png": {
@@ -37821,6 +37795,7 @@
     "tags": [
       "book",
       "fun",
+      "plus",
       "photos",
       "person",
       "camera",
@@ -45315,15 +45290,11 @@
       "user",
       "tick",
       "edit",
-      "star",
       "medical",
       "search",
       "magnifier",
       "detect",
       "close-up",
-      "magnify",
-      "magnified",
-      "zoom in",
       "settings",
       "pay",
       "view",
@@ -45336,14 +45307,16 @@
       "finder",
       "spotlight",
       "categories",
-      "zalupa",
       "exame",
       "reorder",
       "detective",
-      "zoom out",
+      "magnify",
+      "magnified",
+      "zoom in",
       "details",
-      "find",
-      "scan"
+      "scan",
+      "zoom out",
+      "find"
     ],
     "copyright": false,
     "files": {
