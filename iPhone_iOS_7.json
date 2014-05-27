@@ -11861,6 +11861,7 @@
       "human",
       "people",
       "illustration",
+      "travel",
       "head",
       "man",
       "businessman",
@@ -30685,7 +30686,6 @@
       "education",
       "page",
       "printed media",
-      "print media",
       "literature",
       "opened book"
     ],
@@ -38749,6 +38749,7 @@
       "ring",
       "phone",
       "number",
+      "mail",
       "communication",
       "communicate",
       "comms",
@@ -39914,7 +39915,6 @@
       "log out",
       "expressing positivity",
       "yes",
-      "mathematics",
       "plus sign",
       "sum",
       "male",
@@ -44077,8 +44077,7 @@
       "army",
       "rifle",
       "war",
-      "guerilla",
-      "automatic weapon"
+      "guerilla"
     ],
     "copyright": false,
     "files": {
@@ -47017,7 +47016,7 @@
     "category": "Very Basic",
     "created": 1401144672,
     "tags": [
-
+      "tweak"
     ],
     "copyright": false,
     "files": {
