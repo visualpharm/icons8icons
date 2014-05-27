@@ -594,6 +594,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/airport.svg",
+      "svg.simplified": "/SVG_for_Font/City/airport.svg",
       "eps": "/EPS/City/airport.eps",
       "png": {
         "32": "/PNG/32/City/airport-32.png",
@@ -676,6 +677,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/air_element.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/air_element.svg",
       "eps": "/EPS/Astrology/air_element.eps",
       "png": {
         "32": "/PNG/32/Astrology/air_element-32.png",
@@ -742,6 +744,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Editing/align_center.svg",
+      "svg.simplified": "/SVG_for_Font/Editing/align_center.svg",
       "eps": "/EPS/Editing/align_center.eps",
       "png": {
         "32": "/PNG/32/Editing/align_center-32.png",
@@ -768,6 +771,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Editing/align_justify.svg",
+      "svg.simplified": "/SVG_for_Font/Editing/align_justify.svg",
       "eps": "/EPS/Editing/align_justify.eps",
       "png": {
         "32": "/PNG/32/Editing/align_justify-32.png",
@@ -794,6 +798,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Editing/align_left.svg",
+      "svg.simplified": "/SVG_for_Font/Editing/align_left.svg",
       "eps": "/EPS/Editing/align_left.eps",
       "png": {
         "32": "/PNG/32/Editing/align_left-32.png",
@@ -820,6 +825,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Editing/align_right.svg",
+      "svg.simplified": "/SVG_for_Font/Editing/align_right.svg",
       "eps": "/EPS/Editing/align_right.eps",
       "png": {
         "32": "/PNG/32/Editing/align_right-32.png",
@@ -997,6 +1003,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/ammo_tin.svg",
+      "svg.simplified": "/SVG_for_Font/Military/ammo_tin.svg",
       "eps": "/EPS/Military/ammo_tin.eps",
       "png": {
         "32": "/PNG/32/Military/ammo_tin-32.png",
@@ -1196,6 +1203,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/apartment.svg",
+      "svg.simplified": "/SVG_for_Font/Household/apartment.svg",
       "eps": "/EPS/Household/apartment.eps",
       "png": {
         "32": "/PNG/32/Household/apartment-32.png",
@@ -1379,6 +1387,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/arena.svg",
+      "svg.simplified": "/SVG_for_Font/City/arena.svg",
       "eps": "/EPS/City/arena.eps",
       "png": {
         "32": "/PNG/32/City/arena-32.png",
@@ -1479,6 +1488,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/armchair.svg",
+      "svg.simplified": "/SVG_for_Font/Household/armchair.svg",
       "eps": "/EPS/Household/armchair.eps",
       "png": {
         "32": "/PNG/32/Household/armchair-32.png",
@@ -1854,6 +1864,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/autumn.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/autumn.svg",
       "eps": "/EPS/Astrology/autumn.eps",
       "png": {
         "32": "/PNG/32/Astrology/autumn-32.png",
@@ -1947,6 +1958,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/babyroom.svg",
+      "svg.simplified": "/SVG_for_Font/Household/babyroom.svg",
       "eps": "/EPS/Household/babyroom.eps",
       "png": {
         "32": "/PNG/32/Household/babyroom-32.png",
@@ -2091,6 +2103,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/bank.svg",
+      "svg.simplified": "/SVG_for_Font/City/bank.svg",
       "eps": "/EPS/City/bank.eps",
       "png": {
         "32": "/PNG/32/City/bank-32.png",
@@ -2287,6 +2300,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/barn.svg",
+      "svg.simplified": "/SVG_for_Font/Household/barn.svg",
       "eps": "/EPS/Household/barn.eps",
       "png": {
         "32": "/PNG/32/Household/barn-32.png",
@@ -2386,6 +2400,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/basilica.svg",
+      "svg.simplified": "/SVG_for_Font/City/basilica.svg",
       "eps": "/EPS/City/basilica.eps",
       "png": {
         "32": "/PNG/32/City/basilica-32.png",
@@ -2518,6 +2533,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/bath.svg",
+      "svg.simplified": "/SVG_for_Font/Household/bath.svg",
       "eps": "/EPS/Household/bath.eps",
       "png": {
         "32": "/PNG/32/Household/bath-32.png",
@@ -2565,6 +2581,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/bath_room.svg",
+      "svg.simplified": "/SVG_for_Font/Household/bath_room.svg",
       "eps": "/EPS/Household/bath_room.eps",
       "png": {
         "32": "/PNG/32/Household/bath_room-32.png",
@@ -2619,6 +2636,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/bed.svg",
+      "svg.simplified": "/SVG_for_Font/Household/bed.svg",
       "eps": "/EPS/Household/bed.eps",
       "png": {
         "32": "/PNG/32/Household/bed-32.png",
@@ -2774,6 +2792,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/bell_service.svg",
+      "svg.simplified": "/SVG_for_Font/Household/bell_service.svg",
       "eps": "/EPS/Household/bell_service.eps",
       "png": {
         "32": "/PNG/32/Household/bell_service-32.png",
@@ -3078,6 +3097,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/blunderbuss.svg",
+      "svg.simplified": "/SVG_for_Font/Military/blunderbuss.svg",
       "eps": "/EPS/Military/blunderbuss.eps",
       "png": {
         "32": "/PNG/32/Military/blunderbuss-32.png",
@@ -3131,6 +3151,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/bomb.svg",
+      "svg.simplified": "/SVG_for_Font/Military/bomb.svg",
       "eps": "/EPS/Military/bomb.eps",
       "png": {
         "32": "/PNG/32/Military/bomb-32.png",
@@ -3167,6 +3188,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/booking.svg",
+      "svg.simplified": "/SVG_for_Font/Household/booking.svg",
       "eps": "/EPS/Household/booking.eps",
       "png": {
         "32": "/PNG/32/Household/booking-32.png",
@@ -3270,6 +3292,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/boots.svg",
+      "svg.simplified": "/SVG_for_Font/Military/boots.svg",
       "eps": "/EPS/Military/boots.eps",
       "png": {
         "32": "/PNG/32/Military/boots-32.png",
@@ -3628,6 +3651,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/broom.svg",
+      "svg.simplified": "/SVG_for_Font/Household/broom.svg",
       "eps": "/EPS/Household/broom.eps",
       "png": {
         "32": "/PNG/32/Household/broom-32.png",
@@ -3715,6 +3739,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/bungalow.svg",
+      "svg.simplified": "/SVG_for_Font/Household/bungalow.svg",
       "eps": "/EPS/Household/bungalow.eps",
       "png": {
         "32": "/PNG/32/Household/bungalow-32.png",
@@ -4023,6 +4048,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/camo_cream.svg",
+      "svg.simplified": "/SVG_for_Font/Military/camo_cream.svg",
       "eps": "/EPS/Military/camo_cream.eps",
       "png": {
         "32": "/PNG/32/Military/camo_cream-32.png",
@@ -4223,6 +4249,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/cannon.svg",
+      "svg.simplified": "/SVG_for_Font/Military/cannon.svg",
       "eps": "/EPS/Military/cannon.eps",
       "png": {
         "32": "/PNG/32/Military/cannon-32.png",
@@ -4607,6 +4634,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/carousel.svg",
+      "svg.simplified": "/SVG_for_Font/City/carousel.svg",
       "eps": "/EPS/City/carousel.eps",
       "png": {
         "32": "/PNG/32/City/carousel-32.png",
@@ -4768,6 +4796,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/cathedral.svg",
+      "svg.simplified": "/SVG_for_Font/City/cathedral.svg",
       "eps": "/EPS/City/cathedral.eps",
       "png": {
         "32": "/PNG/32/City/cathedral-32.png",
@@ -4840,6 +4869,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/cemetery.svg",
+      "svg.simplified": "/SVG_for_Font/City/cemetery.svg",
       "eps": "/EPS/City/cemetery.eps",
       "png": {
         "32": "/PNG/32/City/cemetery-32.png",
@@ -5039,6 +5069,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/channel_mosaic.svg",
+      "svg.simplified": "/SVG_for_Font/Household/channel_mosaic.svg",
       "eps": "/EPS/Household/channel_mosaic.eps",
       "png": {
         "32": "/PNG/32/Household/channel_mosaic-32.png",
@@ -5085,6 +5116,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/chapel.svg",
+      "svg.simplified": "/SVG_for_Font/City/chapel.svg",
       "eps": "/EPS/City/chapel.eps",
       "png": {
         "32": "/PNG/32/City/chapel-32.png",
@@ -5628,6 +5660,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/city_church.svg",
+      "svg.simplified": "/SVG_for_Font/City/city_church.svg",
       "eps": "/EPS/City/city_church.eps",
       "png": {
         "32": "/PNG/32/City/city_church-32.png",
@@ -5673,6 +5706,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/city_hall.svg",
+      "svg.simplified": "/SVG_for_Font/City/city_hall.svg",
       "eps": "/EPS/City/city_hall.eps",
       "png": {
         "32": "/PNG/32/City/city_hall-32.png",
@@ -5984,6 +6018,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/cloakroom.svg",
+      "svg.simplified": "/SVG_for_Font/Household/cloakroom.svg",
       "eps": "/EPS/Household/cloakroom.eps",
       "png": {
         "32": "/PNG/32/Household/cloakroom-32.png",
@@ -6276,6 +6311,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/coffee_maker.svg",
+      "svg.simplified": "/SVG_for_Font/Household/coffee_maker.svg",
       "eps": "/EPS/Household/coffee_maker.eps",
       "png": {
         "32": "/PNG/32/Household/coffee_maker-32.png",
@@ -6460,6 +6496,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/commode.svg",
+      "svg.simplified": "/SVG_for_Font/Household/commode.svg",
       "eps": "/EPS/Household/commode.eps",
       "png": {
         "32": "/PNG/32/Household/commode-32.png",
@@ -6849,6 +6886,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/cottage.svg",
+      "svg.simplified": "/SVG_for_Font/Household/cottage.svg",
       "eps": "/EPS/Household/cottage.eps",
       "png": {
         "32": "/PNG/32/Household/cottage-32.png",
@@ -6915,6 +6953,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/cotton_candy.svg",
+      "svg.simplified": "/SVG_for_Font/City/cotton_candy.svg",
       "eps": "/EPS/City/cotton_candy.eps",
       "png": {
         "32": "/PNG/32/City/cotton_candy-32.png",
@@ -7209,6 +7248,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/crystal_ball.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/crystal_ball.svg",
       "eps": "/EPS/Astrology/crystal_ball.eps",
       "png": {
         "32": "/PNG/32/Astrology/crystal_ball-32.png",
@@ -7782,6 +7822,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/dining_room.svg",
+      "svg.simplified": "/SVG_for_Font/Household/dining_room.svg",
       "eps": "/EPS/Household/dining_room.eps",
       "png": {
         "32": "/PNG/32/Household/dining_room-32.png",
@@ -8696,6 +8737,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/earth_element.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/earth_element.svg",
       "eps": "/EPS/Astrology/earth_element.eps",
       "png": {
         "32": "/PNG/32/Astrology/earth_element-32.png",
@@ -8949,6 +8991,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/electric_teapot.svg",
+      "svg.simplified": "/SVG_for_Font/Household/electric_teapot.svg",
       "eps": "/EPS/Household/electric_teapot.eps",
       "png": {
         "32": "/PNG/32/Household/electric_teapot-32.png",
@@ -9101,6 +9144,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/embassy.svg",
+      "svg.simplified": "/SVG_for_Font/City/embassy.svg",
       "eps": "/EPS/City/embassy.eps",
       "png": {
         "32": "/PNG/32/City/embassy-32.png",
@@ -9519,6 +9563,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/explosion.svg",
+      "svg.simplified": "/SVG_for_Font/Military/explosion.svg",
       "eps": "/EPS/Military/explosion.eps",
       "png": {
         "32": "/PNG/32/Military/explosion-32.png",
@@ -9759,6 +9804,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/fan.svg",
+      "svg.simplified": "/SVG_for_Font/Household/fan.svg",
       "eps": "/EPS/Household/fan.eps",
       "png": {
         "32": "/PNG/32/Household/fan-32.png",
@@ -9982,6 +10028,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/ferris_wheel.svg",
+      "svg.simplified": "/SVG_for_Font/City/ferris_wheel.svg",
       "eps": "/EPS/City/ferris_wheel.eps",
       "png": {
         "32": "/PNG/32/City/ferris_wheel-32.png",
@@ -10414,6 +10461,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/fire_element.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/fire_element.svg",
       "eps": "/EPS/Astrology/fire_element.eps",
       "png": {
         "32": "/PNG/32/Astrology/fire_element-32.png",
@@ -10486,6 +10534,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/fire_hydrant.svg",
+      "svg.simplified": "/SVG_for_Font/City/fire_hydrant.svg",
       "eps": "/EPS/City/fire_hydrant.eps",
       "png": {
         "32": "/PNG/32/City/fire_hydrant-32.png",
@@ -10512,6 +10561,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/firing_gun.svg",
+      "svg.simplified": "/SVG_for_Font/Military/firing_gun.svg",
       "eps": "/EPS/Military/firing_gun.eps",
       "png": {
         "32": "/PNG/32/Military/firing_gun-32.png",
@@ -10684,6 +10734,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/flash_bang.svg",
+      "svg.simplified": "/SVG_for_Font/Military/flash_bang.svg",
       "eps": "/EPS/Military/flash_bang.eps",
       "png": {
         "32": "/PNG/32/Military/flash_bang-32.png",
@@ -10999,6 +11050,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/fortune_teller.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/fortune_teller.svg",
       "eps": "/EPS/Astrology/fortune_teller.eps",
       "png": {
         "32": "/PNG/32/Astrology/fortune_teller-32.png",
@@ -11070,6 +11122,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/fountain.svg",
+      "svg.simplified": "/SVG_for_Font/City/fountain.svg",
       "eps": "/EPS/City/fountain.eps",
       "png": {
         "32": "/PNG/32/City/fountain-32.png",
@@ -11377,7 +11430,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/garage.svg",
-      "svg.simplified": "/SVG_for_Font/Transport/garage.svg",
+      "svg.simplified": "/SVG_for_Font/Household/garage.svg",
       "eps": "/EPS/Household/garage.eps",
       "png": {
         "32": "/PNG/32/Household/garage-32.png",
@@ -11541,6 +11594,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/gas_station.svg",
+      "svg.simplified": "/SVG_for_Font/City/gas_station.svg",
       "eps": "/EPS/City/gas_station.eps",
       "png": {
         "32": "/PNG/32/City/gas_station-32.png",
@@ -11567,6 +11621,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/gatling_gun.svg",
+      "svg.simplified": "/SVG_for_Font/Military/gatling_gun.svg",
       "eps": "/EPS/Military/gatling_gun.eps",
       "png": {
         "32": "/PNG/32/Military/gatling_gun-32.png",
@@ -12550,6 +12605,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/gps_device.svg",
+      "svg.simplified": "/SVG_for_Font/City/gps_device.svg",
       "eps": "/EPS/City/gps_device.eps",
       "png": {
         "32": "/PNG/32/City/gps_device-32.png",
@@ -12748,6 +12804,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/grenade.svg",
+      "svg.simplified": "/SVG_for_Font/Military/grenade.svg",
       "eps": "/EPS/Military/grenade.eps",
       "png": {
         "32": "/PNG/32/Military/grenade-32.png",
@@ -12928,6 +12985,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/gun.svg",
+      "svg.simplified": "/SVG_for_Font/Military/gun.svg",
       "eps": "/EPS/Military/gun.eps",
       "png": {
         "32": "/PNG/32/Military/gun-32.png",
@@ -13238,6 +13296,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/hdtv.svg",
+      "svg.simplified": "/SVG_for_Font/Household/hdtv.svg",
       "eps": "/EPS/Household/hdtv.eps",
       "png": {
         "32": "/PNG/32/Household/hdtv-32.png",
@@ -13453,6 +13512,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/heating_room.svg",
+      "svg.simplified": "/SVG_for_Font/Household/heating_room.svg",
       "eps": "/EPS/Household/heating_room.eps",
       "png": {
         "32": "/PNG/32/Household/heating_room-32.png",
@@ -13479,6 +13539,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/helmet.svg",
+      "svg.simplified": "/SVG_for_Font/Military/helmet.svg",
       "eps": "/EPS/Military/helmet.eps",
       "png": {
         "32": "/PNG/32/Military/helmet-32.png",
@@ -13842,6 +13903,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/hospital.svg",
+      "svg.simplified": "/SVG_for_Font/City/hospital.svg",
       "eps": "/EPS/City/hospital.eps",
       "png": {
         "32": "/PNG/32/City/hospital-32.png",
@@ -13868,6 +13930,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/hospital2.svg",
+      "svg.simplified": "/SVG_for_Font/City/hospital2.svg",
       "eps": "/EPS/City/hospital2.eps",
       "png": {
         "32": "/PNG/32/City/hospital2-32.png",
@@ -13903,6 +13966,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/hotel.svg",
+      "svg.simplified": "/SVG_for_Font/City/hotel.svg",
       "eps": "/EPS/City/hotel.eps",
       "png": {
         "32": "/PNG/32/City/hotel-32.png",
@@ -13956,6 +14020,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/hot_tube.svg",
+      "svg.simplified": "/SVG_for_Font/Household/hot_tube.svg",
       "eps": "/EPS/Household/hot_tube.eps",
       "png": {
         "32": "/PNG/32/Household/hot_tube-32.png",
@@ -14200,6 +14265,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/incendiary_grenade.svg",
+      "svg.simplified": "/SVG_for_Font/Military/incendiary_grenade.svg",
       "eps": "/EPS/Military/incendiary_grenade.eps",
       "png": {
         "32": "/PNG/32/Military/incendiary_grenade-32.png",
@@ -14725,6 +14791,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/iron.svg",
+      "svg.simplified": "/SVG_for_Font/Household/iron.svg",
       "eps": "/EPS/Household/iron.eps",
       "png": {
         "32": "/PNG/32/Household/iron-32.png",
@@ -14805,6 +14872,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/jacuzzi.svg",
+      "svg.simplified": "/SVG_for_Font/Household/jacuzzi.svg",
       "eps": "/EPS/Household/jacuzzi.eps",
       "png": {
         "32": "/PNG/32/Household/jacuzzi-32.png",
@@ -15261,6 +15329,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/kitchen.svg",
+      "svg.simplified": "/SVG_for_Font/Household/kitchen.svg",
       "eps": "/EPS/Household/kitchen.eps",
       "png": {
         "32": "/PNG/32/Household/kitchen-32.png",
@@ -15287,6 +15356,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/knife_military.svg",
+      "svg.simplified": "/SVG_for_Font/Military/knife_military.svg",
       "eps": "/EPS/Military/knife_military.eps",
       "png": {
         "32": "/PNG/32/Military/knife_military-32.png",
@@ -15367,6 +15437,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/lamp.svg",
+      "svg.simplified": "/SVG_for_Font/Household/lamp.svg",
       "eps": "/EPS/Household/lamp.eps",
       "png": {
         "32": "/PNG/32/Household/lamp-32.png",
@@ -16460,6 +16531,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/living_room.svg",
+      "svg.simplified": "/SVG_for_Font/Household/living_room.svg",
       "eps": "/EPS/Household/living_room.eps",
       "png": {
         "32": "/PNG/32/Household/living_room-32.png",
@@ -16613,6 +16685,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/log_cabin.svg",
+      "svg.simplified": "/SVG_for_Font/Household/log_cabin.svg",
       "eps": "/EPS/Household/log_cabin.eps",
       "png": {
         "32": "/PNG/32/Household/log_cabin-32.png",
@@ -16827,6 +16900,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/luggage_trolley.svg",
+      "svg.simplified": "/SVG_for_Font/Household/luggage_trolley.svg",
       "eps": "/EPS/Household/luggage_trolley.eps",
       "png": {
         "32": "/PNG/32/Household/luggage_trolley-32.png",
@@ -17179,6 +17253,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/marine_radio.svg",
+      "svg.simplified": "/SVG_for_Font/Military/marine_radio.svg",
       "eps": "/EPS/Military/marine_radio.eps",
       "png": {
         "32": "/PNG/32/Military/marine_radio-32.png",
@@ -17314,6 +17389,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/medal.svg",
+      "svg.simplified": "/SVG_for_Font/Military/medal.svg",
       "eps": "/EPS/Military/medal.eps",
       "png": {
         "32": "/PNG/32/Military/medal-32.png",
@@ -17968,6 +18044,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/military_backpack_radio.svg",
+      "svg.simplified": "/SVG_for_Font/Military/military_backpack_radio.svg",
       "eps": "/EPS/Military/military_backpack_radio.eps",
       "png": {
         "32": "/PNG/32/Military/military_backpack_radio-32.png",
@@ -18060,6 +18137,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/missile.svg",
+      "svg.simplified": "/SVG_for_Font/Military/missile.svg",
       "eps": "/EPS/Military/missile.eps",
       "png": {
         "32": "/PNG/32/Military/missile-32.png",
@@ -18223,6 +18301,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/mixer.svg",
+      "svg.simplified": "/SVG_for_Font/Household/mixer.svg",
       "eps": "/EPS/Household/mixer.eps",
       "png": {
         "32": "/PNG/32/Household/mixer-32.png",
@@ -18276,6 +18355,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/mobile_home.svg",
+      "svg.simplified": "/SVG_for_Font/Household/mobile_home.svg",
       "eps": "/EPS/Household/mobile_home.eps",
       "png": {
         "32": "/PNG/32/Household/mobile_home-32.png",
@@ -18323,6 +18403,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/monastery.svg",
+      "svg.simplified": "/SVG_for_Font/City/monastery.svg",
       "eps": "/EPS/City/monastery.eps",
       "png": {
         "32": "/PNG/32/City/monastery-32.png",
@@ -18437,6 +18518,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/monument.svg",
+      "svg.simplified": "/SVG_for_Font/City/monument.svg",
       "eps": "/EPS/City/monument.eps",
       "png": {
         "32": "/PNG/32/City/monument-32.png",
@@ -18491,6 +18573,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/mortar.svg",
+      "svg.simplified": "/SVG_for_Font/Military/mortar.svg",
       "eps": "/EPS/Military/mortar.eps",
       "png": {
         "32": "/PNG/32/Military/mortar-32.png",
@@ -18732,6 +18815,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/mouse_trap.svg",
+      "svg.simplified": "/SVG_for_Font/Household/mouse_trap.svg",
       "eps": "/EPS/Household/mouse_trap.eps",
       "png": {
         "32": "/PNG/32/Household/mouse_trap-32.png",
@@ -18811,6 +18895,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/mouse_trap_mouse.svg",
+      "svg.simplified": "/SVG_for_Font/Household/mouse_trap_mouse.svg",
       "eps": "/EPS/Household/mouse_trap_mouse.eps",
       "png": {
         "32": "/PNG/32/Household/mouse_trap_mouse-32.png",
@@ -18950,6 +19035,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/mushroom_cloud.svg",
+      "svg.simplified": "/SVG_for_Font/Military/mushroom_cloud.svg",
       "eps": "/EPS/Military/mushroom_cloud.eps",
       "png": {
         "32": "/PNG/32/Military/mushroom_cloud-32.png",
@@ -19436,6 +19522,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/nightvision.svg",
+      "svg.simplified": "/SVG_for_Font/Military/nightvision.svg",
       "eps": "/EPS/Military/nightvision.eps",
       "png": {
         "32": "/PNG/32/Military/nightvision-32.png",
@@ -19881,6 +19968,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/obelisk.svg",
+      "svg.simplified": "/SVG_for_Font/City/obelisk.svg",
       "eps": "/EPS/City/obelisk.eps",
       "png": {
         "32": "/PNG/32/City/obelisk-32.png",
@@ -20215,6 +20303,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/pagoda.svg",
+      "svg.simplified": "/SVG_for_Font/City/pagoda.svg",
       "eps": "/EPS/City/pagoda.eps",
       "png": {
         "32": "/PNG/32/City/pagoda-32.png",
@@ -20403,6 +20492,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/park_bench.svg",
+      "svg.simplified": "/SVG_for_Font/City/park_bench.svg",
       "eps": "/EPS/City/park_bench.eps",
       "png": {
         "32": "/PNG/32/City/park_bench-32.png",
@@ -20447,6 +20537,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/parliament.svg",
+      "svg.simplified": "/SVG_for_Font/City/parliament.svg",
       "eps": "/EPS/City/parliament.eps",
       "png": {
         "32": "/PNG/32/City/parliament-32.png",
@@ -22507,6 +22598,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/railway_station.svg",
+      "svg.simplified": "/SVG_for_Font/City/railway_station.svg",
       "eps": "/EPS/City/railway_station.eps",
       "png": {
         "32": "/PNG/32/City/railway_station-32.png",
@@ -23157,6 +23249,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/restaurant.svg",
+      "svg.simplified": "/SVG_for_Font/City/restaurant.svg",
       "eps": "/EPS/City/restaurant.eps",
       "png": {
         "32": "/PNG/32/City/restaurant-32.png",
@@ -23252,6 +23345,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Shopping/return_purchase.svg",
+      "svg.simplified": "/SVG_for_Font/Shopping/return_purchase.svg",
       "eps": "/EPS/Shopping/return_purchase.eps",
       "png": {
         "32": "/PNG/32/Shopping/return_purchase-32.png",
@@ -23389,6 +23483,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/rifle.svg",
+      "svg.simplified": "/SVG_for_Font/Military/rifle.svg",
       "eps": "/EPS/Military/rifle.eps",
       "png": {
         "32": "/PNG/32/Military/rifle-32.png",
@@ -23415,6 +23510,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/rifle_magazine.svg",
+      "svg.simplified": "/SVG_for_Font/Military/rifle_magazine.svg",
       "eps": "/EPS/Military/rifle_magazine.eps",
       "png": {
         "32": "/PNG/32/Military/rifle_magazine-32.png",
@@ -23705,6 +23801,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/roller_coaster.svg",
+      "svg.simplified": "/SVG_for_Font/City/roller_coaster.svg",
       "eps": "/EPS/City/roller_coaster.eps",
       "png": {
         "32": "/PNG/32/City/roller_coaster-32.png",
@@ -23767,6 +23864,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/room.svg",
+      "svg.simplified": "/SVG_for_Font/Household/room.svg",
       "eps": "/EPS/Household/room.eps",
       "png": {
         "32": "/PNG/32/Household/room-32.png",
@@ -24034,6 +24132,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/rpg.svg",
+      "svg.simplified": "/SVG_for_Font/Military/rpg.svg",
       "eps": "/EPS/Military/rpg.eps",
       "png": {
         "32": "/PNG/32/Military/rpg-32.png",
@@ -24060,6 +24159,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/rucksack.svg",
+      "svg.simplified": "/SVG_for_Font/Military/rucksack.svg",
       "eps": "/EPS/Military/rucksack.eps",
       "png": {
         "32": "/PNG/32/Military/rucksack-32.png",
@@ -24915,6 +25015,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/sdtv.svg",
+      "svg.simplified": "/SVG_for_Font/Household/sdtv.svg",
       "eps": "/EPS/Household/sdtv.eps",
       "png": {
         "32": "/PNG/32/Household/sdtv-32.png",
@@ -25005,6 +25106,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/self_distract_button.svg",
+      "svg.simplified": "/SVG_for_Font/Military/self_distract_button.svg",
       "eps": "/EPS/Military/self_distract_button.eps",
       "png": {
         "32": "/PNG/32/Military/self_distract_button-32.png",
@@ -26127,6 +26229,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/skeeball.svg",
+      "svg.simplified": "/SVG_for_Font/City/skeeball.svg",
       "eps": "/EPS/City/skeeball.eps",
       "png": {
         "32": "/PNG/32/City/skeeball-32.png",
@@ -26404,6 +26507,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/sleeping_room.svg",
+      "svg.simplified": "/SVG_for_Font/Household/sleeping_room.svg",
       "eps": "/EPS/Household/sleeping_room.eps",
       "png": {
         "32": "/PNG/32/Household/sleeping_room-32.png",
@@ -26605,6 +26709,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/smoke_explosion.svg",
+      "svg.simplified": "/SVG_for_Font/Military/smoke_explosion.svg",
       "eps": "/EPS/Military/smoke_explosion.eps",
       "png": {
         "32": "/PNG/32/Military/smoke_explosion-32.png",
@@ -26685,6 +26790,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/sniper_rifle.svg",
+      "svg.simplified": "/SVG_for_Font/Military/sniper_rifle.svg",
       "eps": "/EPS/Military/sniper_rifle.eps",
       "png": {
         "32": "/PNG/32/Military/sniper_rifle-32.png",
@@ -26819,6 +26925,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/sofa.svg",
+      "svg.simplified": "/SVG_for_Font/Household/sofa.svg",
       "eps": "/EPS/Household/sofa.eps",
       "png": {
         "32": "/PNG/32/Household/sofa-32.png",
@@ -27245,6 +27352,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/spring.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/spring.svg",
       "eps": "/EPS/Astrology/spring.eps",
       "png": {
         "32": "/PNG/32/Astrology/spring-32.png",
@@ -27378,6 +27486,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/stadium.svg",
+      "svg.simplified": "/SVG_for_Font/City/stadium.svg",
       "eps": "/EPS/City/stadium.eps",
       "png": {
         "32": "/PNG/32/City/stadium-32.png",
@@ -27404,6 +27513,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/stairs.svg",
+      "svg.simplified": "/SVG_for_Font/Household/stairs.svg",
       "eps": "/EPS/Household/stairs.eps",
       "png": {
         "32": "/PNG/32/Household/stairs-32.png",
@@ -27430,6 +27540,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/stairs_down.svg",
+      "svg.simplified": "/SVG_for_Font/Household/stairs_down.svg",
       "eps": "/EPS/Household/stairs_down.eps",
       "png": {
         "32": "/PNG/32/Household/stairs_down-32.png",
@@ -27456,6 +27567,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/stairs_up.svg",
+      "svg.simplified": "/SVG_for_Font/Household/stairs_up.svg",
       "eps": "/EPS/Household/stairs_up.eps",
       "png": {
         "32": "/PNG/32/Household/stairs_up-32.png",
@@ -27970,6 +28082,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/summer.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/summer.svg",
       "eps": "/EPS/Astrology/summer.eps",
       "png": {
         "32": "/PNG/32/Astrology/summer-32.png",
@@ -28359,6 +28472,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/synagogue.svg",
+      "svg.simplified": "/SVG_for_Font/City/synagogue.svg",
       "eps": "/EPS/City/synagogue.eps",
       "png": {
         "32": "/PNG/32/City/synagogue-32.png",
@@ -28439,6 +28553,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/table.svg",
+      "svg.simplified": "/SVG_for_Font/Household/table.svg",
       "eps": "/EPS/Household/table.eps",
       "png": {
         "32": "/PNG/32/Household/table-32.png",
@@ -28465,6 +28580,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/tabletop_radio.svg",
+      "svg.simplified": "/SVG_for_Font/Household/tabletop_radio.svg",
       "eps": "/EPS/Household/tabletop_radio.eps",
       "png": {
         "32": "/PNG/32/Household/tabletop_radio-32.png",
@@ -28748,6 +28864,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/tent.svg",
+      "svg.simplified": "/SVG_for_Font/Military/tent.svg",
       "eps": "/EPS/Military/tent.eps",
       "png": {
         "32": "/PNG/32/Military/tent-32.png",
@@ -30790,6 +30907,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/toilet.svg",
+      "svg.simplified": "/SVG_for_Font/Household/toilet.svg",
       "eps": "/EPS/Household/toilet.eps",
       "png": {
         "32": "/PNG/32/Household/toilet-32.png",
@@ -30863,6 +30981,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/toilet_pan.svg",
+      "svg.simplified": "/SVG_for_Font/Household/toilet_pan.svg",
       "eps": "/EPS/Household/toilet_pan.eps",
       "png": {
         "32": "/PNG/32/Household/toilet_pan-32.png",
@@ -31008,6 +31127,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/towel.svg",
+      "svg.simplified": "/SVG_for_Font/Household/towel.svg",
       "eps": "/EPS/Household/towel.eps",
       "png": {
         "32": "/PNG/32/Household/towel-32.png",
@@ -31909,6 +32029,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/tv.svg",
+      "svg.simplified": "/SVG_for_Font/Household/tv.svg",
       "eps": "/EPS/Household/tv.eps",
       "png": {
         "32": "/PNG/32/Household/tv-32.png",
@@ -32885,6 +33006,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/walkie_talkie_radio.svg",
+      "svg.simplified": "/SVG_for_Font/Military/walkie_talkie_radio.svg",
       "eps": "/EPS/Military/walkie_talkie_radio.eps",
       "png": {
         "32": "/PNG/32/Military/walkie_talkie_radio-32.png",
@@ -33143,6 +33265,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/wardrobe.svg",
+      "svg.simplified": "/SVG_for_Font/Household/wardrobe.svg",
       "eps": "/EPS/Household/wardrobe.eps",
       "png": {
         "32": "/PNG/32/Household/wardrobe-32.png",
@@ -33169,6 +33292,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/washing_machine.svg",
+      "svg.simplified": "/SVG_for_Font/Household/washing_machine.svg",
       "eps": "/EPS/Household/washing_machine.eps",
       "png": {
         "32": "/PNG/32/Household/washing_machine-32.png",
@@ -33274,6 +33398,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/water_element.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/water_element.svg",
       "eps": "/EPS/Astrology/water_element.eps",
       "png": {
         "32": "/PNG/32/Astrology/water_element-32.png",
@@ -33320,6 +33445,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/water_park.svg",
+      "svg.simplified": "/SVG_for_Font/City/water_park.svg",
       "eps": "/EPS/City/water_park.eps",
       "png": {
         "32": "/PNG/32/City/water_park-32.png",
@@ -33524,6 +33650,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Military/webbing.svg",
+      "svg.simplified": "/SVG_for_Font/Military/webbing.svg",
       "eps": "/EPS/Military/webbing.eps",
       "png": {
         "32": "/PNG/32/Military/webbing-32.png",
@@ -33847,6 +33974,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/widescreen_tv.svg",
+      "svg.simplified": "/SVG_for_Font/Household/widescreen_tv.svg",
       "eps": "/EPS/Household/widescreen_tv.eps",
       "png": {
         "32": "/PNG/32/Household/widescreen_tv-32.png",
@@ -34059,6 +34187,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/winter.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/winter.svg",
       "eps": "/EPS/Astrology/winter.eps",
       "png": {
         "32": "/PNG/32/Astrology/winter-32.png",
@@ -34482,6 +34611,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_dog.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_dog.svg",
       "eps": "/EPS/Astrology/year_of_dog.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_dog-32.png",
@@ -34508,6 +34638,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_dragon.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_dragon.svg",
       "eps": "/EPS/Astrology/year_of_dragon.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_dragon-32.png",
@@ -34534,6 +34665,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_goat.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_goat.svg",
       "eps": "/EPS/Astrology/year_of_goat.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_goat-32.png",
@@ -34560,6 +34692,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_horse.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_horse.svg",
       "eps": "/EPS/Astrology/year_of_horse.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_horse-32.png",
@@ -34586,6 +34719,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_monkey.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_monkey.svg",
       "eps": "/EPS/Astrology/year_of_monkey.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_monkey-32.png",
@@ -34612,6 +34746,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_ox.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_ox.svg",
       "eps": "/EPS/Astrology/year_of_ox.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_ox-32.png",
@@ -34638,6 +34773,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_pig.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_pig.svg",
       "eps": "/EPS/Astrology/year_of_pig.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_pig-32.png",
@@ -34664,6 +34800,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_rabbit.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_rabbit.svg",
       "eps": "/EPS/Astrology/year_of_rabbit.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_rabbit-32.png",
@@ -34690,6 +34827,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_rat.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_rat.svg",
       "eps": "/EPS/Astrology/year_of_rat.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_rat-32.png",
@@ -34716,6 +34854,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_rooster.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_rooster.svg",
       "eps": "/EPS/Astrology/year_of_rooster.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_rooster-32.png",
@@ -34742,6 +34881,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_snake.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_snake.svg",
       "eps": "/EPS/Astrology/year_of_snake.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_snake-32.png",
@@ -34768,6 +34908,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_tiger.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_tiger.svg",
       "eps": "/EPS/Astrology/year_of_tiger.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_tiger-32.png",

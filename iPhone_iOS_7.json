@@ -1921,7 +1921,6 @@
       "symbol",
       "past",
       "history",
-      "religion",
       "egypt",
       "egypt culture",
       "egypt history",
@@ -1935,7 +1934,8 @@
       "fantasy",
       "mythology",
       "ancient",
-      "anubis"
+      "anubis",
+      "religion"
     ],
     "copyright": false,
     "files": {
@@ -4771,6 +4771,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/big_ben.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/big_ben.svg",
       "eps": "/EPS/Travel/big_ben.eps",
       "png": {
         "25": "/PNG/25/Travel/big_ben-25.png",
@@ -11342,6 +11343,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/coliseum.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/coliseum.svg",
       "eps": "/EPS/Travel/coliseum.eps",
       "png": {
         "25": "/PNG/25/Travel/coliseum-25.png",
@@ -16201,6 +16203,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Very_Basic/download_from_cloud.svg",
+      "svg.simplified": "/SVG_for_Font/Very_Basic/download_from_cloud.svg",
       "eps": "/EPS/Very_Basic/download_from_cloud.eps",
       "png": {
         "25": "/PNG/25/Very_Basic/download_from_cloud-25.png",
@@ -16226,6 +16229,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Very_Basic/download_from_cloud_filled.svg",
+      "svg.simplified": "/SVG_for_Font/Very_Basic/download_from_cloud_filled.svg",
       "eps": "/EPS/Very_Basic/download_from_cloud_filled.eps",
       "png": {
         "25": "/PNG/25/Very_Basic/download_from_cloud_filled-25.png",
@@ -17621,6 +17625,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/eiffel_tower.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/eiffel_tower.svg",
       "eps": "/EPS/Travel/eiffel_tower.eps",
       "png": {
         "25": "/PNG/25/Travel/eiffel_tower-25.png",
@@ -17752,6 +17757,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Very_Basic/electric_megaphone.svg",
+      "svg.simplified": "/SVG_for_Font/Very_Basic/electric_megaphone.svg",
       "eps": "/EPS/Very_Basic/electric_megaphone.eps",
       "png": {
         "25": "/PNG/25/Very_Basic/electric_megaphone-25.png",
@@ -17777,6 +17783,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Very_Basic/electric_megaphone_filled.svg",
+      "svg.simplified": "/SVG_for_Font/Very_Basic/electric_megaphone_filled.svg",
       "eps": "/EPS/Very_Basic/electric_megaphone_filled.eps",
       "png": {
         "25": "/PNG/25/Very_Basic/electric_megaphone_filled-25.png",
@@ -46993,6 +47000,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Very_Basic/settings_wrench.svg",
+      "svg.simplified": "/SVG_for_Font/Very_Basic/settings_wrench.svg",
       "eps": "/EPS/Very_Basic/settings_wrench.eps",
       "png": {
         "25": "/PNG/25/Very_Basic/settings_wrench-25.png",
@@ -47018,6 +47026,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Very_Basic/settings_wrench_filled.svg",
+      "svg.simplified": "/SVG_for_Font/Very_Basic/settings_wrench_filled.svg",
       "eps": "/EPS/Very_Basic/settings_wrench_filled.eps",
       "png": {
         "25": "/PNG/25/Very_Basic/settings_wrench_filled-25.png",
@@ -50983,6 +50992,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/statue_of_liberty.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/statue_of_liberty.svg",
       "eps": "/EPS/Travel/statue_of_liberty.eps",
       "png": {
         "25": "/PNG/25/Travel/statue_of_liberty-25.png",
@@ -53029,6 +53039,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/taj_mahal.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/taj_mahal.svg",
       "eps": "/EPS/Travel/taj_mahal.eps",
       "png": {
         "25": "/PNG/25/Travel/taj_mahal-25.png",
@@ -58459,6 +58470,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Very_Basic/upload_to_cloud.svg",
+      "svg.simplified": "/SVG_for_Font/Very_Basic/upload_to_cloud.svg",
       "eps": "/EPS/Very_Basic/upload_to_cloud.eps",
       "png": {
         "25": "/PNG/25/Very_Basic/upload_to_cloud-25.png",
@@ -58484,6 +58496,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Very_Basic/upload_to_cloud_filled.svg",
+      "svg.simplified": "/SVG_for_Font/Very_Basic/upload_to_cloud_filled.svg",
       "eps": "/EPS/Very_Basic/upload_to_cloud_filled.eps",
       "png": {
         "25": "/PNG/25/Very_Basic/upload_to_cloud_filled-25.png",
@@ -58895,6 +58908,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/us_capitol.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/us_capitol.svg",
       "eps": "/EPS/Travel/us_capitol.eps",
       "png": {
         "25": "/PNG/25/Travel/us_capitol-25.png",
