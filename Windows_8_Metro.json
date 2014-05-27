@@ -2491,6 +2491,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Editing/align_center.svg",
+      "svg.simplified": "/SVG_for_Font/Editing/align_center.svg",
       "eps": "/EPS/Editing/align_center.eps",
       "png": {
         "32": "/PNG/32/Editing/align_center-32.png",
@@ -2514,6 +2515,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Editing/align_justify.svg",
+      "svg.simplified": "/SVG_for_Font/Editing/align_justify.svg",
       "eps": "/EPS/Editing/align_justify.eps",
       "png": {
         "32": "/PNG/32/Editing/align_justify-32.png",
@@ -2537,6 +2539,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Editing/align_left.svg",
+      "svg.simplified": "/SVG_for_Font/Editing/align_left.svg",
       "eps": "/EPS/Editing/align_left.eps",
       "png": {
         "32": "/PNG/32/Editing/align_left-32.png",
@@ -2560,6 +2563,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Editing/align_right.svg",
+      "svg.simplified": "/SVG_for_Font/Editing/align_right.svg",
       "eps": "/EPS/Editing/align_right.eps",
       "png": {
         "32": "/PNG/32/Editing/align_right-32.png",
@@ -3814,6 +3818,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/arena.svg",
+      "svg.simplified": "/SVG_for_Font/City/arena.svg",
       "eps": "/EPS/City/arena.eps",
       "png": {
         "32": "/PNG/32/City/arena-32.png",
@@ -5920,6 +5925,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/basilica.svg",
+      "svg.simplified": "/SVG_for_Font/City/basilica.svg",
       "eps": "/EPS/City/basilica.eps",
       "png": {
         "32": "/PNG/32/City/basilica-32.png",
@@ -6891,6 +6897,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/bench.svg",
+      "svg.simplified": "/SVG_for_Font/City/bench.svg",
       "eps": "/EPS/City/bench.eps",
       "png": {
         "32": "/PNG/32/City/bench-32.png",
@@ -7155,6 +7162,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/big_ben.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/big_ben.svg",
       "eps": "/EPS/Travel/big_ben.eps",
       "png": {
         "32": "/PNG/32/Travel/big_ben-32.png",
@@ -9135,6 +9143,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/bumblebee.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/bumblebee.svg",
       "eps": "/EPS/Animals/bumblebee.eps",
       "png": {
         "32": "/PNG/32/Animals/bumblebee-32.png",
@@ -11443,6 +11452,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/cathedral.svg",
+      "svg.simplified": "/SVG_for_Font/City/cathedral.svg",
       "eps": "/EPS/City/cathedral.eps",
       "png": {
         "32": "/PNG/32/City/cathedral-32.png",
@@ -11634,6 +11644,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/cemetery.svg",
+      "svg.simplified": "/SVG_for_Font/City/cemetery.svg",
       "eps": "/EPS/City/cemetery.eps",
       "png": {
         "32": "/PNG/32/City/cemetery-32.png",
@@ -12098,6 +12109,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/chapel.svg",
+      "svg.simplified": "/SVG_for_Font/City/chapel.svg",
       "eps": "/EPS/City/chapel.eps",
       "png": {
         "32": "/PNG/32/City/chapel-32.png",
@@ -13549,6 +13561,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/city_hall.svg",
+      "svg.simplified": "/SVG_for_Font/City/city_hall.svg",
       "eps": "/EPS/City/city_hall.eps",
       "png": {
         "32": "/PNG/32/City/city_hall-32.png",
@@ -14973,6 +14986,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/coliseum.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/coliseum.svg",
       "eps": "/EPS/Travel/coliseum.eps",
       "png": {
         "32": "/PNG/32/Travel/coliseum-32.png",
@@ -20045,6 +20059,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/dog.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/dog.svg",
       "eps": "/EPS/Animals/dog.eps",
       "png": {
         "32": "/PNG/32/Animals/dog-32.png",
@@ -22233,6 +22248,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/eiffel_tower.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/eiffel_tower.svg",
       "eps": "/EPS/Travel/eiffel_tower.eps",
       "png": {
         "32": "/PNG/32/Travel/eiffel_tower-32.png",
@@ -22690,6 +22706,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/embassy.svg",
+      "svg.simplified": "/SVG_for_Font/City/embassy.svg",
       "eps": "/EPS/City/embassy.eps",
       "png": {
         "32": "/PNG/32/City/embassy-32.png",
@@ -26554,6 +26571,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/fountain.svg",
+      "svg.simplified": "/SVG_for_Font/City/fountain.svg",
       "eps": "/EPS/City/fountain.eps",
       "png": {
         "32": "/PNG/32/City/fountain-32.png",
@@ -35777,7 +35795,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/knife.svg",
-      "svg.simplified": "/SVG_for_Font/Military/knife.svg",
+      "svg.simplified": "/SVG_for_Font/Food/knife.svg",
       "eps": "/EPS/Food/knife.eps",
       "png": {
         "32": "/PNG/32/Food/knife-32.png",
@@ -39077,6 +39095,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/maple_leaf.svg",
+      "svg.simplified": "/SVG_for_Font/Plants/maple_leaf.svg",
       "eps": "/EPS/Plants/maple_leaf.eps",
       "png": {
         "32": "/PNG/32/Plants/maple_leaf-32.png",
@@ -41490,6 +41509,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/monastery.svg",
+      "svg.simplified": "/SVG_for_Font/City/monastery.svg",
       "eps": "/EPS/City/monastery.eps",
       "png": {
         "32": "/PNG/32/City/monastery-32.png",
@@ -41690,6 +41710,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/monument.svg",
+      "svg.simplified": "/SVG_for_Font/City/monument.svg",
       "eps": "/EPS/City/monument.eps",
       "png": {
         "32": "/PNG/32/City/monument-32.png",
@@ -45236,6 +45257,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Plants/oak_leaf.svg",
+      "svg.simplified": "/SVG_for_Font/Plants/oak_leaf.svg",
       "eps": "/EPS/Plants/oak_leaf.eps",
       "png": {
         "32": "/PNG/32/Plants/oak_leaf-32.png",
@@ -45268,6 +45290,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/obelisk.svg",
+      "svg.simplified": "/SVG_for_Font/City/obelisk.svg",
       "eps": "/EPS/City/obelisk.eps",
       "png": {
         "32": "/PNG/32/City/obelisk-32.png",
@@ -46819,6 +46842,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/pagoda.svg",
+      "svg.simplified": "/SVG_for_Font/City/pagoda.svg",
       "eps": "/EPS/City/pagoda.eps",
       "png": {
         "32": "/PNG/32/City/pagoda-32.png",
@@ -47259,6 +47283,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/parliament.svg",
+      "svg.simplified": "/SVG_for_Font/City/parliament.svg",
       "eps": "/EPS/City/parliament.eps",
       "png": {
         "32": "/PNG/32/City/parliament-32.png",
@@ -62362,6 +62387,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/statue_of_liberty.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/statue_of_liberty.svg",
       "eps": "/EPS/Travel/statue_of_liberty.eps",
       "png": {
         "32": "/PNG/32/Travel/statue_of_liberty-32.png",
@@ -64230,6 +64256,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/synagogue.svg",
+      "svg.simplified": "/SVG_for_Font/City/synagogue.svg",
       "eps": "/EPS/City/synagogue.eps",
       "png": {
         "32": "/PNG/32/City/synagogue-32.png",
@@ -64728,6 +64755,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/taj_mahal.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/taj_mahal.svg",
       "eps": "/EPS/Travel/taj_mahal.eps",
       "png": {
         "32": "/PNG/32/Travel/taj_mahal-32.png",
@@ -70931,6 +70959,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/us_capitol.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/us_capitol.svg",
       "eps": "/EPS/Travel/us_capitol.eps",
       "png": {
         "32": "/PNG/32/Travel/us_capitol-32.png",
@@ -76383,6 +76412,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_dog.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_dog.svg",
       "eps": "/EPS/Astrology/year_of_dog.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_dog-32.png",
@@ -76406,6 +76436,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_dragon.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_dragon.svg",
       "eps": "/EPS/Astrology/year_of_dragon.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_dragon-32.png",
@@ -76429,6 +76460,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_goat.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_goat.svg",
       "eps": "/EPS/Astrology/year_of_goat.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_goat-32.png",
@@ -76452,6 +76484,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_horse.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_horse.svg",
       "eps": "/EPS/Astrology/year_of_horse.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_horse-32.png",
@@ -76475,6 +76508,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_monkey.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_monkey.svg",
       "eps": "/EPS/Astrology/year_of_monkey.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_monkey-32.png",
@@ -76498,6 +76532,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_ox.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_ox.svg",
       "eps": "/EPS/Astrology/year_of_ox.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_ox-32.png",
@@ -76521,6 +76556,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_pig.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_pig.svg",
       "eps": "/EPS/Astrology/year_of_pig.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_pig-32.png",
@@ -76544,6 +76580,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_rabbit.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_rabbit.svg",
       "eps": "/EPS/Astrology/year_of_rabbit.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_rabbit-32.png",
@@ -76567,6 +76604,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_rat.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_rat.svg",
       "eps": "/EPS/Astrology/year_of_rat.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_rat-32.png",
@@ -76590,6 +76628,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_rooster.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_rooster.svg",
       "eps": "/EPS/Astrology/year_of_rooster.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_rooster-32.png",
@@ -76613,6 +76652,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_snake.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_snake.svg",
       "eps": "/EPS/Astrology/year_of_snake.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_snake-32.png",
@@ -76636,6 +76676,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_tiger.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_tiger.svg",
       "eps": "/EPS/Astrology/year_of_tiger.eps",
       "png": {
         "32": "/PNG/32/Astrology/year_of_tiger-32.png",

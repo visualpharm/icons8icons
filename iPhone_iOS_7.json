@@ -2240,6 +2240,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/arena.svg",
+      "svg.simplified": "/SVG_for_Font/City/arena.svg",
       "eps": "/EPS/City/arena.eps",
       "png": {
         "25": "/PNG/25/City/arena-25.png",
@@ -2821,6 +2822,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Ecommerce/average_price.svg",
+      "svg.simplified": "/SVG_for_Font/Ecommerce/average_price.svg",
       "eps": "/EPS/Ecommerce/average_price.eps",
       "png": {
         "25": "/PNG/25/Ecommerce/average_price-25.png",
@@ -3752,6 +3754,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/basilica.svg",
+      "svg.simplified": "/SVG_for_Font/City/basilica.svg",
       "eps": "/EPS/City/basilica.eps",
       "png": {
         "25": "/PNG/25/City/basilica-25.png",
@@ -4595,6 +4598,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/bench.svg",
+      "svg.simplified": "/SVG_for_Font/City/bench.svg",
       "eps": "/EPS/City/bench.eps",
       "png": {
         "25": "/PNG/25/City/bench-25.png",
@@ -7799,6 +7803,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Ecommerce/cardboard_box.svg",
+      "svg.simplified": "/SVG_for_Font/Ecommerce/cardboard_box.svg",
       "eps": "/EPS/Ecommerce/cardboard_box.eps",
       "png": {
         "25": "/PNG/25/Ecommerce/cardboard_box-25.png",
@@ -8298,6 +8303,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/cathedral.svg",
+      "svg.simplified": "/SVG_for_Font/City/cathedral.svg",
       "eps": "/EPS/City/cathedral.eps",
       "png": {
         "25": "/PNG/25/City/cathedral-25.png",
@@ -8414,6 +8420,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/cemetery.svg",
+      "svg.simplified": "/SVG_for_Font/City/cemetery.svg",
       "eps": "/EPS/City/cemetery.eps",
       "png": {
         "25": "/PNG/25/City/cemetery-25.png",
@@ -8573,6 +8580,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/chainsaw.svg",
+      "svg.simplified": "/SVG_for_Font/Household/chainsaw.svg",
       "eps": "/EPS/Household/chainsaw.eps",
       "png": {
         "25": "/PNG/25/Household/chainsaw-25.png",
@@ -8793,6 +8801,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/chapel.svg",
+      "svg.simplified": "/SVG_for_Font/City/chapel.svg",
       "eps": "/EPS/City/chapel.eps",
       "png": {
         "25": "/PNG/25/City/chapel-25.png",
@@ -10015,6 +10024,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/city_hall.svg",
+      "svg.simplified": "/SVG_for_Font/City/city_hall.svg",
       "eps": "/EPS/City/city_hall.eps",
       "png": {
         "25": "/PNG/25/City/city_hall-25.png",
@@ -16621,7 +16631,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Editing/drafting_compass.svg",
-      "svg.simplified": "/SVG_for_Font/Office/drafting_compass.svg",
+      "svg.simplified": "/SVG_for_Font/Editing/drafting_compass.svg",
       "eps": "/EPS/Editing/drafting_compass.eps",
       "png": {
         "25": "/PNG/25/Editing/drafting_compass-25.png",
@@ -18026,6 +18036,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/embassy.svg",
+      "svg.simplified": "/SVG_for_Font/City/embassy.svg",
       "eps": "/EPS/City/embassy.eps",
       "png": {
         "25": "/PNG/25/City/embassy-25.png",
@@ -21500,6 +21511,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/fountain.svg",
+      "svg.simplified": "/SVG_for_Font/City/fountain.svg",
       "eps": "/EPS/City/fountain.eps",
       "png": {
         "25": "/PNG/25/City/fountain-25.png",
@@ -25759,6 +25771,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Ecommerce/high_price.svg",
+      "svg.simplified": "/SVG_for_Font/Ecommerce/high_price.svg",
       "eps": "/EPS/Ecommerce/high_price.eps",
       "png": {
         "25": "/PNG/25/Ecommerce/high_price-25.png",
@@ -31176,6 +31189,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Ecommerce/low_price.svg",
+      "svg.simplified": "/SVG_for_Font/Ecommerce/low_price.svg",
       "eps": "/EPS/Ecommerce/low_price.eps",
       "png": {
         "25": "/PNG/25/Ecommerce/low_price-25.png",
@@ -33792,6 +33806,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/monastery.svg",
+      "svg.simplified": "/SVG_for_Font/City/monastery.svg",
       "eps": "/EPS/City/monastery.eps",
       "png": {
         "25": "/PNG/25/City/monastery-25.png",
@@ -33959,6 +33974,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/monument.svg",
+      "svg.simplified": "/SVG_for_Font/City/monument.svg",
       "eps": "/EPS/City/monument.eps",
       "png": {
         "25": "/PNG/25/City/monument-25.png",
@@ -36454,6 +36470,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/obelisk.svg",
+      "svg.simplified": "/SVG_for_Font/City/obelisk.svg",
       "eps": "/EPS/City/obelisk.eps",
       "png": {
         "25": "/PNG/25/City/obelisk-25.png",
@@ -37553,6 +37570,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/pagoda.svg",
+      "svg.simplified": "/SVG_for_Font/City/pagoda.svg",
       "eps": "/EPS/City/pagoda.eps",
       "png": {
         "25": "/PNG/25/City/pagoda-25.png",
@@ -37604,6 +37622,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Editing/paint_brush.svg",
+      "svg.simplified": "/SVG_for_Font/Editing/paint_brush.svg",
       "eps": "/EPS/Editing/paint_brush.eps",
       "png": {
         "25": "/PNG/25/Editing/paint_brush-25.png",
@@ -37957,6 +37976,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/parliament.svg",
+      "svg.simplified": "/SVG_for_Font/City/parliament.svg",
       "eps": "/EPS/City/parliament.eps",
       "png": {
         "25": "/PNG/25/City/parliament-25.png",
@@ -42924,6 +42944,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Ecommerce/receipt.svg",
+      "svg.simplified": "/SVG_for_Font/Ecommerce/receipt.svg",
       "eps": "/EPS/Ecommerce/receipt.eps",
       "png": {
         "25": "/PNG/25/Ecommerce/receipt-25.png",
@@ -52671,6 +52692,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/synagogue.svg",
+      "svg.simplified": "/SVG_for_Font/City/synagogue.svg",
       "eps": "/EPS/City/synagogue.eps",
       "png": {
         "25": "/PNG/25/City/synagogue-25.png",

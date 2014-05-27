@@ -3741,7 +3741,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Computer_Hardware/burn_cd.svg",
-      "svg.simplified": "/SVG_for_Font/Objects/burn_cd.svg",
+      "svg.simplified": "/SVG_for_Font/Computer_Hardware/burn_cd.svg",
       "eps": "/EPS/Computer_Hardware/burn_cd.eps",
       "png": {
         "32": "/PNG/32/Computer_Hardware/burn_cd-32.png",
@@ -18464,7 +18464,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Very_Basic/more.svg",
-      "svg.simplified": "/SVG_for_Font/Objects/more.svg",
+      "svg.simplified": "/SVG_for_Font/Very_Basic/more.svg",
       "eps": "/EPS/Very_Basic/more.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/more-32.png",
@@ -25844,7 +25844,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Messaging/signal_horn.svg",
-      "svg.simplified": "/SVG_for_Font/Objects/signal_horn.svg",
+      "svg.simplified": "/SVG_for_Font/Messaging/signal_horn.svg",
       "eps": "/EPS/Messaging/signal_horn.eps",
       "png": {
         "32": "/PNG/32/Messaging/signal_horn-32.png",
