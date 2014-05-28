@@ -2098,7 +2098,6 @@
       "waiting",
       "sign",
       "increase",
-      "building",
       "square",
       "success",
       "white",
@@ -2125,7 +2124,8 @@
       "lift",
       "going",
       "level",
-      "bes"
+      "best",
+      "metalli"
     ],
     "copyright": false,
     "files": {
@@ -6892,7 +6892,7 @@
     "category": "City",
     "created": 1401166273,
     "tags": [
-
+      "park"
     ],
     "copyright": false,
     "files": {
@@ -10054,7 +10054,6 @@
       "freshness",
       "finance",
       "abstract",
-      "landmark",
       "light box",
       "offset",
       "quality",
@@ -10190,6 +10189,7 @@
       "smoke",
       "danger",
       "isolated",
+      "barbecue",
       "decoration",
       "blaze",
       "warm",
@@ -10210,8 +10210,7 @@
       "family camping",
       "building a fire",
       "around a camp fire",
-      "outline of a camp fire",
-      "bl"
+      "outline of a cam"
     ],
     "copyright": false,
     "files": {
@@ -14970,6 +14969,7 @@
       "engineering",
       "monument",
       "ancient",
+      "landmark",
       "area",
       "roman",
       "temple",
@@ -22231,6 +22231,7 @@
       "monument",
       "france",
       "tower",
+      "landmark",
       "french",
       "tourist attraction",
       "city symbol",
@@ -25870,7 +25871,6 @@
       "diagram",
       "town",
       "reflection",
-      "landmark",
       "famous",
       "brick",
       "creative",
@@ -25887,7 +25887,8 @@
       "sudden",
       "orlando",
       "florida",
-      "skysc"
+      "skyscraper",
+      "met"
     ],
     "copyright": false,
     "files": {
@@ -26561,6 +26562,7 @@
       "clean",
       "wash",
       "drink",
+      "park",
       "water",
       "garden",
       "wet",
@@ -41867,6 +41869,9 @@
     "category": "Cultures",
     "created": 1373365061,
     "tags": [
+      "house of worship",
+      "city",
+      "building",
       "arabic",
       "mosque",
       "muslim",
@@ -54778,6 +54783,7 @@
     "category": "Gaming",
     "created": 1332923606,
     "tags": [
+      "paper",
       "play",
       "hard",
       "game",
@@ -62396,6 +62402,7 @@
       "tourism",
       "monument",
       "crown",
+      "landmark",
       "lady",
       "sculpture",
       "statue",
@@ -62876,32 +62883,6 @@
         "512": "/PNG/512/Editing/strikethrough-512.png",
         "64": "/PNG/64/Editing/strikethrough-64.png",
         "48": "/PNG/48/Editing/strikethrough-48.png"
-      }
-    }
-  },
-  {
-    "id": 1242,
-    "name": "stroller",
-    "platform": "Windows 8/Metro",
-    "category": "Baby",
-    "created": 1350035551,
-    "tags": [
-      "baby",
-      "stroller"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Baby/stroller.svg",
-      "svg.simplified": "/SVG_for_Font/Baby/stroller.svg",
-      "eps": "/EPS/Baby/stroller.eps",
-      "png": {
-        "32": "/PNG/32/Baby/stroller-32.png",
-        "128": "/PNG/128/Baby/stroller-128.png",
-        "26": "/PNG/26/Baby/stroller-26.png",
-        "256": "/PNG/256/Baby/stroller-256.png",
-        "512": "/PNG/512/Baby/stroller-512.png",
-        "64": "/PNG/64/Baby/stroller-64.png",
-        "48": "/PNG/48/Baby/stroller-48.png"
       }
     }
   },
@@ -74569,7 +74550,6 @@
     "category": "Household",
     "created": 1327662644,
     "tags": [
-      "appliance",
       "house",
       "antenna",
       "channels",
@@ -74577,7 +74557,9 @@
       "pixels",
       "shows",
       "high definition",
-      "outdoor"
+      "outdoor",
+      "tv sat",
+      "appliance"
     ],
     "copyright": false,
     "files": {
