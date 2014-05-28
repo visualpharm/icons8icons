@@ -13519,47 +13519,6 @@
     }
   },
   {
-    "id": 1045,
-    "name": "css",
-    "platform": "iPhone/iOS 7",
-    "category": "File Types",
-    "created": 1343297854,
-    "tags": [
-      "logo",
-      "letter",
-      "square",
-      "plate",
-      "codes",
-      "css",
-      "stone",
-      "brick",
-      "java",
-      "company logo",
-      "slate",
-      "company name",
-      "css file",
-      "css software",
-      "black boarder",
-      "white board"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/File_Types/css.svg",
-      "svg.simplified": "/SVG_for_Font/File_Types/css.svg",
-      "eps": "/EPS/File_Types/css.eps",
-      "png": {
-        "25": "/PNG/25/File_Types/css-25.png",
-        "32": "/PNG/32/File_Types/css-32.png",
-        "128": "/PNG/128/File_Types/css-128.png",
-        "75": "/PNG/75/File_Types/css-75.png",
-        "256": "/PNG/256/File_Types/css-256.png",
-        "100": "/PNG/100/File_Types/css-100.png",
-        "512": "/PNG/512/File_Types/css-512.png",
-        "50": "/PNG/50/File_Types/css-50.png"
-      }
-    }
-  },
-  {
     "id": 2577,
     "name": "csv",
     "platform": "iPhone/iOS 7",
@@ -16660,53 +16619,6 @@
         "100": "/PNG/100/Ecommerce/do_not_tilt-100.png",
         "512": "/PNG/512/Ecommerce/do_not_tilt-512.png",
         "50": "/PNG/50/Ecommerce/do_not_tilt-50.png"
-      }
-    }
-  },
-  {
-    "id": 1633,
-    "name": "drafting_compass",
-    "platform": "iPhone/iOS 7",
-    "category": "Editing",
-    "created": 1384510787,
-    "tags": [
-      "design",
-      "office",
-      "calculate",
-      "paper",
-      "mapping",
-      "drawing",
-      "tool",
-      "compass",
-      "school",
-      "circles",
-      "labor",
-      "architecture",
-      "measuring",
-      "geometry",
-      "drafting",
-      "blueprints",
-      "draftsman",
-      "learning",
-      "creativity",
-      "delineation",
-      "technical architect",
-      "simple line"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Editing/drafting_compass.svg",
-      "svg.simplified": "/SVG_for_Font/Editing/drafting_compass.svg",
-      "eps": "/EPS/Editing/drafting_compass.eps",
-      "png": {
-        "25": "/PNG/25/Editing/drafting_compass-25.png",
-        "32": "/PNG/32/Editing/drafting_compass-32.png",
-        "128": "/PNG/128/Editing/drafting_compass-128.png",
-        "75": "/PNG/75/Editing/drafting_compass-75.png",
-        "256": "/PNG/256/Editing/drafting_compass-256.png",
-        "100": "/PNG/100/Editing/drafting_compass-100.png",
-        "512": "/PNG/512/Editing/drafting_compass-512.png",
-        "50": "/PNG/50/Editing/drafting_compass-50.png"
       }
     }
   },
@@ -26421,49 +26333,6 @@
         "100": "/PNG/100/Food/hot_dog-100.png",
         "512": "/PNG/512/Food/hot_dog-512.png",
         "50": "/PNG/50/Food/hot_dog-50.png"
-      }
-    }
-  },
-  {
-    "id": 1043,
-    "name": "html",
-    "platform": "iPhone/iOS 7",
-    "category": "File Types",
-    "created": 1343297854,
-    "tags": [
-      "symbols",
-      "logo",
-      "letter",
-      "plate",
-      "codes",
-      "html",
-      "emblem",
-      "programming language",
-      "flank",
-      "slate",
-      "black boarder",
-      "white board",
-      "capital letters",
-      "html codding",
-      "html software",
-      "square board",
-      "software company logo",
-      "horizontal line"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/File_Types/html.svg",
-      "svg.simplified": "/SVG_for_Font/File_Types/html.svg",
-      "eps": "/EPS/File_Types/html.eps",
-      "png": {
-        "25": "/PNG/25/File_Types/html-25.png",
-        "32": "/PNG/32/File_Types/html-32.png",
-        "128": "/PNG/128/File_Types/html-128.png",
-        "75": "/PNG/75/File_Types/html-75.png",
-        "256": "/PNG/256/File_Types/html-256.png",
-        "100": "/PNG/100/File_Types/html-100.png",
-        "512": "/PNG/512/File_Types/html-512.png",
-        "50": "/PNG/50/File_Types/html-50.png"
       }
     }
   },
@@ -38573,6 +38442,40 @@
     }
   },
   {
+    "id": 4786,
+    "name": "pavilion",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1401295870,
+    "tags": [
+      "program",
+      "stadium",
+      "artist",
+      "structure",
+      "gallery",
+      "architecture",
+      "standing",
+      "dance",
+      "play ground",
+      "viewers"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/pavilion.svg",
+      "eps": "/EPS/City/pavilion.eps",
+      "png": {
+        "25": "/PNG/25/City/pavilion-25.png",
+        "32": "/PNG/32/City/pavilion-32.png",
+        "128": "/PNG/128/City/pavilion-128.png",
+        "75": "/PNG/75/City/pavilion-75.png",
+        "256": "/PNG/256/City/pavilion-256.png",
+        "100": "/PNG/100/City/pavilion-100.png",
+        "512": "/PNG/512/City/pavilion-512.png",
+        "50": "/PNG/50/City/pavilion-50.png"
+      }
+    }
+  },
+  {
     "id": 1009,
     "name": "pawn",
     "platform": "iPhone/iOS 7",
@@ -39968,6 +39871,40 @@
         "100": "/PNG/100/Media_Controls/play-100.png",
         "512": "/PNG/512/Media_Controls/play-512.png",
         "50": "/PNG/50/Media_Controls/play-50.png"
+      }
+    }
+  },
+  {
+    "id": 4788,
+    "name": "playground",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1401295870,
+    "tags": [
+      "entertainment",
+      "slides",
+      "school",
+      "children",
+      "park",
+      "garden",
+      "exercise",
+      "enjoy",
+      "playing",
+      "climbers"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/playground.svg",
+      "eps": "/EPS/City/playground.eps",
+      "png": {
+        "25": "/PNG/25/City/playground-25.png",
+        "32": "/PNG/32/City/playground-32.png",
+        "128": "/PNG/128/City/playground-128.png",
+        "75": "/PNG/75/City/playground-75.png",
+        "256": "/PNG/256/City/playground-256.png",
+        "100": "/PNG/100/City/playground-100.png",
+        "512": "/PNG/512/City/playground-512.png",
+        "50": "/PNG/50/City/playground-50.png"
       }
     }
   },
@@ -51155,6 +51092,40 @@
         "100": "/PNG/100/Cultures/star_of_david-100.png",
         "512": "/PNG/512/Cultures/star_of_david-512.png",
         "50": "/PNG/50/Cultures/star_of_david-50.png"
+      }
+    }
+  },
+  {
+    "id": 4790,
+    "name": "statue",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1401295870,
+    "tags": [
+      "gallery",
+      "height",
+      "museum",
+      "stone",
+      "ancient",
+      "sculpture",
+      "historic",
+      "liberty",
+      "national leader",
+      "wonders"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/statue.svg",
+      "eps": "/EPS/City/statue.eps",
+      "png": {
+        "25": "/PNG/25/City/statue-25.png",
+        "32": "/PNG/32/City/statue-32.png",
+        "128": "/PNG/128/City/statue-128.png",
+        "75": "/PNG/75/City/statue-75.png",
+        "256": "/PNG/256/City/statue-256.png",
+        "100": "/PNG/100/City/statue-100.png",
+        "512": "/PNG/512/City/statue-512.png",
+        "50": "/PNG/50/City/statue-50.png"
       }
     }
   },

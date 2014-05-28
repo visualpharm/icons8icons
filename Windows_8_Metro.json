@@ -3199,6 +3199,7 @@
     ],
     "copyright": false,
     "files": {
+      "svg": "/SVG/Messaging/angel.svg",
       "svg.simplified": "/SVG_for_Font/Messaging/angel.svg",
       "eps": "/EPS/Messaging/angel.eps",
       "png": {
@@ -3225,6 +3226,7 @@
     ],
     "copyright": false,
     "files": {
+      "svg": "/SVG/Messaging/angry.svg",
       "svg.simplified": "/SVG_for_Font/Messaging/angry.svg",
       "eps": "/EPS/Messaging/angry.eps",
       "png": {
@@ -9510,6 +9512,47 @@
         "512": "/PNG/512/Business/business_contact-512.png",
         "64": "/PNG/64/Business/business_contact-64.png",
         "48": "/PNG/48/Business/business_contact-48.png"
+      }
+    }
+  },
+  {
+    "id": 4784,
+    "name": "bust",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1401295870,
+    "tags": [
+      "magazine",
+      "collection",
+      "human",
+      "present",
+      "head",
+      "figure",
+      "art",
+      "chest",
+      "museum",
+      "antique",
+      "shoulder",
+      "ancient",
+      "sculpture",
+      "statue",
+      "culture",
+      "historical",
+      "bust",
+      "valuable",
+      "auction"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/bust.svg",
+      "eps": "/EPS/City/bust.eps",
+      "png": {
+        "32": "/PNG/32/City/bust-32.png",
+        "128": "/PNG/128/City/bust-128.png",
+        "26": "/PNG/26/City/bust-26.png",
+        "256": "/PNG/256/City/bust-256.png",
+        "512": "/PNG/512/City/bust-512.png",
+        "64": "/PNG/64/City/bust-64.png"
       }
     }
   },
@@ -36890,6 +36933,7 @@
       "internet",
       "next",
       "icons",
+      "left round white",
       "ship",
       "previous"
     ],
@@ -41700,7 +41744,8 @@
       "money",
       "coins",
       "bag money bag",
-      "emotions"
+      "emotions",
+      "withdrawal"
     ],
     "copyright": false,
     "files": {
@@ -47745,6 +47790,38 @@
     }
   },
   {
+    "id": 4785,
+    "name": "pavilion",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1401295870,
+    "tags": [
+      "program",
+      "stadium",
+      "artist",
+      "structure",
+      "gallery",
+      "architecture",
+      "standing",
+      "dance",
+      "play ground",
+      "viewers"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/pavilion.svg",
+      "eps": "/EPS/City/pavilion.eps",
+      "png": {
+        "32": "/PNG/32/City/pavilion-32.png",
+        "128": "/PNG/128/City/pavilion-128.png",
+        "26": "/PNG/26/City/pavilion-26.png",
+        "256": "/PNG/256/City/pavilion-256.png",
+        "512": "/PNG/512/City/pavilion-512.png",
+        "64": "/PNG/64/City/pavilion-64.png"
+      }
+    }
+  },
+  {
     "id": 1008,
     "name": "pawn",
     "platform": "Windows 8/Metro",
@@ -49381,6 +49458,38 @@
     }
   },
   {
+    "id": 4787,
+    "name": "playground",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1401295870,
+    "tags": [
+      "entertainment",
+      "slides",
+      "school",
+      "children",
+      "park",
+      "garden",
+      "exercise",
+      "enjoy",
+      "playing",
+      "climbers"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/playground.svg",
+      "eps": "/EPS/City/playground.eps",
+      "png": {
+        "32": "/PNG/32/City/playground-32.png",
+        "128": "/PNG/128/City/playground-128.png",
+        "26": "/PNG/26/City/playground-26.png",
+        "256": "/PNG/256/City/playground-256.png",
+        "512": "/PNG/512/City/playground-512.png",
+        "64": "/PNG/64/City/playground-64.png"
+      }
+    }
+  },
+  {
     "id": 899,
     "name": "plugin",
     "platform": "Windows 8/Metro",
@@ -50952,77 +51061,6 @@
         "512": "/PNG/512/Printing/printer-512.png",
         "64": "/PNG/64/Printing/printer-64.png",
         "48": "/PNG/48/Printing/printer-48.png"
-      }
-    }
-  },
-  {
-    "id": 348,
-    "name": "private",
-    "platform": "Windows 8/Metro",
-    "category": "Programming",
-    "created": 1323262362,
-    "tags": [
-      "mark",
-      "tools",
-      "security",
-      "internet",
-      "restricted",
-      "settings",
-      "system",
-      "network",
-      "sign",
-      "stop",
-      "hand",
-      "allow",
-      "disallow",
-      "everyone",
-      "unrestricted",
-      "choice"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Programming/private.svg",
-      "svg.simplified": "/SVG_for_Font/Security/private.svg",
-      "eps": "/EPS/Security/private.eps",
-      "png": {
-        "32": "/PNG/Messaging/private/private-32.png",
-        "128": "/PNG/Messaging/private/private-128.png",
-        "26": "/PNG/Messaging/private/private-26.png",
-        "256": "/PNG/Messaging/private/private-256.png",
-        "512": "/PNG/512/Programming/private-512.png",
-        "48": "/PNG/Messaging/private/private-48.png",
-        "64": "/PNG/64/Programming/private-64.png"
-      }
-    }
-  },
-  {
-    "id": 125,
-    "name": "private_emoticon",
-    "platform": "Windows 8/Metro",
-    "category": "Messaging",
-    "created": 1332475200,
-    "tags": [
-      "secret",
-      "shut up",
-      "speechless",
-      "censored",
-      "abstain",
-      "abstained",
-      "muted",
-      "censorship"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Messaging/private_emoticon.svg",
-      "svg.simplified": "/SVG_for_Font/Messaging/private_emoticon.svg",
-      "eps": "/EPS/Messaging/private_emoticon.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/private_emoticon-32.png",
-        "128": "/PNG/128/Messaging/private_emoticon-128.png",
-        "26": "/PNG/26/Messaging/private_emoticon-26.png",
-        "256": "/PNG/256/Messaging/private_emoticon-256.png",
-        "512": "/PNG/512/Messaging/private_emoticon-512.png",
-        "64": "/PNG/64/Messaging/private_emoticon-64.png"
       }
     }
   },
@@ -52652,7 +52690,8 @@
       "broadcast",
       "on-air",
       "antenna",
-      "transistor"
+      "transistor",
+      "radio"
     ],
     "copyright": false,
     "files": {
@@ -53986,61 +54025,6 @@
         "512": "/PNG/512/Computer_Hardware/restart-512.png",
         "64": "/PNG/64/Computer_Hardware/restart-64.png",
         "48": "/PNG/48/Computer_Hardware/restart-48.png"
-      }
-    }
-  },
-  {
-    "id": 610,
-    "name": "restaurant",
-    "platform": "Windows 8/Metro",
-    "category": "Food",
-    "created": 1331029013,
-    "tags": [
-      "divide",
-      "food",
-      "games",
-      "dining",
-      "fork",
-      "match",
-      "city",
-      "transportation",
-      "subway",
-      "wellness",
-      "image",
-      "contact",
-      "football",
-      "mobile",
-      "athlete",
-      "green",
-      "spoon",
-      "menu",
-      "tennis",
-      "players",
-      "train",
-      "meals",
-      "waiter",
-      "icon",
-      "part",
-      "clip art",
-      "angle",
-      "split",
-      "diverge",
-      "bifurcate",
-      "developer"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Food/restaurant.svg",
-      "svg.simplified": "/SVG_for_Font/Food/restaurant.svg",
-      "eps": "/EPS/Food/restaurant.eps",
-      "png": {
-        "32": "/PNG/32/Food/restaurant-32.png",
-        "128": "/PNG/128/Food/restaurant-128.png",
-        "26": "/PNG/26/Food/restaurant-26.png",
-        "256": "/PNG/256/Food/restaurant-256.png",
-        "512": "/PNG/512/Food/restaurant-512.png",
-        "64": "/PNG/64/Food/restaurant-64.png",
-        "48": "/PNG/48/City/restaurant-48.png"
       }
     }
   },
@@ -57825,50 +57809,6 @@
     }
   },
   {
-    "id": 134,
-    "name": "settings2",
-    "platform": "Windows 8/Metro",
-    "category": "Programming",
-    "created": 1293858000,
-    "tags": [
-      "admin",
-      "working",
-      "setting",
-      "works",
-      "work",
-      "meshing",
-      "mesh",
-      "mechanic",
-      "mechanical",
-      "fine tune",
-      "tune up",
-      "following",
-      "edit",
-      "gears",
-      "settings",
-      "setup",
-      "config",
-      "configuration",
-      "preferences",
-      "administration"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Programming/settings2.svg",
-      "svg.simplified": "/SVG_for_Font/Programming/settings2.svg",
-      "eps": "/EPS/Programming/settings2.eps",
-      "png": {
-        "512": "/PNG/512/Programming/settings2-512.png",
-        "48": "/PNG/System/settings2/settings2-48.png",
-        "32": "/PNG/System/settings2/settings2-32.png",
-        "26": "/PNG/System/settings2/settings2-26.png",
-        "128": "/PNG/System/settings2/settings2-128.png",
-        "64": "/PNG/64/Programming/settings2-64.png",
-        "256": "/PNG/System/settings2/settings2-256.png"
-      }
-    }
-  },
-  {
     "id": 3446,
     "name": "share",
     "platform": "Windows 8/Metro",
@@ -58468,7 +58408,9 @@
     "created": 1394153483,
     "tags": [
       "watch",
-      "more"
+      "more",
+      "accessories",
+      "hairband"
     ],
     "copyright": false,
     "files": {
@@ -62515,6 +62457,38 @@
         "512": "/PNG/512/Business/statistics-512.png",
         "64": "/PNG/64/Business/statistics-64.png",
         "48": "/PNG/48/Business/statistics-48.png"
+      }
+    }
+  },
+  {
+    "id": 4789,
+    "name": "statue",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1401295870,
+    "tags": [
+      "gallery",
+      "height",
+      "museum",
+      "stone",
+      "ancient",
+      "sculpture",
+      "historic",
+      "liberty",
+      "national leader",
+      "wonders"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/statue.svg",
+      "eps": "/EPS/City/statue.eps",
+      "png": {
+        "32": "/PNG/32/City/statue-32.png",
+        "128": "/PNG/128/City/statue-128.png",
+        "26": "/PNG/26/City/statue-26.png",
+        "256": "/PNG/256/City/statue-256.png",
+        "512": "/PNG/512/City/statue-512.png",
+        "64": "/PNG/64/City/statue-64.png"
       }
     }
   },

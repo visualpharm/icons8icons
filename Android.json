@@ -3423,45 +3423,14 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Shopping/box.svg",
-      "svg.simplified": "/SVG_for_Font/Shopping/box_copyrighted.svg",
-      "eps": "/EPS/Shopping/box.eps",
       "png": {
-        "32": "/PNG/Shopping/box/box-32.png",
-        "128": "/PNG/Shopping/box/box-128.png",
-        "256": "/PNG/Shopping/box/box-256.png",
-        "36": "/PNG/Shopping/box/box-36.png",
-        "512": "/PNG/Shopping/box/box-512.png",
-        "64": "/PNG/Shopping/box/box-64.png",
-        "24": "/PNG/Shopping/box/box-24.png",
-        "96": "/PNG/96/Shopping/box-96.png",
-        "48": "/PNG/48/Shopping/box-48.png"
-      }
-    }
-  },
-  {
-    "id": 3226,
-    "name": "box2",
-    "platform": "Android",
-    "category": "Shopping",
-    "created": 1391770248,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Shopping/box2.svg",
-      "svg.simplified": "/SVG_for_Font/Shopping/box2.svg",
-      "eps": "/EPS/Shopping/box2.eps",
-      "png": {
-        "32": "/PNG/32/Shopping/box2-32.png",
-        "128": "/PNG/128/Shopping/box2-128.png",
-        "256": "/PNG/256/Shopping/box2-256.png",
-        "36": "/PNG/36/Shopping/box2-36.png",
-        "512": "/PNG/512/Shopping/box2-512.png",
-        "64": "/PNG/64/Shopping/box2-64.png",
-        "24": "/PNG/24/Shopping/box2-24.png",
-        "96": "/PNG/96/Shopping/box2-96.png",
-        "48": "/PNG/48/Shopping/box2-48.png"
+        "32": "/PNG/32/Shopping/box_copyrighted-32.png",
+        "256": "/PNG/256/Shopping/box_copyrighted-256.png",
+        "36": "/PNG/36/Shopping/box_copyrighted-36.png",
+        "512": "/PNG/512/Shopping/box_copyrighted-512.png",
+        "64": "/PNG/64/Shopping/box_copyrighted-64.png",
+        "96": "/PNG/96/Shopping/box_copyrighted-96.png",
+        "48": "/PNG/48/Shopping/box_copyrighted-48.png"
       }
     }
   },
@@ -6369,37 +6338,28 @@
     }
   },
   {
-    "id": 3151,
-    "name": "collapse",
+    "id": 4775,
+    "name": "collaborator",
     "platform": "Android",
-    "category": "Arrows",
-    "created": 1391770248,
+    "category": "Users",
+    "created": 1401295870,
     "tags": [
-      "clock",
-      "arrows",
-      "arrow",
-      "zoom out",
-      "up",
-      "decrease",
-      "collapse",
-      "fold",
-      "scroll up"
+
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Arrows/collapse.svg",
-      "svg.simplified": "/SVG_for_Font/Arrows/collapse.svg",
-      "eps": "/EPS/Arrows/collapse.eps",
+      "svg": "/SVG/Users/collaborator.svg",
+      "eps": "/EPS/Users/collaborator.eps",
       "png": {
-        "32": "/PNG/32/Arrows/collapse-32.png",
-        "128": "/PNG/128/Arrows/collapse-128.png",
-        "256": "/PNG/256/Arrows/collapse-256.png",
-        "36": "/PNG/36/Arrows/collapse-36.png",
-        "512": "/PNG/512/Arrows/collapse-512.png",
-        "64": "/PNG/64/Arrows/collapse-64.png",
-        "24": "/PNG/24/Arrows/collapse-24.png",
-        "96": "/PNG/96/Arrows/collapse-96.png",
-        "48": "/PNG/48/Arrows/collapse-48.png"
+        "32": "/PNG/32/Users/collaborator-32.png",
+        "128": "/PNG/128/Users/collaborator-128.png",
+        "256": "/PNG/256/Users/collaborator-256.png",
+        "36": "/PNG/36/Users/collaborator-36.png",
+        "512": "/PNG/512/Users/collaborator-512.png",
+        "64": "/PNG/64/Users/collaborator-64.png",
+        "24": "/PNG/24/Users/collaborator-24.png",
+        "96": "/PNG/96/Users/collaborator-96.png",
+        "48": "/PNG/48/Users/collaborator-48.png"
       }
     }
   },
@@ -6834,6 +6794,32 @@
         "24": "/PNG/24/Transport/convertible-24.png",
         "96": "/PNG/96/Transport/convertible-96.png",
         "48": "/PNG/48/Transport/convertible-48.png"
+      }
+    }
+  },
+  {
+    "id": 4778,
+    "name": "cook",
+    "platform": "Android",
+    "category": "Users",
+    "created": 1401295870,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Users/cook.svg",
+      "eps": "/EPS/Users/cook.eps",
+      "png": {
+        "32": "/PNG/32/Users/cook-32.png",
+        "128": "/PNG/128/Users/cook-128.png",
+        "256": "/PNG/256/Users/cook-256.png",
+        "36": "/PNG/36/Users/cook-36.png",
+        "512": "/PNG/512/Users/cook-512.png",
+        "64": "/PNG/64/Users/cook-64.png",
+        "24": "/PNG/24/Users/cook-24.png",
+        "96": "/PNG/96/Users/cook-96.png",
+        "48": "/PNG/48/Users/cook-48.png"
       }
     }
   },
@@ -8012,6 +7998,32 @@
         "24": "/PNG/24/Music/dj-24.png",
         "96": "/PNG/96/Music/dj-96.png",
         "48": "/PNG/48/Music/dj-48.png"
+      }
+    }
+  },
+  {
+    "id": 4782,
+    "name": "doctor",
+    "platform": "Android",
+    "category": "Users",
+    "created": 1401295870,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Users/doctor.svg",
+      "eps": "/EPS/Users/doctor.eps",
+      "png": {
+        "32": "/PNG/32/Users/doctor-32.png",
+        "128": "/PNG/128/Users/doctor-128.png",
+        "256": "/PNG/256/Users/doctor-256.png",
+        "36": "/PNG/36/Users/doctor-36.png",
+        "512": "/PNG/512/Users/doctor-512.png",
+        "64": "/PNG/64/Users/doctor-64.png",
+        "24": "/PNG/24/Users/doctor-24.png",
+        "96": "/PNG/96/Users/doctor-96.png",
+        "48": "/PNG/48/Users/doctor-48.png"
       }
     }
   },
@@ -9481,39 +9493,6 @@
     }
   },
   {
-    "id": 3209,
-    "name": "expand",
-    "platform": "Android",
-    "category": "Arrows",
-    "created": 1391770248,
-    "tags": [
-      "arrows",
-      "arrow",
-      "zoom in",
-      "expand",
-      "enlarge",
-      "unfold",
-      "100"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Arrows/expand.svg",
-      "svg.simplified": "/SVG_for_Font/Arrows/expand.svg",
-      "eps": "/EPS/Arrows/expand.eps",
-      "png": {
-        "32": "/PNG/32/Arrows/expand-32.png",
-        "128": "/PNG/128/Arrows/expand-128.png",
-        "256": "/PNG/256/Arrows/expand-256.png",
-        "36": "/PNG/36/Arrows/expand-36.png",
-        "512": "/PNG/512/Arrows/expand-512.png",
-        "64": "/PNG/64/Arrows/expand-64.png",
-        "24": "/PNG/24/Arrows/expand-24.png",
-        "96": "/PNG/96/Arrows/expand-96.png",
-        "48": "/PNG/48/Arrows/expand-48.png"
-      }
-    }
-  },
-  {
     "id": 3218,
     "name": "expensive",
     "platform": "Android",
@@ -10367,6 +10346,32 @@
         "24": "/PNG/24/Sports/finish_flag-24.png",
         "96": "/PNG/96/Sports/finish_flag-96.png",
         "48": "/PNG/48/Sports/finish_flag-48.png"
+      }
+    }
+  },
+  {
+    "id": 4777,
+    "name": "fireman",
+    "platform": "Android",
+    "category": "Users",
+    "created": 1401295870,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Users/fireman.svg",
+      "eps": "/EPS/Users/fireman.eps",
+      "png": {
+        "32": "/PNG/32/Users/fireman-32.png",
+        "128": "/PNG/128/Users/fireman-128.png",
+        "256": "/PNG/256/Users/fireman-256.png",
+        "36": "/PNG/36/Users/fireman-36.png",
+        "512": "/PNG/512/Users/fireman-512.png",
+        "64": "/PNG/64/Users/fireman-64.png",
+        "24": "/PNG/24/Users/fireman-24.png",
+        "96": "/PNG/96/Users/fireman-96.png",
+        "48": "/PNG/48/Users/fireman-48.png"
       }
     }
   },
@@ -11389,68 +11394,28 @@
     }
   },
   {
-    "id": 3207,
-    "name": "garage",
+    "id": 4774,
+    "name": "gardener",
     "platform": "Android",
-    "category": "Household",
-    "created": 1391770248,
+    "category": "Users",
+    "created": 1401295870,
     "tags": [
-      "window",
-      "display",
-      "tools",
-      "wrench",
-      "rating",
-      "transportation",
-      "driver",
-      "car",
-      "sign",
-      "safety",
-      "headlights",
-      "equipment",
-      "black",
-      "indoors",
-      "white",
-      "icon",
-      "art",
-      "technician",
-      "simple",
-      "vehicle",
-      "garage",
-      "parked",
-      "mechanic",
-      "silhouette",
-      "front",
-      "review",
-      "sedan",
-      "alert",
-      "minimalistic",
-      "car garage",
-      "service center",
-      "service station",
-      "workshop",
-      "maintenance",
-      "automobile",
-      "inspection",
-      "car wash",
-      "petrol",
-      "lights",
-      "car mechanic"
+
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Household/garage.svg",
-      "svg.simplified": "/SVG_for_Font/Household/garage.svg",
-      "eps": "/EPS/Household/garage.eps",
+      "svg": "/SVG/Users/gardener.svg",
+      "eps": "/EPS/Users/gardener.eps",
       "png": {
-        "32": "/PNG/32/Household/garage-32.png",
-        "128": "/PNG/128/Household/garage-128.png",
-        "256": "/PNG/256/Household/garage-256.png",
-        "36": "/PNG/36/Household/garage-36.png",
-        "512": "/PNG/512/Household/garage-512.png",
-        "64": "/PNG/64/Household/garage-64.png",
-        "24": "/PNG/24/Household/garage-24.png",
-        "96": "/PNG/96/Household/garage-96.png",
-        "48": "/PNG/48/Household/garage-48.png"
+        "32": "/PNG/32/Users/gardener-32.png",
+        "128": "/PNG/128/Users/gardener-128.png",
+        "256": "/PNG/256/Users/gardener-256.png",
+        "36": "/PNG/36/Users/gardener-36.png",
+        "512": "/PNG/512/Users/gardener-512.png",
+        "64": "/PNG/64/Users/gardener-64.png",
+        "24": "/PNG/24/Users/gardener-24.png",
+        "96": "/PNG/96/Users/gardener-96.png",
+        "48": "/PNG/48/Users/gardener-48.png"
       }
     }
   },
@@ -18382,6 +18347,51 @@
     }
   },
   {
+    "id": 4779,
+    "name": "moderator",
+    "platform": "Android",
+    "category": "Users",
+    "created": 1401295870,
+    "tags": [
+      "flag",
+      "head",
+      "building",
+      "cap",
+      "chair",
+      "skill",
+      "law",
+      "stand",
+      "gallant",
+      "mount",
+      "concern",
+      "flowerpot",
+      "fancy",
+      "court",
+      "stool",
+      "knowledge",
+      "harry",
+      "bent",
+      "humble",
+      "formal"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Users/moderator.svg",
+      "eps": "/EPS/Users/moderator.eps",
+      "png": {
+        "32": "/PNG/32/Users/moderator-32.png",
+        "128": "/PNG/128/Users/moderator-128.png",
+        "256": "/PNG/256/Users/moderator-256.png",
+        "36": "/PNG/36/Users/moderator-36.png",
+        "512": "/PNG/512/Users/moderator-512.png",
+        "64": "/PNG/64/Users/moderator-64.png",
+        "24": "/PNG/24/Users/moderator-24.png",
+        "96": "/PNG/96/Users/moderator-96.png",
+        "48": "/PNG/48/Users/moderator-48.png"
+      }
+    }
+  },
+  {
     "id": 4727,
     "name": "monastery",
     "platform": "Android",
@@ -19928,6 +19938,32 @@
         "24": "/PNG/24/Industry/nuclear_power_plant-24.png",
         "96": "/PNG/96/Industry/nuclear_power_plant-96.png",
         "48": "/PNG/48/Industry/nuclear_power_plant-48.png"
+      }
+    }
+  },
+  {
+    "id": 4783,
+    "name": "nurse",
+    "platform": "Android",
+    "category": "Users",
+    "created": 1401295870,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Users/nurse.svg",
+      "eps": "/EPS/Users/nurse.eps",
+      "png": {
+        "32": "/PNG/32/Users/nurse-32.png",
+        "128": "/PNG/128/Users/nurse-128.png",
+        "256": "/PNG/256/Users/nurse-256.png",
+        "36": "/PNG/36/Users/nurse-36.png",
+        "512": "/PNG/512/Users/nurse-512.png",
+        "64": "/PNG/64/Users/nurse-64.png",
+        "24": "/PNG/24/Users/nurse-24.png",
+        "96": "/PNG/96/Users/nurse-96.png",
+        "48": "/PNG/48/Users/nurse-48.png"
       }
     }
   },
@@ -21489,6 +21525,32 @@
         "24": "/PNG/24/Industry/poison-24.png",
         "96": "/PNG/96/Industry/poison-96.png",
         "48": "/PNG/48/Industry/poison-48.png"
+      }
+    }
+  },
+  {
+    "id": 4776,
+    "name": "police",
+    "platform": "Android",
+    "category": "Users",
+    "created": 1401295870,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Users/police.svg",
+      "eps": "/EPS/Users/police.eps",
+      "png": {
+        "32": "/PNG/32/Users/police-32.png",
+        "128": "/PNG/128/Users/police-128.png",
+        "256": "/PNG/256/Users/police-256.png",
+        "36": "/PNG/36/Users/police-36.png",
+        "512": "/PNG/512/Users/police-512.png",
+        "64": "/PNG/64/Users/police-64.png",
+        "24": "/PNG/24/Users/police-24.png",
+        "96": "/PNG/96/Users/police-96.png",
+        "48": "/PNG/48/Users/police-48.png"
       }
     }
   },
@@ -28017,6 +28079,32 @@
     }
   },
   {
+    "id": 4780,
+    "name": "student",
+    "platform": "Android",
+    "category": "Users",
+    "created": 1401295870,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Users/student.svg",
+      "eps": "/EPS/Users/student.eps",
+      "png": {
+        "32": "/PNG/32/Users/student-32.png",
+        "128": "/PNG/128/Users/student-128.png",
+        "256": "/PNG/256/Users/student-256.png",
+        "36": "/PNG/36/Users/student-36.png",
+        "512": "/PNG/512/Users/student-512.png",
+        "64": "/PNG/64/Users/student-64.png",
+        "24": "/PNG/24/Users/student-24.png",
+        "96": "/PNG/96/Users/student-96.png",
+        "48": "/PNG/48/Users/student-48.png"
+      }
+    }
+  },
+  {
     "id": 4343,
     "name": "suiside_risk",
     "platform": "Android",
@@ -34378,6 +34466,32 @@
         "24": "/PNG/24/Clothing/womens_undewear-24.png",
         "96": "/PNG/96/Clothing/womens_undewear-96.png",
         "48": "/PNG/48/Clothing/womens_undewear-48.png"
+      }
+    }
+  },
+  {
+    "id": 4781,
+    "name": "worker",
+    "platform": "Android",
+    "category": "Users",
+    "created": 1401295870,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Users/worker.svg",
+      "eps": "/EPS/Users/worker.eps",
+      "png": {
+        "32": "/PNG/32/Users/worker-32.png",
+        "128": "/PNG/128/Users/worker-128.png",
+        "256": "/PNG/256/Users/worker-256.png",
+        "36": "/PNG/36/Users/worker-36.png",
+        "512": "/PNG/512/Users/worker-512.png",
+        "64": "/PNG/64/Users/worker-64.png",
+        "24": "/PNG/24/Users/worker-24.png",
+        "96": "/PNG/96/Users/worker-96.png",
+        "48": "/PNG/48/Users/worker-48.png"
       }
     }
   },
