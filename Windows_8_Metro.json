@@ -1754,7 +1754,13 @@
     "category": "Users",
     "created": 1393966275,
     "tags": [
-
+      "admin",
+      "user",
+      "business",
+      "coach",
+      "manager",
+      "presenter",
+      "lector"
     ],
     "copyright": false,
     "files": {
@@ -2486,7 +2492,9 @@
     "category": "Editing",
     "created": 1401166273,
     "tags": [
-
+      "format",
+      "text",
+      "middle"
     ],
     "copyright": false,
     "files": {
@@ -2510,7 +2518,8 @@
     "category": "Editing",
     "created": 1401166273,
     "tags": [
-
+      "format",
+      "text"
     ],
     "copyright": false,
     "files": {
@@ -2534,7 +2543,8 @@
     "category": "Editing",
     "created": 1401166273,
     "tags": [
-
+      "format",
+      "text"
     ],
     "copyright": false,
     "files": {
@@ -15074,11 +15084,14 @@
     "tags": [
       "card",
       "office",
+      "badge",
+      "coach",
       "person",
       "name",
       "user role",
       "identification",
       "collaborator",
+      "seminar",
       "office user"
     ],
     "copyright": false,
@@ -16309,7 +16322,8 @@
       "duplicate",
       "link",
       "debug",
-      "browser"
+      "browser",
+      "ctrl"
     ],
     "copyright": false,
     "files": {
@@ -18912,10 +18926,21 @@
     "category": "Ecommerce",
     "created": 1326711577,
     "tags": [
+      "courier",
       "delivery",
       "track",
+      "time",
       "deliveries",
-      "man"
+      "post",
+      "deadline",
+      "cargo",
+      "logistics",
+      "amazon",
+      "fedex",
+      "dhl",
+      "ups",
+      "usps",
+      "last mile"
     ],
     "copyright": false,
     "files": {
@@ -19793,13 +19818,7 @@
     "category": "Messaging",
     "created": 1354709635,
     "tags": [
-      "working",
-      "do not disturb",
-      "busy",
-      "skype status",
-      "occupied",
-      "focused",
-      "distracion"
+      "error"
     ],
     "copyright": false,
     "files": {
@@ -23688,7 +23707,6 @@
       "minute",
       "hour",
       "second",
-      "full",
       "idea",
       "measure",
       "measurement",
@@ -23714,6 +23732,7 @@
       "concept",
       "countdown",
       "risk",
+      "old",
       "object",
       "element",
       "instrument",
@@ -23722,8 +23741,8 @@
       "alert",
       "flowing",
       "flow",
-      "sand",
-      "ho"
+      "late",
+      "hou"
     ],
     "copyright": false,
     "files": {
@@ -34399,6 +34418,8 @@
     "category": "Clothing",
     "created": 1348737348,
     "tags": [
+      "pullover",
+      "cardigan",
       "clothes",
       "sweater",
       "comfort"
@@ -40117,8 +40138,12 @@
       "man",
       "clothes",
       "underwear",
+      "sexy",
       "masculine",
-      "Boxers"
+      "Boxers",
+      "Calvin Klein",
+      "dim",
+      "hom"
     ],
     "copyright": false,
     "files": {
@@ -40234,11 +40259,11 @@
       "limit",
       "multimedia",
       "radio",
-      "template",
       "pictogram",
       "thick",
       "infographic",
-      "cli"
+      "clip-art",
+      "smo"
     ],
     "copyright": false,
     "files": {
@@ -49911,11 +49936,15 @@
     "category": "Users",
     "created": 1342091366,
     "tags": [
+      "nsa",
+      "security",
       "call",
+      "detective",
       "buttons",
       "network",
       "police",
       "gun",
+      "fbi",
       "profession",
       "pistol",
       "police car",
@@ -49923,7 +49952,14 @@
       "criminals",
       "bandit",
       "duty",
-      "cap"
+      "cap",
+      "cop",
+      "crime",
+      "arrest",
+      "enforcement",
+      "investigate",
+      "cyber crime",
+      "hacker"
     ],
     "copyright": false,
     "files": {
@@ -60631,7 +60667,15 @@
     "tags": [
       "home",
       "living room",
-      "household"
+      "household",
+      "rest",
+      "chair",
+      "relax",
+      "furniture",
+      "interior",
+      "watch tv",
+      "cushion",
+      "sleep after a fight with wife"
     ],
     "copyright": false,
     "files": {
@@ -72724,7 +72768,11 @@
       "restaurant",
       "dinner",
       "waiter",
-      "kitchen"
+      "kitchen",
+      "gourmet",
+      "haut cousine",
+      "michelen",
+      "room service"
     ],
     "copyright": false,
     "files": {
@@ -75448,6 +75496,7 @@
       "sexy",
       "victoria s secret",
       "butt",
+      "swimsuit",
       "Bikini",
       "Sports Illustrated"
     ],

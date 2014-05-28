@@ -2817,7 +2817,12 @@
     "category": "Ecommerce",
     "created": 1401166273,
     "tags": [
-
+      "price category",
+      "price level",
+      "intermediate",
+      "fair price",
+      "moderate",
+      "middle class"
     ],
     "copyright": false,
     "files": {
@@ -14399,9 +14404,14 @@
     "category": "Sciences",
     "created": 1356437137,
     "tags": [
+      "centimeter",
+      "inch",
       "instrument of measurement",
       "measurements",
       "measurement tool",
+      "geometry",
+      "angle",
+      "cm",
       "measurement"
     ],
     "copyright": false,
@@ -16408,9 +16418,7 @@
     "category": "Ecommerce",
     "created": 1390342413,
     "tags": [
-      "health",
       "box",
-      "packaging",
       "remove",
       "cross",
       "clean",
@@ -16418,13 +16426,11 @@
       "food",
       "dry",
       "fire",
-      "light",
       "beverage",
       "stick",
       "laser",
       "drawing",
       "business",
-      "temperature",
       "storage",
       "transport",
       "crying",
@@ -16444,17 +16450,25 @@
       "air",
       "product",
       "black",
-      "darkness",
-      "indoors",
-      "sun",
-      "environment",
-      "outdoors",
-      "conditions",
-      "radiation",
-      "brightness",
       "long",
-      "explosion",
-      "c"
+      "container",
+      "plastic",
+      "hide",
+      "fruit",
+      "handle",
+      "keep",
+      "tattoo",
+      "nice",
+      "concern",
+      "flowers",
+      "sketch",
+      "laughing",
+      "overlap",
+      "throw",
+      "cargo",
+      "useful",
+      "spill",
+      "pl"
     ],
     "copyright": false,
     "files": {
@@ -25778,6 +25792,7 @@
     "tags": [
       "coin",
       "coins",
+      "luxury",
       "charge",
       "duty",
       "tax",
@@ -25786,7 +25801,12 @@
       "cost",
       "costly",
       "fee",
-      "many"
+      "many",
+      "upscale",
+      "Louis Vuitton",
+      "haut couture",
+      "price category",
+      "price level"
     ],
     "copyright": false,
     "files": {
@@ -30041,6 +30061,8 @@
       "length",
       "measurement",
       "centimeter",
+      "inch",
+      "distance",
       "cart",
       "long",
       "work tool",
@@ -30048,7 +30070,8 @@
       "measurements",
       "measuring",
       "office supply",
-      "millimeter"
+      "millimeter",
+      "cm"
     ],
     "copyright": false,
     "files": {
@@ -30214,7 +30237,6 @@
       "design",
       "graphics",
       "vector",
-      "shipping",
       "performance",
       "paper",
       "communicate",
@@ -30228,38 +30250,38 @@
       "shopping",
       "road",
       "symbol",
-      "transport",
       "machine",
-      "moving",
       "lines",
-      "wheels",
-      "retail",
       "image",
       "illustration",
       "graphic",
-      "store",
-      "cart",
       "sign",
-      "shop",
-      "equipment",
       "black",
       "glass",
       "icon",
       "size",
-      "wheel",
       "width",
       "shape",
       "style",
-      "move",
-      "heavy",
-      "stock",
-      "weight",
-      "transfer",
-      "service",
       "customer",
       "bag",
       "price",
-      "surfa"
+      "surface",
+      "circle",
+      "push",
+      "material",
+      "handle",
+      "strength",
+      "here",
+      "stone",
+      "accessories",
+      "organize",
+      "carton",
+      "market",
+      "quality",
+      "sticker",
+      "lift",
+      "level"
     ],
     "copyright": false,
     "files": {
@@ -31198,13 +31220,16 @@
     "created": 1401144672,
     "tags": [
       "discount",
+      "bargain",
       "coin",
       "one",
       "rate",
       "cheap",
       "tax",
       "cost",
-      "inexpensive"
+      "inexpensive",
+      "price category",
+      "price level"
     ],
     "copyright": false,
     "files": {
@@ -41059,7 +41084,8 @@
       "euros",
       "euro sign",
       "eur",
-      "finance"
+      "finance",
+      "europe"
     ],
     "copyright": false,
     "files": {
@@ -41085,7 +41111,12 @@
     "category": "Ecommerce",
     "created": 1390342414,
     "tags": [
-
+      "price",
+      "london",
+      "uk",
+      "britain",
+      "british pound",
+      "gbp"
     ],
     "copyright": false,
     "files": {
@@ -45080,7 +45111,13 @@
     "category": "Military",
     "created": 1394776288,
     "tags": [
-
+      "school",
+      "cargo",
+      "carry",
+      "baggage",
+      "backpack",
+      "carryon",
+      "carry-on"
     ],
     "copyright": false,
     "files": {
@@ -47548,7 +47585,10 @@
     "category": "Ecommerce",
     "created": 1395935483,
     "tags": [
+      "basket",
+      "fashion",
       "bag",
+      "paper bag",
       "finance"
     ],
     "copyright": false,
@@ -58517,7 +58557,7 @@
     "category": "Very Basic",
     "created": 1401144672,
     "tags": [
-
+      "quality"
     ],
     "copyright": false,
     "files": {
