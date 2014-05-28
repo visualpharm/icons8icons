@@ -7216,6 +7216,7 @@
       "finance",
       "invoice",
       "cost",
+      "facture",
       "bank",
       "official"
     ],
@@ -12359,7 +12360,9 @@
       "enabled",
       "user enabled",
       "user profile",
-      "user ok"
+      "user ok",
+      "asp",
+      "vm"
     ],
     "copyright": false,
     "files": {
@@ -37826,6 +37829,7 @@
       "day",
       "graph",
       "temperature",
+      "code",
       "clouds",
       "cold",
       "menu",
@@ -41711,7 +41715,9 @@
       "silver",
       "gold",
       "buying",
-      "piggy bank"
+      "piggy bank",
+      "cochon",
+      "caisse"
     ],
     "copyright": false,
     "files": {
@@ -49531,6 +49537,7 @@
     "tags": [
       "calculator",
       "plus",
+      "finish",
       "expressing positivity",
       "mathematics",
       "plus sign",
@@ -51002,7 +51009,6 @@
     "created": 1318305600,
     "tags": [
       "office",
-      "print",
       "filing",
       "ink",
       "laser",
@@ -51016,6 +51022,7 @@
       "printer settings",
       "hp",
       "epson",
+      "print",
       "deskjet",
       "inkjet",
       "laserjet",
@@ -51265,9 +51272,9 @@
     "tags": [
       "web",
       "item",
-      "product",
       "section",
-      "service"
+      "service",
+      "product"
     ],
     "copyright": false,
     "files": {
@@ -51469,13 +51476,12 @@
       "svg.simplified": "/SVG_for_Font/Files/psd.svg",
       "eps": "/EPS/Files/psd.eps",
       "png": {
-        "32": "/PNG/File_Types/psd/psd-32.png",
-        "128": "/PNG/File_Types/psd/psd-128.png",
-        "26": "/PNG/File_Types/psd/psd-26.png",
-        "256": "/PNG/File_Types/psd/psd-256.png",
-        "512": "/PNG/File_Types/psd/psd-512.png",
-        "64": "/PNG/File_Types/psd/psd-64.png",
-        "48": "/PNG/File_Types/psd/psd-48.png"
+        "32": "/PNG/32/Files/psd-32.png",
+        "128": "/PNG/128/Files/psd-128.png",
+        "26": "/PNG/26/Files/psd-26.png",
+        "256": "/PNG/256/Files/psd-256.png",
+        "512": "/PNG/512/Files/psd-512.png",
+        "64": "/PNG/64/Files/psd-64.png"
       }
     }
   },
@@ -60727,7 +60733,9 @@
       "phone",
       "cellphone",
       "smartphone",
+      "message",
       "sms",
+      "text",
       "mobile phone",
       "touch screen"
     ],
@@ -67566,10 +67574,11 @@
       "weather",
       "rain",
       "triangle",
-      "variable",
       "rectangle",
       "square",
-      "numerals"
+      "numerals",
+      "five",
+      "zero"
     ],
     "copyright": false,
     "files": {

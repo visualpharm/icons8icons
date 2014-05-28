@@ -4682,8 +4682,10 @@
     "tags": [
       "bank",
       "buy",
+      "savings",
       "money",
       "coin",
+      "coins",
       "payment methods set",
       "signature",
       "palm",
@@ -8186,6 +8188,7 @@
       "letter",
       "businessman",
       "blank",
+      "street",
       "governance",
       "generic file"
     ],
@@ -27109,7 +27112,8 @@
     "category": "Mobile",
     "created": 1398905484,
     "tags": [
-
+      "message",
+      "text"
     ],
     "copyright": false,
     "files": {
