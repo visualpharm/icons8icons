@@ -4633,6 +4633,7 @@
     "category": "User Interface",
     "created": 1334562086,
     "tags": [
+      "arrow",
       "settings",
       "refresh",
       "symbols",
@@ -9546,6 +9547,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/bust.svg",
+      "svg.simplified": "/SVG_for_Font/City/bust.svg",
       "eps": "/EPS/City/bust.eps",
       "png": {
         "32": "/PNG/32/City/bust-32.png",
@@ -12436,6 +12438,7 @@
       "mask",
       "no",
       "back",
+      "windows 8",
       "legal",
       "upright",
       "proper",
@@ -12459,6 +12462,7 @@
       "scrupulous",
       "virtuous",
       "select",
+      "metro",
       "check",
       "correct",
       "right",
@@ -34679,7 +34683,6 @@
       "liquid",
       "caffeine",
       "brown",
-      "elegant",
       "black coffee",
       "transcribe",
       "entry",
@@ -34688,7 +34691,8 @@
       "prod",
       "faces",
       "mimicking",
-      "expres"
+      "expressions",
+      "mi"
     ],
     "copyright": true,
     "files": {
@@ -37807,6 +37811,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/lion_statue.svg",
+      "svg.simplified": "/SVG_for_Font/City/lion_statue.svg",
       "eps": "/EPS/City/lion_statue.eps",
       "png": {
         "32": "/PNG/32/City/lion_statue-32.png",
@@ -39015,6 +39020,7 @@
       "cash",
       "card",
       "bank",
+      "user",
       "group",
       "info",
       "presentation",
@@ -41641,6 +41647,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/modern_statue.svg",
+      "svg.simplified": "/SVG_for_Font/City/modern_statue.svg",
       "eps": "/EPS/City/modern_statue.eps",
       "png": {
         "32": "/PNG/32/City/modern_statue-32.png",
@@ -47817,6 +47824,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/pavilion.svg",
+      "svg.simplified": "/SVG_for_Font/City/pavilion.svg",
       "eps": "/EPS/City/pavilion.eps",
       "png": {
         "32": "/PNG/32/City/pavilion-32.png",
@@ -49485,6 +49493,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/playground.svg",
+      "svg.simplified": "/SVG_for_Font/City/playground.svg",
       "eps": "/EPS/City/playground.eps",
       "png": {
         "32": "/PNG/32/City/playground-32.png",
@@ -51099,6 +51108,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Programming/private.svg",
+      "svg.simplified": "/SVG_for_Font/Programming/private.svg",
       "eps": "/EPS/Programming/private.eps",
       "png": {
         "32": "/PNG/32/Programming/private-32.png",
@@ -54189,6 +54199,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/restaurant.svg",
+      "svg.simplified": "/SVG_for_Font/City/restaurant.svg",
       "eps": "/EPS/City/restaurant.eps",
       "png": {
         "32": "/PNG/32/City/restaurant-32.png",
@@ -54207,7 +54218,7 @@
     "category": "Food",
     "created": 1401303074,
     "tags": [
-
+      "credit"
     ],
     "copyright": false,
     "files": {
@@ -58034,6 +58045,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Very_Basic/settings2.svg",
+      "svg.simplified": "/SVG_for_Font/Very_Basic/settings2.svg",
       "eps": "/EPS/Very_Basic/settings2.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/settings2-32.png",
@@ -58076,6 +58088,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Programming/settings3.svg",
+      "svg.simplified": "/SVG_for_Font/Programming/settings3.svg",
       "eps": "/EPS/Programming/settings3.eps",
       "png": {
         "32": "/PNG/32/Programming/settings3-32.png",
@@ -59054,7 +59067,8 @@
       "login",
       "shut",
       "spe",
-      "shut down"
+      "shut down",
+      "onedrive"
     ],
     "copyright": false,
     "files": {
@@ -62762,6 +62776,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/statue.svg",
+      "svg.simplified": "/SVG_for_Font/City/statue.svg",
       "eps": "/EPS/City/statue.eps",
       "png": {
         "32": "/PNG/32/City/statue-32.png",
@@ -66053,6 +66068,7 @@
       "holistic",
       "treatment",
       "poem",
+      "psychiatry",
       "examine",
       "check-up",
       "evaluate",

@@ -16307,7 +16307,7 @@
     "category": "Very Basic",
     "created": 1401144672,
     "tags": [
-
+      "cloud"
     ],
     "copyright": false,
     "files": {
@@ -16747,6 +16747,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Business/drafting_compass2.svg",
+      "svg.simplified": "/SVG_for_Font/Business/drafting_compass2.svg",
       "eps": "/EPS/Business/drafting_compass2.eps",
       "png": {
         "25": "/PNG/25/Business/drafting_compass2-25.png",
@@ -21276,6 +21277,7 @@
     "category": "Sports",
     "created": 1318940047,
     "tags": [
+      "swimming",
       "games",
       "stadium",
       "kick",
@@ -56349,7 +56351,6 @@
       "sex",
       "bathroom",
       "male",
-      "red",
       "article",
       "gender",
       "trust",
@@ -56361,7 +56362,8 @@
       "lavatory",
       "urinal",
       "latrine",
-      "changing"
+      "changing",
+      "red"
     ],
     "copyright": false,
     "files": {
