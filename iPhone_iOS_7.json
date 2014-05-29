@@ -2826,7 +2826,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Ecommerce/average_price.svg",
       "svg.simplified": "/SVG_for_Font/Ecommerce/average_price.svg",
       "eps": "/EPS/Ecommerce/average_price.eps",
       "png": {
@@ -11901,7 +11900,6 @@
     "tags": [
       "admin",
       "vector",
-      "user",
       "ok",
       "globe",
       "group",
@@ -25906,7 +25904,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Ecommerce/high_price.svg",
       "svg.simplified": "/SVG_for_Font/Ecommerce/high_price.svg",
       "eps": "/EPS/Ecommerce/high_price.eps",
       "png": {
@@ -31398,7 +31395,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Ecommerce/low_price.svg",
       "svg.simplified": "/SVG_for_Font/Ecommerce/low_price.svg",
       "eps": "/EPS/Ecommerce/low_price.eps",
       "png": {
@@ -41624,6 +41620,7 @@
       "hardware",
       "technology",
       "electronics",
+      "gps",
       "computer equipment",
       "information equipment",
       "contemporary",
@@ -45134,6 +45131,7 @@
       "rotation",
       "view",
       "landscape",
+      "processor",
       "lock orientation"
     ],
     "copyright": false,
@@ -50338,6 +50336,7 @@
     "category": "Transport",
     "created": 1363207523,
     "tags": [
+      "info",
       "refresh",
       "car",
       "dashboard",
