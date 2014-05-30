@@ -6466,6 +6466,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Arrows/collapse.svg",
+      "svg.simplified": "/SVG_for_Font/Arrows/collapse.svg",
       "eps": "/EPS/Arrows/collapse.eps",
       "png": {
         "32": "/PNG/32/Arrows/collapse-32.png",
@@ -6492,6 +6493,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Editing/collapse2.svg",
+      "svg.simplified": "/SVG_for_Font/Editing/collapse2.svg",
       "eps": "/EPS/Editing/collapse2.eps",
       "png": {
         "32": "/PNG/32/Editing/collapse2-32.png",
@@ -9706,6 +9708,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Arrows/expand.svg",
+      "svg.simplified": "/SVG_for_Font/Arrows/expand.svg",
       "eps": "/EPS/Arrows/expand.eps",
       "png": {
         "32": "/PNG/32/Arrows/expand-32.png",

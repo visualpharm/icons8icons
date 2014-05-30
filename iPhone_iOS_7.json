@@ -2833,6 +2833,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Ecommerce/average.svg",
+      "svg.simplified": "/SVG_for_Font/Ecommerce/average.svg",
       "eps": "/EPS/Ecommerce/average.eps",
       "png": {
         "25": "/PNG/25/Ecommerce/average-25.png",
@@ -2904,6 +2905,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Ecommerce/average2.svg",
+      "svg.simplified": "/SVG_for_Font/Ecommerce/average2.svg",
       "eps": "/EPS/Ecommerce/average2.eps",
       "png": {
         "25": "/PNG/25/Ecommerce/average2-25.png",
@@ -9034,6 +9036,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Ecommerce/cheap.svg",
+      "svg.simplified": "/SVG_for_Font/Ecommerce/cheap.svg",
       "eps": "/EPS/Ecommerce/cheap.eps",
       "png": {
         "25": "/PNG/25/Ecommerce/cheap-25.png",
@@ -9075,6 +9078,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Ecommerce/cheap2.svg",
+      "svg.simplified": "/SVG_for_Font/Ecommerce/cheap2.svg",
       "eps": "/EPS/Ecommerce/cheap2.eps",
       "png": {
         "25": "/PNG/25/Ecommerce/cheap2-25.png",
@@ -13705,6 +13709,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Programming/css.svg",
+      "svg.simplified": "/SVG_for_Font/Programming/css.svg",
       "eps": "/EPS/Programming/css.eps",
       "png": {
         "25": "/PNG/25/Programming/css-25.png",
@@ -13730,6 +13735,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/File_Types/css_filetype.svg",
+      "svg.simplified": "/SVG_for_Font/File_Types/css_filetype.svg",
       "eps": "/EPS/File_Types/css_filetype.eps",
       "png": {
         "25": "/PNG/25/File_Types/css_filetype-25.png",
@@ -19088,6 +19094,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Ecommerce/expensive.svg",
+      "svg.simplified": "/SVG_for_Font/Ecommerce/expensive.svg",
       "eps": "/EPS/Ecommerce/expensive.eps",
       "png": {
         "25": "/PNG/25/Ecommerce/expensive-25.png",
@@ -19163,6 +19170,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Ecommerce/expensive2.svg",
+      "svg.simplified": "/SVG_for_Font/Ecommerce/expensive2.svg",
       "eps": "/EPS/Ecommerce/expensive2.eps",
       "png": {
         "25": "/PNG/25/Ecommerce/expensive2-25.png",
@@ -26777,6 +26785,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Programming/html.svg",
+      "svg.simplified": "/SVG_for_Font/Programming/html.svg",
       "eps": "/EPS/Programming/html.eps",
       "png": {
         "25": "/PNG/25/Programming/html-25.png",
@@ -26802,6 +26811,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/File_Types/html_filetype.svg",
+      "svg.simplified": "/SVG_for_Font/File_Types/html_filetype.svg",
       "eps": "/EPS/File_Types/html_filetype.eps",
       "png": {
         "25": "/PNG/25/File_Types/html_filetype-25.png",
@@ -56621,6 +56631,7 @@
       "book",
       "calendar",
       "date",
+      "day",
       "user",
       "time",
       "graph",
@@ -56628,6 +56639,7 @@
       "dates",
       "point",
       "schedule",
+      "daily",
       "lacation",
       "table"
     ],
