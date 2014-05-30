@@ -2811,36 +2811,6 @@
     }
   },
   {
-    "id": 4768,
-    "name": "average_price",
-    "platform": "iPhone/iOS 7",
-    "category": "Ecommerce",
-    "created": 1401166273,
-    "tags": [
-      "price category",
-      "price level",
-      "intermediate",
-      "fair price",
-      "moderate",
-      "middle class"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Ecommerce/average_price.svg",
-      "eps": "/EPS/Ecommerce/average_price.eps",
-      "png": {
-        "25": "/PNG/25/Ecommerce/average_price-25.png",
-        "32": "/PNG/32/Ecommerce/average_price-32.png",
-        "128": "/PNG/128/Ecommerce/average_price-128.png",
-        "75": "/PNG/75/Ecommerce/average_price-75.png",
-        "256": "/PNG/256/Ecommerce/average_price-256.png",
-        "100": "/PNG/100/Ecommerce/average_price-100.png",
-        "512": "/PNG/512/Ecommerce/average_price-512.png",
-        "50": "/PNG/50/Ecommerce/average_price-50.png"
-      }
-    }
-  },
-  {
     "id": 322,
     "name": "avi",
     "platform": "iPhone/iOS 7",
@@ -21564,6 +21534,7 @@
       "round",
       "next",
       "share",
+      "speaker",
       "newletter",
       "ahaha",
       "lock"
@@ -25440,7 +25411,6 @@
       "hospital",
       "heart beat",
       "emergency",
-      "heart monitor",
       "electronic",
       "blood",
       "diaphragm"
@@ -25877,47 +25847,6 @@
         "100": "/PNG/100/Mobile/high_battery-100.png",
         "512": "/PNG/512/Mobile/high_battery-512.png",
         "50": "/PNG/50/Mobile/high_battery-50.png"
-      }
-    }
-  },
-  {
-    "id": 4721,
-    "name": "high_price",
-    "platform": "iPhone/iOS 7",
-    "category": "Ecommerce",
-    "created": 1401144672,
-    "tags": [
-      "coin",
-      "coins",
-      "luxury",
-      "charge",
-      "duty",
-      "tax",
-      "expensive",
-      "margin",
-      "cost",
-      "costly",
-      "fee",
-      "many",
-      "upscale",
-      "Louis Vuitton",
-      "haut couture",
-      "price category",
-      "price level"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Ecommerce/high_price.svg",
-      "eps": "/EPS/Ecommerce/high_price.eps",
-      "png": {
-        "25": "/PNG/25/Ecommerce/high_price-25.png",
-        "32": "/PNG/32/Ecommerce/high_price-32.png",
-        "128": "/PNG/128/Ecommerce/high_price-128.png",
-        "75": "/PNG/75/Ecommerce/high_price-75.png",
-        "256": "/PNG/256/Ecommerce/high_price-256.png",
-        "100": "/PNG/100/Ecommerce/high_price-100.png",
-        "512": "/PNG/512/Ecommerce/high_price-512.png",
-        "50": "/PNG/50/Ecommerce/high_price-50.png"
       }
     }
   },
@@ -31378,41 +31307,6 @@
     }
   },
   {
-    "id": 4723,
-    "name": "low_price",
-    "platform": "iPhone/iOS 7",
-    "category": "Ecommerce",
-    "created": 1401144672,
-    "tags": [
-      "discount",
-      "bargain",
-      "coin",
-      "one",
-      "rate",
-      "cheap",
-      "tax",
-      "cost",
-      "inexpensive",
-      "price category",
-      "price level"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Ecommerce/low_price.svg",
-      "eps": "/EPS/Ecommerce/low_price.eps",
-      "png": {
-        "25": "/PNG/25/Ecommerce/low_price-25.png",
-        "32": "/PNG/32/Ecommerce/low_price-32.png",
-        "128": "/PNG/128/Ecommerce/low_price-128.png",
-        "75": "/PNG/75/Ecommerce/low_price-75.png",
-        "256": "/PNG/256/Ecommerce/low_price-256.png",
-        "100": "/PNG/100/Ecommerce/low_price-100.png",
-        "512": "/PNG/512/Ecommerce/low_price-512.png",
-        "50": "/PNG/50/Ecommerce/low_price-50.png"
-      }
-    }
-  },
-  {
     "id": 2929,
     "name": "low_volume",
     "platform": "iPhone/iOS 7",
@@ -34079,6 +33973,7 @@
     "category": "Finance",
     "created": 1390342414,
     "tags": [
+      "money",
       "coins",
       "handshake"
     ],
@@ -38264,7 +38159,8 @@
       "trip",
       "weather",
       "air",
-      "sun"
+      "sun",
+      "weather preasure"
     ],
     "copyright": false,
     "files": {
@@ -44264,6 +44160,7 @@
       "tag",
       "signal",
       "wireless",
+      "network",
       "wireless technology",
       "wireless connect",
       "sensor",
@@ -45963,7 +45860,8 @@
     "created": 1395935483,
     "tags": [
       "upload",
-      "shuffle"
+      "shuffle",
+      "client"
     ],
     "copyright": false,
     "files": {
@@ -47835,7 +47733,8 @@
       "sell",
       "business",
       "shop",
-      "store"
+      "store",
+      "bar"
     ],
     "copyright": false,
     "files": {
@@ -56288,6 +56187,7 @@
     "tags": [
       "book",
       "calendar",
+      "date",
       "user",
       "time",
       "graph",
@@ -57162,6 +57062,7 @@
       "edit",
       "full",
       "change",
+      "camera",
       "environmental conservation",
       "recycling",
       "garbage can",
@@ -57748,6 +57649,7 @@
     "tags": [
       "delivery",
       "sale",
+      "coins",
       "van",
       "financial services"
     ],
@@ -58272,7 +58174,8 @@
       "connection",
       "menu",
       "rifle",
-      "alert"
+      "alert",
+      "bingo"
     ],
     "copyright": false,
     "files": {
