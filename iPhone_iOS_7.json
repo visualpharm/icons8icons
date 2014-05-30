@@ -12934,6 +12934,7 @@
     "category": "Animals",
     "created": 1372934468,
     "tags": [
+      "card",
       "crab",
       "cancer",
       "crustacean",
@@ -12941,6 +12942,7 @@
       "info",
       "like",
       "dashboard",
+      "1",
       "aerospace",
       "ytrey"
     ],
@@ -24700,7 +24702,6 @@
       "world",
       "physical",
       "protect",
-      "care",
       "overview",
       "label",
       "save",
@@ -24735,7 +24736,8 @@
       "kids",
       "icon",
       "touch",
-      "hands"
+      "hands",
+      "truck"
     ],
     "copyright": false,
     "files": {
@@ -43658,13 +43660,11 @@
       "repeat",
       "load",
       "shuffle",
-      "redo",
-      "fail",
       "resume",
-      "attempt",
       "reconnect",
       "replay",
-      "refresh"
+      "refresh",
+      "redo"
     ],
     "copyright": false,
     "files": {
@@ -57780,6 +57780,7 @@
       "musical instrument",
       "orchester",
       "trumpet",
+      "teacher",
       "golf",
       "gol"
     ],
