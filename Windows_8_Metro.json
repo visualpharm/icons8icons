@@ -5934,6 +5934,48 @@
     }
   },
   {
+    "id": 4849,
+    "name": "basement",
+    "platform": "Windows 8/Metro",
+    "category": "Household",
+    "created": 1401483064,
+    "tags": [
+      "building",
+      "structure",
+      "construction",
+      "underground",
+      "groundfloor",
+      "below ground level",
+      "cellar",
+      "vault",
+      "crypt",
+      "undercroft",
+      "catacomb",
+      "substructure",
+      "foundation of a building",
+      "lowest level",
+      "last place",
+      "subfoundation",
+      "below the main floor",
+      "story of a building",
+      "the lowermost portion",
+      "cellarage"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/basement.svg",
+      "eps": "/EPS/Household/basement.eps",
+      "png": {
+        "32": "/PNG/32/Household/basement-32.png",
+        "128": "/PNG/128/Household/basement-128.png",
+        "26": "/PNG/26/Household/basement-26.png",
+        "256": "/PNG/256/Household/basement-256.png",
+        "512": "/PNG/512/Household/basement-512.png",
+        "64": "/PNG/64/Household/basement-64.png"
+      }
+    }
+  },
+  {
     "id": 1441,
     "name": "base_jumping",
     "platform": "Windows 8/Metro",
@@ -23352,6 +23394,46 @@
     }
   },
   {
+    "id": 4845,
+    "name": "equestrian_statue",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1401483064,
+    "tags": [
+      "flag",
+      "rider",
+      "sports",
+      "knight",
+      "horse",
+      "army",
+      "jockey",
+      "race",
+      "statue",
+      "battle",
+      "performer on horseback",
+      "horseman",
+      "jumping over obstacles",
+      "demonstrate horsemanship",
+      "stadium jumping",
+      "napoleon",
+      "karl",
+      "sword"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/equestrian_statue.svg",
+      "eps": "/EPS/City/equestrian_statue.eps",
+      "png": {
+        "32": "/PNG/32/City/equestrian_statue-32.png",
+        "128": "/PNG/128/City/equestrian_statue-128.png",
+        "26": "/PNG/26/City/equestrian_statue-26.png",
+        "256": "/PNG/256/City/equestrian_statue-256.png",
+        "512": "/PNG/512/City/equestrian_statue-512.png",
+        "64": "/PNG/64/City/equestrian_statue-64.png"
+      }
+    }
+  },
+  {
     "id": 3652,
     "name": "equivalent",
     "platform": "Windows 8/Metro",
@@ -37695,6 +37777,48 @@
     }
   },
   {
+    "id": 4847,
+    "name": "lights",
+    "platform": "Windows 8/Metro",
+    "category": "Household",
+    "created": 1401483064,
+    "tags": [
+      "wire",
+      "day",
+      "earth",
+      "bulb",
+      "lamp",
+      "night",
+      "power",
+      "bright",
+      "evening",
+      "lights",
+      "socket",
+      "fixture",
+      "wall mounted",
+      "outdoor lighting",
+      "mountable back plate",
+      "lamp shade",
+      "surface mount",
+      "alley lighting",
+      "weather proof",
+      "overhead light fixture"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/lights.svg",
+      "eps": "/EPS/Household/lights.eps",
+      "png": {
+        "32": "/PNG/32/Household/lights-32.png",
+        "128": "/PNG/128/Household/lights-128.png",
+        "26": "/PNG/26/Household/lights-26.png",
+        "256": "/PNG/256/Household/lights-256.png",
+        "512": "/PNG/512/Household/lights-512.png",
+        "64": "/PNG/64/Household/lights-64.png"
+      }
+    }
+  },
+  {
     "id": 86,
     "name": "like",
     "platform": "Windows 8/Metro",
@@ -51479,6 +51603,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Messaging/private2.svg",
+      "svg.simplified": "/SVG_for_Font/Messaging/private2.svg",
       "eps": "/EPS/Messaging/private2.eps",
       "png": {
         "32": "/PNG/32/Messaging/private2-32.png",
@@ -54551,6 +54676,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/restaurant2.svg",
+      "svg.simplified": "/SVG_for_Font/Food/restaurant2.svg",
       "eps": "/EPS/Food/restaurant2.eps",
       "png": {
         "32": "/PNG/32/Food/restaurant2-32.png",

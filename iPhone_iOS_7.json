@@ -3808,6 +3808,51 @@
     }
   },
   {
+    "id": 4850,
+    "name": "basement",
+    "platform": "iPhone/iOS 7",
+    "category": "Household",
+    "created": 1401483064,
+    "tags": [
+      "building",
+      "structure",
+      "construction",
+      "underground",
+      "groundfloor",
+      "below ground level",
+      "cellar",
+      "vault",
+      "crypt",
+      "undercroft",
+      "catacomb",
+      "substructure",
+      "foundation of a building",
+      "lowest level",
+      "last place",
+      "subfoundation",
+      "below the main floor",
+      "story of a building",
+      "the lowermost portion",
+      "cellarage"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/basement.svg",
+      "svg.simplified": "/SVG_for_Font/Household/basement.svg",
+      "eps": "/EPS/Household/basement.eps",
+      "png": {
+        "25": "/PNG/25/Household/basement-25.png",
+        "32": "/PNG/32/Household/basement-32.png",
+        "128": "/PNG/128/Household/basement-128.png",
+        "75": "/PNG/75/Household/basement-75.png",
+        "256": "/PNG/256/Household/basement-256.png",
+        "100": "/PNG/100/Household/basement-100.png",
+        "512": "/PNG/512/Household/basement-512.png",
+        "50": "/PNG/50/Household/basement-50.png"
+      }
+    }
+  },
+  {
     "id": 4709,
     "name": "basilica",
     "platform": "iPhone/iOS 7",
@@ -10148,9 +10193,9 @@
       "fruit",
       "citrus",
       "citrus fruit",
-      "lemon",
       "lime",
-      "spring"
+      "spring",
+      "lemon"
     ],
     "copyright": false,
     "files": {
@@ -11258,7 +11303,6 @@
       "white",
       "glass",
       "orange",
-      "energy",
       "easy",
       "cream",
       "summer",
@@ -11268,7 +11312,8 @@
       "salt",
       "straw",
       "starwberry",
-      "mixed fruit"
+      "mixed fruit",
+      "energy"
     ],
     "copyright": false,
     "files": {
@@ -16887,6 +16932,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Editing/drafting_compass.svg",
+      "svg.simplified": "/SVG_for_Font/Editing/drafting_compass.svg",
       "eps": "/EPS/Editing/drafting_compass.eps",
       "png": {
         "25": "/PNG/25/Editing/drafting_compass-25.png",
@@ -18671,6 +18717,48 @@
     }
   },
   {
+    "id": 4846,
+    "name": "equestrian_statue",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1401483064,
+    "tags": [
+      "flag",
+      "rider",
+      "sports",
+      "knight",
+      "horse",
+      "army",
+      "jockey",
+      "race",
+      "statue",
+      "battle",
+      "performer on horseback",
+      "horseman",
+      "jumping over obstacles",
+      "demonstrate horsemanship",
+      "stadium jumping",
+      "napoleon",
+      "karl",
+      "sword"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/equestrian_statue.svg",
+      "eps": "/EPS/City/equestrian_statue.eps",
+      "png": {
+        "25": "/PNG/25/City/equestrian_statue-25.png",
+        "32": "/PNG/32/City/equestrian_statue-32.png",
+        "128": "/PNG/128/City/equestrian_statue-128.png",
+        "75": "/PNG/75/City/equestrian_statue-75.png",
+        "256": "/PNG/256/City/equestrian_statue-256.png",
+        "100": "/PNG/100/City/equestrian_statue-100.png",
+        "512": "/PNG/512/City/equestrian_statue-512.png",
+        "50": "/PNG/50/City/equestrian_statue-50.png"
+      }
+    }
+  },
+  {
     "id": 3655,
     "name": "equivalent",
     "platform": "iPhone/iOS 7",
@@ -19362,6 +19450,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/exterior.svg",
+      "svg.simplified": "/SVG_for_Font/Household/exterior.svg",
       "eps": "/EPS/Household/exterior.eps",
       "png": {
         "25": "/PNG/25/Household/exterior-25.png",
@@ -27740,6 +27829,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/interior.svg",
+      "svg.simplified": "/SVG_for_Font/Household/interior.svg",
       "eps": "/EPS/Household/interior.eps",
       "png": {
         "25": "/PNG/25/Household/interior-25.png",
@@ -30773,6 +30863,51 @@
         "100": "/PNG/100/Maps/lighthouse-100.png",
         "512": "/PNG/512/Maps/lighthouse-512.png",
         "50": "/PNG/50/Maps/lighthouse-50.png"
+      }
+    }
+  },
+  {
+    "id": 4848,
+    "name": "lights",
+    "platform": "iPhone/iOS 7",
+    "category": "Household",
+    "created": 1401483064,
+    "tags": [
+      "wire",
+      "day",
+      "earth",
+      "bulb",
+      "lamp",
+      "night",
+      "power",
+      "bright",
+      "evening",
+      "lights",
+      "socket",
+      "fixture",
+      "wall mounted",
+      "outdoor lighting",
+      "mountable back plate",
+      "lamp shade",
+      "surface mount",
+      "alley lighting",
+      "weather proof",
+      "overhead light fixture"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/lights.svg",
+      "svg.simplified": "/SVG_for_Font/Household/lights.svg",
+      "eps": "/EPS/Household/lights.eps",
+      "png": {
+        "25": "/PNG/25/Household/lights-25.png",
+        "32": "/PNG/32/Household/lights-32.png",
+        "128": "/PNG/128/Household/lights-128.png",
+        "75": "/PNG/75/Household/lights-75.png",
+        "256": "/PNG/256/Household/lights-256.png",
+        "100": "/PNG/100/Household/lights-100.png",
+        "512": "/PNG/512/Household/lights-512.png",
+        "50": "/PNG/50/Household/lights-50.png"
       }
     }
   },
@@ -39386,7 +39521,8 @@
       "photos",
       "person",
       "camera",
-      "slr"
+      "slr",
+      "newsletter"
     ],
     "copyright": false,
     "files": {
@@ -40531,6 +40667,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/plumbing.svg",
+      "svg.simplified": "/SVG_for_Font/Household/plumbing.svg",
       "eps": "/EPS/Household/plumbing.eps",
       "png": {
         "25": "/PNG/25/Household/plumbing-25.png",
@@ -46303,6 +46440,7 @@
     "created": 1395935483,
     "tags": [
       "upload",
+      "export",
       "shuffle",
       "client"
     ],
