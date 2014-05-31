@@ -51821,6 +51821,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/statue.svg",
+      "svg.simplified": "/SVG_for_Font/City/statue.svg",
       "eps": "/EPS/City/statue.eps",
       "png": {
         "25": "/PNG/25/City/statue-25.png",

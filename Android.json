@@ -2638,6 +2638,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/beach.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/beach.svg",
       "eps": "/EPS/Travel/beach.eps",
       "png": {
         "32": "/PNG/32/Travel/beach-32.png",
@@ -2716,6 +2717,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/beach_ball.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/beach_ball.svg",
       "eps": "/EPS/Travel/beach_ball.eps",
       "png": {
         "32": "/PNG/32/Travel/beach_ball-32.png",
@@ -2787,6 +2789,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/beach_umbrella.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/beach_umbrella.svg",
       "eps": "/EPS/Travel/beach_umbrella.eps",
       "png": {
         "32": "/PNG/32/Travel/beach_umbrella-32.png",
@@ -3131,6 +3134,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/big_ben.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/big_ben.svg",
       "eps": "/EPS/Travel/big_ben.eps",
       "png": {
         "32": "/PNG/32/Travel/big_ben-32.png",
@@ -5122,6 +5126,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/cave.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/cave.svg",
       "eps": "/EPS/Travel/cave.eps",
       "png": {
         "32": "/PNG/32/Travel/cave-32.png",
@@ -6682,6 +6687,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/coconut_cocktail.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/coconut_cocktail.svg",
       "eps": "/EPS/Travel/coconut_cocktail.eps",
       "png": {
         "32": "/PNG/32/Travel/coconut_cocktail-32.png",
@@ -6795,6 +6801,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/coliseum.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/coliseum.svg",
       "eps": "/EPS/Travel/coliseum.eps",
       "png": {
         "32": "/PNG/32/Travel/coliseum-32.png",
@@ -9501,6 +9508,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/eiffel_tower.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/eiffel_tower.svg",
       "eps": "/EPS/Travel/eiffel_tower.eps",
       "png": {
         "32": "/PNG/32/Travel/eiffel_tower-32.png",
@@ -11509,6 +11517,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/flippers.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/flippers.svg",
       "eps": "/EPS/Travel/flippers.eps",
       "png": {
         "32": "/PNG/32/Travel/flippers-32.png",
@@ -18273,6 +18282,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/mask_snorkel.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/mask_snorkel.svg",
       "eps": "/EPS/Travel/mask_snorkel.eps",
       "png": {
         "32": "/PNG/32/Travel/mask_snorkel-32.png",
@@ -20085,6 +20095,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/museum.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/museum.svg",
       "eps": "/EPS/Travel/museum.eps",
       "png": {
         "32": "/PNG/32/Travel/museum-32.png",
@@ -29079,6 +29090,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/statue_of_liberty.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/statue_of_liberty.svg",
       "eps": "/EPS/Travel/statue_of_liberty.eps",
       "png": {
         "32": "/PNG/32/Travel/statue_of_liberty-32.png",
@@ -29516,6 +29528,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/suitcase.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/suitcase.svg",
       "eps": "/EPS/Travel/suitcase.eps",
       "png": {
         "32": "/PNG/32/Travel/suitcase-32.png",
@@ -30183,6 +30196,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/taj_mahal.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/taj_mahal.svg",
       "eps": "/EPS/Travel/taj_mahal.eps",
       "png": {
         "32": "/PNG/32/Travel/taj_mahal-32.png",
@@ -34173,6 +34187,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/us_capitol.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/us_capitol.svg",
       "eps": "/EPS/Travel/us_capitol.eps",
       "png": {
         "32": "/PNG/32/Travel/us_capitol-32.png",
