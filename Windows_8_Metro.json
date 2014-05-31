@@ -5964,6 +5964,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/basement.svg",
+      "svg.simplified": "/SVG_for_Font/Household/basement.svg",
       "eps": "/EPS/Household/basement.eps",
       "png": {
         "32": "/PNG/32/Household/basement-32.png",
@@ -23215,10 +23216,10 @@
       "industry",
       "equipment",
       "technology",
-      "power",
       "science",
       "engine",
       "manufacturing",
+      "old",
       "engineering",
       "construction",
       "engineer",
@@ -23422,6 +23423,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/equestrian_statue.svg",
+      "svg.simplified": "/SVG_for_Font/City/equestrian_statue.svg",
       "eps": "/EPS/City/equestrian_statue.eps",
       "png": {
         "32": "/PNG/32/City/equestrian_statue-32.png",
@@ -30565,6 +30567,7 @@
       "transmission",
       "organization",
       "company",
+      "gps",
       "circle",
       "curve",
       "class",
@@ -37807,6 +37810,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/lights.svg",
+      "svg.simplified": "/SVG_for_Font/Household/lights.svg",
       "eps": "/EPS/Household/lights.eps",
       "png": {
         "32": "/PNG/32/Household/lights-32.png",
@@ -66934,7 +66938,8 @@
       "thumb",
       "approve",
       "best",
-      "facebook likes"
+      "facebook likes",
+      "thumb up"
     ],
     "copyright": false,
     "files": {

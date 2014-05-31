@@ -12240,6 +12240,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/garage2.svg",
+      "svg.simplified": "/SVG_for_Font/Household/garage2.svg",
       "eps": "/EPS/Household/garage2.eps",
       "png": {
         "32": "/PNG/32/Household/garage2-32.png",

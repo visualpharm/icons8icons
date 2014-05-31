@@ -1961,6 +1961,7 @@
     "category": "Household",
     "created": 1352808353,
     "tags": [
+      "office",
       "family",
       "cottage",
       "realty",
@@ -6743,6 +6744,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/bust.svg",
+      "svg.simplified": "/SVG_for_Font/City/bust.svg",
       "eps": "/EPS/City/bust.eps",
       "png": {
         "25": "/PNG/25/City/bust-25.png",
@@ -7461,6 +7463,7 @@
     "created": 1391169055,
     "tags": [
       "delete",
+      "menu",
       "block",
       "back",
       "x",
@@ -12108,6 +12111,7 @@
     "tags": [
       "admin",
       "vector",
+      "user",
       "ok",
       "globe",
       "group",
@@ -15397,7 +15401,9 @@
     "category": "Maps",
     "created": 1390342414,
     "tags": [
-
+      "guide",
+      "sign",
+      "post"
     ],
     "copyright": false,
     "files": {
@@ -16492,7 +16498,7 @@
     "category": "Very Basic",
     "created": 1401144672,
     "tags": [
-
+      "history"
     ],
     "copyright": false,
     "files": {
@@ -18746,6 +18752,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/equestrian_statue.svg",
+      "svg.simplified": "/SVG_for_Font/City/equestrian_statue.svg",
       "eps": "/EPS/City/equestrian_statue.eps",
       "png": {
         "25": "/PNG/25/City/equestrian_statue-25.png",
@@ -18894,6 +18901,8 @@
     "category": "User Interface",
     "created": 1323168767,
     "tags": [
+      "warning",
+      "error",
       "dock"
     ],
     "copyright": false,
@@ -25586,7 +25595,9 @@
       "laptop",
       "tablet",
       "state",
-      "rotation"
+      "rotation",
+      "shortcut",
+      "short cut"
     ],
     "copyright": false,
     "files": {
@@ -31232,6 +31243,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/lion_statue.svg",
+      "svg.simplified": "/SVG_for_Font/City/lion_statue.svg",
       "eps": "/EPS/City/lion_statue.eps",
       "png": {
         "25": "/PNG/25/City/lion_statue-25.png",
@@ -34438,6 +34450,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/modern_statue.svg",
+      "svg.simplified": "/SVG_for_Font/City/modern_statue.svg",
       "eps": "/EPS/City/modern_statue.eps",
       "png": {
         "25": "/PNG/25/City/modern_statue-25.png",
@@ -39096,6 +39109,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/pavilion.svg",
+      "svg.simplified": "/SVG_for_Font/City/pavilion.svg",
       "eps": "/EPS/City/pavilion.eps",
       "png": {
         "25": "/PNG/25/City/pavilion-25.png",
@@ -40531,6 +40545,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/playground.svg",
+      "svg.simplified": "/SVG_for_Font/City/playground.svg",
       "eps": "/EPS/City/playground.eps",
       "png": {
         "25": "/PNG/25/City/playground-25.png",
@@ -48427,6 +48442,7 @@
     "tags": [
       "new",
       "glass",
+      "housing",
       "about"
     ],
     "copyright": false,
@@ -59267,9 +59283,7 @@
     "category": "Very Basic",
     "created": 1323361504,
     "tags": [
-      "sync",
-      "upload",
-      "font",
+      "upgrade",
       "share"
     ],
     "copyright": false,
