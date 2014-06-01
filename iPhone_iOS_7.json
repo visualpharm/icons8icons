@@ -5830,7 +5830,6 @@
       "empty",
       "food",
       "mail",
-      "tools",
       "light",
       "content",
       "access",
@@ -5860,7 +5859,8 @@
       "online",
       "post",
       "digital",
-      "woo"
+      "wooden",
+      "bo"
     ],
     "copyright": true,
     "files": {
@@ -13041,7 +13041,6 @@
       "media",
       "watching",
       "objects",
-      "record",
       "list",
       "logo",
       "computer",
@@ -13063,7 +13062,8 @@
       "theater",
       "instruction",
       "international",
-      "trainin"
+      "training",
+      "e-boo"
     ],
     "copyright": false,
     "files": {
@@ -23679,6 +23679,7 @@
       "task",
       "crown",
       "snake",
+      "description",
       "jewelry",
       "found",
       "longitude and latitude",
@@ -23693,7 +23694,7 @@
       "perform",
       "participate",
       "joke",
-      "enquiry"
+      "en"
     ],
     "copyright": false,
     "files": {
@@ -24653,6 +24654,7 @@
       "speech",
       "money",
       "charts",
+      "community",
       "todo",
       "conference",
       "grouping",
@@ -26062,11 +26064,9 @@
     "category": "Very Basic",
     "created": 1331453099,
     "tags": [
-      "play",
       "help",
       "question mark",
-      "cap",
-      "quesion"
+      "question"
     ],
     "copyright": false,
     "files": {
@@ -28111,6 +28111,7 @@
       "copy",
       "heart",
       "love",
+      "money",
       "smile",
       "person",
       "sweetness",
@@ -33339,6 +33340,7 @@
       "internet",
       "badge",
       "tool",
+      "search",
       "business",
       "road",
       "symbol",
@@ -33369,8 +33371,7 @@
       "radio",
       "template",
       "hamburger",
-      "panel",
-      "pic"
+      "pa"
     ],
     "copyright": false,
     "files": {
@@ -33397,6 +33398,7 @@
     "created": 1371509057,
     "tags": [
       "location",
+      "inbox",
       "phone",
       "send",
       "mail",
@@ -47326,17 +47328,13 @@
       "shield",
       "firewall",
       "guard",
-      "instagram",
       "threat",
       "stock",
       "website",
       "holiday",
       "risk",
-      "light bulb",
-      "abstract",
       "safe",
       "plans",
-      "vintage",
       "protected",
       "protocol",
       "authentication",
@@ -47401,7 +47399,6 @@
       "safe",
       "glossy",
       "secured",
-      "render",
       "encrypt",
       "ssl",
       "protocol",
@@ -47411,7 +47408,7 @@
       "layer",
       "https",
       "asymmetric",
-      "c"
+      "cryptogr"
     ],
     "copyright": false,
     "files": {
@@ -57160,6 +57157,7 @@
       "label",
       "drawing",
       "speech",
+      "chat",
       "bubble",
       "illustration",
       "speech bubble",
@@ -61206,7 +61204,10 @@
     "tags": [
       "location",
       "walking",
-      "walks"
+      "walks",
+      "walk",
+      "pedestrian",
+      "walker"
     ],
     "copyright": false,
     "files": {
