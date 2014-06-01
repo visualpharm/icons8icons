@@ -3661,7 +3661,6 @@
       "icon",
       "links",
       "shape",
-      "art",
       "calligraphy",
       "upgrade",
       "open",
@@ -3671,7 +3670,8 @@
       "service",
       "basic",
       "plastic",
-      "sing"
+      "single",
+      "i"
     ],
     "copyright": false,
     "files": {
