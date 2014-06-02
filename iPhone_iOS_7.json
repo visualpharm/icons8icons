@@ -2573,7 +2573,8 @@
       "electric mixer",
       "eq",
       "wave form",
-      "vocal sound waves"
+      "vocal sound waves",
+      "equalizer"
     ],
     "copyright": false,
     "files": {
@@ -2615,7 +2616,8 @@
       "eq",
       "vocal sound waves",
       "musical note",
-      "bass"
+      "bass",
+      "equalizer"
     ],
     "copyright": false,
     "files": {
@@ -19576,11 +19578,8 @@
     "category": "Logos",
     "created": 1324900438,
     "tags": [
-      "phone",
-      "search",
       "social network",
-      "Facebook",
-      "twitter"
+      "Facebook"
     ],
     "copyright": false,
     "files": {
@@ -45893,7 +45892,8 @@
       "baggage",
       "backpack",
       "carryon",
-      "carry-on"
+      "carry-on",
+      "pacman"
     ],
     "copyright": false,
     "files": {

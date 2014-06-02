@@ -120,7 +120,8 @@
       "kindergarten",
       "counting",
       "mathematics",
-      "two"
+      "two",
+      "2"
     ],
     "copyright": false,
     "files": {
@@ -11317,6 +11318,7 @@
     "tags": [
       "church",
       "worship",
+      "house of worship",
       "building",
       "square",
       "holy",
@@ -11503,6 +11505,7 @@
     "category": "City",
     "created": 1401144672,
     "tags": [
+      "house of worship",
       "cover",
       "stick",
       "flat",
@@ -13190,6 +13193,7 @@
     "category": "Holidays",
     "created": 1330940674,
     "tags": [
+      "house of worship",
       "group",
       "city",
       "gospel",
@@ -13432,6 +13436,7 @@
       "parking",
       "seminar",
       "hall",
+      "government",
       "ciy",
       "furnitures",
       "politicians",
@@ -47030,7 +47035,8 @@
     "tags": [
       "pause",
       "media controls",
-      "share"
+      "share",
+      "red color"
     ],
     "copyright": false,
     "files": {
@@ -60371,7 +60377,10 @@
     "category": "Mobile",
     "created": 1390342413,
     "tags": [
-      "audio"
+      "audio",
+      "talk",
+      "volume",
+      "speaker"
     ],
     "copyright": false,
     "files": {
@@ -61722,7 +61731,6 @@
       "history",
       "beautiful",
       "tourism",
-      "monument",
       "crown",
       "landmark",
       "lady",
@@ -61735,7 +61743,8 @@
       "liberty island",
       "american declaration",
       "people of france",
-      "newyork"
+      "newyork",
+      "monument"
     ],
     "copyright": false,
     "files": {
