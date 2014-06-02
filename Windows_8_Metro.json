@@ -18275,11 +18275,11 @@
       "erase",
       "city",
       "gps",
-      "turn",
       "area",
       "add",
       "delete",
-      "remove"
+      "remove",
+      "turn"
     ],
     "copyright": false,
     "files": {
@@ -22033,6 +22033,69 @@
         "256": "/PNG/256/Science/elective-256.png",
         "512": "/PNG/512/Science/elective-512.png",
         "64": "/PNG/64/Science/elective-64.png"
+      }
+    }
+  },
+  {
+    "id": 4851,
+    "name": "electrical",
+    "platform": "Windows 8/Metro",
+    "category": "Household",
+    "created": 1401713451,
+    "tags": [
+      "wire",
+      "line",
+      "electrical",
+      "pin",
+      "switch",
+      "equipment",
+      "electricity",
+      "board",
+      "shock",
+      "port",
+      "power",
+      "electronics",
+      "cable",
+      "plug",
+      "connections",
+      "metal",
+      "voltage",
+      "failure",
+      "supply",
+      "power supply",
+      "connector",
+      "circuit",
+      "appliances",
+      "cord",
+      "insulation",
+      "socket",
+      "distribution",
+      "current",
+      "lighting",
+      "extension",
+      "conductor",
+      "fluctuations",
+      "adapter",
+      "earthing",
+      "multiphase",
+      "outlets",
+      "receptacles",
+      "converters",
+      "ac",
+      "dc",
+      "duplex"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/electrical.svg",
+      "eps": "/EPS/Household/electrical.eps",
+      "png": {
+        "32": "/PNG/32/Household/electrical-32.png",
+        "128": "/PNG/128/Household/electrical-128.png",
+        "26": "/PNG/26/Household/electrical-26.png",
+        "256": "/PNG/256/Household/electrical-256.png",
+        "512": "/PNG/512/Household/electrical-512.png",
+        "64": "/PNG/64/Household/electrical-64.png"
       }
     }
   },
@@ -54361,6 +54424,45 @@
     }
   },
   {
+    "id": 4855,
+    "name": "roofing",
+    "platform": "Windows 8/Metro",
+    "category": "Household",
+    "created": 1401713451,
+    "tags": [
+      "home",
+      "house",
+      "chimney",
+      "roof",
+      "roofing",
+      "canopy",
+      "shelter",
+      "truss",
+      "gable",
+      "covering",
+      "home construction",
+      "building materials",
+      "roofing materials",
+      "roof shingles",
+      "home renovations",
+      "water control",
+      "attic vents"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/roofing.svg",
+      "eps": "/EPS/Household/roofing.eps",
+      "png": {
+        "32": "/PNG/32/Household/roofing-32.png",
+        "128": "/PNG/128/Household/roofing-128.png",
+        "26": "/PNG/26/Household/roofing-26.png",
+        "256": "/PNG/256/Household/roofing-256.png",
+        "512": "/PNG/512/Household/roofing-512.png",
+        "64": "/PNG/64/Household/roofing-64.png"
+      }
+    }
+  },
+  {
     "id": 1012,
     "name": "rook",
     "platform": "Windows 8/Metro",
@@ -54942,6 +55044,7 @@
     "created": 1333529673,
     "tags": [
       "fast",
+      "music",
       "work",
       "human",
       "traffic",
@@ -62201,6 +62304,47 @@
         "256": "/PNG/256/Editing/strikethrough-256.png",
         "512": "/PNG/512/Editing/strikethrough-512.png",
         "64": "/PNG/64/Editing/strikethrough-64.png"
+      }
+    }
+  },
+  {
+    "id": 4853,
+    "name": "structural",
+    "platform": "Windows 8/Metro",
+    "category": "Household",
+    "created": 1401713451,
+    "tags": [
+      "home",
+      "house",
+      "building",
+      "square",
+      "engineering",
+      "construction",
+      "housing",
+      "hut",
+      "nest",
+      "bricks",
+      "shulter",
+      "pentagonal",
+      "home sheets",
+      "waiting room",
+      "home improvement",
+      "renovation",
+      "property development",
+      "home design",
+      "residential"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/structural.svg",
+      "eps": "/EPS/Household/structural.eps",
+      "png": {
+        "32": "/PNG/32/Household/structural-32.png",
+        "128": "/PNG/128/Household/structural-128.png",
+        "26": "/PNG/26/Household/structural-26.png",
+        "256": "/PNG/256/Household/structural-256.png",
+        "512": "/PNG/512/Household/structural-512.png",
+        "64": "/PNG/64/Household/structural-64.png"
       }
     }
   },
