@@ -573,6 +573,7 @@
       "calendar",
       "profile",
       "report",
+      "patient",
       "calender"
     ],
     "copyright": false,
@@ -1337,7 +1338,7 @@
     "id": 3546,
     "name": "alpha",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1394229084,
     "tags": [
       "math",
@@ -1363,18 +1364,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/alpha.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/alpha.svg",
-      "eps": "/EPS/Sciences/alpha.eps",
+      "svg": "/SVG/Science/alpha.svg",
+      "svg.simplified": "/SVG_for_Font/Science/alpha.svg",
+      "eps": "/EPS/Science/alpha.eps",
       "png": {
-        "25": "/PNG/25/Sciences/alpha-25.png",
-        "32": "/PNG/32/Sciences/alpha-32.png",
-        "128": "/PNG/128/Sciences/alpha-128.png",
-        "75": "/PNG/75/Sciences/alpha-75.png",
-        "256": "/PNG/256/Sciences/alpha-256.png",
-        "100": "/PNG/100/Sciences/alpha-100.png",
-        "512": "/PNG/512/Sciences/alpha-512.png",
-        "50": "/PNG/50/Sciences/alpha-50.png"
+        "25": "/PNG/25/Science/alpha-25.png",
+        "32": "/PNG/32/Science/alpha-32.png",
+        "128": "/PNG/128/Science/alpha-128.png",
+        "75": "/PNG/75/Science/alpha-75.png",
+        "256": "/PNG/256/Science/alpha-256.png",
+        "100": "/PNG/100/Science/alpha-100.png",
+        "512": "/PNG/512/Science/alpha-512.png",
+        "50": "/PNG/50/Science/alpha-50.png"
       }
     }
   },
@@ -4748,7 +4749,7 @@
     "id": 3544,
     "name": "beta",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1394229084,
     "tags": [
       "design",
@@ -4798,17 +4799,17 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/beta.svg",
-      "eps": "/EPS/Sciences/beta.eps",
+      "svg": "/SVG/Science/beta.svg",
+      "eps": "/EPS/Science/beta.eps",
       "png": {
-        "25": "/PNG/25/Sciences/beta-25.png",
-        "32": "/PNG/32/Sciences/beta-32.png",
-        "128": "/PNG/128/Sciences/beta-128.png",
-        "75": "/PNG/75/Sciences/beta-75.png",
-        "256": "/PNG/256/Sciences/beta-256.png",
-        "100": "/PNG/100/Sciences/beta-100.png",
-        "512": "/PNG/512/Sciences/beta-512.png",
-        "50": "/PNG/50/Sciences/beta-50.png"
+        "25": "/PNG/25/Science/beta-25.png",
+        "32": "/PNG/32/Science/beta-32.png",
+        "128": "/PNG/128/Science/beta-128.png",
+        "75": "/PNG/75/Science/beta-75.png",
+        "256": "/PNG/256/Science/beta-256.png",
+        "100": "/PNG/100/Science/beta-100.png",
+        "512": "/PNG/512/Science/beta-512.png",
+        "50": "/PNG/50/Science/beta-50.png"
       }
     }
   },
@@ -6691,7 +6692,7 @@
     "id": 2333,
     "name": "business",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1377596134,
     "tags": [
       "chart",
@@ -6701,18 +6702,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/business.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/business.svg",
-      "eps": "/EPS/Sciences/business.eps",
+      "svg": "/SVG/Science/business.svg",
+      "svg.simplified": "/SVG_for_Font/Science/business.svg",
+      "eps": "/EPS/Science/business.eps",
       "png": {
-        "25": "/PNG/25/Sciences/business-25.png",
-        "32": "/PNG/32/Sciences/business-32.png",
-        "128": "/PNG/128/Sciences/business-128.png",
-        "75": "/PNG/75/Sciences/business-75.png",
-        "256": "/PNG/256/Sciences/business-256.png",
-        "100": "/PNG/100/Sciences/business-100.png",
-        "512": "/PNG/512/Sciences/business-512.png",
-        "50": "/PNG/50/Sciences/business-50.png"
+        "25": "/PNG/25/Science/business-25.png",
+        "32": "/PNG/32/Science/business-32.png",
+        "128": "/PNG/128/Science/business-128.png",
+        "75": "/PNG/75/Science/business-75.png",
+        "256": "/PNG/256/Science/business-256.png",
+        "100": "/PNG/100/Science/business-100.png",
+        "512": "/PNG/512/Science/business-512.png",
+        "50": "/PNG/50/Science/business-50.png"
       }
     }
   },
@@ -6924,7 +6925,7 @@
     "id": 4029,
     "name": "caliper",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1398185501,
     "tags": [
       "administrator",
@@ -6941,18 +6942,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/caliper.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/caliper.svg",
-      "eps": "/EPS/Sciences/caliper.eps",
+      "svg": "/SVG/Science/caliper.svg",
+      "svg.simplified": "/SVG_for_Font/Science/caliper.svg",
+      "eps": "/EPS/Science/caliper.eps",
       "png": {
-        "25": "/PNG/25/Sciences/caliper-25.png",
-        "32": "/PNG/32/Sciences/caliper-32.png",
-        "128": "/PNG/128/Sciences/caliper-128.png",
-        "75": "/PNG/75/Sciences/caliper-75.png",
-        "256": "/PNG/256/Sciences/caliper-256.png",
-        "100": "/PNG/100/Sciences/caliper-100.png",
-        "512": "/PNG/512/Sciences/caliper-512.png",
-        "50": "/PNG/50/Sciences/caliper-50.png"
+        "25": "/PNG/25/Science/caliper-25.png",
+        "32": "/PNG/32/Science/caliper-32.png",
+        "128": "/PNG/128/Science/caliper-128.png",
+        "75": "/PNG/75/Science/caliper-75.png",
+        "256": "/PNG/256/Science/caliper-256.png",
+        "100": "/PNG/100/Science/caliper-100.png",
+        "512": "/PNG/512/Science/caliper-512.png",
+        "50": "/PNG/50/Science/caliper-50.png"
       }
     }
   },
@@ -9034,7 +9035,6 @@
     "tags": [
       "play",
       "communication",
-      "chat",
       "image",
       "gas",
       "icon",
@@ -9045,7 +9045,8 @@
       "rap",
       "chatter",
       "prattle",
-      "babble"
+      "babble",
+      "chat"
     ],
     "copyright": false,
     "files": {
@@ -10331,7 +10332,7 @@
     "id": 3651,
     "name": "class",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1395442299,
     "tags": [
       "design",
@@ -10385,18 +10386,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/class.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/class.svg",
-      "eps": "/EPS/Sciences/class.eps",
+      "svg": "/SVG/Science/class.svg",
+      "svg.simplified": "/SVG_for_Font/Science/class.svg",
+      "eps": "/EPS/Science/class.eps",
       "png": {
-        "25": "/PNG/25/Sciences/class-25.png",
-        "32": "/PNG/32/Sciences/class-32.png",
-        "128": "/PNG/128/Sciences/class-128.png",
-        "75": "/PNG/75/Sciences/class-75.png",
-        "256": "/PNG/256/Sciences/class-256.png",
-        "100": "/PNG/100/Sciences/class-100.png",
-        "512": "/PNG/512/Sciences/class-512.png",
-        "50": "/PNG/50/Sciences/class-50.png"
+        "25": "/PNG/25/Science/class-25.png",
+        "32": "/PNG/32/Science/class-32.png",
+        "128": "/PNG/128/Science/class-128.png",
+        "75": "/PNG/75/Science/class-75.png",
+        "256": "/PNG/256/Science/class-256.png",
+        "100": "/PNG/100/Science/class-100.png",
+        "512": "/PNG/512/Science/class-512.png",
+        "50": "/PNG/50/Science/class-50.png"
       }
     }
   },
@@ -10404,7 +10405,7 @@
     "id": 3656,
     "name": "classroom",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1395687101,
     "tags": [
       "reading",
@@ -10448,18 +10449,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/classroom.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/classroom.svg",
-      "eps": "/EPS/Sciences/classroom.eps",
+      "svg": "/SVG/Science/classroom.svg",
+      "svg.simplified": "/SVG_for_Font/Science/classroom.svg",
+      "eps": "/EPS/Science/classroom.eps",
       "png": {
-        "25": "/PNG/25/Sciences/classroom-25.png",
-        "32": "/PNG/32/Sciences/classroom-32.png",
-        "128": "/PNG/128/Sciences/classroom-128.png",
-        "75": "/PNG/75/Sciences/classroom-75.png",
-        "256": "/PNG/256/Sciences/classroom-256.png",
-        "100": "/PNG/100/Sciences/classroom-100.png",
-        "512": "/PNG/512/Sciences/classroom-512.png",
-        "50": "/PNG/50/Sciences/classroom-50.png"
+        "25": "/PNG/25/Science/classroom-25.png",
+        "32": "/PNG/32/Science/classroom-32.png",
+        "128": "/PNG/128/Science/classroom-128.png",
+        "75": "/PNG/75/Science/classroom-75.png",
+        "256": "/PNG/256/Science/classroom-256.png",
+        "100": "/PNG/100/Science/classroom-100.png",
+        "512": "/PNG/512/Science/classroom-512.png",
+        "50": "/PNG/50/Science/classroom-50.png"
       }
     }
   },
@@ -10883,6 +10884,7 @@
     "category": "Very Basic",
     "created": 1391169055,
     "tags": [
+      "clock",
       "window",
       "edit",
       "pin",
@@ -13020,7 +13022,7 @@
     "id": 3649,
     "name": "courses",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1395442299,
     "tags": [
       "design",
@@ -13069,18 +13071,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/courses.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/courses.svg",
-      "eps": "/EPS/Sciences/courses.eps",
+      "svg": "/SVG/Science/courses.svg",
+      "svg.simplified": "/SVG_for_Font/Science/courses.svg",
+      "eps": "/EPS/Science/courses.eps",
       "png": {
-        "25": "/PNG/25/Sciences/courses-25.png",
-        "32": "/PNG/32/Sciences/courses-32.png",
-        "128": "/PNG/128/Sciences/courses-128.png",
-        "75": "/PNG/75/Sciences/courses-75.png",
-        "256": "/PNG/256/Sciences/courses-256.png",
-        "100": "/PNG/100/Sciences/courses-100.png",
-        "512": "/PNG/512/Sciences/courses-512.png",
-        "50": "/PNG/50/Sciences/courses-50.png"
+        "25": "/PNG/25/Science/courses-25.png",
+        "32": "/PNG/32/Science/courses-32.png",
+        "128": "/PNG/128/Science/courses-128.png",
+        "75": "/PNG/75/Science/courses-75.png",
+        "256": "/PNG/256/Science/courses-256.png",
+        "100": "/PNG/100/Science/courses-100.png",
+        "512": "/PNG/512/Science/courses-512.png",
+        "50": "/PNG/50/Science/courses-50.png"
       }
     }
   },
@@ -13914,7 +13916,7 @@
     "id": 3647,
     "name": "curriculum",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1395442299,
     "tags": [
       "vector",
@@ -13967,18 +13969,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/curriculum.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/curriculum.svg",
-      "eps": "/EPS/Sciences/curriculum.eps",
+      "svg": "/SVG/Science/curriculum.svg",
+      "svg.simplified": "/SVG_for_Font/Science/curriculum.svg",
+      "eps": "/EPS/Science/curriculum.eps",
       "png": {
-        "25": "/PNG/25/Sciences/curriculum-25.png",
-        "32": "/PNG/32/Sciences/curriculum-32.png",
-        "128": "/PNG/128/Sciences/curriculum-128.png",
-        "75": "/PNG/75/Sciences/curriculum-75.png",
-        "256": "/PNG/256/Sciences/curriculum-256.png",
-        "100": "/PNG/100/Sciences/curriculum-100.png",
-        "512": "/PNG/512/Sciences/curriculum-512.png",
-        "50": "/PNG/50/Sciences/curriculum-50.png"
+        "25": "/PNG/25/Science/curriculum-25.png",
+        "32": "/PNG/32/Science/curriculum-32.png",
+        "128": "/PNG/128/Science/curriculum-128.png",
+        "75": "/PNG/75/Science/curriculum-75.png",
+        "256": "/PNG/256/Science/curriculum-256.png",
+        "100": "/PNG/100/Science/curriculum-100.png",
+        "512": "/PNG/512/Science/curriculum-512.png",
+        "50": "/PNG/50/Science/curriculum-50.png"
       }
     }
   },
@@ -14688,7 +14690,7 @@
     "id": 1422,
     "name": "degrees",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1356437137,
     "tags": [
       "centimeter",
@@ -14703,18 +14705,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/degrees.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/degrees.svg",
-      "eps": "/EPS/Sciences/degrees.eps",
+      "svg": "/SVG/Science/degrees.svg",
+      "svg.simplified": "/SVG_for_Font/Science/degrees.svg",
+      "eps": "/EPS/Science/degrees.eps",
       "png": {
-        "25": "/PNG/25/Sciences/degrees-25.png",
-        "32": "/PNG/32/Sciences/degrees-32.png",
-        "128": "/PNG/128/Sciences/degrees-128.png",
-        "75": "/PNG/75/Sciences/degrees-75.png",
-        "256": "/PNG/256/Sciences/degrees-256.png",
-        "100": "/PNG/100/Sciences/degrees-100.png",
-        "512": "/PNG/512/Sciences/degrees-512.png",
-        "50": "/PNG/50/Sciences/degrees-50.png"
+        "25": "/PNG/25/Science/degrees-25.png",
+        "32": "/PNG/32/Science/degrees-32.png",
+        "128": "/PNG/128/Science/degrees-128.png",
+        "75": "/PNG/75/Science/degrees-75.png",
+        "256": "/PNG/256/Science/degrees-256.png",
+        "100": "/PNG/100/Science/degrees-100.png",
+        "512": "/PNG/512/Science/degrees-512.png",
+        "50": "/PNG/50/Science/degrees-50.png"
       }
     }
   },
@@ -15622,7 +15624,7 @@
     "id": 846,
     "name": "dna_helix",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1337155952,
     "tags": [
       "biochemistry",
@@ -15639,18 +15641,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/dna_helix.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/dna_helix.svg",
-      "eps": "/EPS/Sciences/dna_helix.eps",
+      "svg": "/SVG/Science/dna_helix.svg",
+      "svg.simplified": "/SVG_for_Font/Science/dna_helix.svg",
+      "eps": "/EPS/Science/dna_helix.eps",
       "png": {
-        "25": "/PNG/25/Sciences/dna_helix-25.png",
-        "32": "/PNG/32/Sciences/dna_helix-32.png",
-        "128": "/PNG/128/Sciences/dna_helix-128.png",
-        "75": "/PNG/75/Sciences/dna_helix-75.png",
-        "256": "/PNG/256/Sciences/dna_helix-256.png",
-        "100": "/PNG/100/Sciences/dna_helix-100.png",
-        "512": "/PNG/512/Sciences/dna_helix-512.png",
-        "50": "/PNG/50/Sciences/dna_helix-50.png"
+        "25": "/PNG/25/Science/dna_helix-25.png",
+        "32": "/PNG/32/Science/dna_helix-32.png",
+        "128": "/PNG/128/Science/dna_helix-128.png",
+        "75": "/PNG/75/Science/dna_helix-75.png",
+        "256": "/PNG/256/Science/dna_helix-256.png",
+        "100": "/PNG/100/Science/dna_helix-100.png",
+        "512": "/PNG/512/Science/dna_helix-512.png",
+        "50": "/PNG/50/Science/dna_helix-50.png"
       }
     }
   },
@@ -17976,7 +17978,7 @@
     "id": 3657,
     "name": "elective",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1395687101,
     "tags": [
       "design",
@@ -18024,18 +18026,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/elective.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/elective.svg",
-      "eps": "/EPS/Sciences/elective.eps",
+      "svg": "/SVG/Science/elective.svg",
+      "svg.simplified": "/SVG_for_Font/Science/elective.svg",
+      "eps": "/EPS/Science/elective.eps",
       "png": {
-        "25": "/PNG/25/Sciences/elective-25.png",
-        "32": "/PNG/32/Sciences/elective-32.png",
-        "128": "/PNG/128/Sciences/elective-128.png",
-        "75": "/PNG/75/Sciences/elective-75.png",
-        "256": "/PNG/256/Sciences/elective-256.png",
-        "100": "/PNG/100/Sciences/elective-100.png",
-        "512": "/PNG/512/Sciences/elective-512.png",
-        "50": "/PNG/50/Sciences/elective-50.png"
+        "25": "/PNG/25/Science/elective-25.png",
+        "32": "/PNG/32/Science/elective-32.png",
+        "128": "/PNG/128/Science/elective-128.png",
+        "75": "/PNG/75/Science/elective-75.png",
+        "256": "/PNG/256/Science/elective-256.png",
+        "100": "/PNG/100/Science/elective-100.png",
+        "512": "/PNG/512/Science/elective-512.png",
+        "50": "/PNG/50/Science/elective-50.png"
       }
     }
   },
@@ -18838,7 +18840,7 @@
     "id": 3655,
     "name": "equivalent",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1395687101,
     "tags": [
       "design",
@@ -18890,18 +18892,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/equivalent.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/equivalent.svg",
-      "eps": "/EPS/Sciences/equivalent.eps",
+      "svg": "/SVG/Science/equivalent.svg",
+      "svg.simplified": "/SVG_for_Font/Science/equivalent.svg",
+      "eps": "/EPS/Science/equivalent.eps",
       "png": {
-        "25": "/PNG/25/Sciences/equivalent-25.png",
-        "32": "/PNG/32/Sciences/equivalent-32.png",
-        "128": "/PNG/128/Sciences/equivalent-128.png",
-        "75": "/PNG/75/Sciences/equivalent-75.png",
-        "256": "/PNG/256/Sciences/equivalent-256.png",
-        "100": "/PNG/100/Sciences/equivalent-100.png",
-        "512": "/PNG/512/Sciences/equivalent-512.png",
-        "50": "/PNG/50/Sciences/equivalent-50.png"
+        "25": "/PNG/25/Science/equivalent-25.png",
+        "32": "/PNG/32/Science/equivalent-32.png",
+        "128": "/PNG/128/Science/equivalent-128.png",
+        "75": "/PNG/75/Science/equivalent-75.png",
+        "256": "/PNG/256/Science/equivalent-256.png",
+        "100": "/PNG/100/Science/equivalent-100.png",
+        "512": "/PNG/512/Science/equivalent-512.png",
+        "50": "/PNG/50/Science/equivalent-50.png"
       }
     }
   },
@@ -22599,7 +22601,7 @@
     "id": 3543,
     "name": "gamma",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1394229084,
     "tags": [
       "math",
@@ -22653,17 +22655,17 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/gamma.svg",
-      "eps": "/EPS/Sciences/gamma.eps",
+      "svg": "/SVG/Science/gamma.svg",
+      "eps": "/EPS/Science/gamma.eps",
       "png": {
-        "25": "/PNG/25/Sciences/gamma-25.png",
-        "32": "/PNG/32/Sciences/gamma-32.png",
-        "128": "/PNG/128/Sciences/gamma-128.png",
-        "75": "/PNG/75/Sciences/gamma-75.png",
-        "256": "/PNG/256/Sciences/gamma-256.png",
-        "100": "/PNG/100/Sciences/gamma-100.png",
-        "512": "/PNG/512/Sciences/gamma-512.png",
-        "50": "/PNG/50/Sciences/gamma-50.png"
+        "25": "/PNG/25/Science/gamma-25.png",
+        "32": "/PNG/32/Science/gamma-32.png",
+        "128": "/PNG/128/Science/gamma-128.png",
+        "75": "/PNG/75/Science/gamma-75.png",
+        "256": "/PNG/256/Science/gamma-256.png",
+        "100": "/PNG/100/Science/gamma-100.png",
+        "512": "/PNG/512/Science/gamma-512.png",
+        "50": "/PNG/50/Science/gamma-50.png"
       }
     }
   },
@@ -23608,7 +23610,7 @@
     "id": 1766,
     "name": "geography",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1364306763,
     "tags": [
       "settings",
@@ -23631,18 +23633,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/geography.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/geography.svg",
-      "eps": "/EPS/Sciences/geography.eps",
+      "svg": "/SVG/Science/geography.svg",
+      "svg.simplified": "/SVG_for_Font/Science/geography.svg",
+      "eps": "/EPS/Science/geography.eps",
       "png": {
-        "25": "/PNG/25/Sciences/geography-25.png",
-        "32": "/PNG/32/Sciences/geography-32.png",
-        "128": "/PNG/128/Sciences/geography-128.png",
-        "75": "/PNG/75/Sciences/geography-75.png",
-        "256": "/PNG/256/Sciences/geography-256.png",
-        "100": "/PNG/100/Sciences/geography-100.png",
-        "512": "/PNG/512/Sciences/geography-512.png",
-        "50": "/PNG/50/Sciences/geography-50.png"
+        "25": "/PNG/25/Science/geography-25.png",
+        "32": "/PNG/32/Science/geography-32.png",
+        "128": "/PNG/128/Science/geography-128.png",
+        "75": "/PNG/75/Science/geography-75.png",
+        "256": "/PNG/256/Science/geography-256.png",
+        "100": "/PNG/100/Science/geography-100.png",
+        "512": "/PNG/512/Science/geography-512.png",
+        "50": "/PNG/50/Science/geography-50.png"
       }
     }
   },
@@ -23650,7 +23652,7 @@
     "id": 2335,
     "name": "geometry",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1377596134,
     "tags": [
       "triangle",
@@ -23662,18 +23664,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/geometry.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/geometry.svg",
-      "eps": "/EPS/Sciences/geometry.eps",
+      "svg": "/SVG/Science/geometry.svg",
+      "svg.simplified": "/SVG_for_Font/Science/geometry.svg",
+      "eps": "/EPS/Science/geometry.eps",
       "png": {
-        "25": "/PNG/25/Sciences/geometry-25.png",
-        "32": "/PNG/32/Sciences/geometry-32.png",
-        "128": "/PNG/128/Sciences/geometry-128.png",
-        "75": "/PNG/75/Sciences/geometry-75.png",
-        "256": "/PNG/256/Sciences/geometry-256.png",
-        "100": "/PNG/100/Sciences/geometry-100.png",
-        "512": "/PNG/512/Sciences/geometry-512.png",
-        "50": "/PNG/50/Sciences/geometry-50.png"
+        "25": "/PNG/25/Science/geometry-25.png",
+        "32": "/PNG/32/Science/geometry-32.png",
+        "128": "/PNG/128/Science/geometry-128.png",
+        "75": "/PNG/75/Science/geometry-75.png",
+        "256": "/PNG/256/Science/geometry-256.png",
+        "100": "/PNG/100/Science/geometry-100.png",
+        "512": "/PNG/512/Science/geometry-512.png",
+        "50": "/PNG/50/Science/geometry-50.png"
       }
     }
   },
@@ -27118,7 +27120,7 @@
     "id": 1690,
     "name": "humidity",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1382464872,
     "tags": [
       "design",
@@ -27155,18 +27157,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/humidity.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/humidity.svg",
-      "eps": "/EPS/Sciences/humidity.eps",
+      "svg": "/SVG/Science/humidity.svg",
+      "svg.simplified": "/SVG_for_Font/Science/humidity.svg",
+      "eps": "/EPS/Science/humidity.eps",
       "png": {
-        "25": "/PNG/25/Sciences/humidity-25.png",
-        "32": "/PNG/32/Sciences/humidity-32.png",
-        "128": "/PNG/128/Sciences/humidity-128.png",
-        "75": "/PNG/75/Sciences/humidity-75.png",
-        "256": "/PNG/256/Sciences/humidity-256.png",
-        "100": "/PNG/100/Sciences/humidity-100.png",
-        "512": "/PNG/512/Sciences/humidity-512.png",
-        "50": "/PNG/50/Sciences/humidity-50.png"
+        "25": "/PNG/25/Science/humidity-25.png",
+        "32": "/PNG/32/Science/humidity-32.png",
+        "128": "/PNG/128/Science/humidity-128.png",
+        "75": "/PNG/75/Science/humidity-75.png",
+        "256": "/PNG/256/Science/humidity-256.png",
+        "100": "/PNG/100/Science/humidity-100.png",
+        "512": "/PNG/512/Science/humidity-512.png",
+        "50": "/PNG/50/Science/humidity-50.png"
       }
     }
   },
@@ -27540,7 +27542,7 @@
     "id": 2339,
     "name": "informatics",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1377511013,
     "tags": [
       "application",
@@ -27555,18 +27557,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/informatics.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/informatics.svg",
-      "eps": "/EPS/Sciences/informatics.eps",
+      "svg": "/SVG/Science/informatics.svg",
+      "svg.simplified": "/SVG_for_Font/Science/informatics.svg",
+      "eps": "/EPS/Science/informatics.eps",
       "png": {
-        "25": "/PNG/25/Sciences/informatics-25.png",
-        "32": "/PNG/32/Sciences/informatics-32.png",
-        "128": "/PNG/128/Sciences/informatics-128.png",
-        "75": "/PNG/75/Sciences/informatics-75.png",
-        "256": "/PNG/256/Sciences/informatics-256.png",
-        "100": "/PNG/100/Sciences/informatics-100.png",
-        "512": "/PNG/512/Sciences/informatics-512.png",
-        "50": "/PNG/50/Sciences/informatics-50.png"
+        "25": "/PNG/25/Science/informatics-25.png",
+        "32": "/PNG/32/Science/informatics-32.png",
+        "128": "/PNG/128/Science/informatics-128.png",
+        "75": "/PNG/75/Science/informatics-75.png",
+        "256": "/PNG/256/Science/informatics-256.png",
+        "100": "/PNG/100/Science/informatics-100.png",
+        "512": "/PNG/512/Science/informatics-512.png",
+        "50": "/PNG/50/Science/informatics-50.png"
       }
     }
   },
@@ -30167,7 +30169,7 @@
     "id": 2112,
     "name": "law",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1377511013,
     "tags": [
       "hammer",
@@ -30180,18 +30182,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/law.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/law.svg",
-      "eps": "/EPS/Sciences/law.eps",
+      "svg": "/SVG/Science/law.svg",
+      "svg.simplified": "/SVG_for_Font/Science/law.svg",
+      "eps": "/EPS/Science/law.eps",
       "png": {
-        "25": "/PNG/25/Sciences/law-25.png",
-        "32": "/PNG/32/Sciences/law-32.png",
-        "128": "/PNG/128/Sciences/law-128.png",
-        "75": "/PNG/75/Sciences/law-75.png",
-        "256": "/PNG/256/Sciences/law-256.png",
-        "100": "/PNG/100/Sciences/law-100.png",
-        "512": "/PNG/512/Sciences/law-512.png",
-        "50": "/PNG/50/Sciences/law-50.png"
+        "25": "/PNG/25/Science/law-25.png",
+        "32": "/PNG/32/Science/law-32.png",
+        "128": "/PNG/128/Science/law-128.png",
+        "75": "/PNG/75/Science/law-75.png",
+        "256": "/PNG/256/Science/law-256.png",
+        "100": "/PNG/100/Science/law-100.png",
+        "512": "/PNG/512/Science/law-512.png",
+        "50": "/PNG/50/Science/law-50.png"
       }
     }
   },
@@ -30669,7 +30671,7 @@
     "id": 1408,
     "name": "length",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1356004657,
     "tags": [
       "time",
@@ -30691,18 +30693,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/length.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/length.svg",
-      "eps": "/EPS/Sciences/length.eps",
+      "svg": "/SVG/Science/length.svg",
+      "svg.simplified": "/SVG_for_Font/Science/length.svg",
+      "eps": "/EPS/Science/length.eps",
       "png": {
-        "25": "/PNG/25/Sciences/length-25.png",
-        "32": "/PNG/32/Sciences/length-32.png",
-        "128": "/PNG/128/Sciences/length-128.png",
-        "75": "/PNG/75/Sciences/length-75.png",
-        "256": "/PNG/256/Sciences/length-256.png",
-        "100": "/PNG/100/Sciences/length-100.png",
-        "512": "/PNG/512/Sciences/length-512.png",
-        "50": "/PNG/50/Sciences/length-50.png"
+        "25": "/PNG/25/Science/length-25.png",
+        "32": "/PNG/32/Science/length-32.png",
+        "128": "/PNG/128/Science/length-128.png",
+        "75": "/PNG/75/Science/length-75.png",
+        "256": "/PNG/256/Science/length-256.png",
+        "100": "/PNG/100/Science/length-100.png",
+        "512": "/PNG/512/Science/length-512.png",
+        "50": "/PNG/50/Science/length-50.png"
       }
     }
   },
@@ -31411,7 +31413,7 @@
     "id": 1767,
     "name": "literature",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1364412718,
     "tags": [
       "book",
@@ -31424,18 +31426,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/literature.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/literature.svg",
-      "eps": "/EPS/Sciences/literature.eps",
+      "svg": "/SVG/Science/literature.svg",
+      "svg.simplified": "/SVG_for_Font/Science/literature.svg",
+      "eps": "/EPS/Science/literature.eps",
       "png": {
-        "25": "/PNG/25/Sciences/literature-25.png",
-        "32": "/PNG/32/Sciences/literature-32.png",
-        "128": "/PNG/128/Sciences/literature-128.png",
-        "75": "/PNG/75/Sciences/literature-75.png",
-        "256": "/PNG/256/Sciences/literature-256.png",
-        "100": "/PNG/100/Sciences/literature-100.png",
-        "512": "/PNG/512/Sciences/literature-512.png",
-        "50": "/PNG/50/Sciences/literature-50.png"
+        "25": "/PNG/25/Science/literature-25.png",
+        "32": "/PNG/32/Science/literature-32.png",
+        "128": "/PNG/128/Science/literature-128.png",
+        "75": "/PNG/75/Science/literature-75.png",
+        "256": "/PNG/256/Science/literature-256.png",
+        "100": "/PNG/100/Science/literature-100.png",
+        "512": "/PNG/512/Science/literature-512.png",
+        "50": "/PNG/50/Science/literature-50.png"
       }
     }
   },
@@ -32881,7 +32883,7 @@
     "id": 1759,
     "name": "math",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1363706924,
     "tags": [
       "calculator",
@@ -32894,18 +32896,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/math.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/math.svg",
-      "eps": "/EPS/Sciences/math.eps",
+      "svg": "/SVG/Science/math.svg",
+      "svg.simplified": "/SVG_for_Font/Science/math.svg",
+      "eps": "/EPS/Science/math.eps",
       "png": {
-        "25": "/PNG/25/Sciences/math-25.png",
-        "32": "/PNG/32/Sciences/math-32.png",
-        "128": "/PNG/128/Sciences/math-128.png",
-        "75": "/PNG/75/Sciences/math-75.png",
-        "256": "/PNG/256/Sciences/math-256.png",
-        "100": "/PNG/100/Sciences/math-100.png",
-        "512": "/PNG/512/Sciences/math-512.png",
-        "50": "/PNG/50/Sciences/math-50.png"
+        "25": "/PNG/25/Science/math-25.png",
+        "32": "/PNG/32/Science/math-32.png",
+        "128": "/PNG/128/Science/math-128.png",
+        "75": "/PNG/75/Science/math-75.png",
+        "256": "/PNG/256/Science/math-256.png",
+        "100": "/PNG/100/Science/math-100.png",
+        "512": "/PNG/512/Science/math-512.png",
+        "50": "/PNG/50/Science/math-50.png"
       }
     }
   },
@@ -33818,7 +33820,7 @@
     "category": "Military",
     "created": 1390342414,
     "tags": [
-
+      "delivery"
     ],
     "copyright": false,
     "files": {
@@ -35469,7 +35471,7 @@
     "id": 3535,
     "name": "mu",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1394128282,
     "tags": [
       "design",
@@ -35521,18 +35523,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/mu.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/mu.svg",
-      "eps": "/EPS/Sciences/mu.eps",
+      "svg": "/SVG/Science/mu.svg",
+      "svg.simplified": "/SVG_for_Font/Science/mu.svg",
+      "eps": "/EPS/Science/mu.eps",
       "png": {
-        "25": "/PNG/25/Sciences/mu-25.png",
-        "32": "/PNG/32/Sciences/mu-32.png",
-        "128": "/PNG/128/Sciences/mu-128.png",
-        "75": "/PNG/75/Sciences/mu-75.png",
-        "256": "/PNG/256/Sciences/mu-256.png",
-        "100": "/PNG/100/Sciences/mu-100.png",
-        "512": "/PNG/512/Sciences/mu-512.png",
-        "50": "/PNG/50/Sciences/mu-50.png"
+        "25": "/PNG/25/Science/mu-25.png",
+        "32": "/PNG/32/Science/mu-32.png",
+        "128": "/PNG/128/Science/mu-128.png",
+        "75": "/PNG/75/Science/mu-75.png",
+        "256": "/PNG/256/Science/mu-256.png",
+        "100": "/PNG/100/Science/mu-100.png",
+        "512": "/PNG/512/Science/mu-512.png",
+        "50": "/PNG/50/Science/mu-50.png"
       }
     }
   },
@@ -37558,7 +37560,7 @@
     "id": 3545,
     "name": "omega",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1394229084,
     "tags": [
       "design",
@@ -37609,18 +37611,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/omega.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/omega.svg",
-      "eps": "/EPS/Sciences/omega.eps",
+      "svg": "/SVG/Science/omega.svg",
+      "svg.simplified": "/SVG_for_Font/Science/omega.svg",
+      "eps": "/EPS/Science/omega.eps",
       "png": {
-        "25": "/PNG/25/Sciences/omega-25.png",
-        "32": "/PNG/32/Sciences/omega-32.png",
-        "128": "/PNG/128/Sciences/omega-128.png",
-        "75": "/PNG/75/Sciences/omega-75.png",
-        "256": "/PNG/256/Sciences/omega-256.png",
-        "100": "/PNG/100/Sciences/omega-100.png",
-        "512": "/PNG/512/Sciences/omega-512.png",
-        "50": "/PNG/50/Sciences/omega-50.png"
+        "25": "/PNG/25/Science/omega-25.png",
+        "32": "/PNG/32/Science/omega-32.png",
+        "128": "/PNG/128/Science/omega-128.png",
+        "75": "/PNG/75/Science/omega-75.png",
+        "256": "/PNG/256/Science/omega-256.png",
+        "100": "/PNG/100/Science/omega-100.png",
+        "512": "/PNG/512/Science/omega-512.png",
+        "50": "/PNG/50/Science/omega-50.png"
       }
     }
   },
@@ -39667,7 +39669,7 @@
     "id": 1761,
     "name": "physics",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1363807864,
     "tags": [
       "education",
@@ -39685,18 +39687,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/physics.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/physics.svg",
-      "eps": "/EPS/Sciences/physics.eps",
+      "svg": "/SVG/Science/physics.svg",
+      "svg.simplified": "/SVG_for_Font/Science/physics.svg",
+      "eps": "/EPS/Science/physics.eps",
       "png": {
-        "25": "/PNG/25/Sciences/physics-25.png",
-        "32": "/PNG/32/Sciences/physics-32.png",
-        "128": "/PNG/128/Sciences/physics-128.png",
-        "75": "/PNG/75/Sciences/physics-75.png",
-        "256": "/PNG/256/Sciences/physics-256.png",
-        "100": "/PNG/100/Sciences/physics-100.png",
-        "512": "/PNG/512/Sciences/physics-512.png",
-        "50": "/PNG/50/Sciences/physics-50.png"
+        "25": "/PNG/25/Science/physics-25.png",
+        "32": "/PNG/32/Science/physics-32.png",
+        "128": "/PNG/128/Science/physics-128.png",
+        "75": "/PNG/75/Science/physics-75.png",
+        "256": "/PNG/256/Science/physics-256.png",
+        "100": "/PNG/100/Science/physics-100.png",
+        "512": "/PNG/512/Science/physics-512.png",
+        "50": "/PNG/50/Science/physics-50.png"
       }
     }
   },
@@ -39704,7 +39706,7 @@
     "id": 3533,
     "name": "pi",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1394128282,
     "tags": [
       "number",
@@ -39744,18 +39746,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/pi.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/pi.svg",
-      "eps": "/EPS/Sciences/pi.eps",
+      "svg": "/SVG/Science/pi.svg",
+      "svg.simplified": "/SVG_for_Font/Science/pi.svg",
+      "eps": "/EPS/Science/pi.eps",
       "png": {
-        "25": "/PNG/25/Sciences/pi-25.png",
-        "32": "/PNG/32/Sciences/pi-32.png",
-        "128": "/PNG/128/Sciences/pi-128.png",
-        "75": "/PNG/75/Sciences/pi-75.png",
-        "256": "/PNG/256/Sciences/pi-256.png",
-        "100": "/PNG/100/Sciences/pi-100.png",
-        "512": "/PNG/512/Sciences/pi-512.png",
-        "50": "/PNG/50/Sciences/pi-50.png"
+        "25": "/PNG/25/Science/pi-25.png",
+        "32": "/PNG/32/Science/pi-32.png",
+        "128": "/PNG/128/Science/pi-128.png",
+        "75": "/PNG/75/Science/pi-75.png",
+        "256": "/PNG/256/Science/pi-256.png",
+        "100": "/PNG/100/Science/pi-100.png",
+        "512": "/PNG/512/Science/pi-512.png",
+        "50": "/PNG/50/Science/pi-50.png"
       }
     }
   },
@@ -40530,7 +40532,7 @@
     "id": 850,
     "name": "plasmid",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1337155952,
     "tags": [
       "work",
@@ -40544,18 +40546,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/plasmid.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/plasmid.svg",
-      "eps": "/EPS/Sciences/plasmid.eps",
+      "svg": "/SVG/Science/plasmid.svg",
+      "svg.simplified": "/SVG_for_Font/Science/plasmid.svg",
+      "eps": "/EPS/Science/plasmid.eps",
       "png": {
-        "25": "/PNG/25/Sciences/plasmid-25.png",
-        "32": "/PNG/32/Sciences/plasmid-32.png",
-        "128": "/PNG/128/Sciences/plasmid-128.png",
-        "75": "/PNG/75/Sciences/plasmid-75.png",
-        "256": "/PNG/256/Sciences/plasmid-256.png",
-        "100": "/PNG/100/Sciences/plasmid-100.png",
-        "512": "/PNG/512/Sciences/plasmid-512.png",
-        "50": "/PNG/50/Sciences/plasmid-50.png"
+        "25": "/PNG/25/Science/plasmid-25.png",
+        "32": "/PNG/32/Science/plasmid-32.png",
+        "128": "/PNG/128/Science/plasmid-128.png",
+        "75": "/PNG/75/Science/plasmid-75.png",
+        "256": "/PNG/256/Science/plasmid-256.png",
+        "100": "/PNG/100/Science/plasmid-100.png",
+        "512": "/PNG/512/Science/plasmid-512.png",
+        "50": "/PNG/50/Science/plasmid-50.png"
       }
     }
   },
@@ -41799,7 +41801,7 @@
     "id": 1418,
     "name": "pressure",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1356346293,
     "tags": [
       "scale",
@@ -41812,18 +41814,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/pressure.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/pressure.svg",
-      "eps": "/EPS/Sciences/pressure.eps",
+      "svg": "/SVG/Science/pressure.svg",
+      "svg.simplified": "/SVG_for_Font/Science/pressure.svg",
+      "eps": "/EPS/Science/pressure.eps",
       "png": {
-        "25": "/PNG/25/Sciences/pressure-25.png",
-        "32": "/PNG/32/Sciences/pressure-32.png",
-        "128": "/PNG/128/Sciences/pressure-128.png",
-        "75": "/PNG/75/Sciences/pressure-75.png",
-        "256": "/PNG/256/Sciences/pressure-256.png",
-        "100": "/PNG/100/Sciences/pressure-100.png",
-        "512": "/PNG/512/Sciences/pressure-512.png",
-        "50": "/PNG/50/Sciences/pressure-50.png"
+        "25": "/PNG/25/Science/pressure-25.png",
+        "32": "/PNG/32/Science/pressure-32.png",
+        "128": "/PNG/128/Science/pressure-128.png",
+        "75": "/PNG/75/Science/pressure-75.png",
+        "256": "/PNG/256/Science/pressure-256.png",
+        "100": "/PNG/100/Science/pressure-100.png",
+        "512": "/PNG/512/Science/pressure-512.png",
+        "50": "/PNG/50/Science/pressure-50.png"
       }
     }
   },
@@ -42366,7 +42368,7 @@
     "id": 1774,
     "name": "psyhology",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1365776121,
     "tags": [
       "sign",
@@ -42378,18 +42380,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/psyhology.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/psyhology.svg",
-      "eps": "/EPS/Sciences/psyhology.eps",
+      "svg": "/SVG/Science/psyhology.svg",
+      "svg.simplified": "/SVG_for_Font/Science/psyhology.svg",
+      "eps": "/EPS/Science/psyhology.eps",
       "png": {
-        "25": "/PNG/25/Sciences/psyhology-25.png",
-        "32": "/PNG/32/Sciences/psyhology-32.png",
-        "128": "/PNG/128/Sciences/psyhology-128.png",
-        "75": "/PNG/75/Sciences/psyhology-75.png",
-        "256": "/PNG/256/Sciences/psyhology-256.png",
-        "100": "/PNG/100/Sciences/psyhology-100.png",
-        "512": "/PNG/512/Sciences/psyhology-512.png",
-        "50": "/PNG/50/Sciences/psyhology-50.png"
+        "25": "/PNG/25/Science/psyhology-25.png",
+        "32": "/PNG/32/Science/psyhology-32.png",
+        "128": "/PNG/128/Science/psyhology-128.png",
+        "75": "/PNG/75/Science/psyhology-75.png",
+        "256": "/PNG/256/Science/psyhology-256.png",
+        "100": "/PNG/100/Science/psyhology-100.png",
+        "512": "/PNG/512/Science/psyhology-512.png",
+        "50": "/PNG/50/Science/psyhology-50.png"
       }
     }
   },
@@ -46914,7 +46916,7 @@
     "id": 1954,
     "name": "school",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1373022334,
     "tags": [
       "book",
@@ -46931,18 +46933,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/school.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/school.svg",
-      "eps": "/EPS/Sciences/school.eps",
+      "svg": "/SVG/Science/school.svg",
+      "svg.simplified": "/SVG_for_Font/Science/school.svg",
+      "eps": "/EPS/Science/school.eps",
       "png": {
-        "25": "/PNG/25/Sciences/school-25.png",
-        "32": "/PNG/32/Sciences/school-32.png",
-        "128": "/PNG/128/Sciences/school-128.png",
-        "75": "/PNG/75/Sciences/school-75.png",
-        "256": "/PNG/256/Sciences/school-256.png",
-        "100": "/PNG/100/Sciences/school-100.png",
-        "512": "/PNG/512/Sciences/school-512.png",
-        "50": "/PNG/50/Sciences/school-50.png"
+        "25": "/PNG/25/Science/school-25.png",
+        "32": "/PNG/32/Science/school-32.png",
+        "128": "/PNG/128/Science/school-128.png",
+        "75": "/PNG/75/Science/school-75.png",
+        "256": "/PNG/256/Science/school-256.png",
+        "100": "/PNG/100/Science/school-100.png",
+        "512": "/PNG/512/Science/school-512.png",
+        "50": "/PNG/50/Science/school-50.png"
       }
     }
   },
@@ -48932,7 +48934,7 @@
     "id": 3531,
     "name": "sigma",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1394128282,
     "tags": [
       "number",
@@ -48988,18 +48990,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/sigma.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/sigma.svg",
-      "eps": "/EPS/Sciences/sigma.eps",
+      "svg": "/SVG/Science/sigma.svg",
+      "svg.simplified": "/SVG_for_Font/Science/sigma.svg",
+      "eps": "/EPS/Science/sigma.eps",
       "png": {
-        "25": "/PNG/25/Sciences/sigma-25.png",
-        "32": "/PNG/32/Sciences/sigma-32.png",
-        "128": "/PNG/128/Sciences/sigma-128.png",
-        "75": "/PNG/75/Sciences/sigma-75.png",
-        "256": "/PNG/256/Sciences/sigma-256.png",
-        "100": "/PNG/100/Sciences/sigma-100.png",
-        "512": "/PNG/512/Sciences/sigma-512.png",
-        "50": "/PNG/50/Sciences/sigma-50.png"
+        "25": "/PNG/25/Science/sigma-25.png",
+        "32": "/PNG/32/Science/sigma-32.png",
+        "128": "/PNG/128/Science/sigma-128.png",
+        "75": "/PNG/75/Science/sigma-75.png",
+        "256": "/PNG/256/Science/sigma-256.png",
+        "100": "/PNG/100/Science/sigma-100.png",
+        "512": "/PNG/512/Science/sigma-512.png",
+        "50": "/PNG/50/Science/sigma-50.png"
       }
     }
   },
@@ -52538,7 +52540,7 @@
     "id": 3901,
     "name": "students",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1397235095,
     "tags": [
       "fun",
@@ -52574,18 +52576,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/students.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/students.svg",
-      "eps": "/EPS/Sciences/students.eps",
+      "svg": "/SVG/Science/students.svg",
+      "svg.simplified": "/SVG_for_Font/Science/students.svg",
+      "eps": "/EPS/Science/students.eps",
       "png": {
-        "25": "/PNG/25/Sciences/students-25.png",
-        "32": "/PNG/32/Sciences/students-32.png",
-        "128": "/PNG/128/Sciences/students-128.png",
-        "75": "/PNG/75/Sciences/students-75.png",
-        "256": "/PNG/256/Sciences/students-256.png",
-        "100": "/PNG/100/Sciences/students-100.png",
-        "512": "/PNG/512/Sciences/students-512.png",
-        "50": "/PNG/50/Sciences/students-50.png"
+        "25": "/PNG/25/Science/students-25.png",
+        "32": "/PNG/32/Science/students-32.png",
+        "128": "/PNG/128/Science/students-128.png",
+        "75": "/PNG/75/Science/students-75.png",
+        "256": "/PNG/256/Science/students-256.png",
+        "100": "/PNG/100/Science/students-100.png",
+        "512": "/PNG/512/Science/students-512.png",
+        "50": "/PNG/50/Science/students-50.png"
       }
     }
   },
@@ -52955,7 +52957,7 @@
     "id": 1420,
     "name": "surface",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1356437137,
     "tags": [
       "measurement",
@@ -52965,18 +52967,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/surface.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/surface.svg",
-      "eps": "/EPS/Sciences/surface.eps",
+      "svg": "/SVG/Science/surface.svg",
+      "svg.simplified": "/SVG_for_Font/Science/surface.svg",
+      "eps": "/EPS/Science/surface.eps",
       "png": {
-        "25": "/PNG/25/Sciences/surface-25.png",
-        "32": "/PNG/32/Sciences/surface-32.png",
-        "128": "/PNG/128/Sciences/surface-128.png",
-        "75": "/PNG/75/Sciences/surface-75.png",
-        "256": "/PNG/256/Sciences/surface-256.png",
-        "100": "/PNG/100/Sciences/surface-100.png",
-        "512": "/PNG/512/Sciences/surface-512.png",
-        "50": "/PNG/50/Sciences/surface-50.png"
+        "25": "/PNG/25/Science/surface-25.png",
+        "32": "/PNG/32/Science/surface-32.png",
+        "128": "/PNG/128/Science/surface-128.png",
+        "75": "/PNG/75/Science/surface-75.png",
+        "256": "/PNG/256/Science/surface-256.png",
+        "100": "/PNG/100/Science/surface-100.png",
+        "512": "/PNG/512/Science/surface-512.png",
+        "50": "/PNG/50/Science/surface-50.png"
       }
     }
   },
@@ -54459,7 +54461,7 @@
     "id": 1414,
     "name": "temperature",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1356346293,
     "tags": [
       "graph",
@@ -54491,18 +54493,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/temperature.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/temperature.svg",
-      "eps": "/EPS/Sciences/temperature.eps",
+      "svg": "/SVG/Science/temperature.svg",
+      "svg.simplified": "/SVG_for_Font/Science/temperature.svg",
+      "eps": "/EPS/Science/temperature.eps",
       "png": {
-        "25": "/PNG/25/Sciences/temperature-25.png",
-        "32": "/PNG/32/Sciences/temperature-32.png",
-        "128": "/PNG/128/Sciences/temperature-128.png",
-        "75": "/PNG/75/Sciences/temperature-75.png",
-        "256": "/PNG/256/Sciences/temperature-256.png",
-        "100": "/PNG/100/Sciences/temperature-100.png",
-        "512": "/PNG/512/Sciences/temperature-512.png",
-        "50": "/PNG/50/Sciences/temperature-50.png"
+        "25": "/PNG/25/Science/temperature-25.png",
+        "32": "/PNG/32/Science/temperature-32.png",
+        "128": "/PNG/128/Science/temperature-128.png",
+        "75": "/PNG/75/Science/temperature-75.png",
+        "256": "/PNG/256/Science/temperature-256.png",
+        "100": "/PNG/100/Science/temperature-100.png",
+        "512": "/PNG/512/Science/temperature-512.png",
+        "50": "/PNG/50/Science/temperature-50.png"
       }
     }
   },
@@ -54697,7 +54699,7 @@
     "id": 848,
     "name": "test_tube",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1337155952,
     "tags": [
       "work",
@@ -54713,18 +54715,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/test_tube.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/test_tube.svg",
-      "eps": "/EPS/Sciences/test_tube.eps",
+      "svg": "/SVG/Science/test_tube.svg",
+      "svg.simplified": "/SVG_for_Font/Science/test_tube.svg",
+      "eps": "/EPS/Science/test_tube.eps",
       "png": {
-        "25": "/PNG/25/Sciences/test_tube-25.png",
-        "32": "/PNG/32/Sciences/test_tube-32.png",
-        "128": "/PNG/128/Sciences/test_tube-128.png",
-        "75": "/PNG/75/Sciences/test_tube-75.png",
-        "256": "/PNG/256/Sciences/test_tube-256.png",
-        "100": "/PNG/100/Sciences/test_tube-100.png",
-        "512": "/PNG/512/Sciences/test_tube-512.png",
-        "50": "/PNG/50/Sciences/test_tube-50.png"
+        "25": "/PNG/25/Science/test_tube-25.png",
+        "32": "/PNG/32/Science/test_tube-32.png",
+        "128": "/PNG/128/Science/test_tube-128.png",
+        "75": "/PNG/75/Science/test_tube-75.png",
+        "256": "/PNG/256/Science/test_tube-256.png",
+        "100": "/PNG/100/Science/test_tube-100.png",
+        "512": "/PNG/512/Science/test_tube-512.png",
+        "50": "/PNG/50/Science/test_tube-50.png"
       }
     }
   },
@@ -58218,7 +58220,7 @@
     "id": 2337,
     "name": "trigonometry",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1377596134,
     "tags": [
       "triangle",
@@ -58230,18 +58232,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/trigonometry.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/trigonometry.svg",
-      "eps": "/EPS/Sciences/trigonometry.eps",
+      "svg": "/SVG/Science/trigonometry.svg",
+      "svg.simplified": "/SVG_for_Font/Science/trigonometry.svg",
+      "eps": "/EPS/Science/trigonometry.eps",
       "png": {
-        "25": "/PNG/25/Sciences/trigonometry-25.png",
-        "32": "/PNG/32/Sciences/trigonometry-32.png",
-        "128": "/PNG/128/Sciences/trigonometry-128.png",
-        "75": "/PNG/75/Sciences/trigonometry-75.png",
-        "256": "/PNG/256/Sciences/trigonometry-256.png",
-        "100": "/PNG/100/Sciences/trigonometry-100.png",
-        "512": "/PNG/512/Sciences/trigonometry-512.png",
-        "50": "/PNG/50/Sciences/trigonometry-50.png"
+        "25": "/PNG/25/Science/trigonometry-25.png",
+        "32": "/PNG/32/Science/trigonometry-32.png",
+        "128": "/PNG/128/Science/trigonometry-128.png",
+        "75": "/PNG/75/Science/trigonometry-75.png",
+        "256": "/PNG/256/Science/trigonometry-256.png",
+        "100": "/PNG/100/Science/trigonometry-100.png",
+        "512": "/PNG/512/Science/trigonometry-512.png",
+        "50": "/PNG/50/Science/trigonometry-50.png"
       }
     }
   },
@@ -58783,7 +58785,7 @@
     "category": "Holidays",
     "created": 1390342413,
     "tags": [
-
+      "settings"
     ],
     "copyright": false,
     "files": {
@@ -59179,7 +59181,7 @@
     "id": 2341,
     "name": "university",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1377511013,
     "tags": [
       "search",
@@ -59190,18 +59192,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/university.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/university.svg",
-      "eps": "/EPS/Sciences/university.eps",
+      "svg": "/SVG/Science/university.svg",
+      "svg.simplified": "/SVG_for_Font/Science/university.svg",
+      "eps": "/EPS/Science/university.eps",
       "png": {
-        "25": "/PNG/25/Sciences/university-25.png",
-        "32": "/PNG/32/Sciences/university-32.png",
-        "128": "/PNG/128/Sciences/university-128.png",
-        "75": "/PNG/75/Sciences/university-75.png",
-        "256": "/PNG/256/Sciences/university-256.png",
-        "100": "/PNG/100/Sciences/university-100.png",
-        "512": "/PNG/512/Sciences/university-512.png",
-        "50": "/PNG/50/Sciences/university-50.png"
+        "25": "/PNG/25/Science/university-25.png",
+        "32": "/PNG/32/Science/university-32.png",
+        "128": "/PNG/128/Science/university-128.png",
+        "75": "/PNG/75/Science/university-75.png",
+        "256": "/PNG/256/Science/university-256.png",
+        "100": "/PNG/100/Science/university-100.png",
+        "512": "/PNG/512/Science/university-512.png",
+        "50": "/PNG/50/Science/university-50.png"
       }
     }
   },
@@ -59439,6 +59441,7 @@
     "category": "Very Basic",
     "created": 1323361504,
     "tags": [
+      "note",
       "upgrade",
       "share"
     ],
@@ -61073,7 +61076,7 @@
     "id": 1416,
     "name": "volume",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
+    "category": "Science",
     "created": 1356346293,
     "tags": [
       "graph",
@@ -61091,18 +61094,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/volume.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/volume.svg",
-      "eps": "/EPS/Sciences/volume.eps",
+      "svg": "/SVG/Science/volume.svg",
+      "svg.simplified": "/SVG_for_Font/Science/volume.svg",
+      "eps": "/EPS/Science/volume.eps",
       "png": {
-        "25": "/PNG/25/Sciences/volume-25.png",
-        "32": "/PNG/32/Sciences/volume-32.png",
-        "128": "/PNG/128/Sciences/volume-128.png",
-        "75": "/PNG/75/Sciences/volume-75.png",
-        "256": "/PNG/256/Sciences/volume-256.png",
-        "100": "/PNG/100/Sciences/volume-100.png",
-        "512": "/PNG/512/Sciences/volume-512.png",
-        "50": "/PNG/50/Sciences/volume-50.png"
+        "25": "/PNG/25/Science/volume-25.png",
+        "32": "/PNG/32/Science/volume-32.png",
+        "128": "/PNG/128/Science/volume-128.png",
+        "75": "/PNG/75/Science/volume-75.png",
+        "256": "/PNG/256/Science/volume-256.png",
+        "100": "/PNG/100/Science/volume-100.png",
+        "512": "/PNG/512/Science/volume-512.png",
+        "50": "/PNG/50/Science/volume-50.png"
       }
     }
   },
@@ -62612,37 +62615,27 @@
     }
   },
   {
-    "id": 1410,
-    "name": "weght",
+    "id": 4881,
+    "name": "weight",
     "platform": "iPhone/iOS 7",
-    "category": "Sciences",
-    "created": 1356092209,
+    "category": "Science",
+    "created": 1401742282,
     "tags": [
-      "measurement",
-      "equipment",
-      "heavy",
-      "weight",
-      "instrument of measurement",
-      "measurements",
-      "mass",
-      "pound",
-      "kilogram",
-      "gram"
+
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sciences/weght.svg",
-      "svg.simplified": "/SVG_for_Font/Sciences/weght.svg",
-      "eps": "/EPS/Sciences/weght.eps",
+      "svg": "/SVG/Science/weight.svg",
+      "eps": "/EPS/Science/weight.eps",
       "png": {
-        "25": "/PNG/25/Sciences/weght-25.png",
-        "32": "/PNG/32/Sciences/weght-32.png",
-        "128": "/PNG/128/Sciences/weght-128.png",
-        "75": "/PNG/75/Sciences/weght-75.png",
-        "256": "/PNG/256/Sciences/weght-256.png",
-        "100": "/PNG/100/Sciences/weght-100.png",
-        "512": "/PNG/512/Sciences/weght-512.png",
-        "50": "/PNG/50/Sciences/weght-50.png"
+        "25": "/PNG/25/Science/weight-25.png",
+        "32": "/PNG/32/Science/weight-32.png",
+        "128": "/PNG/128/Science/weight-128.png",
+        "75": "/PNG/75/Science/weight-75.png",
+        "256": "/PNG/256/Science/weight-256.png",
+        "100": "/PNG/100/Science/weight-100.png",
+        "512": "/PNG/512/Science/weight-512.png",
+        "50": "/PNG/50/Science/weight-50.png"
       }
     }
   },
