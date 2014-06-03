@@ -15298,7 +15298,6 @@
       "mind",
       "couple",
       "together",
-      "talk",
       "speech",
       "chat",
       "expression",
@@ -15333,6 +15332,7 @@
       "imagine",
       "communication",
       "outline",
+      "talk",
       "dialog"
     ],
     "copyright": false,
@@ -23551,7 +23551,8 @@
       "stadium jumping",
       "napoleon",
       "karl",
-      "sword"
+      "sword",
+      "stuttgart"
     ],
     "copyright": false,
     "files": {
@@ -64600,6 +64601,7 @@
       "ruler",
       "settings",
       "wrench",
+      "education",
       "report",
       "ask",
       "spanner"
