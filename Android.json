@@ -546,6 +546,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/airplane_mode_off.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/airplane_mode_off.svg",
       "eps": "/EPS/Transport/airplane_mode_off.eps",
       "png": {
         "32": "/PNG/32/Transport/airplane_mode_off-32.png",
@@ -572,6 +573,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/airplane_mode_on.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/airplane_mode_on.svg",
       "eps": "/EPS/Transport/airplane_mode_on.eps",
       "png": {
         "32": "/PNG/32/Transport/airplane_mode_on-32.png",
@@ -4171,6 +4173,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/bus2.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/bus2.svg",
       "eps": "/EPS/Transport/bus2.eps",
       "png": {
         "32": "/PNG/32/Transport/bus2-32.png",
@@ -4988,6 +4991,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/cargo_ship.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/cargo_ship.svg",
       "eps": "/EPS/Transport/cargo_ship.eps",
       "png": {
         "32": "/PNG/32/Transport/cargo_ship-32.png",
@@ -5059,6 +5063,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/car_battery.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/car_battery.svg",
       "eps": "/EPS/Transport/car_battery.eps",
       "png": {
         "32": "/PNG/32/Transport/car_battery-32.png",
@@ -7860,6 +7865,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/cruise_ship.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/cruise_ship.svg",
       "eps": "/EPS/Transport/cruise_ship.eps",
       "png": {
         "32": "/PNG/32/Transport/cruise_ship-32.png",
@@ -8555,6 +8561,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/dinghy.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/dinghy.svg",
       "eps": "/EPS/Transport/dinghy.eps",
       "png": {
         "32": "/PNG/32/Transport/dinghy-32.png",
@@ -9430,6 +9437,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/driver.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/driver.svg",
       "eps": "/EPS/Transport/driver.eps",
       "png": {
         "32": "/PNG/32/Transport/driver-32.png",
@@ -10294,6 +10302,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/engine.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/engine.svg",
       "eps": "/EPS/Transport/engine.eps",
       "png": {
         "32": "/PNG/32/Transport/engine-32.png",
@@ -11005,6 +11014,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/ferry.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/ferry.svg",
       "eps": "/EPS/Transport/ferry.eps",
       "png": {
         "32": "/PNG/32/Transport/ferry-32.png",
@@ -12819,6 +12829,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/gas_pump.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/gas_pump.svg",
       "eps": "/EPS/Transport/gas_pump.eps",
       "png": {
         "32": "/PNG/32/Transport/gas_pump-32.png",
@@ -15965,6 +15976,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/interstate_truck.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/interstate_truck.svg",
       "eps": "/EPS/Transport/interstate_truck.eps",
       "png": {
         "32": "/PNG/32/Transport/interstate_truck-32.png",
@@ -17714,6 +17726,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/line_spliting.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/line_spliting.svg",
       "eps": "/EPS/Transport/line_spliting.eps",
       "png": {
         "32": "/PNG/32/Transport/line_spliting-32.png",
@@ -22204,6 +22217,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/passenger.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/passenger.svg",
       "eps": "/EPS/Transport/passenger.eps",
       "png": {
         "32": "/PNG/32/Transport/passenger-32.png",
@@ -22921,6 +22935,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/piston.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/piston.svg",
       "eps": "/EPS/Transport/piston.eps",
       "png": {
         "32": "/PNG/32/Transport/piston-32.png",
@@ -26247,6 +26262,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/sail_boat.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/sail_boat.svg",
       "eps": "/EPS/Transport/sail_boat.eps",
       "png": {
         "32": "/PNG/32/Transport/sail_boat-32.png",
@@ -29041,6 +29057,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/spark_plug.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/spark_plug.svg",
       "eps": "/EPS/Transport/spark_plug.eps",
       "png": {
         "32": "/PNG/32/Transport/spark_plug-32.png",
@@ -29158,6 +29175,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/speedometer.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/speedometer.svg",
       "eps": "/EPS/Transport/speedometer.eps",
       "png": {
         "32": "/PNG/32/Transport/speedometer-32.png",
@@ -29736,6 +29754,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/steering_wheel.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/steering_wheel.svg",
       "eps": "/EPS/Transport/steering_wheel.eps",
       "png": {
         "32": "/PNG/32/Transport/steering_wheel-32.png",
@@ -33091,6 +33110,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/tire.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/tire.svg",
       "eps": "/EPS/Transport/tire.eps",
       "png": {
         "32": "/PNG/32/Transport/tire-32.png",
@@ -34212,6 +34232,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/tunnel2.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/tunnel2.svg",
       "eps": "/EPS/Transport/tunnel2.eps",
       "png": {
         "32": "/PNG/32/Transport/tunnel2-32.png",
@@ -36158,6 +36179,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/weight_station.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/weight_station.svg",
       "eps": "/EPS/Transport/weight_station.eps",
       "png": {
         "32": "/PNG/32/Transport/weight_station-32.png",
@@ -37086,6 +37108,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/yacht.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/yacht.svg",
       "eps": "/EPS/Transport/yacht.eps",
       "png": {
         "32": "/PNG/32/Transport/yacht-32.png",
