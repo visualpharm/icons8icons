@@ -45365,7 +45365,6 @@
     "created": 1318305600,
     "tags": [
       "track",
-      "fire",
       "artists",
       "mp3",
       "music",
@@ -45380,8 +45379,7 @@
       "artist",
       "album",
       "cd",
-      "entertainment",
-      "home system"
+      "entertainment"
     ],
     "copyright": false,
     "files": {
@@ -49717,6 +49715,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/piping.svg",
+      "svg.simplified": "/SVG_for_Font/Household/piping.svg",
       "eps": "/EPS/Household/piping.eps",
       "png": {
         "32": "/PNG/32/Household/piping-32.png",
@@ -74525,6 +74524,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/waste.svg",
+      "svg.simplified": "/SVG_for_Font/Household/waste.svg",
       "eps": "/EPS/Household/waste.eps",
       "png": {
         "32": "/PNG/32/Household/waste-32.png",
@@ -75323,6 +75323,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Science/weight.svg",
+      "svg.simplified": "/SVG_for_Font/Science/weight.svg",
       "eps": "/EPS/Science/weight.eps",
       "png": {
         "32": "/PNG/32/Science/weight-32.png",
@@ -77285,6 +77286,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Files/xaml.svg",
+      "svg.simplified": "/SVG_for_Font/Files/xaml.svg",
       "eps": "/EPS/Files/xaml.eps",
       "png": {
         "32": "/PNG/32/Files/xaml-32.png",

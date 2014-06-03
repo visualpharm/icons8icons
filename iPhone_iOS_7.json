@@ -1079,6 +1079,7 @@
     "category": "City",
     "created": 1395867095,
     "tags": [
+      "exit",
       "transportation",
       "airport",
       "travel",
@@ -13956,7 +13957,6 @@
       "briefcase",
       "businessman",
       "director",
-      "board",
       "bus",
       "success",
       "icon",
@@ -13980,7 +13980,8 @@
       "university",
       "student",
       "high",
-      "noteb"
+      "notebook",
+      "pl"
     ],
     "copyright": false,
     "files": {
@@ -18109,6 +18110,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/electrical.svg",
+      "svg.simplified": "/SVG_for_Font/Household/electrical.svg",
       "eps": "/EPS/Household/electrical.eps",
       "png": {
         "25": "/PNG/25/Household/electrical-25.png",
@@ -40350,6 +40352,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/piping.svg",
+      "svg.simplified": "/SVG_for_Font/Household/piping.svg",
       "eps": "/EPS/Household/piping.eps",
       "png": {
         "25": "/PNG/25/Household/piping-25.png",
@@ -45585,6 +45588,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/roofing.svg",
+      "svg.simplified": "/SVG_for_Font/Household/roofing.svg",
       "eps": "/EPS/Household/roofing.eps",
       "png": {
         "25": "/PNG/25/Household/roofing-25.png",
@@ -52490,6 +52494,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/structural.svg",
+      "svg.simplified": "/SVG_for_Font/Household/structural.svg",
       "eps": "/EPS/Household/structural.eps",
       "png": {
         "25": "/PNG/25/Household/structural-25.png",
@@ -61890,6 +61895,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Household/waste.svg",
+      "svg.simplified": "/SVG_for_Font/Household/waste.svg",
       "eps": "/EPS/Household/waste.eps",
       "png": {
         "25": "/PNG/25/Household/waste-25.png",
@@ -63986,6 +63992,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Programming/xaml.svg",
+      "svg.simplified": "/SVG_for_Font/Programming/xaml.svg",
       "eps": "/EPS/Programming/xaml.eps",
       "png": {
         "25": "/PNG/25/Programming/xaml-25.png",
@@ -64542,6 +64549,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Astrology/year_of_snake.svg",
+      "svg.simplified": "/SVG_for_Font/Astrology/year_of_snake.svg",
       "eps": "/EPS/Astrology/year_of_snake.eps",
       "png": {
         "25": "/PNG/25/Astrology/year_of_snake-25.png",
