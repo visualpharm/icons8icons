@@ -40568,7 +40568,8 @@
       "amnesia",
       "deja vu",
       "dumb",
-      "oriented"
+      "oriented",
+      "organitation"
     ],
     "copyright": false,
     "files": {
@@ -49325,6 +49326,30 @@
         "512": "/PNG/512/Clothing/pin_cushion-512.png",
         "64": "/PNG/64/Clothing/pin_cushion-64.png",
         "48": "/PNG/48/Clothing/pin_cushion-48.png"
+      }
+    }
+  },
+  {
+    "id": 4883,
+    "name": "piping",
+    "platform": "Windows 8/Metro",
+    "category": "Household",
+    "created": 1401799852,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/piping.svg",
+      "eps": "/EPS/Household/piping.eps",
+      "png": {
+        "32": "/PNG/32/Household/piping-32.png",
+        "128": "/PNG/128/Household/piping-128.png",
+        "26": "/PNG/26/Household/piping-26.png",
+        "256": "/PNG/256/Household/piping-256.png",
+        "512": "/PNG/512/Household/piping-512.png",
+        "64": "/PNG/64/Household/piping-64.png",
+        "48": "/PNG/48/Household/piping-48.png"
       }
     }
   },
@@ -73965,6 +73990,30 @@
     }
   },
   {
+    "id": 4884,
+    "name": "waste",
+    "platform": "Windows 8/Metro",
+    "category": "Household",
+    "created": 1401799852,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/waste.svg",
+      "eps": "/EPS/Household/waste.eps",
+      "png": {
+        "32": "/PNG/32/Household/waste-32.png",
+        "128": "/PNG/128/Household/waste-128.png",
+        "26": "/PNG/26/Household/waste-26.png",
+        "256": "/PNG/256/Household/waste-256.png",
+        "512": "/PNG/512/Household/waste-512.png",
+        "64": "/PNG/64/Household/waste-64.png",
+        "48": "/PNG/48/Household/waste-48.png"
+      }
+    }
+  },
+  {
     "id": 422,
     "name": "watch",
     "platform": "Windows 8/Metro",
@@ -76678,6 +76727,30 @@
         "512": "/PNG/512/Computer_Hardware/x86-512.png",
         "64": "/PNG/64/Computer_Hardware/x86-64.png",
         "48": "/PNG/48/Computer_Hardware/x86-48.png"
+      }
+    }
+  },
+  {
+    "id": 4882,
+    "name": "xaml",
+    "platform": "Windows 8/Metro",
+    "category": "Files",
+    "created": 1401799852,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/xaml.svg",
+      "eps": "/EPS/Files/xaml.eps",
+      "png": {
+        "32": "/PNG/32/Files/xaml-32.png",
+        "128": "/PNG/128/Files/xaml-128.png",
+        "26": "/PNG/26/Files/xaml-26.png",
+        "256": "/PNG/256/Files/xaml-256.png",
+        "512": "/PNG/512/Files/xaml-512.png",
+        "64": "/PNG/64/Files/xaml-64.png",
+        "48": "/PNG/48/Files/xaml-48.png"
       }
     }
   },
