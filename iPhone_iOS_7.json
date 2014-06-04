@@ -1027,6 +1027,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/airplane.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/airplane.svg",
       "eps": "/EPS/Transport/airplane.eps",
       "png": {
         "25": "/PNG/25/Transport/airplane-25.png",
@@ -60246,6 +60247,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/File_Types/view_file.svg",
+      "svg.simplified": "/SVG_for_Font/File_Types/view_file.svg",
       "eps": "/EPS/File_Types/view_file.eps",
       "png": {
         "25": "/PNG/25/File_Types/view_file-25.png",

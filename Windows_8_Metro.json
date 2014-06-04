@@ -30617,6 +30617,7 @@
       "logged in",
       "personal data",
       "account",
+      "location",
       "welcome",
       "person",
       "name",
@@ -63643,6 +63644,7 @@
       "man",
       "map",
       "coordinates",
+      "pm",
       "orientation"
     ],
     "copyright": false,
