@@ -13473,6 +13473,7 @@
     "tags": [
       "google",
       "fast",
+      "skype",
       "folder",
       "link",
       "internet",
@@ -13490,7 +13491,9 @@
       "chrome",
       "global",
       "type",
-      "spotify"
+      "league",
+      "spotify",
+      "league of legends"
     ],
     "copyright": true,
     "files": {
@@ -16935,16 +16938,21 @@
     "category": "City",
     "created": 1401886258,
     "tags": [
+      "law",
       "judge",
       "legal",
       "court",
       "criminal",
+      "downtown",
+      "government",
       "trial",
       "jury",
       "justice",
       "legal paper",
       "legal document",
-      "court transcript"
+      "court transcript",
+      "administrative",
+      "central"
     ],
     "copyright": false,
     "files": {
@@ -19408,6 +19416,7 @@
       "view",
       "eye",
       "stories",
+      "pipe",
       "survey"
     ],
     "copyright": false,
@@ -51045,13 +51054,22 @@
       "forward",
       "send",
       "mail",
+      "communication",
       "reply",
+      "building",
+      "letters",
       "post office",
       "compose",
+      "packages",
+      "civic",
+      "government",
+      "usps",
       "e-mail",
       "recieve",
       "check mail",
-      "mail home"
+      "mail home",
+      "postal service",
+      "mailman"
     ],
     "copyright": false,
     "files": {
@@ -72771,13 +72789,22 @@
     "category": "Files",
     "created": 1401886258,
     "tags": [
+      "file",
+      "paper",
+      "message",
+      "read",
       "magnify",
       "zoom",
       "zoom in",
       "zoom out",
+      "document",
       "view",
+      "letter",
       "open",
+      "corner",
       "enlarge",
+      "magnifying glass",
+      "text message",
       "explore",
       "enhance",
       "viewer"
