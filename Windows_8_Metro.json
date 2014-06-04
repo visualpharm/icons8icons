@@ -10528,7 +10528,6 @@
     "created": 1336807676,
     "tags": [
       "check",
-      "close",
       "cancel",
       "new",
       "finish",
@@ -10554,6 +10553,7 @@
       "what",
       "pending",
       "fechar",
+      "close",
       "break"
     ],
     "copyright": false,
