@@ -11386,7 +11386,6 @@
     "tags": [
       "bank",
       "buy",
-      "money",
       "payment methods set",
       "signature",
       "palm",
@@ -11400,7 +11399,8 @@
       "hobo",
       "welfare",
       "salary",
-      "wage"
+      "wage",
+      "money"
     ],
     "copyright": false,
     "files": {
@@ -25060,7 +25060,8 @@
       "files",
       "objects",
       "organizer",
-      "drawer"
+      "drawer",
+      "slide"
     ],
     "copyright": false,
     "files": {
@@ -27824,7 +27825,6 @@
       "indoors",
       "white",
       "icon",
-      "art",
       "technician",
       "simple",
       "vehicle",
@@ -27845,7 +27845,7 @@
       "inspection",
       "petrol",
       "lights",
-      "car mech"
+      "car mechanic"
     ],
     "copyright": false,
     "files": {
@@ -69794,6 +69794,7 @@
       "note",
       "audio",
       "sing",
+      "setting",
       "voice",
       "music set",
       "sound check",

@@ -3822,6 +3822,7 @@
     "category": "Household",
     "created": 1401483064,
     "tags": [
+      "house",
       "building",
       "structure",
       "construction",
@@ -29171,6 +29172,7 @@
       "user",
       "person",
       "accounts",
+      "back",
       "key",
       "password"
     ],
@@ -35451,12 +35453,12 @@
     "created": 1381311290,
     "tags": [
       "cellphone",
-      "smartphone",
       "device",
       "team",
       "tablet",
       "person",
       "pc",
+      "smartphone",
       "multiple devices"
     ],
     "copyright": false,
@@ -58619,6 +58621,7 @@
     "category": "Household",
     "created": 1323862193,
     "tags": [
+      "tick",
       "time",
       "close",
       "protect",
@@ -62395,7 +62398,8 @@
       "actors",
       "rodeo",
       "cowboy",
-      "desert"
+      "desert",
+      "western"
     ],
     "copyright": false,
     "files": {

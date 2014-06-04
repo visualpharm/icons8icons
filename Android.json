@@ -1973,6 +1973,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Baby/baby.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/baby.svg",
       "eps": "/EPS/Baby/baby.eps",
       "png": {
         "32": "/PNG/32/Baby/baby-32.png",
@@ -2064,6 +2065,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Baby/baby_feet.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/baby_feet.svg",
       "eps": "/EPS/Baby/baby_feet.eps",
       "png": {
         "32": "/PNG/32/Baby/baby_feet-32.png",
@@ -3187,6 +3189,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Baby/bib.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/bib.svg",
       "eps": "/EPS/Baby/bib.eps",
       "png": {
         "32": "/PNG/32/Baby/bib-32.png",
@@ -3731,6 +3734,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Baby/bottle.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/bottle.svg",
       "eps": "/EPS/Baby/bottle.eps",
       "png": {
         "32": "/PNG/32/Baby/bottle-32.png",
@@ -4022,6 +4026,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Baby/brick.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/brick.svg",
       "eps": "/EPS/Baby/brick.eps",
       "png": {
         "32": "/PNG/32/Baby/brick-32.png",
@@ -7914,6 +7919,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Baby/crib.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/crib.svg",
       "eps": "/EPS/Baby/crib.eps",
       "png": {
         "32": "/PNG/32/Baby/crib-32.png",
@@ -8116,6 +8122,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Baby/crying_baby.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/crying_baby.svg",
       "eps": "/EPS/Baby/crying_baby.eps",
       "png": {
         "32": "/PNG/32/Baby/crying_baby-32.png",
@@ -12119,6 +12126,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Baby/flying_stork.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/flying_stork.svg",
       "eps": "/EPS/Baby/flying_stork.eps",
       "png": {
         "32": "/PNG/32/Baby/flying_stork-32.png",
@@ -12145,6 +12153,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Baby/flying_stork_with_bundle.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/flying_stork_with_bundle.svg",
       "eps": "/EPS/Baby/flying_stork_with_bundle.eps",
       "png": {
         "32": "/PNG/32/Baby/flying_stork_with_bundle-32.png",
@@ -21029,6 +21038,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Baby/nappy.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/nappy.svg",
       "eps": "/EPS/Baby/nappy.eps",
       "png": {
         "32": "/PNG/32/Baby/nappy-32.png",
@@ -22057,6 +22067,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Baby/pacifier.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/pacifier.svg",
       "eps": "/EPS/Baby/pacifier.eps",
       "png": {
         "32": "/PNG/32/Baby/pacifier-32.png",
@@ -23727,6 +23738,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Baby/powder.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/powder.svg",
       "eps": "/EPS/Baby/powder.eps",
       "png": {
         "32": "/PNG/32/Baby/powder-32.png",
@@ -24751,6 +24763,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Baby/rattle.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/rattle.svg",
       "eps": "/EPS/Baby/rattle.eps",
       "png": {
         "32": "/PNG/32/Baby/rattle-32.png",
@@ -25940,6 +25953,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Baby/romper.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/romper.svg",
       "eps": "/EPS/Baby/romper.eps",
       "png": {
         "32": "/PNG/32/Baby/romper-32.png",
@@ -30105,6 +30119,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Baby/stork.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/stork.svg",
       "eps": "/EPS/Baby/stork.eps",
       "png": {
         "32": "/PNG/32/Baby/stork-32.png",
@@ -30131,6 +30146,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Baby/stork_with_bundle.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/stork_with_bundle.svg",
       "eps": "/EPS/Baby/stork_with_bundle.eps",
       "png": {
         "32": "/PNG/32/Baby/stork_with_bundle-32.png",
@@ -30325,6 +30341,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Baby/stroller.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/stroller.svg",
       "eps": "/EPS/Baby/stroller.eps",
       "png": {
         "32": "/PNG/32/Baby/stroller-32.png",
@@ -31313,6 +31330,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Baby/teddybear.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/teddybear.svg",
       "eps": "/EPS/Baby/teddybear.eps",
       "png": {
         "32": "/PNG/32/Baby/teddybear-32.png",
@@ -34176,6 +34194,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Baby/tricycle.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/tricycle.svg",
       "eps": "/EPS/Baby/tricycle.eps",
       "png": {
         "32": "/PNG/32/Baby/tricycle-32.png",
