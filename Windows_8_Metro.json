@@ -1610,6 +1610,7 @@
       "append user",
       "create user",
       "remove",
+      "register",
       "tv"
     ],
     "copyright": false,
@@ -5166,6 +5167,39 @@
         "512": "/PNG/512/Business/bad_decision-512.png",
         "64": "/PNG/64/Business/bad_decision-64.png",
         "48": "/PNG/48/Business/bad_decision-48.png"
+      }
+    }
+  },
+  {
+    "id": 4915,
+    "name": "ballet_shoes",
+    "platform": "Windows 8/Metro",
+    "category": "Cinema",
+    "created": 1401972661,
+    "tags": [
+      "performance",
+      "entertainment",
+      "shoes",
+      "nutcracker",
+      "tap",
+      "dance",
+      "ballet",
+      "dance for children",
+      "swan lake",
+      "flexibility"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Cinema/ballet_shoes.svg",
+      "eps": "/EPS/Cinema/ballet_shoes.eps",
+      "png": {
+        "32": "/PNG/32/Cinema/ballet_shoes-32.png",
+        "128": "/PNG/128/Cinema/ballet_shoes-128.png",
+        "26": "/PNG/26/Cinema/ballet_shoes-26.png",
+        "256": "/PNG/256/Cinema/ballet_shoes-256.png",
+        "512": "/PNG/512/Cinema/ballet_shoes-512.png",
+        "64": "/PNG/64/Cinema/ballet_shoes-64.png",
+        "48": "/PNG/48/Cinema/ballet_shoes-48.png"
       }
     }
   },
@@ -9545,6 +9579,7 @@
       "professional",
       "man",
       "businessman",
+      "finance",
       "career",
       "business man",
       "lightbulb"
@@ -25075,6 +25110,7 @@
       "zero",
       "blank",
       "module",
+      "crown",
       "txt"
     ],
     "copyright": false,
@@ -47541,6 +47577,39 @@
     }
   },
   {
+    "id": 4914,
+    "name": "pain_palette",
+    "platform": "Windows 8/Metro",
+    "category": "Editing",
+    "created": 1401972661,
+    "tags": [
+      "colors",
+      "paint",
+      "art",
+      "painting",
+      "canvas",
+      "paintbrush",
+      "palette",
+      "bob ross",
+      "oil paintings",
+      "paint supplies"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Editing/pain_palette.svg",
+      "eps": "/EPS/Editing/pain_palette.eps",
+      "png": {
+        "32": "/PNG/32/Editing/pain_palette-32.png",
+        "128": "/PNG/128/Editing/pain_palette-128.png",
+        "26": "/PNG/26/Editing/pain_palette-26.png",
+        "256": "/PNG/256/Editing/pain_palette-256.png",
+        "512": "/PNG/512/Editing/pain_palette-512.png",
+        "64": "/PNG/64/Editing/pain_palette-64.png",
+        "48": "/PNG/48/Editing/pain_palette-48.png"
+      }
+    }
+  },
+  {
     "id": 827,
     "name": "palm_tree",
     "platform": "Windows 8/Metro",
@@ -47769,6 +47838,7 @@
     "tags": [
       "paper",
       "arrow",
+      "photos",
       "social",
       "paper plane"
     ],
@@ -47887,6 +47957,39 @@
         "512": "/PNG/512/Travel/park_bench-512.png",
         "64": "/PNG/64/Travel/park_bench-64.png",
         "48": "/PNG/48/Travel/park_bench-48.png"
+      }
+    }
+  },
+  {
+    "id": 4913,
+    "name": "park_concert_shell",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1401972661,
+    "tags": [
+      "music",
+      "entertainment",
+      "concert",
+      "park",
+      "theatre",
+      "rainbow",
+      "sunshine",
+      "experience",
+      "festival",
+      "poetry"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/park_concert_shell.svg",
+      "eps": "/EPS/City/park_concert_shell.eps",
+      "png": {
+        "32": "/PNG/32/City/park_concert_shell-32.png",
+        "128": "/PNG/128/City/park_concert_shell-128.png",
+        "26": "/PNG/26/City/park_concert_shell-26.png",
+        "256": "/PNG/256/City/park_concert_shell-256.png",
+        "512": "/PNG/512/City/park_concert_shell-512.png",
+        "64": "/PNG/64/City/park_concert_shell-64.png",
+        "48": "/PNG/48/City/park_concert_shell-48.png"
       }
     }
   },
