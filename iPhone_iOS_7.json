@@ -2593,6 +2593,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Cinema/audience.svg",
+      "svg.simplified": "/SVG_for_Font/Cinema/audience.svg",
       "eps": "/EPS/Cinema/audience.eps",
       "png": {
         "25": "/PNG/25/Cinema/audience-25.png",
@@ -3311,6 +3312,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Cinema/ballet_shoes.svg",
+      "svg.simplified": "/SVG_for_Font/Cinema/ballet_shoes.svg",
       "eps": "/EPS/Cinema/ballet_shoes.eps",
       "png": {
         "25": "/PNG/25/Cinema/ballet_shoes-25.png",
@@ -6644,6 +6646,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Cinema/bunch_flowers.svg",
+      "svg.simplified": "/SVG_for_Font/Cinema/bunch_flowers.svg",
       "eps": "/EPS/Cinema/bunch_flowers.eps",
       "png": {
         "25": "/PNG/25/Cinema/bunch_flowers-25.png",
@@ -11409,6 +11412,31 @@
     }
   },
   {
+    "id": 4925,
+    "name": "cocktail",
+    "platform": "iPhone/iOS 7",
+    "category": "Food",
+    "created": 1402001474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/cocktail.svg",
+      "eps": "/EPS/Food/cocktail.eps",
+      "png": {
+        "25": "/PNG/25/Food/cocktail-25.png",
+        "32": "/PNG/32/Food/cocktail-32.png",
+        "128": "/PNG/128/Food/cocktail-128.png",
+        "75": "/PNG/75/Food/cocktail-75.png",
+        "256": "/PNG/256/Food/cocktail-256.png",
+        "100": "/PNG/100/Food/cocktail-100.png",
+        "512": "/PNG/512/Food/cocktail-512.png",
+        "50": "/PNG/50/Food/cocktail-50.png"
+      }
+    }
+  },
+  {
     "id": 3502,
     "name": "coconut_cocktail",
     "platform": "iPhone/iOS 7",
@@ -11467,7 +11495,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Food/coctail.svg",
       "svg.simplified": "/SVG_for_Font/Food/coctail.svg",
       "eps": "/EPS/Food/coctail.eps",
       "png": {
@@ -24434,7 +24461,8 @@
       "gps",
       "signals",
       "navigate",
-      "pulse"
+      "pulse",
+      "setop"
     ],
     "copyright": false,
     "files": {
@@ -32070,6 +32098,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Music/lyre2.svg",
+      "svg.simplified": "/SVG_for_Font/Music/lyre2.svg",
       "eps": "/EPS/Music/lyre2.eps",
       "png": {
         "25": "/PNG/25/Music/lyre2-25.png",
@@ -37959,6 +37988,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Cinema/opera_glasses.svg",
+      "svg.simplified": "/SVG_for_Font/Cinema/opera_glasses.svg",
       "eps": "/EPS/Cinema/opera_glasses.eps",
       "png": {
         "25": "/PNG/25/Cinema/opera_glasses-25.png",
@@ -38560,6 +38590,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Editing/paint_palette.svg",
+      "svg.simplified": "/SVG_for_Font/Editing/paint_palette.svg",
       "eps": "/EPS/Editing/paint_palette.eps",
       "png": {
         "25": "/PNG/25/Editing/paint_palette-25.png",
@@ -38912,6 +38943,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/park_concert_shell.svg",
+      "svg.simplified": "/SVG_for_Font/City/park_concert_shell.svg",
       "eps": "/EPS/City/park_concert_shell.eps",
       "png": {
         "25": "/PNG/25/City/park_concert_shell-25.png",
@@ -39808,6 +39840,7 @@
       "info",
       "plus",
       "photos",
+      "photo",
       "person",
       "camera",
       "slr",
@@ -48044,7 +48077,6 @@
     "tags": [
       "add",
       "calendar",
-      "user",
       "tools",
       "save",
       "account",
@@ -48224,48 +48256,18 @@
     "category": "Very Basic",
     "created": 1392886277,
     "tags": [
-      "design",
-      "office",
-      "time",
-      "file",
-      "connect",
-      "chain",
-      "web",
-      "data",
-      "internet",
-      "save",
-      "document",
-      "symbol",
-      "media",
-      "sign",
-      "Facebook",
-      "connection",
-      "flat",
-      "icon",
-      "links",
-      "server",
-      "structure",
-      "chemistry",
-      "shape",
-      "interface",
-      "open",
-      "global",
-      "friendship",
-      "multimedia",
-      "single",
-      "organic",
-      "physics",
-      "cloud",
-      "receive",
-      "diagram",
-      "recovery",
-      "blog",
-      "net",
-      "web design element",
-      "particles",
-      "greater",
-      "quadrate pictogram",
-      "computer application"
+      "graphic",
+      "twitter",
+      "email",
+      "interface menu tool",
+      "navigation panel",
+      "grayscale stone button",
+      "send",
+      "link",
+      "service",
+      "social",
+      "social media",
+      "share"
     ],
     "copyright": false,
     "files": {
@@ -54958,6 +54960,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Cinema/theatre_mask.svg",
+      "svg.simplified": "/SVG_for_Font/Cinema/theatre_mask.svg",
       "eps": "/EPS/Cinema/theatre_mask.eps",
       "png": {
         "25": "/PNG/25/Cinema/theatre_mask-25.png",
@@ -59097,6 +59100,7 @@
       "protect",
       "care",
       "people",
+      "table",
       "car",
       "objects",
       "weather",
@@ -59614,6 +59618,7 @@
     "category": "Very Basic",
     "created": 1323361504,
     "tags": [
+      "arrow",
       "cart",
       "upgrade",
       "kart",

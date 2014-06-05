@@ -5210,6 +5210,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Cinema/ballet_shoes.svg",
+      "svg.simplified": "/SVG_for_Font/Cinema/ballet_shoes.svg",
       "eps": "/EPS/Cinema/ballet_shoes.eps",
       "png": {
         "32": "/PNG/32/Cinema/ballet_shoes-32.png",
@@ -15009,6 +15010,30 @@
     }
   },
   {
+    "id": 4924,
+    "name": "cocktail",
+    "platform": "Windows 8/Metro",
+    "category": "Food",
+    "created": 1402001474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/cocktail.svg",
+      "eps": "/EPS/Food/cocktail.eps",
+      "png": {
+        "32": "/PNG/32/Food/cocktail-32.png",
+        "128": "/PNG/128/Food/cocktail-128.png",
+        "26": "/PNG/26/Food/cocktail-26.png",
+        "256": "/PNG/256/Food/cocktail-256.png",
+        "512": "/PNG/512/Food/cocktail-512.png",
+        "64": "/PNG/64/Food/cocktail-64.png",
+        "48": "/PNG/48/Food/cocktail-48.png"
+      }
+    }
+  },
+  {
     "id": 3500,
     "name": "coconut_cocktail",
     "platform": "Windows 8/Metro",
@@ -15066,7 +15091,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Food/coctail.svg",
       "svg.simplified": "/SVG_for_Font/Food/coctail.svg",
       "eps": "/EPS/Food/coctail.eps",
       "png": {
@@ -19344,6 +19368,7 @@
       "house",
       "door",
       "school",
+      "car",
       "garden",
       "retail",
       "building",
@@ -27351,6 +27376,7 @@
     "category": "Ecommerce",
     "created": 1374573324,
     "tags": [
+      "phone",
       "shipping",
       "delivery",
       "profit",
@@ -44508,7 +44534,8 @@
       "plug",
       "connections",
       "email",
-      "outlook"
+      "outlook",
+      "notepad"
     ],
     "copyright": false,
     "files": {
@@ -47637,6 +47664,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Editing/pain_palette.svg",
+      "svg.simplified": "/SVG_for_Font/Editing/pain_palette.svg",
       "eps": "/EPS/Editing/pain_palette.eps",
       "png": {
         "32": "/PNG/32/Editing/pain_palette-32.png",
@@ -48054,6 +48082,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/park_concert_shell.svg",
+      "svg.simplified": "/SVG_for_Font/City/park_concert_shell.svg",
       "eps": "/EPS/City/park_concert_shell.eps",
       "png": {
         "32": "/PNG/32/City/park_concert_shell-32.png",
@@ -52562,7 +52591,8 @@
       "coins",
       "purse",
       "pay",
-      "wallet"
+      "wallet",
+      "theatre"
     ],
     "copyright": false,
     "files": {
@@ -58891,53 +58921,7 @@
     "category": "Very Basic",
     "created": 1392886277,
     "tags": [
-      "design",
-      "vector",
-      "office",
-      "file",
-      "link",
-      "chain",
-      "web",
-      "data",
-      "internet",
-      "document",
-      "symbol",
-      "signal",
-      "media",
-      "graphic",
-      "sign",
-      "connection",
-      "flat",
-      "icon",
-      "links",
-      "server",
-      "structure",
-      "science",
-      "chemistry",
-      "shape",
-      "interface",
-      "open",
-      "global",
-      "share",
-      "service",
-      "social",
-      "friendship",
-      "multimedia",
-      "single",
-      "organic",
-      "biotechnology",
-      "physics",
-      "abstract",
-      "element",
-      "cloud",
-      "receive",
-      "diagram",
-      "atom",
-      "proton",
-      "neutron",
-      "recovery",
-      "blog",
-      "n"
+
     ],
     "copyright": false,
     "files": {
