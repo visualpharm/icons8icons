@@ -15091,6 +15091,7 @@
     ],
     "copyright": false,
     "files": {
+      "svg": "/SVG/Food/coctail.svg",
       "svg.simplified": "/SVG_for_Font/Food/coctail.svg",
       "eps": "/EPS/Food/coctail.eps",
       "png": {
@@ -39106,7 +39107,7 @@
     "id": 589,
     "name": "lyre",
     "platform": "Windows 8/Metro",
-    "category": "Music",
+    "category": "Cinema",
     "created": 1329818067,
     "tags": [
       "music",
@@ -39118,7 +39119,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Music/lyre.svg",
+      "svg": "/SVG/Cinema/lyre.svg",
       "svg.simplified": "/SVG_for_Font/Cinema/lyre.svg",
       "eps": "/EPS/Cinema/lyre.eps",
       "png": {

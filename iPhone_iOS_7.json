@@ -11495,6 +11495,7 @@
     ],
     "copyright": false,
     "files": {
+      "svg": "/SVG/Food/coctail.svg",
       "svg.simplified": "/SVG_for_Font/Food/coctail.svg",
       "eps": "/EPS/Food/coctail.eps",
       "png": {
@@ -59673,32 +59674,6 @@
         "100": "/PNG/100/Very_Basic/upload_filled-100.png",
         "512": "/PNG/512/Very_Basic/upload_filled-512.png",
         "50": "/PNG/50/Very_Basic/upload_filled-50.png"
-      }
-    }
-  },
-  {
-    "id": 4716,
-    "name": "upload_to_cloud",
-    "platform": "iPhone/iOS 7",
-    "category": "Very Basic",
-    "created": 1401144672,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Very_Basic/upload_to_cloud.svg",
-      "svg.simplified": "/SVG_for_Font/Very_Basic/upload_to_cloud.svg",
-      "eps": "/EPS/Very_Basic/upload_to_cloud.eps",
-      "png": {
-        "25": "/PNG/25/Very_Basic/upload_to_cloud-25.png",
-        "32": "/PNG/32/Very_Basic/upload_to_cloud-32.png",
-        "128": "/PNG/128/Very_Basic/upload_to_cloud-128.png",
-        "75": "/PNG/75/Very_Basic/upload_to_cloud-75.png",
-        "256": "/PNG/256/Very_Basic/upload_to_cloud-256.png",
-        "100": "/PNG/100/Very_Basic/upload_to_cloud-100.png",
-        "512": "/PNG/512/Very_Basic/upload_to_cloud-512.png",
-        "50": "/PNG/50/Very_Basic/upload_to_cloud-50.png"
       }
     }
   },
