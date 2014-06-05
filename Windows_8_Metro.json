@@ -47644,6 +47644,31 @@
     }
   },
   {
+    "id": 4945,
+    "name": "paint_palette",
+    "platform": "Windows 8/Metro",
+    "category": "Editing",
+    "created": 1402023079,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Editing/paint_palette.svg",
+      "svg.simplified": "/SVG_for_Font/Editing/paint_palette.svg",
+      "eps": "/EPS/Editing/paint_palette.eps",
+      "png": {
+        "32": "/PNG/32/Editing/paint_palette-32.png",
+        "128": "/PNG/128/Editing/paint_palette-128.png",
+        "26": "/PNG/26/Editing/paint_palette-26.png",
+        "256": "/PNG/256/Editing/paint_palette-256.png",
+        "512": "/PNG/512/Editing/paint_palette-512.png",
+        "64": "/PNG/64/Editing/paint_palette-64.png",
+        "48": "/PNG/48/Editing/paint_palette-48.png"
+      }
+    }
+  },
+  {
     "id": 4914,
     "name": "pain_palette",
     "platform": "Windows 8/Metro",
@@ -47664,7 +47689,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Editing/pain_palette.svg",
       "svg.simplified": "/SVG_for_Font/Editing/pain_palette.svg",
       "eps": "/EPS/Editing/pain_palette.eps",
       "png": {
