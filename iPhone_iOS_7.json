@@ -20595,7 +20595,6 @@
       "run",
       "winner",
       "finish",
-      "racing",
       "flag",
       "racing flag"
     ],
@@ -42958,6 +42957,7 @@
     "tags": [
       "add",
       "buy",
+      "cart",
       "shopping cart",
       "shopping basket"
     ],
@@ -58521,6 +58521,7 @@
     "created": 1375957814,
     "tags": [
       "winner",
+      "flag",
       "sport",
       "concert",
       "win",

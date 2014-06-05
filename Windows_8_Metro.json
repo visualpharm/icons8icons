@@ -39106,7 +39106,7 @@
     "id": 589,
     "name": "lyre",
     "platform": "Windows 8/Metro",
-    "category": "Cinema",
+    "category": "Music",
     "created": 1329818067,
     "tags": [
       "music",
@@ -39118,17 +39118,17 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Cinema/lyre.svg",
-      "svg.simplified": "/SVG_for_Font/Cinema/lyre.svg",
-      "eps": "/EPS/Cinema/lyre.eps",
+      "svg": "/SVG/Music/lyre.svg",
+      "svg.simplified": "/SVG_for_Font/Music/lyre.svg",
+      "eps": "/EPS/Music/lyre.eps",
       "png": {
-        "32": "/PNG/32/Cinema/lyre-32.png",
-        "128": "/PNG/128/Cinema/lyre-128.png",
-        "26": "/PNG/26/Cinema/lyre-26.png",
-        "256": "/PNG/256/Cinema/lyre-256.png",
-        "512": "/PNG/512/Cinema/lyre-512.png",
-        "64": "/PNG/64/Cinema/lyre-64.png",
-        "48": "/PNG/48/Cinema/lyre-48.png"
+        "32": "/PNG/32/Music/lyre-32.png",
+        "128": "/PNG/128/Music/lyre-128.png",
+        "26": "/PNG/26/Music/lyre-26.png",
+        "256": "/PNG/256/Music/lyre-256.png",
+        "512": "/PNG/512/Music/lyre-512.png",
+        "64": "/PNG/64/Music/lyre-64.png",
+        "48": "/PNG/48/Music/lyre-48.png"
       }
     }
   },
@@ -47665,40 +47665,6 @@
         "512": "/PNG/512/Editing/paint_palette-512.png",
         "64": "/PNG/64/Editing/paint_palette-64.png",
         "48": "/PNG/48/Editing/paint_palette-48.png"
-      }
-    }
-  },
-  {
-    "id": 4914,
-    "name": "pain_palette",
-    "platform": "Windows 8/Metro",
-    "category": "Editing",
-    "created": 1401972661,
-    "tags": [
-      "draw",
-      "picture",
-      "colors",
-      "paint",
-      "art",
-      "painting",
-      "canvas",
-      "paintbrush",
-      "palette",
-      "oil paintings",
-      "paint supplies"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Editing/pain_palette.svg",
-      "eps": "/EPS/Editing/pain_palette.eps",
-      "png": {
-        "32": "/PNG/32/Editing/pain_palette-32.png",
-        "128": "/PNG/128/Editing/pain_palette-128.png",
-        "26": "/PNG/26/Editing/pain_palette-26.png",
-        "256": "/PNG/256/Editing/pain_palette-256.png",
-        "512": "/PNG/512/Editing/pain_palette-512.png",
-        "64": "/PNG/64/Editing/pain_palette-64.png",
-        "48": "/PNG/48/Editing/pain_palette-48.png"
       }
     }
   },
