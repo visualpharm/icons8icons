@@ -3404,6 +3404,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/birthday_cake.svg",
+      "svg.simplified": "/SVG_for_Font/Food/birthday_cake.svg",
       "eps": "/EPS/Food/birthday_cake.eps",
       "png": {
         "32": "/PNG/32/Food/birthday_cake-32.png",
@@ -3998,6 +3999,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/bread.svg",
+      "svg.simplified": "/SVG_for_Font/Food/bread.svg",
       "eps": "/EPS/Food/bread.eps",
       "png": {
         "32": "/PNG/32/Food/bread-32.png",
@@ -4259,6 +4261,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/bunch_ingredients.svg",
+      "svg.simplified": "/SVG_for_Font/Food/bunch_ingredients.svg",
       "eps": "/EPS/Food/bunch_ingredients.eps",
       "png": {
         "32": "/PNG/32/Food/bunch_ingredients-32.png",
@@ -5276,6 +5279,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/carrot.svg",
+      "svg.simplified": "/SVG_for_Font/Food/carrot.svg",
       "eps": "/EPS/Food/carrot.eps",
       "png": {
         "32": "/PNG/32/Food/carrot-32.png",
@@ -6098,6 +6102,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/cheese.svg",
+      "svg.simplified": "/SVG_for_Font/Food/cheese.svg",
       "eps": "/EPS/Food/cheese.eps",
       "png": {
         "32": "/PNG/32/Food/cheese-32.png",
@@ -7081,6 +7086,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/cocktail.svg",
+      "svg.simplified": "/SVG_for_Font/Food/cocktail.svg",
       "eps": "/EPS/Food/cocktail.eps",
       "png": {
         "32": "/PNG/32/Food/cocktail-32.png",
@@ -7844,6 +7850,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/cooking_pot.svg",
+      "svg.simplified": "/SVG_for_Font/Food/cooking_pot.svg",
       "eps": "/EPS/Food/cooking_pot.eps",
       "png": {
         "32": "/PNG/32/Food/cooking_pot-32.png",
@@ -8404,6 +8411,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/cup.svg",
+      "svg.simplified": "/SVG_for_Font/Food/cup.svg",
       "eps": "/EPS/Food/cup.eps",
       "png": {
         "32": "/PNG/32/Food/cup-32.png",
@@ -10134,6 +10142,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/eggs.svg",
+      "svg.simplified": "/SVG_for_Font/Food/eggs.svg",
       "eps": "/EPS/Food/eggs.eps",
       "png": {
         "32": "/PNG/32/Food/eggs-32.png",
@@ -12045,7 +12054,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/fish.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/fish.svg",
+      "svg.simplified": "/SVG_for_Font/Food/fish.svg",
       "eps": "/EPS/Food/fish.eps",
       "png": {
         "32": "/PNG/32/Food/fish-32.png",
@@ -12531,6 +12540,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/fork.svg",
+      "svg.simplified": "/SVG_for_Font/Food/fork.svg",
       "eps": "/EPS/Food/fork.eps",
       "png": {
         "32": "/PNG/32/Food/fork-32.png",
@@ -17180,6 +17190,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/knife.svg",
+      "svg.simplified": "/SVG_for_Font/Food/knife.svg",
       "eps": "/EPS/Food/knife.eps",
       "png": {
         "32": "/PNG/32/Food/knife-32.png",
@@ -17287,6 +17298,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/ladle.svg",
+      "svg.simplified": "/SVG_for_Font/Food/ladle.svg",
       "eps": "/EPS/Food/ladle.eps",
       "png": {
         "32": "/PNG/32/Food/ladle-32.png",
@@ -20033,6 +20045,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/milk.svg",
+      "svg.simplified": "/SVG_for_Font/Food/milk.svg",
       "eps": "/EPS/Food/milk.eps",
       "png": {
         "32": "/PNG/32/Food/milk-32.png",
@@ -21122,6 +21135,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/mushroom.svg",
+      "svg.simplified": "/SVG_for_Font/Food/mushroom.svg",
       "eps": "/EPS/Food/mushroom.eps",
       "png": {
         "32": "/PNG/32/Food/mushroom-32.png",
@@ -23096,6 +23110,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/pepper_shaker.svg",
+      "svg.simplified": "/SVG_for_Font/Food/pepper_shaker.svg",
       "eps": "/EPS/Food/pepper_shaker.eps",
       "png": {
         "32": "/PNG/32/Food/pepper_shaker-32.png",
@@ -27075,6 +27090,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/salt_shaker.svg",
+      "svg.simplified": "/SVG_for_Font/Food/salt_shaker.svg",
       "eps": "/EPS/Food/salt_shaker.eps",
       "png": {
         "32": "/PNG/32/Food/salt_shaker-32.png",
@@ -28088,6 +28104,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/shellfish.svg",
+      "svg.simplified": "/SVG_for_Font/Food/shellfish.svg",
       "eps": "/EPS/Food/shellfish.eps",
       "png": {
         "32": "/PNG/32/Food/shellfish-32.png",
@@ -29809,6 +29826,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/spoon.svg",
+      "svg.simplified": "/SVG_for_Font/Food/spoon.svg",
       "eps": "/EPS/Food/spoon.eps",
       "png": {
         "32": "/PNG/32/Food/spoon-32.png",
@@ -31726,6 +31744,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/teapot.svg",
+      "svg.simplified": "/SVG_for_Font/Food/teapot.svg",
       "eps": "/EPS/Food/teapot.eps",
       "png": {
         "32": "/PNG/32/Food/teapot-32.png",

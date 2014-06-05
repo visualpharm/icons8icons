@@ -7233,15 +7233,13 @@
     "category": "Editing",
     "created": 1337587889,
     "tags": [
-      "duplicate",
-      "text",
       "formatting",
       "color",
       "brush",
       "style",
       "paint",
       "art",
-      "font"
+      "fill"
     ],
     "copyright": false,
     "files": {
@@ -15021,6 +15019,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/cocktail.svg",
+      "svg.simplified": "/SVG_for_Font/Food/cocktail.svg",
       "eps": "/EPS/Food/cocktail.eps",
       "png": {
         "32": "/PNG/32/Food/cocktail-32.png",
@@ -43272,7 +43271,6 @@
       "sign",
       "variable",
       "name",
-      "letter",
       "product",
       "numerals",
       "series",
@@ -43286,7 +43284,6 @@
       "problem",
       "rate",
       "type",
-      "alphabet",
       "font",
       "modern",
       "tip",
@@ -43297,9 +43294,11 @@
       "classic",
       "element",
       "artistic",
-      "character",
       "white background",
-      "versi"
+      "version",
+      "ancient",
+      "mechanics",
+      "sketc"
     ],
     "copyright": false,
     "files": {
@@ -47651,6 +47650,8 @@
     "category": "Editing",
     "created": 1401972661,
     "tags": [
+      "draw",
+      "picture",
       "colors",
       "paint",
       "art",
@@ -47658,7 +47659,6 @@
       "canvas",
       "paintbrush",
       "palette",
-      "bob ross",
       "oil paintings",
       "paint supplies"
     ],

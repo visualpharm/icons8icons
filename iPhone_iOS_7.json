@@ -11423,6 +11423,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Food/cocktail.svg",
+      "svg.simplified": "/SVG_for_Font/Food/cocktail.svg",
       "eps": "/EPS/Food/cocktail.eps",
       "png": {
         "25": "/PNG/25/Food/cocktail-25.png",
@@ -33534,15 +33535,15 @@
       "phone",
       "send",
       "mail",
-      "message",
       "envelope",
       "messaging",
       "communication",
       "tell",
       "reply",
-      "communicate",
       "comms",
-      "votes"
+      "votes",
+      "message",
+      "communicate"
     ],
     "copyright": false,
     "files": {
@@ -50050,7 +50051,7 @@
     "category": "Photo and Video",
     "created": 1390342414,
     "tags": [
-
+      "map"
     ],
     "copyright": false,
     "files": {
