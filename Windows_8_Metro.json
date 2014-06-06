@@ -18651,6 +18651,31 @@
     }
   },
   {
+    "id": 4949,
+    "name": "death",
+    "platform": "Windows 8/Metro",
+    "category": "Healthcare",
+    "created": 1402059059,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Healthcare/death.svg",
+      "svg.simplified": "/SVG_for_Font/Healthcare/death.svg",
+      "eps": "/EPS/Healthcare/death.eps",
+      "png": {
+        "32": "/PNG/32/Healthcare/death-32.png",
+        "128": "/PNG/128/Healthcare/death-128.png",
+        "26": "/PNG/26/Healthcare/death-26.png",
+        "256": "/PNG/256/Healthcare/death-256.png",
+        "512": "/PNG/512/Healthcare/death-512.png",
+        "64": "/PNG/64/Healthcare/death-64.png",
+        "48": "/PNG/48/Healthcare/death-48.png"
+      }
+    }
+  },
+  {
     "id": 2556,
     "name": "debian",
     "platform": "Windows 8/Metro",
@@ -19216,6 +19241,7 @@
       "cancel",
       "cross",
       "line",
+      "lock",
       "label",
       "symbol",
       "image",
@@ -32944,6 +32970,31 @@
     }
   },
   {
+    "id": 4951,
+    "name": "hospital-3",
+    "platform": "Windows 8/Metro",
+    "category": "Healthcare",
+    "created": 1402059059,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Healthcare/hospital-3.svg",
+      "svg.simplified": "/SVG_for_Font/Healthcare/hospital-3.svg",
+      "eps": "/EPS/Healthcare/hospital-3.eps",
+      "png": {
+        "32": "/PNG/32/Healthcare/hospital-3-32.png",
+        "128": "/PNG/128/Healthcare/hospital-3-128.png",
+        "26": "/PNG/26/Healthcare/hospital-3-26.png",
+        "256": "/PNG/256/Healthcare/hospital-3-256.png",
+        "512": "/PNG/512/Healthcare/hospital-3-512.png",
+        "64": "/PNG/64/Healthcare/hospital-3-64.png",
+        "48": "/PNG/48/Healthcare/hospital-3-48.png"
+      }
+    }
+  },
+  {
     "id": 3699,
     "name": "hospital2",
     "platform": "Windows 8/Metro",
@@ -39300,7 +39351,8 @@
       "ipad",
       "itouch",
       "platforms",
-      "operating sysytem"
+      "operating sysytem",
+      "wwdc"
     ],
     "copyright": true,
     "files": {
@@ -69255,6 +69307,31 @@
     }
   },
   {
+    "id": 4947,
+    "name": "tooth",
+    "platform": "Windows 8/Metro",
+    "category": "Healthcare",
+    "created": 1402059059,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Healthcare/tooth.svg",
+      "svg.simplified": "/SVG_for_Font/Healthcare/tooth.svg",
+      "eps": "/EPS/Healthcare/tooth.eps",
+      "png": {
+        "32": "/PNG/32/Healthcare/tooth-32.png",
+        "128": "/PNG/128/Healthcare/tooth-128.png",
+        "26": "/PNG/26/Healthcare/tooth-26.png",
+        "256": "/PNG/256/Healthcare/tooth-256.png",
+        "512": "/PNG/512/Healthcare/tooth-512.png",
+        "64": "/PNG/64/Healthcare/tooth-64.png",
+        "48": "/PNG/48/Healthcare/tooth-48.png"
+      }
+    }
+  },
+  {
     "id": 460,
     "name": "topic",
     "platform": "Windows 8/Metro",
@@ -71957,6 +72034,7 @@
       "folders",
       "people",
       "money",
+      "location",
       "person",
       "head",
       "name",

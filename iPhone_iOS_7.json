@@ -5167,7 +5167,8 @@
       "biomass",
       "biomass energy",
       "biofuel",
-      "biodiesel"
+      "biodiesel",
+      "comunication"
     ],
     "copyright": false,
     "files": {
@@ -14686,6 +14687,32 @@
         "100": "/PNG/100/Plants/deadly_spray-100.png",
         "512": "/PNG/512/Plants/deadly_spray-512.png",
         "50": "/PNG/50/Plants/deadly_spray-50.png"
+      }
+    }
+  },
+  {
+    "id": 4950,
+    "name": "death",
+    "platform": "iPhone/iOS 7",
+    "category": "Healthcare",
+    "created": 1402059059,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Healthcare/death.svg",
+      "svg.simplified": "/SVG_for_Font/Healthcare/death.svg",
+      "eps": "/EPS/Healthcare/death.eps",
+      "png": {
+        "25": "/PNG/25/Healthcare/death-25.png",
+        "32": "/PNG/32/Healthcare/death-32.png",
+        "128": "/PNG/128/Healthcare/death-128.png",
+        "75": "/PNG/75/Healthcare/death-75.png",
+        "256": "/PNG/256/Healthcare/death-256.png",
+        "100": "/PNG/100/Healthcare/death-100.png",
+        "512": "/PNG/512/Healthcare/death-512.png",
+        "50": "/PNG/50/Healthcare/death-50.png"
       }
     }
   },
@@ -26790,6 +26817,32 @@
         "100": "/PNG/100/City/hospital-100.png",
         "512": "/PNG/512/City/hospital-512.png",
         "50": "/PNG/50/City/hospital-50.png"
+      }
+    }
+  },
+  {
+    "id": 4952,
+    "name": "hospital-3",
+    "platform": "iPhone/iOS 7",
+    "category": "Healthcare",
+    "created": 1402059059,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Healthcare/hospital-3.svg",
+      "svg.simplified": "/SVG_for_Font/Healthcare/hospital-3.svg",
+      "eps": "/EPS/Healthcare/hospital-3.eps",
+      "png": {
+        "25": "/PNG/25/Healthcare/hospital-3-25.png",
+        "32": "/PNG/32/Healthcare/hospital-3-32.png",
+        "128": "/PNG/128/Healthcare/hospital-3-128.png",
+        "75": "/PNG/75/Healthcare/hospital-3-75.png",
+        "256": "/PNG/256/Healthcare/hospital-3-256.png",
+        "100": "/PNG/100/Healthcare/hospital-3-100.png",
+        "512": "/PNG/512/Healthcare/hospital-3-512.png",
+        "50": "/PNG/50/Healthcare/hospital-3-50.png"
       }
     }
   },
@@ -57469,6 +57522,32 @@
         "100": "/PNG/100/Household/toolbox_filled-100.png",
         "512": "/PNG/512/Household/toolbox_filled-512.png",
         "50": "/PNG/50/Household/toolbox_filled-50.png"
+      }
+    }
+  },
+  {
+    "id": 4948,
+    "name": "tooth",
+    "platform": "iPhone/iOS 7",
+    "category": "Healthcare",
+    "created": 1402059059,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Healthcare/tooth.svg",
+      "svg.simplified": "/SVG_for_Font/Healthcare/tooth.svg",
+      "eps": "/EPS/Healthcare/tooth.eps",
+      "png": {
+        "25": "/PNG/25/Healthcare/tooth-25.png",
+        "32": "/PNG/32/Healthcare/tooth-32.png",
+        "128": "/PNG/128/Healthcare/tooth-128.png",
+        "75": "/PNG/75/Healthcare/tooth-75.png",
+        "256": "/PNG/256/Healthcare/tooth-256.png",
+        "100": "/PNG/100/Healthcare/tooth-100.png",
+        "512": "/PNG/512/Healthcare/tooth-512.png",
+        "50": "/PNG/50/Healthcare/tooth-50.png"
       }
     }
   },
