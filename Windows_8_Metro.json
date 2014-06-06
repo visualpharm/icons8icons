@@ -44016,7 +44016,7 @@
     "id": 1721,
     "name": "mustache",
     "platform": "Windows 8/Metro",
-    "category": "Cultures",
+    "category": "Hair",
     "created": 1362394729,
     "tags": [
       "man",
@@ -44028,7 +44028,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Cultures/mustache.svg",
+      "svg": "/SVG/Hair/mustache.svg",
       "svg.simplified": "/SVG_for_Font/Cultures/mustache.svg",
       "eps": "/EPS/Cultures/mustache.eps",
       "png": {
@@ -44039,6 +44039,31 @@
         "512": "/PNG/512/Cultures/mustache-512.png",
         "64": "/PNG/64/Cultures/mustache-64.png",
         "48": "/PNG/48/Cultures/mustache-48.png"
+      }
+    }
+  },
+  {
+    "id": 4953,
+    "name": "mustache-2",
+    "platform": "Windows 8/Metro",
+    "category": "Cultures",
+    "created": 1402073487,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Cultures/mustache-2.svg",
+      "svg.simplified": "/SVG_for_Font/Cultures/mustache-2.svg",
+      "eps": "/EPS/Cultures/mustache-2.eps",
+      "png": {
+        "32": "/PNG/32/Cultures/mustache-2-32.png",
+        "128": "/PNG/128/Cultures/mustache-2-128.png",
+        "26": "/PNG/26/Cultures/mustache-2-26.png",
+        "256": "/PNG/256/Cultures/mustache-2-256.png",
+        "512": "/PNG/512/Cultures/mustache-2-512.png",
+        "64": "/PNG/64/Cultures/mustache-2-64.png",
+        "48": "/PNG/48/Cultures/mustache-2-48.png"
       }
     }
   },
