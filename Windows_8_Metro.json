@@ -28809,6 +28809,7 @@
     "category": "Editing",
     "created": 1341396102,
     "tags": [
+      "trash",
       "text",
       "size",
       "style",
@@ -44032,13 +44033,13 @@
       "svg.simplified": "/SVG_for_Font/Cultures/mustache.svg",
       "eps": "/EPS/Cultures/mustache.eps",
       "png": {
-        "32": "/PNG/32/Cultures/mustache-32.png",
-        "128": "/PNG/128/Cultures/mustache-128.png",
-        "26": "/PNG/26/Cultures/mustache-26.png",
-        "256": "/PNG/256/Cultures/mustache-256.png",
-        "512": "/PNG/512/Cultures/mustache-512.png",
-        "64": "/PNG/64/Cultures/mustache-64.png",
-        "48": "/PNG/48/Cultures/mustache-48.png"
+        "32": "/PNG/32/Hair/mustache-32.png",
+        "128": "/PNG/128/Hair/mustache-128.png",
+        "26": "/PNG/26/Hair/mustache-26.png",
+        "256": "/PNG/256/Hair/mustache-256.png",
+        "512": "/PNG/512/Hair/mustache-512.png",
+        "64": "/PNG/64/Hair/mustache-64.png",
+        "48": "/PNG/48/Hair/mustache-48.png"
       }
     }
   },
@@ -55363,6 +55364,7 @@
     "created": 1377076686,
     "tags": [
       "tag",
+      "human",
       "signal",
       "wireless",
       "wireless technology",
@@ -71743,6 +71745,7 @@
       "pen",
       "write",
       "read",
+      "right",
       "drawing",
       "word",
       "symbol",
@@ -74506,6 +74509,7 @@
     "category": "Household",
     "created": 1328005501,
     "tags": [
+      "gallery",
       "chrome"
     ],
     "copyright": false,

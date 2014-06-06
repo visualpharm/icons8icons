@@ -7593,7 +7593,6 @@
       "stay",
       "ending",
       "discard",
-      "discontinuation",
       "layoff",
       "fence",
       "closing",
@@ -9154,6 +9153,7 @@
       "play",
       "communication",
       "image",
+      "stream",
       "gas",
       "icon",
       "conversation",
@@ -19671,7 +19671,6 @@
       "movement",
       "circled",
       "inside",
-      "perimeter",
       "arrow pointing up",
       "encircled",
       "radii",
@@ -36413,7 +36412,7 @@
     "category": "Maps",
     "created": 1390342414,
     "tags": [
-
+      "search"
     ],
     "copyright": false,
     "files": {
@@ -48732,7 +48731,9 @@
       "restaurant",
       "sell",
       "business",
+      "mall",
       "shop",
+      "dimond",
       "store",
       "bar"
     ],
@@ -59372,7 +59373,6 @@
       "signal",
       "image",
       "photo",
-      "pointer",
       "redo",
       "rocket",
       "shot",
@@ -59642,7 +59642,8 @@
     "category": "Arrows",
     "created": 1390342414,
     "tags": [
-      "arrow"
+      "arrow",
+      "search"
     ],
     "copyright": false,
     "files": {
