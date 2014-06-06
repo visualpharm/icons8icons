@@ -2135,6 +2135,33 @@
     }
   },
   {
+    "id": 4965,
+    "name": "banana_split",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1402095073,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/banana_split.svg",
+      "svg.simplified": "/SVG_for_Font/Food/banana_split.svg",
+      "eps": "/EPS/Food/banana_split.eps",
+      "png": {
+        "32": "/PNG/32/Food/banana_split-32.png",
+        "128": "/PNG/128/Food/banana_split-128.png",
+        "256": "/PNG/256/Food/banana_split-256.png",
+        "36": "/PNG/36/Food/banana_split-36.png",
+        "512": "/PNG/512/Food/banana_split-512.png",
+        "64": "/PNG/64/Food/banana_split-64.png",
+        "24": "/PNG/24/Food/banana_split-24.png",
+        "96": "/PNG/96/Food/banana_split-96.png",
+        "48": "/PNG/48/Food/banana_split-48.png"
+      }
+    }
+  },
+  {
     "id": 4360,
     "name": "bandage",
     "platform": "Android",
@@ -2964,6 +2991,60 @@
         "24": "/PNG/24/Household/bed-24.png",
         "96": "/PNG/96/Household/bed-96.png",
         "48": "/PNG/48/Household/bed-48.png"
+      }
+    }
+  },
+  {
+    "id": 4963,
+    "name": "beer_bottle",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1402095073,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/beer_bottle.svg",
+      "svg.simplified": "/SVG_for_Font/Food/beer_bottle.svg",
+      "eps": "/EPS/Food/beer_bottle.eps",
+      "png": {
+        "32": "/PNG/32/Food/beer_bottle-32.png",
+        "128": "/PNG/128/Food/beer_bottle-128.png",
+        "256": "/PNG/256/Food/beer_bottle-256.png",
+        "36": "/PNG/36/Food/beer_bottle-36.png",
+        "512": "/PNG/512/Food/beer_bottle-512.png",
+        "64": "/PNG/64/Food/beer_bottle-64.png",
+        "24": "/PNG/24/Food/beer_bottle-24.png",
+        "96": "/PNG/96/Food/beer_bottle-96.png",
+        "48": "/PNG/48/Food/beer_bottle-48.png"
+      }
+    }
+  },
+  {
+    "id": 4973,
+    "name": "beer_glass",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1402095073,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/beer_glass.svg",
+      "svg.simplified": "/SVG_for_Font/Food/beer_glass.svg",
+      "eps": "/EPS/Food/beer_glass.eps",
+      "png": {
+        "32": "/PNG/32/Food/beer_glass-32.png",
+        "128": "/PNG/128/Food/beer_glass-128.png",
+        "256": "/PNG/256/Food/beer_glass-256.png",
+        "36": "/PNG/36/Food/beer_glass-36.png",
+        "512": "/PNG/512/Food/beer_glass-512.png",
+        "64": "/PNG/64/Food/beer_glass-64.png",
+        "24": "/PNG/24/Food/beer_glass-24.png",
+        "96": "/PNG/96/Food/beer_glass-96.png",
+        "48": "/PNG/48/Food/beer_glass-48.png"
       }
     }
   },
@@ -6334,6 +6415,33 @@
     }
   },
   {
+    "id": 4958,
+    "name": "cinnamon_roll",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1402095073,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/cinnamon_roll.svg",
+      "svg.simplified": "/SVG_for_Font/Food/cinnamon_roll.svg",
+      "eps": "/EPS/Food/cinnamon_roll.eps",
+      "png": {
+        "32": "/PNG/32/Food/cinnamon_roll-32.png",
+        "128": "/PNG/128/Food/cinnamon_roll-128.png",
+        "256": "/PNG/256/Food/cinnamon_roll-256.png",
+        "36": "/PNG/36/Food/cinnamon_roll-36.png",
+        "512": "/PNG/512/Food/cinnamon_roll-512.png",
+        "64": "/PNG/64/Food/cinnamon_roll-64.png",
+        "24": "/PNG/24/Food/cinnamon_roll-24.png",
+        "96": "/PNG/96/Food/cinnamon_roll-96.png",
+        "48": "/PNG/48/Food/cinnamon_roll-48.png"
+      }
+    }
+  },
+  {
     "id": 4061,
     "name": "circuit",
     "platform": "Android",
@@ -7840,6 +7948,33 @@
     }
   },
   {
+    "id": 4962,
+    "name": "cookies",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1402095073,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/cookies.svg",
+      "svg.simplified": "/SVG_for_Font/Food/cookies.svg",
+      "eps": "/EPS/Food/cookies.eps",
+      "png": {
+        "32": "/PNG/32/Food/cookies-32.png",
+        "128": "/PNG/128/Food/cookies-128.png",
+        "256": "/PNG/256/Food/cookies-256.png",
+        "36": "/PNG/36/Food/cookies-36.png",
+        "512": "/PNG/512/Food/cookies-512.png",
+        "64": "/PNG/64/Food/cookies-64.png",
+        "24": "/PNG/24/Food/cookies-24.png",
+        "96": "/PNG/96/Food/cookies-96.png",
+        "48": "/PNG/48/Food/cookies-48.png"
+      }
+    }
+  },
+  {
     "id": 4938,
     "name": "cooking_pot",
     "platform": "Android",
@@ -7863,6 +7998,33 @@
         "24": "/PNG/24/Food/cooking_pot-24.png",
         "96": "/PNG/96/Food/cooking_pot-96.png",
         "48": "/PNG/48/Food/cooking_pot-48.png"
+      }
+    }
+  },
+  {
+    "id": 4961,
+    "name": "corkscrew",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1402095073,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/corkscrew.svg",
+      "svg.simplified": "/SVG_for_Font/Food/corkscrew.svg",
+      "eps": "/EPS/Food/corkscrew.eps",
+      "png": {
+        "32": "/PNG/32/Food/corkscrew-32.png",
+        "128": "/PNG/128/Food/corkscrew-128.png",
+        "256": "/PNG/256/Food/corkscrew-256.png",
+        "36": "/PNG/36/Food/corkscrew-36.png",
+        "512": "/PNG/512/Food/corkscrew-512.png",
+        "64": "/PNG/64/Food/corkscrew-64.png",
+        "24": "/PNG/24/Food/corkscrew-24.png",
+        "96": "/PNG/96/Food/corkscrew-96.png",
+        "48": "/PNG/48/Food/corkscrew-48.png"
       }
     }
   },
@@ -8424,6 +8586,33 @@
         "24": "/PNG/24/Food/cup-24.png",
         "96": "/PNG/96/Food/cup-96.png",
         "48": "/PNG/48/Food/cup-48.png"
+      }
+    }
+  },
+  {
+    "id": 4956,
+    "name": "cupcake",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1402095073,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/cupcake.svg",
+      "svg.simplified": "/SVG_for_Font/Food/cupcake.svg",
+      "eps": "/EPS/Food/cupcake.eps",
+      "png": {
+        "32": "/PNG/32/Food/cupcake-32.png",
+        "128": "/PNG/128/Food/cupcake-128.png",
+        "256": "/PNG/256/Food/cupcake-256.png",
+        "36": "/PNG/36/Food/cupcake-36.png",
+        "512": "/PNG/512/Food/cupcake-512.png",
+        "64": "/PNG/64/Food/cupcake-64.png",
+        "24": "/PNG/24/Food/cupcake-24.png",
+        "96": "/PNG/96/Food/cupcake-96.png",
+        "48": "/PNG/48/Food/cupcake-48.png"
       }
     }
   },
@@ -9625,6 +9814,33 @@
         "24": "/PNG/24/Network/domain-24.png",
         "96": "/PNG/96/Network/domain-96.png",
         "48": "/PNG/48/Network/domain-48.png"
+      }
+    }
+  },
+  {
+    "id": 4960,
+    "name": "doughnut",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1402095073,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/doughnut.svg",
+      "svg.simplified": "/SVG_for_Font/Food/doughnut.svg",
+      "eps": "/EPS/Food/doughnut.eps",
+      "png": {
+        "32": "/PNG/32/Food/doughnut-32.png",
+        "128": "/PNG/128/Food/doughnut-128.png",
+        "256": "/PNG/256/Food/doughnut-256.png",
+        "36": "/PNG/36/Food/doughnut-36.png",
+        "512": "/PNG/512/Food/doughnut-512.png",
+        "64": "/PNG/64/Food/doughnut-64.png",
+        "24": "/PNG/24/Food/doughnut-24.png",
+        "96": "/PNG/96/Food/doughnut-96.png",
+        "48": "/PNG/48/Food/doughnut-48.png"
       }
     }
   },
@@ -12792,6 +13008,33 @@
     }
   },
   {
+    "id": 4964,
+    "name": "french_fries",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1402095073,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/french_fries.svg",
+      "svg.simplified": "/SVG_for_Font/Food/french_fries.svg",
+      "eps": "/EPS/Food/french_fries.eps",
+      "png": {
+        "32": "/PNG/32/Food/french_fries-32.png",
+        "128": "/PNG/128/Food/french_fries-128.png",
+        "256": "/PNG/256/Food/french_fries-256.png",
+        "36": "/PNG/36/Food/french_fries-36.png",
+        "512": "/PNG/512/Food/french_fries-512.png",
+        "64": "/PNG/64/Food/french_fries-64.png",
+        "24": "/PNG/24/Food/french_fries-24.png",
+        "96": "/PNG/96/Food/french_fries-96.png",
+        "48": "/PNG/48/Food/french_fries-48.png"
+      }
+    }
+  },
+  {
     "id": 3399,
     "name": "french_horn",
     "platform": "Android",
@@ -15805,6 +16048,33 @@
     }
   },
   {
+    "id": 4957,
+    "name": "hot_dog",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1402095073,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/hot_dog.svg",
+      "svg.simplified": "/SVG_for_Font/Food/hot_dog.svg",
+      "eps": "/EPS/Food/hot_dog.eps",
+      "png": {
+        "32": "/PNG/32/Food/hot_dog-32.png",
+        "128": "/PNG/128/Food/hot_dog-128.png",
+        "256": "/PNG/256/Food/hot_dog-256.png",
+        "36": "/PNG/36/Food/hot_dog-36.png",
+        "512": "/PNG/512/Food/hot_dog-512.png",
+        "64": "/PNG/64/Food/hot_dog-64.png",
+        "24": "/PNG/24/Food/hot_dog-24.png",
+        "96": "/PNG/96/Food/hot_dog-96.png",
+        "48": "/PNG/48/Food/hot_dog-48.png"
+      }
+    }
+  },
+  {
     "id": 4589,
     "name": "hot_tube",
     "platform": "Android",
@@ -15911,6 +16181,33 @@
         "24": "/PNG/24/Measurement_Units/humidity-24.png",
         "96": "/PNG/96/Measurement_Units/humidity-96.png",
         "48": "/PNG/48/Measurement_Units/humidity-48.png"
+      }
+    }
+  },
+  {
+    "id": 4967,
+    "name": "hunburger",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1402095073,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/hunburger.svg",
+      "svg.simplified": "/SVG_for_Font/Food/hunburger.svg",
+      "eps": "/EPS/Food/hunburger.eps",
+      "png": {
+        "32": "/PNG/32/Food/hunburger-32.png",
+        "128": "/PNG/128/Food/hunburger-128.png",
+        "256": "/PNG/256/Food/hunburger-256.png",
+        "36": "/PNG/36/Food/hunburger-36.png",
+        "512": "/PNG/512/Food/hunburger-512.png",
+        "64": "/PNG/64/Food/hunburger-64.png",
+        "24": "/PNG/24/Food/hunburger-24.png",
+        "96": "/PNG/96/Food/hunburger-96.png",
+        "48": "/PNG/48/Food/hunburger-48.png"
       }
     }
   },
@@ -18855,6 +19152,33 @@
         "24": "/PNG/24/Household/luggage_trolley-24.png",
         "96": "/PNG/96/Household/luggage_trolley-96.png",
         "48": "/PNG/48/Household/luggage_trolley-48.png"
+      }
+    }
+  },
+  {
+    "id": 4970,
+    "name": "macaron",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1402095073,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/macaron.svg",
+      "svg.simplified": "/SVG_for_Font/Food/macaron.svg",
+      "eps": "/EPS/Food/macaron.eps",
+      "png": {
+        "32": "/PNG/32/Food/macaron-32.png",
+        "128": "/PNG/128/Food/macaron-128.png",
+        "256": "/PNG/256/Food/macaron-256.png",
+        "36": "/PNG/36/Food/macaron-36.png",
+        "512": "/PNG/512/Food/macaron-512.png",
+        "64": "/PNG/64/Food/macaron-64.png",
+        "24": "/PNG/24/Food/macaron-24.png",
+        "96": "/PNG/96/Food/macaron-96.png",
+        "48": "/PNG/48/Food/macaron-48.png"
       }
     }
   },
@@ -22892,6 +23216,60 @@
     }
   },
   {
+    "id": 4969,
+    "name": "pastry_bag",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1402095073,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/pastry_bag.svg",
+      "svg.simplified": "/SVG_for_Font/Food/pastry_bag.svg",
+      "eps": "/EPS/Food/pastry_bag.eps",
+      "png": {
+        "32": "/PNG/32/Food/pastry_bag-32.png",
+        "128": "/PNG/128/Food/pastry_bag-128.png",
+        "256": "/PNG/256/Food/pastry_bag-256.png",
+        "36": "/PNG/36/Food/pastry_bag-36.png",
+        "512": "/PNG/512/Food/pastry_bag-512.png",
+        "64": "/PNG/64/Food/pastry_bag-64.png",
+        "24": "/PNG/24/Food/pastry_bag-24.png",
+        "96": "/PNG/96/Food/pastry_bag-96.png",
+        "48": "/PNG/48/Food/pastry_bag-48.png"
+      }
+    }
+  },
+  {
+    "id": 4959,
+    "name": "pastry_spatula",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1402095073,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/pastry_spatula.svg",
+      "svg.simplified": "/SVG_for_Font/Food/pastry_spatula.svg",
+      "eps": "/EPS/Food/pastry_spatula.eps",
+      "png": {
+        "32": "/PNG/32/Food/pastry_spatula-32.png",
+        "128": "/PNG/128/Food/pastry_spatula-128.png",
+        "256": "/PNG/256/Food/pastry_spatula-256.png",
+        "36": "/PNG/36/Food/pastry_spatula-36.png",
+        "512": "/PNG/512/Food/pastry_spatula-512.png",
+        "64": "/PNG/64/Food/pastry_spatula-64.png",
+        "24": "/PNG/24/Food/pastry_spatula-24.png",
+        "96": "/PNG/96/Food/pastry_spatula-96.png",
+        "48": "/PNG/48/Food/pastry_spatula-48.png"
+      }
+    }
+  },
+  {
     "id": 3841,
     "name": "pause",
     "platform": "Android",
@@ -23660,6 +24038,33 @@
         "24": "/PNG/24/DIY/pitchfork-24.png",
         "96": "/PNG/96/DIY/pitchfork-96.png",
         "48": "/PNG/48/DIY/pitchfork-48.png"
+      }
+    }
+  },
+  {
+    "id": 4971,
+    "name": "pizza",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1402095073,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/pizza.svg",
+      "svg.simplified": "/SVG_for_Font/Food/pizza.svg",
+      "eps": "/EPS/Food/pizza.eps",
+      "png": {
+        "32": "/PNG/32/Food/pizza-32.png",
+        "128": "/PNG/128/Food/pizza-128.png",
+        "256": "/PNG/256/Food/pizza-256.png",
+        "36": "/PNG/36/Food/pizza-36.png",
+        "512": "/PNG/512/Food/pizza-512.png",
+        "64": "/PNG/64/Food/pizza-64.png",
+        "24": "/PNG/24/Food/pizza-24.png",
+        "96": "/PNG/96/Food/pizza-96.png",
+        "48": "/PNG/48/Food/pizza-48.png"
       }
     }
   },
@@ -29468,6 +29873,33 @@
     }
   },
   {
+    "id": 4966,
+    "name": "soda_bottle",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1402095073,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/soda_bottle.svg",
+      "svg.simplified": "/SVG_for_Font/Food/soda_bottle.svg",
+      "eps": "/EPS/Food/soda_bottle.eps",
+      "png": {
+        "32": "/PNG/32/Food/soda_bottle-32.png",
+        "128": "/PNG/128/Food/soda_bottle-128.png",
+        "256": "/PNG/256/Food/soda_bottle-256.png",
+        "36": "/PNG/36/Food/soda_bottle-36.png",
+        "512": "/PNG/512/Food/soda_bottle-512.png",
+        "64": "/PNG/64/Food/soda_bottle-64.png",
+        "24": "/PNG/24/Food/soda_bottle-24.png",
+        "96": "/PNG/96/Food/soda_bottle-96.png",
+        "48": "/PNG/48/Food/soda_bottle-48.png"
+      }
+    }
+  },
+  {
     "id": 4571,
     "name": "sofa",
     "platform": "Android",
@@ -31530,6 +31962,33 @@
         "24": "/PNG/24/Household/tabletop_radio-24.png",
         "96": "/PNG/96/Household/tabletop_radio-96.png",
         "48": "/PNG/48/Household/tabletop_radio-48.png"
+      }
+    }
+  },
+  {
+    "id": 4972,
+    "name": "taco",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1402095073,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/taco.svg",
+      "svg.simplified": "/SVG_for_Font/Food/taco.svg",
+      "eps": "/EPS/Food/taco.eps",
+      "png": {
+        "32": "/PNG/32/Food/taco-32.png",
+        "128": "/PNG/128/Food/taco-128.png",
+        "256": "/PNG/256/Food/taco-256.png",
+        "36": "/PNG/36/Food/taco-36.png",
+        "512": "/PNG/512/Food/taco-512.png",
+        "64": "/PNG/64/Food/taco-64.png",
+        "24": "/PNG/24/Food/taco-24.png",
+        "96": "/PNG/96/Food/taco-96.png",
+        "48": "/PNG/48/Food/taco-48.png"
       }
     }
   },
@@ -36125,6 +36584,33 @@
     }
   },
   {
+    "id": 4955,
+    "name": "waiter",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1402095073,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/waiter.svg",
+      "svg.simplified": "/SVG_for_Font/Food/waiter.svg",
+      "eps": "/EPS/Food/waiter.eps",
+      "png": {
+        "32": "/PNG/32/Food/waiter-32.png",
+        "128": "/PNG/128/Food/waiter-128.png",
+        "256": "/PNG/256/Food/waiter-256.png",
+        "36": "/PNG/36/Food/waiter-36.png",
+        "512": "/PNG/512/Food/waiter-512.png",
+        "64": "/PNG/64/Food/waiter-64.png",
+        "24": "/PNG/24/Food/waiter-24.png",
+        "96": "/PNG/96/Food/waiter-96.png",
+        "48": "/PNG/48/Food/waiter-48.png"
+      }
+    }
+  },
+  {
     "id": 4346,
     "name": "walker",
     "platform": "Android",
@@ -37429,6 +37915,60 @@
         "24": "/PNG/24/Industry/wind_turbine-24.png",
         "96": "/PNG/96/Industry/wind_turbine-96.png",
         "48": "/PNG/48/Industry/wind_turbine-48.png"
+      }
+    }
+  },
+  {
+    "id": 4954,
+    "name": "wine_bottle",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1402095073,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/wine_bottle.svg",
+      "svg.simplified": "/SVG_for_Font/Food/wine_bottle.svg",
+      "eps": "/EPS/Food/wine_bottle.eps",
+      "png": {
+        "32": "/PNG/32/Food/wine_bottle-32.png",
+        "128": "/PNG/128/Food/wine_bottle-128.png",
+        "256": "/PNG/256/Food/wine_bottle-256.png",
+        "36": "/PNG/36/Food/wine_bottle-36.png",
+        "512": "/PNG/512/Food/wine_bottle-512.png",
+        "64": "/PNG/64/Food/wine_bottle-64.png",
+        "24": "/PNG/24/Food/wine_bottle-24.png",
+        "96": "/PNG/96/Food/wine_bottle-96.png",
+        "48": "/PNG/48/Food/wine_bottle-48.png"
+      }
+    }
+  },
+  {
+    "id": 4968,
+    "name": "wine_glass",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1402095073,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/wine_glass.svg",
+      "svg.simplified": "/SVG_for_Font/Food/wine_glass.svg",
+      "eps": "/EPS/Food/wine_glass.eps",
+      "png": {
+        "32": "/PNG/32/Food/wine_glass-32.png",
+        "128": "/PNG/128/Food/wine_glass-128.png",
+        "256": "/PNG/256/Food/wine_glass-256.png",
+        "36": "/PNG/36/Food/wine_glass-36.png",
+        "512": "/PNG/512/Food/wine_glass-512.png",
+        "64": "/PNG/64/Food/wine_glass-64.png",
+        "24": "/PNG/24/Food/wine_glass-24.png",
+        "96": "/PNG/96/Food/wine_glass-96.png",
+        "48": "/PNG/48/Food/wine_glass-48.png"
       }
     }
   },

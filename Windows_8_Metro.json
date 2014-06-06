@@ -15091,7 +15091,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Food/coctail.svg",
       "svg.simplified": "/SVG_for_Font/Food/coctail.svg",
       "eps": "/EPS/Food/coctail.eps",
       "png": {
@@ -18658,7 +18657,10 @@
     "category": "Healthcare",
     "created": 1402059059,
     "tags": [
-
+      "funeral",
+      "dead body",
+      "corpse",
+      "morgue"
     ],
     "copyright": false,
     "files": {
@@ -32749,6 +32751,7 @@
       "doors",
       "door",
       "start",
+      "search",
       "shop",
       "letter",
       "email",
@@ -38527,7 +38530,8 @@
       "kitchen",
       "skeleton",
       "distruction",
-      "warehouse"
+      "warehouse",
+      "license"
     ],
     "copyright": false,
     "files": {
@@ -57381,7 +57385,6 @@
     "tags": [
       "delete",
       "edit",
-      "save",
       "save as",
       "floppy",
       "disk",
@@ -77779,7 +77782,7 @@
     "category": "Astrology",
     "created": 1401144672,
     "tags": [
-
+      "dragon"
     ],
     "copyright": false,
     "files": {
