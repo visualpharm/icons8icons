@@ -1017,6 +1017,7 @@
     "tags": [
       "user",
       "edit",
+      "paper",
       "star",
       "car",
       "airplane",
@@ -1835,7 +1836,8 @@
       "good expressive",
       "differents",
       "making different",
-      "expectation not end"
+      "expectation not end",
+      "all"
     ],
     "copyright": false,
     "files": {
@@ -1865,6 +1867,7 @@
       "group",
       "macro",
       "garden",
+      "bug",
       "nature",
       "mini",
       "wild",
@@ -1873,14 +1876,14 @@
       "danger",
       "cartoon",
       "fear",
-      "insect",
       "eight",
       "leg",
       "hunter",
       "tiny",
       "niger",
       "hymenoptera",
-      "formicidae"
+      "formicidae",
+      "insect"
     ],
     "copyright": false,
     "files": {
@@ -4557,7 +4560,9 @@
       "leg",
       "bite",
       "tiny",
-      "sting"
+      "sting",
+      "bed bugs",
+      "bedbug"
     ],
     "copyright": false,
     "files": {
@@ -27789,7 +27794,6 @@
     "created": 1398351100,
     "tags": [
       "report",
-      "bug",
       "nature",
       "problem",
       "fix",
@@ -27808,7 +27812,8 @@
       "mite",
       "grasshooper",
       "crawl",
-      "troubleshoot"
+      "troubleshoot",
+      "bug"
     ],
     "copyright": false,
     "files": {
@@ -60073,6 +60078,7 @@
     "category": "Users",
     "created": 1390342414,
     "tags": [
+      "calendar",
       "lock",
       "emergency",
       "config",
@@ -60106,7 +60112,8 @@
       "contact",
       "pass",
       "tuner",
-      "fax"
+      "fax",
+      "person"
     ],
     "copyright": false,
     "files": {

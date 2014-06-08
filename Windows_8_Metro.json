@@ -3948,14 +3948,15 @@
       "right",
       "plus",
       "water",
-      "increase",
       "next",
       "icon",
       "move",
       "navigation",
       "margin",
       "update",
-      "ident"
+      "ident",
+      "left arrow",
+      "increase"
     ],
     "copyright": false,
     "files": {
@@ -4927,6 +4928,7 @@
     "category": "Baby",
     "created": 1376485534,
     "tags": [
+      "flower",
       "feet",
       "baby",
       "crying baby",
