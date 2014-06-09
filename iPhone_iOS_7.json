@@ -10883,6 +10883,7 @@
     "tags": [
       "music",
       "notes",
+      "support",
       "weather"
     ],
     "copyright": false,
@@ -14558,6 +14559,7 @@
       "angle",
       "cm",
       "One hour",
+      "quadratic",
       "measurement"
     ],
     "copyright": false,
@@ -46743,7 +46745,6 @@
       "user",
       "tick",
       "edit",
-      "medical",
       "search",
       "magnifier",
       "detect",
