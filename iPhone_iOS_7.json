@@ -2178,6 +2178,7 @@
       "graph",
       "statistics",
       "setting",
+      "bill",
       "term",
       "diagram",
       "area chart"
@@ -5084,7 +5085,6 @@
       "construction",
       "spiral",
       "biotech",
-      "genetic research",
       "biotechnology",
       "biology",
       "molecular structure",
@@ -5095,7 +5095,8 @@
       "science abstract",
       "science symbols/metaphors",
       "innovation",
-      "engineer"
+      "engineer",
+      "genetic research"
     ],
     "copyright": false,
     "files": {
@@ -9068,12 +9069,10 @@
       "program",
       "list",
       "poll",
-      "bell",
       "series",
       "menu",
       "job",
       "schedule",
-      "microphone",
       "task",
       "checklist",
       "complete",
@@ -14369,7 +14368,22 @@
     "category": "Healthcare",
     "created": 1402059059,
     "tags": [
-
+      "broken",
+      "tag",
+      "death",
+      "feet",
+      "imprint",
+      "dead",
+      "foot",
+      "closed",
+      "walk",
+      "morgue",
+      "dying",
+      "autopsy",
+      "medical examiner",
+      "toe tag",
+      "barefoot",
+      "footnote"
     ],
     "copyright": false,
     "files": {
@@ -24320,6 +24334,7 @@
       "artists",
       "tool",
       "speech",
+      "people",
       "money",
       "child",
       "charts",
@@ -26381,7 +26396,22 @@
     "category": "Healthcare",
     "created": 1402059059,
     "tags": [
-
+      "medicine",
+      "health",
+      "hospital",
+      "medical",
+      "emergency",
+      "ambulance",
+      "nurse",
+      "doctor",
+      "health care",
+      "healthcare",
+      "patient",
+      "emergency room",
+      "nursing home",
+      "psychological facility",
+      "veterinary emergency",
+      "va hospital"
     ],
     "copyright": false,
     "files": {
@@ -29465,7 +29495,9 @@
     "category": "Computer Hardware",
     "created": 1390342414,
     "tags": [
-      "iphone"
+      "computer",
+      "mobile",
+      "notebook"
     ],
     "copyright": false,
     "files": {
@@ -32933,6 +32965,7 @@
     "category": "User Interface",
     "created": 1391525457,
     "tags": [
+      "settings",
       "line",
       "web",
       "lines",
@@ -33127,9 +33160,11 @@
       "note",
       "song",
       "voice",
+      "media",
       "record",
       "radio",
       "studio",
+      "press",
       "siri",
       "voice over",
       "singer",
@@ -37780,7 +37815,10 @@
     "category": "Editing",
     "created": 1401144672,
     "tags": [
-
+      "artist",
+      "color",
+      "art",
+      "creative"
     ],
     "copyright": false,
     "files": {
@@ -39138,7 +39176,8 @@
       "camera",
       "slr",
       "newsletter",
-      "paintbrush"
+      "paintbrush",
+      "lenses"
     ],
     "copyright": false,
     "files": {
@@ -46752,7 +46791,6 @@
       "settings",
       "pay",
       "view",
-      "cart",
       "contact",
       "supermarket",
       "circle",
@@ -47294,13 +47332,14 @@
       "gear",
       "list",
       "dashboard",
+      "camera",
       "menu",
       "sort",
       "history",
+      "about",
       "sign out",
       "localization",
       "options",
-      "about",
       "preferences"
     ],
     "copyright": false,
@@ -56112,7 +56151,6 @@
       "calendar",
       "date",
       "day",
-      "user",
       "time",
       "graph",
       "memo",
@@ -56121,6 +56159,7 @@
       "schedule",
       "daily",
       "lacation",
+      "user",
       "table"
     ],
     "copyright": false,
@@ -56472,7 +56511,23 @@
     "category": "Healthcare",
     "created": 1402059059,
     "tags": [
-
+      "healthcare",
+      "teeth",
+      "tooth",
+      "molar",
+      "dentist",
+      "dental visit",
+      "orthodontist",
+      "brush teeth",
+      "teeth cleaning",
+      "cavity",
+      "oral hygiene",
+      "cleaning",
+      "tooth paste",
+      "oral health care",
+      "human tooth",
+      "floss",
+      "tooth ache"
     ],
     "copyright": false,
     "files": {

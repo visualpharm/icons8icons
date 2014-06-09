@@ -10571,6 +10571,40 @@
     }
   },
   {
+    "id": 4975,
+    "name": "cancer_ribbon",
+    "platform": "Windows 8/Metro",
+    "category": "Healthcare",
+    "created": 1402311060,
+    "tags": [
+      "cancer",
+      "running",
+      "hope",
+      "race",
+      "walk",
+      "treatment",
+      "relay for life",
+      "awareness",
+      "pink ribbon",
+      "meet the needs"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Healthcare/cancer_ribbon.svg",
+      "svg.simplified": "/SVG_for_Font/Healthcare/cancer_ribbon.svg",
+      "eps": "/EPS/Healthcare/cancer_ribbon.eps",
+      "png": {
+        "32": "/PNG/32/Healthcare/cancer_ribbon-32.png",
+        "128": "/PNG/128/Healthcare/cancer_ribbon-128.png",
+        "26": "/PNG/26/Healthcare/cancer_ribbon-26.png",
+        "256": "/PNG/256/Healthcare/cancer_ribbon-256.png",
+        "512": "/PNG/512/Healthcare/cancer_ribbon-512.png",
+        "64": "/PNG/64/Healthcare/cancer_ribbon-64.png",
+        "48": "/PNG/48/Healthcare/cancer_ribbon-48.png"
+      }
+    }
+  },
+  {
     "id": 1638,
     "name": "candy",
     "platform": "Windows 8/Metro",
@@ -18311,10 +18345,25 @@
     "category": "Healthcare",
     "created": 1402059059,
     "tags": [
+      "broken",
+      "tag",
+      "death",
+      "feet",
+      "imprint",
+      "dead",
       "funeral",
       "dead body",
       "corpse",
-      "morgue"
+      "foot",
+      "closed",
+      "walk",
+      "morgue",
+      "dying",
+      "autopsy",
+      "medical examiner",
+      "toe tag",
+      "barefoot",
+      "footnote"
     ],
     "copyright": false,
     "files": {
@@ -32504,7 +32553,22 @@
     "category": "Healthcare",
     "created": 1402059059,
     "tags": [
-
+      "medicine",
+      "health",
+      "hospital",
+      "medical",
+      "emergency",
+      "ambulance",
+      "nurse",
+      "doctor",
+      "health care",
+      "healthcare",
+      "patient",
+      "emergency room",
+      "nursing home",
+      "psychological facility",
+      "veterinary emergency",
+      "va hospital"
     ],
     "copyright": false,
     "files": {
@@ -55181,6 +55245,40 @@
     }
   },
   {
+    "id": 4976,
+    "name": "rod_of_asclepius",
+    "platform": "Windows 8/Metro",
+    "category": "Healthcare",
+    "created": 1402311060,
+    "tags": [
+      "medicine",
+      "emergency",
+      "doctor",
+      "healthcare",
+      "better health",
+      "improved outcomes",
+      "hippocratic oath",
+      "healthy living",
+      "physician",
+      "medical care"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Healthcare/rod_of_asclepius.svg",
+      "svg.simplified": "/SVG_for_Font/Healthcare/rod_of_asclepius.svg",
+      "eps": "/EPS/Healthcare/rod_of_asclepius.eps",
+      "png": {
+        "32": "/PNG/32/Healthcare/rod_of_asclepius-32.png",
+        "128": "/PNG/128/Healthcare/rod_of_asclepius-128.png",
+        "26": "/PNG/26/Healthcare/rod_of_asclepius-26.png",
+        "256": "/PNG/256/Healthcare/rod_of_asclepius-256.png",
+        "512": "/PNG/512/Healthcare/rod_of_asclepius-512.png",
+        "64": "/PNG/64/Healthcare/rod_of_asclepius-64.png",
+        "48": "/PNG/48/Healthcare/rod_of_asclepius-48.png"
+      }
+    }
+  },
+  {
     "id": 2020,
     "name": "roller_brush",
     "platform": "Windows 8/Metro",
@@ -61394,6 +61492,40 @@
         "512": "/PNG/512/Transport/speedometer-512.png",
         "64": "/PNG/64/Transport/speedometer-64.png",
         "48": "/PNG/48/Transport/speedometer-48.png"
+      }
+    }
+  },
+  {
+    "id": 4974,
+    "name": "sperm_bank",
+    "platform": "Windows 8/Metro",
+    "category": "Healthcare",
+    "created": 1402311060,
+    "tags": [
+      "sperm donor",
+      "cryogenics",
+      "surrogate parent",
+      "semen",
+      "semen donor",
+      "donation center",
+      "sperm donation",
+      "sperm",
+      "sperm cell",
+      "donors needed"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Healthcare/sperm_bank.svg",
+      "svg.simplified": "/SVG_for_Font/Healthcare/sperm_bank.svg",
+      "eps": "/EPS/Healthcare/sperm_bank.eps",
+      "png": {
+        "32": "/PNG/32/Healthcare/sperm_bank-32.png",
+        "128": "/PNG/128/Healthcare/sperm_bank-128.png",
+        "26": "/PNG/26/Healthcare/sperm_bank-26.png",
+        "256": "/PNG/256/Healthcare/sperm_bank-256.png",
+        "512": "/PNG/512/Healthcare/sperm_bank-512.png",
+        "64": "/PNG/64/Healthcare/sperm_bank-64.png",
+        "48": "/PNG/48/Healthcare/sperm_bank-48.png"
       }
     }
   },
@@ -68303,7 +68435,23 @@
     "category": "Healthcare",
     "created": 1402059059,
     "tags": [
-
+      "healthcare",
+      "teeth",
+      "tooth",
+      "molar",
+      "dentist",
+      "dental visit",
+      "orthodontist",
+      "brush teeth",
+      "teeth cleaning",
+      "cavity",
+      "oral hygiene",
+      "cleaning",
+      "tooth paste",
+      "oral health care",
+      "human tooth",
+      "floss",
+      "tooth ache"
     ],
     "copyright": false,
     "files": {
@@ -70641,6 +70789,7 @@
       "options",
       "course",
       "way",
+      "down",
       "buttons",
       "traffic",
       "compass",
