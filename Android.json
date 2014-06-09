@@ -3517,29 +3517,29 @@
     }
   },
   {
-    "id": 4177,
-    "name": "blue_tooth",
+    "id": 4980,
+    "name": "bluetooth",
     "platform": "Android",
     "category": "Network",
-    "created": 1398883905,
+    "created": 1402325471,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Network/blue_tooth.svg",
-      "svg.simplified": "/SVG_for_Font/Network/blue_tooth.svg",
-      "eps": "/EPS/Network/blue_tooth.eps",
+      "svg": "/SVG/Network/bluetooth.svg",
+      "svg.simplified": "/SVG_for_Font/Network/bluetooth.svg",
+      "eps": "/EPS/Network/bluetooth.eps",
       "png": {
-        "32": "/PNG/32/Network/blue_tooth-32.png",
-        "128": "/PNG/128/Network/blue_tooth-128.png",
-        "256": "/PNG/256/Network/blue_tooth-256.png",
-        "36": "/PNG/36/Network/blue_tooth-36.png",
-        "512": "/PNG/512/Network/blue_tooth-512.png",
-        "64": "/PNG/64/Network/blue_tooth-64.png",
-        "24": "/PNG/24/Network/blue_tooth-24.png",
-        "96": "/PNG/96/Network/blue_tooth-96.png",
-        "48": "/PNG/48/Network/blue_tooth-48.png"
+        "32": "/PNG/32/Network/bluetooth-32.png",
+        "128": "/PNG/128/Network/bluetooth-128.png",
+        "256": "/PNG/256/Network/bluetooth-256.png",
+        "36": "/PNG/36/Network/bluetooth-36.png",
+        "512": "/PNG/512/Network/bluetooth-512.png",
+        "64": "/PNG/64/Network/bluetooth-64.png",
+        "24": "/PNG/24/Network/bluetooth-24.png",
+        "96": "/PNG/96/Network/bluetooth-96.png",
+        "48": "/PNG/48/Network/bluetooth-48.png"
       }
     }
   },
