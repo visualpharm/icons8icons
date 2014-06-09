@@ -5365,7 +5365,6 @@
     "created": 1371853523,
     "tags": [
       "connect",
-      "headset",
       "wireless",
       "network",
       "connection",
@@ -24718,6 +24717,7 @@
     "created": 1390342414,
     "tags": [
       "settings",
+      "photo",
       "stop",
       "hand",
       "forbidden"
@@ -32485,13 +32485,13 @@
     "category": "Science",
     "created": 1363706924,
     "tags": [
-      "calculator",
       "minus",
       "plus",
       "financial figures",
       "mathematics",
       "mathematical symbol",
-      "equals"
+      "equals",
+      "calculator"
     ],
     "copyright": false,
     "files": {

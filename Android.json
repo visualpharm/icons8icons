@@ -3523,7 +3523,12 @@
     "category": "Network",
     "created": 1402325471,
     "tags": [
-
+      "connect",
+      "wireless",
+      "network",
+      "remote working",
+      "bluetooth",
+      "it infrastructure"
     ],
     "copyright": false,
     "files": {
@@ -32212,6 +32217,7 @@
     "category": "Measurement Units",
     "created": 1397249506,
     "tags": [
+      "time",
       "stopwatch",
       "24"
     ],

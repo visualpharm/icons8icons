@@ -1611,7 +1611,8 @@
       "create user",
       "remove",
       "register",
-      "tv"
+      "tv",
+      "registration"
     ],
     "copyright": false,
     "files": {
@@ -56747,14 +56748,14 @@
       "health",
       "nutrition",
       "numbers",
-      "scale",
       "size",
       "life",
       "weight",
       "gym",
       "kilos",
       "pounds",
-      "diet"
+      "diet",
+      "scale"
     ],
     "copyright": false,
     "files": {
