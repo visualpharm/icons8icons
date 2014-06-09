@@ -10577,16 +10577,23 @@
     "category": "Healthcare",
     "created": 1402311060,
     "tags": [
+      "health",
       "cancer",
+      "label",
+      "ribbon",
       "running",
       "hope",
+      "promotion",
       "race",
       "walk",
       "treatment",
+      "cure",
       "relay for life",
       "awareness",
       "pink ribbon",
-      "meet the needs"
+      "meet the needs",
+      "lung",
+      "pearl"
     ],
     "copyright": false,
     "files": {
@@ -55252,15 +55259,23 @@
     "created": 1402311060,
     "tags": [
       "medicine",
+      "health",
+      "hospital",
+      "stick",
       "emergency",
       "doctor",
+      "staff",
       "healthcare",
+      "rod",
+      "snake",
       "better health",
       "improved outcomes",
       "hippocratic oath",
       "healthy living",
       "physician",
-      "medical care"
+      "medical care",
+      "asclepius",
+      "twisted"
     ],
     "copyright": false,
     "files": {
@@ -61502,6 +61517,13 @@
     "category": "Healthcare",
     "created": 1402311060,
     "tags": [
+      "fluid",
+      "men",
+      "head",
+      "male",
+      "tail",
+      "egg",
+      "fibre",
       "sperm donor",
       "cryogenics",
       "surrogate parent",
@@ -61511,7 +61533,9 @@
       "sperm donation",
       "sperm",
       "sperm cell",
-      "donors needed"
+      "donors needed",
+      "fertile",
+      "reproduction"
     ],
     "copyright": false,
     "files": {
