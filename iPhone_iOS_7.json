@@ -26947,7 +26947,6 @@
       "sentiment",
       "flash",
       "light",
-      "lightning",
       "electrical",
       "evrika",
       "discovery",
@@ -30680,7 +30679,7 @@
     "category": "Transport",
     "created": 1400079102,
     "tags": [
-
+      "traffic"
     ],
     "copyright": false,
     "files": {
@@ -44804,6 +44803,7 @@
     "category": "Transport",
     "created": 1379079266,
     "tags": [
+      "traffic",
       "hole",
       "road block",
       "road woker",
@@ -44953,7 +44953,7 @@
     "category": "Healthcare",
     "created": 1402318254,
     "tags": [
-
+      "ealth"
     ],
     "copyright": false,
     "files": {
@@ -50351,7 +50351,30 @@
     "category": "Healthcare",
     "created": 1402318254,
     "tags": [
-
+      "children",
+      "man",
+      "baby",
+      "donation",
+      "sperm",
+      "fertile",
+      "donor",
+      "infertile",
+      "fertility",
+      "family planning",
+      "impregnation",
+      "ICI",
+      "IUI",
+      "Intracervical insemination",
+      "Intrauterine insemination",
+      "spermatozoa",
+      "seminal fluid",
+      "uterus",
+      "infertility",
+      "semen",
+      "reproduction",
+      "cryobank",
+      "pregnancy",
+      "insemination"
     ],
     "copyright": false,
     "files": {
@@ -54174,7 +54197,6 @@
       "heal",
       "holistic",
       "treatment",
-      "depression",
       "examine",
       "check-up",
       "evaluate",
@@ -54194,6 +54216,8 @@
       "recuperation",
       "jung",
       "weird fantasies",
+      "coach",
+      "depression",
       "psychology",
       "freud",
       "prozac",
@@ -58021,7 +58045,7 @@
     "category": "Media Controls",
     "created": 1390342414,
     "tags": [
-
+      "series"
     ],
     "copyright": false,
     "files": {
@@ -59506,7 +59530,7 @@
     "id": 3436,
     "name": "vegan_clothing",
     "platform": "iPhone/iOS 7",
-    "category": "Food",
+    "category": "Clothing",
     "created": 1392717066,
     "tags": [
       "textile",
@@ -59520,18 +59544,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Food/vegan_clothing.svg",
-      "svg.simplified": "/SVG_for_Font/Food/vegan_clothing.svg",
-      "eps": "/EPS/Food/vegan_clothing.eps",
+      "svg": "/SVG/Clothing/vegan_clothing.svg",
+      "svg.simplified": "/SVG_for_Font/Clothing/vegan_clothing.svg",
+      "eps": "/EPS/Clothing/vegan_clothing.eps",
       "png": {
-        "25": "/PNG/25/Food/vegan_clothing-25.png",
-        "32": "/PNG/32/Food/vegan_clothing-32.png",
-        "128": "/PNG/128/Food/vegan_clothing-128.png",
-        "75": "/PNG/75/Food/vegan_clothing-75.png",
-        "256": "/PNG/256/Food/vegan_clothing-256.png",
-        "100": "/PNG/100/Food/vegan_clothing-100.png",
-        "512": "/PNG/512/Food/vegan_clothing-512.png",
-        "50": "/PNG/50/Food/vegan_clothing-50.png"
+        "25": "/PNG/25/Clothing/vegan_clothing-25.png",
+        "32": "/PNG/32/Clothing/vegan_clothing-32.png",
+        "128": "/PNG/128/Clothing/vegan_clothing-128.png",
+        "75": "/PNG/75/Clothing/vegan_clothing-75.png",
+        "256": "/PNG/256/Clothing/vegan_clothing-256.png",
+        "100": "/PNG/100/Clothing/vegan_clothing-100.png",
+        "512": "/PNG/512/Clothing/vegan_clothing-512.png",
+        "50": "/PNG/50/Clothing/vegan_clothing-50.png"
       }
     }
   },
@@ -59614,25 +59638,25 @@
     "id": 3438,
     "name": "vegan_shoes",
     "platform": "iPhone/iOS 7",
-    "category": "Food",
+    "category": "Clothing",
     "created": 1392717066,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Food/vegan_shoes.svg",
-      "svg.simplified": "/SVG_for_Font/Food/vegan_shoes.svg",
-      "eps": "/EPS/Food/vegan_shoes.eps",
+      "svg": "/SVG/Clothing/vegan_shoes.svg",
+      "svg.simplified": "/SVG_for_Font/Clothing/vegan_shoes.svg",
+      "eps": "/EPS/Clothing/vegan_shoes.eps",
       "png": {
-        "25": "/PNG/25/Food/vegan_shoes-25.png",
-        "32": "/PNG/32/Food/vegan_shoes-32.png",
-        "128": "/PNG/128/Food/vegan_shoes-128.png",
-        "75": "/PNG/75/Food/vegan_shoes-75.png",
-        "256": "/PNG/256/Food/vegan_shoes-256.png",
-        "100": "/PNG/100/Food/vegan_shoes-100.png",
-        "512": "/PNG/512/Food/vegan_shoes-512.png",
-        "50": "/PNG/50/Food/vegan_shoes-50.png"
+        "25": "/PNG/25/Clothing/vegan_shoes-25.png",
+        "32": "/PNG/32/Clothing/vegan_shoes-32.png",
+        "128": "/PNG/128/Clothing/vegan_shoes-128.png",
+        "75": "/PNG/75/Clothing/vegan_shoes-75.png",
+        "256": "/PNG/256/Clothing/vegan_shoes-256.png",
+        "100": "/PNG/100/Clothing/vegan_shoes-100.png",
+        "512": "/PNG/512/Clothing/vegan_shoes-512.png",
+        "50": "/PNG/50/Clothing/vegan_shoes-50.png"
       }
     }
   },

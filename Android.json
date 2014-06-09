@@ -14264,6 +14264,7 @@
       "google",
       "plus",
       "social network",
+      "twitter",
       "google plus",
       "instagram"
     ],
@@ -18405,7 +18406,7 @@
     "category": "Editing",
     "created": 1398905484,
     "tags": [
-
+      "ellipse"
     ],
     "copyright": false,
     "files": {
@@ -30331,7 +30332,8 @@
       "asterisk",
       "feature",
       "featured",
-      "rating"
+      "rating",
+      "share"
     ],
     "copyright": false,
     "files": {

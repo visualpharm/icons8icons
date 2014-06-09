@@ -2630,9 +2630,11 @@
       "text",
       "sign",
       "numerals",
+      "formula",
       "alphabet",
       "font",
       "concept",
+      "mathematics",
       "character",
       "alpha",
       "conceptual",
@@ -3179,7 +3181,8 @@
     "tags": [
       "emoticons",
       "eyebrows",
-      "rage"
+      "rage",
+      "sister"
     ],
     "copyright": false,
     "files": {
@@ -4798,20 +4801,21 @@
     "category": "Alphabet",
     "created": 1391428247,
     "tags": [
+      "single",
+      "dictionary",
+      "english",
       "letter",
       "letters",
       "alphabet",
-      "single",
       "character",
-      "dictionary",
-      "english",
       "a",
       "alpha",
       "languages",
-      "latin",
+      "abc",
       "lowercase",
       "spelling",
-      "alphanumeric"
+      "alphanumeric",
+      "latin"
     ],
     "copyright": false,
     "files": {
@@ -39325,6 +39329,7 @@
     "tags": [
       "direction",
       "guide",
+      "telephone",
       "address",
       "maps",
       "signage",
@@ -43335,7 +43340,8 @@
       "subculture",
       "hipster",
       "muctache",
-      "swaggy"
+      "swaggy",
+      "moustache"
     ],
     "copyright": false,
     "files": {
@@ -43360,7 +43366,8 @@
     "category": "Cultures",
     "created": 1402073487,
     "tags": [
-
+      "hipster",
+      "moustache"
     ],
     "copyright": false,
     "files": {
@@ -46029,13 +46036,13 @@
       "folder",
       "contents",
       "category",
-      "tree",
       "structure",
       "open",
       "categorize",
       "explorer",
       "finder",
-      "file system"
+      "file system",
+      "tree"
     ],
     "copyright": false,
     "files": {
@@ -46643,6 +46650,7 @@
       "chapters",
       "table of contents",
       "contents",
+      "suitcase",
       "estimate",
       "informe"
     ],
@@ -55270,13 +55278,13 @@
       "rod",
       "snake",
       "better health",
-      "improved outcomes",
       "hippocratic oath",
-      "healthy living",
       "physician",
       "medical care",
       "asclepius",
-      "twisted"
+      "twisted",
+      "improved outcomes",
+      "healthy living"
     ],
     "copyright": false,
     "files": {
@@ -66646,14 +66654,17 @@
     "category": "Time",
     "created": 1390342413,
     "tags": [
+      "zone",
+      "daylight",
+      "time difference",
       "clock",
       "date",
       "time",
       "hour",
       "map",
       "timezone",
-      "gmt",
-      "world time"
+      "world time",
+      "gmt"
     ],
     "copyright": false,
     "files": {
@@ -74861,6 +74872,7 @@
     "category": "Healthcare",
     "created": 1390996250,
     "tags": [
+      "health",
       "hospital",
       "injury",
       "good",
