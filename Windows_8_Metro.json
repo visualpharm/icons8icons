@@ -1999,7 +1999,8 @@
       "genres",
       "south",
       "compass",
-      "north"
+      "north",
+      "lead"
     ],
     "copyright": false,
     "files": {
@@ -15674,7 +15675,8 @@
       "go",
       "reference",
       "clues",
-      "clue"
+      "clue",
+      "bear"
     ],
     "copyright": false,
     "files": {
@@ -26333,6 +26335,7 @@
       "dinner",
       "breakfast",
       "fork",
+      "tea",
       "cup",
       "meal",
       "kitchen",
@@ -39342,7 +39345,8 @@
       "go",
       "reference",
       "clues",
-      "clue"
+      "clue",
+      "dot"
     ],
     "copyright": false,
     "files": {
@@ -49126,6 +49130,50 @@
     }
   },
   {
+    "id": 4985,
+    "name": "pioneer_wagon",
+    "platform": "Windows 8/Metro",
+    "category": "Transport",
+    "created": 1402404663,
+    "tags": [
+      "goods",
+      "sky",
+      "clouds",
+      "transportation",
+      "wheels",
+      "travel",
+      "trade",
+      "cowboy",
+      "sun",
+      "wheel",
+      "old",
+      "simple",
+      "ride",
+      "vintage",
+      "rustic",
+      "sand",
+      "wagon",
+      "pioneer",
+      "barter",
+      "noon"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Transport/pioneer_wagon.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/pioneer_wagon.svg",
+      "eps": "/EPS/Transport/pioneer_wagon.eps",
+      "png": {
+        "32": "/PNG/32/Transport/pioneer_wagon-32.png",
+        "128": "/PNG/128/Transport/pioneer_wagon-128.png",
+        "26": "/PNG/26/Transport/pioneer_wagon-26.png",
+        "256": "/PNG/256/Transport/pioneer_wagon-256.png",
+        "512": "/PNG/512/Transport/pioneer_wagon-512.png",
+        "64": "/PNG/64/Transport/pioneer_wagon-64.png",
+        "48": "/PNG/48/Transport/pioneer_wagon-48.png"
+      }
+    }
+  },
+  {
     "id": 4883,
     "name": "piping",
     "platform": "Windows 8/Metro",
@@ -51460,6 +51508,49 @@
     }
   },
   {
+    "id": 4981,
+    "name": "prop_plane",
+    "platform": "Windows 8/Metro",
+    "category": "Transport",
+    "created": 1402404663,
+    "tags": [
+      "transport",
+      "speed",
+      "pilot",
+      "travel",
+      "air",
+      "fly",
+      "airplane",
+      "comfort",
+      "journey",
+      "landing",
+      "vehicle",
+      "vintage",
+      "retro",
+      "plane",
+      "prop plane",
+      "propeller",
+      "propeller plane",
+      "airways",
+      "aeroplane"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Transport/prop_plane.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/prop_plane.svg",
+      "eps": "/EPS/Transport/prop_plane.eps",
+      "png": {
+        "32": "/PNG/32/Transport/prop_plane-32.png",
+        "128": "/PNG/128/Transport/prop_plane-128.png",
+        "26": "/PNG/26/Transport/prop_plane-26.png",
+        "256": "/PNG/256/Transport/prop_plane-256.png",
+        "512": "/PNG/512/Transport/prop_plane-512.png",
+        "64": "/PNG/64/Transport/prop_plane-64.png",
+        "48": "/PNG/48/Transport/prop_plane-48.png"
+      }
+    }
+  },
+  {
     "id": 2552,
     "name": "protect_from_magnetic_field",
     "platform": "Windows 8/Metro",
@@ -52436,7 +52527,6 @@
       "forage",
       "eagerness",
       "motivation",
-      "great persons",
       "ambition",
       "on the lookout",
       "forever searching",
@@ -62864,6 +62954,75 @@
         "512": "/PNG/512/Logos/steam_copyrighted-512.png",
         "64": "/PNG/64/Logos/steam_copyrighted-64.png",
         "48": "/PNG/48/Logos/steam_copyrighted-48.png"
+      }
+    }
+  },
+  {
+    "id": 4983,
+    "name": "steam_engine",
+    "platform": "Windows 8/Metro",
+    "category": "Transport",
+    "created": 1402404663,
+    "tags": [
+      "stroke",
+      "fluid",
+      "tracks",
+      "working",
+      "transport",
+      "transportation",
+      "passenger",
+      "wheels",
+      "water",
+      "electric",
+      "steam",
+      "heat",
+      "motion",
+      "compression",
+      "travel",
+      "train",
+      "gas",
+      "wheel",
+      "power",
+      "engine",
+      "energy",
+      "smoke",
+      "model",
+      "coal",
+      "motor",
+      "piston",
+      "turbine",
+      "mechanical",
+      "combustion",
+      "cylinder",
+      "fuel",
+      "freight",
+      "expansion",
+      "compound",
+      "machinery",
+      "driving",
+      "railway",
+      "wagon",
+      "locomotive",
+      "pumping",
+      "pulling",
+      "bogies",
+      "axles",
+      "boilers",
+      "hi"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Transport/steam_engine.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/steam_engine.svg",
+      "eps": "/EPS/Transport/steam_engine.eps",
+      "png": {
+        "32": "/PNG/32/Transport/steam_engine-32.png",
+        "128": "/PNG/128/Transport/steam_engine-128.png",
+        "26": "/PNG/26/Transport/steam_engine-26.png",
+        "256": "/PNG/256/Transport/steam_engine-256.png",
+        "512": "/PNG/512/Transport/steam_engine-512.png",
+        "64": "/PNG/64/Transport/steam_engine-64.png",
+        "48": "/PNG/48/Transport/steam_engine-48.png"
       }
     }
   },
@@ -73640,6 +73799,7 @@
     "category": "Household",
     "created": 1328005501,
     "tags": [
+      "wine",
       "gallery",
       "chrome"
     ],
