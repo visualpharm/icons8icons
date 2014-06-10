@@ -11293,6 +11293,7 @@
       "begging",
       "beggar",
       "hobo",
+      "email",
       "welfare",
       "salary",
       "wage",
@@ -36603,7 +36604,8 @@
       "application window",
       "sciences",
       "informatics",
-      "judge"
+      "judge",
+      "tribunal"
     ],
     "copyright": false,
     "files": {

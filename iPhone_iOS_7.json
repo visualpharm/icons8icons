@@ -13081,6 +13081,7 @@
     "category": "Finance",
     "created": 1390342414,
     "tags": [
+      "secure",
       "person"
     ],
     "copyright": false,
@@ -17532,7 +17533,6 @@
       "shape",
       "feather",
       "email",
-      "secretary",
       "isolated",
       "exam",
       "correspondence",
@@ -17540,7 +17540,8 @@
       "literature",
       "management",
       "article",
-      "study"
+      "study",
+      "pictogram"
     ],
     "copyright": false,
     "files": {
@@ -27602,7 +27603,7 @@
     "category": "Business",
     "created": 1385373697,
     "tags": [
-
+      "keyboard"
     ],
     "copyright": false,
     "files": {
@@ -45961,6 +45962,7 @@
       "percentage",
       "business",
       "sad",
+      "car",
       "trade"
     ],
     "copyright": false,
