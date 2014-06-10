@@ -4607,6 +4607,7 @@
     "category": "User Interface",
     "created": 1334562086,
     "tags": [
+      "clock",
       "arrow",
       "settings",
       "refresh",
@@ -14072,7 +14073,7 @@
     "category": "Editing",
     "created": 1390342413,
     "tags": [
-
+      "clipboard"
     ],
     "copyright": false,
     "files": {
@@ -26069,7 +26070,8 @@
       "fall",
       "autumn",
       "countryside",
-      "cleanliness"
+      "cleanliness",
+      "face"
     ],
     "copyright": false,
     "files": {
@@ -66400,7 +66402,6 @@
       "talk",
       "sale",
       "marketing",
-      "business",
       "shopping",
       "expression",
       "tape",
@@ -66412,7 +66413,8 @@
       "up",
       "symbol",
       "signal",
-      "stor"
+      "storage",
+      "trans"
     ],
     "copyright": false,
     "files": {
@@ -74434,6 +74436,7 @@
       "online",
       "lens",
       "eyes",
+      "3B1B54",
       "camera"
     ],
     "copyright": false,
