@@ -6436,8 +6436,8 @@
       "summer",
       "holiday",
       "plastic",
-      "circle",
-      "sing"
+      "single",
+      "isol"
     ],
     "copyright": false,
     "files": {
@@ -42212,7 +42212,6 @@
     "category": "Sports",
     "created": 1375785144,
     "tags": [
-      "regular biking",
       "mountain biking",
       "time trial biking",
       "sport and activities",
@@ -56708,6 +56707,7 @@
     "tags": [
       "photo",
       "location",
+      "letter",
       "map",
       "gps",
       "satellite",
