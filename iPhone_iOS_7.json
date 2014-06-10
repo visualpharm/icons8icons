@@ -1028,6 +1028,7 @@
       "airplane",
       "checkbox",
       "holiday",
+      "shuttle",
       "plane",
       "chef"
     ],
@@ -16104,7 +16105,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Data/donut_chart.svg",
       "svg.simplified": "/SVG_for_Font/Data/donut_chart.svg",
       "eps": "/EPS/Data/donut_chart.eps",
       "png": {
@@ -16193,6 +16193,32 @@
         "100": "/PNG/100/Food/doughnut-100.png",
         "512": "/PNG/512/Food/doughnut-512.png",
         "50": "/PNG/50/Food/doughnut-50.png"
+      }
+    }
+  },
+  {
+    "id": 4988,
+    "name": "doughnut_chart",
+    "platform": "iPhone/iOS 7",
+    "category": "Data",
+    "created": 1402447892,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Data/doughnut_chart.svg",
+      "svg.simplified": "/SVG_for_Font/Data/doughnut_chart.svg",
+      "eps": "/EPS/Data/doughnut_chart.eps",
+      "png": {
+        "25": "/PNG/25/Data/doughnut_chart-25.png",
+        "32": "/PNG/32/Data/doughnut_chart-32.png",
+        "128": "/PNG/128/Data/doughnut_chart-128.png",
+        "75": "/PNG/75/Data/doughnut_chart-75.png",
+        "256": "/PNG/256/Data/doughnut_chart-256.png",
+        "100": "/PNG/100/Data/doughnut_chart-100.png",
+        "512": "/PNG/512/Data/doughnut_chart-512.png",
+        "50": "/PNG/50/Data/doughnut_chart-50.png"
       }
     }
   },
@@ -39097,6 +39123,7 @@
       "telecommunicate",
       "tel",
       "dial",
+      "log",
       "branch",
       "fax",
       "telephony",
@@ -39263,6 +39290,31 @@
         "100": "/PNG/100/Programming/php-100.png",
         "512": "/PNG/512/Programming/php-512.png",
         "50": "/PNG/50/Programming/php-50.png"
+      }
+    }
+  },
+  {
+    "id": 4989,
+    "name": "php_data",
+    "platform": "iPhone/iOS 7",
+    "category": "Programming",
+    "created": 1402447892,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg.simplified": "/SVG_for_Font/Programming/php_data.svg",
+      "eps": "/EPS/Programming/php_data.eps",
+      "png": {
+        "25": "/PNG/25/Programming/php_data-25.png",
+        "32": "/PNG/32/Programming/php_data-32.png",
+        "128": "/PNG/128/Programming/php_data-128.png",
+        "75": "/PNG/75/Programming/php_data-75.png",
+        "256": "/PNG/256/Programming/php_data-256.png",
+        "100": "/PNG/100/Programming/php_data-100.png",
+        "512": "/PNG/512/Programming/php_data-512.png",
+        "50": "/PNG/50/Programming/php_data-50.png"
       }
     }
   },
@@ -41709,6 +41761,7 @@
       "beaurocracy",
       "prints",
       "printed",
+      "email",
       "printer",
       "paper jammed",
       "printing"
@@ -46985,14 +47038,20 @@
     "id": 3023,
     "name": "sea_waves",
     "platform": "iPhone/iOS 7",
-    "category": "Animals",
+    "category": "Travel",
     "created": 1390485046,
     "tags": [
-
+      "swim",
+      "water",
+      "beach",
+      "lake",
+      "river",
+      "flow",
+      "ocean"
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/sea_waves.svg",
+      "svg": "/SVG/Travel/sea_waves.svg",
       "svg.simplified": "/SVG_for_Font/Animals/sea_waves.svg",
       "eps": "/EPS/Animals/sea_waves.eps",
       "png": {
@@ -56752,6 +56811,7 @@
       "sell",
       "tool",
       "development",
+      "barcode",
       "tune",
       "gear",
       "equipment",
@@ -59310,6 +59370,9 @@
     "category": "Users",
     "created": 1390342414,
     "tags": [
+      "user",
+      "human",
+      "circle",
       "translate",
       "ffffff"
     ],
@@ -59823,8 +59886,8 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Clothing/vegan_shoes.svg",
-      "svg.simplified": "/SVG_for_Font/Food/vegan_shoes.svg",
-      "eps": "/EPS/Food/vegan_shoes.eps",
+      "svg.simplified": "/SVG_for_Font/Clothing/vegan_shoes.svg",
+      "eps": "/EPS/Clothing/vegan_shoes.eps",
       "png": {
         "25": "/PNG/25/Clothing/vegan_shoes-25.png",
         "32": "/PNG/32/Clothing/vegan_shoes-32.png",

@@ -1387,7 +1387,7 @@
     "id": 459,
     "name": "add_folder",
     "platform": "Windows 8/Metro",
-    "category": "Files",
+    "category": "Folders",
     "created": 1325248441,
     "tags": [
       "add",
@@ -1398,17 +1398,17 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Files/add_folder.svg",
+      "svg": "/SVG/Folders/add_folder.svg",
       "svg.simplified": "/SVG_for_Font/Files/add_folder.svg",
-      "eps": "/EPS/Files/add_folder.eps",
+      "eps": "/EPS/Folders/add_folder.eps",
       "png": {
-        "32": "/PNG/32/Files/add_folder-32.png",
-        "128": "/PNG/128/Files/add_folder-128.png",
-        "26": "/PNG/26/Files/add_folder-26.png",
-        "256": "/PNG/256/Files/add_folder-256.png",
-        "512": "/PNG/512/Files/add_folder-512.png",
-        "64": "/PNG/64/Files/add_folder-64.png",
-        "48": "/PNG/48/Files/add_folder-48.png"
+        "32": "/PNG/32/Folders/add_folder-32.png",
+        "128": "/PNG/128/Folders/add_folder-128.png",
+        "26": "/PNG/26/Folders/add_folder-26.png",
+        "256": "/PNG/256/Folders/add_folder-256.png",
+        "512": "/PNG/512/Folders/add_folder-512.png",
+        "64": "/PNG/64/Folders/add_folder-64.png",
+        "48": "/PNG/48/Folders/add_folder-48.png"
       }
     }
   },
@@ -1612,7 +1612,8 @@
       "remove",
       "register",
       "tv",
-      "registration"
+      "registration",
+      "edit data"
     ],
     "copyright": false,
     "files": {
@@ -1996,11 +1997,14 @@
     "category": "Cinema",
     "created": 1330335588,
     "tags": [
+      "direction",
       "genres",
       "south",
       "compass",
       "north",
-      "lead"
+      "browser",
+      "lead",
+      "safari"
     ],
     "copyright": false,
     "files": {
@@ -5601,7 +5605,7 @@
     "id": 206,
     "name": "barcode",
     "platform": "Windows 8/Metro",
-    "category": "Finance",
+    "category": "Ecommerce",
     "created": 1319251300,
     "tags": [
       "payment methods",
@@ -5615,7 +5619,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Finance/barcode.svg",
+      "svg": "/SVG/Ecommerce/barcode.svg",
       "svg.simplified": "/SVG_for_Font/Finance/barcode.svg",
       "eps": "/EPS/Finance/barcode.eps",
       "png": {
@@ -7920,7 +7924,7 @@
     "id": 1445,
     "name": "blu_ray",
     "platform": "Windows 8/Metro",
-    "category": "Files",
+    "category": "Computer Hardware",
     "created": 1357817801,
     "tags": [
       "data",
@@ -7934,17 +7938,17 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Files/blu_ray.svg",
-      "svg.simplified": "/SVG_for_Font/Files/blu_ray.svg",
-      "eps": "/EPS/Files/blu_ray.eps",
+      "svg": "/SVG/Computer_Hardware/blu_ray.svg",
+      "svg.simplified": "/SVG_for_Font/Computer_Hardware/blu_ray.svg",
+      "eps": "/EPS/Computer_Hardware/blu_ray.eps",
       "png": {
-        "32": "/PNG/32/Files/blu_ray-32.png",
-        "128": "/PNG/128/Files/blu_ray-128.png",
-        "26": "/PNG/26/Files/blu_ray-26.png",
-        "256": "/PNG/256/Files/blu_ray-256.png",
-        "512": "/PNG/512/Files/blu_ray-512.png",
-        "64": "/PNG/64/Files/blu_ray-64.png",
-        "48": "/PNG/48/Files/blu_ray-48.png"
+        "32": "/PNG/32/Computer_Hardware/blu_ray-32.png",
+        "128": "/PNG/128/Computer_Hardware/blu_ray-128.png",
+        "26": "/PNG/26/Computer_Hardware/blu_ray-26.png",
+        "256": "/PNG/256/Computer_Hardware/blu_ray-256.png",
+        "512": "/PNG/512/Computer_Hardware/blu_ray-512.png",
+        "64": "/PNG/64/Computer_Hardware/blu_ray-64.png",
+        "48": "/PNG/48/Computer_Hardware/blu_ray-48.png"
       }
     }
   },
@@ -11585,7 +11589,7 @@
     "id": 1444,
     "name": "cd",
     "platform": "Windows 8/Metro",
-    "category": "Files",
+    "category": "Computer Hardware",
     "created": 1357817801,
     "tags": [
       "film",
@@ -11612,17 +11616,17 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Files/cd.svg",
-      "svg.simplified": "/SVG_for_Font/Files/cd.svg",
-      "eps": "/EPS/Files/cd.eps",
+      "svg": "/SVG/Computer_Hardware/cd.svg",
+      "svg.simplified": "/SVG_for_Font/Computer_Hardware/cd.svg",
+      "eps": "/EPS/Computer_Hardware/cd.eps",
       "png": {
-        "32": "/PNG/32/Files/cd-32.png",
-        "128": "/PNG/128/Files/cd-128.png",
-        "26": "/PNG/26/Files/cd-26.png",
-        "256": "/PNG/256/Files/cd-256.png",
-        "512": "/PNG/512/Files/cd-512.png",
-        "64": "/PNG/64/Files/cd-64.png",
-        "48": "/PNG/48/Files/cd-48.png"
+        "32": "/PNG/32/Computer_Hardware/cd-32.png",
+        "128": "/PNG/128/Computer_Hardware/cd-128.png",
+        "26": "/PNG/26/Computer_Hardware/cd-26.png",
+        "256": "/PNG/256/Computer_Hardware/cd-256.png",
+        "512": "/PNG/512/Computer_Hardware/cd-512.png",
+        "64": "/PNG/64/Computer_Hardware/cd-64.png",
+        "48": "/PNG/48/Computer_Hardware/cd-48.png"
       }
     }
   },
@@ -12351,7 +12355,7 @@
     "id": 924,
     "name": "checked_checkbox",
     "platform": "Windows 8/Metro",
-    "category": "Very Basic",
+    "category": "User Interface",
     "created": 1339570713,
     "tags": [
       "mark",
@@ -12364,17 +12368,17 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Very_Basic/checked_checkbox.svg",
+      "svg": "/SVG/User_Interface/checked_checkbox.svg",
       "svg.simplified": "/SVG_for_Font/Very_Basic/checked_checkbox.svg",
-      "eps": "/EPS/Very_Basic/checked_checkbox.eps",
+      "eps": "/EPS/User_Interface/checked_checkbox.eps",
       "png": {
-        "32": "/PNG/32/Very_Basic/checked_checkbox-32.png",
-        "128": "/PNG/128/Very_Basic/checked_checkbox-128.png",
-        "26": "/PNG/26/Very_Basic/checked_checkbox-26.png",
-        "256": "/PNG/256/Very_Basic/checked_checkbox-256.png",
-        "512": "/PNG/512/Very_Basic/checked_checkbox-512.png",
-        "64": "/PNG/64/Very_Basic/checked_checkbox-64.png",
-        "48": "/PNG/48/Very_Basic/checked_checkbox-48.png"
+        "32": "/PNG/32/User_Interface/checked_checkbox-32.png",
+        "128": "/PNG/128/User_Interface/checked_checkbox-128.png",
+        "26": "/PNG/26/User_Interface/checked_checkbox-26.png",
+        "256": "/PNG/256/User_Interface/checked_checkbox-256.png",
+        "512": "/PNG/512/User_Interface/checked_checkbox-512.png",
+        "64": "/PNG/64/User_Interface/checked_checkbox-64.png",
+        "48": "/PNG/48/User_Interface/checked_checkbox-48.png"
       }
     }
   },
@@ -14206,15 +14210,17 @@
     "created": 1397832689,
     "tags": [
       "communication",
+      "arrow",
       "talk",
       "change",
       "person",
       "female",
       "speak",
+      "relationship",
       "male",
       "personality",
-      "effective",
       "sustainability",
+      "homosexual",
       "direct contact",
       "resembles other",
       "unix and x",
@@ -14223,11 +14229,11 @@
       "commands to monitor",
       "made from other",
       "two persons",
-      "aero mark",
       "future generation",
       "discussion x",
-      "change yourself",
-      "transformation"
+      "transformation",
+      "infection",
+      "infect"
     ],
     "copyright": false,
     "files": {
@@ -16026,34 +16032,6 @@
     }
   },
   {
-    "id": 530,
-    "name": "contacts2",
-    "platform": "Windows 8/Metro",
-    "category": "Very Basic",
-    "created": 1327398564,
-    "tags": [
-      "contacts",
-      "dial",
-      "phonebook",
-      "skills"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Very_Basic/contacts2.svg",
-      "svg.simplified": "/SVG_for_Font/Very_Basic/contacts2.svg",
-      "eps": "/EPS/Very_Basic/contacts2.eps",
-      "png": {
-        "32": "/PNG/32/Very_Basic/contacts2-32.png",
-        "128": "/PNG/128/Very_Basic/contacts2-128.png",
-        "26": "/PNG/26/Very_Basic/contacts2-26.png",
-        "256": "/PNG/256/Very_Basic/contacts2-256.png",
-        "512": "/PNG/512/Very_Basic/contacts2-512.png",
-        "64": "/PNG/64/Very_Basic/contacts2-64.png",
-        "48": "/PNG/48/Very_Basic/contacts2-48.png"
-      }
-    }
-  },
-  {
     "id": 1670,
     "name": "content",
     "platform": "Windows 8/Metro",
@@ -16620,6 +16598,7 @@
       "hands",
       "feet",
       "block",
+      "therapy",
       "legs",
       "body",
       "curve",
@@ -17115,10 +17094,15 @@
     "category": "Messaging",
     "created": 1378989399,
     "tags": [
+      "administrator",
+      "admin",
       "graph",
       "man",
+      "moderator",
+      "queen",
       "crown",
-      "major",
+      "mayor",
+      "superuser",
       "king"
     ],
     "copyright": false,
@@ -19418,7 +19402,9 @@
       "leadership",
       "teamwork",
       "water sport",
-      "competitive sport"
+      "competitive sport",
+      "paddle",
+      "canoe"
     ],
     "copyright": false,
     "files": {
@@ -20504,7 +20490,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Data/donat_chart.svg",
       "svg.simplified": "/SVG_for_Font/Data/donat_chart.svg",
       "eps": "/EPS/Data/donat_chart.eps",
       "png": {
@@ -20645,6 +20630,31 @@
         "512": "/PNG/512/Food/doughnut-512.png",
         "64": "/PNG/64/Food/doughnut-64.png",
         "48": "/PNG/48/Food/doughnut-48.png"
+      }
+    }
+  },
+  {
+    "id": 4987,
+    "name": "doughnut_chart",
+    "platform": "Windows 8/Metro",
+    "category": "Data",
+    "created": 1402447892,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Data/doughnut_chart.svg",
+      "svg.simplified": "/SVG_for_Font/Data/doughnut_chart.svg",
+      "eps": "/EPS/Data/doughnut_chart.eps",
+      "png": {
+        "32": "/PNG/32/Data/doughnut_chart-32.png",
+        "128": "/PNG/128/Data/doughnut_chart-128.png",
+        "26": "/PNG/26/Data/doughnut_chart-26.png",
+        "256": "/PNG/256/Data/doughnut_chart-256.png",
+        "512": "/PNG/512/Data/doughnut_chart-512.png",
+        "64": "/PNG/64/Data/doughnut_chart-64.png",
+        "48": "/PNG/48/Data/doughnut_chart-48.png"
       }
     }
   },
@@ -21487,7 +21497,7 @@
     "id": 1449,
     "name": "dvd",
     "platform": "Windows 8/Metro",
-    "category": "Files",
+    "category": "Computer Hardware",
     "created": 1357817801,
     "tags": [
       "film",
@@ -21518,17 +21528,17 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Files/dvd.svg",
-      "svg.simplified": "/SVG_for_Font/Files/dvd.svg",
-      "eps": "/EPS/Files/dvd.eps",
+      "svg": "/SVG/Computer_Hardware/dvd.svg",
+      "svg.simplified": "/SVG_for_Font/Computer_Hardware/dvd.svg",
+      "eps": "/EPS/Computer_Hardware/dvd.eps",
       "png": {
-        "32": "/PNG/32/Files/dvd-32.png",
-        "128": "/PNG/128/Files/dvd-128.png",
-        "26": "/PNG/26/Files/dvd-26.png",
-        "256": "/PNG/256/Files/dvd-256.png",
-        "512": "/PNG/512/Files/dvd-512.png",
-        "64": "/PNG/64/Files/dvd-64.png",
-        "48": "/PNG/48/Files/dvd-48.png"
+        "32": "/PNG/32/Computer_Hardware/dvd-32.png",
+        "128": "/PNG/128/Computer_Hardware/dvd-128.png",
+        "26": "/PNG/26/Computer_Hardware/dvd-26.png",
+        "256": "/PNG/256/Computer_Hardware/dvd-256.png",
+        "512": "/PNG/512/Computer_Hardware/dvd-512.png",
+        "64": "/PNG/64/Computer_Hardware/dvd-64.png",
+        "48": "/PNG/48/Computer_Hardware/dvd-48.png"
       }
     }
   },
@@ -36610,7 +36620,9 @@
       "sciences",
       "informatics",
       "judge",
-      "tribunal"
+      "court",
+      "tribunal",
+      "verdict"
     ],
     "copyright": false,
     "files": {
@@ -48423,7 +48435,7 @@
     "id": 776,
     "name": "php",
     "platform": "Windows 8/Metro",
-    "category": "Data",
+    "category": "Programming",
     "created": 1334738917,
     "tags": [
       "software",
@@ -48448,7 +48460,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Data/php.svg",
+      "svg": "/SVG/Programming/php.svg",
       "svg.simplified": "/SVG_for_Font/Data/php.svg",
       "eps": "/EPS/Data/php.eps",
       "png": {
@@ -48466,7 +48478,7 @@
     "id": 114,
     "name": "php_data",
     "platform": "Windows 8/Metro",
-    "category": "Data",
+    "category": "Programming",
     "created": 1334721600,
     "tags": [
       "app",
@@ -48486,7 +48498,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Data/php_data.svg",
+      "svg": "/SVG/Programming/php_data.svg",
       "svg.simplified": "/SVG_for_Font/Data/php_data.svg",
       "eps": "/EPS/Data/php_data.eps",
       "png": {
@@ -51994,7 +52006,7 @@
     "id": 828,
     "name": "purchase_order",
     "platform": "Windows 8/Metro",
-    "category": "Ecommerce",
+    "category": "Finance",
     "created": 1336724597,
     "tags": [
       "cash",
@@ -52021,21 +52033,24 @@
       "form",
       "literature",
       "script",
-      "accounting"
+      "todo",
+      "accounting",
+      "list",
+      "checklist"
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Ecommerce/purchase_order.svg",
+      "svg": "/SVG/Finance/purchase_order.svg",
       "svg.simplified": "/SVG_for_Font/Ecommerce/purchase_order.svg",
-      "eps": "/EPS/Ecommerce/purchase_order.eps",
+      "eps": "/EPS/Finance/purchase_order.eps",
       "png": {
-        "32": "/PNG/32/Ecommerce/purchase_order-32.png",
-        "128": "/PNG/128/Ecommerce/purchase_order-128.png",
-        "26": "/PNG/26/Ecommerce/purchase_order-26.png",
-        "256": "/PNG/256/Ecommerce/purchase_order-256.png",
-        "512": "/PNG/512/Ecommerce/purchase_order-512.png",
-        "64": "/PNG/64/Ecommerce/purchase_order-64.png",
-        "48": "/PNG/48/Ecommerce/purchase_order-48.png"
+        "32": "/PNG/32/Finance/purchase_order-32.png",
+        "128": "/PNG/128/Finance/purchase_order-128.png",
+        "26": "/PNG/26/Finance/purchase_order-26.png",
+        "256": "/PNG/256/Finance/purchase_order-256.png",
+        "512": "/PNG/512/Finance/purchase_order-512.png",
+        "64": "/PNG/64/Finance/purchase_order-64.png",
+        "48": "/PNG/48/Finance/purchase_order-48.png"
       }
     }
   },
@@ -53767,7 +53782,7 @@
     "id": 835,
     "name": "redo",
     "platform": "Windows 8/Metro",
-    "category": "Very Basic",
+    "category": "Arrows",
     "created": 1336807676,
     "tags": [
       "mark",
@@ -53782,17 +53797,17 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Very_Basic/redo.svg",
+      "svg": "/SVG/Arrows/redo.svg",
       "svg.simplified": "/SVG_for_Font/Very_Basic/redo.svg",
-      "eps": "/EPS/Very_Basic/redo.eps",
+      "eps": "/EPS/Arrows/redo.eps",
       "png": {
-        "32": "/PNG/32/Very_Basic/redo-32.png",
-        "128": "/PNG/128/Very_Basic/redo-128.png",
-        "26": "/PNG/26/Very_Basic/redo-26.png",
-        "256": "/PNG/256/Very_Basic/redo-256.png",
-        "512": "/PNG/512/Very_Basic/redo-512.png",
-        "64": "/PNG/64/Very_Basic/redo-64.png",
-        "48": "/PNG/48/Very_Basic/redo-48.png"
+        "32": "/PNG/32/Arrows/redo-32.png",
+        "128": "/PNG/128/Arrows/redo-128.png",
+        "26": "/PNG/26/Arrows/redo-26.png",
+        "256": "/PNG/256/Arrows/redo-256.png",
+        "512": "/PNG/512/Arrows/redo-512.png",
+        "64": "/PNG/64/Arrows/redo-64.png",
+        "48": "/PNG/48/Arrows/redo-48.png"
       }
     }
   },
@@ -58299,7 +58314,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Very_Basic/settings2.svg",
       "svg.simplified": "/SVG_for_Font/Very_Basic/settings2.svg",
       "eps": "/EPS/Very_Basic/settings2.eps",
       "png": {
@@ -63539,15 +63553,16 @@
     "tags": [
       "cd",
       "human",
-      "education",
       "social network",
       "vkontakte",
       "vk.com",
+      "vkontakte.ru",
+      "graduation",
+      "school",
+      "education",
       "hat",
       "cap",
       "university",
-      "vkontakte.ru",
-      "graduation",
       "student"
     ],
     "copyright": false,
@@ -65419,18 +65434,23 @@
     "id": 1063,
     "name": "tape_drive",
     "platform": "Windows 8/Metro",
-    "category": "Data",
+    "category": "Computer Hardware",
     "created": 1343897800,
     "tags": [
       "film",
       "data",
       "tape",
+      "storage",
+      "casette",
+      "backup",
       "tape drive",
-      "cassette"
+      "cassette",
+      "vhs",
+      "magnetic tape"
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Data/tape_drive.svg",
+      "svg": "/SVG/Computer_Hardware/tape_drive.svg",
       "svg.simplified": "/SVG_for_Font/Data/tape_drive.svg",
       "eps": "/EPS/Data/tape_drive.eps",
       "png": {
@@ -70233,7 +70253,6 @@
       "tweet",
       "twitter",
       "youtube",
-      "instagram",
       "kakao"
     ],
     "copyright": false,
@@ -70614,7 +70633,7 @@
     "id": 923,
     "name": "unchecked_checkbox",
     "platform": "Windows 8/Metro",
-    "category": "Very Basic",
+    "category": "User Interface",
     "created": 1339570713,
     "tags": [
       "box",
@@ -70629,17 +70648,17 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Very_Basic/unchecked_checkbox.svg",
+      "svg": "/SVG/User_Interface/unchecked_checkbox.svg",
       "svg.simplified": "/SVG_for_Font/Very_Basic/unchecked_checkbox.svg",
-      "eps": "/EPS/Very_Basic/unchecked_checkbox.eps",
+      "eps": "/EPS/User_Interface/unchecked_checkbox.eps",
       "png": {
-        "32": "/PNG/32/Very_Basic/unchecked_checkbox-32.png",
-        "128": "/PNG/128/Very_Basic/unchecked_checkbox-128.png",
-        "26": "/PNG/26/Very_Basic/unchecked_checkbox-26.png",
-        "256": "/PNG/256/Very_Basic/unchecked_checkbox-256.png",
-        "512": "/PNG/512/Very_Basic/unchecked_checkbox-512.png",
-        "64": "/PNG/64/Very_Basic/unchecked_checkbox-64.png",
-        "48": "/PNG/48/Very_Basic/unchecked_checkbox-48.png"
+        "32": "/PNG/32/User_Interface/unchecked_checkbox-32.png",
+        "128": "/PNG/128/User_Interface/unchecked_checkbox-128.png",
+        "26": "/PNG/26/User_Interface/unchecked_checkbox-26.png",
+        "256": "/PNG/256/User_Interface/unchecked_checkbox-256.png",
+        "512": "/PNG/512/User_Interface/unchecked_checkbox-512.png",
+        "64": "/PNG/64/User_Interface/unchecked_checkbox-64.png",
+        "48": "/PNG/48/User_Interface/unchecked_checkbox-48.png"
       }
     }
   },
@@ -70762,7 +70781,7 @@
     "id": 834,
     "name": "undo",
     "platform": "Windows 8/Metro",
-    "category": "Very Basic",
+    "category": "Arrows",
     "created": 1336807676,
     "tags": [
       "home",
@@ -70781,17 +70800,17 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Very_Basic/undo.svg",
+      "svg": "/SVG/Arrows/undo.svg",
       "svg.simplified": "/SVG_for_Font/Very_Basic/undo.svg",
-      "eps": "/EPS/Very_Basic/undo.eps",
+      "eps": "/EPS/Arrows/undo.eps",
       "png": {
-        "32": "/PNG/32/Very_Basic/undo-32.png",
-        "128": "/PNG/128/Very_Basic/undo-128.png",
-        "26": "/PNG/26/Very_Basic/undo-26.png",
-        "256": "/PNG/256/Very_Basic/undo-256.png",
-        "512": "/PNG/512/Very_Basic/undo-512.png",
-        "64": "/PNG/64/Very_Basic/undo-64.png",
-        "48": "/PNG/48/Very_Basic/undo-48.png"
+        "32": "/PNG/32/Arrows/undo-32.png",
+        "128": "/PNG/128/Arrows/undo-128.png",
+        "26": "/PNG/26/Arrows/undo-26.png",
+        "256": "/PNG/256/Arrows/undo-256.png",
+        "512": "/PNG/512/Arrows/undo-512.png",
+        "64": "/PNG/64/Arrows/undo-64.png",
+        "48": "/PNG/48/Arrows/undo-48.png"
       }
     }
   },
@@ -72175,7 +72194,7 @@
     "id": 1446,
     "name": "vhs",
     "platform": "Windows 8/Metro",
-    "category": "Files",
+    "category": "Computer Hardware",
     "created": 1357817801,
     "tags": [
       "film",
@@ -72202,17 +72221,17 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Files/vhs.svg",
-      "svg.simplified": "/SVG_for_Font/Files/vhs.svg",
-      "eps": "/EPS/Files/vhs.eps",
+      "svg": "/SVG/Computer_Hardware/vhs.svg",
+      "svg.simplified": "/SVG_for_Font/Computer_Hardware/vhs.svg",
+      "eps": "/EPS/Computer_Hardware/vhs.eps",
       "png": {
-        "32": "/PNG/32/Files/vhs-32.png",
-        "128": "/PNG/128/Files/vhs-128.png",
-        "26": "/PNG/26/Files/vhs-26.png",
-        "256": "/PNG/256/Files/vhs-256.png",
-        "512": "/PNG/512/Files/vhs-512.png",
-        "64": "/PNG/64/Files/vhs-64.png",
-        "48": "/PNG/48/Files/vhs-48.png"
+        "32": "/PNG/32/Computer_Hardware/vhs-32.png",
+        "128": "/PNG/128/Computer_Hardware/vhs-128.png",
+        "26": "/PNG/26/Computer_Hardware/vhs-26.png",
+        "256": "/PNG/256/Computer_Hardware/vhs-256.png",
+        "512": "/PNG/512/Computer_Hardware/vhs-512.png",
+        "64": "/PNG/64/Computer_Hardware/vhs-64.png",
+        "48": "/PNG/48/Computer_Hardware/vhs-48.png"
       }
     }
   },
@@ -73803,7 +73822,8 @@
     "tags": [
       "wine",
       "gallery",
-      "chrome"
+      "chrome",
+      "COMMUNITY INITIATIVES"
     ],
     "copyright": false,
     "files": {
@@ -74985,8 +75005,11 @@
       "run",
       "transport",
       "cars",
+      "car",
       "tire",
-      "pit stop"
+      "auto",
+      "pit stop",
+      "formula 1"
     ],
     "copyright": false,
     "files": {
@@ -77594,7 +77617,7 @@
     "id": 714,
     "name": "zoom_in",
     "platform": "Windows 8/Metro",
-    "category": "Data",
+    "category": "User Interface",
     "created": 1333010975,
     "tags": [
       "file",
@@ -77610,7 +77633,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Data/zoom_in.svg",
+      "svg": "/SVG/User_Interface/zoom_in.svg",
       "svg.simplified": "/SVG_for_Font/Data/zoom_in.svg",
       "eps": "/EPS/Data/zoom_in.eps",
       "png": {
@@ -77628,7 +77651,7 @@
     "id": 716,
     "name": "zoom_out",
     "platform": "Windows 8/Metro",
-    "category": "Data",
+    "category": "User Interface",
     "created": 1333010975,
     "tags": [
       "file",
@@ -77643,7 +77666,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Data/zoom_out.svg",
+      "svg": "/SVG/User_Interface/zoom_out.svg",
       "svg.simplified": "/SVG_for_Font/Data/zoom_out.svg",
       "eps": "/EPS/Data/zoom_out.eps",
       "png": {
