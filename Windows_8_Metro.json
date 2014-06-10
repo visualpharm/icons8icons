@@ -1399,7 +1399,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Folders/add_folder.svg",
-      "svg.simplified": "/SVG_for_Font/Files/add_folder.svg",
+      "svg.simplified": "/SVG_for_Font/Folders/add_folder.svg",
       "eps": "/EPS/Folders/add_folder.eps",
       "png": {
         "32": "/PNG/32/Folders/add_folder-32.png",
@@ -9399,7 +9399,7 @@
     "id": 2332,
     "name": "business",
     "platform": "Windows 8/Metro",
-    "category": "Science",
+    "category": "Business",
     "created": 1377596134,
     "tags": [
       "business",
@@ -9410,7 +9410,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Science/business.svg",
+      "svg": "/SVG/Business/business.svg",
       "svg.simplified": "/SVG_for_Font/Science/business.svg",
       "eps": "/EPS/Science/business.eps",
       "png": {
@@ -12369,7 +12369,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/User_Interface/checked_checkbox.svg",
-      "svg.simplified": "/SVG_for_Font/Very_Basic/checked_checkbox.svg",
+      "svg.simplified": "/SVG_for_Font/User_Interface/checked_checkbox.svg",
       "eps": "/EPS/User_Interface/checked_checkbox.eps",
       "png": {
         "32": "/PNG/32/User_Interface/checked_checkbox-32.png",
@@ -19394,7 +19394,7 @@
     "id": 1318,
     "name": "dinghy",
     "platform": "Windows 8/Metro",
-    "category": "Transport",
+    "category": "Sports",
     "created": 1353500067,
     "tags": [
       "sport",
@@ -19408,17 +19408,17 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Transport/dinghy.svg",
-      "svg.simplified": "/SVG_for_Font/Transport/dinghy.svg",
-      "eps": "/EPS/Transport/dinghy.eps",
+      "svg": "/SVG/Sports/dinghy.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/dinghy.svg",
+      "eps": "/EPS/Sports/dinghy.eps",
       "png": {
-        "32": "/PNG/32/Transport/dinghy-32.png",
-        "128": "/PNG/128/Transport/dinghy-128.png",
-        "26": "/PNG/26/Transport/dinghy-26.png",
-        "256": "/PNG/256/Transport/dinghy-256.png",
-        "512": "/PNG/512/Transport/dinghy-512.png",
-        "64": "/PNG/64/Transport/dinghy-64.png",
-        "48": "/PNG/48/Transport/dinghy-48.png"
+        "32": "/PNG/32/Sports/dinghy-32.png",
+        "128": "/PNG/128/Sports/dinghy-128.png",
+        "26": "/PNG/26/Sports/dinghy-26.png",
+        "256": "/PNG/256/Sports/dinghy-256.png",
+        "512": "/PNG/512/Sports/dinghy-512.png",
+        "64": "/PNG/64/Sports/dinghy-64.png",
+        "48": "/PNG/48/Sports/dinghy-48.png"
       }
     }
   },
@@ -52041,7 +52041,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Finance/purchase_order.svg",
-      "svg.simplified": "/SVG_for_Font/Ecommerce/purchase_order.svg",
+      "svg.simplified": "/SVG_for_Font/Finance/purchase_order.svg",
       "eps": "/EPS/Finance/purchase_order.eps",
       "png": {
         "32": "/PNG/32/Finance/purchase_order-32.png",
@@ -53798,7 +53798,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Arrows/redo.svg",
-      "svg.simplified": "/SVG_for_Font/Very_Basic/redo.svg",
+      "svg.simplified": "/SVG_for_Font/Arrows/redo.svg",
       "eps": "/EPS/Arrows/redo.eps",
       "png": {
         "32": "/PNG/32/Arrows/redo-32.png",
@@ -63585,7 +63585,7 @@
     "id": 3900,
     "name": "students",
     "platform": "Windows 8/Metro",
-    "category": "Science",
+    "category": "City",
     "created": 1397235095,
     "tags": [
       "fun",
@@ -63620,17 +63620,17 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Science/students.svg",
-      "svg.simplified": "/SVG_for_Font/Science/students.svg",
-      "eps": "/EPS/Science/students.eps",
+      "svg": "/SVG/City/students.svg",
+      "svg.simplified": "/SVG_for_Font/City/students.svg",
+      "eps": "/EPS/City/students.eps",
       "png": {
-        "32": "/PNG/32/Science/students-32.png",
-        "128": "/PNG/128/Science/students-128.png",
-        "26": "/PNG/26/Science/students-26.png",
-        "256": "/PNG/256/Science/students-256.png",
-        "512": "/PNG/512/Science/students-512.png",
-        "64": "/PNG/64/Science/students-64.png",
-        "48": "/PNG/48/Science/students-48.png"
+        "32": "/PNG/32/City/students-32.png",
+        "128": "/PNG/128/City/students-128.png",
+        "26": "/PNG/26/City/students-26.png",
+        "256": "/PNG/256/City/students-256.png",
+        "512": "/PNG/512/City/students-512.png",
+        "64": "/PNG/64/City/students-64.png",
+        "48": "/PNG/48/City/students-48.png"
       }
     }
   },
@@ -70649,7 +70649,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/User_Interface/unchecked_checkbox.svg",
-      "svg.simplified": "/SVG_for_Font/Very_Basic/unchecked_checkbox.svg",
+      "svg.simplified": "/SVG_for_Font/User_Interface/unchecked_checkbox.svg",
       "eps": "/EPS/User_Interface/unchecked_checkbox.eps",
       "png": {
         "32": "/PNG/32/User_Interface/unchecked_checkbox-32.png",
@@ -70801,7 +70801,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Arrows/undo.svg",
-      "svg.simplified": "/SVG_for_Font/Very_Basic/undo.svg",
+      "svg.simplified": "/SVG_for_Font/Arrows/undo.svg",
       "eps": "/EPS/Arrows/undo.eps",
       "png": {
         "32": "/PNG/32/Arrows/undo-32.png",
@@ -74994,7 +74994,7 @@
     "id": 187,
     "name": "wheel",
     "platform": "Windows 8/Metro",
-    "category": "Sports",
+    "category": "Transport",
     "created": 1318940047,
     "tags": [
       "games",
@@ -75013,7 +75013,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sports/wheel.svg",
+      "svg": "/SVG/Transport/wheel.svg",
       "svg.simplified": "/SVG_for_Font/Sports/wheel.svg",
       "eps": "/EPS/Sports/wheel.eps",
       "png": {
