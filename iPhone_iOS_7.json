@@ -43553,6 +43553,7 @@
     "category": "Messaging",
     "created": 1382377301,
     "tags": [
+      "phone",
       "send",
       "mail",
       "messaging",
@@ -49345,6 +49346,7 @@
     "category": "Photo and Video",
     "created": 1326886315,
     "tags": [
+      "check",
       "video",
       "photo",
       "location",
@@ -56626,6 +56628,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/tollbooth.svg",
+      "svg.simplified": "/SVG_for_Font/City/tollbooth.svg",
       "eps": "/EPS/City/tollbooth.eps",
       "png": {
         "25": "/PNG/25/City/tollbooth-25.png",
@@ -61714,6 +61717,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/water_tower.svg",
+      "svg.simplified": "/SVG_for_Font/City/water_tower.svg",
       "eps": "/EPS/City/water_tower.eps",
       "png": {
         "25": "/PNG/25/City/water_tower-25.png",
@@ -62456,6 +62460,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/wharf.svg",
+      "svg.simplified": "/SVG_for_Font/City/wharf.svg",
       "eps": "/EPS/City/wharf.eps",
       "png": {
         "25": "/PNG/25/City/wharf-25.png",

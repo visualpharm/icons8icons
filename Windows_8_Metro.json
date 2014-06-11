@@ -12531,11 +12531,11 @@
       "goods",
       "mall",
       "bill",
-      "store",
       "purchase",
       "grocery",
       "cart",
-      "cashier"
+      "cashier",
+      "store"
     ],
     "copyright": false,
     "files": {
@@ -26321,13 +26321,13 @@
       "lunch",
       "utensil",
       "diner",
-      "use",
       "goblet",
       "caf",
       "cafeteria",
       "dining room",
       "food court",
-      "brunch"
+      "brunch",
+      "use"
     ],
     "copyright": false,
     "files": {
@@ -29010,6 +29010,7 @@
       "videos",
       "contact",
       "support",
+      "post",
       "computer",
       "gallery",
       "website",
@@ -35995,31 +35996,6 @@
         "512": "/PNG/512/Gaming/knight-512.png",
         "64": "/PNG/64/Gaming/knight-64.png",
         "48": "/PNG/48/Gaming/knight-48.png"
-      }
-    }
-  },
-  {
-    "id": 4410,
-    "name": "knowledge_base",
-    "platform": "Windows 8/Metro",
-    "category": "Very Basic",
-    "created": 1399402290,
-    "tags": [
-      "info"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Very_Basic/knowledge_base.svg",
-      "svg.simplified": "/SVG_for_Font/Very_Basic/knowledge_base.svg",
-      "eps": "/EPS/Very_Basic/knowledge_base.eps",
-      "png": {
-        "32": "/PNG/32/Very_Basic/knowledge_base-32.png",
-        "128": "/PNG/128/Very_Basic/knowledge_base-128.png",
-        "26": "/PNG/26/Very_Basic/knowledge_base-26.png",
-        "256": "/PNG/256/Very_Basic/knowledge_base-256.png",
-        "512": "/PNG/512/Very_Basic/knowledge_base-512.png",
-        "64": "/PNG/64/Very_Basic/knowledge_base-64.png",
-        "48": "/PNG/48/Very_Basic/knowledge_base-48.png"
       }
     }
   },
@@ -57615,6 +57591,7 @@
       "zoom out",
       "car",
       "nail",
+      "questions",
       "Platform Administration",
       "weld",
       "teste",
@@ -61099,7 +61076,8 @@
       "solutions",
       "contract",
       "solution",
-      "lightbulb"
+      "lightbulb",
+      "advice"
     ],
     "copyright": false,
     "files": {
@@ -63796,7 +63774,6 @@
       "tour",
       "energy",
       "winter",
-      "happiness",
       "summer",
       "sunset",
       "rising",
@@ -63805,7 +63782,8 @@
       "abstract",
       "cartoon",
       "radius",
-      "bright"
+      "bright",
+      "colorful"
     ],
     "copyright": false,
     "files": {
