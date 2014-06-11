@@ -24461,9 +24461,9 @@
       "fairies",
       "mermaids",
       "girls",
-      "young",
       "magic",
-      "genie"
+      "genie",
+      "young"
     ],
     "copyright": false,
     "files": {
@@ -31961,8 +31961,12 @@
     "tags": [
       "user",
       "help",
+      "hint",
       "question mark",
-      "external link"
+      "question",
+      "external link",
+      "query",
+      "interrogation point"
     ],
     "copyright": false,
     "files": {
@@ -33496,7 +33500,10 @@
       "content",
       "info point",
       "getting help",
+      "hint",
       "journal",
+      "knowledge base",
+      "prompt",
       "help"
     ],
     "copyright": false,
@@ -43354,6 +43361,7 @@
     "category": "Cultures",
     "created": 1402073487,
     "tags": [
+      "arrow",
       "hipster",
       "moustache"
     ],
@@ -58236,7 +58244,8 @@
       "settings",
       "setting",
       "gear",
-      "charts"
+      "charts",
+      "process"
     ],
     "copyright": false,
     "files": {
@@ -63982,6 +63991,7 @@
       "ruler",
       "settings",
       "wrench",
+      "options",
       "education",
       "report",
       "ask",
@@ -68495,8 +68505,13 @@
     "category": "City",
     "created": 1402491083,
     "tags": [
+      "exit",
+      "collection",
+      "traffic",
+      "road",
       "change",
       "pay",
+      "entrance",
       "gate",
       "checkpoint",
       "barricade",
@@ -68505,7 +68520,11 @@
       "toll road",
       "shack",
       "expressway",
-      "tolls"
+      "tolls",
+      "turnpike",
+      "motor vehicles",
+      "tunnels",
+      "bridges"
     ],
     "copyright": false,
     "files": {
@@ -70432,7 +70451,8 @@
       "device",
       "tablet",
       "pc",
-      "multiple devices"
+      "multiple devices",
+      "pending"
     ],
     "copyright": false,
     "files": {
@@ -74212,7 +74232,26 @@
     "category": "City",
     "created": 1402491083,
     "tags": [
-
+      "water",
+      "refill",
+      "tall",
+      "capacity",
+      "pressure",
+      "construction",
+      "supply",
+      "tower",
+      "pipes",
+      "cylindrical",
+      "pipeline",
+      "storage tank",
+      "water supply",
+      "elevated",
+      "potable water",
+      "water tower",
+      "reservoir",
+      "water pressure",
+      "water tank",
+      "water pipes"
     ],
     "copyright": false,
     "files": {
@@ -74950,16 +74989,25 @@
     "tags": [
       "ship",
       "sea",
+      "water",
+      "load",
       "marine",
       "journey",
       "sailing",
+      "cargo",
       "voyage",
+      "river",
+      "warehouse",
       "sail",
       "maritime",
       "dock",
       "wharf",
       "boat",
-      "setsail"
+      "setsail",
+      "harbor",
+      "shore",
+      "berths",
+      "piers"
     ],
     "copyright": false,
     "files": {
