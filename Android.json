@@ -19511,6 +19511,7 @@
       "direction",
       "guide",
       "address",
+      "city",
       "maps",
       "signage",
       "symbols",
@@ -19521,7 +19522,15 @@
       "go",
       "reference",
       "clues",
-      "clue"
+      "clue",
+      "here",
+      "navigation",
+      "gis",
+      "navigator",
+      "google maps",
+      "driving directions",
+      "street map",
+      "garmin"
     ],
     "copyright": false,
     "files": {
@@ -22637,6 +22646,7 @@
     "tags": [
       "file",
       "folder",
+      "arrow",
       "contents",
       "category",
       "topic",
