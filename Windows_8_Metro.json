@@ -5620,16 +5620,16 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Ecommerce/barcode.svg",
-      "svg.simplified": "/SVG_for_Font/Finance/barcode.svg",
-      "eps": "/EPS/Finance/barcode.eps",
+      "svg.simplified": "/SVG_for_Font/Ecommerce/barcode.svg",
+      "eps": "/EPS/Ecommerce/barcode.eps",
       "png": {
-        "32": "/PNG/32/Finance/barcode-32.png",
-        "128": "/PNG/128/Finance/barcode-128.png",
-        "26": "/PNG/26/Finance/barcode-26.png",
-        "256": "/PNG/256/Finance/barcode-256.png",
-        "512": "/PNG/512/Finance/barcode-512.png",
-        "64": "/PNG/64/Finance/barcode-64.png",
-        "48": "/PNG/48/Finance/barcode-48.png"
+        "32": "/PNG/32/Ecommerce/barcode-32.png",
+        "128": "/PNG/128/Ecommerce/barcode-128.png",
+        "26": "/PNG/26/Ecommerce/barcode-26.png",
+        "256": "/PNG/256/Ecommerce/barcode-256.png",
+        "512": "/PNG/512/Ecommerce/barcode-512.png",
+        "64": "/PNG/64/Ecommerce/barcode-64.png",
+        "48": "/PNG/48/Ecommerce/barcode-48.png"
       }
     }
   },
@@ -9411,16 +9411,16 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Business/business.svg",
-      "svg.simplified": "/SVG_for_Font/Science/business.svg",
-      "eps": "/EPS/Science/business.eps",
+      "svg.simplified": "/SVG_for_Font/Business/business.svg",
+      "eps": "/EPS/Business/business.eps",
       "png": {
-        "32": "/PNG/32/Science/business-32.png",
-        "128": "/PNG/128/Science/business-128.png",
-        "26": "/PNG/26/Science/business-26.png",
-        "256": "/PNG/256/Science/business-256.png",
-        "512": "/PNG/512/Science/business-512.png",
-        "64": "/PNG/64/Science/business-64.png",
-        "48": "/PNG/48/Science/business-48.png"
+        "32": "/PNG/32/Business/business-32.png",
+        "128": "/PNG/128/Business/business-128.png",
+        "26": "/PNG/26/Business/business-26.png",
+        "256": "/PNG/256/Business/business-256.png",
+        "512": "/PNG/512/Business/business-512.png",
+        "64": "/PNG/64/Business/business-64.png",
+        "48": "/PNG/48/Business/business-48.png"
       }
     }
   },
@@ -20467,39 +20467,6 @@
         "512": "/PNG/512/Network/domain-512.png",
         "64": "/PNG/64/Network/domain-64.png",
         "48": "/PNG/48/Network/domain-48.png"
-      }
-    }
-  },
-  {
-    "id": 1998,
-    "name": "donat_chart",
-    "platform": "Windows 8/Metro",
-    "category": "Data",
-    "created": 1374573324,
-    "tags": [
-      "chart",
-      "graph",
-      "stats",
-      "statistics",
-      "data",
-      "diagram",
-      "area chart",
-      "donut chart",
-      "donat",
-      "visualization"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Data/donat_chart.svg",
-      "eps": "/EPS/Data/donat_chart.eps",
-      "png": {
-        "32": "/PNG/32/Data/donat_chart-32.png",
-        "128": "/PNG/128/Data/donat_chart-128.png",
-        "26": "/PNG/26/Data/donat_chart-26.png",
-        "256": "/PNG/256/Data/donat_chart-256.png",
-        "512": "/PNG/512/Data/donat_chart-512.png",
-        "64": "/PNG/64/Data/donat_chart-64.png",
-        "48": "/PNG/48/Data/donat_chart-48.png"
       }
     }
   },
@@ -48462,16 +48429,16 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Programming/php.svg",
-      "svg.simplified": "/SVG_for_Font/Data/php.svg",
-      "eps": "/EPS/Data/php.eps",
+      "svg.simplified": "/SVG_for_Font/Programming/php.svg",
+      "eps": "/EPS/Programming/php.eps",
       "png": {
-        "32": "/PNG/32/Data/php-32.png",
-        "128": "/PNG/128/Data/php-128.png",
-        "26": "/PNG/26/Data/php-26.png",
-        "256": "/PNG/256/Data/php-256.png",
-        "512": "/PNG/512/Data/php-512.png",
-        "64": "/PNG/64/Data/php-64.png",
-        "48": "/PNG/48/Data/php-48.png"
+        "32": "/PNG/32/Programming/php-32.png",
+        "128": "/PNG/128/Programming/php-128.png",
+        "26": "/PNG/26/Programming/php-26.png",
+        "256": "/PNG/256/Programming/php-256.png",
+        "512": "/PNG/512/Programming/php-512.png",
+        "64": "/PNG/64/Programming/php-64.png",
+        "48": "/PNG/48/Programming/php-48.png"
       }
     }
   },
@@ -48500,16 +48467,16 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Programming/php_data.svg",
-      "svg.simplified": "/SVG_for_Font/Data/php_data.svg",
-      "eps": "/EPS/Data/php_data.eps",
+      "svg.simplified": "/SVG_for_Font/Programming/php_data.svg",
+      "eps": "/EPS/Programming/php_data.eps",
       "png": {
-        "32": "/PNG/32/Data/php_data-32.png",
-        "128": "/PNG/128/Data/php_data-128.png",
-        "26": "/PNG/26/Data/php_data-26.png",
-        "256": "/PNG/256/Data/php_data-256.png",
-        "512": "/PNG/512/Data/php_data-512.png",
-        "64": "/PNG/64/Data/php_data-64.png",
-        "48": "/PNG/48/Data/php_data-48.png"
+        "32": "/PNG/32/Programming/php_data-32.png",
+        "128": "/PNG/128/Programming/php_data-128.png",
+        "26": "/PNG/26/Programming/php_data-26.png",
+        "256": "/PNG/256/Programming/php_data-256.png",
+        "512": "/PNG/512/Programming/php_data-512.png",
+        "64": "/PNG/64/Programming/php_data-64.png",
+        "48": "/PNG/48/Programming/php_data-48.png"
       }
     }
   },
@@ -56114,6 +56081,7 @@
       "work",
       "human",
       "traffic",
+      "thumbs up",
       "bike",
       "walk",
       "woring",
@@ -58283,49 +58251,6 @@
         "512": "/PNG/512/Very_Basic/settings-512.png",
         "64": "/PNG/64/Very_Basic/settings-64.png",
         "48": "/PNG/48/Very_Basic/settings-48.png"
-      }
-    }
-  },
-  {
-    "id": 134,
-    "name": "settings2",
-    "platform": "Windows 8/Metro",
-    "category": "Very Basic",
-    "created": 1293858000,
-    "tags": [
-      "admin",
-      "working",
-      "setting",
-      "works",
-      "work",
-      "meshing",
-      "mesh",
-      "mechanic",
-      "mechanical",
-      "fine tune",
-      "tune up",
-      "following",
-      "edit",
-      "gears",
-      "settings",
-      "setup",
-      "config",
-      "configuration",
-      "preferences",
-      "administration"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Very_Basic/settings2.svg",
-      "eps": "/EPS/Very_Basic/settings2.eps",
-      "png": {
-        "32": "/PNG/32/Very_Basic/settings2-32.png",
-        "128": "/PNG/128/Very_Basic/settings2-128.png",
-        "26": "/PNG/26/Very_Basic/settings2-26.png",
-        "256": "/PNG/256/Very_Basic/settings2-256.png",
-        "512": "/PNG/512/Very_Basic/settings2-512.png",
-        "64": "/PNG/64/Very_Basic/settings2-64.png",
-        "48": "/PNG/48/Very_Basic/settings2-48.png"
       }
     }
   },
@@ -65453,16 +65378,16 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Computer_Hardware/tape_drive.svg",
-      "svg.simplified": "/SVG_for_Font/Data/tape_drive.svg",
-      "eps": "/EPS/Data/tape_drive.eps",
+      "svg.simplified": "/SVG_for_Font/Computer_Hardware/tape_drive.svg",
+      "eps": "/EPS/Computer_Hardware/tape_drive.eps",
       "png": {
-        "32": "/PNG/32/Data/tape_drive-32.png",
-        "128": "/PNG/128/Data/tape_drive-128.png",
-        "26": "/PNG/26/Data/tape_drive-26.png",
-        "256": "/PNG/256/Data/tape_drive-256.png",
-        "512": "/PNG/512/Data/tape_drive-512.png",
-        "64": "/PNG/64/Data/tape_drive-64.png",
-        "48": "/PNG/48/Data/tape_drive-48.png"
+        "32": "/PNG/32/Computer_Hardware/tape_drive-32.png",
+        "128": "/PNG/128/Computer_Hardware/tape_drive-128.png",
+        "26": "/PNG/26/Computer_Hardware/tape_drive-26.png",
+        "256": "/PNG/256/Computer_Hardware/tape_drive-256.png",
+        "512": "/PNG/512/Computer_Hardware/tape_drive-512.png",
+        "64": "/PNG/64/Computer_Hardware/tape_drive-64.png",
+        "48": "/PNG/48/Computer_Hardware/tape_drive-48.png"
       }
     }
   },
@@ -68560,6 +68485,41 @@
         "512": "/PNG/512/Household/toilet_pan-512.png",
         "64": "/PNG/64/Household/toilet_pan-64.png",
         "48": "/PNG/48/Household/toilet_pan-48.png"
+      }
+    }
+  },
+  {
+    "id": 5007,
+    "name": "tollbooth",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1402491083,
+    "tags": [
+      "change",
+      "pay",
+      "gate",
+      "checkpoint",
+      "barricade",
+      "toll",
+      "tollbooth",
+      "toll road",
+      "shack",
+      "expressway",
+      "tolls"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/tollbooth.svg",
+      "svg.simplified": "/SVG_for_Font/City/tollbooth.svg",
+      "eps": "/EPS/City/tollbooth.eps",
+      "png": {
+        "32": "/PNG/32/City/tollbooth-32.png",
+        "128": "/PNG/128/City/tollbooth-128.png",
+        "26": "/PNG/26/City/tollbooth-26.png",
+        "256": "/PNG/256/City/tollbooth-256.png",
+        "512": "/PNG/512/City/tollbooth-512.png",
+        "64": "/PNG/64/City/tollbooth-64.png",
+        "48": "/PNG/48/City/tollbooth-48.png"
       }
     }
   },
@@ -74246,6 +74206,31 @@
     }
   },
   {
+    "id": 5006,
+    "name": "water_tower",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1402491083,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/water_tower.svg",
+      "svg.simplified": "/SVG_for_Font/City/water_tower.svg",
+      "eps": "/EPS/City/water_tower.eps",
+      "png": {
+        "32": "/PNG/32/City/water_tower-32.png",
+        "128": "/PNG/128/City/water_tower-128.png",
+        "26": "/PNG/26/City/water_tower-26.png",
+        "256": "/PNG/256/City/water_tower-256.png",
+        "512": "/PNG/512/City/water_tower-512.png",
+        "64": "/PNG/64/City/water_tower-64.png",
+        "48": "/PNG/48/City/water_tower-48.png"
+      }
+    }
+  },
+  {
     "id": 3109,
     "name": "waxing_crescent",
     "platform": "Windows 8/Metro",
@@ -74957,6 +74942,42 @@
     }
   },
   {
+    "id": 5005,
+    "name": "wharf",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1402491083,
+    "tags": [
+      "ship",
+      "sea",
+      "marine",
+      "journey",
+      "sailing",
+      "voyage",
+      "sail",
+      "maritime",
+      "dock",
+      "wharf",
+      "boat",
+      "setsail"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/wharf.svg",
+      "svg.simplified": "/SVG_for_Font/City/wharf.svg",
+      "eps": "/EPS/City/wharf.eps",
+      "png": {
+        "32": "/PNG/32/City/wharf-32.png",
+        "128": "/PNG/128/City/wharf-128.png",
+        "26": "/PNG/26/City/wharf-26.png",
+        "256": "/PNG/256/City/wharf-256.png",
+        "512": "/PNG/512/City/wharf-512.png",
+        "64": "/PNG/64/City/wharf-64.png",
+        "48": "/PNG/48/City/wharf-48.png"
+      }
+    }
+  },
+  {
     "id": 1520,
     "name": "wheat",
     "platform": "Windows 8/Metro",
@@ -75016,16 +75037,16 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Transport/wheel.svg",
-      "svg.simplified": "/SVG_for_Font/Sports/wheel.svg",
-      "eps": "/EPS/Sports/wheel.eps",
+      "svg.simplified": "/SVG_for_Font/Transport/wheel.svg",
+      "eps": "/EPS/Transport/wheel.eps",
       "png": {
-        "32": "/PNG/32/Sports/wheel-32.png",
-        "128": "/PNG/128/Sports/wheel-128.png",
-        "26": "/PNG/26/Sports/wheel-26.png",
-        "256": "/PNG/256/Sports/wheel-256.png",
-        "512": "/PNG/512/Sports/wheel-512.png",
-        "64": "/PNG/64/Sports/wheel-64.png",
-        "48": "/PNG/48/Sports/wheel-48.png"
+        "32": "/PNG/32/Transport/wheel-32.png",
+        "128": "/PNG/128/Transport/wheel-128.png",
+        "26": "/PNG/26/Transport/wheel-26.png",
+        "256": "/PNG/256/Transport/wheel-256.png",
+        "512": "/PNG/512/Transport/wheel-512.png",
+        "64": "/PNG/64/Transport/wheel-64.png",
+        "48": "/PNG/48/Transport/wheel-48.png"
       }
     }
   },
@@ -77636,16 +77657,16 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/User_Interface/zoom_in.svg",
-      "svg.simplified": "/SVG_for_Font/Data/zoom_in.svg",
-      "eps": "/EPS/Data/zoom_in.eps",
+      "svg.simplified": "/SVG_for_Font/User_Interface/zoom_in.svg",
+      "eps": "/EPS/User_Interface/zoom_in.eps",
       "png": {
-        "32": "/PNG/32/Data/zoom_in-32.png",
-        "128": "/PNG/128/Data/zoom_in-128.png",
-        "26": "/PNG/26/Data/zoom_in-26.png",
-        "256": "/PNG/256/Data/zoom_in-256.png",
-        "512": "/PNG/512/Data/zoom_in-512.png",
-        "64": "/PNG/64/Data/zoom_in-64.png",
-        "48": "/PNG/48/Data/zoom_in-48.png"
+        "32": "/PNG/32/User_Interface/zoom_in-32.png",
+        "128": "/PNG/128/User_Interface/zoom_in-128.png",
+        "26": "/PNG/26/User_Interface/zoom_in-26.png",
+        "256": "/PNG/256/User_Interface/zoom_in-256.png",
+        "512": "/PNG/512/User_Interface/zoom_in-512.png",
+        "64": "/PNG/64/User_Interface/zoom_in-64.png",
+        "48": "/PNG/48/User_Interface/zoom_in-48.png"
       }
     }
   },
@@ -77669,16 +77690,16 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/User_Interface/zoom_out.svg",
-      "svg.simplified": "/SVG_for_Font/Data/zoom_out.svg",
-      "eps": "/EPS/Data/zoom_out.eps",
+      "svg.simplified": "/SVG_for_Font/User_Interface/zoom_out.svg",
+      "eps": "/EPS/User_Interface/zoom_out.eps",
       "png": {
-        "32": "/PNG/32/Data/zoom_out-32.png",
-        "128": "/PNG/128/Data/zoom_out-128.png",
-        "26": "/PNG/26/Data/zoom_out-26.png",
-        "256": "/PNG/256/Data/zoom_out-256.png",
-        "512": "/PNG/512/Data/zoom_out-512.png",
-        "64": "/PNG/64/Data/zoom_out-64.png",
-        "48": "/PNG/48/Data/zoom_out-48.png"
+        "32": "/PNG/32/User_Interface/zoom_out-32.png",
+        "128": "/PNG/128/User_Interface/zoom_out-128.png",
+        "26": "/PNG/26/User_Interface/zoom_out-26.png",
+        "256": "/PNG/256/User_Interface/zoom_out-256.png",
+        "512": "/PNG/512/User_Interface/zoom_out-512.png",
+        "64": "/PNG/64/User_Interface/zoom_out-64.png",
+        "48": "/PNG/48/User_Interface/zoom_out-48.png"
       }
     }
   },

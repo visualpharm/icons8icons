@@ -1373,6 +1373,33 @@
     }
   },
   {
+    "id": 4997,
+    "name": "area_chart",
+    "platform": "Android",
+    "category": "Data",
+    "created": 1402491083,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Data/area_chart.svg",
+      "svg.simplified": "/SVG_for_Font/Data/area_chart.svg",
+      "eps": "/EPS/Data/area_chart.eps",
+      "png": {
+        "32": "/PNG/32/Data/area_chart-32.png",
+        "128": "/PNG/128/Data/area_chart-128.png",
+        "256": "/PNG/256/Data/area_chart-256.png",
+        "36": "/PNG/36/Data/area_chart-36.png",
+        "512": "/PNG/512/Data/area_chart-512.png",
+        "64": "/PNG/64/Data/area_chart-64.png",
+        "24": "/PNG/24/Data/area_chart-24.png",
+        "96": "/PNG/96/Data/area_chart-96.png",
+        "48": "/PNG/48/Data/area_chart-48.png"
+      }
+    }
+  },
+  {
     "id": 4747,
     "name": "arena",
     "platform": "Android",
@@ -2408,6 +2435,33 @@
         "24": "/PNG/24/Household/barn-24.png",
         "96": "/PNG/96/Household/barn-96.png",
         "48": "/PNG/48/Household/barn-48.png"
+      }
+    }
+  },
+  {
+    "id": 4996,
+    "name": "bar_chart",
+    "platform": "Android",
+    "category": "Data",
+    "created": 1402491083,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Data/bar_chart.svg",
+      "svg.simplified": "/SVG_for_Font/Data/bar_chart.svg",
+      "eps": "/EPS/Data/bar_chart.eps",
+      "png": {
+        "32": "/PNG/32/Data/bar_chart-32.png",
+        "128": "/PNG/128/Data/bar_chart-128.png",
+        "256": "/PNG/256/Data/bar_chart-256.png",
+        "36": "/PNG/36/Data/bar_chart-36.png",
+        "512": "/PNG/512/Data/bar_chart-512.png",
+        "64": "/PNG/64/Data/bar_chart-64.png",
+        "24": "/PNG/24/Data/bar_chart-24.png",
+        "96": "/PNG/96/Data/bar_chart-96.png",
+        "48": "/PNG/48/Data/bar_chart-48.png"
       }
     }
   },
@@ -7351,6 +7405,33 @@
     }
   },
   {
+    "id": 4991,
+    "name": "combo",
+    "platform": "Android",
+    "category": "Data",
+    "created": 1402491083,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Data/combo.svg",
+      "svg.simplified": "/SVG_for_Font/Data/combo.svg",
+      "eps": "/EPS/Data/combo.eps",
+      "png": {
+        "32": "/PNG/32/Data/combo-32.png",
+        "128": "/PNG/128/Data/combo-128.png",
+        "256": "/PNG/256/Data/combo-256.png",
+        "36": "/PNG/36/Data/combo-36.png",
+        "512": "/PNG/512/Data/combo-512.png",
+        "64": "/PNG/64/Data/combo-64.png",
+        "24": "/PNG/24/Data/combo-24.png",
+        "96": "/PNG/96/Data/combo-96.png",
+        "48": "/PNG/48/Data/combo-48.png"
+      }
+    }
+  },
+  {
     "id": 4377,
     "name": "comedy",
     "platform": "Android",
@@ -9704,6 +9785,33 @@
         "24": "/PNG/24/Food/doughnut-24.png",
         "96": "/PNG/96/Food/doughnut-96.png",
         "48": "/PNG/48/Food/doughnut-48.png"
+      }
+    }
+  },
+  {
+    "id": 4998,
+    "name": "doughnut_chart",
+    "platform": "Android",
+    "category": "Data",
+    "created": 1402491083,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Data/doughnut_chart.svg",
+      "svg.simplified": "/SVG_for_Font/Data/doughnut_chart.svg",
+      "eps": "/EPS/Data/doughnut_chart.eps",
+      "png": {
+        "32": "/PNG/32/Data/doughnut_chart-32.png",
+        "128": "/PNG/128/Data/doughnut_chart-128.png",
+        "256": "/PNG/256/Data/doughnut_chart-256.png",
+        "36": "/PNG/36/Data/doughnut_chart-36.png",
+        "512": "/PNG/512/Data/doughnut_chart-512.png",
+        "64": "/PNG/64/Data/doughnut_chart-64.png",
+        "24": "/PNG/24/Data/doughnut_chart-24.png",
+        "96": "/PNG/96/Data/doughnut_chart-96.png",
+        "48": "/PNG/48/Data/doughnut_chart-48.png"
       }
     }
   },
@@ -12465,6 +12573,33 @@
     }
   },
   {
+    "id": 4994,
+    "name": "flow_chart",
+    "platform": "Android",
+    "category": "Data",
+    "created": 1402491083,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Data/flow_chart.svg",
+      "svg.simplified": "/SVG_for_Font/Data/flow_chart.svg",
+      "eps": "/EPS/Data/flow_chart.eps",
+      "png": {
+        "32": "/PNG/32/Data/flow_chart-32.png",
+        "128": "/PNG/128/Data/flow_chart-128.png",
+        "256": "/PNG/256/Data/flow_chart-256.png",
+        "36": "/PNG/36/Data/flow_chart-36.png",
+        "512": "/PNG/512/Data/flow_chart-512.png",
+        "64": "/PNG/64/Data/flow_chart-64.png",
+        "24": "/PNG/24/Data/flow_chart-24.png",
+        "96": "/PNG/96/Data/flow_chart-96.png",
+        "48": "/PNG/48/Data/flow_chart-48.png"
+      }
+    }
+  },
+  {
     "id": 4892,
     "name": "flying_stork",
     "platform": "Android",
@@ -13645,6 +13780,33 @@
         "24": "/PNG/24/Users/genderqueer-24.png",
         "96": "/PNG/96/Users/genderqueer-96.png",
         "48": "/PNG/48/Users/genderqueer-48.png"
+      }
+    }
+  },
+  {
+    "id": 5000,
+    "name": "genealogy",
+    "platform": "Android",
+    "category": "Data",
+    "created": 1402491083,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Data/genealogy.svg",
+      "svg.simplified": "/SVG_for_Font/Data/genealogy.svg",
+      "eps": "/EPS/Data/genealogy.eps",
+      "png": {
+        "32": "/PNG/32/Data/genealogy-32.png",
+        "128": "/PNG/128/Data/genealogy-128.png",
+        "256": "/PNG/256/Data/genealogy-256.png",
+        "36": "/PNG/36/Data/genealogy-36.png",
+        "512": "/PNG/512/Data/genealogy-512.png",
+        "64": "/PNG/64/Data/genealogy-64.png",
+        "24": "/PNG/24/Data/genealogy-24.png",
+        "96": "/PNG/96/Data/genealogy-96.png",
+        "48": "/PNG/48/Data/genealogy-48.png"
       }
     }
   },
@@ -15427,6 +15589,33 @@
         "24": "/PNG/24/Household/heating_room-24.png",
         "96": "/PNG/96/Household/heating_room-96.png",
         "48": "/PNG/48/Household/heating_room-48.png"
+      }
+    }
+  },
+  {
+    "id": 4999,
+    "name": "heat_map",
+    "platform": "Android",
+    "category": "Data",
+    "created": 1402491083,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Data/heat_map.svg",
+      "svg.simplified": "/SVG_for_Font/Data/heat_map.svg",
+      "eps": "/EPS/Data/heat_map.eps",
+      "png": {
+        "32": "/PNG/32/Data/heat_map-32.png",
+        "128": "/PNG/128/Data/heat_map-128.png",
+        "256": "/PNG/256/Data/heat_map-256.png",
+        "36": "/PNG/36/Data/heat_map-36.png",
+        "512": "/PNG/512/Data/heat_map-512.png",
+        "64": "/PNG/64/Data/heat_map-64.png",
+        "24": "/PNG/24/Data/heat_map-24.png",
+        "96": "/PNG/96/Data/heat_map-96.png",
+        "48": "/PNG/48/Data/heat_map-48.png"
       }
     }
   },
@@ -18429,6 +18618,33 @@
     }
   },
   {
+    "id": 5002,
+    "name": "line_chart",
+    "platform": "Android",
+    "category": "Data",
+    "created": 1402491083,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Data/line_chart.svg",
+      "svg.simplified": "/SVG_for_Font/Data/line_chart.svg",
+      "eps": "/EPS/Data/line_chart.eps",
+      "png": {
+        "32": "/PNG/32/Data/line_chart-32.png",
+        "128": "/PNG/128/Data/line_chart-128.png",
+        "256": "/PNG/256/Data/line_chart-256.png",
+        "36": "/PNG/36/Data/line_chart-36.png",
+        "512": "/PNG/512/Data/line_chart-512.png",
+        "64": "/PNG/64/Data/line_chart-64.png",
+        "24": "/PNG/24/Data/line_chart-24.png",
+        "96": "/PNG/96/Data/line_chart-96.png",
+        "48": "/PNG/48/Data/line_chart-48.png"
+      }
+    }
+  },
+  {
     "id": 4872,
     "name": "line_spliting",
     "platform": "Android",
@@ -20180,6 +20396,33 @@
     }
   },
   {
+    "id": 4992,
+    "name": "mind_map",
+    "platform": "Android",
+    "category": "Data",
+    "created": 1402491083,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Data/mind_map.svg",
+      "svg.simplified": "/SVG_for_Font/Data/mind_map.svg",
+      "eps": "/EPS/Data/mind_map.eps",
+      "png": {
+        "32": "/PNG/32/Data/mind_map-32.png",
+        "128": "/PNG/128/Data/mind_map-128.png",
+        "256": "/PNG/256/Data/mind_map-256.png",
+        "36": "/PNG/36/Data/mind_map-36.png",
+        "512": "/PNG/512/Data/mind_map-512.png",
+        "64": "/PNG/64/Data/mind_map-64.png",
+        "24": "/PNG/24/Data/mind_map-24.png",
+        "96": "/PNG/96/Data/mind_map-96.png",
+        "48": "/PNG/48/Data/mind_map-48.png"
+      }
+    }
+  },
+  {
     "id": 3314,
     "name": "minus",
     "platform": "Android",
@@ -21499,6 +21742,33 @@
         "24": "/PNG/24/Sports/neck-24.png",
         "96": "/PNG/96/Sports/neck-96.png",
         "48": "/PNG/48/Sports/neck-48.png"
+      }
+    }
+  },
+  {
+    "id": 5004,
+    "name": "negative_dynamic",
+    "platform": "Android",
+    "category": "Data",
+    "created": 1402491083,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Data/negative_dynamic.svg",
+      "svg.simplified": "/SVG_for_Font/Data/negative_dynamic.svg",
+      "eps": "/EPS/Data/negative_dynamic.eps",
+      "png": {
+        "32": "/PNG/32/Data/negative_dynamic-32.png",
+        "128": "/PNG/128/Data/negative_dynamic-128.png",
+        "256": "/PNG/256/Data/negative_dynamic-256.png",
+        "36": "/PNG/36/Data/negative_dynamic-36.png",
+        "512": "/PNG/512/Data/negative_dynamic-512.png",
+        "64": "/PNG/64/Data/negative_dynamic-64.png",
+        "24": "/PNG/24/Data/negative_dynamic-24.png",
+        "96": "/PNG/96/Data/negative_dynamic-96.png",
+        "48": "/PNG/48/Data/negative_dynamic-48.png"
       }
     }
   },
@@ -23444,6 +23714,33 @@
     }
   },
   {
+    "id": 4990,
+    "name": "pie",
+    "platform": "Android",
+    "category": "Data",
+    "created": 1402491083,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Data/pie.svg",
+      "svg.simplified": "/SVG_for_Font/Data/pie.svg",
+      "eps": "/EPS/Data/pie.eps",
+      "png": {
+        "32": "/PNG/32/Data/pie-32.png",
+        "128": "/PNG/128/Data/pie-128.png",
+        "256": "/PNG/256/Data/pie-256.png",
+        "36": "/PNG/36/Data/pie-36.png",
+        "512": "/PNG/512/Data/pie-512.png",
+        "64": "/PNG/64/Data/pie-64.png",
+        "24": "/PNG/24/Data/pie-24.png",
+        "96": "/PNG/96/Data/pie-96.png",
+        "48": "/PNG/48/Data/pie-48.png"
+      }
+    }
+  },
+  {
     "id": 4018,
     "name": "pig",
     "platform": "Android",
@@ -24163,6 +24460,33 @@
         "24": "/PNG/24/Photo_Video/portrait_mode-24.png",
         "96": "/PNG/96/Photo_Video/portrait_mode-96.png",
         "48": "/PNG/48/Photo_Video/portrait_mode-48.png"
+      }
+    }
+  },
+  {
+    "id": 5003,
+    "name": "positive_dynamic",
+    "platform": "Android",
+    "category": "Data",
+    "created": 1402491083,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Data/positive_dynamic.svg",
+      "svg.simplified": "/SVG_for_Font/Data/positive_dynamic.svg",
+      "eps": "/EPS/Data/positive_dynamic.eps",
+      "png": {
+        "32": "/PNG/32/Data/positive_dynamic-32.png",
+        "128": "/PNG/128/Data/positive_dynamic-128.png",
+        "256": "/PNG/256/Data/positive_dynamic-256.png",
+        "36": "/PNG/36/Data/positive_dynamic-36.png",
+        "512": "/PNG/512/Data/positive_dynamic-512.png",
+        "64": "/PNG/64/Data/positive_dynamic-64.png",
+        "24": "/PNG/24/Data/positive_dynamic-24.png",
+        "96": "/PNG/96/Data/positive_dynamic-96.png",
+        "48": "/PNG/48/Data/positive_dynamic-48.png"
       }
     }
   },
@@ -24964,6 +25288,33 @@
         "24": "/PNG/24/Industry/rack-24.png",
         "96": "/PNG/96/Industry/rack-96.png",
         "48": "/PNG/48/Industry/rack-48.png"
+      }
+    }
+  },
+  {
+    "id": 4993,
+    "name": "radar_plot",
+    "platform": "Android",
+    "category": "Data",
+    "created": 1402491083,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Data/radar_plot.svg",
+      "svg.simplified": "/SVG_for_Font/Data/radar_plot.svg",
+      "eps": "/EPS/Data/radar_plot.eps",
+      "png": {
+        "32": "/PNG/32/Data/radar_plot-32.png",
+        "128": "/PNG/128/Data/radar_plot-128.png",
+        "256": "/PNG/256/Data/radar_plot-256.png",
+        "36": "/PNG/36/Data/radar_plot-36.png",
+        "512": "/PNG/512/Data/radar_plot-512.png",
+        "64": "/PNG/64/Data/radar_plot-64.png",
+        "24": "/PNG/24/Data/radar_plot-24.png",
+        "96": "/PNG/96/Data/radar_plot-96.png",
+        "48": "/PNG/48/Data/radar_plot-48.png"
       }
     }
   },
@@ -27536,6 +27887,33 @@
         "24": "/PNG/24/Clothing/scarf-24.png",
         "96": "/PNG/96/Clothing/scarf-96.png",
         "48": "/PNG/48/Clothing/scarf-48.png"
+      }
+    }
+  },
+  {
+    "id": 4995,
+    "name": "scatter_plot",
+    "platform": "Android",
+    "category": "Data",
+    "created": 1402491083,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Data/scatter_plot.svg",
+      "svg.simplified": "/SVG_for_Font/Data/scatter_plot.svg",
+      "eps": "/EPS/Data/scatter_plot.eps",
+      "png": {
+        "32": "/PNG/32/Data/scatter_plot-32.png",
+        "128": "/PNG/128/Data/scatter_plot-128.png",
+        "256": "/PNG/256/Data/scatter_plot-256.png",
+        "36": "/PNG/36/Data/scatter_plot-36.png",
+        "512": "/PNG/512/Data/scatter_plot-512.png",
+        "64": "/PNG/64/Data/scatter_plot-64.png",
+        "24": "/PNG/24/Data/scatter_plot-24.png",
+        "96": "/PNG/96/Data/scatter_plot-96.png",
+        "48": "/PNG/48/Data/scatter_plot-48.png"
       }
     }
   },
@@ -37711,6 +38089,33 @@
         "24": "/PNG/24/Users/worker-24.png",
         "96": "/PNG/96/Users/worker-96.png",
         "48": "/PNG/48/Users/worker-48.png"
+      }
+    }
+  },
+  {
+    "id": 5001,
+    "name": "workflow",
+    "platform": "Android",
+    "category": "Data",
+    "created": 1402491083,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Data/workflow.svg",
+      "svg.simplified": "/SVG_for_Font/Data/workflow.svg",
+      "eps": "/EPS/Data/workflow.eps",
+      "png": {
+        "32": "/PNG/32/Data/workflow-32.png",
+        "128": "/PNG/128/Data/workflow-128.png",
+        "256": "/PNG/256/Data/workflow-256.png",
+        "36": "/PNG/36/Data/workflow-36.png",
+        "512": "/PNG/512/Data/workflow-512.png",
+        "64": "/PNG/64/Data/workflow-64.png",
+        "24": "/PNG/24/Data/workflow-24.png",
+        "96": "/PNG/96/Data/workflow-96.png",
+        "48": "/PNG/48/Data/workflow-48.png"
       }
     }
   },

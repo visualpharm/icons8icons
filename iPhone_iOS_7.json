@@ -16096,31 +16096,6 @@
     }
   },
   {
-    "id": 2867,
-    "name": "donut_chart",
-    "platform": "iPhone/iOS 7",
-    "category": "Data",
-    "created": 1390342414,
-    "tags": [
-      "umbrella"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Data/donut_chart.svg",
-      "eps": "/EPS/Data/donut_chart.eps",
-      "png": {
-        "25": "/PNG/25/Data/donut_chart-25.png",
-        "32": "/PNG/32/Data/donut_chart-32.png",
-        "128": "/PNG/128/Data/donut_chart-128.png",
-        "75": "/PNG/75/Data/donut_chart-75.png",
-        "256": "/PNG/256/Data/donut_chart-256.png",
-        "100": "/PNG/100/Data/donut_chart-100.png",
-        "512": "/PNG/512/Data/donut_chart-512.png",
-        "50": "/PNG/50/Data/donut_chart-50.png"
-      }
-    }
-  },
-  {
     "id": 1855,
     "name": "double_tap",
     "platform": "iPhone/iOS 7",
@@ -24754,7 +24729,8 @@
       "photo",
       "stop",
       "hand",
-      "forbidden"
+      "forbidden",
+      "fist"
     ],
     "copyright": false,
     "files": {
@@ -26727,10 +26703,10 @@
     "tags": [
       "equipment",
       "connection",
-      "hub",
       "communications technology",
       "computer part",
-      "equipments"
+      "equipments",
+      "hub"
     ],
     "copyright": false,
     "files": {
@@ -33060,6 +33036,7 @@
     "category": "Messaging",
     "created": 1371509057,
     "tags": [
+      "check",
       "location",
       "inbox",
       "phone",
@@ -33521,6 +33498,7 @@
       "minus",
       "numbers",
       "sign",
+      "email",
       "mathematics",
       "mathematical symbol",
       "calculator button",
@@ -39296,31 +39274,6 @@
         "100": "/PNG/100/Programming/php-100.png",
         "512": "/PNG/512/Programming/php-512.png",
         "50": "/PNG/50/Programming/php-50.png"
-      }
-    }
-  },
-  {
-    "id": 4989,
-    "name": "php_data",
-    "platform": "iPhone/iOS 7",
-    "category": "Programming",
-    "created": 1402447892,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Programming/php_data.svg",
-      "eps": "/EPS/Programming/php_data.eps",
-      "png": {
-        "25": "/PNG/25/Programming/php_data-25.png",
-        "32": "/PNG/32/Programming/php_data-32.png",
-        "128": "/PNG/128/Programming/php_data-128.png",
-        "75": "/PNG/75/Programming/php_data-75.png",
-        "256": "/PNG/256/Programming/php_data-256.png",
-        "100": "/PNG/100/Programming/php_data-100.png",
-        "512": "/PNG/512/Programming/php_data-512.png",
-        "50": "/PNG/50/Programming/php_data-50.png"
       }
     }
   },
@@ -47058,17 +47011,17 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Travel/sea_waves.svg",
-      "svg.simplified": "/SVG_for_Font/Animals/sea_waves.svg",
-      "eps": "/EPS/Animals/sea_waves.eps",
+      "svg.simplified": "/SVG_for_Font/Travel/sea_waves.svg",
+      "eps": "/EPS/Travel/sea_waves.eps",
       "png": {
-        "25": "/PNG/25/Animals/sea_waves-25.png",
-        "32": "/PNG/32/Animals/sea_waves-32.png",
-        "128": "/PNG/128/Animals/sea_waves-128.png",
-        "75": "/PNG/75/Animals/sea_waves-75.png",
-        "256": "/PNG/256/Animals/sea_waves-256.png",
-        "100": "/PNG/100/Animals/sea_waves-100.png",
-        "512": "/PNG/512/Animals/sea_waves-512.png",
-        "50": "/PNG/50/Animals/sea_waves-50.png"
+        "25": "/PNG/25/Travel/sea_waves-25.png",
+        "32": "/PNG/32/Travel/sea_waves-32.png",
+        "128": "/PNG/128/Travel/sea_waves-128.png",
+        "75": "/PNG/75/Travel/sea_waves-75.png",
+        "256": "/PNG/256/Travel/sea_waves-256.png",
+        "100": "/PNG/100/Travel/sea_waves-100.png",
+        "512": "/PNG/512/Travel/sea_waves-512.png",
+        "50": "/PNG/50/Travel/sea_waves-50.png"
       }
     }
   },
