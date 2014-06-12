@@ -2264,6 +2264,7 @@
       "chart",
       "graph",
       "statistics",
+      "settings",
       "setting",
       "bill",
       "term",
@@ -45025,7 +45026,6 @@
       "network",
       "sign",
       "stop",
-      "hand",
       "allow",
       "disallow",
       "everyone",
@@ -45033,7 +45033,8 @@
       "choice",
       "china",
       "russia",
-      "wikileaks"
+      "wikileaks",
+      "car windo"
     ],
     "copyright": false,
     "files": {
@@ -54582,6 +54583,7 @@
       "seminal fluid",
       "uterus",
       "infertility",
+      "sdsds",
       "semen",
       "reproduction",
       "cryobank",
