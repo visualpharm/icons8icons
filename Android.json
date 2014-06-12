@@ -2594,6 +2594,60 @@
     }
   },
   {
+    "id": 5012,
+    "name": "barber_chair",
+    "platform": "Android",
+    "category": "Hair",
+    "created": 1402577532,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Hair/barber_chair.svg",
+      "svg.simplified": "/SVG_for_Font/Hair/barber_chair.svg",
+      "eps": "/EPS/Hair/barber_chair.eps",
+      "png": {
+        "32": "/PNG/32/Hair/barber_chair-32.png",
+        "128": "/PNG/128/Hair/barber_chair-128.png",
+        "256": "/PNG/256/Hair/barber_chair-256.png",
+        "36": "/PNG/36/Hair/barber_chair-36.png",
+        "512": "/PNG/512/Hair/barber_chair-512.png",
+        "64": "/PNG/64/Hair/barber_chair-64.png",
+        "24": "/PNG/24/Hair/barber_chair-24.png",
+        "96": "/PNG/96/Hair/barber_chair-96.png",
+        "48": "/PNG/48/Hair/barber_chair-48.png"
+      }
+    }
+  },
+  {
+    "id": 5018,
+    "name": "barber_pole",
+    "platform": "Android",
+    "category": "Hair",
+    "created": 1402577532,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Hair/barber_pole.svg",
+      "svg.simplified": "/SVG_for_Font/Hair/barber_pole.svg",
+      "eps": "/EPS/Hair/barber_pole.eps",
+      "png": {
+        "32": "/PNG/32/Hair/barber_pole-32.png",
+        "128": "/PNG/128/Hair/barber_pole-128.png",
+        "256": "/PNG/256/Hair/barber_pole-256.png",
+        "36": "/PNG/36/Hair/barber_pole-36.png",
+        "512": "/PNG/512/Hair/barber_pole-512.png",
+        "64": "/PNG/64/Hair/barber_pole-64.png",
+        "24": "/PNG/24/Hair/barber_pole-24.png",
+        "96": "/PNG/96/Hair/barber_pole-96.png",
+        "48": "/PNG/48/Hair/barber_pole-48.png"
+      }
+    }
+  },
+  {
     "id": 3340,
     "name": "barcode",
     "platform": "Android",
@@ -8268,6 +8322,33 @@
     }
   },
   {
+    "id": 5013,
+    "name": "comb",
+    "platform": "Android",
+    "category": "Hair",
+    "created": 1402577532,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Hair/comb.svg",
+      "svg.simplified": "/SVG_for_Font/Hair/comb.svg",
+      "eps": "/EPS/Hair/comb.eps",
+      "png": {
+        "32": "/PNG/32/Hair/comb-32.png",
+        "128": "/PNG/128/Hair/comb-128.png",
+        "256": "/PNG/256/Hair/comb-256.png",
+        "36": "/PNG/36/Hair/comb-36.png",
+        "512": "/PNG/512/Hair/comb-512.png",
+        "64": "/PNG/64/Hair/comb-64.png",
+        "24": "/PNG/24/Hair/comb-24.png",
+        "96": "/PNG/96/Hair/comb-96.png",
+        "48": "/PNG/48/Hair/comb-48.png"
+      }
+    }
+  },
+  {
     "id": 4991,
     "name": "combo",
     "platform": "Android",
@@ -10173,6 +10254,7 @@
       "tasty",
       "meal",
       "delicious",
+      "travel",
       "flat",
       "menu",
       "apartment",
@@ -15763,6 +15845,33 @@
     }
   },
   {
+    "id": 5019,
+    "name": "goatee",
+    "platform": "Android",
+    "category": "Hair",
+    "created": 1402577532,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Hair/goatee.svg",
+      "svg.simplified": "/SVG_for_Font/Hair/goatee.svg",
+      "eps": "/EPS/Hair/goatee.eps",
+      "png": {
+        "32": "/PNG/32/Hair/goatee-32.png",
+        "128": "/PNG/128/Hair/goatee-128.png",
+        "256": "/PNG/256/Hair/goatee-256.png",
+        "36": "/PNG/36/Hair/goatee-36.png",
+        "512": "/PNG/512/Hair/goatee-512.png",
+        "64": "/PNG/64/Hair/goatee-64.png",
+        "24": "/PNG/24/Hair/goatee-24.png",
+        "96": "/PNG/96/Hair/goatee-96.png",
+        "48": "/PNG/48/Hair/goatee-48.png"
+      }
+    }
+  },
+  {
     "id": 4420,
     "name": "google_alerts",
     "platform": "Android",
@@ -16757,6 +16866,168 @@
         "24": "/PNG/24/Sports/guru-24.png",
         "96": "/PNG/96/Sports/guru-96.png",
         "48": "/PNG/48/Sports/guru-48.png"
+      }
+    }
+  },
+  {
+    "id": 5024,
+    "name": "hair_band",
+    "platform": "Android",
+    "category": "Hair",
+    "created": 1402577532,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Hair/hair_band.svg",
+      "svg.simplified": "/SVG_for_Font/Hair/hair_band.svg",
+      "eps": "/EPS/Hair/hair_band.eps",
+      "png": {
+        "32": "/PNG/32/Hair/hair_band-32.png",
+        "128": "/PNG/128/Hair/hair_band-128.png",
+        "256": "/PNG/256/Hair/hair_band-256.png",
+        "36": "/PNG/36/Hair/hair_band-36.png",
+        "512": "/PNG/512/Hair/hair_band-512.png",
+        "64": "/PNG/64/Hair/hair_band-64.png",
+        "24": "/PNG/24/Hair/hair_band-24.png",
+        "96": "/PNG/96/Hair/hair_band-96.png",
+        "48": "/PNG/48/Hair/hair_band-48.png"
+      }
+    }
+  },
+  {
+    "id": 5020,
+    "name": "hair_brush",
+    "platform": "Android",
+    "category": "Hair",
+    "created": 1402577532,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Hair/hair_brush.svg",
+      "svg.simplified": "/SVG_for_Font/Hair/hair_brush.svg",
+      "eps": "/EPS/Hair/hair_brush.eps",
+      "png": {
+        "32": "/PNG/32/Hair/hair_brush-32.png",
+        "128": "/PNG/128/Hair/hair_brush-128.png",
+        "256": "/PNG/256/Hair/hair_brush-256.png",
+        "36": "/PNG/36/Hair/hair_brush-36.png",
+        "512": "/PNG/512/Hair/hair_brush-512.png",
+        "64": "/PNG/64/Hair/hair_brush-64.png",
+        "24": "/PNG/24/Hair/hair_brush-24.png",
+        "96": "/PNG/96/Hair/hair_brush-96.png",
+        "48": "/PNG/48/Hair/hair_brush-48.png"
+      }
+    }
+  },
+  {
+    "id": 5023,
+    "name": "hair_clip",
+    "platform": "Android",
+    "category": "Hair",
+    "created": 1402577532,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Hair/hair_clip.svg",
+      "svg.simplified": "/SVG_for_Font/Hair/hair_clip.svg",
+      "eps": "/EPS/Hair/hair_clip.eps",
+      "png": {
+        "32": "/PNG/32/Hair/hair_clip-32.png",
+        "128": "/PNG/128/Hair/hair_clip-128.png",
+        "256": "/PNG/256/Hair/hair_clip-256.png",
+        "36": "/PNG/36/Hair/hair_clip-36.png",
+        "512": "/PNG/512/Hair/hair_clip-512.png",
+        "64": "/PNG/64/Hair/hair_clip-64.png",
+        "24": "/PNG/24/Hair/hair_clip-24.png",
+        "96": "/PNG/96/Hair/hair_clip-96.png",
+        "48": "/PNG/48/Hair/hair_clip-48.png"
+      }
+    }
+  },
+  {
+    "id": 5016,
+    "name": "hair_dryer",
+    "platform": "Android",
+    "category": "Hair",
+    "created": 1402577532,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Hair/hair_dryer.svg",
+      "svg.simplified": "/SVG_for_Font/Hair/hair_dryer.svg",
+      "eps": "/EPS/Hair/hair_dryer.eps",
+      "png": {
+        "32": "/PNG/32/Hair/hair_dryer-32.png",
+        "128": "/PNG/128/Hair/hair_dryer-128.png",
+        "256": "/PNG/256/Hair/hair_dryer-256.png",
+        "36": "/PNG/36/Hair/hair_dryer-36.png",
+        "512": "/PNG/512/Hair/hair_dryer-512.png",
+        "64": "/PNG/64/Hair/hair_dryer-64.png",
+        "24": "/PNG/24/Hair/hair_dryer-24.png",
+        "96": "/PNG/96/Hair/hair_dryer-96.png",
+        "48": "/PNG/48/Hair/hair_dryer-48.png"
+      }
+    }
+  },
+  {
+    "id": 5021,
+    "name": "hair_scissors",
+    "platform": "Android",
+    "category": "Hair",
+    "created": 1402577532,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Hair/hair_scissors.svg",
+      "svg.simplified": "/SVG_for_Font/Hair/hair_scissors.svg",
+      "eps": "/EPS/Hair/hair_scissors.eps",
+      "png": {
+        "32": "/PNG/32/Hair/hair_scissors-32.png",
+        "128": "/PNG/128/Hair/hair_scissors-128.png",
+        "256": "/PNG/256/Hair/hair_scissors-256.png",
+        "36": "/PNG/36/Hair/hair_scissors-36.png",
+        "512": "/PNG/512/Hair/hair_scissors-512.png",
+        "64": "/PNG/64/Hair/hair_scissors-64.png",
+        "24": "/PNG/24/Hair/hair_scissors-24.png",
+        "96": "/PNG/96/Hair/hair_scissors-96.png",
+        "48": "/PNG/48/Hair/hair_scissors-48.png"
+      }
+    }
+  },
+  {
+    "id": 5022,
+    "name": "hair_washing_sink",
+    "platform": "Android",
+    "category": "Hair",
+    "created": 1402577532,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Hair/hair_washing_sink.svg",
+      "svg.simplified": "/SVG_for_Font/Hair/hair_washing_sink.svg",
+      "eps": "/EPS/Hair/hair_washing_sink.eps",
+      "png": {
+        "32": "/PNG/32/Hair/hair_washing_sink-32.png",
+        "128": "/PNG/128/Hair/hair_washing_sink-128.png",
+        "256": "/PNG/256/Hair/hair_washing_sink-256.png",
+        "36": "/PNG/36/Hair/hair_washing_sink-36.png",
+        "512": "/PNG/512/Hair/hair_washing_sink-512.png",
+        "64": "/PNG/64/Hair/hair_washing_sink-64.png",
+        "24": "/PNG/24/Hair/hair_washing_sink-24.png",
+        "96": "/PNG/96/Hair/hair_washing_sink-96.png",
+        "48": "/PNG/48/Hair/hair_washing_sink-48.png"
       }
     }
   },
@@ -19723,9 +19994,9 @@
       "flat",
       "apartment",
       "interior",
-      "domestic",
       "living space",
-      "accommodation"
+      "accommodation",
+      "domestic"
     ],
     "copyright": false,
     "files": {
@@ -21160,6 +21431,33 @@
         "24": "/PNG/24/Household/log_cabin-24.png",
         "96": "/PNG/96/Household/log_cabin-96.png",
         "48": "/PNG/48/Household/log_cabin-48.png"
+      }
+    }
+  },
+  {
+    "id": 5011,
+    "name": "long_beard",
+    "platform": "Android",
+    "category": "Hair",
+    "created": 1402577532,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Hair/long_beard.svg",
+      "svg.simplified": "/SVG_for_Font/Hair/long_beard.svg",
+      "eps": "/EPS/Hair/long_beard.eps",
+      "png": {
+        "32": "/PNG/32/Hair/long_beard-32.png",
+        "128": "/PNG/128/Hair/long_beard-128.png",
+        "256": "/PNG/256/Hair/long_beard-256.png",
+        "36": "/PNG/36/Hair/long_beard-36.png",
+        "512": "/PNG/512/Hair/long_beard-512.png",
+        "64": "/PNG/64/Hair/long_beard-64.png",
+        "24": "/PNG/24/Hair/long_beard-24.png",
+        "96": "/PNG/96/Hair/long_beard-96.png",
+        "48": "/PNG/48/Hair/long_beard-48.png"
       }
     }
   },
@@ -24098,6 +24396,33 @@
         "24": "/PNG/24/Music/music_record-24.png",
         "96": "/PNG/96/Music/music_record-96.png",
         "48": "/PNG/48/Music/music_record-48.png"
+      }
+    }
+  },
+  {
+    "id": 5027,
+    "name": "mustache",
+    "platform": "Android",
+    "category": "Hair",
+    "created": 1402577532,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Hair/mustache.svg",
+      "svg.simplified": "/SVG_for_Font/Hair/mustache.svg",
+      "eps": "/EPS/Hair/mustache.eps",
+      "png": {
+        "32": "/PNG/32/Hair/mustache-32.png",
+        "128": "/PNG/128/Hair/mustache-128.png",
+        "256": "/PNG/256/Hair/mustache-256.png",
+        "36": "/PNG/36/Hair/mustache-36.png",
+        "512": "/PNG/512/Hair/mustache-512.png",
+        "64": "/PNG/64/Hair/mustache-64.png",
+        "24": "/PNG/24/Hair/mustache-24.png",
+        "96": "/PNG/96/Hair/mustache-96.png",
+        "48": "/PNG/48/Hair/mustache-48.png"
       }
     }
   },
@@ -31205,6 +31530,33 @@
     }
   },
   {
+    "id": 5015,
+    "name": "scrunchy",
+    "platform": "Android",
+    "category": "Hair",
+    "created": 1402577532,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Hair/scrunchy.svg",
+      "svg.simplified": "/SVG_for_Font/Hair/scrunchy.svg",
+      "eps": "/EPS/Hair/scrunchy.eps",
+      "png": {
+        "32": "/PNG/32/Hair/scrunchy-32.png",
+        "128": "/PNG/128/Hair/scrunchy-128.png",
+        "256": "/PNG/256/Hair/scrunchy-256.png",
+        "36": "/PNG/36/Hair/scrunchy-36.png",
+        "512": "/PNG/512/Hair/scrunchy-512.png",
+        "64": "/PNG/64/Hair/scrunchy-64.png",
+        "24": "/PNG/24/Hair/scrunchy-24.png",
+        "96": "/PNG/96/Hair/scrunchy-96.png",
+        "48": "/PNG/48/Hair/scrunchy-48.png"
+      }
+    }
+  },
+  {
     "id": 4812,
     "name": "scythe",
     "platform": "Android",
@@ -32095,6 +32447,33 @@
     }
   },
   {
+    "id": 5026,
+    "name": "short_beard",
+    "platform": "Android",
+    "category": "Hair",
+    "created": 1402577532,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Hair/short_beard.svg",
+      "svg.simplified": "/SVG_for_Font/Hair/short_beard.svg",
+      "eps": "/EPS/Hair/short_beard.eps",
+      "png": {
+        "32": "/PNG/32/Hair/short_beard-32.png",
+        "128": "/PNG/128/Hair/short_beard-128.png",
+        "256": "/PNG/256/Hair/short_beard-256.png",
+        "36": "/PNG/36/Hair/short_beard-36.png",
+        "512": "/PNG/512/Hair/short_beard-512.png",
+        "64": "/PNG/64/Hair/short_beard-64.png",
+        "24": "/PNG/24/Hair/short_beard-24.png",
+        "96": "/PNG/96/Hair/short_beard-96.png",
+        "48": "/PNG/48/Hair/short_beard-48.png"
+      }
+    }
+  },
+  {
     "id": 4002,
     "name": "shoulders",
     "platform": "Android",
@@ -32254,6 +32633,33 @@
         "24": "/PNG/24/DIY/sickle-24.png",
         "96": "/PNG/96/DIY/sickle-96.png",
         "48": "/PNG/48/DIY/sickle-48.png"
+      }
+    }
+  },
+  {
+    "id": 5017,
+    "name": "sideburns",
+    "platform": "Android",
+    "category": "Hair",
+    "created": 1402577532,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Hair/sideburns.svg",
+      "svg.simplified": "/SVG_for_Font/Hair/sideburns.svg",
+      "eps": "/EPS/Hair/sideburns.eps",
+      "png": {
+        "32": "/PNG/32/Hair/sideburns-32.png",
+        "128": "/PNG/128/Hair/sideburns-128.png",
+        "256": "/PNG/256/Hair/sideburns-256.png",
+        "36": "/PNG/36/Hair/sideburns-36.png",
+        "512": "/PNG/512/Hair/sideburns-512.png",
+        "64": "/PNG/64/Hair/sideburns-64.png",
+        "24": "/PNG/24/Hair/sideburns-24.png",
+        "96": "/PNG/96/Hair/sideburns-96.png",
+        "48": "/PNG/48/Hair/sideburns-48.png"
       }
     }
   },
@@ -33721,7 +34127,10 @@
     "category": "Measurement Units",
     "created": 1397249506,
     "tags": [
-      "skin"
+      "gauge",
+      "skin",
+      "meter",
+      "speed"
     ],
     "copyright": false,
     "files": {
@@ -34862,6 +35271,33 @@
         "24": "/PNG/24/Baby/stroller-24.png",
         "96": "/PNG/96/Baby/stroller-96.png",
         "48": "/PNG/48/Baby/stroller-48.png"
+      }
+    }
+  },
+  {
+    "id": 5025,
+    "name": "stubble",
+    "platform": "Android",
+    "category": "Hair",
+    "created": 1402577532,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Hair/stubble.svg",
+      "svg.simplified": "/SVG_for_Font/Hair/stubble.svg",
+      "eps": "/EPS/Hair/stubble.eps",
+      "png": {
+        "32": "/PNG/32/Hair/stubble-32.png",
+        "128": "/PNG/128/Hair/stubble-128.png",
+        "256": "/PNG/256/Hair/stubble-256.png",
+        "36": "/PNG/36/Hair/stubble-36.png",
+        "512": "/PNG/512/Hair/stubble-512.png",
+        "64": "/PNG/64/Hair/stubble-64.png",
+        "24": "/PNG/24/Hair/stubble-24.png",
+        "96": "/PNG/96/Hair/stubble-96.png",
+        "48": "/PNG/48/Hair/stubble-48.png"
       }
     }
   },
@@ -40089,6 +40525,33 @@
         "24": "/PNG/24/Travel/us_capitol-24.png",
         "96": "/PNG/96/Travel/us_capitol-96.png",
         "48": "/PNG/48/Travel/us_capitol-48.png"
+      }
+    }
+  },
+  {
+    "id": 5014,
+    "name": "van_dyke",
+    "platform": "Android",
+    "category": "Hair",
+    "created": 1402577532,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Hair/van_dyke.svg",
+      "svg.simplified": "/SVG_for_Font/Hair/van_dyke.svg",
+      "eps": "/EPS/Hair/van_dyke.eps",
+      "png": {
+        "32": "/PNG/32/Hair/van_dyke-32.png",
+        "128": "/PNG/128/Hair/van_dyke-128.png",
+        "256": "/PNG/256/Hair/van_dyke-256.png",
+        "36": "/PNG/36/Hair/van_dyke-36.png",
+        "512": "/PNG/512/Hair/van_dyke-512.png",
+        "64": "/PNG/64/Hair/van_dyke-64.png",
+        "24": "/PNG/24/Hair/van_dyke-24.png",
+        "96": "/PNG/96/Hair/van_dyke-96.png",
+        "48": "/PNG/48/Hair/van_dyke-48.png"
       }
     }
   },

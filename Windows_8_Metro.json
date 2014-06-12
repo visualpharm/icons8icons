@@ -7373,7 +7373,6 @@
       "request",
       "bell",
       "steel",
-      "color",
       "catering",
       "metal",
       "diet",
@@ -7403,7 +7402,8 @@
       "storing",
       "plateful",
       "bakery",
-      "pantry"
+      "pantry",
+      "chafi"
     ],
     "copyright": false,
     "files": {
@@ -9542,7 +9542,8 @@
       "network",
       "broadcasting",
       "it infrastructure",
-      "selection"
+      "selection",
+      "sdfsdf"
     ],
     "copyright": false,
     "files": {
@@ -31815,6 +31816,7 @@
     "category": "Business",
     "created": 1359380290,
     "tags": [
+      "add",
       "hat",
       "success",
       "diploma",
@@ -47057,34 +47059,6 @@
     }
   },
   {
-    "id": 452,
-    "name": "newspaper",
-    "platform": "Windows 8/Metro",
-    "category": "Printing",
-    "created": 1325168663,
-    "tags": [
-      "library",
-      "pages",
-      "printed matter",
-      "news",
-      "newspaper"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Printing/newspaper.svg",
-      "eps": "/EPS/Printing/newspaper.eps",
-      "png": {
-        "32": "/PNG/32/Printing/newspaper-32.png",
-        "128": "/PNG/128/Printing/newspaper-128.png",
-        "26": "/PNG/26/Printing/newspaper-26.png",
-        "256": "/PNG/256/Printing/newspaper-256.png",
-        "512": "/PNG/512/Printing/newspaper-512.png",
-        "64": "/PNG/64/Printing/newspaper-64.png",
-        "48": "/PNG/48/Printing/newspaper-48.png"
-      }
-    }
-  },
-  {
     "id": 3111,
     "name": "new_moon",
     "platform": "Windows 8/Metro",
@@ -52775,6 +52749,7 @@
       "event",
       "today",
       "task",
+      "min",
       "computer"
     ],
     "copyright": false,
@@ -56857,6 +56832,7 @@
     "tags": [
       "water",
       "weather",
+      "news",
       "umbrella",
       "wet",
       "indoors",
