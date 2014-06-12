@@ -13291,6 +13291,7 @@
       "menu",
       "job",
       "schedule",
+      "price",
       "task",
       "checklist",
       "complete",
@@ -50489,6 +50490,7 @@
       "paper",
       "arrow",
       "photos",
+      "computer",
       "social",
       "paper plane"
     ],
