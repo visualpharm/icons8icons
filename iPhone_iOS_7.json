@@ -12945,6 +12945,7 @@
       "suit",
       "radio",
       "face",
+      "wheelbarrow",
       "avatar",
       "people icons"
     ],
@@ -28257,6 +28258,7 @@
     "created": 1390342414,
     "tags": [
       "office",
+      "news",
       "order",
       "ofice icon"
     ],
@@ -29070,6 +29072,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Very_Basic/icons8_cup.svg",
+      "svg.simplified": "/SVG_for_Font/Very_Basic/icons8_cup.svg",
       "eps": "/EPS/Very_Basic/icons8_cup.eps",
       "png": {
         "25": "/PNG/25/Very_Basic/icons8_cup-25.png",
