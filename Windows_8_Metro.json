@@ -9463,6 +9463,48 @@
     }
   },
   {
+    "id": 5032,
+    "name": "bridge",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1402923076,
+    "tags": [
+      "sea",
+      "link",
+      "water",
+      "connection",
+      "pathway",
+      "wall",
+      "bridge",
+      "passage",
+      "platform",
+      "river",
+      "waves",
+      "valley",
+      "pillar",
+      "transit",
+      "throughway",
+      "junction",
+      "overpass",
+      "roadway",
+      "hand rails"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/bridge.svg",
+      "eps": "/EPS/City/bridge.eps",
+      "png": {
+        "32": "/PNG/32/City/bridge-32.png",
+        "128": "/PNG/128/City/bridge-128.png",
+        "26": "/PNG/26/City/bridge-26.png",
+        "256": "/PNG/256/City/bridge-256.png",
+        "512": "/PNG/512/City/bridge-512.png",
+        "64": "/PNG/64/City/bridge-64.png",
+        "48": "/PNG/48/City/bridge-48.png"
+      }
+    }
+  },
+  {
     "id": 481,
     "name": "briefcase",
     "platform": "Windows 8/Metro",
@@ -27132,6 +27174,47 @@
     }
   },
   {
+    "id": 5030,
+    "name": "fire_station",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1402923076,
+    "tags": [
+      "home",
+      "fire",
+      "help",
+      "emergency",
+      "label",
+      "station",
+      "warning",
+      "safety",
+      "building",
+      "caution",
+      "service",
+      "plan",
+      "department",
+      "rescue",
+      "burning",
+      "firefighter",
+      "disaster",
+      "fire station"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/fire_station.svg",
+      "eps": "/EPS/City/fire_station.eps",
+      "png": {
+        "32": "/PNG/32/City/fire_station-32.png",
+        "128": "/PNG/128/City/fire_station-128.png",
+        "26": "/PNG/26/City/fire_station-26.png",
+        "256": "/PNG/256/City/fire_station-256.png",
+        "512": "/PNG/512/City/fire_station-512.png",
+        "64": "/PNG/64/City/fire_station-64.png",
+        "48": "/PNG/48/City/fire_station-48.png"
+      }
+    }
+  },
+  {
     "id": 2196,
     "name": "firing_gun",
     "platform": "Windows 8/Metro",
@@ -35413,6 +35496,30 @@
         "512": "/PNG/512/Alphabet/I-512.png",
         "64": "/PNG/64/Alphabet/I-64.png",
         "48": "/PNG/48/Alphabet/I-48.png"
+      }
+    }
+  },
+  {
+    "id": 5028,
+    "name": "icons8_cup",
+    "platform": "Windows 8/Metro",
+    "category": "Very Basic",
+    "created": 1402923076,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Very_Basic/icons8_cup.svg",
+      "eps": "/EPS/Very_Basic/icons8_cup.eps",
+      "png": {
+        "32": "/PNG/32/Very_Basic/icons8_cup-32.png",
+        "128": "/PNG/128/Very_Basic/icons8_cup-128.png",
+        "26": "/PNG/26/Very_Basic/icons8_cup-26.png",
+        "256": "/PNG/256/Very_Basic/icons8_cup-256.png",
+        "512": "/PNG/512/Very_Basic/icons8_cup-512.png",
+        "64": "/PNG/64/Very_Basic/icons8_cup-64.png",
+        "48": "/PNG/48/Very_Basic/icons8_cup-48.png"
       }
     }
   },
@@ -53730,6 +53837,49 @@
     }
   },
   {
+    "id": 5034,
+    "name": "police_station",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1402923076,
+    "tags": [
+      "home",
+      "roof",
+      "help",
+      "star",
+      "emergency",
+      "badge",
+      "id",
+      "safety",
+      "logo",
+      "police",
+      "shield",
+      "identification",
+      "medal",
+      "seal",
+      "police station",
+      "contact police",
+      "emergency procedures",
+      "emergency information",
+      "emergency contact",
+      "police address"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/police_station.svg",
+      "eps": "/EPS/City/police_station.eps",
+      "png": {
+        "32": "/PNG/32/City/police_station-32.png",
+        "128": "/PNG/128/City/police_station-128.png",
+        "26": "/PNG/26/City/police_station-26.png",
+        "256": "/PNG/256/City/police_station-256.png",
+        "512": "/PNG/512/City/police_station-512.png",
+        "64": "/PNG/64/City/police_station-64.png",
+        "48": "/PNG/48/City/police_station-48.png"
+      }
+    }
+  },
+  {
     "id": 1197,
     "name": "polish_cloth",
     "platform": "Windows 8/Metro",
@@ -57448,6 +57598,7 @@
       "personal computer",
       "reload",
       "cerrar session",
+      "Propaganda",
       "refresh"
     ],
     "copyright": false,

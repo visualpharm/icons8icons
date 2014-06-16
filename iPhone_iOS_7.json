@@ -6577,6 +6577,49 @@
     }
   },
   {
+    "id": 5033,
+    "name": "bridge",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1402923076,
+    "tags": [
+      "sea",
+      "link",
+      "water",
+      "connection",
+      "pathway",
+      "wall",
+      "bridge",
+      "passage",
+      "platform",
+      "river",
+      "waves",
+      "valley",
+      "pillar",
+      "transit",
+      "throughway",
+      "junction",
+      "overpass",
+      "roadway",
+      "hand rails"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/bridge.svg",
+      "eps": "/EPS/City/bridge.eps",
+      "png": {
+        "25": "/PNG/25/City/bridge-25.png",
+        "32": "/PNG/32/City/bridge-32.png",
+        "128": "/PNG/128/City/bridge-128.png",
+        "75": "/PNG/75/City/bridge-75.png",
+        "256": "/PNG/256/City/bridge-256.png",
+        "100": "/PNG/100/City/bridge-100.png",
+        "512": "/PNG/512/City/bridge-512.png",
+        "50": "/PNG/50/City/bridge-50.png"
+      }
+    }
+  },
+  {
     "id": 482,
     "name": "briefcase",
     "platform": "iPhone/iOS 7",
@@ -21990,6 +22033,48 @@
     }
   },
   {
+    "id": 5031,
+    "name": "fire_station",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1402923076,
+    "tags": [
+      "home",
+      "fire",
+      "help",
+      "emergency",
+      "label",
+      "station",
+      "warning",
+      "safety",
+      "building",
+      "caution",
+      "service",
+      "plan",
+      "department",
+      "rescue",
+      "burning",
+      "firefighter",
+      "disaster",
+      "fire station"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/fire_station.svg",
+      "eps": "/EPS/City/fire_station.eps",
+      "png": {
+        "25": "/PNG/25/City/fire_station-25.png",
+        "32": "/PNG/32/City/fire_station-32.png",
+        "128": "/PNG/128/City/fire_station-128.png",
+        "75": "/PNG/75/City/fire_station-75.png",
+        "256": "/PNG/256/City/fire_station-256.png",
+        "100": "/PNG/100/City/fire_station-100.png",
+        "512": "/PNG/512/City/fire_station-512.png",
+        "50": "/PNG/50/City/fire_station-50.png"
+      }
+    }
+  },
+  {
     "id": 2197,
     "name": "firing_gun",
     "platform": "iPhone/iOS 7",
@@ -28958,6 +29043,31 @@
         "100": "/PNG/100/Industry/hydroelectric-100.png",
         "512": "/PNG/512/Industry/hydroelectric-512.png",
         "50": "/PNG/50/Industry/hydroelectric-50.png"
+      }
+    }
+  },
+  {
+    "id": 5029,
+    "name": "icons8_cup",
+    "platform": "iPhone/iOS 7",
+    "category": "Very Basic",
+    "created": 1402923076,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Very_Basic/icons8_cup.svg",
+      "eps": "/EPS/Very_Basic/icons8_cup.eps",
+      "png": {
+        "25": "/PNG/25/Very_Basic/icons8_cup-25.png",
+        "32": "/PNG/32/Very_Basic/icons8_cup-32.png",
+        "128": "/PNG/128/Very_Basic/icons8_cup-128.png",
+        "75": "/PNG/75/Very_Basic/icons8_cup-75.png",
+        "256": "/PNG/256/Very_Basic/icons8_cup-256.png",
+        "100": "/PNG/100/Very_Basic/icons8_cup-100.png",
+        "512": "/PNG/512/Very_Basic/icons8_cup-512.png",
+        "50": "/PNG/50/Very_Basic/icons8_cup-50.png"
       }
     }
   },
@@ -44086,6 +44196,50 @@
         "100": "/PNG/100/Users/policeman-100.png",
         "512": "/PNG/512/Users/policeman-512.png",
         "50": "/PNG/50/Users/policeman-50.png"
+      }
+    }
+  },
+  {
+    "id": 5035,
+    "name": "police_station",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1402923076,
+    "tags": [
+      "home",
+      "roof",
+      "help",
+      "star",
+      "emergency",
+      "badge",
+      "id",
+      "safety",
+      "logo",
+      "police",
+      "shield",
+      "identification",
+      "medal",
+      "seal",
+      "police station",
+      "contact police",
+      "emergency procedures",
+      "emergency information",
+      "emergency contact",
+      "police address"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/police_station.svg",
+      "eps": "/EPS/City/police_station.eps",
+      "png": {
+        "25": "/PNG/25/City/police_station-25.png",
+        "32": "/PNG/32/City/police_station-32.png",
+        "128": "/PNG/128/City/police_station-128.png",
+        "75": "/PNG/75/City/police_station-75.png",
+        "256": "/PNG/256/City/police_station-256.png",
+        "100": "/PNG/100/City/police_station-100.png",
+        "512": "/PNG/512/City/police_station-512.png",
+        "50": "/PNG/50/City/police_station-50.png"
       }
     }
   },
