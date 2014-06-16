@@ -18423,6 +18423,32 @@
     }
   },
   {
+    "id": 5036,
+    "name": "icons8_cup",
+    "platform": "Android",
+    "category": "Very Basic",
+    "created": 1402966275,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Very_Basic/icons8_cup.svg",
+      "eps": "/EPS/Very_Basic/icons8_cup.eps",
+      "png": {
+        "32": "/PNG/32/Very_Basic/icons8_cup-32.png",
+        "128": "/PNG/128/Very_Basic/icons8_cup-128.png",
+        "256": "/PNG/256/Very_Basic/icons8_cup-256.png",
+        "36": "/PNG/36/Very_Basic/icons8_cup-36.png",
+        "512": "/PNG/512/Very_Basic/icons8_cup-512.png",
+        "64": "/PNG/64/Very_Basic/icons8_cup-64.png",
+        "24": "/PNG/24/Very_Basic/icons8_cup-24.png",
+        "96": "/PNG/96/Very_Basic/icons8_cup-96.png",
+        "48": "/PNG/48/Very_Basic/icons8_cup-48.png"
+      }
+    }
+  },
+  {
     "id": 3141,
     "name": "idea",
     "platform": "Android",
