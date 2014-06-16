@@ -5706,6 +5706,7 @@
       "car",
       "speed",
       "travel",
+      "truck",
       "competition"
     ],
     "copyright": false,
@@ -7776,7 +7777,6 @@
       "clone layer",
       "from other cells",
       "commands to monitor",
-      "made from other",
       "two persons",
       "aero mark",
       "future generation",
@@ -16674,6 +16674,7 @@
       "company",
       "brainstorming",
       "department",
+      "judges",
       "users",
       "team",
       "people"
@@ -22008,6 +22009,7 @@
       "navigation",
       "gis",
       "area",
+      "local",
       "navigator",
       "google maps",
       "driving directions",
@@ -24584,7 +24586,7 @@
     "category": "Network",
     "created": 1398883905,
     "tags": [
-
+      "connect"
     ],
     "copyright": false,
     "files": {
@@ -31964,7 +31966,7 @@
     "category": "Very Basic",
     "created": 1396471883,
     "tags": [
-
+      "instagram"
     ],
     "copyright": false,
     "files": {
@@ -32271,7 +32273,8 @@
       "retail",
       "store",
       "location",
-      "shop"
+      "shop",
+      "sales"
     ],
     "copyright": false,
     "files": {
@@ -35672,6 +35675,7 @@
     "created": 1397760709,
     "tags": [
       "athlete",
+      "recreation",
       "competition",
       "championship",
       "physical activity",
@@ -39280,6 +39284,7 @@
       "chord",
       "orchestra",
       "concert",
+      "tv",
       "musician",
       "classical music",
       "composer",
@@ -42999,7 +43004,8 @@
       "mobile",
       "free",
       "sign in",
-      "activity"
+      "activity",
+      "xing"
     ],
     "copyright": false,
     "files": {

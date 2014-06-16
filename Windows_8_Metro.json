@@ -1655,8 +1655,7 @@
       "remove",
       "register",
       "tv",
-      "registration",
-      "edit data"
+      "registration"
     ],
     "copyright": false,
     "files": {
@@ -4091,6 +4090,7 @@
       "direction",
       "right",
       "plus",
+      "refresh",
       "water",
       "next",
       "icon",
@@ -4278,6 +4278,7 @@
       "communication",
       "headset",
       "works",
+      "cycle",
       "support",
       "ask",
       "service",
@@ -5087,7 +5088,8 @@
       "baby feet",
       "birth",
       "nanny",
-      "child care"
+      "child care",
+      "bidgutery"
     ],
     "copyright": false,
     "files": {
@@ -6297,8 +6299,7 @@
       "risk",
       "competition",
       "championship",
-      "physical activity",
-      "olympic"
+      "physical activity"
     ],
     "copyright": false,
     "files": {
@@ -11744,7 +11745,8 @@
       "car",
       "speed",
       "travel",
-      "bike"
+      "bike",
+      "perrson"
     ],
     "copyright": false,
     "files": {
@@ -12171,7 +12173,6 @@
       "metal",
       "service",
       "button",
-      "grey",
       "paying",
       "finance",
       "keypad",
@@ -12185,7 +12186,8 @@
       "shadow",
       "nobody",
       "perspective",
-      "desk"
+      "desk",
+      "digit"
     ],
     "copyright": false,
     "files": {
@@ -12585,7 +12587,6 @@
       "isolated",
       "strategy",
       "geography",
-      "center",
       "perfection",
       "navigation",
       "gis",
@@ -12608,7 +12609,8 @@
       "dartboard",
       "archery",
       "bullseye",
-      "aspira"
+      "aspirations",
+      "b"
     ],
     "copyright": false,
     "files": {
@@ -16627,6 +16629,7 @@
     "category": "Photo and Video",
     "created": 1326886315,
     "tags": [
+      "percentage",
       "image",
       "photo",
       "camera",
@@ -16693,6 +16696,7 @@
     "tags": [
       "direction",
       "guide",
+      "setup",
       "address",
       "maps",
       "signage",
@@ -21949,7 +21953,7 @@
     "category": "Data",
     "created": 1402447892,
     "tags": [
-
+      "chat"
     ],
     "copyright": false,
     "files": {
@@ -22533,6 +22537,7 @@
     "created": 1390996250,
     "tags": [
       "card",
+      "web",
       "music",
       "people",
       "trip",
@@ -23312,6 +23317,7 @@
       "create",
       "house",
       "tool",
+      "share",
       "del",
       "hand writing",
       "draw",
@@ -23363,7 +23369,6 @@
       "document",
       "symbol",
       "documents",
-      "text",
       "page",
       "illustration",
       "graphic",
@@ -23386,7 +23391,8 @@
       "plan",
       "literature",
       "management",
-      "article"
+      "article",
+      "study"
     ],
     "copyright": false,
     "files": {
@@ -25444,7 +25450,7 @@
     "category": "Data",
     "created": 1390342413,
     "tags": [
-
+      "save"
     ],
     "copyright": false,
     "files": {
@@ -26638,10 +26644,10 @@
       "list",
       "administrative tools",
       "find user",
-      "command line",
       "look for",
       "search",
-      "finding"
+      "finding",
+      "command line"
     ],
     "copyright": false,
     "files": {
@@ -33003,7 +33009,8 @@
       "achievement",
       "human arm",
       "reaching",
-      "ring up"
+      "ring up",
+      "text bubble"
     ],
     "copyright": false,
     "files": {
@@ -34084,6 +34091,7 @@
       "user",
       "help",
       "hint",
+      "nurse",
       "question mark",
       "question",
       "external link",
@@ -35569,6 +35577,7 @@
       "JPG",
       "tiff",
       "psd",
+      "market",
       "training"
     ],
     "copyright": false,
@@ -35584,31 +35593,6 @@
         "512": "/PNG/512/Very_Basic/image_file-512.png",
         "64": "/PNG/64/Very_Basic/image_file-64.png",
         "48": "/PNG/48/Very_Basic/image_file-48.png"
-      }
-    }
-  },
-  {
-    "id": 2459,
-    "name": "import",
-    "platform": "Windows 8/Metro",
-    "category": "Data",
-    "created": 1390342413,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Data/import.svg",
-      "svg.simplified": "/SVG_for_Font/Data/import.svg",
-      "eps": "/EPS/Data/import.eps",
-      "png": {
-        "32": "/PNG/32/Data/import-32.png",
-        "128": "/PNG/128/Data/import-128.png",
-        "26": "/PNG/26/Data/import-26.png",
-        "256": "/PNG/256/Data/import-256.png",
-        "512": "/PNG/512/Data/import-512.png",
-        "64": "/PNG/64/Data/import-64.png",
-        "48": "/PNG/48/Data/import-48.png"
       }
     }
   },
@@ -39033,6 +39017,7 @@
     "category": "Science",
     "created": 1377511013,
     "tags": [
+      "arrow",
       "hammer",
       "university",
       "law",
@@ -40105,6 +40090,7 @@
       "statistics",
       "analytics",
       "data",
+      "h",
       "visualization"
     ],
     "copyright": false,
@@ -41956,6 +41942,7 @@
     "category": "Maps",
     "created": 1323086592,
     "tags": [
+      "mail",
       "direction",
       "minus",
       "guide",
@@ -43075,7 +43062,8 @@
       "comms",
       "web",
       "cel",
-      "mc donalds"
+      "mc donalds",
+      "at"
     ],
     "copyright": false,
     "files": {
@@ -44631,6 +44619,7 @@
       "database",
       "gear",
       "computer",
+      "browser",
       "gadget",
       "saerch",
       "geek"
@@ -46637,7 +46626,8 @@
     "created": 1390342413,
     "tags": [
       "folder",
-      "country"
+      "country",
+      "filder"
     ],
     "copyright": false,
     "files": {
@@ -46892,7 +46882,8 @@
     "category": "Network",
     "created": 1342091366,
     "tags": [
-      "network"
+      "network",
+      "data base"
     ],
     "copyright": false,
     "files": {
@@ -49365,6 +49356,7 @@
       "service",
       "constitution",
       "company",
+      "event",
       "firm",
       "office",
       "building"
@@ -52922,6 +52914,7 @@
       "dvd",
       "ipod",
       "remote control",
+      "test",
       "podcast",
       "itunes",
       "resume",
@@ -54062,6 +54055,7 @@
       "positive dynamic",
       "positive",
       "growth",
+      "operator",
       "increase"
     ],
     "copyright": false,
@@ -56063,6 +56057,7 @@
       "white",
       "answers",
       "wondering",
+      "cloud",
       "select",
       "emoticons"
     ],
@@ -58723,10 +58718,10 @@
       "pointer",
       "icons",
       "move",
-      "button",
       "drag",
       "down round",
-      "previoud"
+      "previoud",
+      "button"
     ],
     "copyright": false,
     "files": {
@@ -65430,6 +65425,7 @@
       "idea",
       "light",
       "web",
+      "cart",
       "item",
       "request",
       "solutions",
@@ -73319,13 +73315,13 @@
     "created": 1367869517,
     "tags": [
       "food",
+      "music",
       "vegetable",
       "sign",
       "nature",
       "freshness",
       "healthy eating",
       "organic",
-      "food and drink",
       "biology",
       "beauty and health",
       "tomato",
@@ -75609,7 +75605,8 @@
       "underline",
       "vowel",
       "unique",
-      "spell"
+      "spell",
+      "16"
     ],
     "copyright": false,
     "files": {
@@ -78912,6 +78909,7 @@
     "created": 1328005501,
     "tags": [
       "house",
+      "music",
       "flat",
       "wine",
       "gallery",
@@ -79346,7 +79344,8 @@
       "urban",
       "eel",
       "sea creature",
-      "wayfinding"
+      "wayfinding",
+      "life guard"
     ],
     "copyright": false,
     "files": {
@@ -79868,7 +79867,8 @@
     "category": "Science",
     "created": 1401742282,
     "tags": [
-      "weight"
+      "weight",
+      "grams"
     ],
     "copyright": false,
     "files": {
