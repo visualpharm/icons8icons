@@ -20397,6 +20397,7 @@
       "rush",
       "icon",
       "tear",
+      "stopwatch",
       "competition",
       "championship",
       "race",
@@ -35993,6 +35994,7 @@
       "radio",
       "studio",
       "press",
+      "pic",
       "siri",
       "voice over",
       "singer",
@@ -37069,6 +37071,7 @@
     "tags": [
       "money",
       "coins",
+      "shop",
       "handshake"
     ],
     "copyright": false,
