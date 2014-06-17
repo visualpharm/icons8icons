@@ -25244,6 +25244,31 @@
     }
   },
   {
+    "id": 3741,
+    "name": "excel_logo",
+    "platform": "Windows 8/Metro",
+    "category": "Logos",
+    "created": 1396367495,
+    "tags": [
+      "excel"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Logos/excel_logo.svg",
+      "svg.simplified": "/SVG_for_Font/Logos/excel_logo.svg",
+      "eps": "/EPS/Logos/excel_logo.eps",
+      "png": {
+        "32": "/PNG/32/Logos/excel_logo-32.png",
+        "128": "/PNG/128/Logos/excel_logo-128.png",
+        "26": "/PNG/26/Logos/excel_logo-26.png",
+        "256": "/PNG/256/Logos/excel_logo-256.png",
+        "512": "/PNG/512/Logos/excel_logo-512.png",
+        "64": "/PNG/64/Logos/excel_logo-64.png",
+        "48": "/PNG/48/Logos/excel_logo-48.png"
+      }
+    }
+  },
+  {
     "id": 315,
     "name": "exe",
     "platform": "Windows 8/Metro",
@@ -35626,6 +35651,31 @@
         "512": "/PNG/512/Alphabet/I-512.png",
         "64": "/PNG/64/Alphabet/I-64.png",
         "48": "/PNG/48/Alphabet/I-48.png"
+      }
+    }
+  },
+  {
+    "id": 5028,
+    "name": "icons8_cup",
+    "platform": "Windows 8/Metro",
+    "category": "Very Basic",
+    "created": 1402923076,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Very_Basic/icons8_cup.svg",
+      "svg.simplified": "/SVG_for_Font/Very_Basic/icons8_cup.svg",
+      "eps": "/EPS/Very_Basic/icons8_cup.eps",
+      "png": {
+        "32": "/PNG/32/Very_Basic/icons8_cup-32.png",
+        "128": "/PNG/128/Very_Basic/icons8_cup-128.png",
+        "26": "/PNG/26/Very_Basic/icons8_cup-26.png",
+        "256": "/PNG/256/Very_Basic/icons8_cup-256.png",
+        "512": "/PNG/512/Very_Basic/icons8_cup-512.png",
+        "64": "/PNG/64/Very_Basic/icons8_cup-64.png",
+        "48": "/PNG/48/Very_Basic/icons8_cup-48.png"
       }
     }
   },
@@ -58301,6 +58351,7 @@
       "power buttons",
       "push",
       "regulator",
+      "front",
       "update",
       "geek",
       "try again",
