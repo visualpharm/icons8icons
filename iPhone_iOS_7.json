@@ -13516,7 +13516,6 @@
       "duplicate",
       "file",
       "email",
-      "staging",
       "reading list"
     ],
     "copyright": false,
@@ -29193,7 +29192,9 @@
     "category": "Very Basic",
     "created": 1402923076,
     "tags": [
-
+      "cup",
+      "logo",
+      "coffee"
     ],
     "copyright": false,
     "files": {
@@ -61660,6 +61661,7 @@
     "created": 1402059059,
     "tags": [
       "healthcare",
+      "types",
       "teeth",
       "tooth",
       "molar",
@@ -64493,6 +64495,7 @@
       "arrow",
       "contact",
       "Facebook",
+      "support",
       "pass",
       "tuner",
       "fax",

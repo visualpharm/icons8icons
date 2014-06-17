@@ -29118,7 +29118,6 @@
       "recipe",
       "meal",
       "electric",
-      "drinks",
       "cold",
       "icing",
       "ice",
@@ -29129,7 +29128,8 @@
       "supermarket",
       "culinary",
       "lunch",
-      "cafe"
+      "cafe",
+      "drinks"
     ],
     "copyright": false,
     "files": {
@@ -35630,31 +35630,6 @@
     }
   },
   {
-    "id": 5028,
-    "name": "icons8_cup",
-    "platform": "Windows 8/Metro",
-    "category": "Very Basic",
-    "created": 1402923076,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Very_Basic/icons8_cup.svg",
-      "svg.simplified": "/SVG_for_Font/Very_Basic/icons8_cup.svg",
-      "eps": "/EPS/Very_Basic/icons8_cup.eps",
-      "png": {
-        "32": "/PNG/32/Very_Basic/icons8_cup-32.png",
-        "128": "/PNG/128/Very_Basic/icons8_cup-128.png",
-        "26": "/PNG/26/Very_Basic/icons8_cup-26.png",
-        "256": "/PNG/256/Very_Basic/icons8_cup-256.png",
-        "512": "/PNG/512/Very_Basic/icons8_cup-512.png",
-        "64": "/PNG/64/Very_Basic/icons8_cup-64.png",
-        "48": "/PNG/48/Very_Basic/icons8_cup-48.png"
-      }
-    }
-  },
-  {
     "id": 751,
     "name": "icq",
     "platform": "Windows 8/Metro",
@@ -40782,7 +40757,7 @@
     "category": "Science",
     "created": 1395935483,
     "tags": [
-
+      "people"
     ],
     "copyright": false,
     "files": {
@@ -71579,7 +71554,8 @@
       "approve",
       "best",
       "facebook likes",
-      "thumb up"
+      "thumb up",
+      "selected"
     ],
     "copyright": false,
     "files": {
