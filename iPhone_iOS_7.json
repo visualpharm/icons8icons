@@ -7273,6 +7273,49 @@
     }
   },
   {
+    "id": 5040,
+    "name": "butterfly",
+    "platform": "iPhone/iOS 7",
+    "category": "Animals",
+    "created": 1403009467,
+    "tags": [
+      "antenna",
+      "fly",
+      "beautiful",
+      "insect",
+      "pupa",
+      "antennae",
+      "lepidoptera",
+      "colurful",
+      "two wings",
+      "catepillar",
+      "smells",
+      "nectar",
+      "attracted by light",
+      "not found in antartica",
+      "winged creature",
+      "brightly colored",
+      "caterpillars",
+      "feed on nectar"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Animals/butterfly.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/butterfly.svg",
+      "eps": "/EPS/Animals/butterfly.eps",
+      "png": {
+        "25": "/PNG/25/Animals/butterfly-25.png",
+        "32": "/PNG/32/Animals/butterfly-32.png",
+        "128": "/PNG/128/Animals/butterfly-128.png",
+        "75": "/PNG/75/Animals/butterfly-75.png",
+        "256": "/PNG/256/Animals/butterfly-256.png",
+        "100": "/PNG/100/Animals/butterfly-100.png",
+        "512": "/PNG/512/Animals/butterfly-512.png",
+        "50": "/PNG/50/Animals/butterfly-50.png"
+      }
+    }
+  },
+  {
     "id": 1331,
     "name": "button",
     "platform": "iPhone/iOS 7",
@@ -15663,6 +15706,41 @@
     }
   },
   {
+    "id": 5038,
+    "name": "deer",
+    "platform": "iPhone/iOS 7",
+    "category": "Animals",
+    "created": 1403009467,
+    "tags": [
+      "fast",
+      "horn",
+      "beautiful",
+      "hunting",
+      "wild animal",
+      "ruminant mammals",
+      "antlers",
+      "antelope",
+      "herbivore",
+      "aesthetic beauty"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Animals/deer.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/deer.svg",
+      "eps": "/EPS/Animals/deer.eps",
+      "png": {
+        "25": "/PNG/25/Animals/deer-25.png",
+        "32": "/PNG/32/Animals/deer-32.png",
+        "128": "/PNG/128/Animals/deer-128.png",
+        "75": "/PNG/75/Animals/deer-75.png",
+        "256": "/PNG/256/Animals/deer-256.png",
+        "100": "/PNG/100/Animals/deer-100.png",
+        "512": "/PNG/512/Animals/deer-512.png",
+        "50": "/PNG/50/Animals/deer-50.png"
+      }
+    }
+  },
+  {
     "id": 1304,
     "name": "define_location",
     "platform": "iPhone/iOS 7",
@@ -16427,6 +16505,52 @@
         "100": "/PNG/100/Household/diningroom-100.png",
         "512": "/PNG/512/Household/diningroom-512.png",
         "50": "/PNG/50/Household/diningroom-50.png"
+      }
+    }
+  },
+  {
+    "id": 5042,
+    "name": "dinosaur",
+    "platform": "iPhone/iOS 7",
+    "category": "Animals",
+    "created": 1403009467,
+    "tags": [
+      "herbivorous",
+      "gigantic",
+      "fossil",
+      "extinct animal",
+      "strong teeth",
+      "awful species",
+      "1000 tons weight",
+      "dinosauria",
+      "reptiles",
+      "some can fly",
+      "does not exist",
+      "lives in groups",
+      "jurassic park",
+      "extinct",
+      "triassic period",
+      "terrestrial vertebrates",
+      "jurassic",
+      "carnivorous",
+      "bipedal",
+      "terrible lizard",
+      "cold blooded"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Animals/dinosaur.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/dinosaur.svg",
+      "eps": "/EPS/Animals/dinosaur.eps",
+      "png": {
+        "25": "/PNG/25/Animals/dinosaur-25.png",
+        "32": "/PNG/32/Animals/dinosaur-32.png",
+        "128": "/PNG/128/Animals/dinosaur-128.png",
+        "75": "/PNG/75/Animals/dinosaur-75.png",
+        "256": "/PNG/256/Animals/dinosaur-256.png",
+        "100": "/PNG/100/Animals/dinosaur-100.png",
+        "512": "/PNG/512/Animals/dinosaur-512.png",
+        "50": "/PNG/50/Animals/dinosaur-50.png"
       }
     }
   },
@@ -34750,6 +34874,7 @@
       "ios7",
       "gis",
       "area",
+      "build",
       "google maps",
       "foursquare",
       "glonass"

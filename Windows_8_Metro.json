@@ -10304,6 +10304,48 @@
     }
   },
   {
+    "id": 5039,
+    "name": "butterfly",
+    "platform": "Windows 8/Metro",
+    "category": "Animals",
+    "created": 1403009467,
+    "tags": [
+      "antenna",
+      "fly",
+      "beautiful",
+      "insect",
+      "pupa",
+      "antennae",
+      "lepidoptera",
+      "colurful",
+      "two wings",
+      "catepillar",
+      "smells",
+      "nectar",
+      "attracted by light",
+      "not found in antartica",
+      "winged creature",
+      "brightly colored",
+      "caterpillars",
+      "feed on nectar"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Animals/butterfly.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/butterfly.svg",
+      "eps": "/EPS/Animals/butterfly.eps",
+      "png": {
+        "32": "/PNG/32/Animals/butterfly-32.png",
+        "128": "/PNG/128/Animals/butterfly-128.png",
+        "26": "/PNG/26/Animals/butterfly-26.png",
+        "256": "/PNG/256/Animals/butterfly-256.png",
+        "512": "/PNG/512/Animals/butterfly-512.png",
+        "64": "/PNG/64/Animals/butterfly-64.png",
+        "48": "/PNG/48/Animals/butterfly-48.png"
+      }
+    }
+  },
+  {
     "id": 1330,
     "name": "button",
     "platform": "Windows 8/Metro",
@@ -19809,6 +19851,40 @@
     }
   },
   {
+    "id": 5037,
+    "name": "deer",
+    "platform": "Windows 8/Metro",
+    "category": "Animals",
+    "created": 1403009467,
+    "tags": [
+      "fast",
+      "horn",
+      "beautiful",
+      "hunting",
+      "wild animal",
+      "ruminant mammals",
+      "antlers",
+      "antelope",
+      "herbivore",
+      "aesthetic beauty"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Animals/deer.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/deer.svg",
+      "eps": "/EPS/Animals/deer.eps",
+      "png": {
+        "32": "/PNG/32/Animals/deer-32.png",
+        "128": "/PNG/128/Animals/deer-128.png",
+        "26": "/PNG/26/Animals/deer-26.png",
+        "256": "/PNG/256/Animals/deer-256.png",
+        "512": "/PNG/512/Animals/deer-512.png",
+        "64": "/PNG/64/Animals/deer-64.png",
+        "48": "/PNG/48/Animals/deer-48.png"
+      }
+    }
+  },
+  {
     "id": 1303,
     "name": "define_location",
     "platform": "Windows 8/Metro",
@@ -20802,6 +20878,51 @@
         "512": "/PNG/512/Household/dining_room-512.png",
         "64": "/PNG/64/Household/dining_room-64.png",
         "48": "/PNG/48/Household/dining_room-48.png"
+      }
+    }
+  },
+  {
+    "id": 5041,
+    "name": "dinosaur",
+    "platform": "Windows 8/Metro",
+    "category": "Animals",
+    "created": 1403009467,
+    "tags": [
+      "herbivorous",
+      "gigantic",
+      "fossil",
+      "extinct animal",
+      "strong teeth",
+      "awful species",
+      "1000 tons weight",
+      "dinosauria",
+      "reptiles",
+      "some can fly",
+      "does not exist",
+      "lives in groups",
+      "jurassic park",
+      "extinct",
+      "triassic period",
+      "terrestrial vertebrates",
+      "jurassic",
+      "carnivorous",
+      "bipedal",
+      "terrible lizard",
+      "cold blooded"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Animals/dinosaur.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/dinosaur.svg",
+      "eps": "/EPS/Animals/dinosaur.eps",
+      "png": {
+        "32": "/PNG/32/Animals/dinosaur-32.png",
+        "128": "/PNG/128/Animals/dinosaur-128.png",
+        "26": "/PNG/26/Animals/dinosaur-26.png",
+        "256": "/PNG/256/Animals/dinosaur-256.png",
+        "512": "/PNG/512/Animals/dinosaur-512.png",
+        "64": "/PNG/64/Animals/dinosaur-64.png",
+        "48": "/PNG/48/Animals/dinosaur-48.png"
       }
     }
   },
