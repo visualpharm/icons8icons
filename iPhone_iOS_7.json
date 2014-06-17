@@ -6606,6 +6606,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/bridge.svg",
+      "svg.simplified": "/SVG_for_Font/City/bridge.svg",
       "eps": "/EPS/City/bridge.eps",
       "png": {
         "25": "/PNG/25/City/bridge-25.png",
@@ -22064,6 +22065,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/fire_station.svg",
+      "svg.simplified": "/SVG_for_Font/City/fire_station.svg",
       "eps": "/EPS/City/fire_station.eps",
       "png": {
         "25": "/PNG/25/City/fire_station-25.png",
@@ -44248,6 +44250,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/police_station.svg",
+      "svg.simplified": "/SVG_for_Font/City/police_station.svg",
       "eps": "/EPS/City/police_station.eps",
       "png": {
         "25": "/PNG/25/City/police_station-25.png",

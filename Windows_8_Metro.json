@@ -9494,6 +9494,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/bridge.svg",
+      "svg.simplified": "/SVG_for_Font/City/bridge.svg",
       "eps": "/EPS/City/bridge.eps",
       "png": {
         "32": "/PNG/32/City/bridge-32.png",
@@ -27205,6 +27206,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/fire_station.svg",
+      "svg.simplified": "/SVG_for_Font/City/fire_station.svg",
       "eps": "/EPS/City/fire_station.eps",
       "png": {
         "32": "/PNG/32/City/fire_station-32.png",
@@ -35514,6 +35516,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Very_Basic/icons8_cup.svg",
+      "svg.simplified": "/SVG_for_Font/Very_Basic/icons8_cup.svg",
       "eps": "/EPS/Very_Basic/icons8_cup.eps",
       "png": {
         "32": "/PNG/32/Very_Basic/icons8_cup-32.png",
@@ -53871,6 +53874,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/City/police_station.svg",
+      "svg.simplified": "/SVG_for_Font/City/police_station.svg",
       "eps": "/EPS/City/police_station.eps",
       "png": {
         "32": "/PNG/32/City/police_station-32.png",
@@ -66523,7 +66527,8 @@
     "tags": [
       "plant",
       "drill",
-      "sproud"
+      "sproud",
+      "moist"
     ],
     "copyright": false,
     "files": {
