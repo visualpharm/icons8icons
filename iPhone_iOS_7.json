@@ -27799,7 +27799,6 @@
       "illustration",
       "safety",
       "building",
-      "flat",
       "household",
       "catering",
       "shape",
@@ -27813,7 +27812,6 @@
       "kitchen",
       "equipments",
       "abstract",
-      "object",
       "element",
       "simple",
       "shower",
@@ -27823,11 +27821,13 @@
       "supply",
       "tap",
       "burner",
-      "brain",
       "silhouette",
       "warm",
       "creative",
-      "utensil"
+      "utensil",
+      "interior",
+      "pure",
+      "eco"
     ],
     "copyright": false,
     "files": {
@@ -33524,6 +33524,7 @@
     "tags": [
       "chart",
       "book",
+      "add",
       "day",
       "graph",
       "temperature",
@@ -37620,6 +37621,7 @@
       "apartment",
       "interior",
       "domestic",
+      "rat",
       "living space",
       "accommodation"
     ],
@@ -49141,7 +49143,6 @@
     "tags": [
       "book",
       "home",
-      "group",
       "users",
       "team",
       "house",
@@ -49158,7 +49159,8 @@
       "add a user",
       "user groups",
       "living space",
-      "accommodation"
+      "accommodation",
+      "group"
     ],
     "copyright": false,
     "files": {
