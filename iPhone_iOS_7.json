@@ -19967,10 +19967,11 @@
       "interface menu tool",
       "designator",
       "gray",
-      "directional",
       "rightward",
       "glassy",
-      "fro"
+      "front",
+      "marker",
+      "na"
     ],
     "copyright": false,
     "files": {
@@ -51000,6 +51001,7 @@
       "pay",
       "view",
       "contact",
+      "board",
       "supermarket",
       "circle",
       "exam",
@@ -59055,6 +59057,7 @@
       "performance",
       "entertainment",
       "expression",
+      "school",
       "celebrations",
       "mask",
       "art",
@@ -59091,8 +59094,7 @@
       "festivals",
       "carnivals",
       "fanciful",
-      "clown",
-      "puppe"
+      "clow"
     ],
     "copyright": false,
     "files": {

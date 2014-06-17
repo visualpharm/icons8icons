@@ -8076,6 +8076,33 @@
     }
   },
   {
+    "id": 5056,
+    "name": "coffee",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1403052665,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/coffee.svg",
+      "svg.simplified": "/SVG_for_Font/Food/coffee.svg",
+      "eps": "/EPS/Food/coffee.eps",
+      "png": {
+        "32": "/PNG/32/Food/coffee-32.png",
+        "128": "/PNG/128/Food/coffee-128.png",
+        "256": "/PNG/256/Food/coffee-256.png",
+        "36": "/PNG/36/Food/coffee-36.png",
+        "512": "/PNG/512/Food/coffee-512.png",
+        "64": "/PNG/64/Food/coffee-64.png",
+        "24": "/PNG/24/Food/coffee-24.png",
+        "96": "/PNG/96/Food/coffee-96.png",
+        "48": "/PNG/48/Food/coffee-48.png"
+      }
+    }
+  },
+  {
     "id": 4577,
     "name": "coffee_maker",
     "platform": "Android",
@@ -8851,6 +8878,60 @@
         "24": "/PNG/24/Users/cook-24.png",
         "96": "/PNG/96/Users/cook-96.png",
         "48": "/PNG/48/Users/cook-48.png"
+      }
+    }
+  },
+  {
+    "id": 5043,
+    "name": "cooker",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1403052665,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/cooker.svg",
+      "svg.simplified": "/SVG_for_Font/Food/cooker.svg",
+      "eps": "/EPS/Food/cooker.eps",
+      "png": {
+        "32": "/PNG/32/Food/cooker-32.png",
+        "128": "/PNG/128/Food/cooker-128.png",
+        "256": "/PNG/256/Food/cooker-256.png",
+        "36": "/PNG/36/Food/cooker-36.png",
+        "512": "/PNG/512/Food/cooker-512.png",
+        "64": "/PNG/64/Food/cooker-64.png",
+        "24": "/PNG/24/Food/cooker-24.png",
+        "96": "/PNG/96/Food/cooker-96.png",
+        "48": "/PNG/48/Food/cooker-48.png"
+      }
+    }
+  },
+  {
+    "id": 5050,
+    "name": "cooker_hood",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1403052665,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/cooker_hood.svg",
+      "svg.simplified": "/SVG_for_Font/Food/cooker_hood.svg",
+      "eps": "/EPS/Food/cooker_hood.eps",
+      "png": {
+        "32": "/PNG/32/Food/cooker_hood-32.png",
+        "128": "/PNG/128/Food/cooker_hood-128.png",
+        "256": "/PNG/256/Food/cooker_hood-256.png",
+        "36": "/PNG/36/Food/cooker_hood-36.png",
+        "512": "/PNG/512/Food/cooker_hood-512.png",
+        "64": "/PNG/64/Food/cooker_hood-64.png",
+        "24": "/PNG/24/Food/cooker_hood-24.png",
+        "96": "/PNG/96/Food/cooker_hood-96.png",
+        "48": "/PNG/48/Food/cooker_hood-48.png"
       }
     }
   },
@@ -14691,6 +14772,33 @@
     }
   },
   {
+    "id": 5054,
+    "name": "fridge",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1403052665,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/fridge.svg",
+      "svg.simplified": "/SVG_for_Font/Food/fridge.svg",
+      "eps": "/EPS/Food/fridge.eps",
+      "png": {
+        "32": "/PNG/32/Food/fridge-32.png",
+        "128": "/PNG/128/Food/fridge-128.png",
+        "256": "/PNG/256/Food/fridge-256.png",
+        "36": "/PNG/36/Food/fridge-36.png",
+        "512": "/PNG/512/Food/fridge-512.png",
+        "64": "/PNG/64/Food/fridge-64.png",
+        "24": "/PNG/24/Food/fridge-24.png",
+        "96": "/PNG/96/Food/fridge-96.png",
+        "48": "/PNG/48/Food/fridge-48.png"
+      }
+    }
+  },
+  {
     "id": 3957,
     "name": "frisbee",
     "platform": "Android",
@@ -17913,6 +18021,33 @@
     }
   },
   {
+    "id": 5049,
+    "name": "honey",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1403052665,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/honey.svg",
+      "svg.simplified": "/SVG_for_Font/Food/honey.svg",
+      "eps": "/EPS/Food/honey.eps",
+      "png": {
+        "32": "/PNG/32/Food/honey-32.png",
+        "128": "/PNG/128/Food/honey-128.png",
+        "256": "/PNG/256/Food/honey-256.png",
+        "36": "/PNG/36/Food/honey-36.png",
+        "512": "/PNG/512/Food/honey-512.png",
+        "64": "/PNG/64/Food/honey-64.png",
+        "24": "/PNG/24/Food/honey-24.png",
+        "96": "/PNG/96/Food/honey-96.png",
+        "48": "/PNG/48/Food/honey-48.png"
+      }
+    }
+  },
+  {
     "id": 4485,
     "name": "hops",
     "platform": "Android",
@@ -18167,6 +18302,33 @@
         "24": "/PNG/24/Objects/hot_article-24.png",
         "96": "/PNG/96/Objects/hot_article-96.png",
         "48": "/PNG/48/Objects/hot_article-48.png"
+      }
+    }
+  },
+  {
+    "id": 5051,
+    "name": "hot_chocolate",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1403052665,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/hot_chocolate.svg",
+      "svg.simplified": "/SVG_for_Font/Food/hot_chocolate.svg",
+      "eps": "/EPS/Food/hot_chocolate.eps",
+      "png": {
+        "32": "/PNG/32/Food/hot_chocolate-32.png",
+        "128": "/PNG/128/Food/hot_chocolate-128.png",
+        "256": "/PNG/256/Food/hot_chocolate-256.png",
+        "36": "/PNG/36/Food/hot_chocolate-36.png",
+        "512": "/PNG/512/Food/hot_chocolate-512.png",
+        "64": "/PNG/64/Food/hot_chocolate-64.png",
+        "24": "/PNG/24/Food/hot_chocolate-24.png",
+        "96": "/PNG/96/Food/hot_chocolate-96.png",
+        "48": "/PNG/48/Food/hot_chocolate-48.png"
       }
     }
   },
@@ -22958,6 +23120,33 @@
     }
   },
   {
+    "id": 5048,
+    "name": "microwave",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1403052665,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/microwave.svg",
+      "svg.simplified": "/SVG_for_Font/Food/microwave.svg",
+      "eps": "/EPS/Food/microwave.eps",
+      "png": {
+        "32": "/PNG/32/Food/microwave-32.png",
+        "128": "/PNG/128/Food/microwave-128.png",
+        "256": "/PNG/256/Food/microwave-256.png",
+        "36": "/PNG/36/Food/microwave-36.png",
+        "512": "/PNG/512/Food/microwave-512.png",
+        "64": "/PNG/64/Food/microwave-64.png",
+        "24": "/PNG/24/Food/microwave-24.png",
+        "96": "/PNG/96/Food/microwave-96.png",
+        "48": "/PNG/48/Food/microwave-48.png"
+      }
+    }
+  },
+  {
     "id": 4657,
     "name": "military_backpack_radio",
     "platform": "Android",
@@ -23033,6 +23222,33 @@
         "24": "/PNG/24/Food/milk-24.png",
         "96": "/PNG/96/Food/milk-96.png",
         "48": "/PNG/48/Food/milk-48.png"
+      }
+    }
+  },
+  {
+    "id": 5045,
+    "name": "milk_bottle",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1403052665,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/milk_bottle.svg",
+      "svg.simplified": "/SVG_for_Font/Food/milk_bottle.svg",
+      "eps": "/EPS/Food/milk_bottle.eps",
+      "png": {
+        "32": "/PNG/32/Food/milk_bottle-32.png",
+        "128": "/PNG/128/Food/milk_bottle-128.png",
+        "256": "/PNG/256/Food/milk_bottle-256.png",
+        "36": "/PNG/36/Food/milk_bottle-36.png",
+        "512": "/PNG/512/Food/milk_bottle-512.png",
+        "64": "/PNG/64/Food/milk_bottle-64.png",
+        "24": "/PNG/24/Food/milk_bottle-24.png",
+        "96": "/PNG/96/Food/milk_bottle-96.png",
+        "48": "/PNG/48/Food/milk_bottle-48.png"
       }
     }
   },
@@ -25203,6 +25419,60 @@
         "24": "/PNG/24/Network/no_connection-24.png",
         "96": "/PNG/96/Network/no_connection-96.png",
         "48": "/PNG/48/Network/no_connection-48.png"
+      }
+    }
+  },
+  {
+    "id": 5046,
+    "name": "no_eggs",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1403052665,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/no_eggs.svg",
+      "svg.simplified": "/SVG_for_Font/Food/no_eggs.svg",
+      "eps": "/EPS/Food/no_eggs.eps",
+      "png": {
+        "32": "/PNG/32/Food/no_eggs-32.png",
+        "128": "/PNG/128/Food/no_eggs-128.png",
+        "256": "/PNG/256/Food/no_eggs-256.png",
+        "36": "/PNG/36/Food/no_eggs-36.png",
+        "512": "/PNG/512/Food/no_eggs-512.png",
+        "64": "/PNG/64/Food/no_eggs-64.png",
+        "24": "/PNG/24/Food/no_eggs-24.png",
+        "96": "/PNG/96/Food/no_eggs-96.png",
+        "48": "/PNG/48/Food/no_eggs-48.png"
+      }
+    }
+  },
+  {
+    "id": 5059,
+    "name": "no_leather",
+    "platform": "Android",
+    "category": "Clothing",
+    "created": 1403052665,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Clothing/no_leather.svg",
+      "svg.simplified": "/SVG_for_Font/Clothing/no_leather.svg",
+      "eps": "/EPS/Clothing/no_leather.eps",
+      "png": {
+        "32": "/PNG/32/Clothing/no_leather-32.png",
+        "128": "/PNG/128/Clothing/no_leather-128.png",
+        "256": "/PNG/256/Clothing/no_leather-256.png",
+        "36": "/PNG/36/Clothing/no_leather-36.png",
+        "512": "/PNG/512/Clothing/no_leather-512.png",
+        "64": "/PNG/64/Clothing/no_leather-64.png",
+        "24": "/PNG/24/Clothing/no_leather-24.png",
+        "96": "/PNG/96/Clothing/no_leather-96.png",
+        "48": "/PNG/48/Clothing/no_leather-48.png"
       }
     }
   },
@@ -35382,6 +35652,33 @@
     }
   },
   {
+    "id": 5055,
+    "name": "sugar",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1403052665,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/sugar.svg",
+      "svg.simplified": "/SVG_for_Font/Food/sugar.svg",
+      "eps": "/EPS/Food/sugar.eps",
+      "png": {
+        "32": "/PNG/32/Food/sugar-32.png",
+        "128": "/PNG/128/Food/sugar-128.png",
+        "256": "/PNG/256/Food/sugar-256.png",
+        "36": "/PNG/36/Food/sugar-36.png",
+        "512": "/PNG/512/Food/sugar-512.png",
+        "64": "/PNG/64/Food/sugar-64.png",
+        "24": "/PNG/24/Food/sugar-24.png",
+        "96": "/PNG/96/Food/sugar-96.png",
+        "48": "/PNG/48/Food/sugar-48.png"
+      }
+    }
+  },
+  {
     "id": 4343,
     "name": "suiside_risk",
     "platform": "Android",
@@ -36390,6 +36687,33 @@
         "24": "/PNG/24/Transport/taxi-24.png",
         "96": "/PNG/96/Transport/taxi-96.png",
         "48": "/PNG/48/Transport/taxi-48.png"
+      }
+    }
+  },
+  {
+    "id": 5052,
+    "name": "tea",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1403052665,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/tea.svg",
+      "svg.simplified": "/SVG_for_Font/Food/tea.svg",
+      "eps": "/EPS/Food/tea.eps",
+      "png": {
+        "32": "/PNG/32/Food/tea-32.png",
+        "128": "/PNG/128/Food/tea-128.png",
+        "256": "/PNG/256/Food/tea-256.png",
+        "36": "/PNG/36/Food/tea-36.png",
+        "512": "/PNG/512/Food/tea-512.png",
+        "64": "/PNG/64/Food/tea-64.png",
+        "24": "/PNG/24/Food/tea-24.png",
+        "96": "/PNG/96/Food/tea-96.png",
+        "48": "/PNG/48/Food/tea-48.png"
       }
     }
   },
@@ -40615,6 +40939,141 @@
         "24": "/PNG/24/Hair/van_dyke-24.png",
         "96": "/PNG/96/Hair/van_dyke-96.png",
         "48": "/PNG/48/Hair/van_dyke-48.png"
+      }
+    }
+  },
+  {
+    "id": 5057,
+    "name": "vegan_clothing",
+    "platform": "Android",
+    "category": "Clothing",
+    "created": 1403052665,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Clothing/vegan_clothing.svg",
+      "svg.simplified": "/SVG_for_Font/Clothing/vegan_clothing.svg",
+      "eps": "/EPS/Clothing/vegan_clothing.eps",
+      "png": {
+        "32": "/PNG/32/Clothing/vegan_clothing-32.png",
+        "128": "/PNG/128/Clothing/vegan_clothing-128.png",
+        "256": "/PNG/256/Clothing/vegan_clothing-256.png",
+        "36": "/PNG/36/Clothing/vegan_clothing-36.png",
+        "512": "/PNG/512/Clothing/vegan_clothing-512.png",
+        "64": "/PNG/64/Clothing/vegan_clothing-64.png",
+        "24": "/PNG/24/Clothing/vegan_clothing-24.png",
+        "96": "/PNG/96/Clothing/vegan_clothing-96.png",
+        "48": "/PNG/48/Clothing/vegan_clothing-48.png"
+      }
+    }
+  },
+  {
+    "id": 5047,
+    "name": "vegan_food",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1403052665,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/vegan_food.svg",
+      "svg.simplified": "/SVG_for_Font/Food/vegan_food.svg",
+      "eps": "/EPS/Food/vegan_food.eps",
+      "png": {
+        "32": "/PNG/32/Food/vegan_food-32.png",
+        "128": "/PNG/128/Food/vegan_food-128.png",
+        "256": "/PNG/256/Food/vegan_food-256.png",
+        "36": "/PNG/36/Food/vegan_food-36.png",
+        "512": "/PNG/512/Food/vegan_food-512.png",
+        "64": "/PNG/64/Food/vegan_food-64.png",
+        "24": "/PNG/24/Food/vegan_food-24.png",
+        "96": "/PNG/96/Food/vegan_food-96.png",
+        "48": "/PNG/48/Food/vegan_food-48.png"
+      }
+    }
+  },
+  {
+    "id": 5058,
+    "name": "vegan_shoes",
+    "platform": "Android",
+    "category": "Clothing",
+    "created": 1403052665,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Clothing/vegan_shoes.svg",
+      "svg.simplified": "/SVG_for_Font/Clothing/vegan_shoes.svg",
+      "eps": "/EPS/Clothing/vegan_shoes.eps",
+      "png": {
+        "32": "/PNG/32/Clothing/vegan_shoes-32.png",
+        "128": "/PNG/128/Clothing/vegan_shoes-128.png",
+        "256": "/PNG/256/Clothing/vegan_shoes-256.png",
+        "36": "/PNG/36/Clothing/vegan_shoes-36.png",
+        "512": "/PNG/512/Clothing/vegan_shoes-512.png",
+        "64": "/PNG/64/Clothing/vegan_shoes-64.png",
+        "24": "/PNG/24/Clothing/vegan_shoes-24.png",
+        "96": "/PNG/96/Clothing/vegan_shoes-96.png",
+        "48": "/PNG/48/Clothing/vegan_shoes-48.png"
+      }
+    }
+  },
+  {
+    "id": 5044,
+    "name": "vegan_symbol",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1403052665,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/vegan_symbol.svg",
+      "svg.simplified": "/SVG_for_Font/Food/vegan_symbol.svg",
+      "eps": "/EPS/Food/vegan_symbol.eps",
+      "png": {
+        "32": "/PNG/32/Food/vegan_symbol-32.png",
+        "128": "/PNG/128/Food/vegan_symbol-128.png",
+        "256": "/PNG/256/Food/vegan_symbol-256.png",
+        "36": "/PNG/36/Food/vegan_symbol-36.png",
+        "512": "/PNG/512/Food/vegan_symbol-512.png",
+        "64": "/PNG/64/Food/vegan_symbol-64.png",
+        "24": "/PNG/24/Food/vegan_symbol-24.png",
+        "96": "/PNG/96/Food/vegan_symbol-96.png",
+        "48": "/PNG/48/Food/vegan_symbol-48.png"
+      }
+    }
+  },
+  {
+    "id": 5053,
+    "name": "vegeterian_food",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1403052665,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/vegeterian_food.svg",
+      "svg.simplified": "/SVG_for_Font/Food/vegeterian_food.svg",
+      "eps": "/EPS/Food/vegeterian_food.eps",
+      "png": {
+        "32": "/PNG/32/Food/vegeterian_food-32.png",
+        "128": "/PNG/128/Food/vegeterian_food-128.png",
+        "256": "/PNG/256/Food/vegeterian_food-256.png",
+        "36": "/PNG/36/Food/vegeterian_food-36.png",
+        "512": "/PNG/512/Food/vegeterian_food-512.png",
+        "64": "/PNG/64/Food/vegeterian_food-64.png",
+        "24": "/PNG/24/Food/vegeterian_food-24.png",
+        "96": "/PNG/96/Food/vegeterian_food-96.png",
+        "48": "/PNG/48/Food/vegeterian_food-48.png"
       }
     }
   },

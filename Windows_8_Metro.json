@@ -11212,7 +11212,6 @@
     "tags": [
       "copy",
       "draw",
-      "communication",
       "line",
       "label",
       "length",
@@ -11244,7 +11243,8 @@
       "dimension",
       "breadth",
       "parallel",
-      "shaded"
+      "shaded",
+      "communication"
     ],
     "copyright": false,
     "files": {
@@ -26546,7 +26546,8 @@
       "blank",
       "module",
       "crown",
-      "txt"
+      "txt",
+      "cube"
     ],
     "copyright": false,
     "files": {
@@ -48085,7 +48086,6 @@
       "hear",
       "hearing",
       "sing",
-      "song",
       "genre",
       "albums",
       "artist",
@@ -48095,7 +48095,8 @@
       "sound",
       "orchestra",
       "musician",
-      "music instrument"
+      "music instrument",
+      "song"
     ],
     "copyright": false,
     "files": {
