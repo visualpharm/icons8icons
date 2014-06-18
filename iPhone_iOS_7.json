@@ -8823,6 +8823,7 @@
     "category": "Transport",
     "created": 1390342414,
     "tags": [
+      "star",
       "wrench",
       "travel",
       "building",
@@ -38111,7 +38112,6 @@
       "frightened",
       "dead",
       "mummy",
-      "mummy egypt",
       "pyramid",
       "competition",
       "corpse",
@@ -38120,7 +38120,8 @@
       "wall hanger",
       "non-verbal",
       "description",
-      "mood"
+      "mood",
+      "mummy egypt"
     ],
     "copyright": false,
     "files": {
