@@ -11092,6 +11092,7 @@
     "created": 1391770248,
     "tags": [
       "upload",
+      "point",
       "update",
       "binary data",
       "downloaded content"
@@ -38664,8 +38665,6 @@
     "category": "Industry",
     "created": 1398293517,
     "tags": [
-      "delete",
-      "bin",
       "economy",
       "technology",
       "plant",
@@ -38677,7 +38676,9 @@
       "garbage",
       "tech",
       "machinery",
-      "rubbish"
+      "rubbish",
+      "delete",
+      "bin"
     ],
     "copyright": false,
     "files": {
