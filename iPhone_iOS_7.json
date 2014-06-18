@@ -26075,6 +26075,7 @@
     "created": 1345111382,
     "tags": [
       "location",
+      "sign",
       "geo",
       "gps",
       "signals",
@@ -33849,6 +33850,7 @@
     "category": "Very Basic",
     "created": 1390342414,
     "tags": [
+      "check",
       "lock",
       "access",
       "secure",
@@ -33857,7 +33859,8 @@
       "private",
       "protected",
       "serurity",
-      "access denied"
+      "access denied",
+      "logged"
     ],
     "copyright": false,
     "files": {
@@ -38364,6 +38367,7 @@
       "folders",
       "note",
       "sound",
+      "people",
       "orchestra",
       "musician",
       "M sica",
@@ -46002,6 +46006,7 @@
       "buy",
       "cart",
       "shopping cart",
+      "cloud",
       "friends",
       "shopping basket"
     ],
@@ -51010,13 +51015,13 @@
       "finder",
       "spotlight",
       "categories",
-      "exame",
       "reorder",
       "detective",
       "magnify",
       "magnified",
       "zoom in",
       "details",
+      "exame",
       "scan",
       "zoom out",
       "find"
@@ -52338,6 +52343,7 @@
     "created": 1390342414,
     "tags": [
       "new",
+      "product",
       "glass",
       "housing",
       "about"

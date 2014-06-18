@@ -2620,6 +2620,48 @@
     }
   },
   {
+    "id": 5062,
+    "name": "alligator",
+    "platform": "Windows 8/Metro",
+    "category": "Animals",
+    "created": 1403095865,
+    "tags": [
+      "animal",
+      "aquatic",
+      "nature",
+      "wild",
+      "danger",
+      "strength",
+      "wildlife",
+      "mascot",
+      "allegory",
+      "lizard",
+      "hunting",
+      "reptile",
+      "cruel",
+      "zoo",
+      "anger",
+      "jaw",
+      "alligator",
+      "crocodile"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Animals/alligator.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/alligator.svg",
+      "eps": "/EPS/Animals/alligator.eps",
+      "png": {
+        "32": "/PNG/32/Animals/alligator-32.png",
+        "128": "/PNG/128/Animals/alligator-128.png",
+        "26": "/PNG/26/Animals/alligator-26.png",
+        "256": "/PNG/256/Animals/alligator-256.png",
+        "512": "/PNG/512/Animals/alligator-512.png",
+        "64": "/PNG/64/Animals/alligator-64.png",
+        "48": "/PNG/48/Animals/alligator-48.png"
+      }
+    }
+  },
+  {
     "id": 1087,
     "name": "almost_empty",
     "platform": "Windows 8/Metro",
@@ -12570,7 +12612,6 @@
       "mobile",
       "touch",
       "gadget",
-      "mobile phone",
       "touch screen",
       "mms",
       "shortcut",
@@ -26079,6 +26120,44 @@
     }
   },
   {
+    "id": 5061,
+    "name": "falcon",
+    "platform": "Windows 8/Metro",
+    "category": "Animals",
+    "created": 1403095865,
+    "tags": [
+      "power",
+      "flying",
+      "force",
+      "tattoo",
+      "wildlife",
+      "wing",
+      "majestic",
+      "independence",
+      "usa",
+      "america",
+      "falcon",
+      "hawk",
+      "eagle",
+      "spread wings"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Animals/falcon.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/falcon.svg",
+      "eps": "/EPS/Animals/falcon.eps",
+      "png": {
+        "32": "/PNG/32/Animals/falcon-32.png",
+        "128": "/PNG/128/Animals/falcon-128.png",
+        "26": "/PNG/26/Animals/falcon-26.png",
+        "256": "/PNG/256/Animals/falcon-256.png",
+        "512": "/PNG/512/Animals/falcon-512.png",
+        "64": "/PNG/64/Animals/falcon-64.png",
+        "48": "/PNG/48/Animals/falcon-48.png"
+      }
+    }
+  },
+  {
     "id": 3054,
     "name": "false_teeth",
     "platform": "Windows 8/Metro",
@@ -30994,6 +31073,47 @@
     }
   },
   {
+    "id": 5060,
+    "name": "giraffe",
+    "platform": "Windows 8/Metro",
+    "category": "Animals",
+    "created": 1403095865,
+    "tags": [
+      "animal",
+      "clip",
+      "nature",
+      "wild",
+      "tall",
+      "art",
+      "realistic",
+      "pattern",
+      "wildlife",
+      "clip-art",
+      "mammal",
+      "herbivorous",
+      "zoo",
+      "herbivore",
+      "giraffe",
+      "girafe",
+      "savanna"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Animals/giraffe.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/giraffe.svg",
+      "eps": "/EPS/Animals/giraffe.eps",
+      "png": {
+        "32": "/PNG/32/Animals/giraffe-32.png",
+        "128": "/PNG/128/Animals/giraffe-128.png",
+        "26": "/PNG/26/Animals/giraffe-26.png",
+        "256": "/PNG/256/Animals/giraffe-256.png",
+        "512": "/PNG/512/Animals/giraffe-512.png",
+        "64": "/PNG/64/Animals/giraffe-64.png",
+        "48": "/PNG/48/Animals/giraffe-48.png"
+      }
+    }
+  },
+  {
     "id": 2297,
     "name": "gis",
     "platform": "Windows 8/Metro",
@@ -34706,6 +34826,7 @@
       "email",
       "friend",
       "kid",
+      "products",
       "to do",
       "tabbed",
       "fire"
@@ -44473,6 +44594,7 @@
       "relax",
       "scared",
       "fist",
+      "glove",
       "warm",
       "accessory",
       "wardrobe",
@@ -44490,8 +44612,7 @@
       "tight",
       "dignity",
       "wear",
-      "outfit",
-      "fa"
+      "out"
     ],
     "copyright": false,
     "files": {
@@ -53334,6 +53455,7 @@
     "created": 1358248683,
     "tags": [
       "calculator",
+      "calendar",
       "plus",
       "finish",
       "expressing positivity",
