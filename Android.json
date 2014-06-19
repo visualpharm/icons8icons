@@ -15893,12 +15893,16 @@
     "created": 1391770248,
     "tags": [
       "mail",
+      "envelope",
+      "Facebook",
       "buzz",
       "login",
       "gmail",
       "log-in",
       "google mail",
-      "Facebook"
+      "authorization",
+      "signin",
+      "sign-in"
     ],
     "copyright": false,
     "files": {
@@ -30015,7 +30019,8 @@
       "direction",
       "indicator",
       "pointer",
-      "move"
+      "move",
+      "turn down"
     ],
     "copyright": false,
     "files": {
@@ -39774,7 +39779,8 @@
       "direction",
       "indicator",
       "pointer",
-      "move"
+      "move",
+      "turn left"
     ],
     "copyright": false,
     "files": {
@@ -39805,7 +39811,8 @@
       "direction",
       "indicator",
       "pointer",
-      "move"
+      "move",
+      "turn right"
     ],
     "copyright": false,
     "files": {
