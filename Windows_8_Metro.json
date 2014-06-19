@@ -9079,6 +9079,41 @@
     }
   },
   {
+    "id": 5068,
+    "name": "bowling",
+    "platform": "Windows 8/Metro",
+    "category": "Sports",
+    "created": 1403196678,
+    "tags": [
+      "games",
+      "entertainment",
+      "image",
+      "picture",
+      "frame",
+      "icon",
+      "layout",
+      "toys",
+      "leisure",
+      "sports items",
+      "indoor games"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/bowling.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/bowling.svg",
+      "eps": "/EPS/Sports/bowling.eps",
+      "png": {
+        "32": "/PNG/32/Sports/bowling-32.png",
+        "128": "/PNG/128/Sports/bowling-128.png",
+        "26": "/PNG/26/Sports/bowling-26.png",
+        "256": "/PNG/256/Sports/bowling-256.png",
+        "512": "/PNG/512/Sports/bowling-512.png",
+        "64": "/PNG/64/Sports/bowling-64.png",
+        "48": "/PNG/48/Sports/bowling-48.png"
+      }
+    }
+  },
+  {
     "id": 391,
     "name": "box",
     "platform": "Windows 8/Metro",
@@ -31342,6 +31377,41 @@
     }
   },
   {
+    "id": 5066,
+    "name": "golf",
+    "platform": "Windows 8/Metro",
+    "category": "Sports",
+    "created": 1403196678,
+    "tags": [
+      "player",
+      "stick",
+      "game",
+      "sports",
+      "shot",
+      "goal",
+      "golf game",
+      "golf player",
+      "royal game",
+      "air shot",
+      "austin"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/golf.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/golf.svg",
+      "eps": "/EPS/Sports/golf.eps",
+      "png": {
+        "32": "/PNG/32/Sports/golf-32.png",
+        "128": "/PNG/128/Sports/golf-128.png",
+        "26": "/PNG/26/Sports/golf-26.png",
+        "256": "/PNG/256/Sports/golf-256.png",
+        "512": "/PNG/512/Sports/golf-512.png",
+        "64": "/PNG/64/Sports/golf-64.png",
+        "48": "/PNG/48/Sports/golf-48.png"
+      }
+    }
+  },
+  {
     "id": 1401,
     "name": "good_decision",
     "platform": "Windows 8/Metro",
@@ -52383,6 +52453,42 @@
     }
   },
   {
+    "id": 5070,
+    "name": "pinball",
+    "platform": "Windows 8/Metro",
+    "category": "Gaming",
+    "created": 1403196678,
+    "tags": [
+      "ball",
+      "play",
+      "round",
+      "logo",
+      "score",
+      "game",
+      "size",
+      "retro",
+      "3d",
+      "hit",
+      "flippers",
+      "bumpers"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Gaming/pinball.svg",
+      "svg.simplified": "/SVG_for_Font/Gaming/pinball.svg",
+      "eps": "/EPS/Gaming/pinball.eps",
+      "png": {
+        "32": "/PNG/32/Gaming/pinball-32.png",
+        "128": "/PNG/128/Gaming/pinball-128.png",
+        "26": "/PNG/26/Gaming/pinball-26.png",
+        "256": "/PNG/256/Gaming/pinball-256.png",
+        "512": "/PNG/512/Gaming/pinball-512.png",
+        "64": "/PNG/64/Gaming/pinball-64.png",
+        "48": "/PNG/48/Gaming/pinball-48.png"
+      }
+    }
+  },
+  {
     "id": 1384,
     "name": "pincette",
     "platform": "Windows 8/Metro",
@@ -54997,6 +55103,7 @@
       "recycle",
       "arrows",
       "arrow",
+      "arm",
       "work",
       "refresh",
       "spin",
