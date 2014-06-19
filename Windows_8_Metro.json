@@ -23508,6 +23508,7 @@
       "share",
       "del",
       "hand writing",
+      "edit link",
       "draw",
       "right handed"
     ],
@@ -41136,7 +41137,8 @@
       "hairdresser",
       "goatee",
       "long beard & short beard",
-      "hair stylist"
+      "hair stylist",
+      "jihad"
     ],
     "copyright": false,
     "files": {
@@ -57082,6 +57084,7 @@
     "category": "Business",
     "created": 1399978278,
     "tags": [
+      "chart",
       "mail",
       "message",
       "read",
@@ -57095,6 +57098,7 @@
       "label",
       "profit",
       "business",
+      "report",
       "motion",
       "point",
       "upward",
@@ -70137,7 +70141,7 @@
     "category": "Cinema",
     "created": 1398883905,
     "tags": [
-
+      "arrow"
     ],
     "copyright": false,
     "files": {
@@ -74000,12 +74004,14 @@
     "category": "Science",
     "created": 1377596134,
     "tags": [
-      "triangle",
       "briefcase",
+      "degree",
       "classes",
       "class",
       "trigonometry",
-      "geometry"
+      "geometry",
+      "angle",
+      "triangle"
     ],
     "copyright": false,
     "files": {

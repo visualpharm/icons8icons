@@ -2070,6 +2070,7 @@
       "architecture",
       "interior",
       "domestic",
+      "sew",
       "sales",
       "living space",
       "accommodation",
@@ -12421,7 +12422,6 @@
       "couple",
       "together",
       "outline",
-      "speech",
       "chat",
       "expression",
       "bubble",
@@ -12454,7 +12454,8 @@
       "thoughtful",
       "imagination",
       "imagine",
-      "talk"
+      "talk",
+      "speech"
     ],
     "copyright": false,
     "files": {
@@ -18877,6 +18878,7 @@
       "message",
       "communicate",
       "set",
+      "line",
       "arrow",
       "and",
       "pad",
@@ -18910,8 +18912,7 @@
       "correspondence",
       "notebook",
       "literature",
-      "management",
-      "art"
+      "managemen"
     ],
     "copyright": false,
     "files": {
@@ -19659,6 +19660,7 @@
       "send",
       "business",
       "transportation",
+      "page",
       "export",
       "open",
       "container",
@@ -21681,7 +21683,8 @@
     "category": "Very Basic",
     "created": 1395935483,
     "tags": [
-      "search"
+      "search",
+      "map"
     ],
     "copyright": false,
     "files": {
@@ -35698,18 +35701,18 @@
     "created": 1391525457,
     "tags": [
       "search",
-      "settings",
-      "menu",
       "pgotos",
       "line",
       "web",
       "more",
+      "settings",
       "lines",
       "media",
+      "menu",
       "multimedia",
       "stripe",
-      "navigation",
-      "list"
+      "list",
+      "navigation"
     ],
     "copyright": false,
     "files": {
@@ -43339,13 +43342,13 @@
       "chicken",
       "take out food",
       "salami",
-      "fast food",
       "part of",
       "salami pizza",
       "junk food/fast food",
       "mayonnaise",
       "mexican cuisine",
-      "cafe"
+      "cafe",
+      "fast food"
     ],
     "copyright": false,
     "files": {
@@ -49151,6 +49154,7 @@
       "tablet",
       "rotation",
       "view",
+      "bug",
       "mobile",
       "volume",
       "touch",
