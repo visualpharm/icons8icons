@@ -9072,9 +9072,19 @@
       "icon",
       "layout",
       "toys",
+      "strike",
       "leisure",
+      "bowl",
       "sports items",
-      "indoor games"
+      "indoor games",
+      "bowling",
+      "bowling ball",
+      "bowling pin",
+      "bowling alley",
+      "bowling lane",
+      "7pin",
+      "10pin",
+      "league bowling"
     ],
     "copyright": false,
     "files": {
@@ -17518,7 +17528,8 @@
       "copy file",
       "copy files",
       "batch",
-      "duplicate"
+      "duplicate",
+      "paste"
     ],
     "copyright": false,
     "files": {
@@ -19159,6 +19170,76 @@
         "512": "/PNG/512/Alphabet/D-512.png",
         "64": "/PNG/64/Alphabet/D-64.png",
         "48": "/PNG/48/Alphabet/D-48.png"
+      }
+    }
+  },
+  {
+    "id": 5076,
+    "name": "dancing",
+    "platform": "Windows 8/Metro",
+    "category": "Sports",
+    "created": 1403268663,
+    "tags": [
+      "performance",
+      "fun",
+      "group",
+      "couple",
+      "music",
+      "expression",
+      "party",
+      "classical",
+      "concert",
+      "songs",
+      "stars",
+      "hands",
+      "art",
+      "steps",
+      "therapy",
+      "social",
+      "legs",
+      "jazz",
+      "body",
+      "competition",
+      "tap",
+      "gestures",
+      "dancing",
+      "dance",
+      "swing",
+      "movement",
+      "drama",
+      "street",
+      "flow",
+      "range",
+      "styles",
+      "dancer",
+      "emotional",
+      "solo",
+      "tunes",
+      "folk",
+      "rhythmic",
+      "aesthetic",
+      "ballet",
+      "dance party",
+      "dance lessons",
+      "play list",
+      "song list",
+      "choreographs",
+      "ballroom",
+      "t"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/dancing.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/dancing.svg",
+      "eps": "/EPS/Sports/dancing.eps",
+      "png": {
+        "32": "/PNG/32/Sports/dancing-32.png",
+        "128": "/PNG/128/Sports/dancing-128.png",
+        "26": "/PNG/26/Sports/dancing-26.png",
+        "256": "/PNG/256/Sports/dancing-256.png",
+        "512": "/PNG/512/Sports/dancing-512.png",
+        "64": "/PNG/64/Sports/dancing-64.png",
+        "48": "/PNG/48/Sports/dancing-48.png"
       }
     }
   },
@@ -23506,6 +23587,7 @@
     "category": "Editing",
     "created": 1371509057,
     "tags": [
+      "add",
       "calendar",
       "close",
       "delete",
@@ -31372,7 +31454,17 @@
       "royal game",
       "air shot",
       "austin",
-      "tiger woods"
+      "tiger woods",
+      "golfer",
+      "golf swing",
+      "golfing",
+      "hole in one",
+      "back swing",
+      "putting green",
+      "9iron",
+      "tee off",
+      "tee time",
+      "fareway"
     ],
     "copyright": false,
     "files": {
@@ -31987,6 +32079,48 @@
         "512": "/PNG/512/Animals/gorilla-512.png",
         "64": "/PNG/64/Animals/gorilla-64.png",
         "48": "/PNG/48/Animals/gorilla-48.png"
+      }
+    }
+  },
+  {
+    "id": 5072,
+    "name": "go_kart",
+    "platform": "Windows 8/Metro",
+    "category": "Transport",
+    "created": 1403268663,
+    "tags": [
+      "games",
+      "drive",
+      "transportation",
+      "car",
+      "wheels",
+      "vehicle",
+      "seat",
+      "steering",
+      "toy",
+      "kart",
+      "kids toy",
+      "four wheeler",
+      "kids vehicle",
+      "outside play toy",
+      "plastic car",
+      "mini car",
+      "gas-powered",
+      "go-kart"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Transport/go_kart.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/go_kart.svg",
+      "eps": "/EPS/Transport/go_kart.eps",
+      "png": {
+        "32": "/PNG/32/Transport/go_kart-32.png",
+        "128": "/PNG/128/Transport/go_kart-128.png",
+        "26": "/PNG/26/Transport/go_kart-26.png",
+        "256": "/PNG/256/Transport/go_kart-256.png",
+        "512": "/PNG/512/Transport/go_kart-512.png",
+        "64": "/PNG/64/Transport/go_kart-64.png",
+        "48": "/PNG/48/Transport/go_kart-48.png"
       }
     }
   },
@@ -36069,7 +36203,6 @@
       "file",
       "message",
       "info",
-      "information",
       "content",
       "info point",
       "getting help",
@@ -36077,6 +36210,7 @@
       "journal",
       "knowledge base",
       "prompt",
+      "information",
       "help"
     ],
     "copyright": false,
@@ -46832,6 +46966,7 @@
     "tags": [
       "folder",
       "country",
+      "task",
       "filder"
     ],
     "copyright": false,
@@ -51805,7 +51940,6 @@
       "iphone",
       "call",
       "download",
-      "dial",
       "connection",
       "office stuff",
       "mobile",
@@ -51816,7 +51950,8 @@
       "demo",
       "whatsapp",
       "samsung",
-      "lg"
+      "lg",
+      "dial"
     ],
     "copyright": false,
     "files": {
@@ -52449,8 +52584,18 @@
       "retro",
       "3d",
       "hit",
+      "tilt",
       "flippers",
-      "bumpers"
+      "bumpers",
+      "pinball",
+      "arcade",
+      "trick shot",
+      "pinball tournament",
+      "pinball flipper",
+      "pinball ball",
+      "multi-ball",
+      "machine tilt",
+      "gambling"
     ],
     "copyright": false,
     "files": {
@@ -63191,6 +63336,7 @@
     "category": "Ecommerce",
     "created": 1394153483,
     "tags": [
+      "office",
       "news",
       "fruit",
       "shopping",
@@ -81189,6 +81335,76 @@
         "512": "/PNG/512/Maps/worldwide_location-512.png",
         "64": "/PNG/64/Maps/worldwide_location-64.png",
         "48": "/PNG/48/Maps/worldwide_location-48.png"
+      }
+    }
+  },
+  {
+    "id": 5074,
+    "name": "world_cup",
+    "platform": "Windows 8/Metro",
+    "category": "Sports",
+    "created": 1403268663,
+    "tags": [
+      "games",
+      "soccer",
+      "globe",
+      "earth",
+      "host",
+      "artist",
+      "champion",
+      "figures",
+      "human",
+      "up",
+      "silver",
+      "gold",
+      "official",
+      "logo",
+      "football",
+      "victory",
+      "sports",
+      "global",
+      "history",
+      "award",
+      "event",
+      "competition",
+      "goddess",
+      "spain",
+      "trophy",
+      "holding",
+      "base",
+      "tournament",
+      "regulations",
+      "greek",
+      "stones",
+      "fifa",
+      "nike",
+      "prize",
+      "replica",
+      "cricket",
+      "teams",
+      "world cup",
+      "winner trophy",
+      "brasil",
+      "final match",
+      "rugby",
+      "brazil",
+      "qualifying",
+      "winners",
+      "holder"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/world_cup.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/world_cup.svg",
+      "eps": "/EPS/Sports/world_cup.eps",
+      "png": {
+        "32": "/PNG/32/Sports/world_cup-32.png",
+        "128": "/PNG/128/Sports/world_cup-128.png",
+        "26": "/PNG/26/Sports/world_cup-26.png",
+        "256": "/PNG/256/Sports/world_cup-256.png",
+        "512": "/PNG/512/Sports/world_cup-512.png",
+        "64": "/PNG/64/Sports/world_cup-64.png",
+        "48": "/PNG/48/Sports/world_cup-48.png"
       }
     }
   },

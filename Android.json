@@ -2740,9 +2740,12 @@
       "style",
       "cotton",
       "wardrobe",
+      "usa",
       "wear",
+      "america",
       "outfit",
-      "fashion retail"
+      "fashion retail",
+      "dude"
     ],
     "copyright": false,
     "files": {
@@ -4485,9 +4488,14 @@
       "brand",
       "clothes",
       "style",
+      "breast",
+      "tits",
+      "boobs",
       "cotton",
       "wardrobe",
       "wear",
+      "fetish",
+      "swimsuit",
       "outfit",
       "fashion retail"
     ],
@@ -7923,6 +7931,7 @@
     "tags": [
       "fashion",
       "shopping",
+      "buttons",
       "brand",
       "clothes",
       "style",
@@ -7930,7 +7939,8 @@
       "wardrobe",
       "wear",
       "outfit",
-      "fashion retail"
+      "fashion retail",
+      "double sided"
     ],
     "copyright": false,
     "files": {
@@ -18460,7 +18470,8 @@
       "supermarket",
       "culinary",
       "lunch",
-      "cafe"
+      "cafe",
+      "eiffel"
     ],
     "copyright": false,
     "files": {
@@ -24910,6 +24921,7 @@
       "direction",
       "indicator",
       "next",
+      "computer",
       "filter",
       "pointer",
       "move",
@@ -32496,7 +32508,6 @@
       "buy",
       "retail",
       "store",
-      "cart",
       "next",
       "shop",
       "hat",
@@ -32504,7 +32515,8 @@
       "battery",
       "supermarket",
       "checkout",
-      "shopping basket"
+      "shopping basket",
+      "cart"
     ],
     "copyright": false,
     "files": {
@@ -36514,7 +36526,13 @@
     "category": "Food",
     "created": 1403052665,
     "tags": [
-
+      "beverage",
+      "drink",
+      "cup",
+      "hot",
+      "england",
+      "pickwick",
+      "teabag"
     ],
     "copyright": false,
     "files": {
@@ -40036,7 +40054,9 @@
     "category": "Clothing",
     "created": 1403052665,
     "tags": [
-
+      "fashion",
+      "clothes",
+      "vegetarian"
     ],
     "copyright": false,
     "files": {
@@ -42320,6 +42340,8 @@
       "cotton",
       "wardrobe",
       "wear",
+      "fetish",
+      "swimsuit",
       "outfit",
       "fashion retail"
     ],
