@@ -8075,6 +8075,7 @@
       "blockade",
       "freeze",
       "fechar",
+      "okay",
       "check",
       "close",
       "remove",
@@ -12699,7 +12700,8 @@
     "tags": [
       "card",
       "note",
-      "settings"
+      "settings",
+      "share"
     ],
     "copyright": false,
     "files": {
