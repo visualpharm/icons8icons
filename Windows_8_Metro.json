@@ -2275,6 +2275,7 @@
       "airport",
       "travel",
       "airplane",
+      "energy",
       "plane"
     ],
     "copyright": false,
@@ -21605,7 +21606,8 @@
       "businessman",
       "email",
       "governance",
-      "webinar"
+      "webinar",
+      "essay"
     ],
     "copyright": false,
     "files": {
@@ -43654,6 +43656,7 @@
       "amplifier",
       "noise",
       "orchestra",
+      "location",
       "musician",
       "music instrument"
     ],
@@ -67765,6 +67768,7 @@
       "medicine",
       "health",
       "hospital",
+      "calendar",
       "person",
       "doctor",
       "sports",
