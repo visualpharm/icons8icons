@@ -8981,6 +8981,7 @@
       "bank",
       "phone",
       "box",
+      "calculator",
       "check",
       "message",
       "communication",
@@ -9019,9 +9020,7 @@
       "element",
       "blue",
       "background",
-      "front",
-      "shadow",
-      "n"
+      "fro"
     ],
     "copyright": false,
     "files": {
@@ -31155,6 +31154,7 @@
       "right",
       "down",
       "acting",
+      "media",
       "game",
       "joystick",
       "move",
@@ -35348,6 +35348,7 @@
     "tags": [
       "minus",
       "plus",
+      "game",
       "financial figures",
       "mathematics",
       "mathematical symbol",
@@ -63402,6 +63403,7 @@
     "created": 1390342414,
     "tags": [
       "forward",
+      "settings",
       "photo",
       "check",
       "connect",
