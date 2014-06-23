@@ -34773,6 +34773,7 @@
       "door",
       "start",
       "search",
+      "pay",
       "shop",
       "letter",
       "email",
@@ -49029,6 +49030,133 @@
     }
   },
   {
+    "id": 5107,
+    "name": "olympic_medal",
+    "platform": "Windows 8/Metro",
+    "category": "Sports",
+    "created": 1403527839,
+    "tags": [
+      "world",
+      "winner",
+      "sport",
+      "silver",
+      "gold",
+      "gift",
+      "game",
+      "first",
+      "i",
+      "medal",
+      "boxing",
+      "shooting",
+      "prize",
+      "olympic",
+      "honour",
+      "winer",
+      "bronze",
+      "five rings"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/olympic_medal.svg",
+      "eps": "/EPS/Sports/olympic_medal.eps",
+      "png": {
+        "32": "/PNG/32/Sports/olympic_medal-32.png",
+        "128": "/PNG/128/Sports/olympic_medal-128.png",
+        "26": "/PNG/26/Sports/olympic_medal-26.png",
+        "256": "/PNG/256/Sports/olympic_medal-256.png",
+        "512": "/PNG/512/Sports/olympic_medal-512.png",
+        "64": "/PNG/64/Sports/olympic_medal-64.png",
+        "48": "/PNG/48/Sports/olympic_medal-48.png"
+      }
+    }
+  },
+  {
+    "id": 5111,
+    "name": "olympic_rings",
+    "platform": "Windows 8/Metro",
+    "category": "Sports",
+    "created": 1403527839,
+    "tags": [
+      "games",
+      "world",
+      "winner",
+      "cup",
+      "logo",
+      "five",
+      "players",
+      "game",
+      "color",
+      "sports",
+      "identification",
+      "international",
+      "united",
+      "talent",
+      "flags",
+      "olympic",
+      "rings",
+      "continents",
+      "sportsmanship",
+      "interlaced rings"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/olympic_rings.svg",
+      "eps": "/EPS/Sports/olympic_rings.eps",
+      "png": {
+        "32": "/PNG/32/Sports/olympic_rings-32.png",
+        "128": "/PNG/128/Sports/olympic_rings-128.png",
+        "26": "/PNG/26/Sports/olympic_rings-26.png",
+        "256": "/PNG/256/Sports/olympic_rings-256.png",
+        "512": "/PNG/512/Sports/olympic_rings-512.png",
+        "64": "/PNG/64/Sports/olympic_rings-64.png",
+        "48": "/PNG/48/Sports/olympic_rings-48.png"
+      }
+    }
+  },
+  {
+    "id": 5109,
+    "name": "olympic_torch",
+    "platform": "Windows 8/Metro",
+    "category": "Sports",
+    "created": 1403527839,
+    "tags": [
+      "fire",
+      "light",
+      "player",
+      "signal",
+      "night",
+      "game",
+      "famous",
+      "lit",
+      "tradition",
+      "torch",
+      "olympic",
+      "hand hold",
+      "olympic games",
+      "theft of fire",
+      "torch relay",
+      "opening ceremony",
+      "summer olympics",
+      "significant",
+      "luminous flame",
+      "safety lamp"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/olympic_torch.svg",
+      "eps": "/EPS/Sports/olympic_torch.eps",
+      "png": {
+        "32": "/PNG/32/Sports/olympic_torch-32.png",
+        "128": "/PNG/128/Sports/olympic_torch-128.png",
+        "26": "/PNG/26/Sports/olympic_torch-26.png",
+        "256": "/PNG/256/Sports/olympic_torch-256.png",
+        "512": "/PNG/512/Sports/olympic_torch-512.png",
+        "64": "/PNG/64/Sports/olympic_torch-64.png",
+        "48": "/PNG/48/Sports/olympic_torch-48.png"
+      }
+    }
+  },
+  {
     "id": 3541,
     "name": "omega",
     "platform": "Windows 8/Metro",
@@ -61893,45 +62021,6 @@
     }
   },
   {
-    "id": 1568,
-    "name": "self_distract_button",
-    "platform": "Windows 8/Metro",
-    "category": "Military",
-    "created": 1360065150,
-    "tags": [
-      "combat",
-      "weapon",
-      "defense",
-      "pentagon",
-      "death",
-      "guard",
-      "button",
-      "army",
-      "armed forces",
-      "air force",
-      "navy",
-      "skeleton",
-      "distruction",
-      "war",
-      "battle",
-      "warfare"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Military/self_distract_button.svg",
-      "eps": "/EPS/Military/self_distract_button.eps",
-      "png": {
-        "32": "/PNG/32/Military/self_distract_button-32.png",
-        "128": "/PNG/128/Military/self_distract_button-128.png",
-        "26": "/PNG/26/Military/self_distract_button-26.png",
-        "256": "/PNG/256/Military/self_distract_button-256.png",
-        "512": "/PNG/512/Military/self_distract_button-512.png",
-        "64": "/PNG/64/Military/self_distract_button-64.png",
-        "48": "/PNG/48/Military/self_distract_button-48.png"
-      }
-    }
-  },
-  {
     "id": 133,
     "name": "self_service_kiosk",
     "platform": "Windows 8/Metro",
@@ -70953,6 +71042,7 @@
     "category": "Cinema",
     "created": 1398883905,
     "tags": [
+      "truck",
       "x"
     ],
     "copyright": false,

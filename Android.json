@@ -32290,39 +32290,28 @@
     }
   },
   {
-    "id": 4628,
-    "name": "self_distract_button",
+    "id": 5106,
+    "name": "self_destruct_button",
     "platform": "Android",
     "category": "Military",
-    "created": 1401137474,
+    "created": 1403527839,
     "tags": [
-      "combat",
-      "weapon",
-      "defense",
-      "pentagon",
-      "guard",
-      "army",
-      "armed forces",
-      "air force",
-      "navy",
-      "war",
-      "battle",
-      "warfare"
+
     ],
     "copyright": false,
     "files": {
-      "svg.simplified": "/SVG_for_Font/Military/self_distract_button.svg",
-      "eps": "/EPS/Military/self_distract_button.eps",
+      "svg": "/SVG/Military/self_destruct_button.svg",
+      "eps": "/EPS/Military/self_destruct_button.eps",
       "png": {
-        "32": "/PNG/32/Military/self_distract_button-32.png",
-        "128": "/PNG/128/Military/self_distract_button-128.png",
-        "256": "/PNG/256/Military/self_distract_button-256.png",
-        "36": "/PNG/36/Military/self_distract_button-36.png",
-        "512": "/PNG/512/Military/self_distract_button-512.png",
-        "64": "/PNG/64/Military/self_distract_button-64.png",
-        "24": "/PNG/24/Military/self_distract_button-24.png",
-        "96": "/PNG/96/Military/self_distract_button-96.png",
-        "48": "/PNG/48/Military/self_distract_button-48.png"
+        "32": "/PNG/32/Military/self_destruct_button-32.png",
+        "128": "/PNG/128/Military/self_destruct_button-128.png",
+        "256": "/PNG/256/Military/self_destruct_button-256.png",
+        "36": "/PNG/36/Military/self_destruct_button-36.png",
+        "512": "/PNG/512/Military/self_destruct_button-512.png",
+        "64": "/PNG/64/Military/self_destruct_button-64.png",
+        "24": "/PNG/24/Military/self_destruct_button-24.png",
+        "96": "/PNG/96/Military/self_destruct_button-96.png",
+        "48": "/PNG/48/Military/self_destruct_button-48.png"
       }
     }
   },
