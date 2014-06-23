@@ -303,6 +303,7 @@
     "category": "Very Basic",
     "created": 1392717066,
     "tags": [
+      "service",
       "message",
       "speech",
       "callout",
@@ -9686,7 +9687,8 @@
       "touch",
       "gadget",
       "samsung",
-      "lg"
+      "lg",
+      "iphone 5"
     ],
     "copyright": false,
     "files": {
@@ -18190,7 +18192,8 @@
       "creativity",
       "delineation",
       "technical architect",
-      "simple line"
+      "simple line",
+      "concept development"
     ],
     "copyright": false,
     "files": {
@@ -21254,6 +21257,7 @@
     "tags": [
       "wishes",
       "genres",
+      "setting",
       "stories",
       "fairies",
       "mermaids",
@@ -25818,6 +25822,7 @@
     "tags": [
       "player",
       "stick",
+      "setting",
       "game",
       "sports",
       "shot",
