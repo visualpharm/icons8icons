@@ -16237,7 +16237,6 @@
     "created": 1390342414,
     "tags": [
       "design",
-      "graphics",
       "pencil",
       "edit",
       "draw",
@@ -16254,7 +16253,8 @@
       "autocad",
       "redesign",
       "quick prototyping",
-      "mockup"
+      "mockup",
+      "graphics"
     ],
     "copyright": false,
     "files": {
@@ -35890,6 +35890,7 @@
       "location",
       "inbox",
       "list",
+      "padlock",
       "phone",
       "send",
       "mail",
@@ -35900,8 +35901,8 @@
       "reply",
       "comms",
       "votes",
-      "message",
-      "communicate"
+      "communicate",
+      "message"
     ],
     "copyright": false,
     "files": {
@@ -38890,6 +38891,7 @@
     "category": "Maps",
     "created": 1390342414,
     "tags": [
+      "phone",
       "search",
       "geo",
       "gps",
@@ -43215,7 +43217,6 @@
     "created": 1403196678,
     "tags": [
       "ball",
-      "play",
       "round",
       "logo",
       "score",
@@ -43235,7 +43236,8 @@
       "pinball ball",
       "multi-ball",
       "machine tilt",
-      "gambling"
+      "gambling",
+      "play"
     ],
     "copyright": false,
     "files": {
@@ -51114,6 +51116,7 @@
       "detect",
       "settings",
       "pay",
+      "account",
       "view",
       "contact",
       "board",
@@ -51126,6 +51129,7 @@
       "spotlight",
       "categories",
       "reorder",
+      "search bar",
       "detective",
       "magnify",
       "magnified",
@@ -51500,7 +51504,6 @@
       "tools",
       "library",
       "sticky",
-      "stick",
       "tool",
       "tape",
       "clear",
@@ -51534,7 +51537,7 @@
       "adhesive tape",
       "scotch tape",
       "tape roll",
-      "ma"
+      "masking "
     ],
     "copyright": false,
     "files": {
@@ -51760,6 +51763,7 @@
     "created": 1390342414,
     "tags": [
       "calendar",
+      "logout",
       "share",
       "mechanics",
       "control center",
@@ -61685,7 +61689,6 @@
       "garbage",
       "industrial garbage bin",
       "garbage bin",
-      "garbage bag",
       "garbage dump",
       "rubbish",
       "removed",
