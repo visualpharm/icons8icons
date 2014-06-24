@@ -36064,6 +36064,7 @@
       "siri",
       "voice over",
       "singer",
+      "micro",
       "geek",
       "microphone",
       "mic"
@@ -51358,7 +51359,6 @@
       "risk",
       "strong",
       "safe",
-      "glossy",
       "secured",
       "encrypt",
       "ssl",
@@ -51369,7 +51369,8 @@
       "layer",
       "https",
       "asymmetric",
-      "cryptogr"
+      "cryptography",
+      "so"
     ],
     "copyright": false,
     "files": {

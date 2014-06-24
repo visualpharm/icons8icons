@@ -1664,6 +1664,7 @@
       "append user",
       "create user",
       "remove",
+      "help",
       "register",
       "tv",
       "registration"
@@ -65481,6 +65482,7 @@
     "tags": [
       "home",
       "house",
+      "computer",
       "flat",
       "living room",
       "household",

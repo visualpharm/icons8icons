@@ -421,7 +421,9 @@
       "add user",
       "append user",
       "create user",
+      "card",
       "remove",
+      "credit card",
       "Existing user"
     ],
     "copyright": false,
