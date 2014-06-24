@@ -47899,6 +47899,7 @@
     "tags": [
       "calendar",
       "check",
+      "file",
       "repeat",
       "load",
       "shuffle",
@@ -56047,13 +56048,8 @@
     "tags": [
       "religion",
       "muslim",
-      "christian",
-      "dharmacakra",
-      "landmark",
       "heritage",
       "culture",
-      "anthropology",
-      "unesco",
       "point of attraction"
     ],
     "copyright": false,
@@ -61448,6 +61444,7 @@
       "done",
       "completed",
       "new",
+      "info",
       "notes",
       "schedule",
       "organize",

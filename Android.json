@@ -5608,7 +5608,7 @@
     "id": 3360,
     "name": "candy",
     "platform": "Android",
-    "category": "Christmas",
+    "category": "Holidays",
     "created": 1391770248,
     "tags": [
       "church",
@@ -5662,7 +5662,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Christmas/candy.svg",
+      "svg": "/SVG/Holidays/candy.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/candy.svg",
       "eps": "/EPS/Christmas/candy.eps",
       "png": {
