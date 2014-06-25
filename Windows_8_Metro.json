@@ -3206,6 +3206,7 @@
       "eraser",
       "drawing",
       "pictures",
+      "logo",
       "computer",
       "apps",
       "vertical",
@@ -3229,7 +3230,6 @@
       "google",
       "operating system",
       "os",
-      "logo",
       "mobile",
       "alien",
       "mascot",
@@ -14003,7 +14003,7 @@
     "category": "Holidays",
     "created": 1390342413,
     "tags": [
-
+      "prize"
     ],
     "copyright": false,
     "files": {
@@ -25875,6 +25875,7 @@
       "phone",
       "messaging",
       "heart",
+      "car",
       "social network",
       "twitter",
       "website",
@@ -27089,7 +27090,8 @@
       "computer",
       "browser",
       "chrome",
-      "firefox"
+      "firefox",
+      "ANTIVIRUS"
     ],
     "copyright": true,
     "files": {
@@ -43408,7 +43410,6 @@
     "created": 1319670555,
     "tags": [
       "play",
-      "message",
       "audio",
       "sing",
       "talk",
@@ -50493,6 +50494,40 @@
     }
   },
   {
+    "id": 5167,
+    "name": "palace",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1403700664,
+    "tags": [
+      "travel",
+      "history",
+      "stone",
+      "red",
+      "arabic",
+      "india",
+      "landmark",
+      "traditional",
+      "marble",
+      "palace",
+      "delhi"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/palace.svg",
+      "eps": "/EPS/City/palace.eps",
+      "png": {
+        "32": "/PNG/32/City/palace-32.png",
+        "128": "/PNG/128/City/palace-128.png",
+        "26": "/PNG/26/City/palace-26.png",
+        "256": "/PNG/256/City/palace-256.png",
+        "512": "/PNG/512/City/palace-512.png",
+        "64": "/PNG/64/City/palace-64.png",
+        "48": "/PNG/48/City/palace-48.png"
+      }
+    }
+  },
+  {
     "id": 827,
     "name": "palm_tree",
     "platform": "Windows 8/Metro",
@@ -53284,6 +53319,7 @@
       "pipe",
       "steel",
       "metal",
+      "energy",
       "apartment",
       "plastic",
       "tap",
@@ -55047,6 +55083,40 @@
         "512": "/PNG/512/Printing/printer-512.png",
         "64": "/PNG/64/Printing/printer-64.png",
         "48": "/PNG/48/Printing/printer-48.png"
+      }
+    }
+  },
+  {
+    "id": 5169,
+    "name": "prison",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1403700664,
+    "tags": [
+      "cell",
+      "year",
+      "prison",
+      "room",
+      "dark",
+      "bars",
+      "metal",
+      "concrete",
+      "cement",
+      "arrest",
+      "jail"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/prison.svg",
+      "eps": "/EPS/City/prison.eps",
+      "png": {
+        "32": "/PNG/32/City/prison-32.png",
+        "128": "/PNG/128/City/prison-128.png",
+        "26": "/PNG/26/City/prison-26.png",
+        "256": "/PNG/256/City/prison-256.png",
+        "512": "/PNG/512/City/prison-512.png",
+        "64": "/PNG/64/City/prison-64.png",
+        "48": "/PNG/48/City/prison-48.png"
       }
     }
   },
@@ -69333,7 +69403,8 @@
       "buttons",
       "switch",
       "equipment",
-      "switch on"
+      "switch on",
+      "on"
     ],
     "copyright": false,
     "files": {
@@ -70597,6 +70668,39 @@
         "512": "/PNG/512/Baby/teddybear-512.png",
         "64": "/PNG/64/Baby/teddybear-64.png",
         "48": "/PNG/48/Baby/teddybear-48.png"
+      }
+    }
+  },
+  {
+    "id": 5168,
+    "name": "telescope",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1403700664,
+    "tags": [
+      "sky",
+      "visible",
+      "focus",
+      "optical",
+      "mount",
+      "reflect",
+      "range",
+      "galileo",
+      "xrays",
+      "gamma ray"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/telescope.svg",
+      "eps": "/EPS/City/telescope.eps",
+      "png": {
+        "32": "/PNG/32/City/telescope-32.png",
+        "128": "/PNG/128/City/telescope-128.png",
+        "26": "/PNG/26/City/telescope-26.png",
+        "256": "/PNG/256/City/telescope-256.png",
+        "512": "/PNG/512/City/telescope-512.png",
+        "64": "/PNG/64/City/telescope-64.png",
+        "48": "/PNG/48/City/telescope-48.png"
       }
     }
   },

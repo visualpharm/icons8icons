@@ -8902,6 +8902,7 @@
       "star",
       "wrench",
       "travel",
+      "contact",
       "building",
       "fuel"
     ],
@@ -9897,7 +9898,6 @@
       "program",
       "list",
       "poll",
-      "series",
       "menu",
       "job",
       "schedule",
@@ -9909,7 +9909,8 @@
       "incomplete",
       "lineup",
       "catelog",
-      "to do list"
+      "to do list",
+      "series"
     ],
     "copyright": false,
     "files": {
@@ -17835,6 +17836,7 @@
     "category": "Very Basic",
     "created": 1401144672,
     "tags": [
+      "phone",
       "purchase",
       "history"
     ],
@@ -18937,9 +18939,9 @@
     "category": "Editing",
     "created": 1371509057,
     "tags": [
+      "pencil",
       "edit",
       "correct",
-      "sharpen",
       "erase",
       "eraser",
       "draw",
@@ -18950,7 +18952,6 @@
       "menu",
       "form",
       "fill",
-      "pencil",
       "writing",
       "editing",
       "handwriting"
@@ -18997,6 +18998,7 @@
       "pad",
       "memo",
       "pin",
+      "drawing",
       "save as",
       "disk",
       "human",
@@ -19025,7 +19027,7 @@
       "correspondence",
       "notebook",
       "literature",
-      "managemen"
+      "m"
     ],
     "copyright": false,
     "files": {
@@ -21861,6 +21863,7 @@
       "microsoft",
       "tool",
       "people",
+      "record",
       "list",
       "employee",
       "administrative tools",
@@ -35964,6 +35967,7 @@
       "inbox",
       "list",
       "padlock",
+      "video call",
       "phone",
       "send",
       "mail",
@@ -51186,6 +51190,7 @@
       "user",
       "tick",
       "edit",
+      "heart",
       "search",
       "magnifier",
       "detect",
