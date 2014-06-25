@@ -50500,8 +50500,14 @@
     "category": "City",
     "created": 1403700664,
     "tags": [
+      "home",
       "travel",
+      "guard",
+      "leader",
+      "king",
+      "queen",
       "history",
+      "safe",
       "stone",
       "red",
       "arabic",
@@ -50509,8 +50515,11 @@
       "landmark",
       "traditional",
       "marble",
+      "royal",
       "palace",
-      "delhi"
+      "castle",
+      "delhi",
+      "kingdom"
     ],
     "copyright": false,
     "files": {
@@ -55095,15 +55104,24 @@
     "tags": [
       "cell",
       "year",
+      "graph",
       "prison",
+      "lines",
       "room",
+      "square",
       "dark",
       "bars",
       "metal",
+      "grid",
       "concrete",
       "cement",
+      "blocks",
+      "angles",
+      "cells",
       "arrest",
-      "jail"
+      "jail",
+      "tic-tac-toe",
+      "game board"
     ],
     "copyright": false,
     "files": {
@@ -61870,7 +61888,7 @@
     "id": 3022,
     "name": "sea_waves",
     "platform": "Windows 8/Metro",
-    "category": "Animals",
+    "category": "Travel",
     "created": 1390485046,
     "tags": [
       "nature",
@@ -61881,7 +61899,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Animals/sea_waves.svg",
+      "svg": "/SVG/Travel/sea_waves.svg",
       "svg.simplified": "/SVG_for_Font/Animals/sea_waves.svg",
       "eps": "/EPS/Animals/sea_waves.eps",
       "png": {
@@ -62939,6 +62957,7 @@
       "shoe print",
       "feet",
       "walking",
+      "shoe",
       "corner"
     ],
     "copyright": false,
@@ -70678,13 +70697,22 @@
     "category": "City",
     "created": 1403700664,
     "tags": [
+      "magnify",
       "sky",
+      "view",
+      "stars",
       "visible",
+      "space",
       "focus",
       "optical",
+      "sight",
       "mount",
+      "vision",
       "reflect",
+      "astronomy",
+      "scope",
       "range",
+      "telescope",
       "galileo",
       "xrays",
       "gamma ray"

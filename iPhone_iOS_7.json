@@ -41444,6 +41444,31 @@
     }
   },
   {
+    "id": 5170,
+    "name": "palace",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1403707866,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/palace.svg",
+      "eps": "/EPS/City/palace.eps",
+      "png": {
+        "25": "/PNG/25/City/palace-25.png",
+        "32": "/PNG/32/City/palace-32.png",
+        "128": "/PNG/128/City/palace-128.png",
+        "75": "/PNG/75/City/palace-75.png",
+        "256": "/PNG/256/City/palace-256.png",
+        "100": "/PNG/100/City/palace-100.png",
+        "512": "/PNG/512/City/palace-512.png",
+        "50": "/PNG/50/City/palace-50.png"
+      }
+    }
+  },
+  {
     "id": 2847,
     "name": "palm",
     "platform": "iPhone/iOS 7",
@@ -45539,6 +45564,31 @@
         "100": "/PNG/100/Computer_Hardware/print-100.png",
         "512": "/PNG/512/Computer_Hardware/print-512.png",
         "50": "/PNG/50/Computer_Hardware/print-50.png"
+      }
+    }
+  },
+  {
+    "id": 5172,
+    "name": "prison",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1403707866,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/prison.svg",
+      "eps": "/EPS/City/prison.eps",
+      "png": {
+        "25": "/PNG/25/City/prison-25.png",
+        "32": "/PNG/32/City/prison-32.png",
+        "128": "/PNG/128/City/prison-128.png",
+        "75": "/PNG/75/City/prison-75.png",
+        "256": "/PNG/256/City/prison-256.png",
+        "100": "/PNG/100/City/prison-100.png",
+        "512": "/PNG/512/City/prison-512.png",
+        "50": "/PNG/50/City/prison-50.png"
       }
     }
   },
@@ -58846,6 +58896,31 @@
     }
   },
   {
+    "id": 5171,
+    "name": "telescope",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1403707866,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/telescope.svg",
+      "eps": "/EPS/City/telescope.eps",
+      "png": {
+        "25": "/PNG/25/City/telescope-25.png",
+        "32": "/PNG/32/City/telescope-32.png",
+        "128": "/PNG/128/City/telescope-128.png",
+        "75": "/PNG/75/City/telescope-75.png",
+        "256": "/PNG/256/City/telescope-256.png",
+        "100": "/PNG/100/City/telescope-100.png",
+        "512": "/PNG/512/City/telescope-512.png",
+        "50": "/PNG/50/City/telescope-50.png"
+      }
+    }
+  },
+  {
     "id": 1414,
     "name": "temperature",
     "platform": "iPhone/iOS 7",
@@ -63957,6 +64032,7 @@
     "category": "Users",
     "created": 1390342414,
     "tags": [
+      "phone",
       "calendar",
       "message",
       "lock",
