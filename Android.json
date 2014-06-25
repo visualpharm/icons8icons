@@ -2945,6 +2945,32 @@
     }
   },
   {
+    "id": 5143,
+    "name": "bat",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/bat.svg",
+      "eps": "/EPS/Holidays/bat.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/bat-32.png",
+        "128": "/PNG/128/Holidays/bat-128.png",
+        "256": "/PNG/256/Holidays/bat-256.png",
+        "36": "/PNG/36/Holidays/bat-36.png",
+        "512": "/PNG/512/Holidays/bat-512.png",
+        "64": "/PNG/64/Holidays/bat-64.png",
+        "24": "/PNG/24/Holidays/bat-24.png",
+        "96": "/PNG/96/Holidays/bat-96.png",
+        "48": "/PNG/48/Holidays/bat-48.png"
+      }
+    }
+  },
+  {
     "id": 4590,
     "name": "bath",
     "platform": "Android",
@@ -3479,6 +3505,32 @@
     }
   },
   {
+    "id": 5139,
+    "name": "bell",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/bell.svg",
+      "eps": "/EPS/Holidays/bell.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/bell-32.png",
+        "128": "/PNG/128/Holidays/bell-128.png",
+        "256": "/PNG/256/Holidays/bell-256.png",
+        "36": "/PNG/36/Holidays/bell-36.png",
+        "512": "/PNG/512/Holidays/bell-512.png",
+        "64": "/PNG/64/Holidays/bell-64.png",
+        "24": "/PNG/24/Holidays/bell-24.png",
+        "96": "/PNG/96/Holidays/bell-96.png",
+        "48": "/PNG/48/Holidays/bell-48.png"
+      }
+    }
+  },
+  {
     "id": 3398,
     "name": "bell_lyre",
     "platform": "Android",
@@ -4000,6 +4052,32 @@
         "24": "/PNG/24/Mobile/blackberry-24.png",
         "96": "/PNG/96/Mobile/blackberry-96.png",
         "48": "/PNG/48/Mobile/blackberry-48.png"
+      }
+    }
+  },
+  {
+    "id": 5138,
+    "name": "black_cat",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/black_cat.svg",
+      "eps": "/EPS/Holidays/black_cat.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/black_cat-32.png",
+        "128": "/PNG/128/Holidays/black_cat-128.png",
+        "256": "/PNG/256/Holidays/black_cat-256.png",
+        "36": "/PNG/36/Holidays/black_cat-36.png",
+        "512": "/PNG/512/Holidays/black_cat-512.png",
+        "64": "/PNG/64/Holidays/black_cat-64.png",
+        "24": "/PNG/24/Holidays/black_cat-24.png",
+        "96": "/PNG/96/Holidays/black_cat-96.png",
+        "48": "/PNG/48/Holidays/black_cat-48.png"
       }
     }
   },
@@ -5664,17 +5742,17 @@
     "files": {
       "svg": "/SVG/Holidays/candy.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/candy.svg",
-      "eps": "/EPS/Christmas/candy.eps",
+      "eps": "/EPS/Holidays/candy.eps",
       "png": {
-        "32": "/PNG/32/Christmas/candy-32.png",
-        "128": "/PNG/128/Christmas/candy-128.png",
-        "256": "/PNG/256/Christmas/candy-256.png",
-        "36": "/PNG/36/Christmas/candy-36.png",
-        "512": "/PNG/512/Christmas/candy-512.png",
-        "64": "/PNG/64/Christmas/candy-64.png",
-        "24": "/PNG/24/Christmas/candy-24.png",
-        "96": "/PNG/96/Christmas/candy-96.png",
-        "48": "/PNG/48/Christmas/candy-48.png"
+        "32": "/PNG/32/Holidays/candy-32.png",
+        "128": "/PNG/128/Holidays/candy-128.png",
+        "256": "/PNG/256/Holidays/candy-256.png",
+        "36": "/PNG/36/Holidays/candy-36.png",
+        "512": "/PNG/512/Holidays/candy-512.png",
+        "64": "/PNG/64/Holidays/candy-64.png",
+        "24": "/PNG/24/Holidays/candy-24.png",
+        "96": "/PNG/96/Holidays/candy-96.png",
+        "48": "/PNG/48/Holidays/candy-48.png"
       }
     }
   },
@@ -6688,6 +6766,32 @@
     }
   },
   {
+    "id": 5147,
+    "name": "champagne",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/champagne.svg",
+      "eps": "/EPS/Holidays/champagne.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/champagne-32.png",
+        "128": "/PNG/128/Holidays/champagne-128.png",
+        "256": "/PNG/256/Holidays/champagne-256.png",
+        "36": "/PNG/36/Holidays/champagne-36.png",
+        "512": "/PNG/512/Holidays/champagne-512.png",
+        "64": "/PNG/64/Holidays/champagne-64.png",
+        "24": "/PNG/24/Holidays/champagne-24.png",
+        "96": "/PNG/96/Holidays/champagne-96.png",
+        "48": "/PNG/48/Holidays/champagne-48.png"
+      }
+    }
+  },
+  {
     "id": 3930,
     "name": "championship_belt",
     "platform": "Android",
@@ -7330,6 +7434,32 @@
         "24": "/PNG/24/Christmas/christmas_tree-24.png",
         "96": "/PNG/96/Christmas/christmas_tree-96.png",
         "48": "/PNG/48/Christmas/christmas_tree-48.png"
+      }
+    }
+  },
+  {
+    "id": 5146,
+    "name": "church",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/church.svg",
+      "eps": "/EPS/Holidays/church.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/church-32.png",
+        "128": "/PNG/128/Holidays/church-128.png",
+        "256": "/PNG/256/Holidays/church-256.png",
+        "36": "/PNG/36/Holidays/church-36.png",
+        "512": "/PNG/512/Holidays/church-512.png",
+        "64": "/PNG/64/Holidays/church-64.png",
+        "24": "/PNG/24/Holidays/church-24.png",
+        "96": "/PNG/96/Holidays/church-96.png",
+        "48": "/PNG/48/Holidays/church-48.png"
       }
     }
   },
@@ -8316,6 +8446,32 @@
         "24": "/PNG/24/Household/coffee_maker-24.png",
         "96": "/PNG/96/Household/coffee_maker-96.png",
         "48": "/PNG/48/Household/coffee_maker-48.png"
+      }
+    }
+  },
+  {
+    "id": 5137,
+    "name": "coffin",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/coffin.svg",
+      "eps": "/EPS/Holidays/coffin.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/coffin-32.png",
+        "128": "/PNG/128/Holidays/coffin-128.png",
+        "256": "/PNG/256/Holidays/coffin-256.png",
+        "36": "/PNG/36/Holidays/coffin-36.png",
+        "512": "/PNG/512/Holidays/coffin-512.png",
+        "64": "/PNG/64/Holidays/coffin-64.png",
+        "24": "/PNG/24/Holidays/coffin-24.png",
+        "96": "/PNG/96/Holidays/coffin-96.png",
+        "48": "/PNG/48/Holidays/coffin-48.png"
       }
     }
   },
@@ -11779,6 +11935,84 @@
     }
   },
   {
+    "id": 5153,
+    "name": "easter_cake",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/easter_cake.svg",
+      "eps": "/EPS/Holidays/easter_cake.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/easter_cake-32.png",
+        "128": "/PNG/128/Holidays/easter_cake-128.png",
+        "256": "/PNG/256/Holidays/easter_cake-256.png",
+        "36": "/PNG/36/Holidays/easter_cake-36.png",
+        "512": "/PNG/512/Holidays/easter_cake-512.png",
+        "64": "/PNG/64/Holidays/easter_cake-64.png",
+        "24": "/PNG/24/Holidays/easter_cake-24.png",
+        "96": "/PNG/96/Holidays/easter_cake-96.png",
+        "48": "/PNG/48/Holidays/easter_cake-48.png"
+      }
+    }
+  },
+  {
+    "id": 5141,
+    "name": "easter_egg",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/easter_egg.svg",
+      "eps": "/EPS/Holidays/easter_egg.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/easter_egg-32.png",
+        "128": "/PNG/128/Holidays/easter_egg-128.png",
+        "256": "/PNG/256/Holidays/easter_egg-256.png",
+        "36": "/PNG/36/Holidays/easter_egg-36.png",
+        "512": "/PNG/512/Holidays/easter_egg-512.png",
+        "64": "/PNG/64/Holidays/easter_egg-64.png",
+        "24": "/PNG/24/Holidays/easter_egg-24.png",
+        "96": "/PNG/96/Holidays/easter_egg-96.png",
+        "48": "/PNG/48/Holidays/easter_egg-48.png"
+      }
+    }
+  },
+  {
+    "id": 5164,
+    "name": "easter_rabbit",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/easter_rabbit.svg",
+      "eps": "/EPS/Holidays/easter_rabbit.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/easter_rabbit-32.png",
+        "128": "/PNG/128/Holidays/easter_rabbit-128.png",
+        "256": "/PNG/256/Holidays/easter_rabbit-256.png",
+        "36": "/PNG/36/Holidays/easter_rabbit-36.png",
+        "512": "/PNG/512/Holidays/easter_rabbit-512.png",
+        "64": "/PNG/64/Holidays/easter_rabbit-64.png",
+        "24": "/PNG/24/Holidays/easter_rabbit-24.png",
+        "96": "/PNG/96/Holidays/easter_rabbit-96.png",
+        "48": "/PNG/48/Holidays/easter_rabbit-48.png"
+      }
+    }
+  },
+  {
     "id": 3768,
     "name": "east_direction",
     "platform": "Android",
@@ -11932,6 +12166,32 @@
         "24": "/PNG/24/Food/eggs-24.png",
         "96": "/PNG/96/Food/eggs-96.png",
         "48": "/PNG/48/Food/eggs-48.png"
+      }
+    }
+  },
+  {
+    "id": 5156,
+    "name": "eggs_basket",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/eggs_basket.svg",
+      "eps": "/EPS/Holidays/eggs_basket.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/eggs_basket-32.png",
+        "128": "/PNG/128/Holidays/eggs_basket-128.png",
+        "256": "/PNG/256/Holidays/eggs_basket-256.png",
+        "36": "/PNG/36/Holidays/eggs_basket-36.png",
+        "512": "/PNG/512/Holidays/eggs_basket-512.png",
+        "64": "/PNG/64/Holidays/eggs_basket-64.png",
+        "24": "/PNG/24/Holidays/eggs_basket-24.png",
+        "96": "/PNG/96/Holidays/eggs_basket-96.png",
+        "48": "/PNG/48/Holidays/eggs_basket-48.png"
       }
     }
   },
@@ -14998,6 +15258,32 @@
     }
   },
   {
+    "id": 5165,
+    "name": "frankenstain",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/frankenstain.svg",
+      "eps": "/EPS/Holidays/frankenstain.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/frankenstain-32.png",
+        "128": "/PNG/128/Holidays/frankenstain-128.png",
+        "256": "/PNG/256/Holidays/frankenstain-256.png",
+        "36": "/PNG/36/Holidays/frankenstain-36.png",
+        "512": "/PNG/512/Holidays/frankenstain-512.png",
+        "64": "/PNG/64/Holidays/frankenstain-64.png",
+        "24": "/PNG/24/Holidays/frankenstain-24.png",
+        "96": "/PNG/96/Holidays/frankenstain-96.png",
+        "48": "/PNG/48/Holidays/frankenstain-48.png"
+      }
+    }
+  },
+  {
     "id": 4964,
     "name": "french_fries",
     "platform": "Android",
@@ -16079,6 +16365,32 @@
         "24": "/PNG/24/Maps/geo_fence-24.png",
         "96": "/PNG/96/Maps/geo_fence-96.png",
         "48": "/PNG/48/Maps/geo_fence-48.png"
+      }
+    }
+  },
+  {
+    "id": 5142,
+    "name": "ghost",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/ghost.svg",
+      "eps": "/EPS/Holidays/ghost.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/ghost-32.png",
+        "128": "/PNG/128/Holidays/ghost-128.png",
+        "256": "/PNG/256/Holidays/ghost-256.png",
+        "36": "/PNG/36/Holidays/ghost-36.png",
+        "512": "/PNG/512/Holidays/ghost-512.png",
+        "64": "/PNG/64/Holidays/ghost-64.png",
+        "24": "/PNG/24/Holidays/ghost-24.png",
+        "96": "/PNG/96/Holidays/ghost-96.png",
+        "48": "/PNG/48/Holidays/ghost-48.png"
       }
     }
   },
@@ -17926,6 +18238,32 @@
     }
   },
   {
+    "id": 5140,
+    "name": "headstone",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/headstone.svg",
+      "eps": "/EPS/Holidays/headstone.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/headstone-32.png",
+        "128": "/PNG/128/Holidays/headstone-128.png",
+        "256": "/PNG/256/Holidays/headstone-256.png",
+        "36": "/PNG/36/Holidays/headstone-36.png",
+        "512": "/PNG/512/Holidays/headstone-512.png",
+        "64": "/PNG/64/Holidays/headstone-64.png",
+        "24": "/PNG/24/Holidays/headstone-24.png",
+        "96": "/PNG/96/Holidays/headstone-96.png",
+        "48": "/PNG/48/Holidays/headstone-48.png"
+      }
+    }
+  },
+  {
     "id": 4339,
     "name": "hearing_aid",
     "platform": "Android",
@@ -18358,6 +18696,32 @@
         "24": "/PNG/24/Cinema/historical-24.png",
         "96": "/PNG/96/Cinema/historical-96.png",
         "48": "/PNG/48/Cinema/historical-48.png"
+      }
+    }
+  },
+  {
+    "id": 5149,
+    "name": "holy_bible",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/holy_bible.svg",
+      "eps": "/EPS/Holidays/holy_bible.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/holy_bible-32.png",
+        "128": "/PNG/128/Holidays/holy_bible-128.png",
+        "256": "/PNG/256/Holidays/holy_bible-256.png",
+        "36": "/PNG/36/Holidays/holy_bible-36.png",
+        "512": "/PNG/512/Holidays/holy_bible-512.png",
+        "64": "/PNG/64/Holidays/holy_bible-64.png",
+        "24": "/PNG/24/Holidays/holy_bible-24.png",
+        "96": "/PNG/96/Holidays/holy_bible-96.png",
+        "48": "/PNG/48/Holidays/holy_bible-48.png"
       }
     }
   },
@@ -24760,6 +25124,32 @@
     }
   },
   {
+    "id": 5148,
+    "name": "mummy",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/mummy.svg",
+      "eps": "/EPS/Holidays/mummy.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/mummy-32.png",
+        "128": "/PNG/128/Holidays/mummy-128.png",
+        "256": "/PNG/256/Holidays/mummy-256.png",
+        "36": "/PNG/36/Holidays/mummy-36.png",
+        "512": "/PNG/512/Holidays/mummy-512.png",
+        "64": "/PNG/64/Holidays/mummy-64.png",
+        "24": "/PNG/24/Holidays/mummy-24.png",
+        "96": "/PNG/96/Holidays/mummy-96.png",
+        "48": "/PNG/48/Holidays/mummy-48.png"
+      }
+    }
+  },
+  {
     "id": 4837,
     "name": "museum",
     "platform": "Android",
@@ -28911,6 +29301,32 @@
     }
   },
   {
+    "id": 5166,
+    "name": "pumpkin",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/pumpkin.svg",
+      "eps": "/EPS/Holidays/pumpkin.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/pumpkin-32.png",
+        "128": "/PNG/128/Holidays/pumpkin-128.png",
+        "256": "/PNG/256/Holidays/pumpkin-256.png",
+        "36": "/PNG/36/Holidays/pumpkin-36.png",
+        "512": "/PNG/512/Holidays/pumpkin-512.png",
+        "64": "/PNG/64/Holidays/pumpkin-64.png",
+        "24": "/PNG/24/Holidays/pumpkin-24.png",
+        "96": "/PNG/96/Holidays/pumpkin-96.png",
+        "48": "/PNG/48/Holidays/pumpkin-48.png"
+      }
+    }
+  },
+  {
     "id": 3175,
     "name": "purse",
     "platform": "Android",
@@ -28951,6 +29367,32 @@
         "24": "/PNG/24/Shopping/purse-24.png",
         "96": "/PNG/96/Shopping/purse-96.png",
         "48": "/PNG/48/Shopping/purse-48.png"
+      }
+    }
+  },
+  {
+    "id": 5154,
+    "name": "pussy_willow",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/pussy_willow.svg",
+      "eps": "/EPS/Holidays/pussy_willow.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/pussy_willow-32.png",
+        "128": "/PNG/128/Holidays/pussy_willow-128.png",
+        "256": "/PNG/256/Holidays/pussy_willow-256.png",
+        "36": "/PNG/36/Holidays/pussy_willow-36.png",
+        "512": "/PNG/512/Holidays/pussy_willow-512.png",
+        "64": "/PNG/64/Holidays/pussy_willow-64.png",
+        "24": "/PNG/24/Holidays/pussy_willow-24.png",
+        "96": "/PNG/96/Holidays/pussy_willow-96.png",
+        "48": "/PNG/48/Holidays/pussy_willow-48.png"
       }
     }
   },
@@ -30792,6 +31234,32 @@
         "24": "/PNG/24/Arrows/right_up2-24.png",
         "96": "/PNG/96/Arrows/right_up2-96.png",
         "48": "/PNG/48/Arrows/right_up2-48.png"
+      }
+    }
+  },
+  {
+    "id": 5159,
+    "name": "ring",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/ring.svg",
+      "eps": "/EPS/Holidays/ring.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/ring-32.png",
+        "128": "/PNG/128/Holidays/ring-128.png",
+        "256": "/PNG/256/Holidays/ring-256.png",
+        "36": "/PNG/36/Holidays/ring-36.png",
+        "512": "/PNG/512/Holidays/ring-512.png",
+        "64": "/PNG/64/Holidays/ring-64.png",
+        "24": "/PNG/24/Holidays/ring-24.png",
+        "96": "/PNG/96/Holidays/ring-96.png",
+        "48": "/PNG/48/Holidays/ring-48.png"
       }
     }
   },
@@ -35085,6 +35553,58 @@
         "24": "/PNG/24/Transport/speedometer-24.png",
         "96": "/PNG/96/Transport/speedometer-96.png",
         "48": "/PNG/48/Transport/speedometer-48.png"
+      }
+    }
+  },
+  {
+    "id": 5157,
+    "name": "spider",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/spider.svg",
+      "eps": "/EPS/Holidays/spider.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/spider-32.png",
+        "128": "/PNG/128/Holidays/spider-128.png",
+        "256": "/PNG/256/Holidays/spider-256.png",
+        "36": "/PNG/36/Holidays/spider-36.png",
+        "512": "/PNG/512/Holidays/spider-512.png",
+        "64": "/PNG/64/Holidays/spider-64.png",
+        "24": "/PNG/24/Holidays/spider-24.png",
+        "96": "/PNG/96/Holidays/spider-96.png",
+        "48": "/PNG/48/Holidays/spider-48.png"
+      }
+    }
+  },
+  {
+    "id": 5151,
+    "name": "spiderweb",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/spiderweb.svg",
+      "eps": "/EPS/Holidays/spiderweb.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/spiderweb-32.png",
+        "128": "/PNG/128/Holidays/spiderweb-128.png",
+        "256": "/PNG/256/Holidays/spiderweb-256.png",
+        "36": "/PNG/36/Holidays/spiderweb-36.png",
+        "512": "/PNG/512/Holidays/spiderweb-512.png",
+        "64": "/PNG/64/Holidays/spiderweb-64.png",
+        "24": "/PNG/24/Holidays/spiderweb-24.png",
+        "96": "/PNG/96/Holidays/spiderweb-96.png",
+        "48": "/PNG/48/Holidays/spiderweb-48.png"
       }
     }
   },
@@ -40327,6 +40847,32 @@
     }
   },
   {
+    "id": 5144,
+    "name": "two_hearts",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/two_hearts.svg",
+      "eps": "/EPS/Holidays/two_hearts.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/two_hearts-32.png",
+        "128": "/PNG/128/Holidays/two_hearts-128.png",
+        "256": "/PNG/256/Holidays/two_hearts-256.png",
+        "36": "/PNG/36/Holidays/two_hearts-36.png",
+        "512": "/PNG/512/Holidays/two_hearts-512.png",
+        "64": "/PNG/64/Holidays/two_hearts-64.png",
+        "24": "/PNG/24/Holidays/two_hearts-24.png",
+        "96": "/PNG/96/Holidays/two_hearts-96.png",
+        "48": "/PNG/48/Holidays/two_hearts-48.png"
+      }
+    }
+  },
+  {
     "id": 4304,
     "name": "two_smartphones",
     "platform": "Android",
@@ -40895,6 +41441,32 @@
         "24": "/PNG/24/Travel/us_capitol-24.png",
         "96": "/PNG/96/Travel/us_capitol-96.png",
         "48": "/PNG/48/Travel/us_capitol-48.png"
+      }
+    }
+  },
+  {
+    "id": 5145,
+    "name": "vampire",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/vampire.svg",
+      "eps": "/EPS/Holidays/vampire.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/vampire-32.png",
+        "128": "/PNG/128/Holidays/vampire-128.png",
+        "256": "/PNG/256/Holidays/vampire-256.png",
+        "36": "/PNG/36/Holidays/vampire-36.png",
+        "512": "/PNG/512/Holidays/vampire-512.png",
+        "64": "/PNG/64/Holidays/vampire-64.png",
+        "24": "/PNG/24/Holidays/vampire-24.png",
+        "96": "/PNG/96/Holidays/vampire-96.png",
+        "48": "/PNG/48/Holidays/vampire-48.png"
       }
     }
   },
@@ -42499,6 +43071,110 @@
     }
   },
   {
+    "id": 5162,
+    "name": "wedding_cake",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/wedding_cake.svg",
+      "eps": "/EPS/Holidays/wedding_cake.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/wedding_cake-32.png",
+        "128": "/PNG/128/Holidays/wedding_cake-128.png",
+        "256": "/PNG/256/Holidays/wedding_cake-256.png",
+        "36": "/PNG/36/Holidays/wedding_cake-36.png",
+        "512": "/PNG/512/Holidays/wedding_cake-512.png",
+        "64": "/PNG/64/Holidays/wedding_cake-64.png",
+        "24": "/PNG/24/Holidays/wedding_cake-24.png",
+        "96": "/PNG/96/Holidays/wedding_cake-96.png",
+        "48": "/PNG/48/Holidays/wedding_cake-48.png"
+      }
+    }
+  },
+  {
+    "id": 5160,
+    "name": "wedding_day",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/wedding_day.svg",
+      "eps": "/EPS/Holidays/wedding_day.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/wedding_day-32.png",
+        "128": "/PNG/128/Holidays/wedding_day-128.png",
+        "256": "/PNG/256/Holidays/wedding_day-256.png",
+        "36": "/PNG/36/Holidays/wedding_day-36.png",
+        "512": "/PNG/512/Holidays/wedding_day-512.png",
+        "64": "/PNG/64/Holidays/wedding_day-64.png",
+        "24": "/PNG/24/Holidays/wedding_day-24.png",
+        "96": "/PNG/96/Holidays/wedding_day-96.png",
+        "48": "/PNG/48/Holidays/wedding_day-48.png"
+      }
+    }
+  },
+  {
+    "id": 5152,
+    "name": "wedding_photo",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/wedding_photo.svg",
+      "eps": "/EPS/Holidays/wedding_photo.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/wedding_photo-32.png",
+        "128": "/PNG/128/Holidays/wedding_photo-128.png",
+        "256": "/PNG/256/Holidays/wedding_photo-256.png",
+        "36": "/PNG/36/Holidays/wedding_photo-36.png",
+        "512": "/PNG/512/Holidays/wedding_photo-512.png",
+        "64": "/PNG/64/Holidays/wedding_photo-64.png",
+        "24": "/PNG/24/Holidays/wedding_photo-24.png",
+        "96": "/PNG/96/Holidays/wedding_photo-96.png",
+        "48": "/PNG/48/Holidays/wedding_photo-48.png"
+      }
+    }
+  },
+  {
+    "id": 5161,
+    "name": "wedding_rings",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/wedding_rings.svg",
+      "eps": "/EPS/Holidays/wedding_rings.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/wedding_rings-32.png",
+        "128": "/PNG/128/Holidays/wedding_rings-128.png",
+        "256": "/PNG/256/Holidays/wedding_rings-256.png",
+        "36": "/PNG/36/Holidays/wedding_rings-36.png",
+        "512": "/PNG/512/Holidays/wedding_rings-512.png",
+        "64": "/PNG/64/Holidays/wedding_rings-64.png",
+        "24": "/PNG/24/Holidays/wedding_rings-24.png",
+        "96": "/PNG/96/Holidays/wedding_rings-96.png",
+        "48": "/PNG/48/Holidays/wedding_rings-48.png"
+      }
+    }
+  },
+  {
     "id": 3904,
     "name": "weight",
     "platform": "Android",
@@ -42597,6 +43273,32 @@
         "24": "/PNG/24/Transport/weight_station-24.png",
         "96": "/PNG/96/Transport/weight_station-96.png",
         "48": "/PNG/48/Transport/weight_station-48.png"
+      }
+    }
+  },
+  {
+    "id": 5163,
+    "name": "werewolf",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/werewolf.svg",
+      "eps": "/EPS/Holidays/werewolf.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/werewolf-32.png",
+        "128": "/PNG/128/Holidays/werewolf-128.png",
+        "256": "/PNG/256/Holidays/werewolf-256.png",
+        "36": "/PNG/36/Holidays/werewolf-36.png",
+        "512": "/PNG/512/Holidays/werewolf-512.png",
+        "64": "/PNG/64/Holidays/werewolf-64.png",
+        "24": "/PNG/24/Holidays/werewolf-24.png",
+        "96": "/PNG/96/Holidays/werewolf-96.png",
+        "48": "/PNG/48/Holidays/werewolf-48.png"
       }
     }
   },
@@ -43283,6 +43985,58 @@
         "24": "/PNG/24/Healthcare/wipes-24.png",
         "96": "/PNG/96/Healthcare/wipes-96.png",
         "48": "/PNG/48/Healthcare/wipes-48.png"
+      }
+    }
+  },
+  {
+    "id": 5155,
+    "name": "witch",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/witch.svg",
+      "eps": "/EPS/Holidays/witch.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/witch-32.png",
+        "128": "/PNG/128/Holidays/witch-128.png",
+        "256": "/PNG/256/Holidays/witch-256.png",
+        "36": "/PNG/36/Holidays/witch-36.png",
+        "512": "/PNG/512/Holidays/witch-512.png",
+        "64": "/PNG/64/Holidays/witch-64.png",
+        "24": "/PNG/24/Holidays/witch-24.png",
+        "96": "/PNG/96/Holidays/witch-96.png",
+        "48": "/PNG/48/Holidays/witch-48.png"
+      }
+    }
+  },
+  {
+    "id": 5158,
+    "name": "wizard",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/wizard.svg",
+      "eps": "/EPS/Holidays/wizard.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/wizard-32.png",
+        "128": "/PNG/128/Holidays/wizard-128.png",
+        "256": "/PNG/256/Holidays/wizard-256.png",
+        "36": "/PNG/36/Holidays/wizard-36.png",
+        "512": "/PNG/512/Holidays/wizard-512.png",
+        "64": "/PNG/64/Holidays/wizard-64.png",
+        "24": "/PNG/24/Holidays/wizard-24.png",
+        "96": "/PNG/96/Holidays/wizard-96.png",
+        "48": "/PNG/48/Holidays/wizard-48.png"
       }
     }
   },
@@ -44193,6 +44947,32 @@
         "24": "/PNG/24/Sports/yoga-24.png",
         "96": "/PNG/96/Sports/yoga-96.png",
         "48": "/PNG/48/Sports/yoga-48.png"
+      }
+    }
+  },
+  {
+    "id": 5150,
+    "name": "zombie",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403657474,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/zombie.svg",
+      "eps": "/EPS/Holidays/zombie.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/zombie-32.png",
+        "128": "/PNG/128/Holidays/zombie-128.png",
+        "256": "/PNG/256/Holidays/zombie-256.png",
+        "36": "/PNG/36/Holidays/zombie-36.png",
+        "512": "/PNG/512/Holidays/zombie-512.png",
+        "64": "/PNG/64/Holidays/zombie-64.png",
+        "24": "/PNG/24/Holidays/zombie-24.png",
+        "96": "/PNG/96/Holidays/zombie-96.png",
+        "48": "/PNG/48/Holidays/zombie-48.png"
       }
     }
   }

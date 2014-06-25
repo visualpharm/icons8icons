@@ -17323,7 +17323,6 @@
       "home",
       "house",
       "shop",
-      "entrance",
       "nature",
       "biology",
       "class",
@@ -17343,7 +17342,8 @@
       "doggie home",
       "dogs sleepy time",
       "hut",
-      "shed"
+      "shed",
+      "entrance"
     ],
     "copyright": false,
     "files": {
@@ -52498,6 +52498,7 @@
     "category": "Ecommerce",
     "created": 1390342414,
     "tags": [
+      "rules",
       "cart",
       "products"
     ],
@@ -63885,6 +63886,32 @@
         "100": "/PNG/100/Users/user_female4-100.png",
         "512": "/PNG/512/Users/user_female4-512.png",
         "50": "/PNG/50/Users/user_female4-50.png"
+      }
+    }
+  },
+  {
+    "id": 2952,
+    "name": "user_male",
+    "platform": "iPhone/iOS 7",
+    "category": "Users",
+    "created": 1390342414,
+    "tags": [
+      "female"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Users/user_male.svg",
+      "svg.simplified": "/SVG_for_Font/Users/user_male.svg",
+      "eps": "/EPS/Users/user_male.eps",
+      "png": {
+        "25": "/PNG/25/Users/user_male-25.png",
+        "32": "/PNG/32/Users/user_male-32.png",
+        "128": "/PNG/128/Users/user_male-128.png",
+        "75": "/PNG/75/Users/user_male-75.png",
+        "256": "/PNG/256/Users/user_male-256.png",
+        "100": "/PNG/100/Users/user_male-100.png",
+        "512": "/PNG/512/Users/user_male-512.png",
+        "50": "/PNG/50/Users/user_male-50.png"
       }
     }
   },
