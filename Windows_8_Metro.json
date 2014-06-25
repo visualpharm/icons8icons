@@ -2365,6 +2365,7 @@
       "paths",
       "illustration",
       "sign",
+      "weather",
       "item",
       "air",
       "wood",
@@ -2392,8 +2393,7 @@
       "space",
       "signs",
       "force",
-      "falling",
-      "two"
+      "fall"
     ],
     "copyright": false,
     "files": {
@@ -4607,6 +4607,7 @@
     "tags": [
       "vector",
       "mark",
+      "app",
       "new",
       "team",
       "tools",
@@ -4645,7 +4646,7 @@
       "cogwheel",
       "ships wheel",
       "toothed wheel",
-      "rotating mac"
+      "rotating"
     ],
     "copyright": false,
     "files": {
@@ -7455,7 +7456,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/City/bench.svg",
       "svg.simplified": "/SVG_for_Font/City/bench.svg",
       "eps": "/EPS/City/bench.eps",
       "png": {
@@ -11520,7 +11520,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Holidays/candy.svg",
       "svg.simplified": "/SVG_for_Font/Holidays/candy.svg",
       "eps": "/EPS/Holidays/candy.eps",
       "png": {
@@ -14561,6 +14560,30 @@
         "512": "/PNG/512/Plants/citrus-512.png",
         "64": "/PNG/64/Plants/citrus-64.png",
         "48": "/PNG/48/Plants/citrus-48.png"
+      }
+    }
+  },
+  {
+    "id": 5173,
+    "name": "city_bench",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1403722262,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/city_bench.svg",
+      "eps": "/EPS/City/city_bench.eps",
+      "png": {
+        "32": "/PNG/32/City/city_bench-32.png",
+        "128": "/PNG/128/City/city_bench-128.png",
+        "26": "/PNG/26/City/city_bench-26.png",
+        "256": "/PNG/256/City/city_bench-256.png",
+        "512": "/PNG/512/City/city_bench-512.png",
+        "64": "/PNG/64/City/city_bench-64.png",
+        "48": "/PNG/48/City/city_bench-48.png"
       }
     }
   },
@@ -33148,6 +33171,30 @@
     }
   },
   {
+    "id": 5175,
+    "name": "halloween_candy",
+    "platform": "Windows 8/Metro",
+    "category": "Holidays",
+    "created": 1403722262,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/halloween_candy.svg",
+      "eps": "/EPS/Holidays/halloween_candy.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/halloween_candy-32.png",
+        "128": "/PNG/128/Holidays/halloween_candy-128.png",
+        "26": "/PNG/26/Holidays/halloween_candy-26.png",
+        "256": "/PNG/256/Holidays/halloween_candy-256.png",
+        "512": "/PNG/512/Holidays/halloween_candy-512.png",
+        "64": "/PNG/64/Holidays/halloween_candy-64.png",
+        "48": "/PNG/48/Holidays/halloween_candy-48.png"
+      }
+    }
+  },
+  {
     "id": 1207,
     "name": "hammer",
     "platform": "Windows 8/Metro",
@@ -49810,10 +49857,13 @@
     "category": "Programming",
     "created": 1324466649,
     "tags": [
+      "administrator",
       "app",
       "application",
       "outline",
-      "debug"
+      "debug",
+      "administration",
+      "gui"
     ],
     "copyright": false,
     "files": {
@@ -57278,21 +57328,18 @@
     "category": "Business",
     "created": 1399978278,
     "tags": [
-      "chart",
       "mail",
       "message",
       "read",
       "arrow",
       "direction",
       "graph",
-      "statistics",
       "overview",
       "data",
       "presentation",
       "label",
       "profit",
       "business",
-      "report",
       "motion",
       "point",
       "upward",
@@ -57302,7 +57349,10 @@
       "article",
       "movement",
       "result",
-      "mission"
+      "mission",
+      "chart",
+      "statistics",
+      "report"
     ],
     "copyright": false,
     "files": {

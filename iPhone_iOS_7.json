@@ -5068,7 +5068,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/City/bench.svg",
       "svg.simplified": "/SVG_for_Font/City/bench.svg",
       "eps": "/EPS/City/bench.eps",
       "png": {
@@ -8342,7 +8341,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Holidays/candy.svg",
       "svg.simplified": "/SVG_for_Font/Holidays/candy.svg",
       "eps": "/EPS/Holidays/candy.eps",
       "png": {
@@ -10984,6 +10982,31 @@
         "100": "/PNG/100/Plants/citrus-100.png",
         "512": "/PNG/512/Plants/citrus-512.png",
         "50": "/PNG/50/Plants/citrus-50.png"
+      }
+    }
+  },
+  {
+    "id": 5174,
+    "name": "city_bench",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1403722262,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/city_bench.svg",
+      "eps": "/EPS/City/city_bench.eps",
+      "png": {
+        "25": "/PNG/25/City/city_bench-25.png",
+        "32": "/PNG/32/City/city_bench-32.png",
+        "128": "/PNG/128/City/city_bench-128.png",
+        "75": "/PNG/75/City/city_bench-75.png",
+        "256": "/PNG/256/City/city_bench-256.png",
+        "100": "/PNG/100/City/city_bench-100.png",
+        "512": "/PNG/512/City/city_bench-512.png",
+        "50": "/PNG/50/City/city_bench-50.png"
       }
     }
   },
@@ -16645,6 +16668,7 @@
       "navigation",
       "gis",
       "area",
+      "member",
       "glonass"
     ],
     "copyright": false,
@@ -26926,6 +26950,31 @@
         "100": "/PNG/100/Hair/hair_dryer-100.png",
         "512": "/PNG/512/Hair/hair_dryer-512.png",
         "50": "/PNG/50/Hair/hair_dryer-50.png"
+      }
+    }
+  },
+  {
+    "id": 5176,
+    "name": "halloween_candy",
+    "platform": "iPhone/iOS 7",
+    "category": "Holidays",
+    "created": 1403722262,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/halloween_candy.svg",
+      "eps": "/EPS/Holidays/halloween_candy.eps",
+      "png": {
+        "25": "/PNG/25/Holidays/halloween_candy-25.png",
+        "32": "/PNG/32/Holidays/halloween_candy-32.png",
+        "128": "/PNG/128/Holidays/halloween_candy-128.png",
+        "75": "/PNG/75/Holidays/halloween_candy-75.png",
+        "256": "/PNG/256/Holidays/halloween_candy-256.png",
+        "100": "/PNG/100/Holidays/halloween_candy-100.png",
+        "512": "/PNG/512/Holidays/halloween_candy-512.png",
+        "50": "/PNG/50/Holidays/halloween_candy-50.png"
       }
     }
   },
@@ -38872,7 +38921,9 @@
       "interior",
       "domestic",
       "living space",
-      "accommodation"
+      "accommodation",
+      "clove",
+      "spike"
     ],
     "copyright": false,
     "files": {
@@ -45258,6 +45309,7 @@
     "category": "Very Basic",
     "created": 1390342414,
     "tags": [
+      "presentation",
       "alert"
     ],
     "copyright": false,
@@ -48366,6 +48418,8 @@
     "category": "City",
     "created": 1331029013,
     "tags": [
+      "diet",
+      "lunch",
       "town",
       "settlement",
       "urban",
@@ -48377,7 +48431,6 @@
       "dining",
       "breakfast",
       "meal",
-      "lunch",
       "cutlery",
       "buffet"
     ],

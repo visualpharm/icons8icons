@@ -5740,7 +5740,6 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Holidays/candy.svg",
       "svg.simplified": "/SVG_for_Font/Christmas/candy.svg",
       "eps": "/EPS/Holidays/candy.eps",
       "png": {
@@ -27010,7 +27009,7 @@
     "id": 4726,
     "name": "park_bench",
     "platform": "Android",
-    "category": "City",
+    "category": "Travel",
     "created": 1401166273,
     "tags": [
       "vector",
@@ -27063,7 +27062,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/City/park_bench.svg",
+      "svg": "/SVG/Travel/park_bench.svg",
       "svg.simplified": "/SVG_for_Font/City/park_bench.svg",
       "eps": "/EPS/City/park_bench.eps",
       "png": {
