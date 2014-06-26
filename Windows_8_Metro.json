@@ -1323,6 +1323,13 @@
       "address book",
       "contacts",
       "phone book",
+      "mail",
+      "profile",
+      "dial",
+      "email",
+      "schedule",
+      "friends",
+      "phone numbers",
       "contacts book"
     ],
     "copyright": false,
@@ -9701,6 +9708,7 @@
     "category": "Household",
     "created": 1390342413,
     "tags": [
+      "clean",
       "print",
       "home",
       "house",
@@ -9747,8 +9755,7 @@
       "painter",
       "decorate",
       "living space",
-      "accommodation",
-      "br"
+      "accommodat"
     ],
     "copyright": false,
     "files": {
@@ -10286,12 +10293,12 @@
     "tags": [
       "card",
       "info",
+      "business",
       "personal",
       "management icons",
       "industry",
       "name",
       "contact",
-      "Lending",
       "address"
     ],
     "copyright": false,
@@ -15156,6 +15163,7 @@
       "time efficiency",
       "fast",
       "ready",
+      "tools",
       "timer",
       "wine",
       "truck",
@@ -17078,12 +17086,12 @@
     "created": 1327398564,
     "tags": [
       "contacts",
-      "mail",
+      "user",
       "badge",
       "profile",
       "dial",
       "phonebook",
-      "gallery"
+      "connection"
     ],
     "copyright": false,
     "files": {
@@ -17809,7 +17817,6 @@
       "information",
       "secure",
       "folders",
-      "note",
       "document",
       "symbol",
       "storage",
@@ -17843,7 +17850,7 @@
       "papers",
       "theater",
       "instruction",
-      "inte"
+      "internati"
     ],
     "copyright": false,
     "files": {
@@ -23614,10 +23621,12 @@
       "edit",
       "key",
       "list",
+      "speaker",
       "properties",
       "list of properties",
       "edit property",
-      "logging"
+      "logging",
+      "specker"
     ],
     "copyright": false,
     "files": {
@@ -32145,6 +32154,7 @@
       "add",
       "hat",
       "success",
+      "bars",
       "diploma",
       "award",
       "university",
@@ -32538,18 +32548,11 @@
       "multiple",
       "crowd",
       "team",
-      "teaming",
       "multiple users",
       "gather",
       "meet",
-      "foregather",
-      "aggroup",
-      "flock",
-      "info",
       "couple",
-      "picture",
-      "contact",
-      "weight"
+      "contact"
     ],
     "copyright": false,
     "files": {
@@ -41809,26 +41812,18 @@
     "category": "Business",
     "created": 1324639534,
     "tags": [
-      "cash",
-      "card",
-      "bank",
       "user",
       "group",
-      "info",
       "presentation",
-      "address",
-      "personal",
-      "credit",
+      "official",
       "management icons",
       "industry",
       "boss",
-      "charge",
       "head",
       "name",
       "contact",
-      "headphone",
-      "call center",
-      "cal"
+      "executive",
+      "exec"
     ],
     "copyright": false,
     "files": {
@@ -42950,6 +42945,7 @@
       "crowd",
       "announcement",
       "speaking",
+      "smile",
       "announce",
       "objects",
       "spam",
@@ -44583,7 +44579,6 @@
       "happy",
       "graphic",
       "oil",
-      "layout",
       "art",
       "grid",
       "element",
@@ -44597,7 +44592,8 @@
       "modern art",
       "photo album",
       "mosaic",
-      "fine"
+      "fine",
+      "layout"
     ],
     "copyright": false,
     "files": {
@@ -46683,18 +46679,10 @@
       "talk",
       "speech",
       "people",
-      "text",
       "person",
       "speech bubble",
-      "name",
-      "contact",
-      "man",
-      "woman",
-      "black",
-      "white",
       "email",
       "conversation",
-      "black and white",
       "dialogue",
       "friend",
       "text message"
@@ -49041,7 +49029,6 @@
       "cross",
       "edit",
       "minus",
-      "functions",
       "error",
       "next",
       "success",
@@ -49451,15 +49438,14 @@
     "created": 1324639534,
     "tags": [
       "info",
-      "personal",
+      "headset",
       "management icons",
       "head",
       "contact",
       "headphone",
       "call center",
       "support",
-      "tech support",
-      "game"
+      "tech support"
     ],
     "copyright": false,
     "files": {
@@ -55431,12 +55417,15 @@
     "category": "Ecommerce",
     "created": 1327313615,
     "tags": [
+      "box",
+      "shipping",
       "package",
-      "web",
-      "contact",
       "item",
       "section",
+      "stock",
       "service",
+      "merchandise",
+      "parcel",
       "product"
     ],
     "copyright": false,
@@ -66139,7 +66128,6 @@
     "tags": [
       "clock",
       "time",
-      "watch",
       "minute",
       "hour",
       "second",
@@ -66157,7 +66145,8 @@
       "odometer",
       "miles",
       "kilometre",
-      "checking the time"
+      "checking the time",
+      "watch"
     ],
     "copyright": false,
     "files": {
@@ -66930,11 +66919,9 @@
     "category": "Photo and Video",
     "created": 1333700655,
     "tags": [
-      "office",
       "print",
       "files",
       "folders",
-      "audio",
       "album",
       "photos",
       "image",
@@ -80200,7 +80187,8 @@
       "wiki",
       "wikipedia",
       "social",
-      "company"
+      "company",
+      "value"
     ],
     "copyright": false,
     "files": {

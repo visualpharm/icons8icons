@@ -25352,45 +25352,6 @@
     }
   },
   {
-    "id": 3198,
-    "name": "motorcycle",
-    "platform": "Android",
-    "category": "Transport",
-    "created": 1391770248,
-    "tags": [
-      "delivery",
-      "play",
-      "transport set",
-      "helmet",
-      "wheels",
-      "children",
-      "rider",
-      "park",
-      "cool",
-      "break",
-      "pizza",
-      "gasoline",
-      "travel"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Transport/motorcycle.svg",
-      "svg.simplified": "/SVG_for_Font/Transport/motorcycle.svg",
-      "eps": "/EPS/Transport/motorcycle.eps",
-      "png": {
-        "32": "/PNG/32/Transport/motorcycle-32.png",
-        "128": "/PNG/128/Transport/motorcycle-128.png",
-        "256": "/PNG/256/Transport/motorcycle-256.png",
-        "36": "/PNG/36/Transport/motorcycle-36.png",
-        "512": "/PNG/512/Transport/motorcycle-512.png",
-        "64": "/PNG/64/Transport/motorcycle-64.png",
-        "24": "/PNG/24/Transport/motorcycle-24.png",
-        "96": "/PNG/96/Transport/motorcycle-96.png",
-        "48": "/PNG/48/Transport/motorcycle-48.png"
-      }
-    }
-  },
-  {
     "id": 3961,
     "name": "mountain_biking",
     "platform": "Android",
@@ -44300,6 +44261,7 @@
       "athlete",
       "competition",
       "championship",
+      "steering",
       "physical activity",
       "olympic"
     ],

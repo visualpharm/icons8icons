@@ -7246,10 +7246,8 @@
     "category": "Science",
     "created": 1377596134,
     "tags": [
-      "chart",
-      "business",
-      "classes",
-      "class"
+      "design",
+      "business"
     ],
     "copyright": false,
     "files": {
@@ -9882,7 +9880,6 @@
       "ok",
       "data",
       "camera",
-      "button",
       "upright",
       "suitable",
       "honest",
@@ -9902,6 +9899,7 @@
       "stand-up",
       "virtuous",
       "tick",
+      "button",
       "legal",
       "proper",
       "appropriate",
@@ -13151,6 +13149,7 @@
       "dial",
       "phonebook",
       "email",
+      "schedule",
       "friends",
       "agenda",
       "phone numbers"
@@ -13179,7 +13178,14 @@
     "category": "Messaging",
     "created": 1390342414,
     "tags": [
-      "cancel"
+      "contacts",
+      "cancel",
+      "mail",
+      "profile",
+      "dial",
+      "email",
+      "friends",
+      "phone number"
     ],
     "copyright": false,
     "files": {
@@ -19025,24 +19031,20 @@
     "category": "Photo and Video",
     "created": 1360581355,
     "tags": [
+      "frame",
+      "retro revival",
+      "photography",
+      "painted image",
+      "curve",
       "image",
       "photo",
       "picture",
       "pictures",
-      "camera",
-      "frame",
       "art",
       "gallery",
-      "shot",
-      "retro revival",
       "image gallery",
-      "frames",
       "picture frame",
       "paintings",
-      "photography",
-      "painted image",
-      "curve",
-      "candle",
       "edit image"
     ],
     "copyright": false,
@@ -20487,6 +20489,7 @@
     "category": "User Interface",
     "created": 1390342413,
     "tags": [
+      "car",
       "option"
     ],
     "copyright": false,
@@ -28571,35 +28574,6 @@
         "100": "/PNG/100/Very_Basic/home-100.png",
         "512": "/PNG/512/Very_Basic/home-512.png",
         "50": "/PNG/50/Very_Basic/home-50.png"
-      }
-    }
-  },
-  {
-    "id": 2797,
-    "name": "home_filled",
-    "platform": "iPhone/iOS 7",
-    "category": "Very Basic",
-    "created": 1390342414,
-    "tags": [
-      "office",
-      "news",
-      "order",
-      "ofice icon"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Very_Basic/home_filled.svg",
-      "svg.simplified": "/SVG_for_Font/Very_Basic/home_filled.svg",
-      "eps": "/EPS/Very_Basic/home_filled.eps",
-      "png": {
-        "25": "/PNG/25/Very_Basic/home_filled-25.png",
-        "32": "/PNG/32/Very_Basic/home_filled-32.png",
-        "128": "/PNG/128/Very_Basic/home_filled-128.png",
-        "75": "/PNG/75/Very_Basic/home_filled-75.png",
-        "256": "/PNG/256/Very_Basic/home_filled-256.png",
-        "100": "/PNG/100/Very_Basic/home_filled-100.png",
-        "512": "/PNG/512/Very_Basic/home_filled-512.png",
-        "50": "/PNG/50/Very_Basic/home_filled-50.png"
       }
     }
   },
@@ -38865,23 +38839,15 @@
       "call",
       "talk",
       "speech",
-      "people",
       "text",
       "person",
       "speech bubble",
-      "name",
-      "contact",
-      "man",
-      "woman",
-      "youtube",
-      "black",
-      "white",
       "email",
       "conversation",
-      "black and white",
       "dialogue",
       "friend",
-      "text message"
+      "text message",
+      "people"
     ],
     "copyright": false,
     "files": {
@@ -50090,7 +50056,6 @@
       "gray",
       "jump",
       "sketch",
-      "wildlife",
       "domestic",
       "active",
       "turtle",
@@ -50100,7 +50065,8 @@
       "2-tone",
       "energetic",
       "zoo",
-      "zoology"
+      "zoology",
+      "wildlife"
     ],
     "copyright": false,
     "files": {
@@ -51324,36 +51290,24 @@
     "created": 1318305600,
     "tags": [
       "google",
-      "user",
       "tick",
-      "edit",
-      "heart",
       "search",
       "magnifier",
-      "detect",
-      "settings",
-      "people",
-      "pay",
-      "account",
       "view",
-      "contact",
-      "board",
-      "supermarket",
-      "circle",
       "exam",
-      "organize",
-      "tap",
+      "research",
       "finder",
-      "spotlight",
-      "categories",
-      "reorder",
-      "search bar",
+      "explore",
+      "exame",
+      "look for",
+      "investigate",
+      "seek",
+      "look up",
       "detective",
       "magnify",
       "magnified",
       "zoom in",
       "details",
-      "exame",
       "scan",
       "zoom out",
       "find"
@@ -62566,6 +62520,7 @@
     "created": 1394729489,
     "tags": [
       "delivery",
+      "edit",
       "sale",
       "coins",
       "gift",
@@ -62934,7 +62889,7 @@
       "news",
       "email",
       "pinterest",
-      "Rigt",
+      "messages",
       "Facebook"
     ],
     "copyright": false,
@@ -63714,7 +63669,6 @@
     "category": "Very Basic",
     "created": 1323361504,
     "tags": [
-      "cart",
       "share"
     ],
     "copyright": false,
@@ -64155,12 +64109,11 @@
       "arrow",
       "contact",
       "Facebook",
-      "support",
       "pass",
       "tuner",
       "fax",
-      "peaple",
-      "person"
+      "person",
+      "support"
     ],
     "copyright": false,
     "files": {
