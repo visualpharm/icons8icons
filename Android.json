@@ -759,7 +759,6 @@
       "darkness",
       "gas",
       "wet",
-      "moon",
       "stars",
       "rest",
       "dark",
@@ -778,7 +777,8 @@
       "signs",
       "force",
       "falling",
-      "two"
+      "two",
+      "third"
     ],
     "copyright": false,
     "files": {
@@ -2645,14 +2645,14 @@
     "id": 4488,
     "name": "barley",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1399949487,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/barley.svg",
+      "svg": "/SVG/Plants/barley.svg",
       "svg.simplified": "/SVG_for_Font/Nature/barley.svg",
       "eps": "/EPS/Nature/barley.eps",
       "png": {
@@ -3648,14 +3648,14 @@
     "id": 4490,
     "name": "berry",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1399949487,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/berry.svg",
+      "svg": "/SVG/Plants/berry.svg",
       "svg.simplified": "/SVG_for_Font/Nature/berry.svg",
       "eps": "/EPS/Nature/berry.eps",
       "png": {
@@ -3927,14 +3927,14 @@
     "id": 4015,
     "name": "bird",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398113512,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/bird.svg",
+      "svg": "/SVG/Animals/bird.svg",
       "svg.simplified": "/SVG_for_Font/Nature/bird.svg",
       "eps": "/EPS/Nature/bird.eps",
       "png": {
@@ -5683,79 +5683,6 @@
     }
   },
   {
-    "id": 3360,
-    "name": "candy",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1391770248,
-    "tags": [
-      "church",
-      "celebration",
-      "food",
-      "fun",
-      "stick",
-      "eat",
-      "party",
-      "round",
-      "yellow",
-      "wind",
-      "taste",
-      "tasty",
-      "snack",
-      "delicious",
-      "sugar",
-      "sweet",
-      "white",
-      "game",
-      "childhood",
-      "kids",
-      "color",
-      "christmas",
-      "orange",
-      "toys",
-      "winter",
-      "holiday",
-      "circle",
-      "single",
-      "isolated",
-      "blowing",
-      "spiral",
-      "yummy",
-      "dessert",
-      "bright",
-      "colorful",
-      "candy",
-      "rainbow",
-      "lollipop",
-      "lollypop",
-      "lolly",
-      "colourful",
-      "unhealthy",
-      "flavor",
-      "sucker",
-      "confection",
-      "lick",
-      "lolly-pop",
-      "trea"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Christmas/candy.svg",
-      "eps": "/EPS/Holidays/candy.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/candy-32.png",
-        "128": "/PNG/128/Holidays/candy-128.png",
-        "256": "/PNG/256/Holidays/candy-256.png",
-        "36": "/PNG/36/Holidays/candy-36.png",
-        "512": "/PNG/512/Holidays/candy-512.png",
-        "64": "/PNG/64/Holidays/candy-64.png",
-        "24": "/PNG/24/Holidays/candy-24.png",
-        "96": "/PNG/96/Holidays/candy-96.png",
-        "48": "/PNG/48/Holidays/candy-48.png"
-      }
-    }
-  },
-  {
     "id": 3134,
     "name": "candy_cane",
     "platform": "Android",
@@ -6378,14 +6305,14 @@
     "id": 4021,
     "name": "cat",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398113512,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/cat.svg",
+      "svg": "/SVG/Animals/cat.svg",
       "svg.simplified": "/SVG_for_Font/Nature/cat.svg",
       "eps": "/EPS/Nature/cat.eps",
       "png": {
@@ -7206,14 +7133,14 @@
     "id": 4014,
     "name": "chicken",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398113512,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/chicken.svg",
+      "svg": "/SVG/Animals/chicken.svg",
       "svg.simplified": "/SVG_for_Font/Nature/chicken.svg",
       "eps": "/EPS/Nature/chicken.eps",
       "png": {
@@ -7318,6 +7245,32 @@
         "24": "/PNG/24/Christmas/christmas_ball-24.png",
         "96": "/PNG/96/Christmas/christmas_ball-96.png",
         "48": "/PNG/48/Christmas/christmas_ball-48.png"
+      }
+    }
+  },
+  {
+    "id": 5177,
+    "name": "christmas_candy",
+    "platform": "Android",
+    "category": "Christmas",
+    "created": 1403743857,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Christmas/christmas_candy.svg",
+      "eps": "/EPS/Christmas/christmas_candy.eps",
+      "png": {
+        "32": "/PNG/32/Christmas/christmas_candy-32.png",
+        "128": "/PNG/128/Christmas/christmas_candy-128.png",
+        "256": "/PNG/256/Christmas/christmas_candy-256.png",
+        "36": "/PNG/36/Christmas/christmas_candy-36.png",
+        "512": "/PNG/512/Christmas/christmas_candy-512.png",
+        "64": "/PNG/64/Christmas/christmas_candy-64.png",
+        "24": "/PNG/24/Christmas/christmas_candy-24.png",
+        "96": "/PNG/96/Christmas/christmas_candy-96.png",
+        "48": "/PNG/48/Christmas/christmas_candy-48.png"
       }
     }
   },
@@ -7570,14 +7523,14 @@
     "id": 4491,
     "name": "citrus",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1399949487,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/citrus.svg",
+      "svg": "/SVG/Plants/citrus.svg",
       "svg.simplified": "/SVG_for_Font/Nature/citrus.svg",
       "eps": "/EPS/Nature/citrus.eps",
       "png": {
@@ -7590,6 +7543,32 @@
         "24": "/PNG/24/Nature/citrus-24.png",
         "96": "/PNG/96/Nature/citrus-96.png",
         "48": "/PNG/48/Nature/citrus-48.png"
+      }
+    }
+  },
+  {
+    "id": 5178,
+    "name": "city_bench",
+    "platform": "Android",
+    "category": "City",
+    "created": 1403743857,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/city_bench.svg",
+      "eps": "/EPS/City/city_bench.eps",
+      "png": {
+        "32": "/PNG/32/City/city_bench-32.png",
+        "128": "/PNG/128/City/city_bench-128.png",
+        "256": "/PNG/256/City/city_bench-256.png",
+        "36": "/PNG/36/City/city_bench-36.png",
+        "512": "/PNG/512/City/city_bench-512.png",
+        "64": "/PNG/64/City/city_bench-64.png",
+        "24": "/PNG/24/City/city_bench-24.png",
+        "96": "/PNG/96/City/city_bench-96.png",
+        "48": "/PNG/48/City/city_bench-48.png"
       }
     }
   },
@@ -9019,14 +8998,14 @@
     "id": 4477,
     "name": "coniferous_tree",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1399949487,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/coniferous_tree.svg",
+      "svg": "/SVG/Plants/coniferous_tree.svg",
       "svg.simplified": "/SVG_for_Font/Nature/coniferous_tree.svg",
       "eps": "/EPS/Nature/coniferous_tree.eps",
       "png": {
@@ -9615,14 +9594,14 @@
     "id": 4013,
     "name": "cow",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398113512,
     "tags": [
       "chicken"
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/cow.svg",
+      "svg": "/SVG/Animals/cow.svg",
       "svg.simplified": "/SVG_for_Font/Nature/cow.svg",
       "eps": "/EPS/Nature/cow.eps",
       "png": {
@@ -9642,14 +9621,14 @@
     "id": 4039,
     "name": "crab",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398207106,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/crab.svg",
+      "svg": "/SVG/Animals/crab.svg",
       "svg.simplified": "/SVG_for_Font/Nature/crab.svg",
       "eps": "/EPS/Nature/crab.eps",
       "png": {
@@ -10296,14 +10275,14 @@
     "id": 4479,
     "name": "deciduous_tree",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1399949487,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/deciduous_tree.svg",
+      "svg": "/SVG/Plants/deciduous_tree.svg",
       "svg.simplified": "/SVG_for_Font/Nature/deciduous_tree.svg",
       "eps": "/EPS/Nature/deciduous_tree.eps",
       "png": {
@@ -11185,7 +11164,7 @@
     "id": 4012,
     "name": "dog",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398113512,
     "tags": [
       "vector",
@@ -11240,7 +11219,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/dog.svg",
+      "svg": "/SVG/Animals/dog.svg",
       "svg.simplified": "/SVG_for_Font/Nature/dog.svg",
       "eps": "/EPS/Nature/dog.eps",
       "png": {
@@ -11260,7 +11239,7 @@
     "id": 4035,
     "name": "dog_bone",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398207106,
     "tags": [
       "skeleton",
@@ -11276,7 +11255,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/dog_bone.svg",
+      "svg": "/SVG/Animals/dog_bone.svg",
       "svg.simplified": "/SVG_for_Font/Nature/dog_bone.svg",
       "eps": "/EPS/Nature/dog_bone.eps",
       "png": {
@@ -11296,7 +11275,7 @@
     "id": 4032,
     "name": "dog_bowl",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398207106,
     "tags": [
       "dog",
@@ -11322,7 +11301,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/dog_bowl.svg",
+      "svg": "/SVG/Animals/dog_bowl.svg",
       "svg.simplified": "/SVG_for_Font/Nature/dog_bowl.svg",
       "eps": "/EPS/Nature/dog_bowl.eps",
       "png": {
@@ -11342,7 +11321,7 @@
     "id": 4030,
     "name": "dog_house",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398207106,
     "tags": [
       "home",
@@ -11367,7 +11346,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/dog_house.svg",
+      "svg": "/SVG/Animals/dog_house.svg",
       "svg.simplified": "/SVG_for_Font/Nature/dog_house.svg",
       "eps": "/EPS/Nature/dog_house.eps",
       "png": {
@@ -11387,7 +11366,7 @@
     "id": 4041,
     "name": "dog_leash",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398207106,
     "tags": [
       "medicine",
@@ -11411,7 +11390,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/dog_leash.svg",
+      "svg": "/SVG/Animals/dog_leash.svg",
       "svg.simplified": "/SVG_for_Font/Nature/dog_leash.svg",
       "eps": "/EPS/Nature/dog_leash.eps",
       "png": {
@@ -11800,14 +11779,14 @@
     "id": 4033,
     "name": "duck",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398207106,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/duck.svg",
+      "svg": "/SVG/Animals/duck.svg",
       "svg.simplified": "/SVG_for_Font/Nature/duck.svg",
       "eps": "/EPS/Nature/duck.eps",
       "png": {
@@ -14355,14 +14334,14 @@
     "id": 4020,
     "name": "fish",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398113512,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/fish.svg",
+      "svg": "/SVG/Animals/fish.svg",
       "svg.simplified": "/SVG_for_Font/Nature/fish.svg",
       "eps": "/EPS/Nature/fish.eps",
       "png": {
@@ -14382,14 +14361,14 @@
     "id": 4019,
     "name": "fish2",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398113512,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/fish2.svg",
+      "svg": "/SVG/Animals/fish2.svg",
       "svg.simplified": "/SVG_for_Font/Nature/fish2.svg",
       "eps": "/EPS/Nature/fish2.eps",
       "png": {
@@ -14712,14 +14691,14 @@
     "id": 4481,
     "name": "flower",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1399949487,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/flower.svg",
+      "svg": "/SVG/Plants/flower.svg",
       "svg.simplified": "/SVG_for_Font/Nature/flower.svg",
       "eps": "/EPS/Nature/flower.eps",
       "png": {
@@ -17089,7 +17068,7 @@
     "id": 4036,
     "name": "gorilla",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398207106,
     "tags": [
       "vector",
@@ -17134,7 +17113,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/gorilla.svg",
+      "svg": "/SVG/Animals/gorilla.svg",
       "svg.simplified": "/SVG_for_Font/Nature/gorilla.svg",
       "eps": "/EPS/Nature/gorilla.eps",
       "png": {
@@ -17304,14 +17283,14 @@
     "id": 4483,
     "name": "grapes",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1399949487,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/grapes.svg",
+      "svg": "/SVG/Plants/grapes.svg",
       "svg.simplified": "/SVG_for_Font/Nature/grapes.svg",
       "eps": "/EPS/Nature/grapes.eps",
       "png": {
@@ -17331,14 +17310,14 @@
     "id": 4494,
     "name": "grass",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1399949487,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/grass.svg",
+      "svg": "/SVG/Plants/grass.svg",
       "svg.simplified": "/SVG_for_Font/Nature/grass.svg",
       "eps": "/EPS/Nature/grass.eps",
       "png": {
@@ -17817,6 +17796,32 @@
     }
   },
   {
+    "id": 5179,
+    "name": "halloween_candy",
+    "platform": "Android",
+    "category": "Holidays",
+    "created": 1403743857,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/halloween_candy.svg",
+      "eps": "/EPS/Holidays/halloween_candy.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/halloween_candy-32.png",
+        "128": "/PNG/128/Holidays/halloween_candy-128.png",
+        "256": "/PNG/256/Holidays/halloween_candy-256.png",
+        "36": "/PNG/36/Holidays/halloween_candy-36.png",
+        "512": "/PNG/512/Holidays/halloween_candy-512.png",
+        "64": "/PNG/64/Holidays/halloween_candy-64.png",
+        "24": "/PNG/24/Holidays/halloween_candy-24.png",
+        "96": "/PNG/96/Holidays/halloween_candy-96.png",
+        "48": "/PNG/48/Holidays/halloween_candy-48.png"
+      }
+    }
+  },
+  {
     "id": 5097,
     "name": "handball",
     "platform": "Android",
@@ -18111,14 +18116,14 @@
     "id": 4484,
     "name": "hazelnut",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1399949487,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/hazelnut.svg",
+      "svg": "/SVG/Plants/hazelnut.svg",
       "svg.simplified": "/SVG_for_Font/Nature/hazelnut.svg",
       "eps": "/EPS/Nature/hazelnut.eps",
       "png": {
@@ -18811,14 +18816,14 @@
     "id": 4485,
     "name": "hops",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1399949487,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/hops.svg",
+      "svg": "/SVG/Plants/hops.svg",
       "svg.simplified": "/SVG_for_Font/Nature/hops.svg",
       "eps": "/EPS/Nature/hops.eps",
       "png": {
@@ -19018,7 +19023,8 @@
       "settlement",
       "manuscript",
       "urban",
-      "wayfinding"
+      "wayfinding",
+      "lodging"
     ],
     "copyright": false,
     "files": {
@@ -19725,7 +19731,7 @@
     "id": 4400,
     "name": "insect",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1399402290,
     "tags": [
       "report",
@@ -19752,7 +19758,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/insect.svg",
+      "svg": "/SVG/Animals/insect.svg",
       "svg.simplified": "/SVG_for_Font/Nature/insect.svg",
       "eps": "/EPS/Nature/insect.eps",
       "png": {
@@ -21264,14 +21270,14 @@
     "id": 4480,
     "name": "leaf",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1399949487,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/leaf.svg",
+      "svg": "/SVG/Plants/leaf.svg",
       "svg.simplified": "/SVG_for_Font/Nature/leaf.svg",
       "eps": "/EPS/Nature/leaf.eps",
       "png": {
@@ -21291,14 +21297,14 @@
     "id": 4482,
     "name": "leaf2",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1399949487,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/leaf2.svg",
+      "svg": "/SVG/Plants/leaf2.svg",
       "svg.simplified": "/SVG_for_Font/Nature/leaf2.svg",
       "eps": "/EPS/Nature/leaf2.eps",
       "png": {
@@ -21318,14 +21324,14 @@
     "id": 4489,
     "name": "leaf3",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1399949487,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/leaf3.svg",
+      "svg": "/SVG/Plants/leaf3.svg",
       "svg.simplified": "/SVG_for_Font/Nature/leaf3.svg",
       "eps": "/EPS/Nature/leaf3.eps",
       "png": {
@@ -24185,7 +24191,7 @@
     "id": 4401,
     "name": "mite",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1399402290,
     "tags": [
       "tick",
@@ -24210,7 +24216,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/mite.svg",
+      "svg": "/SVG/Animals/mite.svg",
       "svg.simplified": "/SVG_for_Font/Nature/mite.svg",
       "eps": "/EPS/Nature/mite.eps",
       "png": {
@@ -26389,14 +26395,14 @@
     "id": 4493,
     "name": "nut",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1399949487,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/nut.svg",
+      "svg": "/SVG/Plants/nut.svg",
       "svg.simplified": "/SVG_for_Font/Nature/nut.svg",
       "eps": "/EPS/Nature/nut.eps",
       "png": {
@@ -26860,14 +26866,14 @@
     "id": 4492,
     "name": "palm_tree",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1399949487,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/palm_tree.svg",
+      "svg": "/SVG/Plants/palm_tree.svg",
       "svg.simplified": "/SVG_for_Font/Nature/palm_tree.svg",
       "eps": "/EPS/Nature/palm_tree.eps",
       "png": {
@@ -27064,17 +27070,17 @@
     "files": {
       "svg": "/SVG/Travel/park_bench.svg",
       "svg.simplified": "/SVG_for_Font/City/park_bench.svg",
-      "eps": "/EPS/City/park_bench.eps",
+      "eps": "/EPS/Travel/park_bench.eps",
       "png": {
-        "32": "/PNG/32/City/park_bench-32.png",
-        "128": "/PNG/128/City/park_bench-128.png",
-        "256": "/PNG/256/City/park_bench-256.png",
-        "36": "/PNG/36/City/park_bench-36.png",
-        "512": "/PNG/512/City/park_bench-512.png",
-        "64": "/PNG/64/City/park_bench-64.png",
-        "24": "/PNG/24/City/park_bench-24.png",
-        "96": "/PNG/96/City/park_bench-96.png",
-        "48": "/PNG/48/City/park_bench-48.png"
+        "32": "/PNG/32/Travel/park_bench-32.png",
+        "128": "/PNG/128/Travel/park_bench-128.png",
+        "256": "/PNG/256/Travel/park_bench-256.png",
+        "36": "/PNG/36/Travel/park_bench-36.png",
+        "512": "/PNG/512/Travel/park_bench-512.png",
+        "64": "/PNG/64/Travel/park_bench-64.png",
+        "24": "/PNG/24/Travel/park_bench-24.png",
+        "96": "/PNG/96/Travel/park_bench-96.png",
+        "48": "/PNG/48/Travel/park_bench-48.png"
       }
     }
   },
@@ -27440,14 +27446,14 @@
     "id": 4495,
     "name": "peanuts",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1399949487,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/peanuts.svg",
+      "svg": "/SVG/Plants/peanuts.svg",
       "svg.simplified": "/SVG_for_Font/Nature/peanuts.svg",
       "eps": "/EPS/Nature/peanuts.eps",
       "png": {
@@ -27953,33 +27959,6 @@
         "24": "/PNG/24/Data/pie-24.png",
         "96": "/PNG/96/Data/pie-96.png",
         "48": "/PNG/48/Data/pie-48.png"
-      }
-    }
-  },
-  {
-    "id": 4018,
-    "name": "pig",
-    "platform": "Android",
-    "category": "Nature",
-    "created": 1398113512,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Nature/pig.svg",
-      "svg.simplified": "/SVG_for_Font/Nature/pig.svg",
-      "eps": "/EPS/Nature/pig.eps",
-      "png": {
-        "32": "/PNG/32/Nature/pig-32.png",
-        "128": "/PNG/128/Nature/pig-128.png",
-        "256": "/PNG/256/Nature/pig-256.png",
-        "36": "/PNG/36/Nature/pig-36.png",
-        "512": "/PNG/512/Nature/pig-512.png",
-        "64": "/PNG/64/Nature/pig-64.png",
-        "24": "/PNG/24/Nature/pig-24.png",
-        "96": "/PNG/96/Nature/pig-96.png",
-        "48": "/PNG/48/Nature/pig-48.png"
       }
     }
   },
@@ -28897,14 +28876,14 @@
     "id": 4017,
     "name": "prawn",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398113512,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/prawn.svg",
+      "svg": "/SVG/Animals/prawn.svg",
       "svg.simplified": "/SVG_for_Font/Nature/prawn.svg",
       "eps": "/EPS/Nature/prawn.eps",
       "png": {
@@ -29626,7 +29605,7 @@
     "id": 4016,
     "name": "rabbit",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398113512,
     "tags": [
       "vector",
@@ -29684,7 +29663,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/rabbit.svg",
+      "svg": "/SVG/Animals/rabbit.svg",
       "svg.simplified": "/SVG_for_Font/Nature/rabbit.svg",
       "eps": "/EPS/Nature/rabbit.eps",
       "png": {
@@ -31977,7 +31956,7 @@
     "id": 4040,
     "name": "running_rabbit",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398207106,
     "tags": [
       "animal",
@@ -32016,7 +31995,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/running_rabbit.svg",
+      "svg": "/SVG/Animals/running_rabbit.svg",
       "svg.simplified": "/SVG_for_Font/Nature/running_rabbit.svg",
       "eps": "/EPS/Nature/running_rabbit.eps",
       "png": {
@@ -33286,14 +33265,14 @@
     "id": 4037,
     "name": "sheep",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398207106,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/sheep.svg",
+      "svg": "/SVG/Animals/sheep.svg",
       "svg.simplified": "/SVG_for_Font/Nature/sheep.svg",
       "eps": "/EPS/Nature/sheep.eps",
       "png": {
@@ -33313,14 +33292,14 @@
     "id": 4034,
     "name": "sheep2",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398207106,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/sheep2.svg",
+      "svg": "/SVG/Animals/sheep2.svg",
       "svg.simplified": "/SVG_for_Font/Nature/sheep2.svg",
       "eps": "/EPS/Nature/sheep2.eps",
       "png": {
@@ -33340,14 +33319,14 @@
     "id": 4038,
     "name": "sheep_on_bike",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398207106,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/sheep_on_bike.svg",
+      "svg": "/SVG/Animals/sheep_on_bike.svg",
       "svg.simplified": "/SVG_for_Font/Nature/sheep_on_bike.svg",
       "eps": "/EPS/Nature/sheep_on_bike.eps",
       "png": {
@@ -35320,14 +35299,14 @@
     "id": 4486,
     "name": "soy",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1399949487,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/soy.svg",
+      "svg": "/SVG/Plants/soy.svg",
       "svg.simplified": "/SVG_for_Font/Nature/soy.svg",
       "eps": "/EPS/Nature/soy.eps",
       "png": {
@@ -39561,14 +39540,14 @@
     "id": 4478,
     "name": "tomato",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1399949487,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/tomato.svg",
+      "svg": "/SVG/Plants/tomato.svg",
       "svg.simplified": "/SVG_for_Font/Nature/tomato.svg",
       "eps": "/EPS/Nature/tomato.eps",
       "png": {
@@ -40717,7 +40696,7 @@
     "id": 4031,
     "name": "turtle",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Animals",
     "created": 1398207106,
     "tags": [
       "design",
@@ -40760,7 +40739,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/turtle.svg",
+      "svg": "/SVG/Animals/turtle.svg",
       "svg.simplified": "/SVG_for_Font/Nature/turtle.svg",
       "eps": "/EPS/Nature/turtle.eps",
       "png": {
@@ -42654,7 +42633,6 @@
       "fate",
       "black",
       "darkness",
-      "moon",
       "stars",
       "rest",
       "dark",
@@ -42681,7 +42659,8 @@
       "feminine",
       "storms",
       "deep",
-      "creati"
+      "creative",
+      "pe"
     ],
     "copyright": false,
     "files": {
@@ -43430,14 +43409,14 @@
     "id": 4487,
     "name": "wheat",
     "platform": "Android",
-    "category": "Nature",
+    "category": "Plants",
     "created": 1399949487,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Nature/wheat.svg",
+      "svg": "/SVG/Plants/wheat.svg",
       "svg.simplified": "/SVG_for_Font/Nature/wheat.svg",
       "eps": "/EPS/Nature/wheat.eps",
       "png": {
@@ -44265,7 +44244,15 @@
     "category": "Sports",
     "created": 1403311877,
     "tags": [
-
+      "soccer",
+      "football",
+      "award",
+      "trophy",
+      "championship",
+      "prize",
+      "brasil",
+      "brazil",
+      "worldcup"
     ],
     "copyright": false,
     "files": {

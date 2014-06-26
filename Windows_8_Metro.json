@@ -4568,6 +4568,7 @@
     "category": "Music",
     "created": 1319826378,
     "tags": [
+      "book",
       "pen",
       "writing",
       "play",
@@ -5710,7 +5711,8 @@
       "supermarket",
       "culinary",
       "lunch",
-      "cafe"
+      "cafe",
+      "hotel"
     ],
     "copyright": false,
     "files": {
@@ -6908,24 +6910,24 @@
     "id": 3526,
     "name": "bear_track",
     "platform": "Windows 8/Metro",
-    "category": "Travel",
+    "category": "Animals",
     "created": 1394110277,
     "tags": [
       "footprint"
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Travel/bear_track.svg",
+      "svg": "/SVG/Animals/bear_track.svg",
       "svg.simplified": "/SVG_for_Font/Travel/bear_track.svg",
-      "eps": "/EPS/Travel/bear_track.eps",
+      "eps": "/EPS/Animals/bear_track.eps",
       "png": {
-        "32": "/PNG/32/Travel/bear_track-32.png",
-        "128": "/PNG/128/Travel/bear_track-128.png",
-        "26": "/PNG/26/Travel/bear_track-26.png",
-        "256": "/PNG/256/Travel/bear_track-256.png",
-        "512": "/PNG/512/Travel/bear_track-512.png",
-        "64": "/PNG/64/Travel/bear_track-64.png",
-        "48": "/PNG/48/Travel/bear_track-48.png"
+        "32": "/PNG/32/Animals/bear_track-32.png",
+        "128": "/PNG/128/Animals/bear_track-128.png",
+        "26": "/PNG/26/Animals/bear_track-26.png",
+        "256": "/PNG/256/Animals/bear_track-256.png",
+        "512": "/PNG/512/Animals/bear_track-512.png",
+        "64": "/PNG/64/Animals/bear_track-64.png",
+        "48": "/PNG/48/Animals/bear_track-48.png"
       }
     }
   },
@@ -7438,34 +7440,6 @@
         "512": "/PNG/512/Household/bell_service-512.png",
         "64": "/PNG/64/Household/bell_service-64.png",
         "48": "/PNG/48/Household/bell_service-48.png"
-      }
-    }
-  },
-  {
-    "id": 4766,
-    "name": "bench",
-    "platform": "Windows 8/Metro",
-    "category": "City",
-    "created": 1401166273,
-    "tags": [
-      "park",
-      "town",
-      "settlement",
-      "urban",
-      "wayfinding"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/City/bench.svg",
-      "eps": "/EPS/City/bench.eps",
-      "png": {
-        "32": "/PNG/32/City/bench-32.png",
-        "128": "/PNG/128/City/bench-128.png",
-        "26": "/PNG/26/City/bench-26.png",
-        "256": "/PNG/256/City/bench-256.png",
-        "512": "/PNG/512/City/bench-512.png",
-        "64": "/PNG/64/City/bench-64.png",
-        "48": "/PNG/48/City/bench-48.png"
       }
     }
   },
@@ -11462,78 +11436,6 @@
     }
   },
   {
-    "id": 1638,
-    "name": "candy",
-    "platform": "Windows 8/Metro",
-    "category": "Holidays",
-    "created": 1384337861,
-    "tags": [
-      "design",
-      "food",
-      "fun",
-      "stick",
-      "eat",
-      "round",
-      "yellow",
-      "wind",
-      "taste",
-      "tasty",
-      "snack",
-      "delicious",
-      "sweet",
-      "motion",
-      "white",
-      "game",
-      "color",
-      "wheel",
-      "shape",
-      "orange",
-      "toys",
-      "circle",
-      "single",
-      "isolated",
-      "blowing",
-      "spiral",
-      "object",
-      "yummy",
-      "dessert",
-      "bright",
-      "colorful",
-      "candy",
-      "rainbow",
-      "lollipop",
-      "swirl",
-      "lollypop",
-      "lolly",
-      "colourful",
-      "unhealthy",
-      "flavor",
-      "sucker",
-      "confection",
-      "lick",
-      "lolly-pop",
-      "treat",
-      "colour",
-      "lolli",
-      "lolipop",
-      "confectio"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Holidays/candy.svg",
-      "eps": "/EPS/Holidays/candy.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/candy-32.png",
-        "128": "/PNG/128/Holidays/candy-128.png",
-        "26": "/PNG/26/Holidays/candy-26.png",
-        "256": "/PNG/256/Holidays/candy-256.png",
-        "512": "/PNG/512/Holidays/candy-512.png",
-        "64": "/PNG/64/Holidays/candy-64.png",
-        "48": "/PNG/48/Holidays/candy-48.png"
-      }
-    }
-  },
-  {
     "id": 1228,
     "name": "cannon",
     "platform": "Windows 8/Metro",
@@ -12409,7 +12311,7 @@
     "id": 24,
     "name": "cat_track",
     "platform": "Windows 8/Metro",
-    "category": "Travel",
+    "category": "Animals",
     "created": 1336168619,
     "tags": [
       "cat",
@@ -12422,17 +12324,17 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Travel/cat_track.svg",
+      "svg": "/SVG/Animals/cat_track.svg",
       "svg.simplified": "/SVG_for_Font/Travel/cat_track.svg",
-      "eps": "/EPS/Travel/cat_track.eps",
+      "eps": "/EPS/Animals/cat_track.eps",
       "png": {
-        "32": "/PNG/32/Travel/cat_track-32.png",
-        "128": "/PNG/128/Travel/cat_track-128.png",
-        "26": "/PNG/26/Travel/cat_track-26.png",
-        "256": "/PNG/256/Travel/cat_track-256.png",
-        "512": "/PNG/512/Travel/cat_track-512.png",
-        "64": "/PNG/64/Travel/cat_track-64.png",
-        "48": "/PNG/48/Travel/cat_track-48.png"
+        "32": "/PNG/32/Animals/cat_track-32.png",
+        "128": "/PNG/128/Animals/cat_track-128.png",
+        "26": "/PNG/26/Animals/cat_track-26.png",
+        "256": "/PNG/256/Animals/cat_track-256.png",
+        "512": "/PNG/512/Animals/cat_track-512.png",
+        "64": "/PNG/64/Animals/cat_track-64.png",
+        "48": "/PNG/48/Animals/cat_track-48.png"
       }
     }
   },
@@ -21875,7 +21777,7 @@
     "id": 47,
     "name": "dog_track",
     "platform": "Windows 8/Metro",
-    "category": "Travel",
+    "category": "Animals",
     "created": 1336168619,
     "tags": [
       "paw",
@@ -21888,17 +21790,17 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Travel/dog_track.svg",
+      "svg": "/SVG/Animals/dog_track.svg",
       "svg.simplified": "/SVG_for_Font/Travel/dog_track.svg",
-      "eps": "/EPS/Travel/dog_track.eps",
+      "eps": "/EPS/Animals/dog_track.eps",
       "png": {
-        "32": "/PNG/32/Travel/dog_track-32.png",
-        "128": "/PNG/128/Travel/dog_track-128.png",
-        "26": "/PNG/26/Travel/dog_track-26.png",
-        "256": "/PNG/256/Travel/dog_track-256.png",
-        "512": "/PNG/512/Travel/dog_track-512.png",
-        "64": "/PNG/64/Travel/dog_track-64.png",
-        "48": "/PNG/48/Travel/dog_track-48.png"
+        "32": "/PNG/32/Animals/dog_track-32.png",
+        "128": "/PNG/128/Animals/dog_track-128.png",
+        "26": "/PNG/26/Animals/dog_track-26.png",
+        "256": "/PNG/256/Animals/dog_track-256.png",
+        "512": "/PNG/512/Animals/dog_track-512.png",
+        "64": "/PNG/64/Animals/dog_track-64.png",
+        "48": "/PNG/48/Animals/dog_track-48.png"
       }
     }
   },
@@ -25895,7 +25797,6 @@
     "created": 1324900438,
     "tags": [
       "google",
-      "phone",
       "messaging",
       "heart",
       "car",
@@ -34877,6 +34778,7 @@
     "tags": [
       "windows",
       "window",
+      "control",
       "file",
       "home",
       "land",
@@ -50550,6 +50452,7 @@
     "category": "City",
     "created": 1403700664,
     "tags": [
+      "new",
       "home",
       "travel",
       "guard",
@@ -55404,6 +55307,7 @@
     "tags": [
       "package",
       "web",
+      "contact",
       "item",
       "section",
       "service",
@@ -61951,15 +61855,15 @@
     "files": {
       "svg": "/SVG/Travel/sea_waves.svg",
       "svg.simplified": "/SVG_for_Font/Animals/sea_waves.svg",
-      "eps": "/EPS/Animals/sea_waves.eps",
+      "eps": "/EPS/Travel/sea_waves.eps",
       "png": {
-        "32": "/PNG/32/Animals/sea_waves-32.png",
-        "128": "/PNG/128/Animals/sea_waves-128.png",
-        "26": "/PNG/26/Animals/sea_waves-26.png",
-        "256": "/PNG/256/Animals/sea_waves-256.png",
-        "512": "/PNG/512/Animals/sea_waves-512.png",
-        "64": "/PNG/64/Animals/sea_waves-64.png",
-        "48": "/PNG/48/Animals/sea_waves-48.png"
+        "32": "/PNG/32/Travel/sea_waves-32.png",
+        "128": "/PNG/128/Travel/sea_waves-128.png",
+        "26": "/PNG/26/Travel/sea_waves-26.png",
+        "256": "/PNG/256/Travel/sea_waves-256.png",
+        "512": "/PNG/512/Travel/sea_waves-512.png",
+        "64": "/PNG/64/Travel/sea_waves-64.png",
+        "48": "/PNG/48/Travel/sea_waves-48.png"
       }
     }
   },
@@ -79488,6 +79392,7 @@
     "category": "Science",
     "created": 1401742282,
     "tags": [
+      "height",
       "weight",
       "grams"
     ],

@@ -5055,34 +5055,6 @@
     }
   },
   {
-    "id": 4767,
-    "name": "bench",
-    "platform": "iPhone/iOS 7",
-    "category": "City",
-    "created": 1401166273,
-    "tags": [
-      "town",
-      "settlement",
-      "urban",
-      "wayfinding"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/City/bench.svg",
-      "eps": "/EPS/City/bench.eps",
-      "png": {
-        "25": "/PNG/25/City/bench-25.png",
-        "32": "/PNG/32/City/bench-32.png",
-        "128": "/PNG/128/City/bench-128.png",
-        "75": "/PNG/75/City/bench-75.png",
-        "256": "/PNG/256/City/bench-256.png",
-        "100": "/PNG/100/City/bench-100.png",
-        "512": "/PNG/512/City/bench-512.png",
-        "50": "/PNG/50/City/bench-50.png"
-      }
-    }
-  },
-  {
     "id": 3544,
     "name": "beta",
     "platform": "iPhone/iOS 7",
@@ -8279,79 +8251,6 @@
         "100": "/PNG/100/Healthcare/cancer_ribbon-100.png",
         "512": "/PNG/512/Healthcare/cancer_ribbon-512.png",
         "50": "/PNG/50/Healthcare/cancer_ribbon-50.png"
-      }
-    }
-  },
-  {
-    "id": 1639,
-    "name": "candy",
-    "platform": "iPhone/iOS 7",
-    "category": "Holidays",
-    "created": 1384337861,
-    "tags": [
-      "design",
-      "food",
-      "fun",
-      "stick",
-      "eat",
-      "round",
-      "yellow",
-      "wind",
-      "taste",
-      "tasty",
-      "snack",
-      "delicious",
-      "sugar",
-      "sweet",
-      "motion",
-      "white",
-      "game",
-      "childhood",
-      "wheel",
-      "shape",
-      "orange",
-      "toys",
-      "circle",
-      "single",
-      "isolated",
-      "blowing",
-      "spiral",
-      "object",
-      "yummy",
-      "dessert",
-      "bright",
-      "colorful",
-      "candy",
-      "rainbow",
-      "lollipop",
-      "swirl",
-      "lollypop",
-      "lolly",
-      "colourful",
-      "unhealthy",
-      "flavor",
-      "sucker",
-      "confection",
-      "lick",
-      "lolly-pop",
-      "treat",
-      "colour",
-      "lolli",
-      "lolipop"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Holidays/candy.svg",
-      "eps": "/EPS/Holidays/candy.eps",
-      "png": {
-        "25": "/PNG/25/Holidays/candy-25.png",
-        "32": "/PNG/32/Holidays/candy-32.png",
-        "128": "/PNG/128/Holidays/candy-128.png",
-        "75": "/PNG/75/Holidays/candy-75.png",
-        "256": "/PNG/256/Holidays/candy-256.png",
-        "100": "/PNG/100/Holidays/candy-100.png",
-        "512": "/PNG/512/Holidays/candy-512.png",
-        "50": "/PNG/50/Holidays/candy-50.png"
       }
     }
   },
@@ -15221,6 +15120,7 @@
     "tags": [
       "photos",
       "table",
+      "money",
       "report",
       "image",
       "database",
@@ -15328,6 +15228,7 @@
       "protect",
       "security",
       "data",
+      "screen",
       "shield",
       "firewall",
       "guard",
@@ -16182,6 +16083,7 @@
     "created": 1400071861,
     "tags": [
       "bank",
+      "office",
       "window",
       "house",
       "door",
@@ -18977,8 +18879,8 @@
       "form",
       "fill",
       "writing",
-      "editing",
-      "handwriting"
+      "handwriting",
+      "editing"
     ],
     "copyright": false,
     "files": {
@@ -19460,6 +19362,7 @@
     "created": 1401144672,
     "tags": [
       "share",
+      "form",
       "speaker"
     ],
     "copyright": false,
@@ -21061,6 +20964,7 @@
     "category": "Industry",
     "created": 1395935483,
     "tags": [
+      "work",
       "economy",
       "technology",
       "plant",
@@ -52017,7 +51921,7 @@
     "category": "Very Basic",
     "created": 1401144672,
     "tags": [
-
+      "star"
     ],
     "copyright": false,
     "files": {
@@ -57022,6 +56926,7 @@
     "category": "Users",
     "created": 1390342414,
     "tags": [
+      "info",
       "science",
       "university",
       "student",
@@ -58483,7 +58388,6 @@
       "place",
       "monument",
       "memorial",
-      "chichen itza",
       "ancient",
       "miracle",
       "india",
@@ -58494,15 +58398,7 @@
       "islam",
       "agra",
       "palace",
-      "christ the redeemer",
-      "the great wall china",
-      "the abu simbel temple",
-      "pyramid and sphinx",
-      "burj al arab",
-      "marina bay sands",
-      "potala palace",
-      "emam mosque",
-      "sydney opera house"
+      "wonder of the world"
     ],
     "copyright": false,
     "files": {
@@ -68428,14 +68324,10 @@
     "tags": [
       "games",
       "soccer",
-      "globe",
-      "earth",
-      "host",
-      "artist",
       "champion",
       "figures",
       "human",
-      "up",
+      "match",
       "silver",
       "gold",
       "official",
@@ -68444,34 +68336,26 @@
       "victory",
       "sports",
       "global",
-      "history",
       "award",
       "event",
       "competition",
-      "goddess",
-      "spain",
       "trophy",
       "holding",
-      "base",
       "tournament",
-      "regulations",
-      "greek",
-      "stones",
       "fifa",
-      "nike",
       "prize",
-      "replica",
-      "cricket",
-      "teams",
       "world cup",
       "winner trophy",
       "brasil",
-      "final match",
-      "rugby",
       "brazil",
       "qualifying",
       "winners",
-      "holder"
+      "holder",
+      "semi-precious",
+      "sponsors",
+      "engraved",
+      "jules rimet",
+      "worldcup"
     ],
     "copyright": false,
     "files": {
