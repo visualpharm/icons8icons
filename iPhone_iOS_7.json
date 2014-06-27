@@ -29398,9 +29398,10 @@
       "message",
       "connect",
       "call",
+      "voice",
       "chat",
+      "video",
       "online",
-      "computer",
       "contacts methods",
       "wired",
       "flower"
@@ -53478,17 +53479,18 @@
     "created": 1333961245,
     "tags": [
       "contacts",
-      "program",
       "message",
       "connect",
       "call",
       "telephone",
+      "voice",
       "chat",
       "video",
       "online",
       "computer",
       "contacts methods",
-      "wired"
+      "wired",
+      "telephony"
     ],
     "copyright": true,
     "files": {
