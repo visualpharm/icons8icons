@@ -37,6 +37,114 @@
     }
   },
   {
+    "id": 5249,
+    "name": "2f_swipe_down",
+    "platform": "Android",
+    "category": "User Interface",
+    "created": 1403830274,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/User_Interface/2f_swipe_down.svg",
+      "svg.simplified": "/SVG_for_Font/User_Interface/2f_swipe_down.svg",
+      "eps": "/EPS/User_Interface/2f_swipe_down.eps",
+      "png": {
+        "32": "/PNG/32/User_Interface/2f_swipe_down-32.png",
+        "128": "/PNG/128/User_Interface/2f_swipe_down-128.png",
+        "256": "/PNG/256/User_Interface/2f_swipe_down-256.png",
+        "36": "/PNG/36/User_Interface/2f_swipe_down-36.png",
+        "512": "/PNG/512/User_Interface/2f_swipe_down-512.png",
+        "64": "/PNG/64/User_Interface/2f_swipe_down-64.png",
+        "24": "/PNG/24/User_Interface/2f_swipe_down-24.png",
+        "96": "/PNG/96/User_Interface/2f_swipe_down-96.png",
+        "48": "/PNG/48/User_Interface/2f_swipe_down-48.png"
+      }
+    }
+  },
+  {
+    "id": 5241,
+    "name": "2f_swipe_left",
+    "platform": "Android",
+    "category": "User Interface",
+    "created": 1403830274,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/User_Interface/2f_swipe_left.svg",
+      "svg.simplified": "/SVG_for_Font/User_Interface/2f_swipe_left.svg",
+      "eps": "/EPS/User_Interface/2f_swipe_left.eps",
+      "png": {
+        "32": "/PNG/32/User_Interface/2f_swipe_left-32.png",
+        "128": "/PNG/128/User_Interface/2f_swipe_left-128.png",
+        "256": "/PNG/256/User_Interface/2f_swipe_left-256.png",
+        "36": "/PNG/36/User_Interface/2f_swipe_left-36.png",
+        "512": "/PNG/512/User_Interface/2f_swipe_left-512.png",
+        "64": "/PNG/64/User_Interface/2f_swipe_left-64.png",
+        "24": "/PNG/24/User_Interface/2f_swipe_left-24.png",
+        "96": "/PNG/96/User_Interface/2f_swipe_left-96.png",
+        "48": "/PNG/48/User_Interface/2f_swipe_left-48.png"
+      }
+    }
+  },
+  {
+    "id": 5238,
+    "name": "2f_swipe_right",
+    "platform": "Android",
+    "category": "User Interface",
+    "created": 1403830274,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/User_Interface/2f_swipe_right.svg",
+      "svg.simplified": "/SVG_for_Font/User_Interface/2f_swipe_right.svg",
+      "eps": "/EPS/User_Interface/2f_swipe_right.eps",
+      "png": {
+        "32": "/PNG/32/User_Interface/2f_swipe_right-32.png",
+        "128": "/PNG/128/User_Interface/2f_swipe_right-128.png",
+        "256": "/PNG/256/User_Interface/2f_swipe_right-256.png",
+        "36": "/PNG/36/User_Interface/2f_swipe_right-36.png",
+        "512": "/PNG/512/User_Interface/2f_swipe_right-512.png",
+        "64": "/PNG/64/User_Interface/2f_swipe_right-64.png",
+        "24": "/PNG/24/User_Interface/2f_swipe_right-24.png",
+        "96": "/PNG/96/User_Interface/2f_swipe_right-96.png",
+        "48": "/PNG/48/User_Interface/2f_swipe_right-48.png"
+      }
+    }
+  },
+  {
+    "id": 5240,
+    "name": "2f_swipe_up",
+    "platform": "Android",
+    "category": "User Interface",
+    "created": 1403830274,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/User_Interface/2f_swipe_up.svg",
+      "svg.simplified": "/SVG_for_Font/User_Interface/2f_swipe_up.svg",
+      "eps": "/EPS/User_Interface/2f_swipe_up.eps",
+      "png": {
+        "32": "/PNG/32/User_Interface/2f_swipe_up-32.png",
+        "128": "/PNG/128/User_Interface/2f_swipe_up-128.png",
+        "256": "/PNG/256/User_Interface/2f_swipe_up-256.png",
+        "36": "/PNG/36/User_Interface/2f_swipe_up-36.png",
+        "512": "/PNG/512/User_Interface/2f_swipe_up-512.png",
+        "64": "/PNG/64/User_Interface/2f_swipe_up-64.png",
+        "24": "/PNG/24/User_Interface/2f_swipe_up-24.png",
+        "96": "/PNG/96/User_Interface/2f_swipe_up-96.png",
+        "48": "/PNG/48/User_Interface/2f_swipe_up-48.png"
+      }
+    }
+  },
+  {
     "id": 4154,
     "name": "32bit",
     "platform": "Android",
@@ -1199,6 +1307,33 @@
     }
   },
   {
+    "id": 5180,
+    "name": "ancore",
+    "platform": "Android",
+    "category": "Transport",
+    "created": 1403787053,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Transport/ancore.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/ancore.svg",
+      "eps": "/EPS/Transport/ancore.eps",
+      "png": {
+        "32": "/PNG/32/Transport/ancore-32.png",
+        "128": "/PNG/128/Transport/ancore-128.png",
+        "256": "/PNG/256/Transport/ancore-256.png",
+        "36": "/PNG/36/Transport/ancore-36.png",
+        "512": "/PNG/512/Transport/ancore-512.png",
+        "64": "/PNG/64/Transport/ancore-64.png",
+        "24": "/PNG/24/Transport/ancore-24.png",
+        "96": "/PNG/96/Transport/ancore-96.png",
+        "48": "/PNG/48/Transport/ancore-48.png"
+      }
+    }
+  },
+  {
     "id": 4322,
     "name": "android",
     "platform": "Android",
@@ -1269,6 +1404,60 @@
         "24": "/PNG/24/Mobile/android_tablet_copyrighted-24.png",
         "96": "/PNG/96/Mobile/android_tablet_copyrighted-96.png",
         "48": "/PNG/48/Mobile/android_tablet_copyrighted-48.png"
+      }
+    }
+  },
+  {
+    "id": 5209,
+    "name": "angel",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1403787053,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/angel.svg",
+      "svg.simplified": "/SVG_for_Font/Messaging/angel.svg",
+      "eps": "/EPS/Messaging/angel.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/angel-32.png",
+        "128": "/PNG/128/Messaging/angel-128.png",
+        "256": "/PNG/256/Messaging/angel-256.png",
+        "36": "/PNG/36/Messaging/angel-36.png",
+        "512": "/PNG/512/Messaging/angel-512.png",
+        "64": "/PNG/64/Messaging/angel-64.png",
+        "24": "/PNG/24/Messaging/angel-24.png",
+        "96": "/PNG/96/Messaging/angel-96.png",
+        "48": "/PNG/48/Messaging/angel-48.png"
+      }
+    }
+  },
+  {
+    "id": 5200,
+    "name": "angry",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1403787053,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/angry.svg",
+      "svg.simplified": "/SVG_for_Font/Messaging/angry.svg",
+      "eps": "/EPS/Messaging/angry.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/angry-32.png",
+        "128": "/PNG/128/Messaging/angry-128.png",
+        "256": "/PNG/256/Messaging/angry-256.png",
+        "36": "/PNG/36/Messaging/angry-36.png",
+        "512": "/PNG/512/Messaging/angry-512.png",
+        "64": "/PNG/64/Messaging/angry-64.png",
+        "24": "/PNG/24/Messaging/angry-24.png",
+        "96": "/PNG/96/Messaging/angry-96.png",
+        "48": "/PNG/48/Messaging/angry-48.png"
       }
     }
   },
@@ -9189,6 +9378,33 @@
     }
   },
   {
+    "id": 5212,
+    "name": "cool",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1403787053,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/cool.svg",
+      "svg.simplified": "/SVG_for_Font/Messaging/cool.svg",
+      "eps": "/EPS/Messaging/cool.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/cool-32.png",
+        "128": "/PNG/128/Messaging/cool-128.png",
+        "256": "/PNG/256/Messaging/cool-256.png",
+        "36": "/PNG/36/Messaging/cool-36.png",
+        "512": "/PNG/512/Messaging/cool-512.png",
+        "64": "/PNG/64/Messaging/cool-64.png",
+        "24": "/PNG/24/Messaging/cool-24.png",
+        "96": "/PNG/96/Messaging/cool-96.png",
+        "48": "/PNG/48/Messaging/cool-48.png"
+      }
+    }
+  },
+  {
     "id": 5197,
     "name": "coral",
     "platform": "Android",
@@ -9790,6 +10006,33 @@
         "24": "/PNG/24/Healthcare/crutch-24.png",
         "96": "/PNG/96/Healthcare/crutch-96.png",
         "48": "/PNG/48/Healthcare/crutch-48.png"
+      }
+    }
+  },
+  {
+    "id": 5213,
+    "name": "crying",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1403787053,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/crying.svg",
+      "svg.simplified": "/SVG_for_Font/Messaging/crying.svg",
+      "eps": "/EPS/Messaging/crying.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/crying-32.png",
+        "128": "/PNG/128/Messaging/crying-128.png",
+        "256": "/PNG/256/Messaging/crying-256.png",
+        "36": "/PNG/36/Messaging/crying-36.png",
+        "512": "/PNG/512/Messaging/crying-512.png",
+        "64": "/PNG/64/Messaging/crying-64.png",
+        "24": "/PNG/24/Messaging/crying-24.png",
+        "96": "/PNG/96/Messaging/crying-96.png",
+        "48": "/PNG/48/Messaging/crying-48.png"
       }
     }
   },
@@ -11339,6 +11582,33 @@
     }
   },
   {
+    "id": 5242,
+    "name": "double_tap",
+    "platform": "Android",
+    "category": "User Interface",
+    "created": 1403830274,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/User_Interface/double_tap.svg",
+      "svg.simplified": "/SVG_for_Font/User_Interface/double_tap.svg",
+      "eps": "/EPS/User_Interface/double_tap.eps",
+      "png": {
+        "32": "/PNG/32/User_Interface/double_tap-32.png",
+        "128": "/PNG/128/User_Interface/double_tap-128.png",
+        "256": "/PNG/256/User_Interface/double_tap-256.png",
+        "36": "/PNG/36/User_Interface/double_tap-36.png",
+        "512": "/PNG/512/User_Interface/double_tap-512.png",
+        "64": "/PNG/64/User_Interface/double_tap-64.png",
+        "24": "/PNG/24/User_Interface/double_tap-24.png",
+        "96": "/PNG/96/User_Interface/double_tap-96.png",
+        "48": "/PNG/48/User_Interface/double_tap-48.png"
+      }
+    }
+  },
+  {
     "id": 4960,
     "name": "doughnut",
     "platform": "Android",
@@ -12876,6 +13146,33 @@
         "24": "/PNG/24/Editing/eraser-24.png",
         "96": "/PNG/96/Editing/eraser-96.png",
         "48": "/PNG/48/Editing/eraser-48.png"
+      }
+    }
+  },
+  {
+    "id": 5205,
+    "name": "evil",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1403787053,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/evil.svg",
+      "svg.simplified": "/SVG_for_Font/Messaging/evil.svg",
+      "eps": "/EPS/Messaging/evil.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/evil-32.png",
+        "128": "/PNG/128/Messaging/evil-128.png",
+        "256": "/PNG/256/Messaging/evil-256.png",
+        "36": "/PNG/36/Messaging/evil-36.png",
+        "512": "/PNG/512/Messaging/evil-512.png",
+        "64": "/PNG/64/Messaging/evil-64.png",
+        "24": "/PNG/24/Messaging/evil-24.png",
+        "96": "/PNG/96/Messaging/evil-96.png",
+        "48": "/PNG/48/Messaging/evil-48.png"
       }
     }
   },
@@ -17802,6 +18099,33 @@
     }
   },
   {
+    "id": 5204,
+    "name": "happy",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1403787053,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/happy.svg",
+      "svg.simplified": "/SVG_for_Font/Messaging/happy.svg",
+      "eps": "/EPS/Messaging/happy.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/happy-32.png",
+        "128": "/PNG/128/Messaging/happy-128.png",
+        "256": "/PNG/256/Messaging/happy-256.png",
+        "36": "/PNG/36/Messaging/happy-36.png",
+        "512": "/PNG/512/Messaging/happy-512.png",
+        "64": "/PNG/64/Messaging/happy-64.png",
+        "24": "/PNG/24/Messaging/happy-24.png",
+        "96": "/PNG/96/Messaging/happy-96.png",
+        "48": "/PNG/48/Messaging/happy-48.png"
+      }
+    }
+  },
+  {
     "id": 4003,
     "name": "harness",
     "platform": "Android",
@@ -19763,6 +20087,33 @@
     }
   },
   {
+    "id": 5211,
+    "name": "in_love",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1403787053,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/in_love.svg",
+      "svg.simplified": "/SVG_for_Font/Messaging/in_love.svg",
+      "eps": "/EPS/Messaging/in_love.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/in_love-32.png",
+        "128": "/PNG/128/Messaging/in_love-128.png",
+        "256": "/PNG/256/Messaging/in_love-256.png",
+        "36": "/PNG/36/Messaging/in_love-36.png",
+        "512": "/PNG/512/Messaging/in_love-512.png",
+        "64": "/PNG/64/Messaging/in_love-64.png",
+        "24": "/PNG/24/Messaging/in_love-24.png",
+        "96": "/PNG/96/Messaging/in_love-96.png",
+        "48": "/PNG/48/Messaging/in_love-48.png"
+      }
+    }
+  },
+  {
     "id": 4330,
     "name": "ipad",
     "platform": "Android",
@@ -20440,6 +20791,33 @@
         "24": "/PNG/24/Gaming/king-24.png",
         "96": "/PNG/96/Gaming/king-96.png",
         "48": "/PNG/48/Gaming/king-48.png"
+      }
+    }
+  },
+  {
+    "id": 5208,
+    "name": "kiss",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1403787053,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/kiss.svg",
+      "svg.simplified": "/SVG_for_Font/Messaging/kiss.svg",
+      "eps": "/EPS/Messaging/kiss.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/kiss-32.png",
+        "128": "/PNG/128/Messaging/kiss-128.png",
+        "256": "/PNG/256/Messaging/kiss-256.png",
+        "36": "/PNG/36/Messaging/kiss-36.png",
+        "512": "/PNG/512/Messaging/kiss-512.png",
+        "64": "/PNG/64/Messaging/kiss-64.png",
+        "24": "/PNG/24/Messaging/kiss-24.png",
+        "96": "/PNG/96/Messaging/kiss-96.png",
+        "48": "/PNG/48/Messaging/kiss-48.png"
       }
     }
   },
@@ -22098,6 +22476,33 @@
         "24": "/PNG/24/Household/log_cabin-24.png",
         "96": "/PNG/96/Household/log_cabin-96.png",
         "48": "/PNG/48/Household/log_cabin-48.png"
+      }
+    }
+  },
+  {
+    "id": 5198,
+    "name": "lol",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1403787053,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/lol.svg",
+      "svg.simplified": "/SVG_for_Font/Messaging/lol.svg",
+      "eps": "/EPS/Messaging/lol.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/lol-32.png",
+        "128": "/PNG/128/Messaging/lol-128.png",
+        "256": "/PNG/256/Messaging/lol-256.png",
+        "36": "/PNG/36/Messaging/lol-36.png",
+        "512": "/PNG/512/Messaging/lol-512.png",
+        "64": "/PNG/64/Messaging/lol-64.png",
+        "24": "/PNG/24/Messaging/lol-24.png",
+        "96": "/PNG/96/Messaging/lol-96.png",
+        "48": "/PNG/48/Messaging/lol-48.png"
       }
     }
   },
@@ -27596,6 +28001,33 @@
     }
   },
   {
+    "id": 5239,
+    "name": "pinch",
+    "platform": "Android",
+    "category": "User Interface",
+    "created": 1403830274,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/User_Interface/pinch.svg",
+      "svg.simplified": "/SVG_for_Font/User_Interface/pinch.svg",
+      "eps": "/EPS/User_Interface/pinch.eps",
+      "png": {
+        "32": "/PNG/32/User_Interface/pinch-32.png",
+        "128": "/PNG/128/User_Interface/pinch-128.png",
+        "256": "/PNG/256/User_Interface/pinch-256.png",
+        "36": "/PNG/36/User_Interface/pinch-36.png",
+        "512": "/PNG/512/User_Interface/pinch-512.png",
+        "64": "/PNG/64/User_Interface/pinch-64.png",
+        "24": "/PNG/24/User_Interface/pinch-24.png",
+        "96": "/PNG/96/User_Interface/pinch-96.png",
+        "48": "/PNG/48/User_Interface/pinch-48.png"
+      }
+    }
+  },
+  {
     "id": 3936,
     "name": "ping_pong",
     "platform": "Android",
@@ -28718,6 +29150,33 @@
     }
   },
   {
+    "id": 5210,
+    "name": "private_emoticon",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1403787053,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/private_emoticon.svg",
+      "svg.simplified": "/SVG_for_Font/Messaging/private_emoticon.svg",
+      "eps": "/EPS/Messaging/private_emoticon.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/private_emoticon-32.png",
+        "128": "/PNG/128/Messaging/private_emoticon-128.png",
+        "256": "/PNG/256/Messaging/private_emoticon-256.png",
+        "36": "/PNG/36/Messaging/private_emoticon-36.png",
+        "512": "/PNG/512/Messaging/private_emoticon-512.png",
+        "64": "/PNG/64/Messaging/private_emoticon-64.png",
+        "24": "/PNG/24/Messaging/private_emoticon-24.png",
+        "96": "/PNG/96/Messaging/private_emoticon-96.png",
+        "48": "/PNG/48/Messaging/private_emoticon-48.png"
+      }
+    }
+  },
+  {
     "id": 4062,
     "name": "processor",
     "platform": "Android",
@@ -29070,6 +29529,36 @@
         "24": "/PNG/24/Gaming/queen-24.png",
         "96": "/PNG/96/Gaming/queen-96.png",
         "48": "/PNG/48/Gaming/queen-48.png"
+      }
+    }
+  },
+  {
+    "id": 5206,
+    "name": "question",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1403787053,
+    "tags": [
+      "help",
+      "support",
+      "face",
+      "smiley"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/question.svg",
+      "svg.simplified": "/SVG_for_Font/Messaging/question.svg",
+      "eps": "/EPS/Messaging/question.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/question-32.png",
+        "128": "/PNG/128/Messaging/question-128.png",
+        "256": "/PNG/256/Messaging/question-256.png",
+        "36": "/PNG/36/Messaging/question-36.png",
+        "512": "/PNG/512/Messaging/question-512.png",
+        "64": "/PNG/64/Messaging/question-64.png",
+        "24": "/PNG/24/Messaging/question-24.png",
+        "96": "/PNG/96/Messaging/question-96.png",
+        "48": "/PNG/48/Messaging/question-48.png"
       }
     }
   },
@@ -31496,6 +31985,33 @@
         "24": "/PNG/24/Animals/running_rabbit-24.png",
         "96": "/PNG/96/Animals/running_rabbit-96.png",
         "48": "/PNG/48/Animals/running_rabbit-48.png"
+      }
+    }
+  },
+  {
+    "id": 5203,
+    "name": "sad",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1403787053,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/sad.svg",
+      "svg.simplified": "/SVG_for_Font/Messaging/sad.svg",
+      "eps": "/EPS/Messaging/sad.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/sad-32.png",
+        "128": "/PNG/128/Messaging/sad-128.png",
+        "256": "/PNG/256/Messaging/sad-256.png",
+        "36": "/PNG/36/Messaging/sad-36.png",
+        "512": "/PNG/512/Messaging/sad-512.png",
+        "64": "/PNG/64/Messaging/sad-64.png",
+        "24": "/PNG/24/Messaging/sad-24.png",
+        "96": "/PNG/96/Messaging/sad-96.png",
+        "48": "/PNG/48/Messaging/sad-48.png"
       }
     }
   },
@@ -34122,6 +34638,33 @@
     }
   },
   {
+    "id": 5207,
+    "name": "sleepping",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1403787053,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/sleepping.svg",
+      "svg.simplified": "/SVG_for_Font/Messaging/sleepping.svg",
+      "eps": "/EPS/Messaging/sleepping.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/sleepping-32.png",
+        "128": "/PNG/128/Messaging/sleepping-128.png",
+        "256": "/PNG/256/Messaging/sleepping-256.png",
+        "36": "/PNG/36/Messaging/sleepping-36.png",
+        "512": "/PNG/512/Messaging/sleepping-512.png",
+        "64": "/PNG/64/Messaging/sleepping-64.png",
+        "24": "/PNG/24/Messaging/sleepping-24.png",
+        "96": "/PNG/96/Messaging/sleepping-96.png",
+        "48": "/PNG/48/Messaging/sleepping-48.png"
+      }
+    }
+  },
+  {
     "id": 3145,
     "name": "sleigh",
     "platform": "Android",
@@ -35252,6 +35795,33 @@
         "24": "/PNG/24/Photo_Video/sports_mode-24.png",
         "96": "/PNG/96/Photo_Video/sports_mode-96.png",
         "48": "/PNG/48/Photo_Video/sports_mode-48.png"
+      }
+    }
+  },
+  {
+    "id": 5246,
+    "name": "spread",
+    "platform": "Android",
+    "category": "User Interface",
+    "created": 1403830274,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/User_Interface/spread.svg",
+      "svg.simplified": "/SVG_for_Font/User_Interface/spread.svg",
+      "eps": "/EPS/User_Interface/spread.eps",
+      "png": {
+        "32": "/PNG/32/User_Interface/spread-32.png",
+        "128": "/PNG/128/User_Interface/spread-128.png",
+        "256": "/PNG/256/User_Interface/spread-256.png",
+        "36": "/PNG/36/User_Interface/spread-36.png",
+        "512": "/PNG/512/User_Interface/spread-512.png",
+        "64": "/PNG/64/User_Interface/spread-64.png",
+        "24": "/PNG/24/User_Interface/spread-24.png",
+        "96": "/PNG/96/User_Interface/spread-96.png",
+        "48": "/PNG/48/User_Interface/spread-48.png"
       }
     }
   },
@@ -36556,6 +37126,33 @@
     }
   },
   {
+    "id": 5199,
+    "name": "surprised",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1403787053,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/surprised.svg",
+      "svg.simplified": "/SVG_for_Font/Messaging/surprised.svg",
+      "eps": "/EPS/Messaging/surprised.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/surprised-32.png",
+        "128": "/PNG/128/Messaging/surprised-128.png",
+        "256": "/PNG/256/Messaging/surprised-256.png",
+        "36": "/PNG/36/Messaging/surprised-36.png",
+        "512": "/PNG/512/Messaging/surprised-512.png",
+        "64": "/PNG/64/Messaging/surprised-64.png",
+        "24": "/PNG/24/Messaging/surprised-24.png",
+        "96": "/PNG/96/Messaging/surprised-96.png",
+        "48": "/PNG/48/Messaging/surprised-48.png"
+      }
+    }
+  },
+  {
     "id": 5124,
     "name": "survival_bag",
     "platform": "Android",
@@ -36671,6 +37268,114 @@
         "24": "/PNG/24/Sports/swimming-24.png",
         "96": "/PNG/96/Sports/swimming-96.png",
         "48": "/PNG/48/Sports/swimming-48.png"
+      }
+    }
+  },
+  {
+    "id": 5243,
+    "name": "swipe_down",
+    "platform": "Android",
+    "category": "User Interface",
+    "created": 1403830274,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/User_Interface/swipe_down.svg",
+      "svg.simplified": "/SVG_for_Font/User_Interface/swipe_down.svg",
+      "eps": "/EPS/User_Interface/swipe_down.eps",
+      "png": {
+        "32": "/PNG/32/User_Interface/swipe_down-32.png",
+        "128": "/PNG/128/User_Interface/swipe_down-128.png",
+        "256": "/PNG/256/User_Interface/swipe_down-256.png",
+        "36": "/PNG/36/User_Interface/swipe_down-36.png",
+        "512": "/PNG/512/User_Interface/swipe_down-512.png",
+        "64": "/PNG/64/User_Interface/swipe_down-64.png",
+        "24": "/PNG/24/User_Interface/swipe_down-24.png",
+        "96": "/PNG/96/User_Interface/swipe_down-96.png",
+        "48": "/PNG/48/User_Interface/swipe_down-48.png"
+      }
+    }
+  },
+  {
+    "id": 5248,
+    "name": "swipe_left",
+    "platform": "Android",
+    "category": "User Interface",
+    "created": 1403830274,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/User_Interface/swipe_left.svg",
+      "svg.simplified": "/SVG_for_Font/User_Interface/swipe_left.svg",
+      "eps": "/EPS/User_Interface/swipe_left.eps",
+      "png": {
+        "32": "/PNG/32/User_Interface/swipe_left-32.png",
+        "128": "/PNG/128/User_Interface/swipe_left-128.png",
+        "256": "/PNG/256/User_Interface/swipe_left-256.png",
+        "36": "/PNG/36/User_Interface/swipe_left-36.png",
+        "512": "/PNG/512/User_Interface/swipe_left-512.png",
+        "64": "/PNG/64/User_Interface/swipe_left-64.png",
+        "24": "/PNG/24/User_Interface/swipe_left-24.png",
+        "96": "/PNG/96/User_Interface/swipe_left-96.png",
+        "48": "/PNG/48/User_Interface/swipe_left-48.png"
+      }
+    }
+  },
+  {
+    "id": 5247,
+    "name": "swipe_right",
+    "platform": "Android",
+    "category": "User Interface",
+    "created": 1403830274,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/User_Interface/swipe_right.svg",
+      "svg.simplified": "/SVG_for_Font/User_Interface/swipe_right.svg",
+      "eps": "/EPS/User_Interface/swipe_right.eps",
+      "png": {
+        "32": "/PNG/32/User_Interface/swipe_right-32.png",
+        "128": "/PNG/128/User_Interface/swipe_right-128.png",
+        "256": "/PNG/256/User_Interface/swipe_right-256.png",
+        "36": "/PNG/36/User_Interface/swipe_right-36.png",
+        "512": "/PNG/512/User_Interface/swipe_right-512.png",
+        "64": "/PNG/64/User_Interface/swipe_right-64.png",
+        "24": "/PNG/24/User_Interface/swipe_right-24.png",
+        "96": "/PNG/96/User_Interface/swipe_right-96.png",
+        "48": "/PNG/48/User_Interface/swipe_right-48.png"
+      }
+    }
+  },
+  {
+    "id": 5245,
+    "name": "swipe_up",
+    "platform": "Android",
+    "category": "User Interface",
+    "created": 1403830274,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/User_Interface/swipe_up.svg",
+      "svg.simplified": "/SVG_for_Font/User_Interface/swipe_up.svg",
+      "eps": "/EPS/User_Interface/swipe_up.eps",
+      "png": {
+        "32": "/PNG/32/User_Interface/swipe_up-32.png",
+        "128": "/PNG/128/User_Interface/swipe_up-128.png",
+        "256": "/PNG/256/User_Interface/swipe_up-256.png",
+        "36": "/PNG/36/User_Interface/swipe_up-36.png",
+        "512": "/PNG/512/User_Interface/swipe_up-512.png",
+        "64": "/PNG/64/User_Interface/swipe_up-64.png",
+        "24": "/PNG/24/User_Interface/swipe_up-24.png",
+        "96": "/PNG/96/User_Interface/swipe_up-96.png",
+        "48": "/PNG/48/User_Interface/swipe_up-48.png"
       }
     }
   },
@@ -37242,6 +37947,33 @@
         "24": "/PNG/24/Users/talk-24.png",
         "96": "/PNG/96/Users/talk-96.png",
         "48": "/PNG/48/Users/talk-48.png"
+      }
+    }
+  },
+  {
+    "id": 5237,
+    "name": "tap",
+    "platform": "Android",
+    "category": "User Interface",
+    "created": 1403830274,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/User_Interface/tap.svg",
+      "svg.simplified": "/SVG_for_Font/User_Interface/tap.svg",
+      "eps": "/EPS/User_Interface/tap.eps",
+      "png": {
+        "32": "/PNG/32/User_Interface/tap-32.png",
+        "128": "/PNG/128/User_Interface/tap-128.png",
+        "256": "/PNG/256/User_Interface/tap-256.png",
+        "36": "/PNG/36/User_Interface/tap-36.png",
+        "512": "/PNG/512/User_Interface/tap-512.png",
+        "64": "/PNG/64/User_Interface/tap-64.png",
+        "24": "/PNG/24/User_Interface/tap-24.png",
+        "96": "/PNG/96/User_Interface/tap-96.png",
+        "48": "/PNG/48/User_Interface/tap-48.png"
       }
     }
   },
@@ -39109,6 +39841,33 @@
     }
   },
   {
+    "id": 5201,
+    "name": "tongue",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1403787053,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/tongue.svg",
+      "svg.simplified": "/SVG_for_Font/Messaging/tongue.svg",
+      "eps": "/EPS/Messaging/tongue.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/tongue-32.png",
+        "128": "/PNG/128/Messaging/tongue-128.png",
+        "256": "/PNG/256/Messaging/tongue-256.png",
+        "36": "/PNG/36/Messaging/tongue-36.png",
+        "512": "/PNG/512/Messaging/tongue-512.png",
+        "64": "/PNG/64/Messaging/tongue-64.png",
+        "24": "/PNG/24/Messaging/tongue-24.png",
+        "96": "/PNG/96/Messaging/tongue-96.png",
+        "48": "/PNG/48/Messaging/tongue-48.png"
+      }
+    }
+  },
+  {
     "id": 3989,
     "name": "torso",
     "platform": "Android",
@@ -40394,6 +41153,60 @@
         "24": "/PNG/24/Hands/two_fingers-24.png",
         "96": "/PNG/96/Hands/two_fingers-96.png",
         "48": "/PNG/48/Hands/two_fingers-48.png"
+      }
+    }
+  },
+  {
+    "id": 5250,
+    "name": "two_finger_double_tap",
+    "platform": "Android",
+    "category": "User Interface",
+    "created": 1403830274,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/User_Interface/two_finger_double_tap.svg",
+      "svg.simplified": "/SVG_for_Font/User_Interface/two_finger_double_tap.svg",
+      "eps": "/EPS/User_Interface/two_finger_double_tap.eps",
+      "png": {
+        "32": "/PNG/32/User_Interface/two_finger_double_tap-32.png",
+        "128": "/PNG/128/User_Interface/two_finger_double_tap-128.png",
+        "256": "/PNG/256/User_Interface/two_finger_double_tap-256.png",
+        "36": "/PNG/36/User_Interface/two_finger_double_tap-36.png",
+        "512": "/PNG/512/User_Interface/two_finger_double_tap-512.png",
+        "64": "/PNG/64/User_Interface/two_finger_double_tap-64.png",
+        "24": "/PNG/24/User_Interface/two_finger_double_tap-24.png",
+        "96": "/PNG/96/User_Interface/two_finger_double_tap-96.png",
+        "48": "/PNG/48/User_Interface/two_finger_double_tap-48.png"
+      }
+    }
+  },
+  {
+    "id": 5244,
+    "name": "two_finger_tap",
+    "platform": "Android",
+    "category": "User Interface",
+    "created": 1403830274,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/User_Interface/two_finger_tap.svg",
+      "svg.simplified": "/SVG_for_Font/User_Interface/two_finger_tap.svg",
+      "eps": "/EPS/User_Interface/two_finger_tap.eps",
+      "png": {
+        "32": "/PNG/32/User_Interface/two_finger_tap-32.png",
+        "128": "/PNG/128/User_Interface/two_finger_tap-128.png",
+        "256": "/PNG/256/User_Interface/two_finger_tap-256.png",
+        "36": "/PNG/36/User_Interface/two_finger_tap-36.png",
+        "512": "/PNG/512/User_Interface/two_finger_tap-512.png",
+        "64": "/PNG/64/User_Interface/two_finger_tap-64.png",
+        "24": "/PNG/24/User_Interface/two_finger_tap-24.png",
+        "96": "/PNG/96/User_Interface/two_finger_tap-96.png",
+        "48": "/PNG/48/User_Interface/two_finger_tap-48.png"
       }
     }
   },
@@ -43364,6 +44177,33 @@
         "24": "/PNG/24/Food/wine_glass-24.png",
         "96": "/PNG/96/Food/wine_glass-96.png",
         "48": "/PNG/48/Food/wine_glass-48.png"
+      }
+    }
+  },
+  {
+    "id": 5202,
+    "name": "wink",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1403787053,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/wink.svg",
+      "svg.simplified": "/SVG_for_Font/Messaging/wink.svg",
+      "eps": "/EPS/Messaging/wink.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/wink-32.png",
+        "128": "/PNG/128/Messaging/wink-128.png",
+        "256": "/PNG/256/Messaging/wink-256.png",
+        "36": "/PNG/36/Messaging/wink-36.png",
+        "512": "/PNG/512/Messaging/wink-512.png",
+        "64": "/PNG/64/Messaging/wink-64.png",
+        "24": "/PNG/24/Messaging/wink-24.png",
+        "96": "/PNG/96/Messaging/wink-96.png",
+        "48": "/PNG/48/Messaging/wink-48.png"
       }
     }
   },

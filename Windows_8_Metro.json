@@ -3253,6 +3253,7 @@
       "update",
       "ident",
       "left arrow",
+      "dentist",
       "increase"
     ],
     "copyright": false,
@@ -5440,6 +5441,41 @@
         "512": "/PNG/512/Cinema/batman_old-512.png",
         "64": "/PNG/64/Cinema/batman_old-64.png",
         "48": "/PNG/48/Cinema/batman_old-48.png"
+      }
+    }
+  },
+  {
+    "id": 5133,
+    "name": "battleship",
+    "platform": "Windows 8/Metro",
+    "category": "Military",
+    "created": 1403621453,
+    "tags": [
+      "ship",
+      "water",
+      "logo",
+      "country",
+      "army",
+      "old",
+      "material",
+      "strong",
+      "flow",
+      "sail",
+      "war"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/battleship.svg",
+      "svg.simplified": "/SVG_for_Font/Military/battleship.svg",
+      "eps": "/EPS/Military/battleship.eps",
+      "png": {
+        "32": "/PNG/32/Military/battleship-32.png",
+        "128": "/PNG/128/Military/battleship-128.png",
+        "26": "/PNG/26/Military/battleship-26.png",
+        "256": "/PNG/256/Military/battleship-256.png",
+        "512": "/PNG/512/Military/battleship-512.png",
+        "64": "/PNG/64/Military/battleship-64.png",
+        "48": "/PNG/48/Military/battleship-48.png"
       }
     }
   },
@@ -11838,6 +11874,31 @@
         "512": "/PNG/512/Finance/check_book-512.png",
         "64": "/PNG/64/Finance/check_book-64.png",
         "48": "/PNG/48/Finance/check_book-48.png"
+      }
+    }
+  },
+  {
+    "id": 5251,
+    "name": "check_file",
+    "platform": "Windows 8/Metro",
+    "category": "Files",
+    "created": 1403916677,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/check_file.svg",
+      "svg.simplified": "/SVG_for_Font/Files/check_file.svg",
+      "eps": "/EPS/Files/check_file.eps",
+      "png": {
+        "32": "/PNG/32/Files/check_file-32.png",
+        "128": "/PNG/128/Files/check_file-128.png",
+        "26": "/PNG/26/Files/check_file-26.png",
+        "256": "/PNG/256/Files/check_file-256.png",
+        "512": "/PNG/512/Files/check_file-512.png",
+        "64": "/PNG/64/Files/check_file-64.png",
+        "48": "/PNG/48/Files/check_file-48.png"
       }
     }
   },
@@ -24769,6 +24830,45 @@
     }
   },
   {
+    "id": 5132,
+    "name": "fighter_jet",
+    "platform": "Windows 8/Metro",
+    "category": "Military",
+    "created": 1403621453,
+    "tags": [
+      "military",
+      "sky",
+      "transportation",
+      "airport",
+      "action",
+      "air",
+      "flight",
+      "airplane",
+      "army",
+      "plane",
+      "armed",
+      "aircraft",
+      "airline",
+      "nato",
+      "aerodynamic"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/fighter_jet.svg",
+      "svg.simplified": "/SVG_for_Font/Military/fighter_jet.svg",
+      "eps": "/EPS/Military/fighter_jet.eps",
+      "png": {
+        "32": "/PNG/32/Military/fighter_jet-32.png",
+        "128": "/PNG/128/Military/fighter_jet-128.png",
+        "26": "/PNG/26/Military/fighter_jet-26.png",
+        "256": "/PNG/256/Military/fighter_jet-256.png",
+        "512": "/PNG/512/Military/fighter_jet-512.png",
+        "64": "/PNG/64/Military/fighter_jet-64.png",
+        "48": "/PNG/48/Military/fighter_jet-48.png"
+      }
+    }
+  },
+  {
     "id": 55,
     "name": "file",
     "platform": "Windows 8/Metro",
@@ -32794,6 +32894,41 @@
     }
   },
   {
+    "id": 5131,
+    "name": "historic_ship",
+    "platform": "Windows 8/Metro",
+    "category": "Transport",
+    "created": 1403621453,
+    "tags": [
+      "ship",
+      "fish",
+      "sea",
+      "length",
+      "water",
+      "logo",
+      "air",
+      "journey",
+      "old",
+      "big",
+      "rope"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Transport/historic_ship.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/historic_ship.svg",
+      "eps": "/EPS/Transport/historic_ship.eps",
+      "png": {
+        "32": "/PNG/32/Transport/historic_ship-32.png",
+        "128": "/PNG/128/Transport/historic_ship-128.png",
+        "26": "/PNG/26/Transport/historic_ship-26.png",
+        "256": "/PNG/256/Transport/historic_ship-256.png",
+        "512": "/PNG/512/Transport/historic_ship-512.png",
+        "64": "/PNG/64/Transport/historic_ship-64.png",
+        "48": "/PNG/48/Transport/historic_ship-48.png"
+      }
+    }
+  },
+  {
     "id": 728,
     "name": "holy_bible",
     "platform": "Windows 8/Metro",
@@ -38867,6 +39002,7 @@
       "engage",
       "unlock",
       "login",
+      "g",
       "security"
     ],
     "copyright": false,
@@ -60139,6 +60275,38 @@
         "512": "/PNG/512/Security/security_ssl-512.png",
         "64": "/PNG/64/Security/security_ssl-64.png",
         "48": "/PNG/48/Security/security_ssl-48.png"
+      }
+    }
+  },
+  {
+    "id": 5104,
+    "name": "self_destruct_button",
+    "platform": "Windows 8/Metro",
+    "category": "Military",
+    "created": 1403520658,
+    "tags": [
+      "death",
+      "black",
+      "danger",
+      "dead",
+      "skull",
+      "pirate",
+      "roger",
+      "bones"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/self_destruct_button.svg",
+      "svg.simplified": "/SVG_for_Font/Military/self_destruct_button.svg",
+      "eps": "/EPS/Military/self_destruct_button.eps",
+      "png": {
+        "32": "/PNG/32/Military/self_destruct_button-32.png",
+        "128": "/PNG/128/Military/self_destruct_button-128.png",
+        "26": "/PNG/26/Military/self_destruct_button-26.png",
+        "256": "/PNG/256/Military/self_destruct_button-256.png",
+        "512": "/PNG/512/Military/self_destruct_button-512.png",
+        "64": "/PNG/64/Military/self_destruct_button-64.png",
+        "48": "/PNG/48/Military/self_destruct_button-48.png"
       }
     }
   },
