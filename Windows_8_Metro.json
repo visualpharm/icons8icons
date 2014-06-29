@@ -1,184 +1,5 @@
 [
   {
-    "id": 2584,
-    "name": "0",
-    "platform": "Windows 8/Metro",
-    "category": "Alphabet",
-    "created": 1390342413,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Alphabet/0.svg",
-      "eps": "/EPS/Alphabet/0.eps",
-      "png": {
-        "32": "/PNG/32/Alphabet/0-32.png",
-        "128": "/PNG/128/Alphabet/0-128.png",
-        "26": "/PNG/26/Alphabet/0-26.png",
-        "256": "/PNG/256/Alphabet/0-256.png",
-        "512": "/PNG/512/Alphabet/0-512.png",
-        "64": "/PNG/64/Alphabet/0-64.png",
-        "48": "/PNG/48/Alphabet/0-48.png"
-      }
-    }
-  },
-  {
-    "id": 1472,
-    "name": "0_c",
-    "platform": "Windows 8/Metro",
-    "category": "Alphabet",
-    "created": 1328784145,
-    "tags": [
-      "chart",
-      "numbers",
-      "school",
-      "last",
-      "teacher",
-      "fundamentals"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Alphabet/0_c.svg",
-      "eps": "/EPS/Alphabet/0_c.eps",
-      "png": {
-        "32": "/PNG/32/Alphabet/0_c-32.png",
-        "128": "/PNG/128/Alphabet/0_c-128.png",
-        "26": "/PNG/26/Alphabet/0_c-26.png",
-        "256": "/PNG/256/Alphabet/0_c-256.png",
-        "512": "/PNG/512/Alphabet/0_c-512.png",
-        "64": "/PNG/64/Alphabet/0_c-64.png",
-        "48": "/PNG/48/Alphabet/0_c-48.png"
-      }
-    }
-  },
-  {
-    "id": 1437,
-    "name": "1",
-    "platform": "Windows 8/Metro",
-    "category": "Alphabet",
-    "created": 1328869775,
-    "tags": [
-      "numbers",
-      "kindergarten",
-      "counting",
-      "one",
-      "mathematics",
-      "2",
-      "any"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Alphabet/1.svg",
-      "eps": "/EPS/Alphabet/1.eps",
-      "png": {
-        "32": "/PNG/32/Alphabet/1-32.png",
-        "128": "/PNG/128/Alphabet/1-128.png",
-        "26": "/PNG/26/Alphabet/1-26.png",
-        "256": "/PNG/256/Alphabet/1-256.png",
-        "512": "/PNG/512/Alphabet/1-512.png",
-        "64": "/PNG/64/Alphabet/1-64.png",
-        "48": "/PNG/48/Alphabet/1-48.png"
-      }
-    }
-  },
-  {
-    "id": 1463,
-    "name": "1_c",
-    "platform": "Windows 8/Metro",
-    "category": "Alphabet",
-    "created": 1328628248,
-    "tags": [
-      "calculator",
-      "keyboard",
-      "numbers",
-      "pad",
-      "top",
-      "first",
-      "keypad",
-      "single"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Alphabet/1_c.svg",
-      "eps": "/EPS/Alphabet/1_c.eps",
-      "png": {
-        "32": "/PNG/32/Alphabet/1_c-32.png",
-        "128": "/PNG/128/Alphabet/1_c-128.png",
-        "26": "/PNG/26/Alphabet/1_c-26.png",
-        "256": "/PNG/256/Alphabet/1_c-256.png",
-        "512": "/PNG/512/Alphabet/1_c-512.png",
-        "64": "/PNG/64/Alphabet/1_c-64.png",
-        "48": "/PNG/48/Alphabet/1_c-48.png"
-      }
-    }
-  },
-  {
-    "id": 1438,
-    "name": "2",
-    "platform": "Windows 8/Metro",
-    "category": "Alphabet",
-    "created": 1328869775,
-    "tags": [
-      "numbers",
-      "kindergarten",
-      "counting",
-      "mathematics",
-      "two",
-      "2"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Alphabet/2.svg",
-      "eps": "/EPS/Alphabet/2.eps",
-      "png": {
-        "32": "/PNG/32/Alphabet/2-32.png",
-        "128": "/PNG/128/Alphabet/2-128.png",
-        "26": "/PNG/26/Alphabet/2-26.png",
-        "256": "/PNG/256/Alphabet/2-256.png",
-        "512": "/PNG/512/Alphabet/2-512.png",
-        "64": "/PNG/64/Alphabet/2-64.png",
-        "48": "/PNG/48/Alphabet/2-48.png"
-      }
-    }
-  },
-  {
-    "id": 2587,
-    "name": "25_percent",
-    "platform": "Windows 8/Metro",
-    "category": "Mobile",
-    "created": 1390342413,
-    "tags": [
-      "android",
-      "cell",
-      "phone",
-      "smartphone",
-      "device",
-      "iphone",
-      "mobile",
-      "touch",
-      "power",
-      "battery",
-      "gadget",
-      "samsung",
-      "lg"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Mobile/25_percent.svg",
-      "eps": "/EPS/Mobile/25_percent.eps",
-      "png": {
-        "32": "/PNG/32/Mobile/25_percent-32.png",
-        "128": "/PNG/128/Mobile/25_percent-128.png",
-        "26": "/PNG/26/Mobile/25_percent-26.png",
-        "256": "/PNG/256/Mobile/25_percent-256.png",
-        "512": "/PNG/512/Mobile/25_percent-512.png",
-        "64": "/PNG/64/Mobile/25_percent-64.png",
-        "48": "/PNG/48/Mobile/25_percent-48.png"
-      }
-    }
-  },
-  {
     "id": 1868,
     "name": "2f_swipe_down",
     "platform": "Windows 8/Metro",
@@ -349,67 +170,6 @@
     }
   },
   {
-    "id": 1464,
-    "name": "2_c",
-    "platform": "Windows 8/Metro",
-    "category": "Alphabet",
-    "created": 1328628248,
-    "tags": [
-      "calculator",
-      "second",
-      "keyboard",
-      "numbers",
-      "pad",
-      "keypad",
-      "place",
-      "marathon"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Alphabet/2_c.svg",
-      "eps": "/EPS/Alphabet/2_c.eps",
-      "png": {
-        "32": "/PNG/32/Alphabet/2_c-32.png",
-        "128": "/PNG/128/Alphabet/2_c-128.png",
-        "26": "/PNG/26/Alphabet/2_c-26.png",
-        "256": "/PNG/256/Alphabet/2_c-256.png",
-        "512": "/PNG/512/Alphabet/2_c-512.png",
-        "64": "/PNG/64/Alphabet/2_c-64.png",
-        "48": "/PNG/48/Alphabet/2_c-48.png"
-      }
-    }
-  },
-  {
-    "id": 1439,
-    "name": "3",
-    "platform": "Windows 8/Metro",
-    "category": "Alphabet",
-    "created": 1328869775,
-    "tags": [
-      "numbers",
-      "kindergarten",
-      "three",
-      "counting",
-      "mathematics",
-      "4",
-      "computer"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Alphabet/3.svg",
-      "eps": "/EPS/Alphabet/3.eps",
-      "png": {
-        "32": "/PNG/32/Alphabet/3-32.png",
-        "128": "/PNG/128/Alphabet/3-128.png",
-        "26": "/PNG/26/Alphabet/3-26.png",
-        "256": "/PNG/256/Alphabet/3-256.png",
-        "512": "/PNG/512/Alphabet/3-512.png",
-        "64": "/PNG/64/Alphabet/3-64.png",
-        "48": "/PNG/48/Alphabet/3-48.png"
-      }
-    }
-  },
-  {
     "id": 2349,
     "name": "32bit",
     "platform": "Windows 8/Metro",
@@ -493,234 +253,6 @@
     }
   },
   {
-    "id": 1465,
-    "name": "3_c",
-    "platform": "Windows 8/Metro",
-    "category": "Alphabet",
-    "created": 1328628248,
-    "tags": [
-      "calculator",
-      "keyboard",
-      "numbers",
-      "pad",
-      "keypad",
-      "place",
-      "marathon",
-      "third",
-      "contest",
-      "4 c"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Alphabet/3_c.svg",
-      "eps": "/EPS/Alphabet/3_c.eps",
-      "png": {
-        "32": "/PNG/32/Alphabet/3_c-32.png",
-        "128": "/PNG/128/Alphabet/3_c-128.png",
-        "26": "/PNG/26/Alphabet/3_c-26.png",
-        "256": "/PNG/256/Alphabet/3_c-256.png",
-        "512": "/PNG/512/Alphabet/3_c-512.png",
-        "64": "/PNG/64/Alphabet/3_c-64.png",
-        "48": "/PNG/48/Alphabet/3_c-48.png"
-      }
-    }
-  },
-  {
-    "id": 603,
-    "name": "4",
-    "platform": "Windows 8/Metro",
-    "category": "Alphabet",
-    "created": 1329131573,
-    "tags": [
-      "calculate",
-      "numbers",
-      "accounting",
-      "count",
-      "four"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Alphabet/4.svg",
-      "eps": "/EPS/Alphabet/4.eps",
-      "png": {
-        "32": "/PNG/32/Alphabet/4-32.png",
-        "128": "/PNG/128/Alphabet/4-128.png",
-        "26": "/PNG/26/Alphabet/4-26.png",
-        "256": "/PNG/256/Alphabet/4-256.png",
-        "512": "/PNG/512/Alphabet/4-512.png",
-        "64": "/PNG/64/Alphabet/4-64.png",
-        "48": "/PNG/48/Alphabet/4-48.png"
-      }
-    }
-  },
-  {
-    "id": 1466,
-    "name": "4_c",
-    "platform": "Windows 8/Metro",
-    "category": "Alphabet",
-    "created": 1328783917,
-    "tags": [
-      "line",
-      "numbers",
-      "scale",
-      "section",
-      "chapter"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Alphabet/4_c.svg",
-      "eps": "/EPS/Alphabet/4_c.eps",
-      "png": {
-        "32": "/PNG/32/Alphabet/4_c-32.png",
-        "128": "/PNG/128/Alphabet/4_c-128.png",
-        "26": "/PNG/26/Alphabet/4_c-26.png",
-        "256": "/PNG/256/Alphabet/4_c-256.png",
-        "512": "/PNG/512/Alphabet/4_c-512.png",
-        "64": "/PNG/64/Alphabet/4_c-64.png",
-        "48": "/PNG/48/Alphabet/4_c-48.png"
-      }
-    }
-  },
-  {
-    "id": 604,
-    "name": "5",
-    "platform": "Windows 8/Metro",
-    "category": "Alphabet",
-    "created": 1329131573,
-    "tags": [
-      "cash",
-      "calculate",
-      "numbers",
-      "accounting",
-      "credit",
-      "amount",
-      "rectangle",
-      "figure",
-      "square",
-      "hexagon",
-      "count",
-      "pentagon",
-      "numerals",
-      "five"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Alphabet/5.svg",
-      "eps": "/EPS/Alphabet/5.eps",
-      "png": {
-        "32": "/PNG/32/Alphabet/5-32.png",
-        "128": "/PNG/128/Alphabet/5-128.png",
-        "26": "/PNG/26/Alphabet/5-26.png",
-        "256": "/PNG/256/Alphabet/5-256.png",
-        "512": "/PNG/512/Alphabet/5-512.png",
-        "64": "/PNG/64/Alphabet/5-64.png",
-        "48": "/PNG/48/Alphabet/5-48.png"
-      }
-    }
-  },
-  {
-    "id": 2482,
-    "name": "50_percent",
-    "platform": "Windows 8/Metro",
-    "category": "Mobile",
-    "created": 1390342413,
-    "tags": [
-      "android",
-      "cell",
-      "phone",
-      "smartphone",
-      "device",
-      "iphone",
-      "charge",
-      "mobile",
-      "touch",
-      "power",
-      "battery",
-      "gadget",
-      "samsung",
-      "lg"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Mobile/50_percent.svg",
-      "eps": "/EPS/Mobile/50_percent.eps",
-      "png": {
-        "32": "/PNG/32/Mobile/50_percent-32.png",
-        "128": "/PNG/128/Mobile/50_percent-128.png",
-        "26": "/PNG/26/Mobile/50_percent-26.png",
-        "256": "/PNG/256/Mobile/50_percent-256.png",
-        "512": "/PNG/512/Mobile/50_percent-512.png",
-        "64": "/PNG/64/Mobile/50_percent-64.png",
-        "48": "/PNG/48/Mobile/50_percent-48.png"
-      }
-    }
-  },
-  {
-    "id": 1467,
-    "name": "5_c",
-    "platform": "Windows 8/Metro",
-    "category": "Alphabet",
-    "created": 1328783917,
-    "tags": [
-      "line",
-      "row",
-      "scale",
-      "section",
-      "chapter"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Alphabet/5_c.svg",
-      "eps": "/EPS/Alphabet/5_c.eps",
-      "png": {
-        "32": "/PNG/32/Alphabet/5_c-32.png",
-        "128": "/PNG/128/Alphabet/5_c-128.png",
-        "26": "/PNG/26/Alphabet/5_c-26.png",
-        "256": "/PNG/256/Alphabet/5_c-256.png",
-        "512": "/PNG/512/Alphabet/5_c-512.png",
-        "64": "/PNG/64/Alphabet/5_c-64.png",
-        "48": "/PNG/48/Alphabet/5_c-48.png"
-      }
-    }
-  },
-  {
-    "id": 605,
-    "name": "6",
-    "platform": "Windows 8/Metro",
-    "category": "Alphabet",
-    "created": 1329131573,
-    "tags": [
-      "cash",
-      "calculate",
-      "numbers",
-      "accounting",
-      "credit",
-      "amount",
-      "rectangle",
-      "figure",
-      "square",
-      "hexagon",
-      "count",
-      "pentagon",
-      "numerals",
-      "six"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Alphabet/6.svg",
-      "eps": "/EPS/Alphabet/6.eps",
-      "png": {
-        "32": "/PNG/32/Alphabet/6-32.png",
-        "128": "/PNG/128/Alphabet/6-128.png",
-        "26": "/PNG/26/Alphabet/6-26.png",
-        "256": "/PNG/256/Alphabet/6-256.png",
-        "512": "/PNG/512/Alphabet/6-512.png",
-        "64": "/PNG/64/Alphabet/6-64.png",
-        "48": "/PNG/48/Alphabet/6-48.png"
-      }
-    }
-  },
-  {
     "id": 2358,
     "name": "64bit",
     "platform": "Windows 8/Metro",
@@ -753,107 +285,6 @@
     }
   },
   {
-    "id": 1468,
-    "name": "6_c",
-    "platform": "Windows 8/Metro",
-    "category": "Alphabet",
-    "created": 1328783917,
-    "tags": [
-      "line",
-      "numbers",
-      "contents",
-      "scale",
-      "section",
-      "chapter",
-      "episode"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Alphabet/6_c.svg",
-      "eps": "/EPS/Alphabet/6_c.eps",
-      "png": {
-        "32": "/PNG/32/Alphabet/6_c-32.png",
-        "128": "/PNG/128/Alphabet/6_c-128.png",
-        "26": "/PNG/26/Alphabet/6_c-26.png",
-        "256": "/PNG/256/Alphabet/6_c-256.png",
-        "512": "/PNG/512/Alphabet/6_c-512.png",
-        "64": "/PNG/64/Alphabet/6_c-64.png",
-        "48": "/PNG/48/Alphabet/6_c-48.png"
-      }
-    }
-  },
-  {
-    "id": 606,
-    "name": "7",
-    "platform": "Windows 8/Metro",
-    "category": "Alphabet",
-    "created": 1329208293,
-    "tags": [
-      "multiply",
-      "subtraction",
-      "numbers",
-      "end",
-      "square",
-      "fit",
-      "series",
-      "cubes",
-      "seven",
-      "lucky",
-      "fate",
-      "infinity",
-      "nothing"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Alphabet/7.svg",
-      "eps": "/EPS/Alphabet/7.eps",
-      "png": {
-        "32": "/PNG/32/Alphabet/7-32.png",
-        "128": "/PNG/128/Alphabet/7-128.png",
-        "26": "/PNG/26/Alphabet/7-26.png",
-        "256": "/PNG/256/Alphabet/7-256.png",
-        "512": "/PNG/512/Alphabet/7-512.png",
-        "64": "/PNG/64/Alphabet/7-64.png",
-        "48": "/PNG/48/Alphabet/7-48.png"
-      }
-    }
-  },
-  {
-    "id": 3740,
-    "name": "75_percent",
-    "platform": "Windows 8/Metro",
-    "category": "Mobile",
-    "created": 1396309902,
-    "tags": [
-      "android",
-      "cell",
-      "phone",
-      "smartphone",
-      "device",
-      "iphone",
-      "mobile",
-      "touch",
-      "gadget",
-      "samsung",
-      "lg",
-      "Battery percent"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Mobile/75_percent.svg",
-      "eps": "/EPS/Mobile/75_percent.eps",
-      "png": {
-        "32": "/PNG/32/Mobile/75_percent-32.png",
-        "128": "/PNG/128/Mobile/75_percent-128.png",
-        "26": "/PNG/26/Mobile/75_percent-26.png",
-        "256": "/PNG/256/Mobile/75_percent-256.png",
-        "512": "/PNG/512/Mobile/75_percent-512.png",
-        "64": "/PNG/64/Mobile/75_percent-64.png",
-        "48": "/PNG/48/Mobile/75_percent-48.png"
-      }
-    }
-  },
-  {
     "id": 2206,
     "name": "7zip",
     "platform": "Windows 8/Metro",
@@ -880,160 +311,6 @@
         "512": "/PNG/512/Files/7zip-512.png",
         "64": "/PNG/64/Files/7zip-64.png",
         "48": "/PNG/48/Files/7zip-48.png"
-      }
-    }
-  },
-  {
-    "id": 1469,
-    "name": "7_c",
-    "platform": "Windows 8/Metro",
-    "category": "Alphabet",
-    "created": 1328784145,
-    "tags": [
-      "chart",
-      "school",
-      "teacher",
-      "fundamentals"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Alphabet/7_c.svg",
-      "eps": "/EPS/Alphabet/7_c.eps",
-      "png": {
-        "32": "/PNG/32/Alphabet/7_c-32.png",
-        "128": "/PNG/128/Alphabet/7_c-128.png",
-        "26": "/PNG/26/Alphabet/7_c-26.png",
-        "256": "/PNG/256/Alphabet/7_c-256.png",
-        "512": "/PNG/512/Alphabet/7_c-512.png",
-        "64": "/PNG/64/Alphabet/7_c-64.png",
-        "48": "/PNG/48/Alphabet/7_c-48.png"
-      }
-    }
-  },
-  {
-    "id": 607,
-    "name": "8",
-    "platform": "Windows 8/Metro",
-    "category": "Alphabet",
-    "created": 1329208293,
-    "tags": [
-      "multiply",
-      "subtraction",
-      "numbers",
-      "end",
-      "square",
-      "fit",
-      "series",
-      "cubes",
-      "fate",
-      "infinity",
-      "nothing",
-      "eight"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Alphabet/8.svg",
-      "eps": "/EPS/Alphabet/8.eps",
-      "png": {
-        "32": "/PNG/32/Alphabet/8-32.png",
-        "128": "/PNG/128/Alphabet/8-128.png",
-        "26": "/PNG/26/Alphabet/8-26.png",
-        "256": "/PNG/256/Alphabet/8-256.png",
-        "512": "/PNG/512/Alphabet/8-512.png",
-        "64": "/PNG/64/Alphabet/8-64.png",
-        "48": "/PNG/48/Alphabet/8-48.png"
-      }
-    }
-  },
-  {
-    "id": 1470,
-    "name": "8_c",
-    "platform": "Windows 8/Metro",
-    "category": "Alphabet",
-    "created": 1328784145,
-    "tags": [
-      "chart",
-      "numbers",
-      "school",
-      "teacher",
-      "fundamentals",
-      "assignment"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Alphabet/8_c.svg",
-      "eps": "/EPS/Alphabet/8_c.eps",
-      "png": {
-        "32": "/PNG/32/Alphabet/8_c-32.png",
-        "128": "/PNG/128/Alphabet/8_c-128.png",
-        "26": "/PNG/26/Alphabet/8_c-26.png",
-        "256": "/PNG/256/Alphabet/8_c-256.png",
-        "512": "/PNG/512/Alphabet/8_c-512.png",
-        "64": "/PNG/64/Alphabet/8_c-64.png",
-        "48": "/PNG/48/Alphabet/8_c-48.png"
-      }
-    }
-  },
-  {
-    "id": 608,
-    "name": "9",
-    "platform": "Windows 8/Metro",
-    "category": "Alphabet",
-    "created": 1329208293,
-    "tags": [
-      "multiply",
-      "subtraction",
-      "numbers",
-      "end",
-      "square",
-      "fit",
-      "series",
-      "cubes",
-      "infinity",
-      "nothing",
-      "nine",
-      "zero"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Alphabet/9.svg",
-      "eps": "/EPS/Alphabet/9.eps",
-      "png": {
-        "32": "/PNG/32/Alphabet/9-32.png",
-        "128": "/PNG/128/Alphabet/9-128.png",
-        "26": "/PNG/26/Alphabet/9-26.png",
-        "256": "/PNG/256/Alphabet/9-256.png",
-        "512": "/PNG/512/Alphabet/9-512.png",
-        "64": "/PNG/64/Alphabet/9-64.png",
-        "48": "/PNG/48/Alphabet/9-48.png"
-      }
-    }
-  },
-  {
-    "id": 1471,
-    "name": "9_c",
-    "platform": "Windows 8/Metro",
-    "category": "Alphabet",
-    "created": 1328784145,
-    "tags": [
-      "chart",
-      "numbers",
-      "teacher",
-      "fundamentals",
-      "fraction"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Alphabet/9_c.svg",
-      "eps": "/EPS/Alphabet/9_c.eps",
-      "png": {
-        "32": "/PNG/32/Alphabet/9_c-32.png",
-        "128": "/PNG/128/Alphabet/9_c-128.png",
-        "26": "/PNG/26/Alphabet/9_c-26.png",
-        "256": "/PNG/256/Alphabet/9_c-256.png",
-        "512": "/PNG/512/Alphabet/9_c-512.png",
-        "64": "/PNG/64/Alphabet/9_c-64.png",
-        "48": "/PNG/48/Alphabet/9_c-48.png"
       }
     }
   },
@@ -1420,11 +697,14 @@
     "category": "Files",
     "created": 1325248441,
     "tags": [
+      "add",
       "create",
       "new file",
-      "save",
+      "plus",
+      "document",
       "template",
-      "new document"
+      "new document",
+      "add file"
     ],
     "copyright": false,
     "files": {
@@ -1479,6 +759,7 @@
     "created": 1360581355,
     "tags": [
       "add",
+      "plus",
       "image",
       "photo",
       "picture",
@@ -1488,7 +769,6 @@
       "art",
       "gallery",
       "shot",
-      "beautiful",
       "add image",
       "image gallery",
       "frames",
@@ -2458,37 +1738,6 @@
     }
   },
   {
-    "id": 8,
-    "name": "alarm_clock",
-    "platform": "Windows 8/Metro",
-    "category": "Very Basic",
-    "created": 1318305600,
-    "tags": [
-      "clock",
-      "ring",
-      "bells",
-      "morning",
-      "sold",
-      "alarm",
-      "wake up",
-      "alert"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Very_Basic/alarm_clock.svg",
-      "eps": "/EPS/Very_Basic/alarm_clock.eps",
-      "png": {
-        "32": "/PNG/32/Very_Basic/alarm_clock-32.png",
-        "128": "/PNG/128/Very_Basic/alarm_clock-128.png",
-        "26": "/PNG/26/Very_Basic/alarm_clock-26.png",
-        "256": "/PNG/256/Very_Basic/alarm_clock-256.png",
-        "512": "/PNG/512/Very_Basic/alarm_clock-512.png",
-        "64": "/PNG/64/Very_Basic/alarm_clock-64.png",
-        "48": "/PNG/48/Very_Basic/alarm_clock-48.png"
-      }
-    }
-  },
-  {
     "id": 4763,
     "name": "align_center",
     "platform": "Windows 8/Metro",
@@ -2641,92 +1890,6 @@
         "512": "/PNG/512/Animals/alligator-512.png",
         "64": "/PNG/64/Animals/alligator-64.png",
         "48": "/PNG/48/Animals/alligator-48.png"
-      }
-    }
-  },
-  {
-    "id": 1087,
-    "name": "almost_empty",
-    "platform": "Windows 8/Metro",
-    "category": "Mobile",
-    "created": 1344935615,
-    "tags": [
-      "android",
-      "cell",
-      "phone",
-      "smartphone",
-      "device",
-      "iphone",
-      "charge",
-      "electricity",
-      "mobile",
-      "touch",
-      "gadget",
-      "samsung",
-      "lg",
-      "recharge",
-      "power",
-      "battery"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Mobile/almost_empty.svg",
-      "eps": "/EPS/Mobile/almost_empty.eps",
-      "png": {
-        "32": "/PNG/32/Mobile/almost_empty-32.png",
-        "128": "/PNG/128/Mobile/almost_empty-128.png",
-        "26": "/PNG/26/Mobile/almost_empty-26.png",
-        "256": "/PNG/256/Mobile/almost_empty-256.png",
-        "512": "/PNG/512/Mobile/almost_empty-512.png",
-        "64": "/PNG/64/Mobile/almost_empty-64.png",
-        "48": "/PNG/48/Mobile/almost_empty-48.png"
-      }
-    }
-  },
-  {
-    "id": 1086,
-    "name": "almost_full",
-    "platform": "Windows 8/Metro",
-    "category": "Mobile",
-    "created": 1344850846,
-    "tags": [
-      "android",
-      "cell",
-      "phone",
-      "smartphone",
-      "device",
-      "iphone",
-      "source",
-      "electric",
-      "notification",
-      "charge",
-      "mobile",
-      "touch",
-      "power",
-      "battery",
-      "gadget",
-      "energy",
-      "charging",
-      "electrode",
-      "voltage",
-      "lithium",
-      "capacity",
-      "empty battery",
-      "samsung",
-      "lg"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Mobile/almost_full.svg",
-      "eps": "/EPS/Mobile/almost_full.eps",
-      "png": {
-        "32": "/PNG/32/Mobile/almost_full-32.png",
-        "128": "/PNG/128/Mobile/almost_full-128.png",
-        "26": "/PNG/26/Mobile/almost_full-26.png",
-        "256": "/PNG/256/Mobile/almost_full-256.png",
-        "512": "/PNG/512/Mobile/almost_full-512.png",
-        "64": "/PNG/64/Mobile/almost_full-64.png",
-        "48": "/PNG/48/Mobile/almost_full-48.png"
       }
     }
   },
@@ -2907,24 +2070,14 @@
     "category": "Healthcare",
     "created": 1340329025,
     "tags": [
-      "fast",
+      "plus",
       "save",
-      "traffic",
       "transport",
       "machine",
       "wheels",
       "ambulance",
-      "nurse",
-      "gas",
-      "doctor",
-      "x-ray",
-      "roads",
       "hospitalization",
-      "radiation",
-      "chest",
-      "respiration",
-      "ios 7",
-      "iOS 7 save",
+      "van",
       "medicine"
     ],
     "copyright": false,
@@ -3704,37 +2857,6 @@
     }
   },
   {
-    "id": 1398,
-    "name": "approve",
-    "platform": "Windows 8/Metro",
-    "category": "Business",
-    "created": 1355827382,
-    "tags": [
-      "good",
-      "chat",
-      "success",
-      "approve",
-      "decisions",
-      "solution",
-      "make a decision",
-      "real estat"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Business/approve.svg",
-      "eps": "/EPS/Business/approve.eps",
-      "png": {
-        "32": "/PNG/32/Business/approve-32.png",
-        "128": "/PNG/128/Business/approve-128.png",
-        "26": "/PNG/26/Business/approve-26.png",
-        "256": "/PNG/256/Business/approve-256.png",
-        "512": "/PNG/512/Business/approve-512.png",
-        "64": "/PNG/64/Business/approve-64.png",
-        "48": "/PNG/48/Business/approve-48.png"
-      }
-    }
-  },
-  {
     "id": 885,
     "name": "app_shield",
     "platform": "Windows 8/Metro",
@@ -3846,49 +2968,6 @@
         "512": "/PNG/512/Astrology/aquarius-512.png",
         "64": "/PNG/64/Astrology/aquarius-64.png",
         "48": "/PNG/48/Astrology/aquarius-48.png"
-      }
-    }
-  },
-  {
-    "id": 5216,
-    "name": "archeology",
-    "platform": "Windows 8/Metro",
-    "category": "City",
-    "created": 1403787053,
-    "tags": [
-      "broken",
-      "water",
-      "cup",
-      "travel",
-      "vase",
-      "past",
-      "art",
-      "history",
-      "shiny",
-      "ancient",
-      "traditional",
-      "urn",
-      "pot",
-      "vessel",
-      "crack",
-      "roman",
-      "culture",
-      "piller",
-      "amphora",
-      "damaged"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/archeology.svg",
-      "eps": "/EPS/City/archeology.eps",
-      "png": {
-        "32": "/PNG/32/City/archeology-32.png",
-        "128": "/PNG/128/City/archeology-128.png",
-        "26": "/PNG/26/City/archeology-26.png",
-        "256": "/PNG/256/City/archeology-256.png",
-        "512": "/PNG/512/City/archeology-512.png",
-        "64": "/PNG/64/City/archeology-64.png",
-        "48": "/PNG/48/City/archeology-48.png"
       }
     }
   },
@@ -4396,43 +3475,6 @@
     }
   },
   {
-    "id": 2127,
-    "name": "aud",
-    "platform": "Windows 8/Metro",
-    "category": "Finance",
-    "created": 1381999853,
-    "tags": [
-      "bank",
-      "code",
-      "money",
-      "currency",
-      "sign",
-      "pound",
-      "dollar",
-      "exchange",
-      "forex",
-      "market",
-      "australia",
-      "franc",
-      "australian",
-      "swiss"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Finance/AUD.svg",
-      "eps": "/EPS/Finance/AUD.eps",
-      "png": {
-        "32": "/PNG/32/Finance/AUD-32.png",
-        "128": "/PNG/128/Finance/AUD-128.png",
-        "26": "/PNG/26/Finance/AUD-26.png",
-        "256": "/PNG/256/Finance/AUD-256.png",
-        "512": "/PNG/512/Finance/AUD-512.png",
-        "64": "/PNG/64/Finance/AUD-64.png",
-        "48": "/PNG/48/Finance/AUD-48.png"
-      }
-    }
-  },
-  {
     "id": 1812,
     "name": "audience",
     "platform": "Windows 8/Metro",
@@ -4484,6 +3526,7 @@
       "mp3",
       "music",
       "wav",
+      "note",
       "film",
       "song",
       "player",
@@ -4833,36 +3876,6 @@
     }
   },
   {
-    "id": 769,
-    "name": "available_updates",
-    "platform": "Windows 8/Metro",
-    "category": "User Interface",
-    "created": 1334562086,
-    "tags": [
-      "clock",
-      "arrow",
-      "settings",
-      "refresh",
-      "symbols",
-      "green",
-      "updates"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/User_Interface/available_updates.svg",
-      "eps": "/EPS/User_Interface/available_updates.eps",
-      "png": {
-        "32": "/PNG/32/User_Interface/available_updates-32.png",
-        "128": "/PNG/128/User_Interface/available_updates-128.png",
-        "26": "/PNG/26/User_Interface/available_updates-26.png",
-        "256": "/PNG/256/User_Interface/available_updates-256.png",
-        "512": "/PNG/512/User_Interface/available_updates-512.png",
-        "64": "/PNG/64/User_Interface/available_updates-64.png",
-        "48": "/PNG/48/User_Interface/available_updates-48.png"
-      }
-    }
-  },
-  {
     "id": 4227,
     "name": "avengers",
     "platform": "Windows 8/Metro",
@@ -4884,41 +3897,6 @@
         "512": "/PNG/512/Cinema/avengers-512.png",
         "64": "/PNG/64/Cinema/avengers-64.png",
         "48": "/PNG/48/Cinema/avengers-48.png"
-      }
-    }
-  },
-  {
-    "id": 296,
-    "name": "average",
-    "platform": "Windows 8/Metro",
-    "category": "Ecommerce",
-    "created": 1322157406,
-    "tags": [
-      "sale",
-      "buy",
-      "money",
-      "coins",
-      "penny",
-      "economy",
-      "scale",
-      "stores",
-      "mall",
-      "purchasing",
-      "affordable",
-      "retail"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Ecommerce/average.svg",
-      "eps": "/EPS/Ecommerce/average.eps",
-      "png": {
-        "32": "/PNG/32/Ecommerce/average-32.png",
-        "128": "/PNG/128/Ecommerce/average-128.png",
-        "26": "/PNG/26/Ecommerce/average-26.png",
-        "256": "/PNG/256/Ecommerce/average-256.png",
-        "512": "/PNG/512/Ecommerce/average-512.png",
-        "64": "/PNG/64/Ecommerce/average-64.png",
-        "48": "/PNG/48/Ecommerce/average-48.png"
       }
     }
   },
@@ -5145,79 +4123,6 @@
     }
   },
   {
-    "id": 1622,
-    "name": "babyroom",
-    "platform": "Windows 8/Metro",
-    "category": "Household",
-    "created": 1384943270,
-    "tags": [
-      "home",
-      "message",
-      "girl",
-      "house",
-      "expression",
-      "round",
-      "smile",
-      "happy",
-      "person",
-      "head",
-      "flat",
-      "laugh",
-      "black",
-      "eye",
-      "joy",
-      "childhood",
-      "one",
-      "life",
-      "shape",
-      "toys",
-      "infant",
-      "newborn",
-      "apartment",
-      "two",
-      "circle",
-      "cute",
-      "face",
-      "boy",
-      "son",
-      "daughter",
-      "little",
-      "bright",
-      "ear",
-      "sick",
-      "glow",
-      "mood",
-      "interior",
-      "innocence",
-      "toddler",
-      "mouth",
-      "arc",
-      "semi-circle",
-      "shade",
-      "domestic",
-      "baby shower",
-      "compassion",
-      "living space",
-      "accommodation",
-      "child",
-      "young"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Household/babyroom.svg",
-      "eps": "/EPS/Household/babyroom.eps",
-      "png": {
-        "32": "/PNG/32/Household/babyroom-32.png",
-        "128": "/PNG/128/Household/babyroom-128.png",
-        "26": "/PNG/26/Household/babyroom-26.png",
-        "256": "/PNG/256/Household/babyroom-256.png",
-        "512": "/PNG/512/Household/babyroom-512.png",
-        "64": "/PNG/64/Household/babyroom-64.png",
-        "48": "/PNG/48/Household/babyroom-48.png"
-      }
-    }
-  },
-  {
     "id": 2091,
     "name": "baby_feet",
     "platform": "Windows 8/Metro",
@@ -5380,36 +4285,6 @@
         "512": "/PNG/512/Food/bacon-512.png",
         "64": "/PNG/64/Food/bacon-64.png",
         "48": "/PNG/48/Food/bacon-48.png"
-      }
-    }
-  },
-  {
-    "id": 1403,
-    "name": "bad_decision",
-    "platform": "Windows 8/Metro",
-    "category": "Business",
-    "created": 1355914282,
-    "tags": [
-      "mark",
-      "negative",
-      "bad",
-      "decision",
-      "no",
-      "make a decision",
-      "bad decision"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Business/bad_decision.svg",
-      "eps": "/EPS/Business/bad_decision.eps",
-      "png": {
-        "32": "/PNG/32/Business/bad_decision-32.png",
-        "128": "/PNG/128/Business/bad_decision-128.png",
-        "26": "/PNG/26/Business/bad_decision-26.png",
-        "256": "/PNG/256/Business/bad_decision-256.png",
-        "512": "/PNG/512/Business/bad_decision-512.png",
-        "64": "/PNG/64/Business/bad_decision-64.png",
-        "48": "/PNG/48/Business/bad_decision-48.png"
       }
     }
   },
@@ -5708,18 +4583,17 @@
     "created": 1319154613,
     "tags": [
       "atm",
-      "cash",
       "card",
       "banking",
       "bank",
       "payment methods",
       "instant",
-      "receipt",
       "savings",
       "teller",
-      "malls",
       "cards",
-      "payment"
+      "payment",
+      "credit",
+      "plastic"
     ],
     "copyright": false,
     "files": {
@@ -5978,39 +4852,6 @@
     }
   },
   {
-    "id": 2162,
-    "name": "barcode_scanner",
-    "platform": "Windows 8/Metro",
-    "category": "Ecommerce",
-    "created": 1381398244,
-    "tags": [
-      "microsoft",
-      "shopping",
-      "commerce",
-      "barcode",
-      "scanner",
-      "cashier",
-      "shop",
-      "camera",
-      "device manager",
-      "cash desk"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Ecommerce/barcode_scanner.svg",
-      "eps": "/EPS/Ecommerce/barcode_scanner.eps",
-      "png": {
-        "32": "/PNG/32/Ecommerce/barcode_scanner-32.png",
-        "128": "/PNG/128/Ecommerce/barcode_scanner-128.png",
-        "26": "/PNG/26/Ecommerce/barcode_scanner-26.png",
-        "256": "/PNG/256/Ecommerce/barcode_scanner-256.png",
-        "512": "/PNG/512/Ecommerce/barcode_scanner-512.png",
-        "64": "/PNG/64/Ecommerce/barcode_scanner-64.png",
-        "48": "/PNG/48/Ecommerce/barcode_scanner-48.png"
-      }
-    }
-  },
-  {
     "id": 1831,
     "name": "barley",
     "platform": "Windows 8/Metro",
@@ -6049,44 +4890,6 @@
         "512": "/PNG/512/Plants/barley-512.png",
         "64": "/PNG/64/Plants/barley-64.png",
         "48": "/PNG/48/Plants/barley-48.png"
-      }
-    }
-  },
-  {
-    "id": 1295,
-    "name": "barn",
-    "platform": "Windows 8/Metro",
-    "category": "Household",
-    "created": 1352894247,
-    "tags": [
-      "paper",
-      "home",
-      "house",
-      "family",
-      "flat",
-      "apartment",
-      "realty",
-      "property",
-      "realty estate",
-      "architecture",
-      "barn",
-      "interior",
-      "domestic",
-      "living space",
-      "accommodation"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Household/barn.svg",
-      "eps": "/EPS/Household/barn.eps",
-      "png": {
-        "32": "/PNG/32/Household/barn-32.png",
-        "128": "/PNG/128/Household/barn-128.png",
-        "26": "/PNG/26/Household/barn-26.png",
-        "256": "/PNG/256/Household/barn-256.png",
-        "512": "/PNG/512/Household/barn-512.png",
-        "64": "/PNG/64/Household/barn-64.png",
-        "48": "/PNG/48/Household/barn-48.png"
       }
     }
   },
@@ -6547,129 +5350,6 @@
     }
   },
   {
-    "id": 3097,
-    "name": "bath",
-    "platform": "Windows 8/Metro",
-    "category": "Household",
-    "created": 1391525457,
-    "tags": [
-      "design",
-      "vector",
-      "health",
-      "clean",
-      "home",
-      "wash",
-      "house",
-      "care",
-      "bubble",
-      "water",
-      "illustration",
-      "equipment",
-      "flat",
-      "soap",
-      "black",
-      "recreation",
-      "white",
-      "iron",
-      "aroma",
-      "apartment",
-      "relaxation",
-      "old",
-      "body",
-      "bath",
-      "bathroom",
-      "hygiene",
-      "relax",
-      "dirty",
-      "realistic",
-      "glossy",
-      "background",
-      "gray",
-      "vintage",
-      "victorian",
-      "retro",
-      "interior",
-      "indoor",
-      "domestic",
-      "leisure",
-      "enjoy",
-      "washroom",
-      "spa",
-      "ceramic",
-      "tub",
-      "treatment",
-      "bathwater",
-      "detailed"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Household/bath.svg",
-      "eps": "/EPS/Household/bath.eps",
-      "png": {
-        "32": "/PNG/32/Household/bath-32.png",
-        "128": "/PNG/128/Household/bath-128.png",
-        "26": "/PNG/26/Household/bath-26.png",
-        "256": "/PNG/256/Household/bath-256.png",
-        "512": "/PNG/512/Household/bath-512.png",
-        "64": "/PNG/64/Household/bath-64.png",
-        "48": "/PNG/48/Household/bath-48.png"
-      }
-    }
-  },
-  {
-    "id": 1630,
-    "name": "bath_room",
-    "platform": "Windows 8/Metro",
-    "category": "Household",
-    "created": 1384772336,
-    "tags": [
-      "home",
-      "house",
-      "flat",
-      "apartment",
-      "spring",
-      "shower",
-      "bath",
-      "bathroom",
-      "shower bath",
-      "shower curtain",
-      "shower cap",
-      "shower gel",
-      "shower down",
-      "shower cascade",
-      "shower room",
-      "shower stall",
-      "shower head",
-      "fountain",
-      "showery",
-      "splash",
-      "shower proof",
-      "spray",
-      "sprinkle",
-      "nebulizer",
-      "dispensor",
-      "scatter",
-      "interior",
-      "domestic",
-      "living space",
-      "accommodation"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Household/bath_room.svg",
-      "eps": "/EPS/Household/bath_room.eps",
-      "png": {
-        "32": "/PNG/32/Household/bath_room-32.png",
-        "128": "/PNG/128/Household/bath_room-128.png",
-        "26": "/PNG/26/Household/bath_room-26.png",
-        "256": "/PNG/256/Household/bath_room-256.png",
-        "512": "/PNG/512/Household/bath_room-512.png",
-        "64": "/PNG/64/Household/bath_room-64.png",
-        "48": "/PNG/48/Household/bath_room-48.png"
-      }
-    }
-  },
-  {
     "id": 4240,
     "name": "batman_new",
     "platform": "Windows 8/Metro",
@@ -6716,40 +5396,6 @@
         "512": "/PNG/512/Cinema/batman_old-512.png",
         "64": "/PNG/64/Cinema/batman_old-64.png",
         "48": "/PNG/48/Cinema/batman_old-48.png"
-      }
-    }
-  },
-  {
-    "id": 5133,
-    "name": "battleship",
-    "platform": "Windows 8/Metro",
-    "category": "Military",
-    "created": 1403621453,
-    "tags": [
-      "ship",
-      "water",
-      "logo",
-      "country",
-      "army",
-      "old",
-      "material",
-      "strong",
-      "flow",
-      "sail",
-      "war"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Military/battleship.svg",
-      "eps": "/EPS/Military/battleship.eps",
-      "png": {
-        "32": "/PNG/32/Military/battleship-32.png",
-        "128": "/PNG/128/Military/battleship-128.png",
-        "26": "/PNG/26/Military/battleship-26.png",
-        "256": "/PNG/256/Military/battleship-256.png",
-        "512": "/PNG/512/Military/battleship-512.png",
-        "64": "/PNG/64/Military/battleship-64.png",
-        "48": "/PNG/48/Military/battleship-48.png"
       }
     }
   },
@@ -7418,82 +6064,6 @@
     }
   },
   {
-    "id": 2664,
-    "name": "bell_service",
-    "platform": "Windows 8/Metro",
-    "category": "Household",
-    "created": 1390342413,
-    "tags": [
-      "ring",
-      "office",
-      "home",
-      "food",
-      "cover",
-      "house",
-      "nutrition",
-      "sound",
-      "dine",
-      "eat",
-      "tool",
-      "round",
-      "table",
-      "silver",
-      "hot",
-      "function",
-      "attention",
-      "room",
-      "flat",
-      "request",
-      "bell",
-      "steel",
-      "catering",
-      "metal",
-      "diet",
-      "service",
-      "cap",
-      "apartment",
-      "push",
-      "kitchen",
-      "curve",
-      "lunch",
-      "gray",
-      "interior",
-      "alert",
-      "lid",
-      "domestic",
-      "desk",
-      "cafe",
-      "attend",
-      "hotel",
-      "hit",
-      "dome",
-      "call for",
-      "inn",
-      "serve",
-      "bistro",
-      "consumption",
-      "storing",
-      "plateful",
-      "bakery",
-      "pantry",
-      "chafi"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Household/bell_service.svg",
-      "eps": "/EPS/Household/bell_service.eps",
-      "png": {
-        "32": "/PNG/32/Household/bell_service-32.png",
-        "128": "/PNG/128/Household/bell_service-128.png",
-        "26": "/PNG/26/Household/bell_service-26.png",
-        "256": "/PNG/256/Household/bell_service-256.png",
-        "512": "/PNG/512/Household/bell_service-512.png",
-        "64": "/PNG/64/Household/bell_service-64.png",
-        "48": "/PNG/48/Household/bell_service-48.png"
-      }
-    }
-  },
-  {
     "id": 799,
     "name": "berry",
     "platform": "Windows 8/Metro",
@@ -8073,69 +6643,6 @@
     }
   },
   {
-    "id": 1614,
-    "name": "birthday",
-    "platform": "Windows 8/Metro",
-    "category": "Time",
-    "created": 1385041282,
-    "tags": [
-      "design",
-      "food",
-      "fun",
-      "fire",
-      "light",
-      "party",
-      "happy",
-      "children",
-      "tasty",
-      "sweet",
-      "wedding",
-      "birthday",
-      "present",
-      "burn",
-      "cake",
-      "life",
-      "wax",
-      "happiness",
-      "greeting",
-      "age",
-      "event",
-      "surprise",
-      "candle",
-      "decorative",
-      "celebrate",
-      "bright",
-      "colorful",
-      "chocolate",
-      "flame",
-      "illuminate",
-      "commemorative",
-      "special",
-      "anniversary",
-      "annual",
-      "frosting",
-      "wick",
-      "creamy",
-      "pista",
-      "mouthwatering",
-      "fat"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Time/birthday.svg",
-      "eps": "/EPS/Time/birthday.eps",
-      "png": {
-        "32": "/PNG/32/Time/birthday-32.png",
-        "128": "/PNG/128/Time/birthday-128.png",
-        "26": "/PNG/26/Time/birthday-26.png",
-        "256": "/PNG/256/Time/birthday-256.png",
-        "512": "/PNG/512/Time/birthday-512.png",
-        "64": "/PNG/64/Time/birthday-64.png",
-        "48": "/PNG/48/Time/birthday-48.png"
-      }
-    }
-  },
-  {
     "id": 280,
     "name": "birthday_cake",
     "platform": "Windows 8/Metro",
@@ -8179,34 +6686,6 @@
         "512": "/PNG/512/Food/birthday_cake-512.png",
         "64": "/PNG/64/Food/birthday_cake-64.png",
         "48": "/PNG/48/Food/birthday_cake-48.png"
-      }
-    }
-  },
-  {
-    "id": 1014,
-    "name": "bishop",
-    "platform": "Windows 8/Metro",
-    "category": "Gaming",
-    "created": 1342434461,
-    "tags": [
-      "mind",
-      "wood",
-      "square",
-      "chess",
-      "bishop"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Gaming/bishop.svg",
-      "eps": "/EPS/Gaming/bishop.eps",
-      "png": {
-        "32": "/PNG/32/Gaming/bishop-32.png",
-        "128": "/PNG/128/Gaming/bishop-128.png",
-        "26": "/PNG/26/Gaming/bishop-26.png",
-        "256": "/PNG/256/Gaming/bishop-256.png",
-        "512": "/PNG/512/Gaming/bishop-512.png",
-        "64": "/PNG/64/Gaming/bishop-64.png",
-        "48": "/PNG/48/Gaming/bishop-48.png"
       }
     }
   },
@@ -8494,42 +6973,6 @@
         "512": "/PNG/512/Computer_Hardware/blu_ray-512.png",
         "64": "/PNG/64/Computer_Hardware/blu_ray-64.png",
         "48": "/PNG/48/Computer_Hardware/blu_ray-48.png"
-      }
-    }
-  },
-  {
-    "id": 1325,
-    "name": "bobbin",
-    "platform": "Windows 8/Metro",
-    "category": "Clothing",
-    "created": 1353932475,
-    "tags": [
-      "fashion",
-      "shopping",
-      "brand",
-      "equipment",
-      "clothes",
-      "style",
-      "work tool",
-      "sewing",
-      "cotton",
-      "wardrobe",
-      "wear",
-      "outfit",
-      "fashion retail"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Clothing/bobbin.svg",
-      "eps": "/EPS/Clothing/bobbin.eps",
-      "png": {
-        "32": "/PNG/32/Clothing/bobbin-32.png",
-        "128": "/PNG/128/Clothing/bobbin-128.png",
-        "26": "/PNG/26/Clothing/bobbin-26.png",
-        "256": "/PNG/256/Clothing/bobbin-256.png",
-        "512": "/PNG/512/Clothing/bobbin-512.png",
-        "64": "/PNG/64/Clothing/bobbin-64.png",
-        "48": "/PNG/48/Clothing/bobbin-48.png"
       }
     }
   },
@@ -9145,30 +7588,6 @@
         "512": "/PNG/512/Ecommerce/box-512.png",
         "64": "/PNG/64/Ecommerce/box-64.png",
         "48": "/PNG/48/Ecommerce/box-48.png"
-      }
-    }
-  },
-  {
-    "id": 2518,
-    "name": "box2",
-    "platform": "Windows 8/Metro",
-    "category": "Ecommerce",
-    "created": 1390342413,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Ecommerce/box2.svg",
-      "eps": "/EPS/Ecommerce/box2.eps",
-      "png": {
-        "32": "/PNG/32/Ecommerce/box2-32.png",
-        "128": "/PNG/128/Ecommerce/box2-128.png",
-        "26": "/PNG/26/Ecommerce/box2-26.png",
-        "256": "/PNG/256/Ecommerce/box2-256.png",
-        "512": "/PNG/512/Ecommerce/box2-512.png",
-        "64": "/PNG/64/Ecommerce/box2-64.png",
-        "48": "/PNG/48/Ecommerce/box2-48.png"
       }
     }
   },
@@ -10291,12 +8710,13 @@
     "category": "Business",
     "created": 1324639534,
     "tags": [
+      "industry",
+      "email",
       "card",
       "info",
       "business",
       "personal",
       "management icons",
-      "industry",
       "name",
       "contact",
       "address"
@@ -10566,12 +8986,14 @@
     "category": "Photo and Video",
     "created": 1380883326,
     "tags": [
+      "switch",
       "image",
       "photo",
       "camera",
       "cable",
       "shot",
-      "photography"
+      "photography",
+      "remote"
     ],
     "copyright": false,
     "files": {
@@ -10586,49 +9008,6 @@
         "512": "/PNG/512/Photo_Video/cable_release-512.png",
         "64": "/PNG/64/Photo_Video/cable_release-64.png",
         "48": "/PNG/48/Photo_Video/cable_release-48.png"
-      }
-    }
-  },
-  {
-    "id": 2125,
-    "name": "cad",
-    "platform": "Windows 8/Metro",
-    "category": "Finance",
-    "created": 1382090318,
-    "tags": [
-      "photos",
-      "education",
-      "drinks",
-      "images",
-      "animals",
-      "technology",
-      "white",
-      "stock",
-      "industrial",
-      "religion",
-      "clip art",
-      "budget",
-      "demand",
-      "royalty",
-      "shutter",
-      "holidays",
-      "interiors",
-      "arts",
-      "parks",
-      "healthcare"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Finance/CAD.svg",
-      "eps": "/EPS/Finance/CAD.eps",
-      "png": {
-        "32": "/PNG/32/Finance/CAD-32.png",
-        "128": "/PNG/128/Finance/CAD-128.png",
-        "26": "/PNG/26/Finance/CAD-26.png",
-        "256": "/PNG/256/Finance/CAD-256.png",
-        "512": "/PNG/512/Finance/CAD-512.png",
-        "64": "/PNG/64/Finance/CAD-64.png",
-        "48": "/PNG/48/Finance/CAD-48.png"
       }
     }
   },
@@ -10890,7 +9269,6 @@
       "camcorder",
       "shot",
       "photography",
-      "back",
       "mic",
       "pro"
     ],
@@ -10917,7 +9295,6 @@
     "category": "Photo and Video",
     "created": 1382346941,
     "tags": [
-      "software",
       "print",
       "printer",
       "symbol",
@@ -10931,28 +9308,19 @@
       "icon",
       "memory card",
       "shot",
-      "bag",
-      "camera film",
-      "computer icon",
-      "lighting equipment",
       "photography",
       "digital camera",
-      "remote control",
       "icon set",
       "digicam",
-      "interface icons",
-      "tripod",
-      "housing",
       "dslr",
-      "soft box",
-      "polarizing",
-      "blower",
-      "mirrorless camera",
       "camera flash",
       "monopod",
       "film camera",
       "case",
-      "vecto"
+      "vector icons",
+      "camera lens",
+      "sd card",
+      "puzzle piece"
     ],
     "copyright": false,
     "files": {
@@ -10977,30 +9345,16 @@
     "category": "Photo and Video",
     "created": 1382346941,
     "tags": [
-      "beauty",
-      "fashion",
-      "medical",
-      "business",
+      "search",
       "photos",
       "image",
       "photo",
       "objects",
-      "building",
       "camera",
-      "black",
-      "white",
-      "color",
-      "nature",
-      "outdoor",
       "shot",
-      "freshness",
-      "finance",
       "photography",
-      "abstract",
-      "light box",
-      "offset",
-      "quality",
-      "variety"
+      "puzzle",
+      "magnifying glass"
     ],
     "copyright": false,
     "files": {
@@ -11027,43 +9381,32 @@
     "tags": [
       "vector",
       "drawing",
+      "search",
       "zoom",
       "professional",
       "macro",
       "image",
-      "illustration",
       "photo",
       "photograph",
       "picture",
       "camera",
       "digital",
       "lens",
-      "equipment",
-      "technology",
-      "black",
-      "eye",
-      "white",
       "glass",
       "color",
       "shot",
-      "occupation",
-      "isolated",
       "focus",
       "photography",
+      "magnifying glass",
       "aiming",
-      "blue",
-      "eyesight",
       "focal",
-      "looking",
       "optic",
       "optical",
       "projection",
       "realistic",
       "reflection",
       "shutter",
-      "sight",
-      "telephoto",
-      "violet"
+      "sight"
     ],
     "copyright": false,
     "files": {
@@ -11316,6 +9659,7 @@
       "check",
       "cancel",
       "new",
+      "plus",
       "finish",
       "stop",
       "warning",
@@ -11872,15 +10216,13 @@
     "created": 1319154613,
     "tags": [
       "atm",
-      "cash",
-      "phone",
       "payment methods",
       "instant",
-      "receipt",
       "savings",
       "teller",
-      "malls",
-      "machine"
+      "machine",
+      "credit",
+      "plastic"
     ],
     "copyright": false,
     "files": {
@@ -13293,6 +11635,7 @@
       "poll",
       "series",
       "menu",
+      "truck",
       "job",
       "schedule",
       "price",
@@ -13551,41 +11894,6 @@
         "512": "/PNG/512/Sports/chest-512.png",
         "64": "/PNG/64/Sports/chest-64.png",
         "48": "/PNG/48/Sports/chest-48.png"
-      }
-    }
-  },
-  {
-    "id": 2129,
-    "name": "chf",
-    "platform": "Windows 8/Metro",
-    "category": "Finance",
-    "created": 1381999853,
-    "tags": [
-      "bank",
-      "code",
-      "money",
-      "currency",
-      "sign",
-      "pound",
-      "dollar",
-      "exchange",
-      "forex",
-      "market",
-      "franc",
-      "swiss"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Finance/CHF.svg",
-      "eps": "/EPS/Finance/CHF.eps",
-      "png": {
-        "32": "/PNG/32/Finance/CHF-32.png",
-        "128": "/PNG/128/Finance/CHF-128.png",
-        "26": "/PNG/26/Finance/CHF-26.png",
-        "256": "/PNG/256/Finance/CHF-256.png",
-        "512": "/PNG/512/Finance/CHF-512.png",
-        "64": "/PNG/64/Finance/CHF-64.png",
-        "48": "/PNG/48/Finance/CHF-48.png"
       }
     }
   },
@@ -14516,30 +12824,6 @@
     }
   },
   {
-    "id": 5173,
-    "name": "city_bench",
-    "platform": "Windows 8/Metro",
-    "category": "City",
-    "created": 1403722262,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/city_bench.svg",
-      "eps": "/EPS/City/city_bench.eps",
-      "png": {
-        "32": "/PNG/32/City/city_bench-32.png",
-        "128": "/PNG/128/City/city_bench-128.png",
-        "26": "/PNG/26/City/city_bench-26.png",
-        "256": "/PNG/256/City/city_bench-256.png",
-        "512": "/PNG/512/City/city_bench-512.png",
-        "64": "/PNG/64/City/city_bench-64.png",
-        "48": "/PNG/48/City/city_bench-48.png"
-      }
-    }
-  },
-  {
     "id": 28,
     "name": "city_church",
     "platform": "Windows 8/Metro",
@@ -14640,8 +12924,6 @@
     "category": "Photo and Video",
     "created": 1356611222,
     "tags": [
-      "check",
-      "ok",
       "film",
       "acting",
       "movie",
@@ -14653,10 +12935,7 @@
       "cinema",
       "director",
       "shot",
-      "film reel",
-      "film slate",
       "clapperboard",
-      "camera film",
       "film industry",
       "motion picture",
       "photography"
@@ -15198,24 +13477,13 @@
       "talk",
       "change",
       "person",
-      "female",
       "speak",
       "relationship",
       "male",
       "personality",
-      "sustainability",
-      "homosexual",
       "direct contact",
-      "resembles other",
-      "unix and x",
       "clone layer",
-      "from other cells",
-      "commands to monitor",
-      "made from other",
       "two persons",
-      "future generation",
-      "discussion x",
-      "transformation",
       "infection",
       "infect"
     ],
@@ -15289,47 +13557,20 @@
     "created": 1390342413,
     "tags": [
       "vector",
-      "earth",
+      "macro",
       "image",
       "photo",
       "camera",
       "flower",
       "plant",
-      "nature",
-      "grass",
-      "dirt",
-      "wild",
-      "roots",
-      "life",
       "natural",
       "shot",
-      "summer",
       "spring",
       "photography",
-      "black and white",
       "growth",
       "clip art",
-      "botany",
-      "wildlife",
-      "annual",
-      "weed",
       "soil",
-      "rose",
-      "tulip",
-      "daisy",
-      "botanical",
-      "wilderness",
-      "perennial",
-      "flowering",
-      "blossom",
-      "floret",
-      "floweret",
-      "posy",
-      "springtime",
-      "summertime",
-      "bud",
-      "symmetrical",
-      "symmetry"
+      "tulip"
     ],
     "copyright": false,
     "files": {
@@ -15459,10 +13700,7 @@
       "storage",
       "weather",
       "open",
-      "dropbox",
       "cloud",
-      "me",
-      "amazon",
       "icloud"
     ],
     "copyright": false,
@@ -16664,13 +14902,13 @@
     "category": "Photo and Video",
     "created": 1326886315,
     "tags": [
-      "percentage",
       "image",
       "photo",
       "camera",
       "compact camera",
       "shot",
-      "photography"
+      "photography",
+      "point and shoot"
     ],
     "copyright": false,
     "files": {
@@ -17089,6 +15327,7 @@
       "user",
       "badge",
       "profile",
+      "person",
       "dial",
       "phonebook",
       "connection"
@@ -18491,10 +16730,10 @@
     "tags": [
       "vector",
       "zodiac",
+      "ball",
       "bulb",
       "light",
       "lamp",
-      "save",
       "symbol",
       "electric",
       "sign",
@@ -18503,20 +16742,15 @@
       "stars",
       "icon",
       "power",
-      "isolated",
-      "innovation",
-      "element",
       "future",
+      "astrology",
       "horoscope",
-      "tech",
       "lightbulb",
-      "halogen",
-      "tungsten",
-      "bio",
-      "socle",
+      "crystal",
       "psychic reading",
       "spiritual",
-      "astrometry"
+      "astrometry",
+      "crystal ball"
     ],
     "copyright": false,
     "files": {
@@ -23078,52 +21312,24 @@
     "category": "Weather",
     "created": 1395255094,
     "tags": [
-      "chart",
       "land",
-      "flash",
-      "graph",
       "emergency",
       "save",
-      "business",
-      "work",
-      "economy",
-      "currency",
       "city",
       "break",
-      "gasoline",
-      "electric",
-      "illustration",
-      "industry",
       "building",
-      "technology",
-      "black",
-      "gas",
-      "oil",
-      "night",
-      "thunder",
       "shock",
-      "dark",
-      "environment",
-      "power",
       "nature",
-      "stock",
-      "global",
-      "energy",
-      "drum",
-      "price",
-      "industrial",
-      "object",
-      "evening",
-      "growth",
-      "increasing",
-      "diagram",
-      "market",
-      "silhouette",
-      "background",
-      "raise",
-      "creative",
-      "petrol",
-      "fue"
+      "split",
+      "crack",
+      "chaos",
+      "tragedy",
+      "disaster",
+      "escape",
+      "crisis",
+      "earthquake",
+      "earthquakes",
+      "natural disaster"
     ],
     "copyright": false,
     "files": {
@@ -23556,6 +21762,7 @@
     "category": "Photo and Video",
     "created": 1360581355,
     "tags": [
+      "pencil",
       "image",
       "photo",
       "picture",
@@ -23565,14 +21772,12 @@
       "art",
       "gallery",
       "shot",
-      "retro revival",
       "image gallery",
       "frames",
       "picture frame",
       "paintings",
       "photography",
-      "painted image",
-      "curve"
+      "painted image"
     ],
     "copyright": false,
     "files": {
@@ -24031,7 +22236,6 @@
       "heat",
       "sign",
       "safety",
-      "industry",
       "technology",
       "electricity",
       "shock",
@@ -24048,7 +22252,9 @@
       "warning symbol",
       "burner",
       "tech",
-      "machinery"
+      "solar",
+      "machinery",
+      "industry"
     ],
     "copyright": false,
     "files": {
@@ -24257,7 +22463,6 @@
       "send",
       "mail",
       "message",
-      "envelope",
       "messaging",
       "communication",
       "communicate",
@@ -24276,12 +22481,9 @@
       "technology",
       "mobile",
       "icon",
-      "outdoor",
       "electronic",
       "email",
-      "modern",
       "website",
-      "concept",
       "domain",
       "subject",
       "receive",
@@ -24292,7 +22494,8 @@
       "mailing",
       "mails",
       "attachments",
-      "information electroni"
+      "information electronic",
+      "texting"
     ],
     "copyright": false,
     "files": {
@@ -25122,41 +23325,6 @@
     }
   },
   {
-    "id": 2135,
-    "name": "eur",
-    "platform": "Windows 8/Metro",
-    "category": "Finance",
-    "created": 1381914146,
-    "tags": [
-      "bank",
-      "usd",
-      "eur",
-      "code",
-      "money",
-      "currency",
-      "sign",
-      "dollar",
-      "exchange",
-      "forex",
-      "market",
-      "euro"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Finance/EUR.svg",
-      "eps": "/EPS/Finance/EUR.eps",
-      "png": {
-        "32": "/PNG/32/Finance/EUR-32.png",
-        "128": "/PNG/128/Finance/EUR-128.png",
-        "26": "/PNG/26/Finance/EUR-26.png",
-        "256": "/PNG/256/Finance/EUR-256.png",
-        "512": "/PNG/512/Finance/EUR-512.png",
-        "64": "/PNG/64/Finance/EUR-64.png",
-        "48": "/PNG/48/Finance/EUR-48.png"
-      }
-    }
-  },
-  {
     "id": 697,
     "name": "evil",
     "platform": "Windows 8/Metro",
@@ -25480,7 +23648,6 @@
     "tags": [
       "design",
       "graphics",
-      "vector",
       "clock",
       "alarm",
       "device",
@@ -25525,7 +23692,7 @@
       "flowing",
       "flow",
       "late",
-      "hou"
+      "hourglass"
     ],
     "copyright": false,
     "files": {
@@ -25550,6 +23717,7 @@
     "category": "Military",
     "created": 1351681485,
     "tags": [
+      "world",
       "military",
       "combat",
       "weapon",
@@ -25589,7 +23757,12 @@
     "category": "Data",
     "created": 1390342413,
     "tags": [
-      "save"
+      "arrow",
+      "right",
+      "data",
+      "save",
+      "export",
+      "move"
     ],
     "copyright": false,
     "files": {
@@ -26526,44 +24699,6 @@
     }
   },
   {
-    "id": 5132,
-    "name": "fighter_jet",
-    "platform": "Windows 8/Metro",
-    "category": "Military",
-    "created": 1403621453,
-    "tags": [
-      "military",
-      "sky",
-      "transportation",
-      "airport",
-      "action",
-      "air",
-      "flight",
-      "airplane",
-      "army",
-      "plane",
-      "armed",
-      "aircraft",
-      "airline",
-      "nato",
-      "aerodynamic"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Military/fighter_jet.svg",
-      "eps": "/EPS/Military/fighter_jet.eps",
-      "png": {
-        "32": "/PNG/32/Military/fighter_jet-32.png",
-        "128": "/PNG/128/Military/fighter_jet-128.png",
-        "26": "/PNG/26/Military/fighter_jet-26.png",
-        "256": "/PNG/256/Military/fighter_jet-256.png",
-        "512": "/PNG/512/Military/fighter_jet-512.png",
-        "64": "/PNG/64/Military/fighter_jet-64.png",
-        "48": "/PNG/48/Military/fighter_jet-48.png"
-      }
-    }
-  },
-  {
     "id": 55,
     "name": "file",
     "platform": "Windows 8/Metro",
@@ -26751,27 +24886,22 @@
     "tags": [
       "show",
       "play",
+      "film",
       "internet",
-      "pause",
       "movie",
-      "video",
       "image",
       "photo",
       "picture",
       "record",
       "online",
       "camera",
-      "digital",
       "cinema",
-      "lens",
       "director",
       "flicks",
       "blockbuster",
-      "brands",
+      "frame",
       "shot",
       "photography",
-      "zdjecia",
-      "coupono",
       "motion"
     ],
     "copyright": false,
@@ -26798,6 +24928,7 @@
     "created": 1326970636,
     "tags": [
       "play",
+      "film",
       "movie",
       "video",
       "image",
@@ -26807,11 +24938,10 @@
       "camera",
       "cinema",
       "lens",
+      "frame",
       "shot",
       "video player",
-      "photography",
-      "feedback",
-      "contribute"
+      "photography"
     ],
     "copyright": false,
     "files": {
@@ -27095,57 +25225,32 @@
     "category": "Weather",
     "created": 1395255094,
     "tags": [
-      "clock",
       "alarm",
-      "watch",
-      "pencil",
-      "recycle",
       "home",
-      "earth",
       "house",
       "fire",
       "help",
       "protection",
-      "lamp",
-      "graph",
       "security",
       "emergency",
       "save",
-      "document",
-      "rating",
-      "yellow",
-      "defense",
       "hot",
       "heat",
       "burn",
       "building",
-      "wooden",
-      "dice",
-      "green",
-      "sun",
       "icon",
-      "environment",
-      "flower",
-      "nature",
-      "shield",
       "ladder",
-      "battery",
-      "button",
-      "energy",
       "smoke",
       "accident",
-      "factory",
-      "diagram",
-      "wind turbine",
-      "red",
-      "toxic",
-      "blue",
       "rescue",
       "blaze",
       "glow",
       "fight",
-      "ecology",
-      "s"
+      "tragedy",
+      "disaster",
+      "extinguish",
+      "destruction",
+      "panic"
     ],
     "copyright": false,
     "files": {
@@ -27329,30 +25434,23 @@
     "category": "City",
     "created": 1397760709,
     "tags": [
-      "box",
       "fire",
-      "pump",
       "emergency",
+      "city",
       "water",
-      "pipe",
-      "motor",
       "tap",
       "town",
-      "settlement",
       "urban",
       "fire hydrant",
       "firefighters",
       "dogs favorite pee-place",
       "summertime fun",
       "putting out fires",
-      "water main",
       "summertime water playtime",
       "saving lives",
       "fire hydrant clipart",
       "water emergency equipment",
-      "hose",
-      "fireextinguisher",
-      "wayfinding"
+      "hose"
     ],
     "copyright": false,
     "files": {
@@ -29821,50 +27919,41 @@
     "created": 1394823084,
     "tags": [
       "vector",
-      "set",
-      "appliance",
-      "collection",
-      "save",
-      "plumbing",
       "temperature",
       "symbol",
-      "economy",
       "gasoline",
       "hot",
       "cooking",
       "heat",
-      "oven",
-      "illustration",
       "sign",
       "burn",
       "industry",
-      "equipment",
-      "technology",
-      "banner",
-      "black",
-      "pipe",
       "gas",
       "oil",
-      "hell",
-      "white",
-      "frame",
       "icon",
-      "environment",
-      "power",
-      "plant",
-      "manufacturing",
-      "production",
-      "emblem",
       "energy",
       "stove",
-      "bonfire",
       "danger",
-      "engineering",
-      "factory",
-      "recycling",
-      "industrial",
-      "red",
-      "grilled"
+      "pictogram",
+      "flammable",
+      "blaze",
+      "glow",
+      "ignite",
+      "warm",
+      "eco",
+      "fuel",
+      "combust",
+      "methane",
+      "refinery",
+      "butane",
+      "blazing",
+      "fiery",
+      "plasma",
+      "open flame",
+      "firemen",
+      "fire",
+      "burner",
+      "flame"
     ],
     "copyright": false,
     "files": {
@@ -30076,41 +28165,6 @@
         "512": "/PNG/512/Military/gatling_gun-512.png",
         "64": "/PNG/64/Military/gatling_gun-64.png",
         "48": "/PNG/48/Military/gatling_gun-48.png"
-      }
-    }
-  },
-  {
-    "id": 2131,
-    "name": "gbp",
-    "platform": "Windows 8/Metro",
-    "category": "Finance",
-    "created": 1381999853,
-    "tags": [
-      "bank",
-      "code",
-      "money",
-      "currency",
-      "sign",
-      "pound",
-      "dollar",
-      "exchange",
-      "forex",
-      "market",
-      "franc",
-      "swiss"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Finance/GBP.svg",
-      "eps": "/EPS/Finance/GBP.eps",
-      "png": {
-        "32": "/PNG/32/Finance/GBP-32.png",
-        "128": "/PNG/128/Finance/GBP-128.png",
-        "26": "/PNG/26/Finance/GBP-26.png",
-        "256": "/PNG/256/Finance/GBP-256.png",
-        "512": "/PNG/512/Finance/GBP-512.png",
-        "64": "/PNG/64/Finance/GBP-64.png",
-        "48": "/PNG/48/Finance/GBP-48.png"
       }
     }
   },
@@ -30613,6 +28667,7 @@
     "category": "Science",
     "created": 1395935483,
     "tags": [
+      "web",
       "world globe"
     ],
     "copyright": false,
@@ -32128,6 +30183,7 @@
       "hat",
       "success",
       "bars",
+      "job",
       "diploma",
       "award",
       "university",
@@ -32283,11 +30339,6 @@
     "tags": [
       "ideas",
       "clean",
-      "lamp",
-      "savings",
-      "economy",
-      "industry",
-      "equipment",
       "technology",
       "electricity",
       "leaf",
@@ -32296,22 +30347,14 @@
       "power",
       "plant",
       "nature",
-      "manufacturing",
-      "production",
       "energy",
-      "engineering",
-      "factory",
-      "spiral",
       "biotechnology",
-      "science backgrounds",
-      "science abstract",
-      "science symbols/metaphors",
       "innovation",
       "lighting equipment",
       "greentech",
       "light bulb",
       "environmental conservation",
-      "recycling"
+      "green idea"
     ],
     "copyright": false,
     "files": {
@@ -33089,30 +31132,6 @@
     }
   },
   {
-    "id": 5175,
-    "name": "halloween_candy",
-    "platform": "Windows 8/Metro",
-    "category": "Holidays",
-    "created": 1403722262,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/halloween_candy.svg",
-      "eps": "/EPS/Holidays/halloween_candy.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/halloween_candy-32.png",
-        "128": "/PNG/128/Holidays/halloween_candy-128.png",
-        "26": "/PNG/26/Holidays/halloween_candy-26.png",
-        "256": "/PNG/256/Holidays/halloween_candy-256.png",
-        "512": "/PNG/512/Holidays/halloween_candy-512.png",
-        "64": "/PNG/64/Holidays/halloween_candy-64.png",
-        "48": "/PNG/48/Holidays/halloween_candy-48.png"
-      }
-    }
-  },
-  {
     "id": 1207,
     "name": "hammer",
     "platform": "Windows 8/Metro",
@@ -33227,7 +31246,6 @@
       "box",
       "packaging",
       "deliver",
-      "approval",
       "program",
       "file",
       "paper",
@@ -33235,12 +31253,11 @@
       "send",
       "mail",
       "message",
-      "read",
       "world",
       "physical",
       "protect",
       "care",
-      "overview",
+      "ecommerce",
       "label",
       "save",
       "business",
@@ -33268,12 +31285,14 @@
       "peace",
       "act",
       "rest",
-      "white",
-      "kids",
       "icon",
       "touch",
       "hands",
-      "truck"
+      "stack",
+      "organization",
+      "art",
+      "free",
+      "tr"
     ],
     "copyright": false,
     "files": {
@@ -34130,12 +32149,14 @@
     "tags": [
       "games",
       "play",
+      "heart",
+      "love",
       "cards",
       "gamble",
       "casino",
       "solitaire",
       "poker",
-      "cash desk"
+      "hearts"
     ],
     "copyright": false,
     "files": {
@@ -34164,12 +32185,11 @@
       "health",
       "hospital",
       "heart beat",
+      "graph",
       "emergency",
       "heart monitor",
       "electronic",
-      "blood",
-      "diaphragm",
-      "govern"
+      "blood"
     ],
     "copyright": false,
     "files": {
@@ -34675,83 +32695,6 @@
         "512": "/PNG/512/Cinema/historical-512.png",
         "64": "/PNG/64/Cinema/historical-64.png",
         "48": "/PNG/48/Cinema/historical-48.png"
-      }
-    }
-  },
-  {
-    "id": 5131,
-    "name": "historic_ship",
-    "platform": "Windows 8/Metro",
-    "category": "Transport",
-    "created": 1403621453,
-    "tags": [
-      "ship",
-      "fish",
-      "sea",
-      "length",
-      "water",
-      "logo",
-      "air",
-      "journey",
-      "old",
-      "big",
-      "rope"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Transport/historic_ship.svg",
-      "eps": "/EPS/Transport/historic_ship.eps",
-      "png": {
-        "32": "/PNG/32/Transport/historic_ship-32.png",
-        "128": "/PNG/128/Transport/historic_ship-128.png",
-        "26": "/PNG/26/Transport/historic_ship-26.png",
-        "256": "/PNG/256/Transport/historic_ship-256.png",
-        "512": "/PNG/512/Transport/historic_ship-512.png",
-        "64": "/PNG/64/Transport/historic_ship-64.png",
-        "48": "/PNG/48/Transport/historic_ship-48.png"
-      }
-    }
-  },
-  {
-    "id": 2123,
-    "name": "hkd",
-    "platform": "Windows 8/Metro",
-    "category": "Finance",
-    "created": 1382090318,
-    "tags": [
-      "program",
-      "world",
-      "language",
-      "photo",
-      "images",
-      "support",
-      "stock",
-      "woods",
-      "downloading",
-      "daily",
-      "millions",
-      "re seller",
-      "privacy",
-      "coupons",
-      "legal",
-      "offset",
-      "lightbox",
-      "kojihirano",
-      "licensing",
-      "policy"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Finance/HKD.svg",
-      "eps": "/EPS/Finance/HKD.eps",
-      "png": {
-        "32": "/PNG/32/Finance/HKD-32.png",
-        "128": "/PNG/128/Finance/HKD-128.png",
-        "26": "/PNG/26/Finance/HKD-26.png",
-        "256": "/PNG/256/Finance/HKD-256.png",
-        "512": "/PNG/512/Finance/HKD-512.png",
-        "64": "/PNG/64/Finance/HKD-64.png",
-        "48": "/PNG/48/Finance/HKD-48.png"
       }
     }
   },
@@ -35804,8 +33747,6 @@
       "chat",
       "video",
       "online",
-      "contacts methods",
-      "wired",
       "flower"
     ],
     "copyright": true,
@@ -36500,6 +34441,7 @@
       "photo",
       "camera",
       "lens",
+      "square",
       "webcam",
       "shots",
       "camera man",
@@ -37761,44 +35703,6 @@
     }
   },
   {
-    "id": 2133,
-    "name": "jpy",
-    "platform": "Windows 8/Metro",
-    "category": "Finance",
-    "created": 1381914146,
-    "tags": [
-      "bank",
-      "usd",
-      "eur",
-      "code",
-      "money",
-      "currency",
-      "sign",
-      "dollar",
-      "exchange",
-      "forex",
-      "market",
-      "euro",
-      "japanese yen",
-      "jpy",
-      "yen"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Finance/JPY.svg",
-      "eps": "/EPS/Finance/JPY.eps",
-      "png": {
-        "32": "/PNG/32/Finance/JPY-32.png",
-        "128": "/PNG/128/Finance/JPY-128.png",
-        "26": "/PNG/26/Finance/JPY-26.png",
-        "256": "/PNG/256/Finance/JPY-256.png",
-        "512": "/PNG/512/Finance/JPY-512.png",
-        "64": "/PNG/64/Finance/JPY-64.png",
-        "48": "/PNG/48/Finance/JPY-48.png"
-      }
-    }
-  },
-  {
     "id": 1046,
     "name": "js",
     "platform": "Windows 8/Metro",
@@ -38014,6 +35918,7 @@
       "alphabet",
       "font",
       "character",
+      "k",
       "latin",
       "abc",
       "alphanumeric"
@@ -38862,45 +36767,27 @@
     "created": 1390342413,
     "tags": [
       "star",
-      "setting",
-      "sky",
-      "sport",
-      "image",
       "photo",
-      "travel",
-      "weather",
       "camera",
       "sun",
-      "environment",
-      "nature",
-      "outdoors",
-      "natural",
-      "climb",
-      "outside",
       "hills",
       "mountains",
       "shot",
       "photography",
       "mountain",
       "sunshine",
-      "scenery",
-      "landscape",
       "sunny",
       "shine",
-      "camp",
-      "exploration",
-      "season",
       "sunlight",
       "range",
       "peak",
       "ray",
+      "mountain range",
       "peaks",
-      "pyramids",
-      "dunes",
       "daytime",
-      "fresh air",
       "hiking",
-      "elevation"
+      "elevation",
+      "image"
     ],
     "copyright": false,
     "files": {
@@ -41786,10 +39673,8 @@
     "tags": [
       "user",
       "group",
-      "presentation",
       "official",
       "management icons",
-      "industry",
       "boss",
       "head",
       "name",
@@ -42639,14 +40524,13 @@
       "attack",
       "science",
       "blood",
+      "surgery",
       "body",
-      "artwork",
-      "cone",
+      "healthcare",
       "pumps",
       "transports",
       "cardiology",
       "aorta",
-      "nerve",
       "atrium",
       "muscle",
       "cardiovascular",
@@ -42654,16 +40538,12 @@
       "cardiac",
       "arteries",
       "veins",
-      "deoxygenated",
       "circulation",
-      "elastic",
       "tubes",
       "oxygenated",
       "organ",
-      "lymph",
       "ventricle",
-      "valve",
-      "cells"
+      "valve"
     ],
     "copyright": false,
     "files": {
@@ -44540,49 +42420,6 @@
     }
   },
   {
-    "id": 5214,
-    "name": "modern_art",
-    "platform": "Windows 8/Metro",
-    "category": "City",
-    "created": 1403787053,
-    "tags": [
-      "line",
-      "ink",
-      "happy",
-      "graphic",
-      "oil",
-      "art",
-      "grid",
-      "element",
-      "colour",
-      "geometric",
-      "asymmetric",
-      "dream",
-      "scrapbook",
-      "tile",
-      "composition",
-      "modern art",
-      "photo album",
-      "mosaic",
-      "fine",
-      "layout"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/modern_art.svg",
-      "eps": "/EPS/City/modern_art.eps",
-      "png": {
-        "32": "/PNG/32/City/modern_art-32.png",
-        "128": "/PNG/128/City/modern_art-128.png",
-        "26": "/PNG/26/City/modern_art-26.png",
-        "256": "/PNG/256/City/modern_art-256.png",
-        "512": "/PNG/512/City/modern_art-512.png",
-        "64": "/PNG/64/City/modern_art-64.png",
-        "48": "/PNG/48/City/modern_art-48.png"
-      }
-    }
-  },
-  {
     "id": 4769,
     "name": "modern_statue",
     "platform": "Windows 8/Metro",
@@ -44899,6 +42736,31 @@
     }
   },
   {
+    "id": 651,
+    "name": "moon",
+    "platform": "Windows 8/Metro",
+    "category": "Weather",
+    "created": 1331541214,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Weather/moon.svg",
+      "svg.simplified": "/SVG_for_Font/Weather/moon.svg",
+      "eps": "/EPS/Weather/moon.eps",
+      "png": {
+        "32": "/PNG/32/Weather/moon-32.png",
+        "128": "/PNG/128/Weather/moon-128.png",
+        "26": "/PNG/26/Weather/moon-26.png",
+        "256": "/PNG/256/Weather/moon-256.png",
+        "512": "/PNG/512/Weather/moon-512.png",
+        "64": "/PNG/64/Weather/moon-64.png",
+        "48": "/PNG/48/Weather/moon-48.png"
+      }
+    }
+  },
+  {
     "id": 2220,
     "name": "more",
     "platform": "Windows 8/Metro",
@@ -44970,55 +42832,51 @@
     "category": "Healthcare",
     "created": 1390395017,
     "tags": [
+      "medicine",
+      "medical",
       "dining",
-      "format",
       "tool",
-      "language",
       "hard",
-      "cup",
       "fresh",
       "image",
-      "photo",
-      "download",
-      "contact",
-      "support",
       "wood",
-      "black",
-      "white",
       "size",
       "heavy",
-      "stock",
       "history",
       "capacity",
       "mortar",
       "powder",
-      "grey",
-      "meat",
+      "old-fashioned",
       "food and drink",
       "material",
-      "ingredients",
       "kitchen",
       "object",
-      "colour",
       "stone",
       "mixing",
-      "english",
       "ancient",
-      "shutter",
-      "arts",
-      "footage",
+      "legal",
       "traditional",
-      "follow up",
       "bowl",
-      "peanut",
-      "use",
       "crush",
       "pestle",
       "ceramic",
-      "salt",
-      "pepper",
       "grind",
-      "m"
+      "mash",
+      "preparation",
+      "crunching",
+      "club",
+      "seasoning",
+      "spice",
+      "grinder",
+      "marble",
+      "granite",
+      "herbs",
+      "masonry",
+      "pounding",
+      "prescription",
+      "drug",
+      "cultures",
+      "mal"
     ],
     "copyright": false,
     "files": {
@@ -45787,30 +43645,18 @@
     "created": 1382346941,
     "tags": [
       "design",
-      "program",
-      "language",
+      "connect",
       "photos",
       "image",
       "graphic",
       "photo",
       "symbols",
       "camera",
-      "recreation",
-      "science",
-      "sports",
       "stock",
       "shot",
       "signs",
-      "woods",
       "photography",
-      "imagery",
-      "budget",
-      "pricing",
-      "re seller",
-      "plans",
-      "legal",
-      "contributor",
-      "royalty"
+      "imagery"
     ],
     "copyright": false,
     "files": {
@@ -47631,53 +45477,26 @@
     "category": "Photo and Video",
     "created": 1390342413,
     "tags": [
-      "light",
-      "sky",
-      "view",
       "image",
-      "illustration",
       "graphic",
       "photo",
-      "travel",
       "camera",
-      "black",
       "night",
       "moon",
-      "white",
-      "heaven",
       "icon",
-      "forest",
-      "nature",
-      "climate",
-      "natural",
-      "outdoor",
-      "top",
-      "space",
-      "galaxy",
       "shot",
-      "winter",
-      "beautiful",
-      "tourism",
       "photography",
-      "abstract",
       "mountain",
-      "cloud",
-      "bright",
       "evening",
-      "landscape",
-      "scene",
       "hill",
-      "silhouette",
       "alps",
-      "rock",
       "astronomy",
       "peak",
       "crescent",
       "ridge",
       "mountain range",
       "moonlight",
-      "phase",
-      "half "
+      "phase"
     ],
     "copyright": false,
     "files": {
@@ -47702,8 +45521,6 @@
     "category": "Photo and Video",
     "created": 1390342413,
     "tags": [
-      "watch",
-      "planet",
       "light",
       "drawing",
       "human",
@@ -47716,34 +45533,21 @@
       "head",
       "man",
       "camera",
-      "black",
       "night",
       "moon",
-      "dark",
-      "white",
       "icon",
-      "nature",
-      "science",
-      "outside",
       "space",
       "shot",
       "photography",
-      "abstract",
       "evening",
       "clip art",
-      "shoulders",
       "adult",
       "avatar",
-      "silhouette",
       "shadow",
-      "creative",
       "astronomy",
       "crescent",
       "lunar",
-      "moon light",
-      "moon sight",
-      "solar",
-      "polar"
+      "moon light"
     ],
     "copyright": false,
     "files": {
@@ -49036,7 +46840,6 @@
     "category": "Photo and Video",
     "created": 1333700655,
     "tags": [
-      "files",
       "film",
       "screen",
       "photos",
@@ -49048,8 +46851,7 @@
       "shots",
       "camera man",
       "shot",
-      "photography",
-      "flowers"
+      "photography"
     ],
     "copyright": false,
     "files": {
@@ -49064,133 +46866,6 @@
         "512": "/PNG/512/Photo_Video/old_time_camera-512.png",
         "64": "/PNG/64/Photo_Video/old_time_camera-64.png",
         "48": "/PNG/48/Photo_Video/old_time_camera-48.png"
-      }
-    }
-  },
-  {
-    "id": 5107,
-    "name": "olympic_medal",
-    "platform": "Windows 8/Metro",
-    "category": "Sports",
-    "created": 1403527839,
-    "tags": [
-      "world",
-      "winner",
-      "sport",
-      "silver",
-      "gold",
-      "gift",
-      "game",
-      "first",
-      "i",
-      "medal",
-      "boxing",
-      "shooting",
-      "prize",
-      "olympic",
-      "honour",
-      "winer",
-      "bronze",
-      "five rings"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Sports/olympic_medal.svg",
-      "eps": "/EPS/Sports/olympic_medal.eps",
-      "png": {
-        "32": "/PNG/32/Sports/olympic_medal-32.png",
-        "128": "/PNG/128/Sports/olympic_medal-128.png",
-        "26": "/PNG/26/Sports/olympic_medal-26.png",
-        "256": "/PNG/256/Sports/olympic_medal-256.png",
-        "512": "/PNG/512/Sports/olympic_medal-512.png",
-        "64": "/PNG/64/Sports/olympic_medal-64.png",
-        "48": "/PNG/48/Sports/olympic_medal-48.png"
-      }
-    }
-  },
-  {
-    "id": 5111,
-    "name": "olympic_rings",
-    "platform": "Windows 8/Metro",
-    "category": "Sports",
-    "created": 1403527839,
-    "tags": [
-      "games",
-      "world",
-      "winner",
-      "cup",
-      "logo",
-      "five",
-      "players",
-      "game",
-      "color",
-      "sports",
-      "identification",
-      "international",
-      "united",
-      "talent",
-      "flags",
-      "olympic",
-      "rings",
-      "continents",
-      "sportsmanship",
-      "interlaced rings"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Sports/olympic_rings.svg",
-      "eps": "/EPS/Sports/olympic_rings.eps",
-      "png": {
-        "32": "/PNG/32/Sports/olympic_rings-32.png",
-        "128": "/PNG/128/Sports/olympic_rings-128.png",
-        "26": "/PNG/26/Sports/olympic_rings-26.png",
-        "256": "/PNG/256/Sports/olympic_rings-256.png",
-        "512": "/PNG/512/Sports/olympic_rings-512.png",
-        "64": "/PNG/64/Sports/olympic_rings-64.png",
-        "48": "/PNG/48/Sports/olympic_rings-48.png"
-      }
-    }
-  },
-  {
-    "id": 5109,
-    "name": "olympic_torch",
-    "platform": "Windows 8/Metro",
-    "category": "Sports",
-    "created": 1403527839,
-    "tags": [
-      "fire",
-      "light",
-      "player",
-      "signal",
-      "night",
-      "game",
-      "famous",
-      "lit",
-      "tradition",
-      "torch",
-      "olympic",
-      "hand hold",
-      "olympic games",
-      "theft of fire",
-      "torch relay",
-      "opening ceremony",
-      "summer olympics",
-      "significant",
-      "luminous flame",
-      "safety lamp"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Sports/olympic_torch.svg",
-      "eps": "/EPS/Sports/olympic_torch.eps",
-      "png": {
-        "32": "/PNG/32/Sports/olympic_torch-32.png",
-        "128": "/PNG/128/Sports/olympic_torch-128.png",
-        "26": "/PNG/26/Sports/olympic_torch-26.png",
-        "256": "/PNG/256/Sports/olympic_torch-256.png",
-        "512": "/PNG/512/Sports/olympic_torch-512.png",
-        "64": "/PNG/64/Sports/olympic_torch-64.png",
-        "48": "/PNG/48/Sports/olympic_torch-48.png"
       }
     }
   },
@@ -50492,50 +48167,6 @@
     }
   },
   {
-    "id": 5167,
-    "name": "palace",
-    "platform": "Windows 8/Metro",
-    "category": "City",
-    "created": 1403700664,
-    "tags": [
-      "new",
-      "home",
-      "travel",
-      "guard",
-      "leader",
-      "king",
-      "queen",
-      "history",
-      "safe",
-      "stone",
-      "red",
-      "arabic",
-      "india",
-      "landmark",
-      "traditional",
-      "marble",
-      "royal",
-      "palace",
-      "castle",
-      "delhi",
-      "kingdom"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/palace.svg",
-      "eps": "/EPS/City/palace.eps",
-      "png": {
-        "32": "/PNG/32/City/palace-32.png",
-        "128": "/PNG/128/City/palace-128.png",
-        "26": "/PNG/26/City/palace-26.png",
-        "256": "/PNG/256/City/palace-256.png",
-        "512": "/PNG/512/City/palace-512.png",
-        "64": "/PNG/64/City/palace-64.png",
-        "48": "/PNG/48/City/palace-48.png"
-      }
-    }
-  },
-  {
     "id": 827,
     "name": "palm_tree",
     "platform": "Windows 8/Metro",
@@ -50582,7 +48213,6 @@
       "design",
       "draw",
       "paper",
-      "create",
       "idea",
       "line",
       "outline",
@@ -50592,7 +48222,6 @@
       "symbol",
       "lines",
       "image",
-      "illustration",
       "graphic",
       "photo",
       "picture",
@@ -50614,9 +48243,6 @@
       "sketch",
       "decoration",
       "pattern",
-      "creative",
-      "texture",
-      "imaginative",
       "wallpaper"
     ],
     "copyright": false,
@@ -54319,44 +51945,6 @@
     }
   },
   {
-    "id": 5218,
-    "name": "portrait",
-    "platform": "Windows 8/Metro",
-    "category": "City",
-    "created": 1403787053,
-    "tags": [
-      "card",
-      "album",
-      "cool",
-      "graphic",
-      "photo",
-      "head",
-      "young",
-      "frame",
-      "style",
-      "funny",
-      "cute",
-      "colour",
-      "portrait",
-      "pattern",
-      "poster"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/portrait.svg",
-      "eps": "/EPS/City/portrait.eps",
-      "png": {
-        "32": "/PNG/32/City/portrait-32.png",
-        "128": "/PNG/128/City/portrait-128.png",
-        "26": "/PNG/26/City/portrait-26.png",
-        "256": "/PNG/256/City/portrait-256.png",
-        "512": "/PNG/512/City/portrait-512.png",
-        "64": "/PNG/64/City/portrait-64.png",
-        "48": "/PNG/48/City/portrait-48.png"
-      }
-    }
-  },
-  {
     "id": 2520,
     "name": "portrait_mode",
     "platform": "Windows 8/Metro",
@@ -54367,19 +51955,13 @@
       "vector",
       "hair",
       "beauty",
-      "new",
-      "group",
-      "crowd",
-      "set",
       "girl",
       "love",
       "outline",
       "contour",
-      "collection",
       "drawing",
       "profile",
       "image",
-      "illustration",
       "graphic",
       "photo",
       "person",
@@ -54388,29 +51970,27 @@
       "woman",
       "camera",
       "hat",
-      "banner",
       "figure",
-      "black",
       "young",
-      "white",
       "icon",
       "style",
       "modern",
       "shot",
       "side",
-      "beautiful",
       "hairstyle",
-      "isolated",
-      "body",
       "photography",
-      "abstract",
-      "black and white",
-      "face",
       "daughter",
       "clip art",
-      "portrait",
-      "looking",
-      "av"
+      "avatar",
+      "silhouette",
+      "clip-art",
+      "youth",
+      "lady",
+      "long hair",
+      "head shot",
+      "mother",
+      "matron",
+      "sister"
     ],
     "copyright": false,
     "files": {
@@ -54518,7 +52098,6 @@
       "contacts",
       "software",
       "atm",
-      "cash",
       "banking",
       "cell",
       "phone",
@@ -54527,13 +52106,11 @@
       "handling",
       "control",
       "display",
-      "messaging",
       "communication",
       "peripherals",
       "hardware",
       "screen",
       "discount",
-      "drawing",
       "sell",
       "booth",
       "goods",
@@ -54547,7 +52124,6 @@
       "swipe",
       "retail",
       "text",
-      "illustration",
       "store",
       "shop",
       "digital",
@@ -54558,7 +52134,11 @@
       "icon",
       "register",
       "order",
-      "batter"
+      "battery",
+      "electronic",
+      "credit card",
+      "customer",
+      "pl"
     ],
     "copyright": false,
     "files": {
@@ -55003,6 +52583,7 @@
       "tag",
       "label",
       "parts",
+      "deals",
       "spare part",
       "100"
     ],
@@ -55129,49 +52710,6 @@
         "512": "/PNG/512/Printing/printer-512.png",
         "64": "/PNG/64/Printing/printer-64.png",
         "48": "/PNG/48/Printing/printer-48.png"
-      }
-    }
-  },
-  {
-    "id": 5169,
-    "name": "prison",
-    "platform": "Windows 8/Metro",
-    "category": "City",
-    "created": 1403700664,
-    "tags": [
-      "cell",
-      "year",
-      "graph",
-      "prison",
-      "lines",
-      "room",
-      "square",
-      "dark",
-      "bars",
-      "metal",
-      "grid",
-      "concrete",
-      "cement",
-      "blocks",
-      "angles",
-      "cells",
-      "arrest",
-      "jail",
-      "tic-tac-toe",
-      "game board"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/prison.svg",
-      "eps": "/EPS/City/prison.eps",
-      "png": {
-        "32": "/PNG/32/City/prison-32.png",
-        "128": "/PNG/128/City/prison-128.png",
-        "26": "/PNG/26/City/prison-26.png",
-        "256": "/PNG/256/City/prison-256.png",
-        "512": "/PNG/512/City/prison-512.png",
-        "64": "/PNG/64/City/prison-64.png",
-        "48": "/PNG/48/City/prison-48.png"
       }
     }
   },
@@ -56473,26 +54011,22 @@
     "category": "Business",
     "created": 1399978278,
     "tags": [
-      "pen",
       "file",
       "print",
       "read",
+      "help",
       "right",
+      "business",
       "document",
+      "support",
       "mystery",
       "question mark",
       "questionnaire",
-      "answers",
       "exam",
       "subject",
-      "wrong",
       "papers",
       "test",
-      "essay",
-      "two-pages",
-      "who-dunnit",
-      "marks",
-      "multiple choice"
+      "two-pages"
     ],
     "copyright": false,
     "files": {
@@ -56523,14 +54057,9 @@
       "security",
       "restricted",
       "private",
-      "symbol",
-      "point",
-      "sign",
-      "notice",
       "ask",
-      "icons",
+      "shield",
       "caution",
-      "problem",
       "encrypted",
       "encoded"
     ],
@@ -58049,7 +55578,8 @@
       "frames",
       "paintings",
       "photography",
-      "remove image"
+      "remove image",
+      "x"
     ],
     "copyright": false,
     "files": {
@@ -58420,6 +55950,7 @@
     "created": 1331029013,
     "tags": [
       "weather",
+      "share",
       "town",
       "settlement",
       "urban",
@@ -59000,6 +56531,8 @@
       "democrat",
       "east",
       "right-handed",
+      "download",
+      "Facebook",
       "pointer",
       "move",
       "counseling"
@@ -59060,9 +56593,10 @@
     "category": "Arrows",
     "created": 1341827953,
     "tags": [
+      "arrow",
       "direction",
       "indicator",
-      "save",
+      "right",
       "next",
       "previous",
       "thumb",
@@ -59070,9 +56604,6 @@
       "pointer",
       "icons",
       "move",
-      "drag",
-      "down round",
-      "previoud",
       "button"
     ],
     "copyright": false,
@@ -59834,14 +57365,12 @@
     "category": "Photo and Video",
     "created": 1380274068,
     "tags": [
-      "file",
-      "format",
+      "refresh",
       "rotation",
       "image",
       "photo",
       "camera",
       "shot",
-      "orientation",
       "photography",
       "photo camera",
       "rotate"
@@ -60316,7 +57845,6 @@
       "bike",
       "athlete",
       "competition",
-      "championship",
       "walk",
       "woring",
       "physical activity",
@@ -61017,19 +58545,13 @@
     "category": "Programming",
     "created": 1293858000,
     "tags": [
-      "delete",
-      "edit",
-      "save as",
+      "save",
       "floppy",
       "disk",
       "floppy disk",
       "diskette",
       "1.44",
-      "drive",
       "write disk",
-      "format",
-      "refresh",
-      "back",
       "cancel"
     ],
     "copyright": false,
@@ -61055,10 +58577,15 @@
     "category": "Programming",
     "created": 1323168767,
     "tags": [
+      "pencil",
       "save",
       "save as",
+      "floppy",
       "disk",
-      "open"
+      "floppy disk",
+      "diskette",
+      "write disk",
+      "1 44"
     ],
     "copyright": false,
     "files": {
@@ -61226,18 +58753,19 @@
     "created": 1327058833,
     "tags": [
       "device",
+      "copy",
       "duplicate",
       "paper",
       "display",
       "save",
+      "scanner",
       "view",
       "gear",
       "pictures",
       "click",
       "computer",
       "gadget",
-      "patient",
-      "geek",
+      "ocr",
       "scan"
     ],
     "copyright": false,
@@ -61894,7 +59422,6 @@
     "category": "Very Basic",
     "created": 1318305600,
     "tags": [
-      "find",
       "watch",
       "tools",
       "replace",
@@ -61906,6 +59433,8 @@
       "magnified",
       "zoom in",
       "zoom out",
+      "white",
+      "find",
       "zoom",
       "search"
     ],
@@ -62138,73 +59667,6 @@
         "512": "/PNG/512/Security/security_ssl-512.png",
         "64": "/PNG/64/Security/security_ssl-64.png",
         "48": "/PNG/48/Security/security_ssl-48.png"
-      }
-    }
-  },
-  {
-    "id": 2121,
-    "name": "sek",
-    "platform": "Windows 8/Metro",
-    "category": "Finance",
-    "created": 1382090318,
-    "tags": [
-      "ecommerce",
-      "photos",
-      "money",
-      "currency",
-      "sign",
-      "finance",
-      "millions",
-      "budget",
-      "dollar",
-      "million",
-      "pricing",
-      "re seller",
-      "research"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Finance/SEK.svg",
-      "eps": "/EPS/Finance/SEK.eps",
-      "png": {
-        "32": "/PNG/32/Finance/SEK-32.png",
-        "128": "/PNG/128/Finance/SEK-128.png",
-        "26": "/PNG/26/Finance/SEK-26.png",
-        "256": "/PNG/256/Finance/SEK-256.png",
-        "512": "/PNG/512/Finance/SEK-512.png",
-        "64": "/PNG/64/Finance/SEK-64.png",
-        "48": "/PNG/48/Finance/SEK-48.png"
-      }
-    }
-  },
-  {
-    "id": 5104,
-    "name": "self_destruct_button",
-    "platform": "Windows 8/Metro",
-    "category": "Military",
-    "created": 1403520658,
-    "tags": [
-      "death",
-      "black",
-      "danger",
-      "dead",
-      "skull",
-      "pirate",
-      "roger",
-      "bones"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Military/self_destruct_button.svg",
-      "eps": "/EPS/Military/self_destruct_button.eps",
-      "png": {
-        "32": "/PNG/32/Military/self_destruct_button-32.png",
-        "128": "/PNG/128/Military/self_destruct_button-128.png",
-        "26": "/PNG/26/Military/self_destruct_button-26.png",
-        "256": "/PNG/256/Military/self_destruct_button-256.png",
-        "512": "/PNG/512/Military/self_destruct_button-512.png",
-        "64": "/PNG/64/Military/self_destruct_button-64.png",
-        "48": "/PNG/48/Military/self_destruct_button-48.png"
       }
     }
   },
@@ -62617,7 +60079,7 @@
     "category": "Very Basic",
     "created": 1392886277,
     "tags": [
-
+      "menu"
     ],
     "copyright": false,
     "files": {
@@ -64393,7 +61855,6 @@
       "video",
       "online",
       "computer",
-      "contacts methods",
       "wired",
       "telephony",
       "chatting"
@@ -64736,13 +62197,13 @@
     "category": "Photo and Video",
     "created": 1379590135,
     "tags": [
+      "display",
       "image",
       "photo",
       "camera",
       "shot",
       "photography",
       "video camera",
-      "l",
       "camera body"
     ],
     "copyright": false,
@@ -66470,14 +63931,8 @@
     "category": "Photo and Video",
     "created": 1390342413,
     "tags": [
-      "design",
       "health",
       "olympics",
-      "set",
-      "idea",
-      "outline",
-      "web",
-      "business",
       "human",
       "people",
       "symbol",
@@ -66486,7 +63941,6 @@
       "fitness",
       "motion",
       "image",
-      "illustration",
       "graphic",
       "photo",
       "sign",
@@ -66499,24 +63953,27 @@
       "young",
       "icon",
       "power",
-      "trend",
-      "shape",
       "exercise",
       "running",
       "sports",
-      "lifestyle",
-      "diet",
       "shot",
       "activity",
-      "concept",
       "body",
       "photography",
-      "abstract",
-      "element",
-      "black and white",
-      "strength",
-      "character",
-      "clipart"
+      "clipart",
+      "jump",
+      "healthy",
+      "jogging",
+      "active",
+      "competitions",
+      "race",
+      "runner",
+      "training",
+      "workout",
+      "athletic",
+      "olympian",
+      "work out",
+      "jogger"
     ],
     "copyright": false,
     "files": {
@@ -66897,7 +64354,6 @@
       "album",
       "photos",
       "image",
-      "photo",
       "contact",
       "camera",
       "documentation",
@@ -67298,16 +64754,11 @@
       "photo",
       "action",
       "camera",
-      "technology",
-      "electronics",
+      "frame",
       "shot",
-      "cursor",
-      "actions",
       "photography",
       "computers",
       "slide show",
-      "xml",
-      "slide",
       "start triangle"
     ],
     "copyright": false,
@@ -67485,6 +64936,7 @@
       "monitor",
       "projector screen",
       "mobile",
+      "metric",
       "alerts"
     ],
     "copyright": false,
@@ -68332,7 +65784,6 @@
       "play",
       "education",
       "children",
-      "outdoors",
       "lifestyle",
       "assignment",
       "casual",
@@ -68360,7 +65811,8 @@
       "fundamental",
       "chatting",
       "wayfinding",
-      "young"
+      "young",
+      "outdoors"
     ],
     "copyright": false,
     "files": {
@@ -69394,13 +66846,11 @@
     "category": "Photo and Video",
     "created": 1380274068,
     "tags": [
-      "file",
-      "format",
       "image",
       "photo",
+      "rewind",
       "camera",
       "shot",
-      "orientation",
       "photography"
     ],
     "copyright": false,
@@ -70407,23 +67857,14 @@
       "heart",
       "love",
       "ink",
-      "industry",
-      "equipment",
-      "work tool",
-      "construction",
-      "machine part",
       "subculture",
       "hipster",
       "tattoo",
-      "tattoo tools",
       "tattoo machine",
       "tattoo tool",
-      "landmark",
-      "heritage",
       "culture",
       "anthropology",
-      "unesco",
-      "point of attraction"
+      "broken heart"
     ],
     "copyright": false,
     "files": {
@@ -70728,48 +68169,6 @@
         "512": "/PNG/512/Baby/teddybear-512.png",
         "64": "/PNG/64/Baby/teddybear-64.png",
         "48": "/PNG/48/Baby/teddybear-48.png"
-      }
-    }
-  },
-  {
-    "id": 5168,
-    "name": "telescope",
-    "platform": "Windows 8/Metro",
-    "category": "City",
-    "created": 1403700664,
-    "tags": [
-      "magnify",
-      "sky",
-      "view",
-      "stars",
-      "visible",
-      "space",
-      "focus",
-      "optical",
-      "sight",
-      "mount",
-      "vision",
-      "reflect",
-      "astronomy",
-      "scope",
-      "range",
-      "telescope",
-      "galileo",
-      "xrays",
-      "gamma ray"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/telescope.svg",
-      "eps": "/EPS/City/telescope.eps",
-      "png": {
-        "32": "/PNG/32/City/telescope-32.png",
-        "128": "/PNG/128/City/telescope-128.png",
-        "26": "/PNG/26/City/telescope-26.png",
-        "256": "/PNG/256/City/telescope-256.png",
-        "512": "/PNG/512/City/telescope-512.png",
-        "64": "/PNG/64/City/telescope-64.png",
-        "48": "/PNG/48/City/telescope-48.png"
       }
     }
   },
@@ -75346,20 +72745,15 @@
     "category": "Arrows",
     "created": 1336807676,
     "tags": [
-      "home",
       "left",
       "direction",
       "save",
       "signal",
       "image",
+      "undo",
       "move",
-      "shot",
-      "cursor",
-      "shaft",
       "back",
       "left turn",
-      "pellet",
-      "facebook like",
       "arrow"
     ],
     "copyright": false,
@@ -75609,11 +73003,9 @@
     "category": "Very Basic",
     "created": 1323361504,
     "tags": [
+      "arrow",
       "save",
-      "upload",
-      "video",
-      "index",
-      "telescop"
+      "upload"
     ],
     "copyright": false,
     "files": {
@@ -75942,40 +73334,6 @@
         "512": "/PNG/512/Computer_Hardware/usb_on-512.png",
         "64": "/PNG/64/Computer_Hardware/usb_on-64.png",
         "48": "/PNG/48/Computer_Hardware/usb_on-48.png"
-      }
-    }
-  },
-  {
-    "id": 2137,
-    "name": "usd",
-    "platform": "Windows 8/Metro",
-    "category": "Finance",
-    "created": 1381914146,
-    "tags": [
-      "bank",
-      "usd",
-      "eur",
-      "code",
-      "money",
-      "currency",
-      "sign",
-      "dollar",
-      "exchange",
-      "forex",
-      "market"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Finance/USD.svg",
-      "eps": "/EPS/Finance/USD.eps",
-      "png": {
-        "32": "/PNG/32/Finance/USD-32.png",
-        "128": "/PNG/128/Finance/USD-128.png",
-        "26": "/PNG/26/Finance/USD-26.png",
-        "256": "/PNG/256/Finance/USD-256.png",
-        "512": "/PNG/512/Finance/USD-512.png",
-        "64": "/PNG/64/Finance/USD-64.png",
-        "48": "/PNG/48/Finance/USD-48.png"
       }
     }
   },
@@ -79252,16 +76610,17 @@
     "created": 1326970636,
     "tags": [
       "internet",
+      "round",
       "video",
       "image",
       "photo",
       "record",
       "online",
       "lens",
+      "webcam",
       "shot",
       "eyes",
       "photography",
-      "3B1B54",
       "camera"
     ],
     "copyright": false,
@@ -79384,7 +76743,6 @@
     "category": "Holidays",
     "created": 1332840395,
     "tags": [
-      "cut",
       "celebration",
       "heart",
       "love",
@@ -79942,43 +77300,14 @@
     "created": 1390996250,
     "tags": [
       "health",
-      "hospital",
       "injury",
-      "good",
-      "help",
       "care",
-      "label",
-      "format",
-      "language",
-      "document",
       "symbol",
-      "photos",
-      "switch",
-      "download",
-      "contact",
       "support",
       "man",
-      "black",
-      "ambulance",
-      "nurse",
-      "white",
-      "icon",
-      "color",
-      "conditions",
-      "doctor",
-      "stock",
-      "clinic",
       "service",
       "status",
       "chair",
-      "legal",
-      "holidays",
-      "footage",
-      "terms",
-      "follow up",
-      "slow",
-      "shutters",
-      "feedback",
       "wheel chair",
       "disabled",
       "disease",
@@ -81343,7 +78672,6 @@
     "tags": [
       "world",
       "globe",
-      "save",
       "address",
       "maps",
       "location",
@@ -82736,6 +80064,7 @@
     "created": 1333010975,
     "tags": [
       "file",
+      "arrow",
       "zoom",
       "settings",
       "photos",

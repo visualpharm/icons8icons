@@ -37,110 +37,6 @@
     }
   },
   {
-    "id": 5249,
-    "name": "2f_swipe_down",
-    "platform": "Android",
-    "category": "User Interface",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/User_Interface/2f_swipe_down.svg",
-      "eps": "/EPS/User_Interface/2f_swipe_down.eps",
-      "png": {
-        "32": "/PNG/32/User_Interface/2f_swipe_down-32.png",
-        "128": "/PNG/128/User_Interface/2f_swipe_down-128.png",
-        "256": "/PNG/256/User_Interface/2f_swipe_down-256.png",
-        "36": "/PNG/36/User_Interface/2f_swipe_down-36.png",
-        "512": "/PNG/512/User_Interface/2f_swipe_down-512.png",
-        "64": "/PNG/64/User_Interface/2f_swipe_down-64.png",
-        "24": "/PNG/24/User_Interface/2f_swipe_down-24.png",
-        "96": "/PNG/96/User_Interface/2f_swipe_down-96.png",
-        "48": "/PNG/48/User_Interface/2f_swipe_down-48.png"
-      }
-    }
-  },
-  {
-    "id": 5241,
-    "name": "2f_swipe_left",
-    "platform": "Android",
-    "category": "User Interface",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/User_Interface/2f_swipe_left.svg",
-      "eps": "/EPS/User_Interface/2f_swipe_left.eps",
-      "png": {
-        "32": "/PNG/32/User_Interface/2f_swipe_left-32.png",
-        "128": "/PNG/128/User_Interface/2f_swipe_left-128.png",
-        "256": "/PNG/256/User_Interface/2f_swipe_left-256.png",
-        "36": "/PNG/36/User_Interface/2f_swipe_left-36.png",
-        "512": "/PNG/512/User_Interface/2f_swipe_left-512.png",
-        "64": "/PNG/64/User_Interface/2f_swipe_left-64.png",
-        "24": "/PNG/24/User_Interface/2f_swipe_left-24.png",
-        "96": "/PNG/96/User_Interface/2f_swipe_left-96.png",
-        "48": "/PNG/48/User_Interface/2f_swipe_left-48.png"
-      }
-    }
-  },
-  {
-    "id": 5238,
-    "name": "2f_swipe_right",
-    "platform": "Android",
-    "category": "User Interface",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/User_Interface/2f_swipe_right.svg",
-      "eps": "/EPS/User_Interface/2f_swipe_right.eps",
-      "png": {
-        "32": "/PNG/32/User_Interface/2f_swipe_right-32.png",
-        "128": "/PNG/128/User_Interface/2f_swipe_right-128.png",
-        "256": "/PNG/256/User_Interface/2f_swipe_right-256.png",
-        "36": "/PNG/36/User_Interface/2f_swipe_right-36.png",
-        "512": "/PNG/512/User_Interface/2f_swipe_right-512.png",
-        "64": "/PNG/64/User_Interface/2f_swipe_right-64.png",
-        "24": "/PNG/24/User_Interface/2f_swipe_right-24.png",
-        "96": "/PNG/96/User_Interface/2f_swipe_right-96.png",
-        "48": "/PNG/48/User_Interface/2f_swipe_right-48.png"
-      }
-    }
-  },
-  {
-    "id": 5240,
-    "name": "2f_swipe_up",
-    "platform": "Android",
-    "category": "User Interface",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/User_Interface/2f_swipe_up.svg",
-      "eps": "/EPS/User_Interface/2f_swipe_up.eps",
-      "png": {
-        "32": "/PNG/32/User_Interface/2f_swipe_up-32.png",
-        "128": "/PNG/128/User_Interface/2f_swipe_up-128.png",
-        "256": "/PNG/256/User_Interface/2f_swipe_up-256.png",
-        "36": "/PNG/36/User_Interface/2f_swipe_up-36.png",
-        "512": "/PNG/512/User_Interface/2f_swipe_up-512.png",
-        "64": "/PNG/64/User_Interface/2f_swipe_up-64.png",
-        "24": "/PNG/24/User_Interface/2f_swipe_up-24.png",
-        "96": "/PNG/96/User_Interface/2f_swipe_up-96.png",
-        "48": "/PNG/48/User_Interface/2f_swipe_up-48.png"
-      }
-    }
-  },
-  {
     "id": 4154,
     "name": "32bit",
     "platform": "Android",
@@ -358,35 +254,6 @@
     }
   },
   {
-    "id": 3263,
-    "name": "activity_feed",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1391770248,
-    "tags": [
-      "laptop",
-      "gps",
-      "activity feed",
-      "signals"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Messaging/activity_feed.svg",
-      "eps": "/EPS/Messaging/activity_feed.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/activity_feed-32.png",
-        "128": "/PNG/128/Messaging/activity_feed-128.png",
-        "256": "/PNG/256/Messaging/activity_feed-256.png",
-        "36": "/PNG/36/Messaging/activity_feed-36.png",
-        "512": "/PNG/512/Messaging/activity_feed-512.png",
-        "64": "/PNG/64/Messaging/activity_feed-64.png",
-        "24": "/PNG/24/Messaging/activity_feed-24.png",
-        "96": "/PNG/96/Messaging/activity_feed-96.png",
-        "48": "/PNG/48/Messaging/activity_feed-48.png"
-      }
-    }
-  },
-  {
     "id": 3281,
     "name": "add_camera",
     "platform": "Android",
@@ -453,6 +320,7 @@
     "created": 1391770248,
     "tags": [
       "add",
+      "plus",
       "image",
       "photo",
       "picture",
@@ -462,7 +330,6 @@
       "art",
       "gallery",
       "shot",
-      "beautiful",
       "add image",
       "image gallery",
       "frames",
@@ -1332,32 +1199,6 @@
     }
   },
   {
-    "id": 5180,
-    "name": "ancore",
-    "platform": "Android",
-    "category": "Transport",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Transport/ancore.svg",
-      "eps": "/EPS/Transport/ancore.eps",
-      "png": {
-        "32": "/PNG/32/Transport/ancore-32.png",
-        "128": "/PNG/128/Transport/ancore-128.png",
-        "256": "/PNG/256/Transport/ancore-256.png",
-        "36": "/PNG/36/Transport/ancore-36.png",
-        "512": "/PNG/512/Transport/ancore-512.png",
-        "64": "/PNG/64/Transport/ancore-64.png",
-        "24": "/PNG/24/Transport/ancore-24.png",
-        "96": "/PNG/96/Transport/ancore-96.png",
-        "48": "/PNG/48/Transport/ancore-48.png"
-      }
-    }
-  },
-  {
     "id": 4322,
     "name": "android",
     "platform": "Android",
@@ -1428,58 +1269,6 @@
         "24": "/PNG/24/Mobile/android_tablet_copyrighted-24.png",
         "96": "/PNG/96/Mobile/android_tablet_copyrighted-96.png",
         "48": "/PNG/48/Mobile/android_tablet_copyrighted-48.png"
-      }
-    }
-  },
-  {
-    "id": 5209,
-    "name": "angel",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Messaging/angel.svg",
-      "eps": "/EPS/Messaging/angel.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/angel-32.png",
-        "128": "/PNG/128/Messaging/angel-128.png",
-        "256": "/PNG/256/Messaging/angel-256.png",
-        "36": "/PNG/36/Messaging/angel-36.png",
-        "512": "/PNG/512/Messaging/angel-512.png",
-        "64": "/PNG/64/Messaging/angel-64.png",
-        "24": "/PNG/24/Messaging/angel-24.png",
-        "96": "/PNG/96/Messaging/angel-96.png",
-        "48": "/PNG/48/Messaging/angel-48.png"
-      }
-    }
-  },
-  {
-    "id": 5200,
-    "name": "angry",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Messaging/angry.svg",
-      "eps": "/EPS/Messaging/angry.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/angry-32.png",
-        "128": "/PNG/128/Messaging/angry-128.png",
-        "256": "/PNG/256/Messaging/angry-256.png",
-        "36": "/PNG/36/Messaging/angry-36.png",
-        "512": "/PNG/512/Messaging/angry-512.png",
-        "64": "/PNG/64/Messaging/angry-64.png",
-        "24": "/PNG/24/Messaging/angry-24.png",
-        "96": "/PNG/96/Messaging/angry-96.png",
-        "48": "/PNG/48/Messaging/angry-48.png"
       }
     }
   },
@@ -1573,53 +1362,6 @@
         "24": "/PNG/24/Music/applause-24.png",
         "96": "/PNG/96/Music/applause-96.png",
         "48": "/PNG/48/Music/applause-48.png"
-      }
-    }
-  },
-  {
-    "id": 3334,
-    "name": "appointment_reminders",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1391770248,
-    "tags": [
-      "alarm",
-      "calendar",
-      "year",
-      "time",
-      "hours",
-      "meeting",
-      "dating",
-      "business",
-      "appointment",
-      "bell",
-      "success",
-      "schedule",
-      "planning",
-      "event",
-      "organize",
-      "planing",
-      "personal organizer",
-      "diary",
-      "calendar date",
-      "business concepts",
-      "ring binder",
-      "appointment reminders"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Messaging/appointment_reminders.svg",
-      "eps": "/EPS/Messaging/appointment_reminders.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/appointment_reminders-32.png",
-        "128": "/PNG/128/Messaging/appointment_reminders-128.png",
-        "256": "/PNG/256/Messaging/appointment_reminders-256.png",
-        "36": "/PNG/36/Messaging/appointment_reminders-36.png",
-        "512": "/PNG/512/Messaging/appointment_reminders-512.png",
-        "64": "/PNG/64/Messaging/appointment_reminders-64.png",
-        "24": "/PNG/24/Messaging/appointment_reminders-24.png",
-        "96": "/PNG/96/Messaging/appointment_reminders-96.png",
-        "48": "/PNG/48/Messaging/appointment_reminders-48.png"
       }
     }
   },
@@ -2658,28 +2400,20 @@
     "created": 1391770248,
     "tags": [
       "atm",
-      "cash",
       "card",
       "banking",
       "bank",
       "ecommerce",
-      "sell",
-      "payment methods",
+      "shopping",
       "instant",
-      "receipt",
-      "savings",
       "teller",
-      "malls",
       "cards",
       "payment",
-      "retail",
-      "store",
-      "shop",
+      "credit",
       "credit card",
-      "visa",
-      "master card",
-      "jcb",
-      "checkout"
+      "plastic",
+      "checkout",
+      "bank card"
     ],
     "copyright": false,
     "files": {
@@ -2912,32 +2646,6 @@
     }
   },
   {
-    "id": 5101,
-    "name": "baseball",
-    "platform": "Android",
-    "category": "Sports",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Sports/baseball.svg",
-      "eps": "/EPS/Sports/baseball.eps",
-      "png": {
-        "32": "/PNG/32/Sports/baseball-32.png",
-        "128": "/PNG/128/Sports/baseball-128.png",
-        "256": "/PNG/256/Sports/baseball-256.png",
-        "36": "/PNG/36/Sports/baseball-36.png",
-        "512": "/PNG/512/Sports/baseball-512.png",
-        "64": "/PNG/64/Sports/baseball-64.png",
-        "24": "/PNG/24/Sports/baseball-24.png",
-        "96": "/PNG/96/Sports/baseball-96.png",
-        "48": "/PNG/48/Sports/baseball-48.png"
-      }
-    }
-  },
-  {
     "id": 4128,
     "name": "baseball_cap",
     "platform": "Android",
@@ -3123,32 +2831,6 @@
         "24": "/PNG/24/Music/bass_drum-24.png",
         "96": "/PNG/96/Music/bass_drum-96.png",
         "48": "/PNG/48/Music/bass_drum-48.png"
-      }
-    }
-  },
-  {
-    "id": 5143,
-    "name": "bat",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/bat.svg",
-      "eps": "/EPS/Holidays/bat.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/bat-32.png",
-        "128": "/PNG/128/Holidays/bat-128.png",
-        "256": "/PNG/256/Holidays/bat-256.png",
-        "36": "/PNG/36/Holidays/bat-36.png",
-        "512": "/PNG/512/Holidays/bat-512.png",
-        "64": "/PNG/64/Holidays/bat-64.png",
-        "24": "/PNG/24/Holidays/bat-24.png",
-        "96": "/PNG/96/Holidays/bat-96.png",
-        "48": "/PNG/48/Holidays/bat-48.png"
       }
     }
   },
@@ -3491,32 +3173,6 @@
     }
   },
   {
-    "id": 5189,
-    "name": "bear_track",
-    "platform": "Android",
-    "category": "Animals",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Animals/bear_track.svg",
-      "eps": "/EPS/Animals/bear_track.eps",
-      "png": {
-        "32": "/PNG/32/Animals/bear_track-32.png",
-        "128": "/PNG/128/Animals/bear_track-128.png",
-        "256": "/PNG/256/Animals/bear_track-256.png",
-        "36": "/PNG/36/Animals/bear_track-36.png",
-        "512": "/PNG/512/Animals/bear_track-512.png",
-        "64": "/PNG/64/Animals/bear_track-64.png",
-        "24": "/PNG/24/Animals/bear_track-24.png",
-        "96": "/PNG/96/Animals/bear_track-96.png",
-        "48": "/PNG/48/Animals/bear_track-48.png"
-      }
-    }
-  },
-  {
     "id": 3867,
     "name": "bebo",
     "platform": "Android",
@@ -3709,32 +3365,6 @@
         "24": "/PNG/24/Sports/belayer-24.png",
         "96": "/PNG/96/Sports/belayer-96.png",
         "48": "/PNG/48/Sports/belayer-48.png"
-      }
-    }
-  },
-  {
-    "id": 5139,
-    "name": "bell",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/bell.svg",
-      "eps": "/EPS/Holidays/bell.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/bell-32.png",
-        "128": "/PNG/128/Holidays/bell-128.png",
-        "256": "/PNG/256/Holidays/bell-256.png",
-        "36": "/PNG/36/Holidays/bell-36.png",
-        "512": "/PNG/512/Holidays/bell-512.png",
-        "64": "/PNG/64/Holidays/bell-64.png",
-        "24": "/PNG/24/Holidays/bell-24.png",
-        "96": "/PNG/96/Holidays/bell-96.png",
-        "48": "/PNG/48/Holidays/bell-48.png"
       }
     }
   },
@@ -4264,32 +3894,6 @@
     }
   },
   {
-    "id": 5138,
-    "name": "black_cat",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/black_cat.svg",
-      "eps": "/EPS/Holidays/black_cat.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/black_cat-32.png",
-        "128": "/PNG/128/Holidays/black_cat-128.png",
-        "256": "/PNG/256/Holidays/black_cat-256.png",
-        "36": "/PNG/36/Holidays/black_cat-36.png",
-        "512": "/PNG/512/Holidays/black_cat-512.png",
-        "64": "/PNG/64/Holidays/black_cat-64.png",
-        "24": "/PNG/24/Holidays/black_cat-24.png",
-        "96": "/PNG/96/Holidays/black_cat-96.png",
-        "48": "/PNG/48/Holidays/black_cat-48.png"
-      }
-    }
-  },
-  {
     "id": 4980,
     "name": "bluetooth",
     "platform": "Android",
@@ -4680,32 +4284,6 @@
     }
   },
   {
-    "id": 5102,
-    "name": "bowling",
-    "platform": "Android",
-    "category": "Sports",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Sports/bowling.svg",
-      "eps": "/EPS/Sports/bowling.eps",
-      "png": {
-        "32": "/PNG/32/Sports/bowling-32.png",
-        "128": "/PNG/128/Sports/bowling-128.png",
-        "256": "/PNG/256/Sports/bowling-256.png",
-        "36": "/PNG/36/Sports/bowling-36.png",
-        "512": "/PNG/512/Sports/bowling-512.png",
-        "64": "/PNG/64/Sports/bowling-64.png",
-        "24": "/PNG/24/Sports/bowling-24.png",
-        "96": "/PNG/96/Sports/bowling-96.png",
-        "48": "/PNG/48/Sports/bowling-48.png"
-      }
-    }
-  },
-  {
     "id": 3126,
     "name": "box",
     "platform": "Android",
@@ -4814,32 +4392,6 @@
         "24": "/PNG/24/Objects/box3-24.png",
         "96": "/PNG/96/Objects/box3-96.png",
         "48": "/PNG/48/Objects/box3-48.png"
-      }
-    }
-  },
-  {
-    "id": 5094,
-    "name": "boxing",
-    "platform": "Android",
-    "category": "Sports",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Sports/boxing.svg",
-      "eps": "/EPS/Sports/boxing.eps",
-      "png": {
-        "32": "/PNG/32/Sports/boxing-32.png",
-        "128": "/PNG/128/Sports/boxing-128.png",
-        "256": "/PNG/256/Sports/boxing-256.png",
-        "36": "/PNG/36/Sports/boxing-36.png",
-        "512": "/PNG/512/Sports/boxing-512.png",
-        "64": "/PNG/64/Sports/boxing-64.png",
-        "24": "/PNG/24/Sports/boxing-24.png",
-        "96": "/PNG/96/Sports/boxing-96.png",
-        "48": "/PNG/48/Sports/boxing-48.png"
       }
     }
   },
@@ -5043,32 +4595,6 @@
         "24": "/PNG/24/Baby/brick-24.png",
         "96": "/PNG/96/Baby/brick-96.png",
         "48": "/PNG/48/Baby/brick-48.png"
-      }
-    }
-  },
-  {
-    "id": 5079,
-    "name": "bridge",
-    "platform": "Android",
-    "category": "City",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/bridge.svg",
-      "eps": "/EPS/City/bridge.eps",
-      "png": {
-        "32": "/PNG/32/City/bridge-32.png",
-        "128": "/PNG/128/City/bridge-128.png",
-        "256": "/PNG/256/City/bridge-256.png",
-        "36": "/PNG/36/City/bridge-36.png",
-        "512": "/PNG/512/City/bridge-512.png",
-        "64": "/PNG/64/City/bridge-64.png",
-        "24": "/PNG/24/City/bridge-24.png",
-        "96": "/PNG/96/City/bridge-96.png",
-        "48": "/PNG/48/City/bridge-48.png"
       }
     }
   },
@@ -5421,32 +4947,6 @@
     }
   },
   {
-    "id": 5088,
-    "name": "bust",
-    "platform": "Android",
-    "category": "City",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/bust.svg",
-      "eps": "/EPS/City/bust.eps",
-      "png": {
-        "32": "/PNG/32/City/bust-32.png",
-        "128": "/PNG/128/City/bust-128.png",
-        "256": "/PNG/256/City/bust-256.png",
-        "36": "/PNG/36/City/bust-36.png",
-        "512": "/PNG/512/City/bust-512.png",
-        "64": "/PNG/64/City/bust-64.png",
-        "24": "/PNG/24/City/bust-24.png",
-        "96": "/PNG/96/City/bust-96.png",
-        "48": "/PNG/48/City/bust-48.png"
-      }
-    }
-  },
-  {
     "id": 3273,
     "name": "buy",
     "platform": "Android",
@@ -5728,84 +5228,6 @@
     }
   },
   {
-    "id": 5121,
-    "name": "campfire",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403571065,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/campfire.svg",
-      "eps": "/EPS/Travel/campfire.eps",
-      "png": {
-        "32": "/PNG/32/Travel/campfire-32.png",
-        "128": "/PNG/128/Travel/campfire-128.png",
-        "256": "/PNG/256/Travel/campfire-256.png",
-        "36": "/PNG/36/Travel/campfire-36.png",
-        "512": "/PNG/512/Travel/campfire-512.png",
-        "64": "/PNG/64/Travel/campfire-64.png",
-        "24": "/PNG/24/Travel/campfire-24.png",
-        "96": "/PNG/96/Travel/campfire-96.png",
-        "48": "/PNG/48/Travel/campfire-48.png"
-      }
-    }
-  },
-  {
-    "id": 5117,
-    "name": "camping_gas_burner",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403571065,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/camping_gas_burner.svg",
-      "eps": "/EPS/Travel/camping_gas_burner.eps",
-      "png": {
-        "32": "/PNG/32/Travel/camping_gas_burner-32.png",
-        "128": "/PNG/128/Travel/camping_gas_burner-128.png",
-        "256": "/PNG/256/Travel/camping_gas_burner-256.png",
-        "36": "/PNG/36/Travel/camping_gas_burner-36.png",
-        "512": "/PNG/512/Travel/camping_gas_burner-512.png",
-        "64": "/PNG/64/Travel/camping_gas_burner-64.png",
-        "24": "/PNG/24/Travel/camping_gas_burner-24.png",
-        "96": "/PNG/96/Travel/camping_gas_burner-96.png",
-        "48": "/PNG/48/Travel/camping_gas_burner-48.png"
-      }
-    }
-  },
-  {
-    "id": 5126,
-    "name": "camping_tent",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403571065,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/camping_tent.svg",
-      "eps": "/EPS/Travel/camping_tent.eps",
-      "png": {
-        "32": "/PNG/32/Travel/camping_tent-32.png",
-        "128": "/PNG/128/Travel/camping_tent-128.png",
-        "256": "/PNG/256/Travel/camping_tent-256.png",
-        "36": "/PNG/36/Travel/camping_tent-36.png",
-        "512": "/PNG/512/Travel/camping_tent-512.png",
-        "64": "/PNG/64/Travel/camping_tent-64.png",
-        "24": "/PNG/24/Travel/camping_tent-24.png",
-        "96": "/PNG/96/Travel/camping_tent-96.png",
-        "48": "/PNG/48/Travel/camping_tent-48.png"
-      }
-    }
-  },
-  {
     "id": 4502,
     "name": "cancer",
     "platform": "Android",
@@ -5849,32 +5271,6 @@
         "24": "/PNG/24/Astrology/cancer-24.png",
         "96": "/PNG/96/Astrology/cancer-96.png",
         "48": "/PNG/48/Astrology/cancer-48.png"
-      }
-    }
-  },
-  {
-    "id": 5222,
-    "name": "cancer_ribbon",
-    "platform": "Android",
-    "category": "Healthcare",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Healthcare/cancer_ribbon.svg",
-      "eps": "/EPS/Healthcare/cancer_ribbon.eps",
-      "png": {
-        "32": "/PNG/32/Healthcare/cancer_ribbon-32.png",
-        "128": "/PNG/128/Healthcare/cancer_ribbon-128.png",
-        "256": "/PNG/256/Healthcare/cancer_ribbon-256.png",
-        "36": "/PNG/36/Healthcare/cancer_ribbon-36.png",
-        "512": "/PNG/512/Healthcare/cancer_ribbon-512.png",
-        "64": "/PNG/64/Healthcare/cancer_ribbon-64.png",
-        "24": "/PNG/24/Healthcare/cancer_ribbon-24.png",
-        "96": "/PNG/96/Healthcare/cancer_ribbon-96.png",
-        "48": "/PNG/48/Healthcare/cancer_ribbon-48.png"
       }
     }
   },
@@ -6255,20 +5651,14 @@
     "created": 1391770248,
     "tags": [
       "atm",
-      "cash",
-      "phone",
-      "ecommerce",
-      "sell",
-      "payment methods",
+      "card",
+      "shopping",
       "instant",
-      "receipt",
-      "savings",
       "teller",
-      "malls",
       "machine",
-      "retail",
-      "store",
-      "shop"
+      "credit",
+      "credit card",
+      "plastic"
     ],
     "copyright": false,
     "files": {
@@ -6487,16 +5877,14 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
+      "cash",
       "bank",
-      "ecommerce",
-      "sell",
+      "shopping",
       "buy",
       "savings",
       "money",
       "coin",
       "coins",
-      "payment methods set",
-      "signature",
       "palm",
       "credit",
       "amount",
@@ -6505,13 +5893,10 @@
       "loan",
       "begging",
       "beggar",
-      "hobo",
-      "retail",
-      "store",
       "hand",
-      "shop",
       "debit",
       "receive",
+      "1",
       "charity",
       "reward",
       "spend",
@@ -6563,32 +5948,6 @@
     }
   },
   {
-    "id": 3138,
-    "name": "categorize",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1391770248,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Messaging/categorize.svg",
-      "eps": "/EPS/Messaging/categorize.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/categorize-32.png",
-        "128": "/PNG/128/Messaging/categorize-128.png",
-        "256": "/PNG/256/Messaging/categorize-256.png",
-        "36": "/PNG/36/Messaging/categorize-36.png",
-        "512": "/PNG/512/Messaging/categorize-512.png",
-        "64": "/PNG/64/Messaging/categorize-64.png",
-        "24": "/PNG/24/Messaging/categorize-24.png",
-        "96": "/PNG/96/Messaging/categorize-96.png",
-        "48": "/PNG/48/Messaging/categorize-48.png"
-      }
-    }
-  },
-  {
     "id": 4746,
     "name": "cathedral",
     "platform": "Android",
@@ -6635,32 +5994,6 @@
         "24": "/PNG/24/City/cathedral-24.png",
         "96": "/PNG/96/City/cathedral-96.png",
         "48": "/PNG/48/City/cathedral-48.png"
-      }
-    }
-  },
-  {
-    "id": 5191,
-    "name": "cat_track",
-    "platform": "Android",
-    "category": "Animals",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Animals/cat_track.svg",
-      "eps": "/EPS/Animals/cat_track.eps",
-      "png": {
-        "32": "/PNG/32/Animals/cat_track-32.png",
-        "128": "/PNG/128/Animals/cat_track-128.png",
-        "256": "/PNG/256/Animals/cat_track-256.png",
-        "36": "/PNG/36/Animals/cat_track-36.png",
-        "512": "/PNG/512/Animals/cat_track-512.png",
-        "64": "/PNG/64/Animals/cat_track-64.png",
-        "24": "/PNG/24/Animals/cat_track-24.png",
-        "96": "/PNG/96/Animals/cat_track-96.png",
-        "48": "/PNG/48/Animals/cat_track-48.png"
       }
     }
   },
@@ -6948,32 +6281,6 @@
         "24": "/PNG/24/Sports/chalk_bag-24.png",
         "96": "/PNG/96/Sports/chalk_bag-96.png",
         "48": "/PNG/48/Sports/chalk_bag-48.png"
-      }
-    }
-  },
-  {
-    "id": 5147,
-    "name": "champagne",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/champagne.svg",
-      "eps": "/EPS/Holidays/champagne.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/champagne-32.png",
-        "128": "/PNG/128/Holidays/champagne-128.png",
-        "256": "/PNG/256/Holidays/champagne-256.png",
-        "36": "/PNG/36/Holidays/champagne-36.png",
-        "512": "/PNG/512/Holidays/champagne-512.png",
-        "64": "/PNG/64/Holidays/champagne-64.png",
-        "24": "/PNG/24/Holidays/champagne-24.png",
-        "96": "/PNG/96/Holidays/champagne-96.png",
-        "48": "/PNG/48/Holidays/champagne-48.png"
       }
     }
   },
@@ -7509,32 +6816,6 @@
     }
   },
   {
-    "id": 5177,
-    "name": "christmas_candy",
-    "platform": "Android",
-    "category": "Christmas",
-    "created": 1403743857,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Christmas/christmas_candy.svg",
-      "eps": "/EPS/Christmas/christmas_candy.eps",
-      "png": {
-        "32": "/PNG/32/Christmas/christmas_candy-32.png",
-        "128": "/PNG/128/Christmas/christmas_candy-128.png",
-        "256": "/PNG/256/Christmas/christmas_candy-256.png",
-        "36": "/PNG/36/Christmas/christmas_candy-36.png",
-        "512": "/PNG/512/Christmas/christmas_candy-512.png",
-        "64": "/PNG/64/Christmas/christmas_candy-64.png",
-        "24": "/PNG/24/Christmas/christmas_candy-24.png",
-        "96": "/PNG/96/Christmas/christmas_candy-96.png",
-        "48": "/PNG/48/Christmas/christmas_candy-48.png"
-      }
-    }
-  },
-  {
     "id": 3189,
     "name": "christmas_gift",
     "platform": "Android",
@@ -7646,32 +6927,6 @@
         "24": "/PNG/24/Christmas/christmas_tree-24.png",
         "96": "/PNG/96/Christmas/christmas_tree-96.png",
         "48": "/PNG/48/Christmas/christmas_tree-48.png"
-      }
-    }
-  },
-  {
-    "id": 5146,
-    "name": "church",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/church.svg",
-      "eps": "/EPS/Holidays/church.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/church-32.png",
-        "128": "/PNG/128/Holidays/church-128.png",
-        "256": "/PNG/256/Holidays/church-256.png",
-        "36": "/PNG/36/Holidays/church-36.png",
-        "512": "/PNG/512/Holidays/church-512.png",
-        "64": "/PNG/64/Holidays/church-64.png",
-        "24": "/PNG/24/Holidays/church-24.png",
-        "96": "/PNG/96/Holidays/church-96.png",
-        "48": "/PNG/48/Holidays/church-48.png"
       }
     }
   },
@@ -7803,32 +7058,6 @@
         "24": "/PNG/24/Plants/citrus-24.png",
         "96": "/PNG/96/Plants/citrus-96.png",
         "48": "/PNG/48/Plants/citrus-48.png"
-      }
-    }
-  },
-  {
-    "id": 5178,
-    "name": "city_bench",
-    "platform": "Android",
-    "category": "City",
-    "created": 1403743857,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/city_bench.svg",
-      "eps": "/EPS/City/city_bench.eps",
-      "png": {
-        "32": "/PNG/32/City/city_bench-32.png",
-        "128": "/PNG/128/City/city_bench-128.png",
-        "256": "/PNG/256/City/city_bench-256.png",
-        "36": "/PNG/36/City/city_bench-36.png",
-        "512": "/PNG/512/City/city_bench-512.png",
-        "64": "/PNG/64/City/city_bench-64.png",
-        "24": "/PNG/24/City/city_bench-24.png",
-        "96": "/PNG/96/City/city_bench-96.png",
-        "48": "/PNG/48/City/city_bench-48.png"
       }
     }
   },
@@ -7995,32 +7224,6 @@
         "24": "/PNG/24/Music/clarinet-24.png",
         "96": "/PNG/96/Music/clarinet-96.png",
         "48": "/PNG/48/Music/clarinet-48.png"
-      }
-    }
-  },
-  {
-    "id": 5230,
-    "name": "clenched_fist",
-    "platform": "Android",
-    "category": "Hands",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Hands/clenched_fist.svg",
-      "eps": "/EPS/Hands/clenched_fist.eps",
-      "png": {
-        "32": "/PNG/32/Hands/clenched_fist-32.png",
-        "128": "/PNG/128/Hands/clenched_fist-128.png",
-        "256": "/PNG/256/Hands/clenched_fist-256.png",
-        "36": "/PNG/36/Hands/clenched_fist-36.png",
-        "512": "/PNG/512/Hands/clenched_fist-512.png",
-        "64": "/PNG/64/Hands/clenched_fist-64.png",
-        "24": "/PNG/24/Hands/clenched_fist-24.png",
-        "96": "/PNG/96/Hands/clenched_fist-96.png",
-        "48": "/PNG/48/Hands/clenched_fist-48.png"
       }
     }
   },
@@ -8340,24 +7543,11 @@
       "talk",
       "change",
       "person",
-      "female",
       "speak",
       "male",
       "personality",
-      "effective",
-      "sustainability",
       "direct contact",
-      "resembles other",
-      "unix and x",
-      "clone layer",
-      "from other cells",
-      "commands to monitor",
-      "two persons",
-      "aero mark",
-      "future generation",
-      "discussion x",
-      "change yourself",
-      "transformation"
+      "two persons"
     ],
     "copyright": false,
     "files": {
@@ -8497,32 +7687,6 @@
         "24": "/PNG/24/Gaming/clover-24.png",
         "96": "/PNG/96/Gaming/clover-96.png",
         "48": "/PNG/48/Gaming/clover-48.png"
-      }
-    }
-  },
-  {
-    "id": 5196,
-    "name": "clown_fish",
-    "platform": "Android",
-    "category": "Animals",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Animals/clown_fish.svg",
-      "eps": "/EPS/Animals/clown_fish.eps",
-      "png": {
-        "32": "/PNG/32/Animals/clown_fish-32.png",
-        "128": "/PNG/128/Animals/clown_fish-128.png",
-        "256": "/PNG/256/Animals/clown_fish-256.png",
-        "36": "/PNG/36/Animals/clown_fish-36.png",
-        "512": "/PNG/512/Animals/clown_fish-512.png",
-        "64": "/PNG/64/Animals/clown_fish-64.png",
-        "24": "/PNG/24/Animals/clown_fish-24.png",
-        "96": "/PNG/96/Animals/clown_fish-96.png",
-        "48": "/PNG/48/Animals/clown_fish-48.png"
       }
     }
   },
@@ -8736,32 +7900,6 @@
         "24": "/PNG/24/Household/coffee_maker-24.png",
         "96": "/PNG/96/Household/coffee_maker-96.png",
         "48": "/PNG/48/Household/coffee_maker-48.png"
-      }
-    }
-  },
-  {
-    "id": 5137,
-    "name": "coffin",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/coffin.svg",
-      "eps": "/EPS/Holidays/coffin.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/coffin-32.png",
-        "128": "/PNG/128/Holidays/coffin-128.png",
-        "256": "/PNG/256/Holidays/coffin-256.png",
-        "36": "/PNG/36/Holidays/coffin-36.png",
-        "512": "/PNG/512/Holidays/coffin-512.png",
-        "64": "/PNG/64/Holidays/coffin-64.png",
-        "24": "/PNG/24/Holidays/coffin-24.png",
-        "96": "/PNG/96/Holidays/coffin-96.png",
-        "48": "/PNG/48/Holidays/coffin-48.png"
       }
     }
   },
@@ -9646,58 +8784,6 @@
     }
   },
   {
-    "id": 5212,
-    "name": "cool",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Messaging/cool.svg",
-      "eps": "/EPS/Messaging/cool.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/cool-32.png",
-        "128": "/PNG/128/Messaging/cool-128.png",
-        "256": "/PNG/256/Messaging/cool-256.png",
-        "36": "/PNG/36/Messaging/cool-36.png",
-        "512": "/PNG/512/Messaging/cool-512.png",
-        "64": "/PNG/64/Messaging/cool-64.png",
-        "24": "/PNG/24/Messaging/cool-24.png",
-        "96": "/PNG/96/Messaging/cool-96.png",
-        "48": "/PNG/48/Messaging/cool-48.png"
-      }
-    }
-  },
-  {
-    "id": 5197,
-    "name": "coral",
-    "platform": "Android",
-    "category": "Animals",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Animals/coral.svg",
-      "eps": "/EPS/Animals/coral.eps",
-      "png": {
-        "32": "/PNG/32/Animals/coral-32.png",
-        "128": "/PNG/128/Animals/coral-128.png",
-        "256": "/PNG/256/Animals/coral-256.png",
-        "36": "/PNG/36/Animals/coral-36.png",
-        "512": "/PNG/512/Animals/coral-512.png",
-        "64": "/PNG/64/Animals/coral-64.png",
-        "24": "/PNG/24/Animals/coral-24.png",
-        "96": "/PNG/96/Animals/coral-96.png",
-        "48": "/PNG/48/Animals/coral-48.png"
-      }
-    }
-  },
-  {
     "id": 4961,
     "name": "corkscrew",
     "platform": "Android",
@@ -9929,32 +9015,6 @@
     }
   },
   {
-    "id": 5086,
-    "name": "courthouse",
-    "platform": "Android",
-    "category": "City",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/courthouse.svg",
-      "eps": "/EPS/City/courthouse.eps",
-      "png": {
-        "32": "/PNG/32/City/courthouse-32.png",
-        "128": "/PNG/128/City/courthouse-128.png",
-        "256": "/PNG/256/City/courthouse-256.png",
-        "36": "/PNG/36/City/courthouse-36.png",
-        "512": "/PNG/512/City/courthouse-512.png",
-        "64": "/PNG/64/City/courthouse-64.png",
-        "24": "/PNG/24/City/courthouse-24.png",
-        "96": "/PNG/96/City/courthouse-96.png",
-        "48": "/PNG/48/City/courthouse-48.png"
-      }
-    }
-  },
-  {
     "id": 4013,
     "name": "cow",
     "platform": "Android",
@@ -10009,32 +9069,6 @@
     }
   },
   {
-    "id": 5127,
-    "name": "creek",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403571065,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/creek.svg",
-      "eps": "/EPS/Travel/creek.eps",
-      "png": {
-        "32": "/PNG/32/Travel/creek-32.png",
-        "128": "/PNG/128/Travel/creek-128.png",
-        "256": "/PNG/256/Travel/creek-256.png",
-        "36": "/PNG/36/Travel/creek-36.png",
-        "512": "/PNG/512/Travel/creek-512.png",
-        "64": "/PNG/64/Travel/creek-64.png",
-        "24": "/PNG/24/Travel/creek-24.png",
-        "96": "/PNG/96/Travel/creek-96.png",
-        "48": "/PNG/48/Travel/creek-48.png"
-      }
-    }
-  },
-  {
     "id": 4894,
     "name": "crib",
     "platform": "Android",
@@ -10067,32 +9101,6 @@
         "24": "/PNG/24/Baby/crib-24.png",
         "96": "/PNG/96/Baby/crib-96.png",
         "48": "/PNG/48/Baby/crib-48.png"
-      }
-    }
-  },
-  {
-    "id": 5100,
-    "name": "cricket",
-    "platform": "Android",
-    "category": "Sports",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Sports/cricket.svg",
-      "eps": "/EPS/Sports/cricket.eps",
-      "png": {
-        "32": "/PNG/32/Sports/cricket-32.png",
-        "128": "/PNG/128/Sports/cricket-128.png",
-        "256": "/PNG/256/Sports/cricket-256.png",
-        "36": "/PNG/36/Sports/cricket-36.png",
-        "512": "/PNG/512/Sports/cricket-512.png",
-        "64": "/PNG/64/Sports/cricket-64.png",
-        "24": "/PNG/24/Sports/cricket-24.png",
-        "96": "/PNG/96/Sports/cricket-96.png",
-        "48": "/PNG/48/Sports/cricket-48.png"
       }
     }
   },
@@ -10273,32 +9281,6 @@
     }
   },
   {
-    "id": 5213,
-    "name": "crying",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Messaging/crying.svg",
-      "eps": "/EPS/Messaging/crying.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/crying-32.png",
-        "128": "/PNG/128/Messaging/crying-128.png",
-        "256": "/PNG/256/Messaging/crying-256.png",
-        "36": "/PNG/36/Messaging/crying-36.png",
-        "512": "/PNG/512/Messaging/crying-512.png",
-        "64": "/PNG/64/Messaging/crying-64.png",
-        "24": "/PNG/24/Messaging/crying-24.png",
-        "96": "/PNG/96/Messaging/crying-96.png",
-        "48": "/PNG/48/Messaging/crying-48.png"
-      }
-    }
-  },
-  {
     "id": 4889,
     "name": "crying_baby",
     "platform": "Android",
@@ -10346,28 +9328,20 @@
       "bulb",
       "light",
       "lamp",
-      "save",
       "symbol",
       "electric",
       "sign",
       "electricity",
       "fate",
       "stars",
-      "power",
-      "isolated",
-      "innovation",
-      "element",
       "future",
+      "astrology",
       "horoscope",
-      "tech",
       "lightbulb",
-      "halogen",
-      "tungsten",
-      "bio",
-      "socle",
       "psychic reading",
       "spiritual",
-      "astrometry"
+      "astrometry",
+      "crystal ball"
     ],
     "copyright": false,
     "files": {
@@ -10582,32 +9556,6 @@
     }
   },
   {
-    "id": 5099,
-    "name": "dancing",
-    "platform": "Android",
-    "category": "Sports",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Sports/dancing.svg",
-      "eps": "/EPS/Sports/dancing.eps",
-      "png": {
-        "32": "/PNG/32/Sports/dancing-32.png",
-        "128": "/PNG/128/Sports/dancing-128.png",
-        "256": "/PNG/256/Sports/dancing-256.png",
-        "36": "/PNG/36/Sports/dancing-36.png",
-        "512": "/PNG/512/Sports/dancing-512.png",
-        "64": "/PNG/64/Sports/dancing-64.png",
-        "24": "/PNG/24/Sports/dancing-24.png",
-        "96": "/PNG/96/Sports/dancing-96.png",
-        "48": "/PNG/48/Sports/dancing-48.png"
-      }
-    }
-  },
-  {
     "id": 4409,
     "name": "data_in_both_directions",
     "platform": "Android",
@@ -10658,32 +9606,6 @@
         "24": "/PNG/24/DIY/deadly_spray-24.png",
         "96": "/PNG/96/DIY/deadly_spray-96.png",
         "48": "/PNG/48/DIY/deadly_spray-48.png"
-      }
-    }
-  },
-  {
-    "id": 5223,
-    "name": "death",
-    "platform": "Android",
-    "category": "Healthcare",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Healthcare/death.svg",
-      "eps": "/EPS/Healthcare/death.eps",
-      "png": {
-        "32": "/PNG/32/Healthcare/death-32.png",
-        "128": "/PNG/128/Healthcare/death-128.png",
-        "256": "/PNG/256/Healthcare/death-256.png",
-        "36": "/PNG/36/Healthcare/death-36.png",
-        "512": "/PNG/512/Healthcare/death-512.png",
-        "64": "/PNG/64/Healthcare/death-64.png",
-        "24": "/PNG/24/Healthcare/death-24.png",
-        "96": "/PNG/96/Healthcare/death-96.png",
-        "48": "/PNG/48/Healthcare/death-48.png"
       }
     }
   },
@@ -11823,58 +10745,6 @@
     }
   },
   {
-    "id": 5190,
-    "name": "dog_track",
-    "platform": "Android",
-    "category": "Animals",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Animals/dog_track.svg",
-      "eps": "/EPS/Animals/dog_track.eps",
-      "png": {
-        "32": "/PNG/32/Animals/dog_track-32.png",
-        "128": "/PNG/128/Animals/dog_track-128.png",
-        "256": "/PNG/256/Animals/dog_track-256.png",
-        "36": "/PNG/36/Animals/dog_track-36.png",
-        "512": "/PNG/512/Animals/dog_track-512.png",
-        "64": "/PNG/64/Animals/dog_track-64.png",
-        "24": "/PNG/24/Animals/dog_track-24.png",
-        "96": "/PNG/96/Animals/dog_track-96.png",
-        "48": "/PNG/48/Animals/dog_track-48.png"
-      }
-    }
-  },
-  {
-    "id": 5195,
-    "name": "dolphin",
-    "platform": "Android",
-    "category": "Animals",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Animals/dolphin.svg",
-      "eps": "/EPS/Animals/dolphin.eps",
-      "png": {
-        "32": "/PNG/32/Animals/dolphin-32.png",
-        "128": "/PNG/128/Animals/dolphin-128.png",
-        "256": "/PNG/256/Animals/dolphin-256.png",
-        "36": "/PNG/36/Animals/dolphin-36.png",
-        "512": "/PNG/512/Animals/dolphin-512.png",
-        "64": "/PNG/64/Animals/dolphin-64.png",
-        "24": "/PNG/24/Animals/dolphin-24.png",
-        "96": "/PNG/96/Animals/dolphin-96.png",
-        "48": "/PNG/48/Animals/dolphin-48.png"
-      }
-    }
-  },
-  {
     "id": 4184,
     "name": "domain",
     "platform": "Android",
@@ -11898,32 +10768,6 @@
         "24": "/PNG/24/Network/domain-24.png",
         "96": "/PNG/96/Network/domain-96.png",
         "48": "/PNG/48/Network/domain-48.png"
-      }
-    }
-  },
-  {
-    "id": 5242,
-    "name": "double_tap",
-    "platform": "Android",
-    "category": "User Interface",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/User_Interface/double_tap.svg",
-      "eps": "/EPS/User_Interface/double_tap.eps",
-      "png": {
-        "32": "/PNG/32/User_Interface/double_tap-32.png",
-        "128": "/PNG/128/User_Interface/double_tap-128.png",
-        "256": "/PNG/256/User_Interface/double_tap-256.png",
-        "36": "/PNG/36/User_Interface/double_tap-36.png",
-        "512": "/PNG/512/User_Interface/double_tap-512.png",
-        "64": "/PNG/64/User_Interface/double_tap-64.png",
-        "24": "/PNG/24/User_Interface/double_tap-24.png",
-        "96": "/PNG/96/User_Interface/double_tap-96.png",
-        "48": "/PNG/48/User_Interface/double_tap-48.png"
       }
     }
   },
@@ -12407,84 +11251,6 @@
     }
   },
   {
-    "id": 5153,
-    "name": "easter_cake",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/easter_cake.svg",
-      "eps": "/EPS/Holidays/easter_cake.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/easter_cake-32.png",
-        "128": "/PNG/128/Holidays/easter_cake-128.png",
-        "256": "/PNG/256/Holidays/easter_cake-256.png",
-        "36": "/PNG/36/Holidays/easter_cake-36.png",
-        "512": "/PNG/512/Holidays/easter_cake-512.png",
-        "64": "/PNG/64/Holidays/easter_cake-64.png",
-        "24": "/PNG/24/Holidays/easter_cake-24.png",
-        "96": "/PNG/96/Holidays/easter_cake-96.png",
-        "48": "/PNG/48/Holidays/easter_cake-48.png"
-      }
-    }
-  },
-  {
-    "id": 5141,
-    "name": "easter_egg",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/easter_egg.svg",
-      "eps": "/EPS/Holidays/easter_egg.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/easter_egg-32.png",
-        "128": "/PNG/128/Holidays/easter_egg-128.png",
-        "256": "/PNG/256/Holidays/easter_egg-256.png",
-        "36": "/PNG/36/Holidays/easter_egg-36.png",
-        "512": "/PNG/512/Holidays/easter_egg-512.png",
-        "64": "/PNG/64/Holidays/easter_egg-64.png",
-        "24": "/PNG/24/Holidays/easter_egg-24.png",
-        "96": "/PNG/96/Holidays/easter_egg-96.png",
-        "48": "/PNG/48/Holidays/easter_egg-48.png"
-      }
-    }
-  },
-  {
-    "id": 5164,
-    "name": "easter_rabbit",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/easter_rabbit.svg",
-      "eps": "/EPS/Holidays/easter_rabbit.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/easter_rabbit-32.png",
-        "128": "/PNG/128/Holidays/easter_rabbit-128.png",
-        "256": "/PNG/256/Holidays/easter_rabbit-256.png",
-        "36": "/PNG/36/Holidays/easter_rabbit-36.png",
-        "512": "/PNG/512/Holidays/easter_rabbit-512.png",
-        "64": "/PNG/64/Holidays/easter_rabbit-64.png",
-        "24": "/PNG/24/Holidays/easter_rabbit-24.png",
-        "96": "/PNG/96/Holidays/easter_rabbit-96.png",
-        "48": "/PNG/48/Holidays/easter_rabbit-48.png"
-      }
-    }
-  },
-  {
     "id": 3768,
     "name": "east_direction",
     "platform": "Android",
@@ -12638,32 +11404,6 @@
         "24": "/PNG/24/Food/eggs-24.png",
         "96": "/PNG/96/Food/eggs-96.png",
         "48": "/PNG/48/Food/eggs-48.png"
-      }
-    }
-  },
-  {
-    "id": 5156,
-    "name": "eggs_basket",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/eggs_basket.svg",
-      "eps": "/EPS/Holidays/eggs_basket.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/eggs_basket-32.png",
-        "128": "/PNG/128/Holidays/eggs_basket-128.png",
-        "256": "/PNG/256/Holidays/eggs_basket-256.png",
-        "36": "/PNG/36/Holidays/eggs_basket-36.png",
-        "512": "/PNG/512/Holidays/eggs_basket-512.png",
-        "64": "/PNG/64/Holidays/eggs_basket-64.png",
-        "24": "/PNG/24/Holidays/eggs_basket-24.png",
-        "96": "/PNG/96/Holidays/eggs_basket-96.png",
-        "48": "/PNG/48/Holidays/eggs_basket-48.png"
       }
     }
   },
@@ -13411,32 +12151,6 @@
     }
   },
   {
-    "id": 5083,
-    "name": "equestrian_statue",
-    "platform": "Android",
-    "category": "City",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/equestrian_statue.svg",
-      "eps": "/EPS/City/equestrian_statue.eps",
-      "png": {
-        "32": "/PNG/32/City/equestrian_statue-32.png",
-        "128": "/PNG/128/City/equestrian_statue-128.png",
-        "256": "/PNG/256/City/equestrian_statue-256.png",
-        "36": "/PNG/36/City/equestrian_statue-36.png",
-        "512": "/PNG/512/City/equestrian_statue-512.png",
-        "64": "/PNG/64/City/equestrian_statue-64.png",
-        "24": "/PNG/24/City/equestrian_statue-24.png",
-        "96": "/PNG/96/City/equestrian_statue-96.png",
-        "48": "/PNG/48/City/equestrian_statue-48.png"
-      }
-    }
-  },
-  {
     "id": 4269,
     "name": "eraser",
     "platform": "Android",
@@ -13460,32 +12174,6 @@
         "24": "/PNG/24/Editing/eraser-24.png",
         "96": "/PNG/96/Editing/eraser-96.png",
         "48": "/PNG/48/Editing/eraser-48.png"
-      }
-    }
-  },
-  {
-    "id": 5205,
-    "name": "evil",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Messaging/evil.svg",
-      "eps": "/EPS/Messaging/evil.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/evil-32.png",
-        "128": "/PNG/128/Messaging/evil-128.png",
-        "256": "/PNG/256/Messaging/evil-256.png",
-        "36": "/PNG/36/Messaging/evil-36.png",
-        "512": "/PNG/512/Messaging/evil-512.png",
-        "64": "/PNG/64/Messaging/evil-64.png",
-        "24": "/PNG/24/Messaging/evil-24.png",
-        "96": "/PNG/96/Messaging/evil-96.png",
-        "48": "/PNG/48/Messaging/evil-48.png"
       }
     }
   },
@@ -14108,6 +12796,33 @@
     }
   },
   {
+    "id": 3922,
+    "name": "female",
+    "platform": "Android",
+    "category": "Users",
+    "created": 1397249506,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Users/female.svg",
+      "svg.simplified": "/SVG_for_Font/Users/female.svg",
+      "eps": "/EPS/Users/female.eps",
+      "png": {
+        "32": "/PNG/32/Users/female-32.png",
+        "128": "/PNG/128/Users/female-128.png",
+        "256": "/PNG/256/Users/female-256.png",
+        "36": "/PNG/36/Users/female-36.png",
+        "512": "/PNG/512/Users/female-512.png",
+        "64": "/PNG/64/Users/female-64.png",
+        "24": "/PNG/24/Users/female-24.png",
+        "96": "/PNG/96/Users/female-96.png",
+        "48": "/PNG/48/Users/female-48.png"
+      }
+    }
+  },
+  {
     "id": 4749,
     "name": "ferris_wheel",
     "platform": "Android",
@@ -14280,6 +12995,33 @@
         "24": "/PNG/24/Shopping/filled_box-24.png",
         "96": "/PNG/96/Shopping/filled_box-96.png",
         "48": "/PNG/48/Shopping/filled_box-48.png"
+      }
+    }
+  },
+  {
+    "id": 3919,
+    "name": "filled_filter",
+    "platform": "Android",
+    "category": "Objects",
+    "created": 1397249506,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Objects/filled_filter.svg",
+      "svg.simplified": "/SVG_for_Font/Objects/filled_filter.svg",
+      "eps": "/EPS/Objects/filled_filter.eps",
+      "png": {
+        "32": "/PNG/32/Objects/filled_filter-32.png",
+        "128": "/PNG/128/Objects/filled_filter-128.png",
+        "256": "/PNG/256/Objects/filled_filter-256.png",
+        "36": "/PNG/36/Objects/filled_filter-36.png",
+        "512": "/PNG/512/Objects/filled_filter-512.png",
+        "64": "/PNG/64/Objects/filled_filter-64.png",
+        "24": "/PNG/24/Objects/filled_filter-24.png",
+        "96": "/PNG/96/Objects/filled_filter-96.png",
+        "48": "/PNG/48/Objects/filled_filter-48.png"
       }
     }
   },
@@ -14489,32 +13231,6 @@
     }
   },
   {
-    "id": 5227,
-    "name": "finger_and_thumb",
-    "platform": "Android",
-    "category": "Hands",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Hands/finger_and_thumb.svg",
-      "eps": "/EPS/Hands/finger_and_thumb.eps",
-      "png": {
-        "32": "/PNG/32/Hands/finger_and_thumb-32.png",
-        "128": "/PNG/128/Hands/finger_and_thumb-128.png",
-        "256": "/PNG/256/Hands/finger_and_thumb-256.png",
-        "36": "/PNG/36/Hands/finger_and_thumb-36.png",
-        "512": "/PNG/512/Hands/finger_and_thumb-512.png",
-        "64": "/PNG/64/Hands/finger_and_thumb-64.png",
-        "24": "/PNG/24/Hands/finger_and_thumb-24.png",
-        "96": "/PNG/96/Hands/finger_and_thumb-96.png",
-        "48": "/PNG/48/Hands/finger_and_thumb-48.png"
-      }
-    }
-  },
-  {
     "id": 3955,
     "name": "finish_flag",
     "platform": "Android",
@@ -14699,30 +13415,22 @@
     "category": "City",
     "created": 1401166273,
     "tags": [
-      "box",
       "fire",
       "pump",
       "emergency",
       "water",
       "pipe",
-      "motor",
       "tap",
-      "town",
-      "settlement",
       "urban",
       "fire hydrant",
       "firefighters",
       "dogs favorite pee-place",
       "summertime fun",
       "putting out fires",
-      "water main",
       "summertime water playtime",
       "saving lives",
       "fire hydrant clipart",
-      "water emergency equipment",
-      "hose",
-      "fireextinguisher",
-      "wayfinding"
+      "water emergency equipment"
     ],
     "copyright": false,
     "files": {
@@ -14739,32 +13447,6 @@
         "24": "/PNG/24/City/fire_hydrant-24.png",
         "96": "/PNG/96/City/fire_hydrant-96.png",
         "48": "/PNG/48/City/fire_hydrant-48.png"
-      }
-    }
-  },
-  {
-    "id": 5078,
-    "name": "fire_station",
-    "platform": "Android",
-    "category": "City",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/fire_station.svg",
-      "eps": "/EPS/City/fire_station.eps",
-      "png": {
-        "32": "/PNG/32/City/fire_station-32.png",
-        "128": "/PNG/128/City/fire_station-128.png",
-        "256": "/PNG/256/City/fire_station-256.png",
-        "36": "/PNG/36/City/fire_station-36.png",
-        "512": "/PNG/512/City/fire_station-512.png",
-        "64": "/PNG/64/City/fire_station-64.png",
-        "24": "/PNG/24/City/fire_station-24.png",
-        "96": "/PNG/96/City/fire_station-96.png",
-        "48": "/PNG/48/City/fire_station-48.png"
       }
     }
   },
@@ -15485,32 +14167,6 @@
     }
   },
   {
-    "id": 5120,
-    "name": "forest",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403571065,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/forest.svg",
-      "eps": "/EPS/Travel/forest.eps",
-      "png": {
-        "32": "/PNG/32/Travel/forest-32.png",
-        "128": "/PNG/128/Travel/forest-128.png",
-        "256": "/PNG/256/Travel/forest-256.png",
-        "36": "/PNG/36/Travel/forest-36.png",
-        "512": "/PNG/512/Travel/forest-512.png",
-        "64": "/PNG/64/Travel/forest-64.png",
-        "24": "/PNG/24/Travel/forest-24.png",
-        "96": "/PNG/96/Travel/forest-96.png",
-        "48": "/PNG/48/Travel/forest-48.png"
-      }
-    }
-  },
-  {
     "id": 4930,
     "name": "fork",
     "platform": "Android",
@@ -15634,42 +14290,6 @@
     }
   },
   {
-    "id": 3199,
-    "name": "forward",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1391770248,
-    "tags": [
-      "forwards",
-      "forward",
-      "send",
-      "mail",
-      "message",
-      "envelope",
-      "messaging",
-      "communication",
-      "tell",
-      "discussion",
-      "reply"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Messaging/forward.svg",
-      "eps": "/EPS/Messaging/forward.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/forward-32.png",
-        "128": "/PNG/128/Messaging/forward-128.png",
-        "256": "/PNG/256/Messaging/forward-256.png",
-        "36": "/PNG/36/Messaging/forward-36.png",
-        "512": "/PNG/512/Messaging/forward-512.png",
-        "64": "/PNG/64/Messaging/forward-64.png",
-        "24": "/PNG/24/Messaging/forward-24.png",
-        "96": "/PNG/96/Messaging/forward-96.png",
-        "48": "/PNG/48/Messaging/forward-48.png"
-      }
-    }
-  },
-  {
     "id": 4731,
     "name": "fountain",
     "platform": "Android",
@@ -15755,32 +14375,6 @@
     }
   },
   {
-    "id": 5228,
-    "name": "four_fingers",
-    "platform": "Android",
-    "category": "Hands",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Hands/four_fingers.svg",
-      "eps": "/EPS/Hands/four_fingers.eps",
-      "png": {
-        "32": "/PNG/32/Hands/four_fingers-32.png",
-        "128": "/PNG/128/Hands/four_fingers-128.png",
-        "256": "/PNG/256/Hands/four_fingers-256.png",
-        "36": "/PNG/36/Hands/four_fingers-36.png",
-        "512": "/PNG/512/Hands/four_fingers-512.png",
-        "64": "/PNG/64/Hands/four_fingers-64.png",
-        "24": "/PNG/24/Hands/four_fingers-24.png",
-        "96": "/PNG/96/Hands/four_fingers-96.png",
-        "48": "/PNG/48/Hands/four_fingers-48.png"
-      }
-    }
-  },
-  {
     "id": 3295,
     "name": "frame",
     "platform": "Android",
@@ -15804,32 +14398,6 @@
         "24": "/PNG/24/Very_Basic/frame-24.png",
         "96": "/PNG/96/Very_Basic/frame-96.png",
         "48": "/PNG/48/Very_Basic/frame-48.png"
-      }
-    }
-  },
-  {
-    "id": 5165,
-    "name": "frankenstain",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/frankenstain.svg",
-      "eps": "/EPS/Holidays/frankenstain.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/frankenstain-32.png",
-        "128": "/PNG/128/Holidays/frankenstain-128.png",
-        "256": "/PNG/256/Holidays/frankenstain-256.png",
-        "36": "/PNG/36/Holidays/frankenstain-36.png",
-        "512": "/PNG/512/Holidays/frankenstain-512.png",
-        "64": "/PNG/64/Holidays/frankenstain-64.png",
-        "24": "/PNG/24/Holidays/frankenstain-24.png",
-        "96": "/PNG/96/Holidays/frankenstain-96.png",
-        "48": "/PNG/48/Holidays/frankenstain-48.png"
       }
     }
   },
@@ -16066,32 +14634,6 @@
         "24": "/PNG/24/Astrology/full_moon-24.png",
         "96": "/PNG/96/Astrology/full_moon-96.png",
         "48": "/PNG/48/Astrology/full_moon-48.png"
-      }
-    }
-  },
-  {
-    "id": 5129,
-    "name": "gaiters",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403571065,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/gaiters.svg",
-      "eps": "/EPS/Travel/gaiters.eps",
-      "png": {
-        "32": "/PNG/32/Travel/gaiters-32.png",
-        "128": "/PNG/128/Travel/gaiters-128.png",
-        "256": "/PNG/256/Travel/gaiters-256.png",
-        "36": "/PNG/36/Travel/gaiters-36.png",
-        "512": "/PNG/512/Travel/gaiters-512.png",
-        "64": "/PNG/64/Travel/gaiters-64.png",
-        "24": "/PNG/24/Travel/gaiters-24.png",
-        "96": "/PNG/96/Travel/gaiters-96.png",
-        "48": "/PNG/48/Travel/gaiters-48.png"
       }
     }
   },
@@ -16367,51 +14909,34 @@
     "created": 1398365517,
     "tags": [
       "vector",
-      "set",
-      "appliance",
       "fire",
-      "collection",
-      "save",
-      "plumbing",
-      "temperature",
       "symbol",
-      "economy",
       "gasoline",
       "hot",
       "heat",
-      "oven",
-      "illustration",
       "sign",
       "burn",
       "industry",
-      "equipment",
-      "technology",
-      "banner",
-      "black",
-      "pipe",
       "gas",
       "oil",
-      "hell",
-      "white",
-      "frame",
       "icon",
-      "environment",
-      "power",
-      "plant",
-      "manufacturing",
-      "production",
       "emblem",
-      "energy",
-      "stove",
-      "bonfire",
       "danger",
-      "engineering",
-      "factory",
-      "recycling",
-      "industrial",
-      "red",
-      "grilled",
-      "bu"
+      "burner",
+      "flame",
+      "pictogram",
+      "flammable",
+      "blaze",
+      "ignite",
+      "inferno",
+      "combust",
+      "glowing",
+      "methane",
+      "butane",
+      "benzine",
+      "blazing",
+      "fiery",
+      "plasma"
     ],
     "copyright": false,
     "files": {
@@ -16919,32 +15444,6 @@
     }
   },
   {
-    "id": 5142,
-    "name": "ghost",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/ghost.svg",
-      "eps": "/EPS/Holidays/ghost.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/ghost-32.png",
-        "128": "/PNG/128/Holidays/ghost-128.png",
-        "256": "/PNG/256/Holidays/ghost-256.png",
-        "36": "/PNG/36/Holidays/ghost-36.png",
-        "512": "/PNG/512/Holidays/ghost-512.png",
-        "64": "/PNG/64/Holidays/ghost-64.png",
-        "24": "/PNG/24/Holidays/ghost-24.png",
-        "96": "/PNG/96/Holidays/ghost-96.png",
-        "48": "/PNG/48/Holidays/ghost-48.png"
-      }
-    }
-  },
-  {
     "id": 3289,
     "name": "gift",
     "platform": "Android",
@@ -17117,42 +15616,6 @@
     }
   },
   {
-    "id": 3358,
-    "name": "gmail_login",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1391770248,
-    "tags": [
-      "mail",
-      "envelope",
-      "Facebook",
-      "buzz",
-      "login",
-      "gmail",
-      "log-in",
-      "google mail",
-      "authorization",
-      "signin",
-      "sign-in"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Messaging/gmail_login.svg",
-      "eps": "/EPS/Messaging/gmail_login.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/gmail_login-32.png",
-        "128": "/PNG/128/Messaging/gmail_login-128.png",
-        "256": "/PNG/256/Messaging/gmail_login-256.png",
-        "36": "/PNG/36/Messaging/gmail_login-36.png",
-        "512": "/PNG/512/Messaging/gmail_login-512.png",
-        "64": "/PNG/64/Messaging/gmail_login-64.png",
-        "24": "/PNG/24/Messaging/gmail_login-24.png",
-        "96": "/PNG/96/Messaging/gmail_login-96.png",
-        "48": "/PNG/48/Messaging/gmail_login-48.png"
-      }
-    }
-  },
-  {
     "id": 5019,
     "name": "goatee",
     "platform": "Android",
@@ -17176,32 +15639,6 @@
         "24": "/PNG/24/Hair/goatee-24.png",
         "96": "/PNG/96/Hair/goatee-96.png",
         "48": "/PNG/48/Hair/goatee-48.png"
-      }
-    }
-  },
-  {
-    "id": 5095,
-    "name": "golf",
-    "platform": "Android",
-    "category": "Sports",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Sports/golf.svg",
-      "eps": "/EPS/Sports/golf.eps",
-      "png": {
-        "32": "/PNG/32/Sports/golf-32.png",
-        "128": "/PNG/128/Sports/golf-128.png",
-        "256": "/PNG/256/Sports/golf-256.png",
-        "36": "/PNG/36/Sports/golf-36.png",
-        "512": "/PNG/512/Sports/golf-512.png",
-        "64": "/PNG/64/Sports/golf-64.png",
-        "24": "/PNG/24/Sports/golf-24.png",
-        "96": "/PNG/96/Sports/golf-96.png",
-        "48": "/PNG/48/Sports/golf-48.png"
       }
     }
   },
@@ -17998,18 +16435,10 @@
       "multiple users",
       "gather",
       "meet",
-      "foregather",
-      "aggroup",
       "flock",
-      "couple",
-      "forum",
       "contact",
-      "community",
-      "weight",
       "company",
       "brainstorming",
-      "department",
-      "judges",
       "users",
       "team",
       "people"
@@ -18368,58 +16797,6 @@
     }
   },
   {
-    "id": 5179,
-    "name": "halloween_candy",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403743857,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/halloween_candy.svg",
-      "eps": "/EPS/Holidays/halloween_candy.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/halloween_candy-32.png",
-        "128": "/PNG/128/Holidays/halloween_candy-128.png",
-        "256": "/PNG/256/Holidays/halloween_candy-256.png",
-        "36": "/PNG/36/Holidays/halloween_candy-36.png",
-        "512": "/PNG/512/Holidays/halloween_candy-512.png",
-        "64": "/PNG/64/Holidays/halloween_candy-64.png",
-        "24": "/PNG/24/Holidays/halloween_candy-24.png",
-        "96": "/PNG/96/Holidays/halloween_candy-96.png",
-        "48": "/PNG/48/Holidays/halloween_candy-48.png"
-      }
-    }
-  },
-  {
-    "id": 5097,
-    "name": "handball",
-    "platform": "Android",
-    "category": "Sports",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Sports/handball.svg",
-      "eps": "/EPS/Sports/handball.eps",
-      "png": {
-        "32": "/PNG/32/Sports/handball-32.png",
-        "128": "/PNG/128/Sports/handball-128.png",
-        "256": "/PNG/256/Sports/handball-256.png",
-        "36": "/PNG/36/Sports/handball-36.png",
-        "512": "/PNG/512/Sports/handball-512.png",
-        "64": "/PNG/64/Sports/handball-64.png",
-        "24": "/PNG/24/Sports/handball-24.png",
-        "96": "/PNG/96/Sports/handball-96.png",
-        "48": "/PNG/48/Sports/handball-48.png"
-      }
-    }
-  },
-  {
     "id": 3244,
     "name": "handshake",
     "platform": "Android",
@@ -18530,32 +16907,6 @@
         "24": "/PNG/24/DIY/hand_planting-24.png",
         "96": "/PNG/96/DIY/hand_planting-96.png",
         "48": "/PNG/48/DIY/hand_planting-48.png"
-      }
-    }
-  },
-  {
-    "id": 5204,
-    "name": "happy",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Messaging/happy.svg",
-      "eps": "/EPS/Messaging/happy.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/happy-32.png",
-        "128": "/PNG/128/Messaging/happy-128.png",
-        "256": "/PNG/256/Messaging/happy-256.png",
-        "36": "/PNG/36/Messaging/happy-36.png",
-        "512": "/PNG/512/Messaging/happy-512.png",
-        "64": "/PNG/64/Messaging/happy-64.png",
-        "24": "/PNG/24/Messaging/happy-24.png",
-        "96": "/PNG/96/Messaging/happy-96.png",
-        "48": "/PNG/48/Messaging/happy-48.png"
       }
     }
   },
@@ -18836,32 +17187,6 @@
         "24": "/PNG/24/Mobile/headset-24.png",
         "96": "/PNG/96/Mobile/headset-96.png",
         "48": "/PNG/48/Mobile/headset-48.png"
-      }
-    }
-  },
-  {
-    "id": 5140,
-    "name": "headstone",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/headstone.svg",
-      "eps": "/EPS/Holidays/headstone.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/headstone-32.png",
-        "128": "/PNG/128/Holidays/headstone-128.png",
-        "256": "/PNG/256/Holidays/headstone-256.png",
-        "36": "/PNG/36/Holidays/headstone-36.png",
-        "512": "/PNG/512/Holidays/headstone-512.png",
-        "64": "/PNG/64/Holidays/headstone-64.png",
-        "24": "/PNG/24/Holidays/headstone-24.png",
-        "96": "/PNG/96/Holidays/headstone-96.png",
-        "48": "/PNG/48/Holidays/headstone-48.png"
       }
     }
   },
@@ -19189,32 +17514,6 @@
     }
   },
   {
-    "id": 5115,
-    "name": "hex_burner",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403571065,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/hex_burner.svg",
-      "eps": "/EPS/Travel/hex_burner.eps",
-      "png": {
-        "32": "/PNG/32/Travel/hex_burner-32.png",
-        "128": "/PNG/128/Travel/hex_burner-128.png",
-        "256": "/PNG/256/Travel/hex_burner-256.png",
-        "36": "/PNG/36/Travel/hex_burner-36.png",
-        "512": "/PNG/512/Travel/hex_burner-512.png",
-        "64": "/PNG/64/Travel/hex_burner-64.png",
-        "24": "/PNG/24/Travel/hex_burner-24.png",
-        "96": "/PNG/96/Travel/hex_burner-96.png",
-        "48": "/PNG/48/Travel/hex_burner-48.png"
-      }
-    }
-  },
-  {
     "id": 4405,
     "name": "high_connection",
     "platform": "Android",
@@ -19242,39 +17541,6 @@
     }
   },
   {
-    "id": 3326,
-    "name": "high_importance",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1391770248,
-    "tags": [
-      "mark",
-      "business",
-      "bus",
-      "priority",
-      "high importance",
-      "high",
-      "exclamation mark",
-      "importance"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Messaging/high_importance.svg",
-      "eps": "/EPS/Messaging/high_importance.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/high_importance-32.png",
-        "128": "/PNG/128/Messaging/high_importance-128.png",
-        "256": "/PNG/256/Messaging/high_importance-256.png",
-        "36": "/PNG/36/Messaging/high_importance-36.png",
-        "512": "/PNG/512/Messaging/high_importance-512.png",
-        "64": "/PNG/64/Messaging/high_importance-64.png",
-        "24": "/PNG/24/Messaging/high_importance-24.png",
-        "96": "/PNG/96/Messaging/high_importance-96.png",
-        "48": "/PNG/48/Messaging/high_importance-48.png"
-      }
-    }
-  },
-  {
     "id": 4397,
     "name": "historical",
     "platform": "Android",
@@ -19298,32 +17564,6 @@
         "24": "/PNG/24/Cinema/historical-24.png",
         "96": "/PNG/96/Cinema/historical-96.png",
         "48": "/PNG/48/Cinema/historical-48.png"
-      }
-    }
-  },
-  {
-    "id": 5149,
-    "name": "holy_bible",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/holy_bible.svg",
-      "eps": "/EPS/Holidays/holy_bible.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/holy_bible-32.png",
-        "128": "/PNG/128/Holidays/holy_bible-128.png",
-        "256": "/PNG/256/Holidays/holy_bible-256.png",
-        "36": "/PNG/36/Holidays/holy_bible-36.png",
-        "512": "/PNG/512/Holidays/holy_bible-512.png",
-        "64": "/PNG/64/Holidays/holy_bible-64.png",
-        "24": "/PNG/24/Holidays/holy_bible-24.png",
-        "96": "/PNG/96/Holidays/holy_bible-96.png",
-        "48": "/PNG/48/Holidays/holy_bible-48.png"
       }
     }
   },
@@ -19572,32 +17812,6 @@
     }
   },
   {
-    "id": 5225,
-    "name": "hospital-3",
-    "platform": "Android",
-    "category": "Healthcare",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Healthcare/hospital-3.svg",
-      "eps": "/EPS/Healthcare/hospital-3.eps",
-      "png": {
-        "32": "/PNG/32/Healthcare/hospital-3-32.png",
-        "128": "/PNG/128/Healthcare/hospital-3-128.png",
-        "256": "/PNG/256/Healthcare/hospital-3-256.png",
-        "36": "/PNG/36/Healthcare/hospital-3-36.png",
-        "512": "/PNG/512/Healthcare/hospital-3-512.png",
-        "64": "/PNG/64/Healthcare/hospital-3-64.png",
-        "24": "/PNG/24/Healthcare/hospital-3-24.png",
-        "96": "/PNG/96/Healthcare/hospital-3-96.png",
-        "48": "/PNG/48/Healthcare/hospital-3-48.png"
-      }
-    }
-  },
-  {
     "id": 4740,
     "name": "hospital2",
     "platform": "Android",
@@ -19821,32 +18035,6 @@
         "24": "/PNG/24/Network/hub-24.png",
         "96": "/PNG/96/Network/hub-96.png",
         "48": "/PNG/48/Network/hub-48.png"
-      }
-    }
-  },
-  {
-    "id": 5187,
-    "name": "human_footprints",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/human_footprints.svg",
-      "eps": "/EPS/Travel/human_footprints.eps",
-      "png": {
-        "32": "/PNG/32/Travel/human_footprints-32.png",
-        "128": "/PNG/128/Travel/human_footprints-128.png",
-        "256": "/PNG/256/Travel/human_footprints-256.png",
-        "36": "/PNG/36/Travel/human_footprints-36.png",
-        "512": "/PNG/512/Travel/human_footprints-512.png",
-        "64": "/PNG/64/Travel/human_footprints-64.png",
-        "24": "/PNG/24/Travel/human_footprints-24.png",
-        "96": "/PNG/96/Travel/human_footprints-96.png",
-        "48": "/PNG/48/Travel/human_footprints-48.png"
       }
     }
   },
@@ -20630,75 +18818,6 @@
     }
   },
   {
-    "id": 3140,
-    "name": "invisible",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1391770248,
-    "tags": [
-      "admin",
-      "close",
-      "file",
-      "distance",
-      "view",
-      "store",
-      "eye",
-      "open",
-      "free",
-      "dropbox",
-      "visible",
-      "invisible",
-      "transfer",
-      "share",
-      "email",
-      "uploads",
-      "see",
-      "blind"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Messaging/invisible.svg",
-      "eps": "/EPS/Messaging/invisible.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/invisible-32.png",
-        "128": "/PNG/128/Messaging/invisible-128.png",
-        "256": "/PNG/256/Messaging/invisible-256.png",
-        "36": "/PNG/36/Messaging/invisible-36.png",
-        "512": "/PNG/512/Messaging/invisible-512.png",
-        "64": "/PNG/64/Messaging/invisible-64.png",
-        "24": "/PNG/24/Messaging/invisible-24.png",
-        "96": "/PNG/96/Messaging/invisible-96.png",
-        "48": "/PNG/48/Messaging/invisible-48.png"
-      }
-    }
-  },
-  {
-    "id": 5211,
-    "name": "in_love",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Messaging/in_love.svg",
-      "eps": "/EPS/Messaging/in_love.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/in_love-32.png",
-        "128": "/PNG/128/Messaging/in_love-128.png",
-        "256": "/PNG/256/Messaging/in_love-256.png",
-        "36": "/PNG/36/Messaging/in_love-36.png",
-        "512": "/PNG/512/Messaging/in_love-512.png",
-        "64": "/PNG/64/Messaging/in_love-64.png",
-        "24": "/PNG/24/Messaging/in_love-24.png",
-        "96": "/PNG/96/Messaging/in_love-96.png",
-        "48": "/PNG/48/Messaging/in_love-48.png"
-      }
-    }
-  },
-  {
     "id": 4330,
     "name": "ipad",
     "platform": "Android",
@@ -21376,32 +19495,6 @@
         "24": "/PNG/24/Gaming/king-24.png",
         "96": "/PNG/96/Gaming/king-96.png",
         "48": "/PNG/48/Gaming/king-48.png"
-      }
-    }
-  },
-  {
-    "id": 5208,
-    "name": "kiss",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Messaging/kiss.svg",
-      "eps": "/EPS/Messaging/kiss.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/kiss-32.png",
-        "128": "/PNG/128/Messaging/kiss-128.png",
-        "256": "/PNG/256/Messaging/kiss-256.png",
-        "36": "/PNG/36/Messaging/kiss-36.png",
-        "512": "/PNG/512/Messaging/kiss-512.png",
-        "64": "/PNG/64/Messaging/kiss-64.png",
-        "24": "/PNG/24/Messaging/kiss-24.png",
-        "96": "/PNG/96/Messaging/kiss-96.png",
-        "48": "/PNG/48/Messaging/kiss-48.png"
       }
     }
   },
@@ -22196,58 +20289,6 @@
     }
   },
   {
-    "id": 5185,
-    "name": "left_footprint",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/left_footprint.svg",
-      "eps": "/EPS/Travel/left_footprint.eps",
-      "png": {
-        "32": "/PNG/32/Travel/left_footprint-32.png",
-        "128": "/PNG/128/Travel/left_footprint-128.png",
-        "256": "/PNG/256/Travel/left_footprint-256.png",
-        "36": "/PNG/36/Travel/left_footprint-36.png",
-        "512": "/PNG/512/Travel/left_footprint-512.png",
-        "64": "/PNG/64/Travel/left_footprint-64.png",
-        "24": "/PNG/24/Travel/left_footprint-24.png",
-        "96": "/PNG/96/Travel/left_footprint-96.png",
-        "48": "/PNG/48/Travel/left_footprint-48.png"
-      }
-    }
-  },
-  {
-    "id": 5184,
-    "name": "left_shoe",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/left_shoe.svg",
-      "eps": "/EPS/Travel/left_shoe.eps",
-      "png": {
-        "32": "/PNG/32/Travel/left_shoe-32.png",
-        "128": "/PNG/128/Travel/left_shoe-128.png",
-        "256": "/PNG/256/Travel/left_shoe-256.png",
-        "36": "/PNG/36/Travel/left_shoe-36.png",
-        "512": "/PNG/512/Travel/left_shoe-512.png",
-        "64": "/PNG/64/Travel/left_shoe-64.png",
-        "24": "/PNG/24/Travel/left_shoe-24.png",
-        "96": "/PNG/96/Travel/left_shoe-96.png",
-        "48": "/PNG/48/Travel/left_shoe-48.png"
-      }
-    }
-  },
-  {
     "id": 3320,
     "name": "left_up",
     "platform": "Android",
@@ -22877,32 +20918,6 @@
     }
   },
   {
-    "id": 5089,
-    "name": "lion_statue",
-    "platform": "Android",
-    "category": "City",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/lion_statue.svg",
-      "eps": "/EPS/City/lion_statue.eps",
-      "png": {
-        "32": "/PNG/32/City/lion_statue-32.png",
-        "128": "/PNG/128/City/lion_statue-128.png",
-        "256": "/PNG/256/City/lion_statue-256.png",
-        "36": "/PNG/36/City/lion_statue-36.png",
-        "512": "/PNG/512/City/lion_statue-512.png",
-        "64": "/PNG/64/City/lion_statue-64.png",
-        "24": "/PNG/24/City/lion_statue-24.png",
-        "96": "/PNG/96/City/lion_statue-96.png",
-        "48": "/PNG/48/City/lion_statue-48.png"
-      }
-    }
-  },
-  {
     "id": 4593,
     "name": "living_room",
     "platform": "Android",
@@ -23142,32 +21157,6 @@
     }
   },
   {
-    "id": 5198,
-    "name": "lol",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Messaging/lol.svg",
-      "eps": "/EPS/Messaging/lol.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/lol-32.png",
-        "128": "/PNG/128/Messaging/lol-128.png",
-        "256": "/PNG/256/Messaging/lol-256.png",
-        "36": "/PNG/36/Messaging/lol-36.png",
-        "512": "/PNG/512/Messaging/lol-512.png",
-        "64": "/PNG/64/Messaging/lol-64.png",
-        "24": "/PNG/24/Messaging/lol-24.png",
-        "96": "/PNG/96/Messaging/lol-96.png",
-        "48": "/PNG/48/Messaging/lol-48.png"
-      }
-    }
-  },
-  {
     "id": 5011,
     "name": "long_beard",
     "platform": "Android",
@@ -23312,35 +21301,6 @@
         "24": "/PNG/24/Network/low_connection-24.png",
         "96": "/PNG/96/Network/low_connection-96.png",
         "48": "/PNG/48/Network/low_connection-48.png"
-      }
-    }
-  },
-  {
-    "id": 3128,
-    "name": "low_importance",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1391770248,
-    "tags": [
-      "mark",
-      "business",
-      "priority",
-      "importance"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Messaging/low_importance.svg",
-      "eps": "/EPS/Messaging/low_importance.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/low_importance-32.png",
-        "128": "/PNG/128/Messaging/low_importance-128.png",
-        "256": "/PNG/256/Messaging/low_importance-256.png",
-        "36": "/PNG/36/Messaging/low_importance-36.png",
-        "512": "/PNG/512/Messaging/low_importance-512.png",
-        "64": "/PNG/64/Messaging/low_importance-64.png",
-        "24": "/PNG/24/Messaging/low_importance-24.png",
-        "96": "/PNG/96/Messaging/low_importance-96.png",
-        "48": "/PNG/48/Messaging/low_importance-48.png"
       }
     }
   },
@@ -23992,32 +21952,6 @@
     }
   },
   {
-    "id": 5122,
-    "name": "matches",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403571065,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/matches.svg",
-      "eps": "/EPS/Travel/matches.eps",
-      "png": {
-        "32": "/PNG/32/Travel/matches-32.png",
-        "128": "/PNG/128/Travel/matches-128.png",
-        "256": "/PNG/256/Travel/matches-256.png",
-        "36": "/PNG/36/Travel/matches-36.png",
-        "512": "/PNG/512/Travel/matches-512.png",
-        "64": "/PNG/64/Travel/matches-64.png",
-        "24": "/PNG/24/Travel/matches-24.png",
-        "96": "/PNG/96/Travel/matches-96.png",
-        "48": "/PNG/48/Travel/matches-48.png"
-      }
-    }
-  },
-  {
     "id": 4664,
     "name": "medal",
     "platform": "Android",
@@ -24433,105 +22367,6 @@
     }
   },
   {
-    "id": 3147,
-    "name": "message",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1391770248,
-    "tags": [
-      "home",
-      "send",
-      "mail",
-      "message",
-      "envelope",
-      "messaging",
-      "communication",
-      "tell",
-      "discussion",
-      "reply",
-      "communicate",
-      "comms"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Messaging/message.svg",
-      "eps": "/EPS/Messaging/message.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/message-32.png",
-        "128": "/PNG/128/Messaging/message-128.png",
-        "256": "/PNG/256/Messaging/message-256.png",
-        "36": "/PNG/36/Messaging/message-36.png",
-        "512": "/PNG/512/Messaging/message-512.png",
-        "64": "/PNG/64/Messaging/message-64.png",
-        "24": "/PNG/24/Messaging/message-24.png",
-        "96": "/PNG/96/Messaging/message-96.png",
-        "48": "/PNG/48/Messaging/message-48.png"
-      }
-    }
-  },
-  {
-    "id": 3250,
-    "name": "message_outline",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1391770248,
-    "tags": [
-      "mail",
-      "message",
-      "address",
-      "letter",
-      "email",
-      "correspondence",
-      "post office",
-      "post service",
-      "e-mail'",
-      "buzz",
-      "communication"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Messaging/message_outline.svg",
-      "eps": "/EPS/Messaging/message_outline.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/message_outline-32.png",
-        "128": "/PNG/128/Messaging/message_outline-128.png",
-        "256": "/PNG/256/Messaging/message_outline-256.png",
-        "36": "/PNG/36/Messaging/message_outline-36.png",
-        "512": "/PNG/512/Messaging/message_outline-512.png",
-        "64": "/PNG/64/Messaging/message_outline-64.png",
-        "24": "/PNG/24/Messaging/message_outline-24.png",
-        "96": "/PNG/96/Messaging/message_outline-96.png",
-        "48": "/PNG/48/Messaging/message_outline-48.png"
-      }
-    }
-  },
-  {
-    "id": 5119,
-    "name": "mess_tin",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403571065,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/mess_tin.svg",
-      "eps": "/EPS/Travel/mess_tin.eps",
-      "png": {
-        "32": "/PNG/32/Travel/mess_tin-32.png",
-        "128": "/PNG/128/Travel/mess_tin-128.png",
-        "256": "/PNG/256/Travel/mess_tin-256.png",
-        "36": "/PNG/36/Travel/mess_tin-36.png",
-        "512": "/PNG/512/Travel/mess_tin-512.png",
-        "64": "/PNG/64/Travel/mess_tin-64.png",
-        "24": "/PNG/24/Travel/mess_tin-24.png",
-        "96": "/PNG/96/Travel/mess_tin-96.png",
-        "48": "/PNG/48/Travel/mess_tin-48.png"
-      }
-    }
-  },
-  {
     "id": 4345,
     "name": "metamorphose",
     "platform": "Android",
@@ -24607,7 +22442,8 @@
       "voice mail",
       "voice note",
       "music instrument",
-      "radio show"
+      "radio show",
+      "trt"
     ],
     "copyright": false,
     "files": {
@@ -25277,32 +23113,6 @@
     }
   },
   {
-    "id": 5084,
-    "name": "modern_statue",
-    "platform": "Android",
-    "category": "City",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/modern_statue.svg",
-      "eps": "/EPS/City/modern_statue.eps",
-      "png": {
-        "32": "/PNG/32/City/modern_statue-32.png",
-        "128": "/PNG/128/City/modern_statue-128.png",
-        "256": "/PNG/256/City/modern_statue-256.png",
-        "36": "/PNG/36/City/modern_statue-36.png",
-        "512": "/PNG/512/City/modern_statue-512.png",
-        "64": "/PNG/64/City/modern_statue-64.png",
-        "24": "/PNG/24/City/modern_statue-24.png",
-        "96": "/PNG/96/City/modern_statue-96.png",
-        "48": "/PNG/48/City/modern_statue-48.png"
-      }
-    }
-  },
-  {
     "id": 4727,
     "name": "monastery",
     "platform": "Android",
@@ -25400,19 +23210,15 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
-      "ecommerce",
-      "sell",
+      "save",
+      "shopping",
       "savings",
       "coin",
-      "retail",
-      "store",
-      "shop",
+      "piggy bank",
       "pig",
-      "dollar",
-      "euro",
-      "spare",
       "financial",
-      "savings account"
+      "savings account",
+      "mony box"
     ],
     "copyright": false,
     "files": {
@@ -25491,6 +23297,7 @@
     "created": 1397249506,
     "tags": [
       "minus",
+      "about",
       "booking",
       "filter"
     ],
@@ -25634,6 +23441,33 @@
         "24": "/PNG/24/Industry/motion_detector-24.png",
         "96": "/PNG/96/Industry/motion_detector-96.png",
         "48": "/PNG/48/Industry/motion_detector-48.png"
+      }
+    }
+  },
+  {
+    "id": 3198,
+    "name": "motorcycle",
+    "platform": "Android",
+    "category": "Transport",
+    "created": 1391770248,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Transport/motorcycle.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/motorcycle.svg",
+      "eps": "/EPS/Transport/motorcycle.eps",
+      "png": {
+        "32": "/PNG/32/Transport/motorcycle-32.png",
+        "128": "/PNG/128/Transport/motorcycle-128.png",
+        "256": "/PNG/256/Transport/motorcycle-256.png",
+        "36": "/PNG/36/Transport/motorcycle-36.png",
+        "512": "/PNG/512/Transport/motorcycle-512.png",
+        "64": "/PNG/64/Transport/motorcycle-64.png",
+        "24": "/PNG/24/Transport/motorcycle-24.png",
+        "96": "/PNG/96/Transport/motorcycle-96.png",
+        "48": "/PNG/48/Transport/motorcycle-48.png"
       }
     }
   },
@@ -25866,32 +23700,6 @@
         "24": "/PNG/24/Mobile/multiple_phones-24.png",
         "96": "/PNG/96/Mobile/multiple_phones-96.png",
         "48": "/PNG/48/Mobile/multiple_phones-48.png"
-      }
-    }
-  },
-  {
-    "id": 5148,
-    "name": "mummy",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/mummy.svg",
-      "eps": "/EPS/Holidays/mummy.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/mummy-32.png",
-        "128": "/PNG/128/Holidays/mummy-128.png",
-        "256": "/PNG/256/Holidays/mummy-256.png",
-        "36": "/PNG/36/Holidays/mummy-36.png",
-        "512": "/PNG/512/Holidays/mummy-512.png",
-        "64": "/PNG/64/Holidays/mummy-64.png",
-        "24": "/PNG/24/Holidays/mummy-24.png",
-        "96": "/PNG/96/Holidays/mummy-96.png",
-        "48": "/PNG/48/Holidays/mummy-48.png"
       }
     }
   },
@@ -26469,32 +24277,6 @@
         "24": "/PNG/24/Shopping/new-24.png",
         "96": "/PNG/96/Shopping/new-96.png",
         "48": "/PNG/48/Shopping/new-48.png"
-      }
-    }
-  },
-  {
-    "id": 3165,
-    "name": "new_message",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1391770248,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Messaging/new_message.svg",
-      "eps": "/EPS/Messaging/new_message.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/new_message-32.png",
-        "128": "/PNG/128/Messaging/new_message-128.png",
-        "256": "/PNG/256/Messaging/new_message-256.png",
-        "36": "/PNG/36/Messaging/new_message-36.png",
-        "512": "/PNG/512/Messaging/new_message-512.png",
-        "64": "/PNG/64/Messaging/new_message-64.png",
-        "24": "/PNG/24/Messaging/new_message-24.png",
-        "96": "/PNG/96/Messaging/new_message-96.png",
-        "48": "/PNG/48/Messaging/new_message-48.png"
       }
     }
   },
@@ -27236,32 +25018,6 @@
     }
   },
   {
-    "id": 5188,
-    "name": "octopus",
-    "platform": "Android",
-    "category": "Animals",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Animals/octopus.svg",
-      "eps": "/EPS/Animals/octopus.eps",
-      "png": {
-        "32": "/PNG/32/Animals/octopus-32.png",
-        "128": "/PNG/128/Animals/octopus-128.png",
-        "256": "/PNG/256/Animals/octopus-256.png",
-        "36": "/PNG/36/Animals/octopus-36.png",
-        "512": "/PNG/512/Animals/octopus-512.png",
-        "64": "/PNG/64/Animals/octopus-64.png",
-        "24": "/PNG/24/Animals/octopus-24.png",
-        "96": "/PNG/96/Animals/octopus-96.png",
-        "48": "/PNG/48/Animals/octopus-48.png"
-      }
-    }
-  },
-  {
     "id": 4110,
     "name": "oil_industry",
     "platform": "Android",
@@ -27367,32 +25123,6 @@
         "24": "/PNG/24/Photo_Video/old_time_camera-24.png",
         "96": "/PNG/96/Photo_Video/old_time_camera-96.png",
         "48": "/PNG/48/Photo_Video/old_time_camera-48.png"
-      }
-    }
-  },
-  {
-    "id": 5232,
-    "name": "one_finger",
-    "platform": "Android",
-    "category": "Hands",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Hands/one_finger.svg",
-      "eps": "/EPS/Hands/one_finger.eps",
-      "png": {
-        "32": "/PNG/32/Hands/one_finger-32.png",
-        "128": "/PNG/128/Hands/one_finger-128.png",
-        "256": "/PNG/256/Hands/one_finger-256.png",
-        "36": "/PNG/36/Hands/one_finger-36.png",
-        "512": "/PNG/512/Hands/one_finger-512.png",
-        "64": "/PNG/64/Hands/one_finger-64.png",
-        "24": "/PNG/24/Hands/one_finger-24.png",
-        "96": "/PNG/96/Hands/one_finger-96.png",
-        "48": "/PNG/48/Hands/one_finger-48.png"
       }
     }
   },
@@ -27878,32 +25608,6 @@
     }
   },
   {
-    "id": 5081,
-    "name": "park_concert_shell",
-    "platform": "Android",
-    "category": "City",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/park_concert_shell.svg",
-      "eps": "/EPS/City/park_concert_shell.eps",
-      "png": {
-        "32": "/PNG/32/City/park_concert_shell-32.png",
-        "128": "/PNG/128/City/park_concert_shell-128.png",
-        "256": "/PNG/256/City/park_concert_shell-256.png",
-        "36": "/PNG/36/City/park_concert_shell-36.png",
-        "512": "/PNG/512/City/park_concert_shell-512.png",
-        "64": "/PNG/64/City/park_concert_shell-64.png",
-        "24": "/PNG/24/City/park_concert_shell-24.png",
-        "96": "/PNG/96/City/park_concert_shell-96.png",
-        "48": "/PNG/48/City/park_concert_shell-48.png"
-      }
-    }
-  },
-  {
     "id": 4732,
     "name": "parliament",
     "platform": "Android",
@@ -28135,32 +25839,6 @@
         "24": "/PNG/24/Media_Controls/pause-24.png",
         "96": "/PNG/96/Media_Controls/pause-96.png",
         "48": "/PNG/48/Media_Controls/pause-48.png"
-      }
-    }
-  },
-  {
-    "id": 5090,
-    "name": "pavilion",
-    "platform": "Android",
-    "category": "City",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/pavilion.svg",
-      "eps": "/EPS/City/pavilion.eps",
-      "png": {
-        "32": "/PNG/32/City/pavilion-32.png",
-        "128": "/PNG/128/City/pavilion-128.png",
-        "256": "/PNG/256/City/pavilion-256.png",
-        "36": "/PNG/36/City/pavilion-36.png",
-        "512": "/PNG/512/City/pavilion-512.png",
-        "64": "/PNG/64/City/pavilion-64.png",
-        "24": "/PNG/24/City/pavilion-24.png",
-        "96": "/PNG/96/City/pavilion-96.png",
-        "48": "/PNG/48/City/pavilion-48.png"
       }
     }
   },
@@ -28559,32 +26237,6 @@
     }
   },
   {
-    "id": 5103,
-    "name": "piball",
-    "platform": "Android",
-    "category": "Gaming",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Gaming/piball.svg",
-      "eps": "/EPS/Gaming/piball.eps",
-      "png": {
-        "32": "/PNG/32/Gaming/piball-32.png",
-        "128": "/PNG/128/Gaming/piball-128.png",
-        "256": "/PNG/256/Gaming/piball-256.png",
-        "36": "/PNG/36/Gaming/piball-36.png",
-        "512": "/PNG/512/Gaming/piball-512.png",
-        "64": "/PNG/64/Gaming/piball-64.png",
-        "24": "/PNG/24/Gaming/piball-24.png",
-        "96": "/PNG/96/Gaming/piball-96.png",
-        "48": "/PNG/48/Gaming/piball-48.png"
-      }
-    }
-  },
-  {
     "id": 3412,
     "name": "piccolo",
     "platform": "Android",
@@ -28756,6 +26408,33 @@
     }
   },
   {
+    "id": 4018,
+    "name": "pig",
+    "platform": "Android",
+    "category": "Animals",
+    "created": 1398113512,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Animals/pig.svg",
+      "svg.simplified": "/SVG_for_Font/Nature/pig.svg",
+      "eps": "/EPS/Animals/pig.eps",
+      "png": {
+        "32": "/PNG/32/Animals/pig-32.png",
+        "128": "/PNG/128/Animals/pig-128.png",
+        "256": "/PNG/256/Animals/pig-256.png",
+        "36": "/PNG/36/Animals/pig-36.png",
+        "512": "/PNG/512/Animals/pig-512.png",
+        "64": "/PNG/64/Animals/pig-64.png",
+        "24": "/PNG/24/Animals/pig-24.png",
+        "96": "/PNG/96/Animals/pig-96.png",
+        "48": "/PNG/48/Animals/pig-48.png"
+      }
+    }
+  },
+  {
     "id": 4358,
     "name": "pill",
     "platform": "Android",
@@ -28806,32 +26485,6 @@
         "24": "/PNG/24/Healthcare/pincette-24.png",
         "96": "/PNG/96/Healthcare/pincette-96.png",
         "48": "/PNG/48/Healthcare/pincette-48.png"
-      }
-    }
-  },
-  {
-    "id": 5239,
-    "name": "pinch",
-    "platform": "Android",
-    "category": "User Interface",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/User_Interface/pinch.svg",
-      "eps": "/EPS/User_Interface/pinch.eps",
-      "png": {
-        "32": "/PNG/32/User_Interface/pinch-32.png",
-        "128": "/PNG/128/User_Interface/pinch-128.png",
-        "256": "/PNG/256/User_Interface/pinch-256.png",
-        "36": "/PNG/36/User_Interface/pinch-36.png",
-        "512": "/PNG/512/User_Interface/pinch-512.png",
-        "64": "/PNG/64/User_Interface/pinch-64.png",
-        "24": "/PNG/24/User_Interface/pinch-24.png",
-        "96": "/PNG/96/User_Interface/pinch-96.png",
-        "48": "/PNG/48/User_Interface/pinch-48.png"
       }
     }
   },
@@ -29139,32 +26792,6 @@
     }
   },
   {
-    "id": 5091,
-    "name": "playground",
-    "platform": "Android",
-    "category": "City",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/playground.svg",
-      "eps": "/EPS/City/playground.eps",
-      "png": {
-        "32": "/PNG/32/City/playground-32.png",
-        "128": "/PNG/128/City/playground-128.png",
-        "256": "/PNG/256/City/playground-256.png",
-        "36": "/PNG/36/City/playground-36.png",
-        "512": "/PNG/512/City/playground-512.png",
-        "64": "/PNG/64/City/playground-64.png",
-        "24": "/PNG/24/City/playground-24.png",
-        "96": "/PNG/96/City/playground-96.png",
-        "48": "/PNG/48/City/playground-48.png"
-      }
-    }
-  },
-  {
     "id": 3893,
     "name": "plugin",
     "platform": "Android",
@@ -29367,32 +26994,6 @@
     }
   },
   {
-    "id": 5082,
-    "name": "police_station",
-    "platform": "Android",
-    "category": "City",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/police_station.svg",
-      "eps": "/EPS/City/police_station.eps",
-      "png": {
-        "32": "/PNG/32/City/police_station-32.png",
-        "128": "/PNG/128/City/police_station-128.png",
-        "256": "/PNG/256/City/police_station-256.png",
-        "36": "/PNG/36/City/police_station-36.png",
-        "512": "/PNG/512/City/police_station-512.png",
-        "64": "/PNG/64/City/police_station-64.png",
-        "24": "/PNG/24/City/police_station-24.png",
-        "96": "/PNG/96/City/police_station-96.png",
-        "48": "/PNG/48/City/police_station-48.png"
-      }
-    }
-  },
-  {
     "id": 3787,
     "name": "polygon",
     "platform": "Android",
@@ -29590,32 +27191,6 @@
         "24": "/PNG/24/Data/positive_dynamic-24.png",
         "96": "/PNG/96/Data/positive_dynamic-96.png",
         "48": "/PNG/48/Data/positive_dynamic-48.png"
-      }
-    }
-  },
-  {
-    "id": 5087,
-    "name": "post_office",
-    "platform": "Android",
-    "category": "City",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/post_office.svg",
-      "eps": "/EPS/City/post_office.eps",
-      "png": {
-        "32": "/PNG/32/City/post_office-32.png",
-        "128": "/PNG/128/City/post_office-128.png",
-        "256": "/PNG/256/City/post_office-256.png",
-        "36": "/PNG/36/City/post_office-36.png",
-        "512": "/PNG/512/City/post_office-512.png",
-        "64": "/PNG/64/City/post_office-64.png",
-        "24": "/PNG/24/City/post_office-24.png",
-        "96": "/PNG/96/City/post_office-96.png",
-        "48": "/PNG/48/City/post_office-48.png"
       }
     }
   },
@@ -29955,73 +27530,6 @@
     }
   },
   {
-    "id": 3298,
-    "name": "private",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1391770248,
-    "tags": [
-      "mark",
-      "tools",
-      "security",
-      "internet",
-      "restricted",
-      "settings",
-      "system",
-      "network",
-      "sign",
-      "stop",
-      "hand",
-      "allow",
-      "disallow",
-      "everyone",
-      "unrestricted",
-      "choice"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Messaging/private.svg",
-      "eps": "/EPS/Messaging/private.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/private-32.png",
-        "128": "/PNG/128/Messaging/private-128.png",
-        "256": "/PNG/256/Messaging/private-256.png",
-        "36": "/PNG/36/Messaging/private-36.png",
-        "512": "/PNG/512/Messaging/private-512.png",
-        "64": "/PNG/64/Messaging/private-64.png",
-        "24": "/PNG/24/Messaging/private-24.png",
-        "96": "/PNG/96/Messaging/private-96.png",
-        "48": "/PNG/48/Messaging/private-48.png"
-      }
-    }
-  },
-  {
-    "id": 5210,
-    "name": "private_emoticon",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Messaging/private_emoticon.svg",
-      "eps": "/EPS/Messaging/private_emoticon.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/private_emoticon-32.png",
-        "128": "/PNG/128/Messaging/private_emoticon-128.png",
-        "256": "/PNG/256/Messaging/private_emoticon-256.png",
-        "36": "/PNG/36/Messaging/private_emoticon-36.png",
-        "512": "/PNG/512/Messaging/private_emoticon-512.png",
-        "64": "/PNG/64/Messaging/private_emoticon-64.png",
-        "24": "/PNG/24/Messaging/private_emoticon-24.png",
-        "96": "/PNG/96/Messaging/private_emoticon-96.png",
-        "48": "/PNG/48/Messaging/private_emoticon-48.png"
-      }
-    }
-  },
-  {
     "id": 4062,
     "name": "processor",
     "platform": "Android",
@@ -30124,32 +27632,6 @@
     }
   },
   {
-    "id": 5166,
-    "name": "pumpkin",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/pumpkin.svg",
-      "eps": "/EPS/Holidays/pumpkin.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/pumpkin-32.png",
-        "128": "/PNG/128/Holidays/pumpkin-128.png",
-        "256": "/PNG/256/Holidays/pumpkin-256.png",
-        "36": "/PNG/36/Holidays/pumpkin-36.png",
-        "512": "/PNG/512/Holidays/pumpkin-512.png",
-        "64": "/PNG/64/Holidays/pumpkin-64.png",
-        "24": "/PNG/24/Holidays/pumpkin-24.png",
-        "96": "/PNG/96/Holidays/pumpkin-96.png",
-        "48": "/PNG/48/Holidays/pumpkin-48.png"
-      }
-    }
-  },
-  {
     "id": 3175,
     "name": "purse",
     "platform": "Android",
@@ -30190,32 +27672,6 @@
         "24": "/PNG/24/Shopping/purse-24.png",
         "96": "/PNG/96/Shopping/purse-96.png",
         "48": "/PNG/48/Shopping/purse-48.png"
-      }
-    }
-  },
-  {
-    "id": 5154,
-    "name": "pussy_willow",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/pussy_willow.svg",
-      "eps": "/EPS/Holidays/pussy_willow.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/pussy_willow-32.png",
-        "128": "/PNG/128/Holidays/pussy_willow-128.png",
-        "256": "/PNG/256/Holidays/pussy_willow-256.png",
-        "36": "/PNG/36/Holidays/pussy_willow-36.png",
-        "512": "/PNG/512/Holidays/pussy_willow-512.png",
-        "64": "/PNG/64/Holidays/pussy_willow-64.png",
-        "24": "/PNG/24/Holidays/pussy_willow-24.png",
-        "96": "/PNG/96/Holidays/pussy_willow-96.png",
-        "48": "/PNG/48/Holidays/pussy_willow-48.png"
       }
     }
   },
@@ -30372,32 +27828,6 @@
         "24": "/PNG/24/Gaming/queen-24.png",
         "96": "/PNG/96/Gaming/queen-96.png",
         "48": "/PNG/48/Gaming/queen-48.png"
-      }
-    }
-  },
-  {
-    "id": 5206,
-    "name": "question",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Messaging/question.svg",
-      "eps": "/EPS/Messaging/question.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/question-32.png",
-        "128": "/PNG/128/Messaging/question-128.png",
-        "256": "/PNG/256/Messaging/question-256.png",
-        "36": "/PNG/36/Messaging/question-36.png",
-        "512": "/PNG/512/Messaging/question-512.png",
-        "64": "/PNG/64/Messaging/question-64.png",
-        "24": "/PNG/24/Messaging/question-24.png",
-        "96": "/PNG/96/Messaging/question-96.png",
-        "48": "/PNG/48/Messaging/question-48.png"
       }
     }
   },
@@ -30936,45 +28366,6 @@
     }
   },
   {
-    "id": 3354,
-    "name": "read_message",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1391770248,
-    "tags": [
-      "send",
-      "mail",
-      "message",
-      "envelope",
-      "messaging",
-      "communication",
-      "tell",
-      "reply",
-      "communicate",
-      "comms",
-      "read",
-      "unread",
-      "sms",
-      "discuss"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Messaging/read_message.svg",
-      "eps": "/EPS/Messaging/read_message.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/read_message-32.png",
-        "128": "/PNG/128/Messaging/read_message-128.png",
-        "256": "/PNG/256/Messaging/read_message-256.png",
-        "36": "/PNG/36/Messaging/read_message-36.png",
-        "512": "/PNG/512/Messaging/read_message-512.png",
-        "64": "/PNG/64/Messaging/read_message-64.png",
-        "24": "/PNG/24/Messaging/read_message-24.png",
-        "96": "/PNG/96/Messaging/read_message-96.png",
-        "48": "/PNG/48/Messaging/read_message-48.png"
-      }
-    }
-  },
-  {
     "id": 3835,
     "name": "record",
     "platform": "Android",
@@ -31066,37 +28457,6 @@
         "24": "/PNG/24/Editing/rectangle_stroked-24.png",
         "96": "/PNG/96/Editing/rectangle_stroked-96.png",
         "48": "/PNG/48/Editing/rectangle_stroked-48.png"
-      }
-    }
-  },
-  {
-    "id": 3150,
-    "name": "recurring_appointment",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1391770248,
-    "tags": [
-      "time",
-      "business",
-      "schedule",
-      "organize",
-      "recurring appointment",
-      "business concepts"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Messaging/recurring_appointment.svg",
-      "eps": "/EPS/Messaging/recurring_appointment.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/recurring_appointment-32.png",
-        "128": "/PNG/128/Messaging/recurring_appointment-128.png",
-        "256": "/PNG/256/Messaging/recurring_appointment-256.png",
-        "36": "/PNG/36/Messaging/recurring_appointment-36.png",
-        "512": "/PNG/512/Messaging/recurring_appointment-512.png",
-        "64": "/PNG/64/Messaging/recurring_appointment-64.png",
-        "24": "/PNG/24/Messaging/recurring_appointment-24.png",
-        "96": "/PNG/96/Messaging/recurring_appointment-96.png",
-        "48": "/PNG/48/Messaging/recurring_appointment-48.png"
       }
     }
   },
@@ -31428,46 +28788,6 @@
         "24": "/PNG/24/Media_Controls/repeat-24.png",
         "96": "/PNG/96/Media_Controls/repeat-96.png",
         "48": "/PNG/48/Media_Controls/repeat-48.png"
-      }
-    }
-  },
-  {
-    "id": 3153,
-    "name": "reply",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1391770248,
-    "tags": [
-      "send",
-      "mail",
-      "message",
-      "envelope",
-      "messaging",
-      "communication",
-      "tell",
-      "reply",
-      "communicate",
-      "comms",
-      "unread",
-      "sms",
-      "discuss",
-      "replied",
-      "sent"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Messaging/reply.svg",
-      "eps": "/EPS/Messaging/reply.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/reply-32.png",
-        "128": "/PNG/128/Messaging/reply-128.png",
-        "256": "/PNG/256/Messaging/reply-256.png",
-        "36": "/PNG/36/Messaging/reply-36.png",
-        "512": "/PNG/512/Messaging/reply-512.png",
-        "64": "/PNG/64/Messaging/reply-64.png",
-        "24": "/PNG/24/Messaging/reply-24.png",
-        "96": "/PNG/96/Messaging/reply-96.png",
-        "48": "/PNG/48/Messaging/reply-48.png"
       }
     }
   },
@@ -32021,58 +29341,6 @@
     }
   },
   {
-    "id": 5181,
-    "name": "right_footprint",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/right_footprint.svg",
-      "eps": "/EPS/Travel/right_footprint.eps",
-      "png": {
-        "32": "/PNG/32/Travel/right_footprint-32.png",
-        "128": "/PNG/128/Travel/right_footprint-128.png",
-        "256": "/PNG/256/Travel/right_footprint-256.png",
-        "36": "/PNG/36/Travel/right_footprint-36.png",
-        "512": "/PNG/512/Travel/right_footprint-512.png",
-        "64": "/PNG/64/Travel/right_footprint-64.png",
-        "24": "/PNG/24/Travel/right_footprint-24.png",
-        "96": "/PNG/96/Travel/right_footprint-96.png",
-        "48": "/PNG/48/Travel/right_footprint-48.png"
-      }
-    }
-  },
-  {
-    "id": 5182,
-    "name": "right_shoe",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/right_shoe.svg",
-      "eps": "/EPS/Travel/right_shoe.eps",
-      "png": {
-        "32": "/PNG/32/Travel/right_shoe-32.png",
-        "128": "/PNG/128/Travel/right_shoe-128.png",
-        "256": "/PNG/256/Travel/right_shoe-256.png",
-        "36": "/PNG/36/Travel/right_shoe-36.png",
-        "512": "/PNG/512/Travel/right_shoe-512.png",
-        "64": "/PNG/64/Travel/right_shoe-64.png",
-        "24": "/PNG/24/Travel/right_shoe-24.png",
-        "96": "/PNG/96/Travel/right_shoe-96.png",
-        "48": "/PNG/48/Travel/right_shoe-48.png"
-      }
-    }
-  },
-  {
     "id": 3262,
     "name": "right_up",
     "platform": "Android",
@@ -32135,32 +29403,6 @@
         "24": "/PNG/24/Arrows/right_up2-24.png",
         "96": "/PNG/96/Arrows/right_up2-96.png",
         "48": "/PNG/48/Arrows/right_up2-48.png"
-      }
-    }
-  },
-  {
-    "id": 5159,
-    "name": "ring",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/ring.svg",
-      "eps": "/EPS/Holidays/ring.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/ring-32.png",
-        "128": "/PNG/128/Holidays/ring-128.png",
-        "256": "/PNG/256/Holidays/ring-256.png",
-        "36": "/PNG/36/Holidays/ring-36.png",
-        "512": "/PNG/512/Holidays/ring-512.png",
-        "64": "/PNG/64/Holidays/ring-64.png",
-        "24": "/PNG/24/Holidays/ring-24.png",
-        "96": "/PNG/96/Holidays/ring-96.png",
-        "48": "/PNG/48/Holidays/ring-48.png"
       }
     }
   },
@@ -32274,32 +29516,6 @@
         "24": "/PNG/24/Transport/rocket-24.png",
         "96": "/PNG/96/Transport/rocket-96.png",
         "48": "/PNG/48/Transport/rocket-48.png"
-      }
-    }
-  },
-  {
-    "id": 5224,
-    "name": "rod_of_asclepius",
-    "platform": "Android",
-    "category": "Healthcare",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Healthcare/rod_of_asclepius.svg",
-      "eps": "/EPS/Healthcare/rod_of_asclepius.eps",
-      "png": {
-        "32": "/PNG/32/Healthcare/rod_of_asclepius-32.png",
-        "128": "/PNG/128/Healthcare/rod_of_asclepius-128.png",
-        "256": "/PNG/256/Healthcare/rod_of_asclepius-256.png",
-        "36": "/PNG/36/Healthcare/rod_of_asclepius-36.png",
-        "512": "/PNG/512/Healthcare/rod_of_asclepius-512.png",
-        "64": "/PNG/64/Healthcare/rod_of_asclepius-64.png",
-        "24": "/PNG/24/Healthcare/rod_of_asclepius-24.png",
-        "96": "/PNG/96/Healthcare/rod_of_asclepius-96.png",
-        "48": "/PNG/48/Healthcare/rod_of_asclepius-48.png"
       }
     }
   },
@@ -32957,32 +30173,6 @@
         "24": "/PNG/24/Animals/running_rabbit-24.png",
         "96": "/PNG/96/Animals/running_rabbit-96.png",
         "48": "/PNG/48/Animals/running_rabbit-48.png"
-      }
-    }
-  },
-  {
-    "id": 5203,
-    "name": "sad",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Messaging/sad.svg",
-      "eps": "/EPS/Messaging/sad.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/sad-32.png",
-        "128": "/PNG/128/Messaging/sad-128.png",
-        "256": "/PNG/256/Messaging/sad-256.png",
-        "36": "/PNG/36/Messaging/sad-36.png",
-        "512": "/PNG/512/Messaging/sad-512.png",
-        "64": "/PNG/64/Messaging/sad-64.png",
-        "24": "/PNG/24/Messaging/sad-24.png",
-        "96": "/PNG/96/Messaging/sad-96.png",
-        "48": "/PNG/48/Messaging/sad-48.png"
       }
     }
   },
@@ -33882,32 +31072,6 @@
     }
   },
   {
-    "id": 5192,
-    "name": "seahorse",
-    "platform": "Android",
-    "category": "Animals",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Animals/seahorse.svg",
-      "eps": "/EPS/Animals/seahorse.eps",
-      "png": {
-        "32": "/PNG/32/Animals/seahorse-32.png",
-        "128": "/PNG/128/Animals/seahorse-128.png",
-        "256": "/PNG/256/Animals/seahorse-256.png",
-        "36": "/PNG/36/Animals/seahorse-36.png",
-        "512": "/PNG/512/Animals/seahorse-512.png",
-        "64": "/PNG/64/Animals/seahorse-64.png",
-        "24": "/PNG/24/Animals/seahorse-24.png",
-        "96": "/PNG/96/Animals/seahorse-96.png",
-        "48": "/PNG/48/Animals/seahorse-48.png"
-      }
-    }
-  },
-  {
     "id": 3159,
     "name": "search",
     "platform": "Android",
@@ -33947,32 +31111,6 @@
     }
   },
   {
-    "id": 5183,
-    "name": "sea_waves",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/sea_waves.svg",
-      "eps": "/EPS/Travel/sea_waves.eps",
-      "png": {
-        "32": "/PNG/32/Travel/sea_waves-32.png",
-        "128": "/PNG/128/Travel/sea_waves-128.png",
-        "256": "/PNG/256/Travel/sea_waves-256.png",
-        "36": "/PNG/36/Travel/sea_waves-36.png",
-        "512": "/PNG/512/Travel/sea_waves-512.png",
-        "64": "/PNG/64/Travel/sea_waves-64.png",
-        "24": "/PNG/24/Travel/sea_waves-24.png",
-        "96": "/PNG/96/Travel/sea_waves-96.png",
-        "48": "/PNG/48/Travel/sea_waves-48.png"
-      }
-    }
-  },
-  {
     "id": 3193,
     "name": "sedan",
     "platform": "Android",
@@ -33997,32 +31135,6 @@
         "24": "/PNG/24/Transport/sedan-24.png",
         "96": "/PNG/96/Transport/sedan-96.png",
         "48": "/PNG/48/Transport/sedan-48.png"
-      }
-    }
-  },
-  {
-    "id": 5106,
-    "name": "self_destruct_button",
-    "platform": "Android",
-    "category": "Military",
-    "created": 1403527839,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Military/self_destruct_button.svg",
-      "eps": "/EPS/Military/self_destruct_button.eps",
-      "png": {
-        "32": "/PNG/32/Military/self_destruct_button-32.png",
-        "128": "/PNG/128/Military/self_destruct_button-128.png",
-        "256": "/PNG/256/Military/self_destruct_button-256.png",
-        "36": "/PNG/36/Military/self_destruct_button-36.png",
-        "512": "/PNG/512/Military/self_destruct_button-512.png",
-        "64": "/PNG/64/Military/self_destruct_button-64.png",
-        "24": "/PNG/24/Military/self_destruct_button-24.png",
-        "96": "/PNG/96/Military/self_destruct_button-96.png",
-        "48": "/PNG/48/Military/self_destruct_button-48.png"
       }
     }
   },
@@ -34072,43 +31184,6 @@
         "24": "/PNG/24/Shopping/sell-24.png",
         "96": "/PNG/96/Shopping/sell-96.png",
         "48": "/PNG/48/Shopping/sell-48.png"
-      }
-    }
-  },
-  {
-    "id": 3224,
-    "name": "send_file",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1391770248,
-    "tags": [
-      "file",
-      "paper",
-      "forward",
-      "arrow",
-      "data",
-      "upload",
-      "page",
-      "sheet",
-      "export",
-      "send file",
-      "move file",
-      "send page"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Messaging/send_file.svg",
-      "eps": "/EPS/Messaging/send_file.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/send_file-32.png",
-        "128": "/PNG/128/Messaging/send_file-128.png",
-        "256": "/PNG/256/Messaging/send_file-256.png",
-        "36": "/PNG/36/Messaging/send_file-36.png",
-        "512": "/PNG/512/Messaging/send_file-512.png",
-        "64": "/PNG/64/Messaging/send_file-64.png",
-        "24": "/PNG/24/Messaging/send_file-24.png",
-        "96": "/PNG/96/Messaging/send_file-96.png",
-        "48": "/PNG/48/Messaging/send_file-48.png"
       }
     }
   },
@@ -34289,32 +31364,6 @@
     }
   },
   {
-    "id": 5193,
-    "name": "shark",
-    "platform": "Android",
-    "category": "Animals",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Animals/shark.svg",
-      "eps": "/EPS/Animals/shark.eps",
-      "png": {
-        "32": "/PNG/32/Animals/shark-32.png",
-        "128": "/PNG/128/Animals/shark-128.png",
-        "256": "/PNG/256/Animals/shark-256.png",
-        "36": "/PNG/36/Animals/shark-36.png",
-        "512": "/PNG/512/Animals/shark-512.png",
-        "64": "/PNG/64/Animals/shark-64.png",
-        "24": "/PNG/24/Animals/shark-24.png",
-        "96": "/PNG/96/Animals/shark-96.png",
-        "48": "/PNG/48/Animals/shark-48.png"
-      }
-    }
-  },
-  {
     "id": 4037,
     "name": "sheep",
     "platform": "Android",
@@ -34469,32 +31518,6 @@
         "24": "/PNG/24/Clothing/shirt-24.png",
         "96": "/PNG/96/Clothing/shirt-96.png",
         "48": "/PNG/48/Clothing/shirt-48.png"
-      }
-    }
-  },
-  {
-    "id": 5186,
-    "name": "shoes",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/shoes.svg",
-      "eps": "/EPS/Travel/shoes.eps",
-      "png": {
-        "32": "/PNG/32/Travel/shoes-32.png",
-        "128": "/PNG/128/Travel/shoes-128.png",
-        "256": "/PNG/256/Travel/shoes-256.png",
-        "36": "/PNG/36/Travel/shoes-36.png",
-        "512": "/PNG/512/Travel/shoes-512.png",
-        "64": "/PNG/64/Travel/shoes-64.png",
-        "24": "/PNG/24/Travel/shoes-24.png",
-        "96": "/PNG/96/Travel/shoes-96.png",
-        "48": "/PNG/48/Travel/shoes-48.png"
       }
     }
   },
@@ -35553,58 +32576,6 @@
     }
   },
   {
-    "id": 5128,
-    "name": "sleeping_bag",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403571065,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/sleeping_bag.svg",
-      "eps": "/EPS/Travel/sleeping_bag.eps",
-      "png": {
-        "32": "/PNG/32/Travel/sleeping_bag-32.png",
-        "128": "/PNG/128/Travel/sleeping_bag-128.png",
-        "256": "/PNG/256/Travel/sleeping_bag-256.png",
-        "36": "/PNG/36/Travel/sleeping_bag-36.png",
-        "512": "/PNG/512/Travel/sleeping_bag-512.png",
-        "64": "/PNG/64/Travel/sleeping_bag-64.png",
-        "24": "/PNG/24/Travel/sleeping_bag-24.png",
-        "96": "/PNG/96/Travel/sleeping_bag-96.png",
-        "48": "/PNG/48/Travel/sleeping_bag-48.png"
-      }
-    }
-  },
-  {
-    "id": 5116,
-    "name": "sleeping_mat",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403571065,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/sleeping_mat.svg",
-      "eps": "/EPS/Travel/sleeping_mat.eps",
-      "png": {
-        "32": "/PNG/32/Travel/sleeping_mat-32.png",
-        "128": "/PNG/128/Travel/sleeping_mat-128.png",
-        "256": "/PNG/256/Travel/sleeping_mat-256.png",
-        "36": "/PNG/36/Travel/sleeping_mat-36.png",
-        "512": "/PNG/512/Travel/sleeping_mat-512.png",
-        "64": "/PNG/64/Travel/sleeping_mat-64.png",
-        "24": "/PNG/24/Travel/sleeping_mat-24.png",
-        "96": "/PNG/96/Travel/sleeping_mat-96.png",
-        "48": "/PNG/48/Travel/sleeping_mat-48.png"
-      }
-    }
-  },
-  {
     "id": 4570,
     "name": "sleeping_room",
     "platform": "Android",
@@ -35635,32 +32606,6 @@
         "24": "/PNG/24/Household/sleeping_room-24.png",
         "96": "/PNG/96/Household/sleeping_room-96.png",
         "48": "/PNG/48/Household/sleeping_room-48.png"
-      }
-    }
-  },
-  {
-    "id": 5207,
-    "name": "sleepping",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Messaging/sleepping.svg",
-      "eps": "/EPS/Messaging/sleepping.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/sleepping-32.png",
-        "128": "/PNG/128/Messaging/sleepping-128.png",
-        "256": "/PNG/256/Messaging/sleepping-256.png",
-        "36": "/PNG/36/Messaging/sleepping-36.png",
-        "512": "/PNG/512/Messaging/sleepping-512.png",
-        "64": "/PNG/64/Messaging/sleepping-64.png",
-        "24": "/PNG/24/Messaging/sleepping-24.png",
-        "96": "/PNG/96/Messaging/sleepping-96.png",
-        "48": "/PNG/48/Messaging/sleepping-48.png"
       }
     }
   },
@@ -35829,32 +32774,6 @@
         "24": "/PNG/24/Photo_Video/slr_camera2-24.png",
         "96": "/PNG/96/Photo_Video/slr_camera2-96.png",
         "48": "/PNG/48/Photo_Video/slr_camera2-48.png"
-      }
-    }
-  },
-  {
-    "id": 5113,
-    "name": "small_axe",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403571065,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/small_axe.svg",
-      "eps": "/EPS/Travel/small_axe.eps",
-      "png": {
-        "32": "/PNG/32/Travel/small_axe-32.png",
-        "128": "/PNG/128/Travel/small_axe-128.png",
-        "256": "/PNG/256/Travel/small_axe-256.png",
-        "36": "/PNG/36/Travel/small_axe-36.png",
-        "512": "/PNG/512/Travel/small_axe-512.png",
-        "64": "/PNG/64/Travel/small_axe-64.png",
-        "24": "/PNG/24/Travel/small_axe-24.png",
-        "96": "/PNG/96/Travel/small_axe-96.png",
-        "48": "/PNG/48/Travel/small_axe-48.png"
       }
     }
   },
@@ -36428,32 +33347,6 @@
     }
   },
   {
-    "id": 5226,
-    "name": "so_so",
-    "platform": "Android",
-    "category": "Hands",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Hands/so_so.svg",
-      "eps": "/EPS/Hands/so_so.eps",
-      "png": {
-        "32": "/PNG/32/Hands/so_so-32.png",
-        "128": "/PNG/128/Hands/so_so-128.png",
-        "256": "/PNG/256/Hands/so_so-256.png",
-        "36": "/PNG/36/Hands/so_so-36.png",
-        "512": "/PNG/512/Hands/so_so-512.png",
-        "64": "/PNG/64/Hands/so_so-64.png",
-        "24": "/PNG/24/Hands/so_so-24.png",
-        "96": "/PNG/96/Hands/so_so-96.png",
-        "48": "/PNG/48/Hands/so_so-48.png"
-      }
-    }
-  },
-  {
     "id": 4811,
     "name": "spade",
     "platform": "Android",
@@ -36572,43 +33465,6 @@
     }
   },
   {
-    "id": 3194,
-    "name": "speech_bubble",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1391770248,
-    "tags": [
-      "communication",
-      "talking",
-      "talk",
-      "address",
-      "speech",
-      "language",
-      "voice",
-      "oral",
-      "speaking",
-      "chat",
-      "expression",
-      "bubble"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Messaging/speech_bubble.svg",
-      "eps": "/EPS/Messaging/speech_bubble.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/speech_bubble-32.png",
-        "128": "/PNG/128/Messaging/speech_bubble-128.png",
-        "256": "/PNG/256/Messaging/speech_bubble-256.png",
-        "36": "/PNG/36/Messaging/speech_bubble-36.png",
-        "512": "/PNG/512/Messaging/speech_bubble-512.png",
-        "64": "/PNG/64/Messaging/speech_bubble-64.png",
-        "24": "/PNG/24/Messaging/speech_bubble-24.png",
-        "96": "/PNG/96/Messaging/speech_bubble-96.png",
-        "48": "/PNG/48/Messaging/speech_bubble-48.png"
-      }
-    }
-  },
-  {
     "id": 3903,
     "name": "speed",
     "platform": "Android",
@@ -36662,84 +33518,6 @@
         "24": "/PNG/24/Transport/speedometer-24.png",
         "96": "/PNG/96/Transport/speedometer-96.png",
         "48": "/PNG/48/Transport/speedometer-48.png"
-      }
-    }
-  },
-  {
-    "id": 5221,
-    "name": "sperm_bank",
-    "platform": "Android",
-    "category": "Healthcare",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Healthcare/sperm_bank.svg",
-      "eps": "/EPS/Healthcare/sperm_bank.eps",
-      "png": {
-        "32": "/PNG/32/Healthcare/sperm_bank-32.png",
-        "128": "/PNG/128/Healthcare/sperm_bank-128.png",
-        "256": "/PNG/256/Healthcare/sperm_bank-256.png",
-        "36": "/PNG/36/Healthcare/sperm_bank-36.png",
-        "512": "/PNG/512/Healthcare/sperm_bank-512.png",
-        "64": "/PNG/64/Healthcare/sperm_bank-64.png",
-        "24": "/PNG/24/Healthcare/sperm_bank-24.png",
-        "96": "/PNG/96/Healthcare/sperm_bank-96.png",
-        "48": "/PNG/48/Healthcare/sperm_bank-48.png"
-      }
-    }
-  },
-  {
-    "id": 5157,
-    "name": "spider",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/spider.svg",
-      "eps": "/EPS/Holidays/spider.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/spider-32.png",
-        "128": "/PNG/128/Holidays/spider-128.png",
-        "256": "/PNG/256/Holidays/spider-256.png",
-        "36": "/PNG/36/Holidays/spider-36.png",
-        "512": "/PNG/512/Holidays/spider-512.png",
-        "64": "/PNG/64/Holidays/spider-64.png",
-        "24": "/PNG/24/Holidays/spider-24.png",
-        "96": "/PNG/96/Holidays/spider-96.png",
-        "48": "/PNG/48/Holidays/spider-48.png"
-      }
-    }
-  },
-  {
-    "id": 5151,
-    "name": "spiderweb",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/spiderweb.svg",
-      "eps": "/EPS/Holidays/spiderweb.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/spiderweb-32.png",
-        "128": "/PNG/128/Holidays/spiderweb-128.png",
-        "256": "/PNG/256/Holidays/spiderweb-256.png",
-        "36": "/PNG/36/Holidays/spiderweb-36.png",
-        "512": "/PNG/512/Holidays/spiderweb-512.png",
-        "64": "/PNG/64/Holidays/spiderweb-64.png",
-        "24": "/PNG/24/Holidays/spiderweb-24.png",
-        "96": "/PNG/96/Holidays/spiderweb-96.png",
-        "48": "/PNG/48/Holidays/spiderweb-48.png"
       }
     }
   },
@@ -36881,32 +33659,6 @@
         "24": "/PNG/24/Photo_Video/sports_mode-24.png",
         "96": "/PNG/96/Photo_Video/sports_mode-96.png",
         "48": "/PNG/48/Photo_Video/sports_mode-48.png"
-      }
-    }
-  },
-  {
-    "id": 5246,
-    "name": "spread",
-    "platform": "Android",
-    "category": "User Interface",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/User_Interface/spread.svg",
-      "eps": "/EPS/User_Interface/spread.eps",
-      "png": {
-        "32": "/PNG/32/User_Interface/spread-32.png",
-        "128": "/PNG/128/User_Interface/spread-128.png",
-        "256": "/PNG/256/User_Interface/spread-256.png",
-        "36": "/PNG/36/User_Interface/spread-36.png",
-        "512": "/PNG/512/User_Interface/spread-512.png",
-        "64": "/PNG/64/User_Interface/spread-64.png",
-        "24": "/PNG/24/User_Interface/spread-24.png",
-        "96": "/PNG/96/User_Interface/spread-96.png",
-        "48": "/PNG/48/User_Interface/spread-48.png"
       }
     }
   },
@@ -37074,7 +33826,6 @@
     "tags": [
       "print",
       "files",
-      "audio",
       "album",
       "photos",
       "image",
@@ -37243,73 +33994,6 @@
     }
   },
   {
-    "id": 3173,
-    "name": "star",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1391770248,
-    "tags": [
-      "bookmark",
-      "mark",
-      "favorite",
-      "artist",
-      "star",
-      "pentagram",
-      "stellar",
-      "champion",
-      "hotshot",
-      "ace",
-      "player",
-      "asterisk",
-      "feature",
-      "featured",
-      "rating",
-      "share"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Messaging/star.svg",
-      "eps": "/EPS/Messaging/star.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/star-32.png",
-        "128": "/PNG/128/Messaging/star-128.png",
-        "256": "/PNG/256/Messaging/star-256.png",
-        "36": "/PNG/36/Messaging/star-36.png",
-        "512": "/PNG/512/Messaging/star-512.png",
-        "64": "/PNG/64/Messaging/star-64.png",
-        "24": "/PNG/24/Messaging/star-24.png",
-        "96": "/PNG/96/Messaging/star-96.png",
-        "48": "/PNG/48/Messaging/star-48.png"
-      }
-    }
-  },
-  {
-    "id": 5194,
-    "name": "starfish",
-    "platform": "Android",
-    "category": "Animals",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Animals/starfish.svg",
-      "eps": "/EPS/Animals/starfish.eps",
-      "png": {
-        "32": "/PNG/32/Animals/starfish-32.png",
-        "128": "/PNG/128/Animals/starfish-128.png",
-        "256": "/PNG/256/Animals/starfish-256.png",
-        "36": "/PNG/36/Animals/starfish-36.png",
-        "512": "/PNG/512/Animals/starfish-512.png",
-        "64": "/PNG/64/Animals/starfish-64.png",
-        "24": "/PNG/24/Animals/starfish-24.png",
-        "96": "/PNG/96/Animals/starfish-96.png",
-        "48": "/PNG/48/Animals/starfish-48.png"
-      }
-    }
-  },
-  {
     "id": 3279,
     "name": "start",
     "platform": "Android",
@@ -37348,58 +34032,6 @@
         "24": "/PNG/24/Photo_Video/start-24.png",
         "96": "/PNG/96/Photo_Video/start-96.png",
         "48": "/PNG/48/Photo_Video/start-48.png"
-      }
-    }
-  },
-  {
-    "id": 3330,
-    "name": "star_outline",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1391770248,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Messaging/star_outline.svg",
-      "eps": "/EPS/Messaging/star_outline.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/star_outline-32.png",
-        "128": "/PNG/128/Messaging/star_outline-128.png",
-        "256": "/PNG/256/Messaging/star_outline-256.png",
-        "36": "/PNG/36/Messaging/star_outline-36.png",
-        "512": "/PNG/512/Messaging/star_outline-512.png",
-        "64": "/PNG/64/Messaging/star_outline-64.png",
-        "24": "/PNG/24/Messaging/star_outline-24.png",
-        "96": "/PNG/96/Messaging/star_outline-96.png",
-        "48": "/PNG/48/Messaging/star_outline-48.png"
-      }
-    }
-  },
-  {
-    "id": 5093,
-    "name": "statue",
-    "platform": "Android",
-    "category": "City",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/statue.svg",
-      "eps": "/EPS/City/statue.eps",
-      "png": {
-        "32": "/PNG/32/City/statue-32.png",
-        "128": "/PNG/128/City/statue-128.png",
-        "256": "/PNG/256/City/statue-256.png",
-        "36": "/PNG/36/City/statue-36.png",
-        "512": "/PNG/512/City/statue-512.png",
-        "64": "/PNG/64/City/statue-64.png",
-        "24": "/PNG/24/City/statue-24.png",
-        "96": "/PNG/96/City/statue-96.png",
-        "48": "/PNG/48/City/statue-48.png"
       }
     }
   },
@@ -38277,58 +34909,6 @@
     }
   },
   {
-    "id": 5199,
-    "name": "surprised",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Messaging/surprised.svg",
-      "eps": "/EPS/Messaging/surprised.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/surprised-32.png",
-        "128": "/PNG/128/Messaging/surprised-128.png",
-        "256": "/PNG/256/Messaging/surprised-256.png",
-        "36": "/PNG/36/Messaging/surprised-36.png",
-        "512": "/PNG/512/Messaging/surprised-512.png",
-        "64": "/PNG/64/Messaging/surprised-64.png",
-        "24": "/PNG/24/Messaging/surprised-24.png",
-        "96": "/PNG/96/Messaging/surprised-96.png",
-        "48": "/PNG/48/Messaging/surprised-48.png"
-      }
-    }
-  },
-  {
-    "id": 5124,
-    "name": "survival_bag",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403571065,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/survival_bag.svg",
-      "eps": "/EPS/Travel/survival_bag.eps",
-      "png": {
-        "32": "/PNG/32/Travel/survival_bag-32.png",
-        "128": "/PNG/128/Travel/survival_bag-128.png",
-        "256": "/PNG/256/Travel/survival_bag-256.png",
-        "36": "/PNG/36/Travel/survival_bag-36.png",
-        "512": "/PNG/512/Travel/survival_bag-512.png",
-        "64": "/PNG/64/Travel/survival_bag-64.png",
-        "24": "/PNG/24/Travel/survival_bag-24.png",
-        "96": "/PNG/96/Travel/survival_bag-96.png",
-        "48": "/PNG/48/Travel/survival_bag-48.png"
-      }
-    }
-  },
-  {
     "id": 3348,
     "name": "suv",
     "platform": "Android",
@@ -38417,136 +34997,6 @@
         "24": "/PNG/24/Sports/swimming-24.png",
         "96": "/PNG/96/Sports/swimming-96.png",
         "48": "/PNG/48/Sports/swimming-48.png"
-      }
-    }
-  },
-  {
-    "id": 5243,
-    "name": "swipe_down",
-    "platform": "Android",
-    "category": "User Interface",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/User_Interface/swipe_down.svg",
-      "eps": "/EPS/User_Interface/swipe_down.eps",
-      "png": {
-        "32": "/PNG/32/User_Interface/swipe_down-32.png",
-        "128": "/PNG/128/User_Interface/swipe_down-128.png",
-        "256": "/PNG/256/User_Interface/swipe_down-256.png",
-        "36": "/PNG/36/User_Interface/swipe_down-36.png",
-        "512": "/PNG/512/User_Interface/swipe_down-512.png",
-        "64": "/PNG/64/User_Interface/swipe_down-64.png",
-        "24": "/PNG/24/User_Interface/swipe_down-24.png",
-        "96": "/PNG/96/User_Interface/swipe_down-96.png",
-        "48": "/PNG/48/User_Interface/swipe_down-48.png"
-      }
-    }
-  },
-  {
-    "id": 5248,
-    "name": "swipe_left",
-    "platform": "Android",
-    "category": "User Interface",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/User_Interface/swipe_left.svg",
-      "eps": "/EPS/User_Interface/swipe_left.eps",
-      "png": {
-        "32": "/PNG/32/User_Interface/swipe_left-32.png",
-        "128": "/PNG/128/User_Interface/swipe_left-128.png",
-        "256": "/PNG/256/User_Interface/swipe_left-256.png",
-        "36": "/PNG/36/User_Interface/swipe_left-36.png",
-        "512": "/PNG/512/User_Interface/swipe_left-512.png",
-        "64": "/PNG/64/User_Interface/swipe_left-64.png",
-        "24": "/PNG/24/User_Interface/swipe_left-24.png",
-        "96": "/PNG/96/User_Interface/swipe_left-96.png",
-        "48": "/PNG/48/User_Interface/swipe_left-48.png"
-      }
-    }
-  },
-  {
-    "id": 5247,
-    "name": "swipe_right",
-    "platform": "Android",
-    "category": "User Interface",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/User_Interface/swipe_right.svg",
-      "eps": "/EPS/User_Interface/swipe_right.eps",
-      "png": {
-        "32": "/PNG/32/User_Interface/swipe_right-32.png",
-        "128": "/PNG/128/User_Interface/swipe_right-128.png",
-        "256": "/PNG/256/User_Interface/swipe_right-256.png",
-        "36": "/PNG/36/User_Interface/swipe_right-36.png",
-        "512": "/PNG/512/User_Interface/swipe_right-512.png",
-        "64": "/PNG/64/User_Interface/swipe_right-64.png",
-        "24": "/PNG/24/User_Interface/swipe_right-24.png",
-        "96": "/PNG/96/User_Interface/swipe_right-96.png",
-        "48": "/PNG/48/User_Interface/swipe_right-48.png"
-      }
-    }
-  },
-  {
-    "id": 5245,
-    "name": "swipe_up",
-    "platform": "Android",
-    "category": "User Interface",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/User_Interface/swipe_up.svg",
-      "eps": "/EPS/User_Interface/swipe_up.eps",
-      "png": {
-        "32": "/PNG/32/User_Interface/swipe_up-32.png",
-        "128": "/PNG/128/User_Interface/swipe_up-128.png",
-        "256": "/PNG/256/User_Interface/swipe_up-256.png",
-        "36": "/PNG/36/User_Interface/swipe_up-36.png",
-        "512": "/PNG/512/User_Interface/swipe_up-512.png",
-        "64": "/PNG/64/User_Interface/swipe_up-64.png",
-        "24": "/PNG/24/User_Interface/swipe_up-24.png",
-        "96": "/PNG/96/User_Interface/swipe_up-96.png",
-        "48": "/PNG/48/User_Interface/swipe_up-48.png"
-      }
-    }
-  },
-  {
-    "id": 5123,
-    "name": "swiss_army_knife",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403571065,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/swiss_army_knife.svg",
-      "eps": "/EPS/Travel/swiss_army_knife.eps",
-      "png": {
-        "32": "/PNG/32/Travel/swiss_army_knife-32.png",
-        "128": "/PNG/128/Travel/swiss_army_knife-128.png",
-        "256": "/PNG/256/Travel/swiss_army_knife-256.png",
-        "36": "/PNG/36/Travel/swiss_army_knife-36.png",
-        "512": "/PNG/512/Travel/swiss_army_knife-512.png",
-        "64": "/PNG/64/Travel/swiss_army_knife-64.png",
-        "24": "/PNG/24/Travel/swiss_army_knife-24.png",
-        "96": "/PNG/96/Travel/swiss_army_knife-96.png",
-        "48": "/PNG/48/Travel/swiss_army_knife-48.png"
       }
     }
   },
@@ -39095,32 +35545,6 @@
     }
   },
   {
-    "id": 5237,
-    "name": "tap",
-    "platform": "Android",
-    "category": "User Interface",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/User_Interface/tap.svg",
-      "eps": "/EPS/User_Interface/tap.eps",
-      "png": {
-        "32": "/PNG/32/User_Interface/tap-32.png",
-        "128": "/PNG/128/User_Interface/tap-128.png",
-        "256": "/PNG/256/User_Interface/tap-256.png",
-        "36": "/PNG/36/User_Interface/tap-36.png",
-        "512": "/PNG/512/User_Interface/tap-512.png",
-        "64": "/PNG/64/User_Interface/tap-64.png",
-        "24": "/PNG/24/User_Interface/tap-24.png",
-        "96": "/PNG/96/User_Interface/tap-96.png",
-        "48": "/PNG/48/User_Interface/tap-48.png"
-      }
-    }
-  },
-  {
     "id": 4509,
     "name": "taurus",
     "platform": "Android",
@@ -39570,32 +35994,6 @@
     }
   },
   {
-    "id": 5229,
-    "name": "three_fingers",
-    "platform": "Android",
-    "category": "Hands",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Hands/three_fingers.svg",
-      "eps": "/EPS/Hands/three_fingers.eps",
-      "png": {
-        "32": "/PNG/32/Hands/three_fingers-32.png",
-        "128": "/PNG/128/Hands/three_fingers-128.png",
-        "256": "/PNG/256/Hands/three_fingers-256.png",
-        "36": "/PNG/36/Hands/three_fingers-36.png",
-        "512": "/PNG/512/Hands/three_fingers-512.png",
-        "64": "/PNG/64/Hands/three_fingers-64.png",
-        "24": "/PNG/24/Hands/three_fingers-24.png",
-        "96": "/PNG/96/Hands/three_fingers-96.png",
-        "48": "/PNG/48/Hands/three_fingers-48.png"
-      }
-    }
-  },
-  {
     "id": 4443,
     "name": "three_leafs_clover",
     "platform": "Android",
@@ -39646,58 +36044,6 @@
         "24": "/PNG/24/Gaming/three_leafs_clover-24.png",
         "96": "/PNG/96/Gaming/three_leafs_clover-96.png",
         "48": "/PNG/48/Gaming/three_leafs_clover-48.png"
-      }
-    }
-  },
-  {
-    "id": 5235,
-    "name": "thunbs_down",
-    "platform": "Android",
-    "category": "Hands",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Hands/thunbs_down.svg",
-      "eps": "/EPS/Hands/thunbs_down.eps",
-      "png": {
-        "32": "/PNG/32/Hands/thunbs_down-32.png",
-        "128": "/PNG/128/Hands/thunbs_down-128.png",
-        "256": "/PNG/256/Hands/thunbs_down-256.png",
-        "36": "/PNG/36/Hands/thunbs_down-36.png",
-        "512": "/PNG/512/Hands/thunbs_down-512.png",
-        "64": "/PNG/64/Hands/thunbs_down-64.png",
-        "24": "/PNG/24/Hands/thunbs_down-24.png",
-        "96": "/PNG/96/Hands/thunbs_down-96.png",
-        "48": "/PNG/48/Hands/thunbs_down-48.png"
-      }
-    }
-  },
-  {
-    "id": 5236,
-    "name": "thunbs_up",
-    "platform": "Android",
-    "category": "Hands",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Hands/thunbs_up.svg",
-      "eps": "/EPS/Hands/thunbs_up.eps",
-      "png": {
-        "32": "/PNG/32/Hands/thunbs_up-32.png",
-        "128": "/PNG/128/Hands/thunbs_up-128.png",
-        "256": "/PNG/256/Hands/thunbs_up-256.png",
-        "36": "/PNG/36/Hands/thunbs_up-36.png",
-        "512": "/PNG/512/Hands/thunbs_up-512.png",
-        "64": "/PNG/64/Hands/thunbs_up-64.png",
-        "24": "/PNG/24/Hands/thunbs_up-24.png",
-        "96": "/PNG/96/Hands/thunbs_up-96.png",
-        "48": "/PNG/48/Hands/thunbs_up-48.png"
       }
     }
   },
@@ -40954,32 +37300,6 @@
     }
   },
   {
-    "id": 5092,
-    "name": "tollbooth",
-    "platform": "Android",
-    "category": "City",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/tollbooth.svg",
-      "eps": "/EPS/City/tollbooth.eps",
-      "png": {
-        "32": "/PNG/32/City/tollbooth-32.png",
-        "128": "/PNG/128/City/tollbooth-128.png",
-        "256": "/PNG/256/City/tollbooth-256.png",
-        "36": "/PNG/36/City/tollbooth-36.png",
-        "512": "/PNG/512/City/tollbooth-512.png",
-        "64": "/PNG/64/City/tollbooth-64.png",
-        "24": "/PNG/24/City/tollbooth-24.png",
-        "96": "/PNG/96/City/tollbooth-96.png",
-        "48": "/PNG/48/City/tollbooth-48.png"
-      }
-    }
-  },
-  {
     "id": 4478,
     "name": "tomato",
     "platform": "Android",
@@ -41003,58 +37323,6 @@
         "24": "/PNG/24/Plants/tomato-24.png",
         "96": "/PNG/96/Plants/tomato-96.png",
         "48": "/PNG/48/Plants/tomato-48.png"
-      }
-    }
-  },
-  {
-    "id": 5201,
-    "name": "tongue",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Messaging/tongue.svg",
-      "eps": "/EPS/Messaging/tongue.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/tongue-32.png",
-        "128": "/PNG/128/Messaging/tongue-128.png",
-        "256": "/PNG/256/Messaging/tongue-256.png",
-        "36": "/PNG/36/Messaging/tongue-36.png",
-        "512": "/PNG/512/Messaging/tongue-512.png",
-        "64": "/PNG/64/Messaging/tongue-64.png",
-        "24": "/PNG/24/Messaging/tongue-24.png",
-        "96": "/PNG/96/Messaging/tongue-96.png",
-        "48": "/PNG/48/Messaging/tongue-48.png"
-      }
-    }
-  },
-  {
-    "id": 5220,
-    "name": "tooth",
-    "platform": "Android",
-    "category": "Healthcare",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Healthcare/tooth.svg",
-      "eps": "/EPS/Healthcare/tooth.eps",
-      "png": {
-        "32": "/PNG/32/Healthcare/tooth-32.png",
-        "128": "/PNG/128/Healthcare/tooth-128.png",
-        "256": "/PNG/256/Healthcare/tooth-256.png",
-        "36": "/PNG/36/Healthcare/tooth-36.png",
-        "512": "/PNG/512/Healthcare/tooth-512.png",
-        "64": "/PNG/64/Healthcare/tooth-64.png",
-        "24": "/PNG/24/Healthcare/tooth-24.png",
-        "96": "/PNG/96/Healthcare/tooth-96.png",
-        "48": "/PNG/48/Healthcare/tooth-48.png"
       }
     }
   },
@@ -41471,32 +37739,6 @@
         "24": "/PNG/24/Transport/tram-24.png",
         "96": "/PNG/96/Transport/tram-96.png",
         "48": "/PNG/48/Transport/tram-48.png"
-      }
-    }
-  },
-  {
-    "id": 5130,
-    "name": "trangia_stove",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403571065,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/trangia_stove.svg",
-      "eps": "/EPS/Travel/trangia_stove.eps",
-      "png": {
-        "32": "/PNG/32/Travel/trangia_stove-32.png",
-        "128": "/PNG/128/Travel/trangia_stove-128.png",
-        "256": "/PNG/256/Travel/trangia_stove-256.png",
-        "36": "/PNG/36/Travel/trangia_stove-36.png",
-        "512": "/PNG/512/Travel/trangia_stove-512.png",
-        "64": "/PNG/64/Travel/trangia_stove-64.png",
-        "24": "/PNG/24/Travel/trangia_stove-24.png",
-        "96": "/PNG/96/Travel/trangia_stove-96.png",
-        "48": "/PNG/48/Travel/trangia_stove-48.png"
       }
     }
   },
@@ -42320,136 +38562,6 @@
     }
   },
   {
-    "id": 5231,
-    "name": "two_fingers",
-    "platform": "Android",
-    "category": "Hands",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Hands/two_fingers.svg",
-      "eps": "/EPS/Hands/two_fingers.eps",
-      "png": {
-        "32": "/PNG/32/Hands/two_fingers-32.png",
-        "128": "/PNG/128/Hands/two_fingers-128.png",
-        "256": "/PNG/256/Hands/two_fingers-256.png",
-        "36": "/PNG/36/Hands/two_fingers-36.png",
-        "512": "/PNG/512/Hands/two_fingers-512.png",
-        "64": "/PNG/64/Hands/two_fingers-64.png",
-        "24": "/PNG/24/Hands/two_fingers-24.png",
-        "96": "/PNG/96/Hands/two_fingers-96.png",
-        "48": "/PNG/48/Hands/two_fingers-48.png"
-      }
-    }
-  },
-  {
-    "id": 5250,
-    "name": "two_finger_double_tap",
-    "platform": "Android",
-    "category": "User Interface",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/User_Interface/two_finger_double_tap.svg",
-      "eps": "/EPS/User_Interface/two_finger_double_tap.eps",
-      "png": {
-        "32": "/PNG/32/User_Interface/two_finger_double_tap-32.png",
-        "128": "/PNG/128/User_Interface/two_finger_double_tap-128.png",
-        "256": "/PNG/256/User_Interface/two_finger_double_tap-256.png",
-        "36": "/PNG/36/User_Interface/two_finger_double_tap-36.png",
-        "512": "/PNG/512/User_Interface/two_finger_double_tap-512.png",
-        "64": "/PNG/64/User_Interface/two_finger_double_tap-64.png",
-        "24": "/PNG/24/User_Interface/two_finger_double_tap-24.png",
-        "96": "/PNG/96/User_Interface/two_finger_double_tap-96.png",
-        "48": "/PNG/48/User_Interface/two_finger_double_tap-48.png"
-      }
-    }
-  },
-  {
-    "id": 5244,
-    "name": "two_finger_tap",
-    "platform": "Android",
-    "category": "User Interface",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/User_Interface/two_finger_tap.svg",
-      "eps": "/EPS/User_Interface/two_finger_tap.eps",
-      "png": {
-        "32": "/PNG/32/User_Interface/two_finger_tap-32.png",
-        "128": "/PNG/128/User_Interface/two_finger_tap-128.png",
-        "256": "/PNG/256/User_Interface/two_finger_tap-256.png",
-        "36": "/PNG/36/User_Interface/two_finger_tap-36.png",
-        "512": "/PNG/512/User_Interface/two_finger_tap-512.png",
-        "64": "/PNG/64/User_Interface/two_finger_tap-64.png",
-        "24": "/PNG/24/User_Interface/two_finger_tap-24.png",
-        "96": "/PNG/96/User_Interface/two_finger_tap-96.png",
-        "48": "/PNG/48/User_Interface/two_finger_tap-48.png"
-      }
-    }
-  },
-  {
-    "id": 5233,
-    "name": "two_hands",
-    "platform": "Android",
-    "category": "Hands",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Hands/two_hands.svg",
-      "eps": "/EPS/Hands/two_hands.eps",
-      "png": {
-        "32": "/PNG/32/Hands/two_hands-32.png",
-        "128": "/PNG/128/Hands/two_hands-128.png",
-        "256": "/PNG/256/Hands/two_hands-256.png",
-        "36": "/PNG/36/Hands/two_hands-36.png",
-        "512": "/PNG/512/Hands/two_hands-512.png",
-        "64": "/PNG/64/Hands/two_hands-64.png",
-        "24": "/PNG/24/Hands/two_hands-24.png",
-        "96": "/PNG/96/Hands/two_hands-96.png",
-        "48": "/PNG/48/Hands/two_hands-48.png"
-      }
-    }
-  },
-  {
-    "id": 5144,
-    "name": "two_hearts",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/two_hearts.svg",
-      "eps": "/EPS/Holidays/two_hearts.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/two_hearts-32.png",
-        "128": "/PNG/128/Holidays/two_hearts-128.png",
-        "256": "/PNG/256/Holidays/two_hearts-256.png",
-        "36": "/PNG/36/Holidays/two_hearts-36.png",
-        "512": "/PNG/512/Holidays/two_hearts-512.png",
-        "64": "/PNG/64/Holidays/two_hearts-64.png",
-        "24": "/PNG/24/Holidays/two_hearts-24.png",
-        "96": "/PNG/96/Holidays/two_hearts-96.png",
-        "48": "/PNG/48/Holidays/two_hearts-48.png"
-      }
-    }
-  },
-  {
     "id": 4304,
     "name": "two_smartphones",
     "platform": "Android",
@@ -42493,25 +38605,13 @@
     "category": "Editing",
     "created": 1398905484,
     "tags": [
-      "design",
-      "copy",
-      "writing",
-      "line",
-      "information",
       "language",
       "word",
       "symbol",
-      "hint",
       "graphic",
       "sign",
-      "warning",
-      "contact",
       "logo",
       "letter",
-      "black",
-      "size",
-      "color",
-      "layout",
       "shape",
       "type",
       "font",
@@ -42519,14 +38619,10 @@
       "english",
       "u",
       "turn",
-      "front",
       "texture",
       "underscore",
-      "grammar",
       "underline",
-      "vowel",
-      "unique",
-      "spell"
+      "vowel"
     ],
     "copyright": false,
     "files": {
@@ -42858,28 +38954,20 @@
     "category": "Users",
     "created": 1391770248,
     "tags": [
-      "folder",
-      "info",
-      "key",
-      "folders",
       "people",
-      "money",
+      "smile",
+      "happy",
       "person",
       "head",
       "name",
       "contact",
-      "man",
-      "woman",
       "employee",
       "electronic",
-      "portrait",
       "avatar",
-      "plane",
       "headshot",
       "anonymous",
       "profile picture",
       "reader",
-      "text balloon",
       "user search",
       "user"
     ],
@@ -43018,32 +39106,6 @@
         "24": "/PNG/24/Travel/us_capitol-24.png",
         "96": "/PNG/96/Travel/us_capitol-96.png",
         "48": "/PNG/48/Travel/us_capitol-48.png"
-      }
-    }
-  },
-  {
-    "id": 5145,
-    "name": "vampire",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/vampire.svg",
-      "eps": "/EPS/Holidays/vampire.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/vampire-32.png",
-        "128": "/PNG/128/Holidays/vampire-128.png",
-        "256": "/PNG/256/Holidays/vampire-256.png",
-        "36": "/PNG/36/Holidays/vampire-36.png",
-        "512": "/PNG/512/Holidays/vampire-512.png",
-        "64": "/PNG/64/Holidays/vampire-64.png",
-        "24": "/PNG/24/Holidays/vampire-24.png",
-        "96": "/PNG/96/Holidays/vampire-96.png",
-        "48": "/PNG/48/Holidays/vampire-48.png"
       }
     }
   },
@@ -43224,10 +39286,7 @@
       "image",
       "photo",
       "camera",
-      "computer",
-      "technology",
       "shot",
-      "computer equipment",
       "mobile phone",
       "conference phone",
       "telecommunications equipment",
@@ -43439,38 +39498,6 @@
     }
   },
   {
-    "id": 3270,
-    "name": "visible",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1391770248,
-    "tags": [
-      "see",
-      "confirmed",
-      "view",
-      "eye",
-      "visible",
-      "invisible",
-      "disabled"
-    ],
-    "copyright": false,
-    "files": {
-      "svg.simplified": "/SVG_for_Font/Messaging/visible.svg",
-      "eps": "/EPS/Messaging/visible.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/visible-32.png",
-        "128": "/PNG/128/Messaging/visible-128.png",
-        "256": "/PNG/256/Messaging/visible-256.png",
-        "36": "/PNG/36/Messaging/visible-36.png",
-        "512": "/PNG/512/Messaging/visible-512.png",
-        "64": "/PNG/64/Messaging/visible-64.png",
-        "24": "/PNG/24/Messaging/visible-24.png",
-        "96": "/PNG/96/Messaging/visible-96.png",
-        "48": "/PNG/48/Messaging/visible-48.png"
-      }
-    }
-  },
-  {
     "id": 3863,
     "name": "vk.com",
     "platform": "Android",
@@ -43521,32 +39548,6 @@
         "24": "/PNG/24/Network/voip_gateway-24.png",
         "96": "/PNG/96/Network/voip_gateway-96.png",
         "48": "/PNG/48/Network/voip_gateway-48.png"
-      }
-    }
-  },
-  {
-    "id": 5098,
-    "name": "volleyball",
-    "platform": "Android",
-    "category": "Sports",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Sports/volleyball.svg",
-      "eps": "/EPS/Sports/volleyball.eps",
-      "png": {
-        "32": "/PNG/32/Sports/volleyball-32.png",
-        "128": "/PNG/128/Sports/volleyball-128.png",
-        "256": "/PNG/256/Sports/volleyball-256.png",
-        "36": "/PNG/36/Sports/volleyball-36.png",
-        "512": "/PNG/512/Sports/volleyball-512.png",
-        "64": "/PNG/64/Sports/volleyball-64.png",
-        "24": "/PNG/24/Sports/volleyball-24.png",
-        "96": "/PNG/96/Sports/volleyball-96.png",
-        "48": "/PNG/48/Sports/volleyball-48.png"
       }
     }
   },
@@ -43738,32 +39739,6 @@
         "24": "/PNG/24/Sports/walking-24.png",
         "96": "/PNG/96/Sports/walking-96.png",
         "48": "/PNG/48/Sports/walking-48.png"
-      }
-    }
-  },
-  {
-    "id": 5125,
-    "name": "walking_bridge",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403571065,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/walking_bridge.svg",
-      "eps": "/EPS/Travel/walking_bridge.eps",
-      "png": {
-        "32": "/PNG/32/Travel/walking_bridge-32.png",
-        "128": "/PNG/128/Travel/walking_bridge-128.png",
-        "256": "/PNG/256/Travel/walking_bridge-256.png",
-        "36": "/PNG/36/Travel/walking_bridge-36.png",
-        "512": "/PNG/512/Travel/walking_bridge-512.png",
-        "64": "/PNG/64/Travel/walking_bridge-64.png",
-        "24": "/PNG/24/Travel/walking_bridge-24.png",
-        "96": "/PNG/96/Travel/walking_bridge-96.png",
-        "48": "/PNG/48/Travel/walking_bridge-48.png"
       }
     }
   },
@@ -44121,32 +40096,6 @@
     }
   },
   {
-    "id": 5118,
-    "name": "waterfall",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403571065,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/waterfall.svg",
-      "eps": "/EPS/Travel/waterfall.eps",
-      "png": {
-        "32": "/PNG/32/Travel/waterfall-32.png",
-        "128": "/PNG/128/Travel/waterfall-128.png",
-        "256": "/PNG/256/Travel/waterfall-256.png",
-        "36": "/PNG/36/Travel/waterfall-36.png",
-        "512": "/PNG/512/Travel/waterfall-512.png",
-        "64": "/PNG/64/Travel/waterfall-64.png",
-        "24": "/PNG/24/Travel/waterfall-24.png",
-        "96": "/PNG/96/Travel/waterfall-96.png",
-        "48": "/PNG/48/Travel/waterfall-48.png"
-      }
-    }
-  },
-  {
     "id": 4802,
     "name": "watering_can",
     "platform": "Android",
@@ -44170,32 +40119,6 @@
         "24": "/PNG/24/DIY/watering_can-24.png",
         "96": "/PNG/96/DIY/watering_can-96.png",
         "48": "/PNG/48/DIY/watering_can-48.png"
-      }
-    }
-  },
-  {
-    "id": 5114,
-    "name": "water_bottle",
-    "platform": "Android",
-    "category": "Travel",
-    "created": 1403571065,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/water_bottle.svg",
-      "eps": "/EPS/Travel/water_bottle.eps",
-      "png": {
-        "32": "/PNG/32/Travel/water_bottle-32.png",
-        "128": "/PNG/128/Travel/water_bottle-128.png",
-        "256": "/PNG/256/Travel/water_bottle-256.png",
-        "36": "/PNG/36/Travel/water_bottle-36.png",
-        "512": "/PNG/512/Travel/water_bottle-512.png",
-        "64": "/PNG/64/Travel/water_bottle-64.png",
-        "24": "/PNG/24/Travel/water_bottle-24.png",
-        "96": "/PNG/96/Travel/water_bottle-96.png",
-        "48": "/PNG/48/Travel/water_bottle-48.png"
       }
     }
   },
@@ -44354,32 +40277,6 @@
         "24": "/PNG/24/City/water_park-24.png",
         "96": "/PNG/96/City/water_park-96.png",
         "48": "/PNG/48/City/water_park-48.png"
-      }
-    }
-  },
-  {
-    "id": 5085,
-    "name": "water_tower",
-    "platform": "Android",
-    "category": "City",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/water_tower.svg",
-      "eps": "/EPS/City/water_tower.eps",
-      "png": {
-        "32": "/PNG/32/City/water_tower-32.png",
-        "128": "/PNG/128/City/water_tower-128.png",
-        "256": "/PNG/256/City/water_tower-256.png",
-        "36": "/PNG/36/City/water_tower-36.png",
-        "512": "/PNG/512/City/water_tower-512.png",
-        "64": "/PNG/64/City/water_tower-64.png",
-        "24": "/PNG/24/City/water_tower-24.png",
-        "96": "/PNG/96/City/water_tower-96.png",
-        "48": "/PNG/48/City/water_tower-48.png"
       }
     }
   },
@@ -44649,110 +40546,6 @@
     }
   },
   {
-    "id": 5162,
-    "name": "wedding_cake",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/wedding_cake.svg",
-      "eps": "/EPS/Holidays/wedding_cake.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/wedding_cake-32.png",
-        "128": "/PNG/128/Holidays/wedding_cake-128.png",
-        "256": "/PNG/256/Holidays/wedding_cake-256.png",
-        "36": "/PNG/36/Holidays/wedding_cake-36.png",
-        "512": "/PNG/512/Holidays/wedding_cake-512.png",
-        "64": "/PNG/64/Holidays/wedding_cake-64.png",
-        "24": "/PNG/24/Holidays/wedding_cake-24.png",
-        "96": "/PNG/96/Holidays/wedding_cake-96.png",
-        "48": "/PNG/48/Holidays/wedding_cake-48.png"
-      }
-    }
-  },
-  {
-    "id": 5160,
-    "name": "wedding_day",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/wedding_day.svg",
-      "eps": "/EPS/Holidays/wedding_day.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/wedding_day-32.png",
-        "128": "/PNG/128/Holidays/wedding_day-128.png",
-        "256": "/PNG/256/Holidays/wedding_day-256.png",
-        "36": "/PNG/36/Holidays/wedding_day-36.png",
-        "512": "/PNG/512/Holidays/wedding_day-512.png",
-        "64": "/PNG/64/Holidays/wedding_day-64.png",
-        "24": "/PNG/24/Holidays/wedding_day-24.png",
-        "96": "/PNG/96/Holidays/wedding_day-96.png",
-        "48": "/PNG/48/Holidays/wedding_day-48.png"
-      }
-    }
-  },
-  {
-    "id": 5152,
-    "name": "wedding_photo",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/wedding_photo.svg",
-      "eps": "/EPS/Holidays/wedding_photo.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/wedding_photo-32.png",
-        "128": "/PNG/128/Holidays/wedding_photo-128.png",
-        "256": "/PNG/256/Holidays/wedding_photo-256.png",
-        "36": "/PNG/36/Holidays/wedding_photo-36.png",
-        "512": "/PNG/512/Holidays/wedding_photo-512.png",
-        "64": "/PNG/64/Holidays/wedding_photo-64.png",
-        "24": "/PNG/24/Holidays/wedding_photo-24.png",
-        "96": "/PNG/96/Holidays/wedding_photo-96.png",
-        "48": "/PNG/48/Holidays/wedding_photo-48.png"
-      }
-    }
-  },
-  {
-    "id": 5161,
-    "name": "wedding_rings",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/wedding_rings.svg",
-      "eps": "/EPS/Holidays/wedding_rings.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/wedding_rings-32.png",
-        "128": "/PNG/128/Holidays/wedding_rings-128.png",
-        "256": "/PNG/256/Holidays/wedding_rings-256.png",
-        "36": "/PNG/36/Holidays/wedding_rings-36.png",
-        "512": "/PNG/512/Holidays/wedding_rings-512.png",
-        "64": "/PNG/64/Holidays/wedding_rings-64.png",
-        "24": "/PNG/24/Holidays/wedding_rings-24.png",
-        "96": "/PNG/96/Holidays/wedding_rings-96.png",
-        "48": "/PNG/48/Holidays/wedding_rings-48.png"
-      }
-    }
-  },
-  {
     "id": 3904,
     "name": "weight",
     "platform": "Android",
@@ -44855,32 +40648,6 @@
     }
   },
   {
-    "id": 5163,
-    "name": "werewolf",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/werewolf.svg",
-      "eps": "/EPS/Holidays/werewolf.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/werewolf-32.png",
-        "128": "/PNG/128/Holidays/werewolf-128.png",
-        "256": "/PNG/256/Holidays/werewolf-256.png",
-        "36": "/PNG/36/Holidays/werewolf-36.png",
-        "512": "/PNG/512/Holidays/werewolf-512.png",
-        "64": "/PNG/64/Holidays/werewolf-64.png",
-        "24": "/PNG/24/Holidays/werewolf-24.png",
-        "96": "/PNG/96/Holidays/werewolf-96.png",
-        "48": "/PNG/48/Holidays/werewolf-48.png"
-      }
-    }
-  },
-  {
     "id": 4383,
     "name": "western",
     "platform": "Android",
@@ -44975,32 +40742,6 @@
         "24": "/PNG/24/Maps/west_direction-24.png",
         "96": "/PNG/96/Maps/west_direction-96.png",
         "48": "/PNG/48/Maps/west_direction-48.png"
-      }
-    }
-  },
-  {
-    "id": 5080,
-    "name": "wharf",
-    "platform": "Android",
-    "category": "City",
-    "created": 1403311877,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/City/wharf.svg",
-      "eps": "/EPS/City/wharf.eps",
-      "png": {
-        "32": "/PNG/32/City/wharf-32.png",
-        "128": "/PNG/128/City/wharf-128.png",
-        "256": "/PNG/256/City/wharf-256.png",
-        "36": "/PNG/36/City/wharf-36.png",
-        "512": "/PNG/512/City/wharf-512.png",
-        "64": "/PNG/64/City/wharf-64.png",
-        "24": "/PNG/24/City/wharf-24.png",
-        "96": "/PNG/96/City/wharf-96.png",
-        "48": "/PNG/48/City/wharf-48.png"
       }
     }
   },
@@ -45134,32 +40875,6 @@
         "24": "/PNG/24/Healthcare/wheelchair-24.png",
         "96": "/PNG/96/Healthcare/wheelchair-96.png",
         "48": "/PNG/48/Healthcare/wheelchair-48.png"
-      }
-    }
-  },
-  {
-    "id": 5234,
-    "name": "whole_hand",
-    "platform": "Android",
-    "category": "Hands",
-    "created": 1403830274,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Hands/whole_hand.svg",
-      "eps": "/EPS/Hands/whole_hand.eps",
-      "png": {
-        "32": "/PNG/32/Hands/whole_hand-32.png",
-        "128": "/PNG/128/Hands/whole_hand-128.png",
-        "256": "/PNG/256/Hands/whole_hand-256.png",
-        "36": "/PNG/36/Hands/whole_hand-36.png",
-        "512": "/PNG/512/Hands/whole_hand-512.png",
-        "64": "/PNG/64/Hands/whole_hand-64.png",
-        "24": "/PNG/24/Hands/whole_hand-24.png",
-        "96": "/PNG/96/Hands/whole_hand-96.png",
-        "48": "/PNG/48/Hands/whole_hand-48.png"
       }
     }
   },
@@ -45439,32 +41154,6 @@
     }
   },
   {
-    "id": 5202,
-    "name": "wink",
-    "platform": "Android",
-    "category": "Messaging",
-    "created": 1403787053,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Messaging/wink.svg",
-      "eps": "/EPS/Messaging/wink.eps",
-      "png": {
-        "32": "/PNG/32/Messaging/wink-32.png",
-        "128": "/PNG/128/Messaging/wink-128.png",
-        "256": "/PNG/256/Messaging/wink-256.png",
-        "36": "/PNG/36/Messaging/wink-36.png",
-        "512": "/PNG/512/Messaging/wink-512.png",
-        "64": "/PNG/64/Messaging/wink-64.png",
-        "24": "/PNG/24/Messaging/wink-24.png",
-        "96": "/PNG/96/Messaging/wink-96.png",
-        "48": "/PNG/48/Messaging/wink-48.png"
-      }
-    }
-  },
-  {
     "id": 4549,
     "name": "winter",
     "platform": "Android",
@@ -45617,58 +41306,6 @@
         "24": "/PNG/24/Healthcare/wipes-24.png",
         "96": "/PNG/96/Healthcare/wipes-96.png",
         "48": "/PNG/48/Healthcare/wipes-48.png"
-      }
-    }
-  },
-  {
-    "id": 5155,
-    "name": "witch",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/witch.svg",
-      "eps": "/EPS/Holidays/witch.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/witch-32.png",
-        "128": "/PNG/128/Holidays/witch-128.png",
-        "256": "/PNG/256/Holidays/witch-256.png",
-        "36": "/PNG/36/Holidays/witch-36.png",
-        "512": "/PNG/512/Holidays/witch-512.png",
-        "64": "/PNG/64/Holidays/witch-64.png",
-        "24": "/PNG/24/Holidays/witch-24.png",
-        "96": "/PNG/96/Holidays/witch-96.png",
-        "48": "/PNG/48/Holidays/witch-48.png"
-      }
-    }
-  },
-  {
-    "id": 5158,
-    "name": "wizard",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/wizard.svg",
-      "eps": "/EPS/Holidays/wizard.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/wizard-32.png",
-        "128": "/PNG/128/Holidays/wizard-128.png",
-        "256": "/PNG/256/Holidays/wizard-256.png",
-        "36": "/PNG/36/Holidays/wizard-36.png",
-        "512": "/PNG/512/Holidays/wizard-512.png",
-        "64": "/PNG/64/Holidays/wizard-64.png",
-        "24": "/PNG/24/Holidays/wizard-24.png",
-        "96": "/PNG/96/Holidays/wizard-96.png",
-        "48": "/PNG/48/Holidays/wizard-48.png"
       }
     }
   },
@@ -45887,40 +41524,6 @@
         "24": "/PNG/24/Maps/worldwide_location-24.png",
         "96": "/PNG/96/Maps/worldwide_location-96.png",
         "48": "/PNG/48/Maps/worldwide_location-48.png"
-      }
-    }
-  },
-  {
-    "id": 5096,
-    "name": "world_cup",
-    "platform": "Android",
-    "category": "Sports",
-    "created": 1403311877,
-    "tags": [
-      "soccer",
-      "football",
-      "award",
-      "trophy",
-      "championship",
-      "prize",
-      "brasil",
-      "brazil",
-      "worldcup"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Sports/world_cup.svg",
-      "eps": "/EPS/Sports/world_cup.eps",
-      "png": {
-        "32": "/PNG/32/Sports/world_cup-32.png",
-        "128": "/PNG/128/Sports/world_cup-128.png",
-        "256": "/PNG/256/Sports/world_cup-256.png",
-        "36": "/PNG/36/Sports/world_cup-36.png",
-        "512": "/PNG/512/Sports/world_cup-512.png",
-        "64": "/PNG/64/Sports/world_cup-64.png",
-        "24": "/PNG/24/Sports/world_cup-24.png",
-        "96": "/PNG/96/Sports/world_cup-96.png",
-        "48": "/PNG/48/Sports/world_cup-48.png"
       }
     }
   },
@@ -46587,32 +42190,6 @@
         "24": "/PNG/24/Sports/yoga-24.png",
         "96": "/PNG/96/Sports/yoga-96.png",
         "48": "/PNG/48/Sports/yoga-48.png"
-      }
-    }
-  },
-  {
-    "id": 5150,
-    "name": "zombie",
-    "platform": "Android",
-    "category": "Holidays",
-    "created": 1403657474,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Holidays/zombie.svg",
-      "eps": "/EPS/Holidays/zombie.eps",
-      "png": {
-        "32": "/PNG/32/Holidays/zombie-32.png",
-        "128": "/PNG/128/Holidays/zombie-128.png",
-        "256": "/PNG/256/Holidays/zombie-256.png",
-        "36": "/PNG/36/Holidays/zombie-36.png",
-        "512": "/PNG/512/Holidays/zombie-512.png",
-        "64": "/PNG/64/Holidays/zombie-64.png",
-        "24": "/PNG/24/Holidays/zombie-24.png",
-        "96": "/PNG/96/Holidays/zombie-96.png",
-        "48": "/PNG/48/Holidays/zombie-48.png"
       }
     }
   }
