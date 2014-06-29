@@ -362,6 +362,36 @@
     }
   },
   {
+    "id": 3263,
+    "name": "activity_feed",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1391770248,
+    "tags": [
+      "laptop",
+      "gps",
+      "activity feed",
+      "signals"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/activity_feed.SVG",
+      "svg.simplified": "/SVG_for_Font/Messaging/activity_feed.svg",
+      "eps": "/EPS/Messaging/activity_feed.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/activity_feed-32.png",
+        "128": "/PNG/128/Messaging/activity_feed-128.png",
+        "256": "/PNG/256/Messaging/activity_feed-256.png",
+        "36": "/PNG/36/Messaging/activity_feed-36.png",
+        "512": "/PNG/512/Messaging/activity_feed-512.png",
+        "64": "/PNG/64/Messaging/activity_feed-64.png",
+        "24": "/PNG/24/Messaging/activity_feed-24.png",
+        "96": "/PNG/96/Messaging/activity_feed-96.png",
+        "48": "/PNG/48/Messaging/activity_feed-48.png"
+      }
+    }
+  },
+  {
     "id": 3281,
     "name": "add_camera",
     "platform": "Android",
@@ -1551,6 +1581,54 @@
         "24": "/PNG/24/Music/applause-24.png",
         "96": "/PNG/96/Music/applause-96.png",
         "48": "/PNG/48/Music/applause-48.png"
+      }
+    }
+  },
+  {
+    "id": 3334,
+    "name": "appointment_reminders",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1391770248,
+    "tags": [
+      "alarm",
+      "calendar",
+      "year",
+      "time",
+      "hours",
+      "meeting",
+      "dating",
+      "business",
+      "appointment",
+      "bell",
+      "success",
+      "schedule",
+      "planning",
+      "event",
+      "organize",
+      "planing",
+      "personal organizer",
+      "diary",
+      "calendar date",
+      "business concepts",
+      "ring binder",
+      "appointment reminders"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/appointment_reminders.SVG",
+      "svg.simplified": "/SVG_for_Font/Messaging/appointment_reminders.svg",
+      "eps": "/EPS/Messaging/appointment_reminders.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/appointment_reminders-32.png",
+        "128": "/PNG/128/Messaging/appointment_reminders-128.png",
+        "256": "/PNG/256/Messaging/appointment_reminders-256.png",
+        "36": "/PNG/36/Messaging/appointment_reminders-36.png",
+        "512": "/PNG/512/Messaging/appointment_reminders-512.png",
+        "64": "/PNG/64/Messaging/appointment_reminders-64.png",
+        "24": "/PNG/24/Messaging/appointment_reminders-24.png",
+        "96": "/PNG/96/Messaging/appointment_reminders-96.png",
+        "48": "/PNG/48/Messaging/appointment_reminders-48.png"
       }
     }
   },
@@ -6407,6 +6485,33 @@
     }
   },
   {
+    "id": 3138,
+    "name": "categorize",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1391770248,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/categorize.SVG",
+      "svg.simplified": "/SVG_for_Font/Messaging/categorize.svg",
+      "eps": "/EPS/Messaging/categorize.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/categorize-32.png",
+        "128": "/PNG/128/Messaging/categorize-128.png",
+        "256": "/PNG/256/Messaging/categorize-256.png",
+        "36": "/PNG/36/Messaging/categorize-36.png",
+        "512": "/PNG/512/Messaging/categorize-512.png",
+        "64": "/PNG/64/Messaging/categorize-64.png",
+        "24": "/PNG/24/Messaging/categorize-24.png",
+        "96": "/PNG/96/Messaging/categorize-96.png",
+        "48": "/PNG/48/Messaging/categorize-48.png"
+      }
+    }
+  },
+  {
     "id": 4746,
     "name": "cathedral",
     "platform": "Android",
@@ -7325,6 +7430,33 @@
         "24": "/PNG/24/Christmas/christmas_ball-24.png",
         "96": "/PNG/96/Christmas/christmas_ball-96.png",
         "48": "/PNG/48/Christmas/christmas_ball-48.png"
+      }
+    }
+  },
+  {
+    "id": 5177,
+    "name": "christmas_candy",
+    "platform": "Android",
+    "category": "Christmas",
+    "created": 1403743857,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Christmas/christmas_candy.svg",
+      "svg.simplified": "/SVG_for_Font/Christmas/christmas_candy.svg",
+      "eps": "/EPS/Christmas/christmas_candy.eps",
+      "png": {
+        "32": "/PNG/32/Christmas/christmas_candy-32.png",
+        "128": "/PNG/128/Christmas/christmas_candy-128.png",
+        "256": "/PNG/256/Christmas/christmas_candy-256.png",
+        "36": "/PNG/36/Christmas/christmas_candy-36.png",
+        "512": "/PNG/512/Christmas/christmas_candy-512.png",
+        "64": "/PNG/64/Christmas/christmas_candy-64.png",
+        "24": "/PNG/24/Christmas/christmas_candy-24.png",
+        "96": "/PNG/96/Christmas/christmas_candy-96.png",
+        "48": "/PNG/48/Christmas/christmas_candy-48.png"
       }
     }
   },
@@ -15343,6 +15475,43 @@
     }
   },
   {
+    "id": 3199,
+    "name": "forward",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1391770248,
+    "tags": [
+      "forwards",
+      "forward",
+      "send",
+      "mail",
+      "message",
+      "envelope",
+      "messaging",
+      "communication",
+      "tell",
+      "discussion",
+      "reply"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/forward.SVG",
+      "svg.simplified": "/SVG_for_Font/Messaging/forward.svg",
+      "eps": "/EPS/Messaging/forward.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/forward-32.png",
+        "128": "/PNG/128/Messaging/forward-128.png",
+        "256": "/PNG/256/Messaging/forward-256.png",
+        "36": "/PNG/36/Messaging/forward-36.png",
+        "512": "/PNG/512/Messaging/forward-512.png",
+        "64": "/PNG/64/Messaging/forward-64.png",
+        "24": "/PNG/24/Messaging/forward-24.png",
+        "96": "/PNG/96/Messaging/forward-96.png",
+        "48": "/PNG/48/Messaging/forward-48.png"
+      }
+    }
+  },
+  {
     "id": 4731,
     "name": "fountain",
     "platform": "Android",
@@ -16773,6 +16942,43 @@
         "24": "/PNG/24/Maps/globe_earth-24.png",
         "96": "/PNG/96/Maps/globe_earth-96.png",
         "48": "/PNG/48/Maps/globe_earth-48.png"
+      }
+    }
+  },
+  {
+    "id": 3358,
+    "name": "gmail_login",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1391770248,
+    "tags": [
+      "mail",
+      "envelope",
+      "Facebook",
+      "buzz",
+      "login",
+      "gmail",
+      "log-in",
+      "google mail",
+      "authorization",
+      "signin",
+      "sign-in"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/gmail_login.SVG",
+      "svg.simplified": "/SVG_for_Font/Messaging/gmail_login.svg",
+      "eps": "/EPS/Messaging/gmail_login.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/gmail_login-32.png",
+        "128": "/PNG/128/Messaging/gmail_login-128.png",
+        "256": "/PNG/256/Messaging/gmail_login-256.png",
+        "36": "/PNG/36/Messaging/gmail_login-36.png",
+        "512": "/PNG/512/Messaging/gmail_login-512.png",
+        "64": "/PNG/64/Messaging/gmail_login-64.png",
+        "24": "/PNG/24/Messaging/gmail_login-24.png",
+        "96": "/PNG/96/Messaging/gmail_login-96.png",
+        "48": "/PNG/48/Messaging/gmail_login-48.png"
       }
     }
   },
@@ -18783,6 +18989,40 @@
     }
   },
   {
+    "id": 3326,
+    "name": "high_importance",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1391770248,
+    "tags": [
+      "mark",
+      "business",
+      "bus",
+      "priority",
+      "high importance",
+      "high",
+      "exclamation mark",
+      "importance"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/high_importance.SVG",
+      "svg.simplified": "/SVG_for_Font/Messaging/high_importance.svg",
+      "eps": "/EPS/Messaging/high_importance.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/high_importance-32.png",
+        "128": "/PNG/128/Messaging/high_importance-128.png",
+        "256": "/PNG/256/Messaging/high_importance-256.png",
+        "36": "/PNG/36/Messaging/high_importance-36.png",
+        "512": "/PNG/512/Messaging/high_importance-512.png",
+        "64": "/PNG/64/Messaging/high_importance-64.png",
+        "24": "/PNG/24/Messaging/high_importance-24.png",
+        "96": "/PNG/96/Messaging/high_importance-96.png",
+        "48": "/PNG/48/Messaging/high_importance-48.png"
+      }
+    }
+  },
+  {
     "id": 4397,
     "name": "historical",
     "platform": "Android",
@@ -20083,6 +20323,50 @@
         "24": "/PNG/24/Transport/interstate_truck-24.png",
         "96": "/PNG/96/Transport/interstate_truck-96.png",
         "48": "/PNG/48/Transport/interstate_truck-48.png"
+      }
+    }
+  },
+  {
+    "id": 3140,
+    "name": "invisible",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1391770248,
+    "tags": [
+      "admin",
+      "close",
+      "file",
+      "distance",
+      "view",
+      "store",
+      "eye",
+      "open",
+      "free",
+      "dropbox",
+      "visible",
+      "invisible",
+      "transfer",
+      "share",
+      "email",
+      "uploads",
+      "see",
+      "blind"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/invisible.SVG",
+      "svg.simplified": "/SVG_for_Font/Messaging/invisible.svg",
+      "eps": "/EPS/Messaging/invisible.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/invisible-32.png",
+        "128": "/PNG/128/Messaging/invisible-128.png",
+        "256": "/PNG/256/Messaging/invisible-256.png",
+        "36": "/PNG/36/Messaging/invisible-36.png",
+        "512": "/PNG/512/Messaging/invisible-512.png",
+        "64": "/PNG/64/Messaging/invisible-64.png",
+        "24": "/PNG/24/Messaging/invisible-24.png",
+        "96": "/PNG/96/Messaging/invisible-96.png",
+        "48": "/PNG/48/Messaging/invisible-48.png"
       }
     }
   },
@@ -22655,6 +22939,36 @@
     }
   },
   {
+    "id": 3128,
+    "name": "low_importance",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1391770248,
+    "tags": [
+      "mark",
+      "business",
+      "priority",
+      "importance"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/low_importance.SVG",
+      "svg.simplified": "/SVG_for_Font/Messaging/low_importance.svg",
+      "eps": "/EPS/Messaging/low_importance.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/low_importance-32.png",
+        "128": "/PNG/128/Messaging/low_importance-128.png",
+        "256": "/PNG/256/Messaging/low_importance-256.png",
+        "36": "/PNG/36/Messaging/low_importance-36.png",
+        "512": "/PNG/512/Messaging/low_importance-512.png",
+        "64": "/PNG/64/Messaging/low_importance-64.png",
+        "24": "/PNG/24/Messaging/low_importance-24.png",
+        "96": "/PNG/96/Messaging/low_importance-96.png",
+        "48": "/PNG/48/Messaging/low_importance-48.png"
+      }
+    }
+  },
+  {
     "id": 4618,
     "name": "luggage_trolley",
     "platform": "Android",
@@ -23740,6 +24054,81 @@
         "24": "/PNG/24/Very_Basic/menu-24.png",
         "96": "/PNG/96/Very_Basic/menu-96.png",
         "48": "/PNG/48/Very_Basic/menu-48.png"
+      }
+    }
+  },
+  {
+    "id": 3147,
+    "name": "message",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1391770248,
+    "tags": [
+      "home",
+      "send",
+      "mail",
+      "message",
+      "envelope",
+      "messaging",
+      "communication",
+      "tell",
+      "discussion",
+      "reply",
+      "communicate",
+      "comms"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/message.SVG",
+      "svg.simplified": "/SVG_for_Font/Messaging/message.svg",
+      "eps": "/EPS/Messaging/message.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/message-32.png",
+        "128": "/PNG/128/Messaging/message-128.png",
+        "256": "/PNG/256/Messaging/message-256.png",
+        "36": "/PNG/36/Messaging/message-36.png",
+        "512": "/PNG/512/Messaging/message-512.png",
+        "64": "/PNG/64/Messaging/message-64.png",
+        "24": "/PNG/24/Messaging/message-24.png",
+        "96": "/PNG/96/Messaging/message-96.png",
+        "48": "/PNG/48/Messaging/message-48.png"
+      }
+    }
+  },
+  {
+    "id": 3250,
+    "name": "message_outline",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1391770248,
+    "tags": [
+      "mail",
+      "message",
+      "address",
+      "letter",
+      "email",
+      "correspondence",
+      "post office",
+      "post service",
+      "e-mail'",
+      "buzz",
+      "communication"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/message_outline.SVG",
+      "svg.simplified": "/SVG_for_Font/Messaging/message_outline.svg",
+      "eps": "/EPS/Messaging/message_outline.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/message_outline-32.png",
+        "128": "/PNG/128/Messaging/message_outline-128.png",
+        "256": "/PNG/256/Messaging/message_outline-256.png",
+        "36": "/PNG/36/Messaging/message_outline-36.png",
+        "512": "/PNG/512/Messaging/message_outline-512.png",
+        "64": "/PNG/64/Messaging/message_outline-64.png",
+        "24": "/PNG/24/Messaging/message_outline-24.png",
+        "96": "/PNG/96/Messaging/message_outline-96.png",
+        "48": "/PNG/48/Messaging/message_outline-48.png"
       }
     }
   },
@@ -25735,6 +26124,33 @@
         "24": "/PNG/24/Shopping/new-24.png",
         "96": "/PNG/96/Shopping/new-96.png",
         "48": "/PNG/48/Shopping/new-48.png"
+      }
+    }
+  },
+  {
+    "id": 3165,
+    "name": "new_message",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1391770248,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/new_message.SVG",
+      "svg.simplified": "/SVG_for_Font/Messaging/new_message.svg",
+      "eps": "/EPS/Messaging/new_message.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/new_message-32.png",
+        "128": "/PNG/128/Messaging/new_message-128.png",
+        "256": "/PNG/256/Messaging/new_message-256.png",
+        "36": "/PNG/36/Messaging/new_message-36.png",
+        "512": "/PNG/512/Messaging/new_message-512.png",
+        "64": "/PNG/64/Messaging/new_message-64.png",
+        "24": "/PNG/24/Messaging/new_message-24.png",
+        "96": "/PNG/96/Messaging/new_message-96.png",
+        "48": "/PNG/48/Messaging/new_message-48.png"
       }
     }
   },
@@ -29150,6 +29566,48 @@
     }
   },
   {
+    "id": 3298,
+    "name": "private",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1391770248,
+    "tags": [
+      "mark",
+      "tools",
+      "security",
+      "internet",
+      "restricted",
+      "settings",
+      "system",
+      "network",
+      "sign",
+      "stop",
+      "hand",
+      "allow",
+      "disallow",
+      "everyone",
+      "unrestricted",
+      "choice"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/private.SVG",
+      "svg.simplified": "/SVG_for_Font/Messaging/private.svg",
+      "eps": "/EPS/Messaging/private.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/private-32.png",
+        "128": "/PNG/128/Messaging/private-128.png",
+        "256": "/PNG/256/Messaging/private-256.png",
+        "36": "/PNG/36/Messaging/private-36.png",
+        "512": "/PNG/512/Messaging/private-512.png",
+        "64": "/PNG/64/Messaging/private-64.png",
+        "24": "/PNG/24/Messaging/private-24.png",
+        "96": "/PNG/96/Messaging/private-96.png",
+        "48": "/PNG/48/Messaging/private-48.png"
+      }
+    }
+  },
+  {
     "id": 5210,
     "name": "private_emoticon",
     "platform": "Android",
@@ -30097,6 +30555,46 @@
     }
   },
   {
+    "id": 3354,
+    "name": "read_message",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1391770248,
+    "tags": [
+      "send",
+      "mail",
+      "message",
+      "envelope",
+      "messaging",
+      "communication",
+      "tell",
+      "reply",
+      "communicate",
+      "comms",
+      "read",
+      "unread",
+      "sms",
+      "discuss"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/read_message.SVG",
+      "svg.simplified": "/SVG_for_Font/Messaging/read_message.svg",
+      "eps": "/EPS/Messaging/read_message.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/read_message-32.png",
+        "128": "/PNG/128/Messaging/read_message-128.png",
+        "256": "/PNG/256/Messaging/read_message-256.png",
+        "36": "/PNG/36/Messaging/read_message-36.png",
+        "512": "/PNG/512/Messaging/read_message-512.png",
+        "64": "/PNG/64/Messaging/read_message-64.png",
+        "24": "/PNG/24/Messaging/read_message-24.png",
+        "96": "/PNG/96/Messaging/read_message-96.png",
+        "48": "/PNG/48/Messaging/read_message-48.png"
+      }
+    }
+  },
+  {
     "id": 3835,
     "name": "record",
     "platform": "Android",
@@ -30188,6 +30686,38 @@
         "24": "/PNG/24/Editing/rectangle_stroked-24.png",
         "96": "/PNG/96/Editing/rectangle_stroked-96.png",
         "48": "/PNG/48/Editing/rectangle_stroked-48.png"
+      }
+    }
+  },
+  {
+    "id": 3150,
+    "name": "recurring_appointment",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1391770248,
+    "tags": [
+      "time",
+      "business",
+      "schedule",
+      "organize",
+      "recurring appointment",
+      "business concepts"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/recurring_appointment.SVG",
+      "svg.simplified": "/SVG_for_Font/Messaging/recurring_appointment.svg",
+      "eps": "/EPS/Messaging/recurring_appointment.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/recurring_appointment-32.png",
+        "128": "/PNG/128/Messaging/recurring_appointment-128.png",
+        "256": "/PNG/256/Messaging/recurring_appointment-256.png",
+        "36": "/PNG/36/Messaging/recurring_appointment-36.png",
+        "512": "/PNG/512/Messaging/recurring_appointment-512.png",
+        "64": "/PNG/64/Messaging/recurring_appointment-64.png",
+        "24": "/PNG/24/Messaging/recurring_appointment-24.png",
+        "96": "/PNG/96/Messaging/recurring_appointment-96.png",
+        "48": "/PNG/48/Messaging/recurring_appointment-48.png"
       }
     }
   },
@@ -30519,6 +31049,47 @@
         "24": "/PNG/24/Media_Controls/repeat-24.png",
         "96": "/PNG/96/Media_Controls/repeat-96.png",
         "48": "/PNG/48/Media_Controls/repeat-48.png"
+      }
+    }
+  },
+  {
+    "id": 3153,
+    "name": "reply",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1391770248,
+    "tags": [
+      "send",
+      "mail",
+      "message",
+      "envelope",
+      "messaging",
+      "communication",
+      "tell",
+      "reply",
+      "communicate",
+      "comms",
+      "unread",
+      "sms",
+      "discuss",
+      "replied",
+      "sent"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/reply.SVG",
+      "svg.simplified": "/SVG_for_Font/Messaging/reply.svg",
+      "eps": "/EPS/Messaging/reply.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/reply-32.png",
+        "128": "/PNG/128/Messaging/reply-128.png",
+        "256": "/PNG/256/Messaging/reply-256.png",
+        "36": "/PNG/36/Messaging/reply-36.png",
+        "512": "/PNG/512/Messaging/reply-512.png",
+        "64": "/PNG/64/Messaging/reply-64.png",
+        "24": "/PNG/24/Messaging/reply-24.png",
+        "96": "/PNG/96/Messaging/reply-96.png",
+        "48": "/PNG/48/Messaging/reply-48.png"
       }
     }
   },
@@ -33108,6 +33679,44 @@
     }
   },
   {
+    "id": 3224,
+    "name": "send_file",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1391770248,
+    "tags": [
+      "file",
+      "paper",
+      "forward",
+      "arrow",
+      "data",
+      "upload",
+      "page",
+      "sheet",
+      "export",
+      "send file",
+      "move file",
+      "send page"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/send_file.SVG",
+      "svg.simplified": "/SVG_for_Font/Messaging/send_file.svg",
+      "eps": "/EPS/Messaging/send_file.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/send_file-32.png",
+        "128": "/PNG/128/Messaging/send_file-128.png",
+        "256": "/PNG/256/Messaging/send_file-256.png",
+        "36": "/PNG/36/Messaging/send_file-36.png",
+        "512": "/PNG/512/Messaging/send_file-512.png",
+        "64": "/PNG/64/Messaging/send_file-64.png",
+        "24": "/PNG/24/Messaging/send_file-24.png",
+        "96": "/PNG/96/Messaging/send_file-96.png",
+        "48": "/PNG/48/Messaging/send_file-48.png"
+      }
+    }
+  },
+  {
     "id": 4060,
     "name": "sensor",
     "platform": "Android",
@@ -35547,6 +36156,44 @@
     }
   },
   {
+    "id": 3194,
+    "name": "speech_bubble",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1391770248,
+    "tags": [
+      "talking",
+      "talk",
+      "address",
+      "speech",
+      "language",
+      "voice",
+      "oral",
+      "speaking",
+      "chat",
+      "expression",
+      "bubble",
+      "communication"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/speech_bubble.SVG",
+      "svg.simplified": "/SVG_for_Font/Messaging/speech_bubble.svg",
+      "eps": "/EPS/Messaging/speech_bubble.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/speech_bubble-32.png",
+        "128": "/PNG/128/Messaging/speech_bubble-128.png",
+        "256": "/PNG/256/Messaging/speech_bubble-256.png",
+        "36": "/PNG/36/Messaging/speech_bubble-36.png",
+        "512": "/PNG/512/Messaging/speech_bubble-512.png",
+        "64": "/PNG/64/Messaging/speech_bubble-64.png",
+        "24": "/PNG/24/Messaging/speech_bubble-24.png",
+        "96": "/PNG/96/Messaging/speech_bubble-96.png",
+        "48": "/PNG/48/Messaging/speech_bubble-48.png"
+      }
+    }
+  },
+  {
     "id": 3903,
     "name": "speed",
     "platform": "Android",
@@ -36157,6 +36804,48 @@
     }
   },
   {
+    "id": 3173,
+    "name": "star",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1391770248,
+    "tags": [
+      "bookmark",
+      "mark",
+      "favorite",
+      "artist",
+      "star",
+      "pentagram",
+      "stellar",
+      "champion",
+      "hotshot",
+      "ace",
+      "player",
+      "asterisk",
+      "feature",
+      "featured",
+      "rating",
+      "share"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/star.SVG",
+      "svg.simplified": "/SVG_for_Font/Messaging/star.svg",
+      "eps": "/EPS/Messaging/star.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/star-32.png",
+        "128": "/PNG/128/Messaging/star-128.png",
+        "256": "/PNG/256/Messaging/star-256.png",
+        "36": "/PNG/36/Messaging/star-36.png",
+        "512": "/PNG/512/Messaging/star-512.png",
+        "64": "/PNG/64/Messaging/star-64.png",
+        "24": "/PNG/24/Messaging/star-24.png",
+        "96": "/PNG/96/Messaging/star-96.png",
+        "48": "/PNG/48/Messaging/star-48.png"
+      }
+    }
+  },
+  {
     "id": 5194,
     "name": "starfish",
     "platform": "Android",
@@ -36222,6 +36911,33 @@
         "24": "/PNG/24/Photo_Video/start-24.png",
         "96": "/PNG/96/Photo_Video/start-96.png",
         "48": "/PNG/48/Photo_Video/start-48.png"
+      }
+    }
+  },
+  {
+    "id": 3330,
+    "name": "star_outline",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1391770248,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/star_outline.SVG",
+      "svg.simplified": "/SVG_for_Font/Messaging/star_outline.svg",
+      "eps": "/EPS/Messaging/star_outline.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/star_outline-32.png",
+        "128": "/PNG/128/Messaging/star_outline-128.png",
+        "256": "/PNG/256/Messaging/star_outline-256.png",
+        "36": "/PNG/36/Messaging/star_outline-36.png",
+        "512": "/PNG/512/Messaging/star_outline-512.png",
+        "64": "/PNG/64/Messaging/star_outline-64.png",
+        "24": "/PNG/24/Messaging/star_outline-24.png",
+        "96": "/PNG/96/Messaging/star_outline-96.png",
+        "48": "/PNG/48/Messaging/star_outline-48.png"
       }
     }
   },
@@ -42224,6 +42940,39 @@
         "24": "/PNG/24/Shopping/visa_copyrighted-24.png",
         "96": "/PNG/96/Shopping/visa_copyrighted-96.png",
         "48": "/PNG/48/Shopping/visa_copyrighted-48.png"
+      }
+    }
+  },
+  {
+    "id": 3270,
+    "name": "visible",
+    "platform": "Android",
+    "category": "Messaging",
+    "created": 1391770248,
+    "tags": [
+      "see",
+      "confirmed",
+      "view",
+      "eye",
+      "visible",
+      "invisible",
+      "disabled"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Messaging/visible.SVG",
+      "svg.simplified": "/SVG_for_Font/Messaging/visible.svg",
+      "eps": "/EPS/Messaging/visible.eps",
+      "png": {
+        "32": "/PNG/32/Messaging/visible-32.png",
+        "128": "/PNG/128/Messaging/visible-128.png",
+        "256": "/PNG/256/Messaging/visible-256.png",
+        "36": "/PNG/36/Messaging/visible-36.png",
+        "512": "/PNG/512/Messaging/visible-512.png",
+        "64": "/PNG/64/Messaging/visible-64.png",
+        "24": "/PNG/24/Messaging/visible-24.png",
+        "96": "/PNG/96/Messaging/visible-96.png",
+        "48": "/PNG/48/Messaging/visible-48.png"
       }
     }
   },

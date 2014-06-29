@@ -1229,7 +1229,6 @@
     "created": 1318305600,
     "tags": [
       "clock",
-      "alarm",
       "ring",
       "bells",
       "wake up",
@@ -1242,7 +1241,8 @@
       "map",
       "reminder",
       "castel",
-      "worldclock"
+      "worldclock",
+      "alarm"
     ],
     "copyright": false,
     "files": {
@@ -2175,6 +2175,51 @@
         "100": "/PNG/100/Astrology/aquarius-100.png",
         "512": "/PNG/512/Astrology/aquarius-512.png",
         "50": "/PNG/50/Astrology/aquarius-50.png"
+      }
+    }
+  },
+  {
+    "id": 5217,
+    "name": "archeology",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1403787053,
+    "tags": [
+      "broken",
+      "water",
+      "cup",
+      "travel",
+      "vase",
+      "past",
+      "art",
+      "history",
+      "shiny",
+      "ancient",
+      "traditional",
+      "urn",
+      "pot",
+      "vessel",
+      "crack",
+      "roman",
+      "culture",
+      "piller",
+      "amphora",
+      "damaged"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/archeology.svg",
+      "svg.simplified": "/SVG_for_Font/City/archeology.svg",
+      "eps": "/EPS/City/archeology.eps",
+      "png": {
+        "25": "/PNG/25/City/archeology-25.png",
+        "32": "/PNG/32/City/archeology-32.png",
+        "128": "/PNG/128/City/archeology-128.png",
+        "75": "/PNG/75/City/archeology-75.png",
+        "256": "/PNG/256/City/archeology-256.png",
+        "100": "/PNG/100/City/archeology-100.png",
+        "512": "/PNG/512/City/archeology-512.png",
+        "50": "/PNG/50/City/archeology-50.png"
       }
     }
   },
@@ -10852,6 +10897,32 @@
         "100": "/PNG/100/Plants/citrus-100.png",
         "512": "/PNG/512/Plants/citrus-512.png",
         "50": "/PNG/50/Plants/citrus-50.png"
+      }
+    }
+  },
+  {
+    "id": 5174,
+    "name": "city_bench",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1403722262,
+    "tags": [
+      "park"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/city_bench.svg",
+      "svg.simplified": "/SVG_for_Font/City/city_bench.svg",
+      "eps": "/EPS/City/city_bench.eps",
+      "png": {
+        "25": "/PNG/25/City/city_bench-25.png",
+        "32": "/PNG/32/City/city_bench-32.png",
+        "128": "/PNG/128/City/city_bench-128.png",
+        "75": "/PNG/75/City/city_bench-75.png",
+        "256": "/PNG/256/City/city_bench-256.png",
+        "100": "/PNG/100/City/city_bench-100.png",
+        "512": "/PNG/512/City/city_bench-512.png",
+        "50": "/PNG/50/City/city_bench-50.png"
       }
     }
   },
@@ -26650,6 +26721,32 @@
     }
   },
   {
+    "id": 5176,
+    "name": "halloween_candy",
+    "platform": "iPhone/iOS 7",
+    "category": "Holidays",
+    "created": 1403722262,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/halloween_candy.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/halloween_candy.svg",
+      "eps": "/EPS/Holidays/halloween_candy.eps",
+      "png": {
+        "25": "/PNG/25/Holidays/halloween_candy-25.png",
+        "32": "/PNG/32/Holidays/halloween_candy-32.png",
+        "128": "/PNG/128/Holidays/halloween_candy-128.png",
+        "75": "/PNG/75/Holidays/halloween_candy-75.png",
+        "256": "/PNG/256/Holidays/halloween_candy-256.png",
+        "100": "/PNG/100/Holidays/halloween_candy-100.png",
+        "512": "/PNG/512/Holidays/halloween_candy-512.png",
+        "50": "/PNG/50/Holidays/halloween_candy-50.png"
+      }
+    }
+  },
+  {
     "id": 1208,
     "name": "hammer",
     "platform": "iPhone/iOS 7",
@@ -30089,6 +30186,32 @@
     }
   },
   {
+    "id": 5254,
+    "name": "in_air",
+    "platform": "iPhone/iOS 7",
+    "category": "Sports",
+    "created": 1403916678,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/in_air.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/in_air.svg",
+      "eps": "/EPS/Sports/in_air.eps",
+      "png": {
+        "25": "/PNG/25/Sports/in_air-25.png",
+        "32": "/PNG/32/Sports/in_air-32.png",
+        "128": "/PNG/128/Sports/in_air-128.png",
+        "75": "/PNG/75/Sports/in_air-75.png",
+        "256": "/PNG/256/Sports/in_air-256.png",
+        "100": "/PNG/100/Sports/in_air-100.png",
+        "512": "/PNG/512/Sports/in_air-512.png",
+        "50": "/PNG/50/Sports/in_air-50.png"
+      }
+    }
+  },
+  {
     "id": 696,
     "name": "in_love",
     "platform": "iPhone/iOS 7",
@@ -30120,6 +30243,32 @@
         "100": "/PNG/100/Messaging/in_love-100.png",
         "512": "/PNG/512/Messaging/in_love-512.png",
         "50": "/PNG/50/Messaging/in_love-50.png"
+      }
+    }
+  },
+  {
+    "id": 5256,
+    "name": "in_sea",
+    "platform": "iPhone/iOS 7",
+    "category": "Sports",
+    "created": 1403916678,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/in_sea.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/in_sea.svg",
+      "eps": "/EPS/Sports/in_sea.eps",
+      "png": {
+        "25": "/PNG/25/Sports/in_sea-25.png",
+        "32": "/PNG/32/Sports/in_sea-32.png",
+        "128": "/PNG/128/Sports/in_sea-128.png",
+        "75": "/PNG/75/Sports/in_sea-75.png",
+        "256": "/PNG/256/Sports/in_sea-256.png",
+        "100": "/PNG/100/Sports/in_sea-100.png",
+        "512": "/PNG/512/Sports/in_sea-512.png",
+        "50": "/PNG/50/Sports/in_sea-50.png"
       }
     }
   },
@@ -33160,7 +33309,6 @@
       "attachment",
       "send",
       "connect",
-      "link",
       "linking",
       "chain",
       "forum",
@@ -33168,7 +33316,8 @@
       "live",
       "site",
       "fsdf",
-      "new"
+      "new",
+      "link"
     ],
     "copyright": false,
     "files": {
@@ -36766,6 +36915,52 @@
     }
   },
   {
+    "id": 5215,
+    "name": "modern_art",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1403787053,
+    "tags": [
+      "line",
+      "ink",
+      "happy",
+      "graphic",
+      "oil",
+      "layout",
+      "art",
+      "grid",
+      "element",
+      "colour",
+      "geometric",
+      "asymmetric",
+      "dream",
+      "scrapbook",
+      "tile",
+      "composition",
+      "modern art",
+      "photo album",
+      "mosaic",
+      "fine",
+      "ubuntu"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/modern_art.svg",
+      "svg.simplified": "/SVG_for_Font/City/modern_art.svg",
+      "eps": "/EPS/City/modern_art.eps",
+      "png": {
+        "25": "/PNG/25/City/modern_art-25.png",
+        "32": "/PNG/32/City/modern_art-32.png",
+        "128": "/PNG/128/City/modern_art-128.png",
+        "75": "/PNG/75/City/modern_art-75.png",
+        "256": "/PNG/256/City/modern_art-256.png",
+        "100": "/PNG/100/City/modern_art-100.png",
+        "512": "/PNG/512/City/modern_art-512.png",
+        "50": "/PNG/50/City/modern_art-50.png"
+      }
+    }
+  },
+  {
     "id": 4770,
     "name": "modern_statue",
     "platform": "iPhone/iOS 7",
@@ -39947,6 +40142,139 @@
     }
   },
   {
+    "id": 5108,
+    "name": "olympic_medal",
+    "platform": "iPhone/iOS 7",
+    "category": "Sports",
+    "created": 1403527839,
+    "tags": [
+      "world",
+      "winner",
+      "sport",
+      "silver",
+      "gold",
+      "gift",
+      "game",
+      "first",
+      "i",
+      "medal",
+      "boxing",
+      "shooting",
+      "prize",
+      "olympic",
+      "honour",
+      "winer",
+      "bronze",
+      "five rings"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/olympic_medal.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/olympic_medal.svg",
+      "eps": "/EPS/Sports/olympic_medal.eps",
+      "png": {
+        "25": "/PNG/25/Sports/olympic_medal-25.png",
+        "32": "/PNG/32/Sports/olympic_medal-32.png",
+        "128": "/PNG/128/Sports/olympic_medal-128.png",
+        "75": "/PNG/75/Sports/olympic_medal-75.png",
+        "256": "/PNG/256/Sports/olympic_medal-256.png",
+        "100": "/PNG/100/Sports/olympic_medal-100.png",
+        "512": "/PNG/512/Sports/olympic_medal-512.png",
+        "50": "/PNG/50/Sports/olympic_medal-50.png"
+      }
+    }
+  },
+  {
+    "id": 5112,
+    "name": "olympic_rings",
+    "platform": "iPhone/iOS 7",
+    "category": "Sports",
+    "created": 1403527839,
+    "tags": [
+      "games",
+      "world",
+      "winner",
+      "cup",
+      "logo",
+      "five",
+      "players",
+      "game",
+      "color",
+      "sports",
+      "identification",
+      "international",
+      "united",
+      "talent",
+      "flags",
+      "olympic",
+      "rings",
+      "continents",
+      "sportsmanship",
+      "interlaced rings"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/olympic_rings.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/olympic_rings.svg",
+      "eps": "/EPS/Sports/olympic_rings.eps",
+      "png": {
+        "25": "/PNG/25/Sports/olympic_rings-25.png",
+        "32": "/PNG/32/Sports/olympic_rings-32.png",
+        "128": "/PNG/128/Sports/olympic_rings-128.png",
+        "75": "/PNG/75/Sports/olympic_rings-75.png",
+        "256": "/PNG/256/Sports/olympic_rings-256.png",
+        "100": "/PNG/100/Sports/olympic_rings-100.png",
+        "512": "/PNG/512/Sports/olympic_rings-512.png",
+        "50": "/PNG/50/Sports/olympic_rings-50.png"
+      }
+    }
+  },
+  {
+    "id": 5110,
+    "name": "olympic_torch",
+    "platform": "iPhone/iOS 7",
+    "category": "Sports",
+    "created": 1403527839,
+    "tags": [
+      "fire",
+      "light",
+      "player",
+      "signal",
+      "night",
+      "game",
+      "famous",
+      "lit",
+      "tradition",
+      "torch",
+      "olympic",
+      "hand hold",
+      "olympic games",
+      "theft of fire",
+      "torch relay",
+      "opening ceremony",
+      "summer olympics",
+      "significant",
+      "luminous flame",
+      "safety lamp"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/olympic_torch.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/olympic_torch.svg",
+      "eps": "/EPS/Sports/olympic_torch.eps",
+      "png": {
+        "25": "/PNG/25/Sports/olympic_torch-25.png",
+        "32": "/PNG/32/Sports/olympic_torch-32.png",
+        "128": "/PNG/128/Sports/olympic_torch-128.png",
+        "75": "/PNG/75/Sports/olympic_torch-75.png",
+        "256": "/PNG/256/Sports/olympic_torch-256.png",
+        "100": "/PNG/100/Sports/olympic_torch-100.png",
+        "512": "/PNG/512/Sports/olympic_torch-512.png",
+        "50": "/PNG/50/Sports/olympic_torch-50.png"
+      }
+    }
+  },
+  {
     "id": 3545,
     "name": "omega",
     "platform": "iPhone/iOS 7",
@@ -40079,6 +40407,32 @@
         "100": "/PNG/100/Messaging/online-100.png",
         "512": "/PNG/512/Messaging/online-512.png",
         "50": "/PNG/50/Messaging/online-50.png"
+      }
+    }
+  },
+  {
+    "id": 5258,
+    "name": "on_land",
+    "platform": "iPhone/iOS 7",
+    "category": "Sports",
+    "created": 1403916678,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/on_land.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/on_land.svg",
+      "eps": "/EPS/Sports/on_land.eps",
+      "png": {
+        "25": "/PNG/25/Sports/on_land-25.png",
+        "32": "/PNG/32/Sports/on_land-32.png",
+        "128": "/PNG/128/Sports/on_land-128.png",
+        "75": "/PNG/75/Sports/on_land-75.png",
+        "256": "/PNG/256/Sports/on_land-256.png",
+        "100": "/PNG/100/Sports/on_land-100.png",
+        "512": "/PNG/512/Sports/on_land-512.png",
+        "50": "/PNG/50/Sports/on_land-50.png"
       }
     }
   },
@@ -40900,6 +41254,32 @@
         "100": "/PNG/100/Editing/paint_palette-100.png",
         "512": "/PNG/512/Editing/paint_palette-512.png",
         "50": "/PNG/50/Editing/paint_palette-50.png"
+      }
+    }
+  },
+  {
+    "id": 5170,
+    "name": "palace",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1403707866,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/palace.svg",
+      "svg.simplified": "/SVG_for_Font/City/palace.svg",
+      "eps": "/EPS/City/palace.eps",
+      "png": {
+        "25": "/PNG/25/City/palace-25.png",
+        "32": "/PNG/32/City/palace-32.png",
+        "128": "/PNG/128/City/palace-128.png",
+        "75": "/PNG/75/City/palace-75.png",
+        "256": "/PNG/256/City/palace-256.png",
+        "100": "/PNG/100/City/palace-100.png",
+        "512": "/PNG/512/City/palace-512.png",
+        "50": "/PNG/50/City/palace-50.png"
       }
     }
   },
@@ -44255,6 +44635,46 @@
     }
   },
   {
+    "id": 5219,
+    "name": "portrait",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1403787053,
+    "tags": [
+      "card",
+      "album",
+      "cool",
+      "graphic",
+      "photo",
+      "head",
+      "young",
+      "frame",
+      "style",
+      "funny",
+      "cute",
+      "colour",
+      "portrait",
+      "pattern",
+      "poster"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/portrait.svg",
+      "svg.simplified": "/SVG_for_Font/City/portrait.svg",
+      "eps": "/EPS/City/portrait.eps",
+      "png": {
+        "25": "/PNG/25/City/portrait-25.png",
+        "32": "/PNG/32/City/portrait-32.png",
+        "128": "/PNG/128/City/portrait-128.png",
+        "75": "/PNG/75/City/portrait-75.png",
+        "256": "/PNG/256/City/portrait-256.png",
+        "100": "/PNG/100/City/portrait-100.png",
+        "512": "/PNG/512/City/portrait-512.png",
+        "50": "/PNG/50/City/portrait-50.png"
+      }
+    }
+  },
+  {
     "id": 2521,
     "name": "portrait_mode",
     "platform": "iPhone/iOS 7",
@@ -44973,6 +45393,32 @@
         "100": "/PNG/100/Computer_Hardware/print-100.png",
         "512": "/PNG/512/Computer_Hardware/print-512.png",
         "50": "/PNG/50/Computer_Hardware/print-50.png"
+      }
+    }
+  },
+  {
+    "id": 5172,
+    "name": "prison",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1403707866,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/prison.svg",
+      "svg.simplified": "/SVG_for_Font/City/prison.svg",
+      "eps": "/EPS/City/prison.eps",
+      "png": {
+        "25": "/PNG/25/City/prison-25.png",
+        "32": "/PNG/32/City/prison-32.png",
+        "128": "/PNG/128/City/prison-128.png",
+        "75": "/PNG/75/City/prison-75.png",
+        "256": "/PNG/256/City/prison-256.png",
+        "100": "/PNG/100/City/prison-100.png",
+        "512": "/PNG/512/City/prison-512.png",
+        "50": "/PNG/50/City/prison-50.png"
       }
     }
   },
@@ -58269,6 +58715,32 @@
         "100": "/PNG/100/Baby/teddybear-100.png",
         "512": "/PNG/512/Baby/teddybear-512.png",
         "50": "/PNG/50/Baby/teddybear-50.png"
+      }
+    }
+  },
+  {
+    "id": 5171,
+    "name": "telescope",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1403707866,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/telescope.svg",
+      "svg.simplified": "/SVG_for_Font/City/telescope.svg",
+      "eps": "/EPS/City/telescope.eps",
+      "png": {
+        "25": "/PNG/25/City/telescope-25.png",
+        "32": "/PNG/32/City/telescope-32.png",
+        "128": "/PNG/128/City/telescope-128.png",
+        "75": "/PNG/75/City/telescope-75.png",
+        "256": "/PNG/256/City/telescope-256.png",
+        "100": "/PNG/100/City/telescope-100.png",
+        "512": "/PNG/512/City/telescope-512.png",
+        "50": "/PNG/50/City/telescope-50.png"
       }
     }
   },
