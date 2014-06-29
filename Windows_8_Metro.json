@@ -31201,6 +31201,31 @@
     }
   },
   {
+    "id": 5175,
+    "name": "halloween_candy",
+    "platform": "Windows 8/Metro",
+    "category": "Holidays",
+    "created": 1403722262,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Holidays/halloween_candy.svg",
+      "svg.simplified": "/SVG_for_Font/Holidays/halloween_candy.svg",
+      "eps": "/EPS/Holidays/halloween_candy.eps",
+      "png": {
+        "32": "/PNG/32/Holidays/halloween_candy-32.png",
+        "128": "/PNG/128/Holidays/halloween_candy-128.png",
+        "26": "/PNG/26/Holidays/halloween_candy-26.png",
+        "256": "/PNG/256/Holidays/halloween_candy-256.png",
+        "512": "/PNG/512/Holidays/halloween_candy-512.png",
+        "64": "/PNG/64/Holidays/halloween_candy-64.png",
+        "48": "/PNG/48/Holidays/halloween_candy-48.png"
+      }
+    }
+  },
+  {
     "id": 1207,
     "name": "hammer",
     "platform": "Windows 8/Metro",
@@ -34797,6 +34822,31 @@
     }
   },
   {
+    "id": 5253,
+    "name": "in_air",
+    "platform": "Windows 8/Metro",
+    "category": "Sports",
+    "created": 1403916678,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/in_air.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/in_air.svg",
+      "eps": "/EPS/Sports/in_air.eps",
+      "png": {
+        "32": "/PNG/32/Sports/in_air-32.png",
+        "128": "/PNG/128/Sports/in_air-128.png",
+        "26": "/PNG/26/Sports/in_air-26.png",
+        "256": "/PNG/256/Sports/in_air-256.png",
+        "512": "/PNG/512/Sports/in_air-512.png",
+        "64": "/PNG/64/Sports/in_air-64.png",
+        "48": "/PNG/48/Sports/in_air-48.png"
+      }
+    }
+  },
+  {
     "id": 695,
     "name": "in_love",
     "platform": "Windows 8/Metro",
@@ -34824,6 +34874,31 @@
         "512": "/PNG/512/Messaging/in_love-512.png",
         "64": "/PNG/64/Messaging/in_love-64.png",
         "48": "/PNG/48/Messaging/in_love-48.png"
+      }
+    }
+  },
+  {
+    "id": 5255,
+    "name": "in_sea",
+    "platform": "Windows 8/Metro",
+    "category": "Sports",
+    "created": 1403916678,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/in_sea.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/in_sea.svg",
+      "eps": "/EPS/Sports/in_sea.eps",
+      "png": {
+        "32": "/PNG/32/Sports/in_sea-32.png",
+        "128": "/PNG/128/Sports/in_sea-128.png",
+        "26": "/PNG/26/Sports/in_sea-26.png",
+        "256": "/PNG/256/Sports/in_sea-256.png",
+        "512": "/PNG/512/Sports/in_sea-512.png",
+        "64": "/PNG/64/Sports/in_sea-64.png",
+        "48": "/PNG/48/Sports/in_sea-48.png"
       }
     }
   },
@@ -46983,6 +47058,136 @@
     }
   },
   {
+    "id": 5107,
+    "name": "olympic_medal",
+    "platform": "Windows 8/Metro",
+    "category": "Sports",
+    "created": 1403527839,
+    "tags": [
+      "world",
+      "winner",
+      "sport",
+      "silver",
+      "gold",
+      "gift",
+      "game",
+      "first",
+      "i",
+      "medal",
+      "boxing",
+      "shooting",
+      "prize",
+      "olympic",
+      "honour",
+      "winer",
+      "bronze",
+      "five rings"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/olympic_medal.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/olympic_medal.svg",
+      "eps": "/EPS/Sports/olympic_medal.eps",
+      "png": {
+        "32": "/PNG/32/Sports/olympic_medal-32.png",
+        "128": "/PNG/128/Sports/olympic_medal-128.png",
+        "26": "/PNG/26/Sports/olympic_medal-26.png",
+        "256": "/PNG/256/Sports/olympic_medal-256.png",
+        "512": "/PNG/512/Sports/olympic_medal-512.png",
+        "64": "/PNG/64/Sports/olympic_medal-64.png",
+        "48": "/PNG/48/Sports/olympic_medal-48.png"
+      }
+    }
+  },
+  {
+    "id": 5111,
+    "name": "olympic_rings",
+    "platform": "Windows 8/Metro",
+    "category": "Sports",
+    "created": 1403527839,
+    "tags": [
+      "games",
+      "world",
+      "winner",
+      "cup",
+      "logo",
+      "five",
+      "players",
+      "game",
+      "color",
+      "sports",
+      "identification",
+      "international",
+      "united",
+      "talent",
+      "flags",
+      "olympic",
+      "rings",
+      "continents",
+      "sportsmanship",
+      "interlaced rings"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/olympic_rings.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/olympic_rings.svg",
+      "eps": "/EPS/Sports/olympic_rings.eps",
+      "png": {
+        "32": "/PNG/32/Sports/olympic_rings-32.png",
+        "128": "/PNG/128/Sports/olympic_rings-128.png",
+        "26": "/PNG/26/Sports/olympic_rings-26.png",
+        "256": "/PNG/256/Sports/olympic_rings-256.png",
+        "512": "/PNG/512/Sports/olympic_rings-512.png",
+        "64": "/PNG/64/Sports/olympic_rings-64.png",
+        "48": "/PNG/48/Sports/olympic_rings-48.png"
+      }
+    }
+  },
+  {
+    "id": 5109,
+    "name": "olympic_torch",
+    "platform": "Windows 8/Metro",
+    "category": "Sports",
+    "created": 1403527839,
+    "tags": [
+      "fire",
+      "light",
+      "player",
+      "signal",
+      "night",
+      "game",
+      "famous",
+      "lit",
+      "tradition",
+      "torch",
+      "olympic",
+      "hand hold",
+      "olympic games",
+      "theft of fire",
+      "torch relay",
+      "opening ceremony",
+      "summer olympics",
+      "significant",
+      "luminous flame",
+      "safety lamp"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/olympic_torch.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/olympic_torch.svg",
+      "eps": "/EPS/Sports/olympic_torch.eps",
+      "png": {
+        "32": "/PNG/32/Sports/olympic_torch-32.png",
+        "128": "/PNG/128/Sports/olympic_torch-128.png",
+        "26": "/PNG/26/Sports/olympic_torch-26.png",
+        "256": "/PNG/256/Sports/olympic_torch-256.png",
+        "512": "/PNG/512/Sports/olympic_torch-512.png",
+        "64": "/PNG/64/Sports/olympic_torch-64.png",
+        "48": "/PNG/48/Sports/olympic_torch-48.png"
+      }
+    }
+  },
+  {
     "id": 3541,
     "name": "omega",
     "platform": "Windows 8/Metro",
@@ -47220,6 +47425,31 @@
         "512": "/PNG/512/Business/online_support-512.png",
         "64": "/PNG/64/Business/online_support-64.png",
         "48": "/PNG/48/Business/online_support-48.png"
+      }
+    }
+  },
+  {
+    "id": 5257,
+    "name": "on_land",
+    "platform": "Windows 8/Metro",
+    "category": "Sports",
+    "created": 1403916678,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/on_land.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/on_land.svg",
+      "eps": "/EPS/Sports/on_land.eps",
+      "png": {
+        "32": "/PNG/32/Sports/on_land-32.png",
+        "128": "/PNG/128/Sports/on_land-128.png",
+        "26": "/PNG/26/Sports/on_land-26.png",
+        "256": "/PNG/256/Sports/on_land-256.png",
+        "512": "/PNG/512/Sports/on_land-512.png",
+        "64": "/PNG/64/Sports/on_land-64.png",
+        "48": "/PNG/48/Sports/on_land-48.png"
       }
     }
   },
@@ -59692,6 +59922,35 @@
         "512": "/PNG/512/Very_Basic/search-512.png",
         "64": "/PNG/64/Very_Basic/search-64.png",
         "48": "/PNG/48/Very_Basic/search-48.png"
+      }
+    }
+  },
+  {
+    "id": 3022,
+    "name": "sea_waves",
+    "platform": "Windows 8/Metro",
+    "category": "Travel",
+    "created": 1390485046,
+    "tags": [
+      "nature",
+      "biology",
+      "wildlife",
+      "zoo",
+      "zoology"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Travel/sea_waves.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/sea_waves.svg",
+      "eps": "/EPS/Travel/sea_waves.eps",
+      "png": {
+        "32": "/PNG/32/Travel/sea_waves-32.png",
+        "128": "/PNG/128/Travel/sea_waves-128.png",
+        "26": "/PNG/26/Travel/sea_waves-26.png",
+        "256": "/PNG/256/Travel/sea_waves-256.png",
+        "512": "/PNG/512/Travel/sea_waves-512.png",
+        "64": "/PNG/64/Travel/sea_waves-64.png",
+        "48": "/PNG/48/Travel/sea_waves-48.png"
       }
     }
   },

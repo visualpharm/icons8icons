@@ -226,6 +226,71 @@
     }
   },
   {
+    "id": 2207,
+    "name": "7zip",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1380274068,
+    "tags": [
+      "file",
+      "format",
+      "archive",
+      "photo",
+      "7zip",
+      "7z",
+      "extension",
+      "filetype",
+      "data format"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/7zip.svg",
+      "svg.simplified": "/SVG_for_Font/Files/7zip.svg",
+      "eps": "/EPS/Files/7zip.eps",
+      "png": {
+        "25": "/PNG/25/Files/7zip-25.png",
+        "32": "/PNG/32/Files/7zip-32.png",
+        "128": "/PNG/128/Files/7zip-128.png",
+        "75": "/PNG/75/Files/7zip-75.png",
+        "256": "/PNG/256/Files/7zip-256.png",
+        "100": "/PNG/100/Files/7zip-100.png",
+        "512": "/PNG/512/Files/7zip-512.png",
+        "50": "/PNG/50/Files/7zip-50.png"
+      }
+    }
+  },
+  {
+    "id": 3616,
+    "name": "aac",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1395003082,
+    "tags": [
+      "file",
+      "ios7",
+      "extension",
+      "filetype",
+      "data format",
+      "aac"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/aac.svg",
+      "svg.simplified": "/SVG_for_Font/Files/aac.svg",
+      "eps": "/EPS/Files/aac.eps",
+      "png": {
+        "25": "/PNG/25/Files/aac-25.png",
+        "32": "/PNG/32/Files/aac-32.png",
+        "128": "/PNG/128/Files/aac-128.png",
+        "75": "/PNG/75/Files/aac-75.png",
+        "256": "/PNG/256/Files/aac-256.png",
+        "100": "/PNG/100/Files/aac-100.png",
+        "512": "/PNG/512/Files/aac-512.png",
+        "50": "/PNG/50/Files/aac-50.png"
+      }
+    }
+  },
+  {
     "id": 3439,
     "name": "about",
     "platform": "iPhone/iOS 7",
@@ -920,6 +985,48 @@
         "100": "/PNG/100/User_Interface/age-100.png",
         "512": "/PNG/512/User_Interface/age-512.png",
         "50": "/PNG/50/User_Interface/age-50.png"
+      }
+    }
+  },
+  {
+    "id": 326,
+    "name": "ai",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1322654787,
+    "tags": [
+      "adobe",
+      "illustrator",
+      "vector",
+      "draw",
+      "file",
+      "drawing",
+      "file types",
+      "vectors",
+      "shapes",
+      "illustration",
+      "cartoons",
+      "graphic",
+      "extension",
+      "ai",
+      "filetype",
+      "data format",
+      "adobe ilustrator"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/ai.svg",
+      "svg.simplified": "/SVG_for_Font/Files/ai.svg",
+      "eps": "/EPS/Files/ai.eps",
+      "png": {
+        "25": "/PNG/25/Files/ai-25.png",
+        "32": "/PNG/32/Files/ai-32.png",
+        "128": "/PNG/128/Files/ai-128.png",
+        "75": "/PNG/75/Files/ai-75.png",
+        "256": "/PNG/256/Files/ai-256.png",
+        "100": "/PNG/100/Files/ai-100.png",
+        "512": "/PNG/512/Files/ai-512.png",
+        "50": "/PNG/50/Files/ai-50.png"
       }
     }
   },
@@ -2317,6 +2424,39 @@
     }
   },
   {
+    "id": 2300,
+    "name": "asc",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1378464254,
+    "tags": [
+      "file",
+      "files",
+      "format",
+      "formats",
+      "asc",
+      "extension",
+      "filetype",
+      "data format"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/asc.svg",
+      "svg.simplified": "/SVG_for_Font/Files/asc.svg",
+      "eps": "/EPS/Files/asc.eps",
+      "png": {
+        "25": "/PNG/25/Files/asc-25.png",
+        "32": "/PNG/32/Files/asc-32.png",
+        "128": "/PNG/128/Files/asc-128.png",
+        "75": "/PNG/75/Files/asc-75.png",
+        "256": "/PNG/256/Files/asc-256.png",
+        "100": "/PNG/100/Files/asc-100.png",
+        "512": "/PNG/512/Files/asc-512.png",
+        "50": "/PNG/50/Files/asc-50.png"
+      }
+    }
+  },
+  {
     "id": 1593,
     "name": "ascender",
     "platform": "iPhone/iOS 7",
@@ -2902,6 +3042,44 @@
         "100": "/PNG/100/Ecommerce/average2-100.png",
         "512": "/PNG/512/Ecommerce/average2-512.png",
         "50": "/PNG/50/Ecommerce/average2-50.png"
+      }
+    }
+  },
+  {
+    "id": 322,
+    "name": "avi",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1322654787,
+    "tags": [
+      "watch",
+      "microsoft",
+      "file",
+      "file types",
+      "movie",
+      "video",
+      "animation",
+      "avi",
+      "extension",
+      "filetype",
+      "data format",
+      "Audio Video Interleaved",
+      "Audio Video Interleave"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/avi.svg",
+      "svg.simplified": "/SVG_for_Font/Files/avi.svg",
+      "eps": "/EPS/Files/avi.eps",
+      "png": {
+        "25": "/PNG/25/Files/avi-25.png",
+        "32": "/PNG/32/Files/avi-32.png",
+        "128": "/PNG/128/Files/avi-128.png",
+        "75": "/PNG/75/Files/avi-75.png",
+        "256": "/PNG/256/Files/avi-256.png",
+        "100": "/PNG/100/Files/avi-100.png",
+        "512": "/PNG/512/Files/avi-512.png",
+        "50": "/PNG/50/Files/avi-50.png"
       }
     }
   },
@@ -4182,6 +4360,32 @@
         "100": "/PNG/100/Household/bathroom-100.png",
         "512": "/PNG/512/Household/bathroom-512.png",
         "50": "/PNG/50/Household/bathroom-50.png"
+      }
+    }
+  },
+  {
+    "id": 5136,
+    "name": "battleship",
+    "platform": "iPhone/iOS 7",
+    "category": "Military",
+    "created": 1403635873,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/battleship.svg",
+      "svg.simplified": "/SVG_for_Font/Military/battleship.svg",
+      "eps": "/EPS/Military/battleship.eps",
+      "png": {
+        "25": "/PNG/25/Military/battleship-25.png",
+        "32": "/PNG/32/Military/battleship-32.png",
+        "128": "/PNG/128/Military/battleship-128.png",
+        "75": "/PNG/75/Military/battleship-75.png",
+        "256": "/PNG/256/Military/battleship-256.png",
+        "100": "/PNG/100/Military/battleship-100.png",
+        "512": "/PNG/512/Military/battleship-512.png",
+        "50": "/PNG/50/Military/battleship-50.png"
       }
     }
   },
@@ -7853,6 +8057,79 @@
     }
   },
   {
+    "id": 3554,
+    "name": "cancel_file",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1394553086,
+    "tags": [
+      "software",
+      "vector",
+      "office",
+      "checkmark",
+      "batch",
+      "exit",
+      "program",
+      "quit",
+      "application",
+      "delete",
+      "remove",
+      "cancel",
+      "cross",
+      "erase",
+      "file",
+      "paper",
+      "print",
+      "files",
+      "directory",
+      "message",
+      "set",
+      "information",
+      "content",
+      "help",
+      "web",
+      "note",
+      "screen",
+      "memo",
+      "pin",
+      "announcement",
+      "presentation",
+      "printer",
+      "work",
+      "document",
+      "source",
+      "symbol",
+      "sheet",
+      "archive",
+      "illustration",
+      "sign",
+      "notice",
+      "log out",
+      "images",
+      "post",
+      "board",
+      "blank",
+      "icon",
+      "button"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/cancel_file.svg",
+      "svg.simplified": "/SVG_for_Font/Files/cancel_file.svg",
+      "eps": "/EPS/Files/cancel_file.eps",
+      "png": {
+        "25": "/PNG/25/Files/cancel_file-25.png",
+        "32": "/PNG/32/Files/cancel_file-32.png",
+        "128": "/PNG/128/Files/cancel_file-128.png",
+        "75": "/PNG/75/Files/cancel_file-75.png",
+        "256": "/PNG/256/Files/cancel_file-256.png",
+        "100": "/PNG/100/Files/cancel_file-100.png",
+        "512": "/PNG/512/Files/cancel_file-512.png",
+        "50": "/PNG/50/Files/cancel_file-50.png"
+      }
+    }
+  },
+  {
     "id": 2387,
     "name": "cancer",
     "platform": "iPhone/iOS 7",
@@ -9556,6 +9833,32 @@
         "100": "/PNG/100/Very_Basic/checkmark-100.png",
         "512": "/PNG/512/Very_Basic/checkmark-512.png",
         "50": "/PNG/50/Very_Basic/checkmark-50.png"
+      }
+    }
+  },
+  {
+    "id": 5252,
+    "name": "check_file",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1403916678,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/check_file.svg",
+      "svg.simplified": "/SVG_for_Font/Files/check_file.svg",
+      "eps": "/EPS/Files/check_file.eps",
+      "png": {
+        "25": "/PNG/25/Files/check_file-25.png",
+        "32": "/PNG/32/Files/check_file-32.png",
+        "128": "/PNG/128/Files/check_file-128.png",
+        "75": "/PNG/75/Files/check_file-75.png",
+        "256": "/PNG/256/Files/check_file-256.png",
+        "100": "/PNG/100/Files/check_file-100.png",
+        "512": "/PNG/512/Files/check_file-512.png",
+        "50": "/PNG/50/Files/check_file-50.png"
       }
     }
   },
@@ -14308,6 +14611,72 @@
     }
   },
   {
+    "id": 4800,
+    "name": "css_filetype",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1401303074,
+    "tags": [
+      "file",
+      "files",
+      "css",
+      "ios7",
+      "extension",
+      "filetype",
+      "data format",
+      "Cascading Style Sheets"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/css_filetype.svg",
+      "svg.simplified": "/SVG_for_Font/Files/css_filetype.svg",
+      "eps": "/EPS/Files/css_filetype.eps",
+      "png": {
+        "25": "/PNG/25/Files/css_filetype-25.png",
+        "32": "/PNG/32/Files/css_filetype-32.png",
+        "128": "/PNG/128/Files/css_filetype-128.png",
+        "75": "/PNG/75/Files/css_filetype-75.png",
+        "256": "/PNG/256/Files/css_filetype-256.png",
+        "100": "/PNG/100/Files/css_filetype-100.png",
+        "512": "/PNG/512/Files/css_filetype-512.png",
+        "50": "/PNG/50/Files/css_filetype-50.png"
+      }
+    }
+  },
+  {
+    "id": 2577,
+    "name": "csv",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1390342413,
+    "tags": [
+      "csv",
+      "file",
+      "view",
+      "extension",
+      "import",
+      "filetype",
+      "data format",
+      "comma separated values"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/csv.svg",
+      "svg.simplified": "/SVG_for_Font/Files/csv.svg",
+      "eps": "/EPS/Files/csv.eps",
+      "png": {
+        "25": "/PNG/25/Files/csv-25.png",
+        "32": "/PNG/32/Files/csv-32.png",
+        "128": "/PNG/128/Files/csv-128.png",
+        "75": "/PNG/75/Files/csv-75.png",
+        "256": "/PNG/256/Files/csv-256.png",
+        "100": "/PNG/100/Files/csv-100.png",
+        "512": "/PNG/512/Files/csv-512.png",
+        "50": "/PNG/50/Files/csv-50.png"
+      }
+    }
+  },
+  {
     "id": 4043,
     "name": "cupcake",
     "platform": "iPhone/iOS 7",
@@ -15364,6 +15733,60 @@
     }
   },
   {
+    "id": 3555,
+    "name": "delete_file",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1394553086,
+    "tags": [
+      "vector",
+      "supplies",
+      "mark",
+      "delete",
+      "remove",
+      "file",
+      "paper",
+      "set",
+      "label",
+      "document",
+      "doc",
+      "symbol",
+      "documents",
+      "page",
+      "graphic",
+      "sign",
+      "flat",
+      "icon",
+      "documentation",
+      "stamp",
+      "template",
+      "ios7",
+      "x",
+      "pictogram",
+      "seal",
+      "extension",
+      "filetype",
+      "data format",
+      "delete file"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/delete_file.svg",
+      "svg.simplified": "/SVG_for_Font/Files/delete_file.svg",
+      "eps": "/EPS/Files/delete_file.eps",
+      "png": {
+        "25": "/PNG/25/Files/delete_file-25.png",
+        "32": "/PNG/32/Files/delete_file-32.png",
+        "128": "/PNG/128/Files/delete_file-128.png",
+        "75": "/PNG/75/Files/delete_file-75.png",
+        "256": "/PNG/256/Files/delete_file-256.png",
+        "100": "/PNG/100/Files/delete_file-100.png",
+        "512": "/PNG/512/Files/delete_file-512.png",
+        "50": "/PNG/50/Files/delete_file-50.png"
+      }
+    }
+  },
+  {
     "id": 954,
     "name": "delete_message",
     "platform": "iPhone/iOS 7",
@@ -16193,6 +16616,88 @@
     }
   },
   {
+    "id": 328,
+    "name": "dll",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1322740256,
+    "tags": [
+      "software",
+      "file",
+      "library",
+      "programming",
+      "file types",
+      "dynamic link",
+      "dynamically linked",
+      "repository",
+      "database",
+      "functions",
+      "extension",
+      "filetype",
+      "data format",
+      "dll"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/dll.svg",
+      "svg.simplified": "/SVG_for_Font/Files/dll.svg",
+      "eps": "/EPS/Files/dll.eps",
+      "png": {
+        "25": "/PNG/25/Files/dll-25.png",
+        "32": "/PNG/32/Files/dll-32.png",
+        "128": "/PNG/128/Files/dll-128.png",
+        "75": "/PNG/75/Files/dll-75.png",
+        "256": "/PNG/256/Files/dll-256.png",
+        "100": "/PNG/100/Files/dll-100.png",
+        "512": "/PNG/512/Files/dll-512.png",
+        "50": "/PNG/50/Files/dll-50.png"
+      }
+    }
+  },
+  {
+    "id": 318,
+    "name": "dmg",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1322569152,
+    "tags": [
+      "file",
+      "apple",
+      "file types",
+      "compressed",
+      "mac",
+      "osx",
+      "disk image",
+      "image file",
+      "image",
+      "archived",
+      "zipped",
+      "iso",
+      "cd image",
+      "extension",
+      "dmg",
+      "filetype",
+      "data format",
+      "apple disk image"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/dmg.svg",
+      "svg.simplified": "/SVG_for_Font/Files/dmg.svg",
+      "eps": "/EPS/Files/dmg.eps",
+      "png": {
+        "25": "/PNG/25/Files/dmg-25.png",
+        "32": "/PNG/32/Files/dmg-32.png",
+        "128": "/PNG/128/Files/dmg-128.png",
+        "75": "/PNG/75/Files/dmg-75.png",
+        "256": "/PNG/256/Files/dmg-256.png",
+        "100": "/PNG/100/Files/dmg-100.png",
+        "512": "/PNG/512/Files/dmg-512.png",
+        "50": "/PNG/50/Files/dmg-50.png"
+      }
+    }
+  },
+  {
     "id": 846,
     "name": "dna_helix",
     "platform": "iPhone/iOS 7",
@@ -16225,6 +16730,38 @@
         "100": "/PNG/100/Science/dna_helix-100.png",
         "512": "/PNG/512/Science/dna_helix-512.png",
         "50": "/PNG/50/Science/dna_helix-50.png"
+      }
+    }
+  },
+  {
+    "id": 2774,
+    "name": "doc",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1390342414,
+    "tags": [
+      "file",
+      "files",
+      "document",
+      "doc",
+      "extension",
+      "filetype",
+      "data format"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/doc.svg",
+      "svg.simplified": "/SVG_for_Font/Files/doc.svg",
+      "eps": "/EPS/Files/doc.eps",
+      "png": {
+        "25": "/PNG/25/Files/doc-25.png",
+        "32": "/PNG/32/Files/doc-32.png",
+        "128": "/PNG/128/Files/doc-128.png",
+        "75": "/PNG/75/Files/doc-75.png",
+        "256": "/PNG/256/Files/doc-256.png",
+        "100": "/PNG/100/Files/doc-100.png",
+        "512": "/PNG/512/Files/doc-512.png",
+        "50": "/PNG/50/Files/doc-50.png"
       }
     }
   },
@@ -18216,6 +18753,76 @@
     }
   },
   {
+    "id": 3553,
+    "name": "edit_file",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1394553086,
+    "tags": [
+      "vector",
+      "office",
+      "supplies",
+      "pencil",
+      "edit",
+      "writing",
+      "file",
+      "paper",
+      "files",
+      "folder",
+      "message",
+      "communicate",
+      "line",
+      "pad",
+      "memo",
+      "drawing",
+      "document",
+      "symbol",
+      "documents",
+      "text",
+      "page",
+      "graphic",
+      "sign",
+      "hand",
+      "letter",
+      "icon",
+      "documentation",
+      "portfolio",
+      "email",
+      "exam",
+      "correspondence",
+      "notebook",
+      "ios7",
+      "article",
+      "study",
+      "pictogram",
+      "notepad",
+      "clipboard",
+      "extension",
+      "learn",
+      "organizing",
+      "journal",
+      "pile",
+      "filetype",
+      "data format"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/edit_file.svg",
+      "svg.simplified": "/SVG_for_Font/Files/edit_file.svg",
+      "eps": "/EPS/Files/edit_file.eps",
+      "png": {
+        "25": "/PNG/25/Files/edit_file-25.png",
+        "32": "/PNG/32/Files/edit_file-32.png",
+        "128": "/PNG/128/Files/edit_file-128.png",
+        "75": "/PNG/75/Files/edit_file-75.png",
+        "256": "/PNG/256/Files/edit_file-256.png",
+        "100": "/PNG/100/Files/edit_file-100.png",
+        "512": "/PNG/512/Files/edit_file-512.png",
+        "50": "/PNG/50/Files/edit_file-50.png"
+      }
+    }
+  },
+  {
     "id": 1697,
     "name": "edit_image",
     "platform": "iPhone/iOS 7",
@@ -19235,6 +19842,75 @@
     }
   },
   {
+    "id": 2966,
+    "name": "eps",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1390342414,
+    "tags": [
+      "file",
+      "files",
+      "ios7",
+      "extension",
+      "eps",
+      "filetype",
+      "data format",
+      "Encapsulated PostScript"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/eps.svg",
+      "svg.simplified": "/SVG_for_Font/Files/eps.svg",
+      "eps": "/EPS/Files/eps.eps",
+      "png": {
+        "25": "/PNG/25/Files/eps-25.png",
+        "32": "/PNG/32/Files/eps-32.png",
+        "128": "/PNG/128/Files/eps-128.png",
+        "75": "/PNG/75/Files/eps-75.png",
+        "256": "/PNG/256/Files/eps-256.png",
+        "100": "/PNG/100/Files/eps-100.png",
+        "512": "/PNG/512/Files/eps-512.png",
+        "50": "/PNG/50/Files/eps-50.png"
+      }
+    }
+  },
+  {
+    "id": 2949,
+    "name": "epub",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1390342414,
+    "tags": [
+      "file",
+      "ios7",
+      "extension",
+      "e-book",
+      "filetype",
+      "data format",
+      "epub",
+      "electronic publication",
+      "e-book file format",
+      "International Digital Publishing Forum",
+      "IDPF"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/epub.svg",
+      "svg.simplified": "/SVG_for_Font/Files/epub.svg",
+      "eps": "/EPS/Files/epub.eps",
+      "png": {
+        "25": "/PNG/25/Files/epub-25.png",
+        "32": "/PNG/32/Files/epub-32.png",
+        "128": "/PNG/128/Files/epub-128.png",
+        "75": "/PNG/75/Files/epub-75.png",
+        "256": "/PNG/256/Files/epub-256.png",
+        "100": "/PNG/100/Files/epub-100.png",
+        "512": "/PNG/512/Files/epub-512.png",
+        "50": "/PNG/50/Files/epub-50.png"
+      }
+    }
+  },
+  {
     "id": 4846,
     "name": "equestrian_statue",
     "platform": "iPhone/iOS 7",
@@ -19514,6 +20190,42 @@
         "100": "/PNG/100/Logos/excel_copyrighted-100.png",
         "512": "/PNG/512/Logos/excel_copyrighted-512.png",
         "50": "/PNG/50/Logos/excel_copyrighted-50.png"
+      }
+    }
+  },
+  {
+    "id": 316,
+    "name": "exe",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1322569152,
+    "tags": [
+      "software",
+      "program",
+      "application",
+      "file",
+      "file types",
+      "execute",
+      "executable",
+      "extension",
+      "filetype",
+      "data format",
+      "exe"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/exe.svg",
+      "svg.simplified": "/SVG_for_Font/Files/exe.svg",
+      "eps": "/EPS/Files/exe.eps",
+      "png": {
+        "25": "/PNG/25/Files/exe-25.png",
+        "32": "/PNG/32/Files/exe-32.png",
+        "128": "/PNG/128/Files/exe-128.png",
+        "75": "/PNG/75/Files/exe-75.png",
+        "256": "/PNG/256/Files/exe-256.png",
+        "100": "/PNG/100/Files/exe-100.png",
+        "512": "/PNG/512/Files/exe-512.png",
+        "50": "/PNG/50/Files/exe-50.png"
       }
     }
   },
@@ -20435,6 +21147,38 @@
     }
   },
   {
+    "id": 2742,
+    "name": "fb2",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1390342414,
+    "tags": [
+      "file",
+      "disk",
+      "extension",
+      "flies",
+      "filetype",
+      "data format",
+      "fb2"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/fb2.svg",
+      "svg.simplified": "/SVG_for_Font/Files/fb2.svg",
+      "eps": "/EPS/Files/fb2.eps",
+      "png": {
+        "25": "/PNG/25/Files/fb2-25.png",
+        "32": "/PNG/32/Files/fb2-32.png",
+        "128": "/PNG/128/Files/fb2-128.png",
+        "75": "/PNG/75/Files/fb2-75.png",
+        "256": "/PNG/256/Files/fb2-256.png",
+        "100": "/PNG/100/Files/fb2-100.png",
+        "512": "/PNG/512/Files/fb2-512.png",
+        "50": "/PNG/50/Files/fb2-50.png"
+      }
+    }
+  },
+  {
     "id": 3487,
     "name": "feed_in",
     "platform": "iPhone/iOS 7",
@@ -20666,6 +21410,32 @@
         "100": "/PNG/100/Transport/ferry-100.png",
         "512": "/PNG/512/Transport/ferry-512.png",
         "50": "/PNG/50/Transport/ferry-50.png"
+      }
+    }
+  },
+  {
+    "id": 5135,
+    "name": "fighter_jet",
+    "platform": "iPhone/iOS 7",
+    "category": "Military",
+    "created": 1403635873,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/fighter_jet.svg",
+      "svg.simplified": "/SVG_for_Font/Military/fighter_jet.svg",
+      "eps": "/EPS/Military/fighter_jet.eps",
+      "png": {
+        "25": "/PNG/25/Military/fighter_jet-25.png",
+        "32": "/PNG/32/Military/fighter_jet-32.png",
+        "128": "/PNG/128/Military/fighter_jet-128.png",
+        "75": "/PNG/75/Military/fighter_jet-75.png",
+        "256": "/PNG/256/Military/fighter_jet-256.png",
+        "100": "/PNG/100/Military/fighter_jet-100.png",
+        "512": "/PNG/512/Military/fighter_jet-512.png",
+        "50": "/PNG/50/Military/fighter_jet-50.png"
       }
     }
   },
@@ -22001,6 +22771,44 @@
         "100": "/PNG/100/Data/flow_chart-100.png",
         "512": "/PNG/512/Data/flow_chart-512.png",
         "50": "/PNG/50/Data/flow_chart-50.png"
+      }
+    }
+  },
+  {
+    "id": 308,
+    "name": "flv",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1322482296,
+    "tags": [
+      "adobe",
+      "file",
+      "flash",
+      "file types",
+      "movie",
+      "recording",
+      "animation",
+      "flash video",
+      "adobe flash",
+      "extension",
+      "filetype",
+      "data format",
+      "flv"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/flv.svg",
+      "svg.simplified": "/SVG_for_Font/Files/flv.svg",
+      "eps": "/EPS/Files/flv.eps",
+      "png": {
+        "25": "/PNG/25/Files/flv-25.png",
+        "32": "/PNG/32/Files/flv-32.png",
+        "128": "/PNG/128/Files/flv-128.png",
+        "75": "/PNG/75/Files/flv-75.png",
+        "256": "/PNG/256/Files/flv-256.png",
+        "100": "/PNG/100/Files/flv-100.png",
+        "512": "/PNG/512/Files/flv-512.png",
+        "50": "/PNG/50/Files/flv-50.png"
       }
     }
   },
@@ -24461,6 +25269,47 @@
     }
   },
   {
+    "id": 332,
+    "name": "gif",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1322740256,
+    "tags": [
+      "file",
+      "view",
+      "file types",
+      "animation",
+      "image",
+      "graphic",
+      "photo",
+      "gif",
+      "graphical",
+      "animate",
+      "animated",
+      "gifs",
+      "picture",
+      "extension",
+      "filetype",
+      "data format"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/gif.svg",
+      "svg.simplified": "/SVG_for_Font/Files/gif.svg",
+      "eps": "/EPS/Files/gif.eps",
+      "png": {
+        "25": "/PNG/25/Files/gif-25.png",
+        "32": "/PNG/32/Files/gif-32.png",
+        "128": "/PNG/128/Files/gif-128.png",
+        "75": "/PNG/75/Files/gif-75.png",
+        "256": "/PNG/256/Files/gif-256.png",
+        "100": "/PNG/100/Files/gif-100.png",
+        "512": "/PNG/512/Files/gif-512.png",
+        "50": "/PNG/50/Files/gif-50.png"
+      }
+    }
+  },
+  {
     "id": 338,
     "name": "gift",
     "platform": "iPhone/iOS 7",
@@ -24548,6 +25397,40 @@
         "100": "/PNG/100/Animals/giraffe-100.png",
         "512": "/PNG/512/Animals/giraffe-512.png",
         "50": "/PNG/50/Animals/giraffe-50.png"
+      }
+    }
+  },
+  {
+    "id": 2298,
+    "name": "gis",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1378464254,
+    "tags": [
+      "file",
+      "files",
+      "format",
+      "formats",
+      "asc",
+      "gis",
+      "extension",
+      "filetype",
+      "data format"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/gis.svg",
+      "svg.simplified": "/SVG_for_Font/Files/gis.svg",
+      "eps": "/EPS/Files/gis.eps",
+      "png": {
+        "25": "/PNG/25/Files/gis-25.png",
+        "32": "/PNG/32/Files/gis-32.png",
+        "128": "/PNG/128/Files/gis-128.png",
+        "75": "/PNG/75/Files/gis-75.png",
+        "256": "/PNG/256/Files/gis-256.png",
+        "100": "/PNG/100/Files/gis-100.png",
+        "512": "/PNG/512/Files/gis-512.png",
+        "50": "/PNG/50/Files/gis-50.png"
       }
     }
   },
@@ -25155,6 +26038,38 @@
         "100": "/PNG/100/Maps/gps_searching-100.png",
         "512": "/PNG/512/Maps/gps_searching-512.png",
         "50": "/PNG/50/Maps/gps_searching-50.png"
+      }
+    }
+  },
+  {
+    "id": 2296,
+    "name": "gpx",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1378464254,
+    "tags": [
+      "file",
+      "files",
+      "format",
+      "gpx",
+      "extension",
+      "filetype",
+      "data format"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/gpx.svg",
+      "svg.simplified": "/SVG_for_Font/Files/gpx.svg",
+      "eps": "/EPS/Files/gpx.eps",
+      "png": {
+        "25": "/PNG/25/Files/gpx-25.png",
+        "32": "/PNG/32/Files/gpx-32.png",
+        "128": "/PNG/128/Files/gpx-128.png",
+        "75": "/PNG/75/Files/gpx-75.png",
+        "256": "/PNG/256/Files/gpx-256.png",
+        "100": "/PNG/100/Files/gpx-100.png",
+        "512": "/PNG/512/Files/gpx-512.png",
+        "50": "/PNG/50/Files/gpx-50.png"
       }
     }
   },
@@ -27219,6 +28134,32 @@
     }
   },
   {
+    "id": 5134,
+    "name": "historic_ship",
+    "platform": "iPhone/iOS 7",
+    "category": "Transport",
+    "created": 1403635873,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Transport/historic_ship.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/historic_ship.svg",
+      "eps": "/EPS/Transport/historic_ship.eps",
+      "png": {
+        "25": "/PNG/25/Transport/historic_ship-25.png",
+        "32": "/PNG/32/Transport/historic_ship-32.png",
+        "128": "/PNG/128/Transport/historic_ship-128.png",
+        "75": "/PNG/75/Transport/historic_ship-75.png",
+        "256": "/PNG/256/Transport/historic_ship-256.png",
+        "100": "/PNG/100/Transport/historic_ship-100.png",
+        "512": "/PNG/512/Transport/historic_ship-512.png",
+        "50": "/PNG/50/Transport/historic_ship-50.png"
+      }
+    }
+  },
+  {
     "id": 2798,
     "name": "history",
     "platform": "iPhone/iOS 7",
@@ -27882,6 +28823,38 @@
         "100": "/PNG/100/Programming/html-100.png",
         "512": "/PNG/512/Programming/html-512.png",
         "50": "/PNG/50/Programming/html-50.png"
+      }
+    }
+  },
+  {
+    "id": 4799,
+    "name": "html_filetype",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1401303074,
+    "tags": [
+      "file",
+      "html",
+      "ios7",
+      "extension",
+      "filetype",
+      "data format",
+      "HyperText Markup Language"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/html_filetype.svg",
+      "svg.simplified": "/SVG_for_Font/Files/html_filetype.svg",
+      "eps": "/EPS/Files/html_filetype.eps",
+      "png": {
+        "25": "/PNG/25/Files/html_filetype-25.png",
+        "32": "/PNG/32/Files/html_filetype-32.png",
+        "128": "/PNG/128/Files/html_filetype-128.png",
+        "75": "/PNG/75/Files/html_filetype-75.png",
+        "256": "/PNG/256/Files/html_filetype-256.png",
+        "100": "/PNG/100/Files/html_filetype-100.png",
+        "512": "/PNG/512/Files/html_filetype-512.png",
+        "50": "/PNG/50/Files/html_filetype-50.png"
       }
     }
   },
@@ -29960,6 +30933,45 @@
     }
   },
   {
+    "id": 334,
+    "name": "jpg",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1322740256,
+    "tags": [
+      "file",
+      "view",
+      "file types",
+      "compression",
+      "image",
+      "photo",
+      "photograph",
+      "picture",
+      "JPG",
+      "JPEG",
+      "lossy",
+      "extension",
+      "filetype",
+      "data format"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/jpg.svg",
+      "svg.simplified": "/SVG_for_Font/Files/jpg.svg",
+      "eps": "/EPS/Files/jpg.eps",
+      "png": {
+        "25": "/PNG/25/Files/jpg-25.png",
+        "32": "/PNG/32/Files/jpg-32.png",
+        "128": "/PNG/128/Files/jpg-128.png",
+        "75": "/PNG/75/Files/jpg-75.png",
+        "256": "/PNG/256/Files/jpg-256.png",
+        "100": "/PNG/100/Files/jpg-100.png",
+        "512": "/PNG/512/Files/jpg-512.png",
+        "50": "/PNG/50/Files/jpg-50.png"
+      }
+    }
+  },
+  {
     "id": 2134,
     "name": "jpy",
     "platform": "iPhone/iOS 7",
@@ -30498,6 +31510,72 @@
         "100": "/PNG/100/Household/kitchen-100.png",
         "512": "/PNG/512/Household/kitchen-512.png",
         "50": "/PNG/50/Household/kitchen-50.png"
+      }
+    }
+  },
+  {
+    "id": 2304,
+    "name": "kml",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1378374542,
+    "tags": [
+      "file",
+      "files",
+      "formats",
+      "kml",
+      "kmlz",
+      "extension",
+      "filetype",
+      "data format"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/kml.svg",
+      "svg.simplified": "/SVG_for_Font/Files/kml.svg",
+      "eps": "/EPS/Files/kml.eps",
+      "png": {
+        "25": "/PNG/25/Files/kml-25.png",
+        "32": "/PNG/32/Files/kml-32.png",
+        "128": "/PNG/128/Files/kml-128.png",
+        "75": "/PNG/75/Files/kml-75.png",
+        "256": "/PNG/256/Files/kml-256.png",
+        "100": "/PNG/100/Files/kml-100.png",
+        "512": "/PNG/512/Files/kml-512.png",
+        "50": "/PNG/50/Files/kml-50.png"
+      }
+    }
+  },
+  {
+    "id": 2294,
+    "name": "kmz",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1378464254,
+    "tags": [
+      "file",
+      "files",
+      "format",
+      "formats",
+      "kmz",
+      "extension",
+      "filetype",
+      "data format"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/kmz.svg",
+      "svg.simplified": "/SVG_for_Font/Files/kmz.svg",
+      "eps": "/EPS/Files/kmz.eps",
+      "png": {
+        "25": "/PNG/25/Files/kmz-25.png",
+        "32": "/PNG/32/Files/kmz-32.png",
+        "128": "/PNG/128/Files/kmz-128.png",
+        "75": "/PNG/75/Files/kmz-75.png",
+        "256": "/PNG/256/Files/kmz-256.png",
+        "100": "/PNG/100/Files/kmz-100.png",
+        "512": "/PNG/512/Files/kmz-512.png",
+        "50": "/PNG/50/Files/kmz-50.png"
       }
     }
   },
@@ -36429,6 +37507,45 @@
     }
   },
   {
+    "id": 320,
+    "name": "mov",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1322654787,
+    "tags": [
+      "watch",
+      "file",
+      "file types",
+      "movie",
+      "video",
+      "recording",
+      "animation",
+      "quick-time",
+      "quicktime",
+      "mov",
+      "extension",
+      "filetype",
+      "data format",
+      "quick time file format"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/mov.svg",
+      "svg.simplified": "/SVG_for_Font/Files/mov.svg",
+      "eps": "/EPS/Files/mov.eps",
+      "png": {
+        "25": "/PNG/25/Files/mov-25.png",
+        "32": "/PNG/32/Files/mov-32.png",
+        "128": "/PNG/128/Files/mov-128.png",
+        "75": "/PNG/75/Files/mov-75.png",
+        "256": "/PNG/256/Files/mov-256.png",
+        "100": "/PNG/100/Files/mov-100.png",
+        "512": "/PNG/512/Files/mov-512.png",
+        "50": "/PNG/50/Files/mov-50.png"
+      }
+    }
+  },
+  {
     "id": 470,
     "name": "moved_topic",
     "platform": "iPhone/iOS 7",
@@ -36542,6 +37659,86 @@
         "100": "/PNG/100/Photo_Video/movie-100.png",
         "512": "/PNG/512/Photo_Video/movie-512.png",
         "50": "/PNG/50/Photo_Video/movie-50.png"
+      }
+    }
+  },
+  {
+    "id": 1555,
+    "name": "mp3",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1359722252,
+    "tags": [
+      "file",
+      "mp3",
+      "music",
+      "sound",
+      "mp3 player",
+      "long wave",
+      "short wave",
+      "music file",
+      "sound file",
+      "digital audio",
+      "digital music",
+      "digital audio compression",
+      "audio-specific format",
+      "computer icon",
+      "encoding format",
+      "lossy data compression",
+      "extension",
+      "filetype",
+      "data format"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/mp3.svg",
+      "svg.simplified": "/SVG_for_Font/Files/mp3.svg",
+      "eps": "/EPS/Files/mp3.eps",
+      "png": {
+        "25": "/PNG/25/Files/mp3-25.png",
+        "32": "/PNG/32/Files/mp3-32.png",
+        "128": "/PNG/128/Files/mp3-128.png",
+        "75": "/PNG/75/Files/mp3-75.png",
+        "256": "/PNG/256/Files/mp3-256.png",
+        "100": "/PNG/100/Files/mp3-100.png",
+        "512": "/PNG/512/Files/mp3-512.png",
+        "50": "/PNG/50/Files/mp3-50.png"
+      }
+    }
+  },
+  {
+    "id": 306,
+    "name": "mpg",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1322482296,
+    "tags": [
+      "file",
+      "file types",
+      "movie",
+      "video",
+      "recording",
+      "motion",
+      "motion jpg",
+      "extension",
+      "filetype",
+      "data format",
+      "mpg"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/mpg.svg",
+      "svg.simplified": "/SVG_for_Font/Files/mpg.svg",
+      "eps": "/EPS/Files/mpg.eps",
+      "png": {
+        "25": "/PNG/25/Files/mpg-25.png",
+        "32": "/PNG/32/Files/mpg-32.png",
+        "128": "/PNG/128/Files/mpg-128.png",
+        "75": "/PNG/75/Files/mpg-75.png",
+        "256": "/PNG/256/Files/mpg-256.png",
+        "100": "/PNG/100/Files/mpg-100.png",
+        "512": "/PNG/512/Files/mpg-512.png",
+        "50": "/PNG/50/Files/mpg-50.png"
       }
     }
   },
@@ -37877,6 +39074,38 @@
     }
   },
   {
+    "id": 2302,
+    "name": "nmea",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1378374542,
+    "tags": [
+      "file",
+      "files",
+      "formats",
+      "nmea",
+      "extension",
+      "filetype",
+      "data format"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/nmea.svg",
+      "svg.simplified": "/SVG_for_Font/Files/nmea.svg",
+      "eps": "/EPS/Files/nmea.eps",
+      "png": {
+        "25": "/PNG/25/Files/nmea-25.png",
+        "32": "/PNG/32/Files/nmea-32.png",
+        "128": "/PNG/128/Files/nmea-128.png",
+        "75": "/PNG/75/Files/nmea-75.png",
+        "256": "/PNG/256/Files/nmea-256.png",
+        "100": "/PNG/100/Files/nmea-100.png",
+        "512": "/PNG/512/Files/nmea-512.png",
+        "50": "/PNG/50/Files/nmea-50.png"
+      }
+    }
+  },
+  {
     "id": 3394,
     "name": "north_direction",
     "platform": "iPhone/iOS 7",
@@ -38534,6 +39763,51 @@
     }
   },
   {
+    "id": 1557,
+    "name": "ogg",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1359722252,
+    "tags": [
+      "file",
+      "music",
+      "sound",
+      "symbol",
+      "long wave",
+      "short wave",
+      "music file",
+      "sound file",
+      "digital audio",
+      "digital music",
+      "digital audio compression",
+      "audio-specific format",
+      "computer icon",
+      "encoding format",
+      "lossy data compression",
+      "ogg",
+      "lossy compression algorithm",
+      "extension",
+      "filetype",
+      "data format"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/ogg.svg",
+      "svg.simplified": "/SVG_for_Font/Files/ogg.svg",
+      "eps": "/EPS/Files/ogg.eps",
+      "png": {
+        "25": "/PNG/25/Files/ogg-25.png",
+        "32": "/PNG/32/Files/ogg-32.png",
+        "128": "/PNG/128/Files/ogg-128.png",
+        "75": "/PNG/75/Files/ogg-75.png",
+        "256": "/PNG/256/Files/ogg-256.png",
+        "100": "/PNG/100/Files/ogg-100.png",
+        "512": "/PNG/512/Files/ogg-512.png",
+        "50": "/PNG/50/Files/ogg-50.png"
+      }
+    }
+  },
+  {
     "id": 3604,
     "name": "oil_industry",
     "platform": "iPhone/iOS 7",
@@ -39063,6 +40337,72 @@
         "100": "/PNG/100/Cultures/origami-100.png",
         "512": "/PNG/512/Cultures/origami-512.png",
         "50": "/PNG/50/Cultures/origami-50.png"
+      }
+    }
+  },
+  {
+    "id": 2292,
+    "name": "osm",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1378464254,
+    "tags": [
+      "file",
+      "files",
+      "format",
+      "formats",
+      "gis",
+      "osm",
+      "extension",
+      "filetype",
+      "data format"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/osm.svg",
+      "svg.simplified": "/SVG_for_Font/Files/osm.svg",
+      "eps": "/EPS/Files/osm.eps",
+      "png": {
+        "25": "/PNG/25/Files/osm-25.png",
+        "32": "/PNG/32/Files/osm-32.png",
+        "128": "/PNG/128/Files/osm-128.png",
+        "75": "/PNG/75/Files/osm-75.png",
+        "256": "/PNG/256/Files/osm-256.png",
+        "100": "/PNG/100/Files/osm-100.png",
+        "512": "/PNG/512/Files/osm-512.png",
+        "50": "/PNG/50/Files/osm-50.png"
+      }
+    }
+  },
+  {
+    "id": 2811,
+    "name": "otf",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1390342414,
+    "tags": [
+      "file",
+      "files",
+      "ios7",
+      "extension",
+      "filetype",
+      "data format",
+      "otf"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/otf.svg",
+      "svg.simplified": "/SVG_for_Font/Files/otf.svg",
+      "eps": "/EPS/Files/otf.eps",
+      "png": {
+        "25": "/PNG/25/Files/otf-25.png",
+        "32": "/PNG/32/Files/otf-32.png",
+        "128": "/PNG/128/Files/otf-128.png",
+        "75": "/PNG/75/Files/otf-75.png",
+        "256": "/PNG/256/Files/otf-256.png",
+        "100": "/PNG/100/Files/otf-100.png",
+        "512": "/PNG/512/Files/otf-512.png",
+        "50": "/PNG/50/Files/otf-50.png"
       }
     }
   },
@@ -40475,6 +41815,45 @@
         "100": "/PNG/100/Gaming/pawn-100.png",
         "512": "/PNG/512/Gaming/pawn-512.png",
         "50": "/PNG/50/Gaming/pawn-50.png"
+      }
+    }
+  },
+  {
+    "id": 299,
+    "name": "pdf",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1322238904,
+    "tags": [
+      "adobe",
+      "file",
+      "save as",
+      "format",
+      "document",
+      "file types",
+      "acrobat",
+      "portable",
+      "portable document",
+      "portable document format",
+      "extension",
+      "pdf",
+      "filetype",
+      "data format"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/pdf.svg",
+      "svg.simplified": "/SVG_for_Font/Files/pdf.svg",
+      "eps": "/EPS/Files/pdf.eps",
+      "png": {
+        "25": "/PNG/25/Files/pdf-25.png",
+        "32": "/PNG/32/Files/pdf-32.png",
+        "128": "/PNG/128/Files/pdf-128.png",
+        "75": "/PNG/75/Files/pdf-75.png",
+        "256": "/PNG/256/Files/pdf-256.png",
+        "100": "/PNG/100/Files/pdf-100.png",
+        "512": "/PNG/512/Files/pdf-512.png",
+        "50": "/PNG/50/Files/pdf-50.png"
       }
     }
   },
@@ -42526,6 +43905,45 @@
     }
   },
   {
+    "id": 330,
+    "name": "png",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1322740256,
+    "tags": [
+      "graphics",
+      "file",
+      "view",
+      "file types",
+      "portable",
+      "image",
+      "photo",
+      "photograph",
+      "screenshot",
+      "lossless",
+      "extension",
+      "png",
+      "filetype",
+      "data format"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/png.svg",
+      "svg.simplified": "/SVG_for_Font/Files/png.svg",
+      "eps": "/EPS/Files/png.eps",
+      "png": {
+        "25": "/PNG/25/Files/png-25.png",
+        "32": "/PNG/32/Files/png-32.png",
+        "128": "/PNG/128/Files/png-128.png",
+        "75": "/PNG/75/Files/png-75.png",
+        "256": "/PNG/256/Files/png-256.png",
+        "100": "/PNG/100/Files/png-100.png",
+        "512": "/PNG/512/Files/png-512.png",
+        "50": "/PNG/50/Files/png-50.png"
+      }
+    }
+  },
+  {
     "id": 2012,
     "name": "poison",
     "platform": "iPhone/iOS 7",
@@ -43113,6 +44531,38 @@
         "100": "/PNG/100/Logos/power_point-100.png",
         "512": "/PNG/512/Logos/power_point-512.png",
         "50": "/PNG/50/Logos/power_point-50.png"
+      }
+    }
+  },
+  {
+    "id": 3614,
+    "name": "ppt",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1395003082,
+    "tags": [
+      "file",
+      "ppt",
+      "ios7",
+      "extension",
+      "filetype",
+      "data format",
+      "power point"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/ppt.svg",
+      "svg.simplified": "/SVG_for_Font/Files/ppt.svg",
+      "eps": "/EPS/Files/ppt.eps",
+      "png": {
+        "25": "/PNG/25/Files/ppt-25.png",
+        "32": "/PNG/32/Files/ppt-32.png",
+        "128": "/PNG/128/Files/ppt-128.png",
+        "75": "/PNG/75/Files/ppt-75.png",
+        "256": "/PNG/256/Files/ppt-256.png",
+        "100": "/PNG/100/Files/ppt-100.png",
+        "512": "/PNG/512/Files/ppt-512.png",
+        "50": "/PNG/50/Files/ppt-50.png"
       }
     }
   },
@@ -43866,6 +45316,46 @@
         "100": "/PNG/100/Programming/ps-100.png",
         "512": "/PNG/512/Programming/ps-512.png",
         "50": "/PNG/50/Programming/ps-50.png"
+      }
+    }
+  },
+  {
+    "id": 324,
+    "name": "psd",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1322654787,
+    "tags": [
+      "adobe",
+      "file",
+      "file types",
+      "rendering",
+      "photoshop",
+      "image manipulation",
+      "layers",
+      "channels",
+      "psds",
+      "psd",
+      "extension",
+      "filetype",
+      "data format",
+      "photoshop document",
+      "adobe photoshop"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/psd.svg",
+      "svg.simplified": "/SVG_for_Font/Files/psd.svg",
+      "eps": "/EPS/Files/psd.eps",
+      "png": {
+        "25": "/PNG/25/Files/psd-25.png",
+        "32": "/PNG/32/Files/psd-32.png",
+        "128": "/PNG/128/Files/psd-128.png",
+        "75": "/PNG/75/Files/psd-75.png",
+        "256": "/PNG/256/Files/psd-256.png",
+        "100": "/PNG/100/Files/psd-100.png",
+        "512": "/PNG/512/Files/psd-512.png",
+        "50": "/PNG/50/Files/psd-50.png"
       }
     }
   },
@@ -45260,6 +46750,44 @@
         "100": "/PNG/100/Cultures/rainy_weather-100.png",
         "512": "/PNG/512/Cultures/rainy_weather-512.png",
         "50": "/PNG/50/Cultures/rainy_weather-50.png"
+      }
+    }
+  },
+  {
+    "id": 314,
+    "name": "rar",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1322569152,
+    "tags": [
+      "file",
+      "file types",
+      "archive",
+      "compressed",
+      "compression",
+      "extract",
+      "extraction",
+      "self-extracting",
+      "extension",
+      "rar",
+      "filetype",
+      "data format",
+      "rar file"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/rar.svg",
+      "svg.simplified": "/SVG_for_Font/Files/rar.svg",
+      "eps": "/EPS/Files/rar.eps",
+      "png": {
+        "25": "/PNG/25/Files/rar-25.png",
+        "32": "/PNG/32/Files/rar-32.png",
+        "128": "/PNG/128/Files/rar-128.png",
+        "75": "/PNG/75/Files/rar-75.png",
+        "256": "/PNG/256/Files/rar-256.png",
+        "100": "/PNG/100/Files/rar-100.png",
+        "512": "/PNG/512/Files/rar-512.png",
+        "50": "/PNG/50/Files/rar-50.png"
       }
     }
   },
@@ -49399,6 +50927,32 @@
         "100": "/PNG/100/Finance/SEK-100.png",
         "512": "/PNG/512/Finance/SEK-512.png",
         "50": "/PNG/50/Finance/SEK-50.png"
+      }
+    }
+  },
+  {
+    "id": 5105,
+    "name": "self_destruct_button",
+    "platform": "iPhone/iOS 7",
+    "category": "Military",
+    "created": 1403520658,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/self_destruct_button.svg",
+      "svg.simplified": "/SVG_for_Font/Military/self_destruct_button.svg",
+      "eps": "/EPS/Military/self_destruct_button.eps",
+      "png": {
+        "25": "/PNG/25/Military/self_destruct_button-25.png",
+        "32": "/PNG/32/Military/self_destruct_button-32.png",
+        "128": "/PNG/128/Military/self_destruct_button-128.png",
+        "75": "/PNG/75/Military/self_destruct_button-75.png",
+        "256": "/PNG/256/Military/self_destruct_button-256.png",
+        "100": "/PNG/100/Military/self_destruct_button-100.png",
+        "512": "/PNG/512/Military/self_destruct_button-512.png",
+        "50": "/PNG/50/Military/self_destruct_button-50.png"
       }
     }
   },
@@ -56475,6 +58029,37 @@
     }
   },
   {
+    "id": 2809,
+    "name": "tar",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1390342414,
+    "tags": [
+      "file",
+      "files",
+      "extension",
+      "tar",
+      "filetype",
+      "data format"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/tar.svg",
+      "svg.simplified": "/SVG_for_Font/Files/tar.svg",
+      "eps": "/EPS/Files/tar.eps",
+      "png": {
+        "25": "/PNG/25/Files/tar-25.png",
+        "32": "/PNG/32/Files/tar-32.png",
+        "128": "/PNG/128/Files/tar-128.png",
+        "75": "/PNG/75/Files/tar-75.png",
+        "256": "/PNG/256/Files/tar-256.png",
+        "100": "/PNG/100/Files/tar-100.png",
+        "512": "/PNG/512/Files/tar-512.png",
+        "50": "/PNG/50/Files/tar-50.png"
+      }
+    }
+  },
+  {
     "id": 2708,
     "name": "taurus",
     "platform": "iPhone/iOS 7",
@@ -57485,6 +59070,37 @@
         "100": "/PNG/100/Clothing/tie-100.png",
         "512": "/PNG/512/Clothing/tie-512.png",
         "50": "/PNG/50/Clothing/tie-50.png"
+      }
+    }
+  },
+  {
+    "id": 2904,
+    "name": "tif",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1390342414,
+    "tags": [
+      "file",
+      "ios7",
+      "extension",
+      "filetype",
+      "data format",
+      "tif"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/tif.svg",
+      "svg.simplified": "/SVG_for_Font/Files/tif.svg",
+      "eps": "/EPS/Files/tif.eps",
+      "png": {
+        "25": "/PNG/25/Files/tif-25.png",
+        "32": "/PNG/32/Files/tif-32.png",
+        "128": "/PNG/128/Files/tif-128.png",
+        "75": "/PNG/75/Files/tif-75.png",
+        "256": "/PNG/256/Files/tif-256.png",
+        "100": "/PNG/100/Files/tif-100.png",
+        "512": "/PNG/512/Files/tif-512.png",
+        "50": "/PNG/50/Files/tif-50.png"
       }
     }
   },
@@ -60283,6 +61899,39 @@
     }
   },
   {
+    "id": 2892,
+    "name": "ttf",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1390342414,
+    "tags": [
+      "file",
+      "ios7",
+      "extension",
+      "filetype",
+      "data format",
+      "font",
+      "ttf",
+      "true type font"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/ttf.svg",
+      "svg.simplified": "/SVG_for_Font/Files/ttf.svg",
+      "eps": "/EPS/Files/ttf.eps",
+      "png": {
+        "25": "/PNG/25/Files/ttf-25.png",
+        "32": "/PNG/32/Files/ttf-32.png",
+        "128": "/PNG/128/Files/ttf-128.png",
+        "75": "/PNG/75/Files/ttf-75.png",
+        "256": "/PNG/256/Files/ttf-256.png",
+        "100": "/PNG/100/Files/ttf-100.png",
+        "512": "/PNG/512/Files/ttf-512.png",
+        "50": "/PNG/50/Files/ttf-50.png"
+      }
+    }
+  },
+  {
     "id": 1114,
     "name": "tuba",
     "platform": "iPhone/iOS 7",
@@ -60658,6 +62307,41 @@
         "100": "/PNG/100/Mobile/two_smartphones-100.png",
         "512": "/PNG/512/Mobile/two_smartphones-512.png",
         "50": "/PNG/50/Mobile/two_smartphones-50.png"
+      }
+    }
+  },
+  {
+    "id": 2290,
+    "name": "txt",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1378386947,
+    "tags": [
+      "file",
+      "files",
+      "format",
+      "document",
+      "formats",
+      "txt",
+      "asc",
+      "extension",
+      "filetype",
+      "data format"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/txt.svg",
+      "svg.simplified": "/SVG_for_Font/Files/txt.svg",
+      "eps": "/EPS/Files/txt.eps",
+      "png": {
+        "25": "/PNG/25/Files/txt-25.png",
+        "32": "/PNG/32/Files/txt-32.png",
+        "128": "/PNG/128/Files/txt-128.png",
+        "75": "/PNG/75/Files/txt-75.png",
+        "256": "/PNG/256/Files/txt-256.png",
+        "100": "/PNG/100/Files/txt-100.png",
+        "512": "/PNG/512/Files/txt-512.png",
+        "50": "/PNG/50/Files/txt-50.png"
       }
     }
   },
@@ -62413,6 +64097,42 @@
         "100": "/PNG/100/Computer_Hardware/video_camera-100.png",
         "512": "/PNG/512/Computer_Hardware/video_camera-512.png",
         "50": "/PNG/50/Computer_Hardware/video_camera-50.png"
+      }
+    }
+  },
+  {
+    "id": 4910,
+    "name": "view_file",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1401893468,
+    "tags": [
+      "file",
+      "search",
+      "document",
+      "view",
+      "ios7",
+      "magnifying glass",
+      "extension",
+      "filetype",
+      "data format",
+      "view file",
+      "search document"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/view_file.svg",
+      "svg.simplified": "/SVG_for_Font/Files/view_file.svg",
+      "eps": "/EPS/Files/view_file.eps",
+      "png": {
+        "25": "/PNG/25/Files/view_file-25.png",
+        "32": "/PNG/32/Files/view_file-32.png",
+        "128": "/PNG/128/Files/view_file-128.png",
+        "75": "/PNG/75/Files/view_file-75.png",
+        "256": "/PNG/256/Files/view_file-256.png",
+        "100": "/PNG/100/Files/view_file-100.png",
+        "512": "/PNG/512/Files/view_file-512.png",
+        "50": "/PNG/50/Files/view_file-50.png"
       }
     }
   },
@@ -64174,6 +65894,38 @@
     }
   },
   {
+    "id": 2910,
+    "name": "wav",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1390342414,
+    "tags": [
+      "file",
+      "wav",
+      "ios7",
+      "extension",
+      "filetype",
+      "data format",
+      "Waveform Audio File Format"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/wav.svg",
+      "svg.simplified": "/SVG_for_Font/Files/wav.svg",
+      "eps": "/EPS/Files/wav.eps",
+      "png": {
+        "25": "/PNG/25/Files/wav-25.png",
+        "32": "/PNG/32/Files/wav-32.png",
+        "128": "/PNG/128/Files/wav-128.png",
+        "75": "/PNG/75/Files/wav-75.png",
+        "256": "/PNG/256/Files/wav-256.png",
+        "100": "/PNG/100/Files/wav-100.png",
+        "512": "/PNG/512/Files/wav-512.png",
+        "50": "/PNG/50/Files/wav-50.png"
+      }
+    }
+  },
+  {
     "id": 3113,
     "name": "waxing_crescent",
     "platform": "iPhone/iOS 7",
@@ -65623,6 +67375,73 @@
     }
   },
   {
+    "id": 310,
+    "name": "wma",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1322482296,
+    "tags": [
+      "microsoft",
+      "file",
+      "music",
+      "wma",
+      "audio",
+      "file types",
+      "windows media",
+      "media",
+      "extension",
+      "filetype",
+      "data format"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/wma.svg",
+      "svg.simplified": "/SVG_for_Font/Files/wma.svg",
+      "eps": "/EPS/Files/wma.eps",
+      "png": {
+        "25": "/PNG/25/Files/wma-25.png",
+        "32": "/PNG/32/Files/wma-32.png",
+        "128": "/PNG/128/Files/wma-128.png",
+        "75": "/PNG/75/Files/wma-75.png",
+        "256": "/PNG/256/Files/wma-256.png",
+        "100": "/PNG/100/Files/wma-100.png",
+        "512": "/PNG/512/Files/wma-512.png",
+        "50": "/PNG/50/Files/wma-50.png"
+      }
+    }
+  },
+  {
+    "id": 3615,
+    "name": "woff",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1395003082,
+    "tags": [
+      "file",
+      "ios7",
+      "extension",
+      "filetype",
+      "data format",
+      "woff"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/woff.svg",
+      "svg.simplified": "/SVG_for_Font/Files/woff.svg",
+      "eps": "/EPS/Files/woff.eps",
+      "png": {
+        "25": "/PNG/25/Files/woff-25.png",
+        "32": "/PNG/32/Files/woff-32.png",
+        "128": "/PNG/128/Files/woff-128.png",
+        "75": "/PNG/75/Files/woff-75.png",
+        "256": "/PNG/256/Files/woff-256.png",
+        "100": "/PNG/100/Files/woff-100.png",
+        "512": "/PNG/512/Files/woff-512.png",
+        "50": "/PNG/50/Files/woff-50.png"
+      }
+    }
+  },
+  {
     "id": 301,
     "name": "word",
     "platform": "iPhone/iOS 7",
@@ -66061,6 +67880,39 @@
         "100": "/PNG/100/Logos/xlarge_icons-100.png",
         "512": "/PNG/512/Logos/xlarge_icons-512.png",
         "50": "/PNG/50/Logos/xlarge_icons-50.png"
+      }
+    }
+  },
+  {
+    "id": 2937,
+    "name": "xls",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1390342414,
+    "tags": [
+      "spreadsheet",
+      "file",
+      "extension",
+      "xlsx",
+      "filetype",
+      "data format",
+      "xls",
+      "Microsoft Excel"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/xls.svg",
+      "svg.simplified": "/SVG_for_Font/Files/xls.svg",
+      "eps": "/EPS/Files/xls.eps",
+      "png": {
+        "25": "/PNG/25/Files/xls-25.png",
+        "32": "/PNG/32/Files/xls-32.png",
+        "128": "/PNG/128/Files/xls-128.png",
+        "75": "/PNG/75/Files/xls-75.png",
+        "256": "/PNG/256/Files/xls-256.png",
+        "100": "/PNG/100/Files/xls-100.png",
+        "512": "/PNG/512/Files/xls-512.png",
+        "50": "/PNG/50/Files/xls-50.png"
       }
     }
   },
@@ -66729,6 +68581,44 @@
         "100": "/PNG/100/Sports/yoga-100.png",
         "512": "/PNG/512/Sports/yoga-512.png",
         "50": "/PNG/50/Sports/yoga-50.png"
+      }
+    }
+  },
+  {
+    "id": 312,
+    "name": "zip",
+    "platform": "iPhone/iOS 7",
+    "category": "Files",
+    "created": 1322569152,
+    "tags": [
+      "file",
+      "file types",
+      "zip file",
+      "archive",
+      "compressed",
+      "compression",
+      "extract",
+      "extraction",
+      "self-extracting",
+      "zip",
+      "extension",
+      "filetype",
+      "data format"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/zip.svg",
+      "svg.simplified": "/SVG_for_Font/Files/zip.svg",
+      "eps": "/EPS/Files/zip.eps",
+      "png": {
+        "25": "/PNG/25/Files/zip-25.png",
+        "32": "/PNG/32/Files/zip-32.png",
+        "128": "/PNG/128/Files/zip-128.png",
+        "75": "/PNG/75/Files/zip-75.png",
+        "256": "/PNG/256/Files/zip-256.png",
+        "100": "/PNG/100/Files/zip-100.png",
+        "512": "/PNG/512/Files/zip-512.png",
+        "50": "/PNG/50/Files/zip-50.png"
       }
     }
   },
