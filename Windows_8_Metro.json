@@ -2972,6 +2972,50 @@
     }
   },
   {
+    "id": 5216,
+    "name": "archeology",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1403787053,
+    "tags": [
+      "broken",
+      "water",
+      "cup",
+      "travel",
+      "vase",
+      "past",
+      "art",
+      "history",
+      "shiny",
+      "ancient",
+      "traditional",
+      "urn",
+      "pot",
+      "vessel",
+      "crack",
+      "roman",
+      "culture",
+      "piller",
+      "amphora",
+      "damaged"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/archeology.svg",
+      "svg.simplified": "/SVG_for_Font/City/archeology.svg",
+      "eps": "/EPS/City/archeology.eps",
+      "png": {
+        "32": "/PNG/32/City/archeology-32.png",
+        "128": "/PNG/128/City/archeology-128.png",
+        "26": "/PNG/26/City/archeology-26.png",
+        "256": "/PNG/256/City/archeology-256.png",
+        "512": "/PNG/512/City/archeology-512.png",
+        "64": "/PNG/64/City/archeology-64.png",
+        "48": "/PNG/48/City/archeology-48.png"
+      }
+    }
+  },
+  {
     "id": 442,
     "name": "archive",
     "platform": "Windows 8/Metro",
@@ -5614,7 +5658,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/bear_track.svg",
-      "svg.simplified": "/SVG_for_Font/Travel/bear_track.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/bear_track.svg",
       "eps": "/EPS/Animals/bear_track.eps",
       "png": {
         "32": "/PNG/32/Animals/bear_track-32.png",
@@ -10717,7 +10761,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/cat_track.svg",
-      "svg.simplified": "/SVG_for_Font/Travel/cat_track.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/cat_track.svg",
       "eps": "/EPS/Animals/cat_track.eps",
       "png": {
         "32": "/PNG/32/Animals/cat_track-32.png",
@@ -12820,6 +12864,31 @@
         "512": "/PNG/512/Plants/citrus-512.png",
         "64": "/PNG/64/Plants/citrus-64.png",
         "48": "/PNG/48/Plants/citrus-48.png"
+      }
+    }
+  },
+  {
+    "id": 5173,
+    "name": "city_bench",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1403722262,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/city_bench.svg",
+      "svg.simplified": "/SVG_for_Font/City/city_bench.svg",
+      "eps": "/EPS/City/city_bench.eps",
+      "png": {
+        "32": "/PNG/32/City/city_bench-32.png",
+        "128": "/PNG/128/City/city_bench-128.png",
+        "26": "/PNG/26/City/city_bench-26.png",
+        "256": "/PNG/256/City/city_bench-256.png",
+        "512": "/PNG/512/City/city_bench-512.png",
+        "64": "/PNG/64/City/city_bench-64.png",
+        "48": "/PNG/48/City/city_bench-48.png"
       }
     }
   },
@@ -20056,7 +20125,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Animals/dog_track.svg",
-      "svg.simplified": "/SVG_for_Font/Travel/dog_track.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/dog_track.svg",
       "eps": "/EPS/Animals/dog_track.eps",
       "png": {
         "32": "/PNG/32/Animals/dog_track-32.png",
@@ -42420,6 +42489,50 @@
     }
   },
   {
+    "id": 5214,
+    "name": "modern_art",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1403787053,
+    "tags": [
+      "line",
+      "ink",
+      "happy",
+      "graphic",
+      "oil",
+      "art",
+      "grid",
+      "element",
+      "colour",
+      "geometric",
+      "asymmetric",
+      "dream",
+      "scrapbook",
+      "tile",
+      "composition",
+      "modern art",
+      "photo album",
+      "mosaic",
+      "fine",
+      "layout"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/modern_art.svg",
+      "svg.simplified": "/SVG_for_Font/City/modern_art.svg",
+      "eps": "/EPS/City/modern_art.eps",
+      "png": {
+        "32": "/PNG/32/City/modern_art-32.png",
+        "128": "/PNG/128/City/modern_art-128.png",
+        "26": "/PNG/26/City/modern_art-26.png",
+        "256": "/PNG/256/City/modern_art-256.png",
+        "512": "/PNG/512/City/modern_art-512.png",
+        "64": "/PNG/64/City/modern_art-64.png",
+        "48": "/PNG/48/City/modern_art-48.png"
+      }
+    }
+  },
+  {
     "id": 4769,
     "name": "modern_statue",
     "platform": "Windows 8/Metro",
@@ -48167,6 +48280,51 @@
     }
   },
   {
+    "id": 5167,
+    "name": "palace",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1403700664,
+    "tags": [
+      "new",
+      "home",
+      "travel",
+      "guard",
+      "leader",
+      "king",
+      "queen",
+      "history",
+      "safe",
+      "stone",
+      "red",
+      "arabic",
+      "india",
+      "landmark",
+      "traditional",
+      "marble",
+      "royal",
+      "palace",
+      "castle",
+      "delhi",
+      "kingdom"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/palace.svg",
+      "svg.simplified": "/SVG_for_Font/City/palace.svg",
+      "eps": "/EPS/City/palace.eps",
+      "png": {
+        "32": "/PNG/32/City/palace-32.png",
+        "128": "/PNG/128/City/palace-128.png",
+        "26": "/PNG/26/City/palace-26.png",
+        "256": "/PNG/256/City/palace-256.png",
+        "512": "/PNG/512/City/palace-512.png",
+        "64": "/PNG/64/City/palace-64.png",
+        "48": "/PNG/48/City/palace-48.png"
+      }
+    }
+  },
+  {
     "id": 827,
     "name": "palm_tree",
     "platform": "Windows 8/Metro",
@@ -51945,6 +52103,45 @@
     }
   },
   {
+    "id": 5218,
+    "name": "portrait",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1403787053,
+    "tags": [
+      "card",
+      "album",
+      "cool",
+      "graphic",
+      "photo",
+      "head",
+      "young",
+      "frame",
+      "style",
+      "funny",
+      "cute",
+      "colour",
+      "portrait",
+      "pattern",
+      "poster"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/portrait.svg",
+      "svg.simplified": "/SVG_for_Font/City/portrait.svg",
+      "eps": "/EPS/City/portrait.eps",
+      "png": {
+        "32": "/PNG/32/City/portrait-32.png",
+        "128": "/PNG/128/City/portrait-128.png",
+        "26": "/PNG/26/City/portrait-26.png",
+        "256": "/PNG/256/City/portrait-256.png",
+        "512": "/PNG/512/City/portrait-512.png",
+        "64": "/PNG/64/City/portrait-64.png",
+        "48": "/PNG/48/City/portrait-48.png"
+      }
+    }
+  },
+  {
     "id": 2520,
     "name": "portrait_mode",
     "platform": "Windows 8/Metro",
@@ -52710,6 +52907,50 @@
         "512": "/PNG/512/Printing/printer-512.png",
         "64": "/PNG/64/Printing/printer-64.png",
         "48": "/PNG/48/Printing/printer-48.png"
+      }
+    }
+  },
+  {
+    "id": 5169,
+    "name": "prison",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1403700664,
+    "tags": [
+      "cell",
+      "year",
+      "graph",
+      "prison",
+      "lines",
+      "room",
+      "square",
+      "dark",
+      "bars",
+      "metal",
+      "grid",
+      "concrete",
+      "cement",
+      "blocks",
+      "angles",
+      "cells",
+      "arrest",
+      "jail",
+      "tic-tac-toe",
+      "game board"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/prison.svg",
+      "svg.simplified": "/SVG_for_Font/City/prison.svg",
+      "eps": "/EPS/City/prison.eps",
+      "png": {
+        "32": "/PNG/32/City/prison-32.png",
+        "128": "/PNG/128/City/prison-128.png",
+        "26": "/PNG/26/City/prison-26.png",
+        "256": "/PNG/256/City/prison-256.png",
+        "512": "/PNG/512/City/prison-512.png",
+        "64": "/PNG/64/City/prison-64.png",
+        "48": "/PNG/48/City/prison-48.png"
       }
     }
   },
@@ -59451,35 +59692,6 @@
         "512": "/PNG/512/Very_Basic/search-512.png",
         "64": "/PNG/64/Very_Basic/search-64.png",
         "48": "/PNG/48/Very_Basic/search-48.png"
-      }
-    }
-  },
-  {
-    "id": 3022,
-    "name": "sea_waves",
-    "platform": "Windows 8/Metro",
-    "category": "Travel",
-    "created": 1390485046,
-    "tags": [
-      "nature",
-      "biology",
-      "wildlife",
-      "zoo",
-      "zoology"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Travel/sea_waves.svg",
-      "svg.simplified": "/SVG_for_Font/Animals/sea_waves.svg",
-      "eps": "/EPS/Travel/sea_waves.eps",
-      "png": {
-        "32": "/PNG/32/Travel/sea_waves-32.png",
-        "128": "/PNG/128/Travel/sea_waves-128.png",
-        "26": "/PNG/26/Travel/sea_waves-26.png",
-        "256": "/PNG/256/Travel/sea_waves-256.png",
-        "512": "/PNG/512/Travel/sea_waves-512.png",
-        "64": "/PNG/64/Travel/sea_waves-64.png",
-        "48": "/PNG/48/Travel/sea_waves-48.png"
       }
     }
   },
@@ -68169,6 +68381,49 @@
         "512": "/PNG/512/Baby/teddybear-512.png",
         "64": "/PNG/64/Baby/teddybear-64.png",
         "48": "/PNG/48/Baby/teddybear-48.png"
+      }
+    }
+  },
+  {
+    "id": 5168,
+    "name": "telescope",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1403700664,
+    "tags": [
+      "magnify",
+      "sky",
+      "view",
+      "stars",
+      "visible",
+      "space",
+      "focus",
+      "optical",
+      "sight",
+      "mount",
+      "vision",
+      "reflect",
+      "astronomy",
+      "scope",
+      "range",
+      "telescope",
+      "galileo",
+      "xrays",
+      "gamma ray"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/telescope.svg",
+      "svg.simplified": "/SVG_for_Font/City/telescope.svg",
+      "eps": "/EPS/City/telescope.eps",
+      "png": {
+        "32": "/PNG/32/City/telescope-32.png",
+        "128": "/PNG/128/City/telescope-128.png",
+        "26": "/PNG/26/City/telescope-26.png",
+        "256": "/PNG/256/City/telescope-256.png",
+        "512": "/PNG/512/City/telescope-512.png",
+        "64": "/PNG/64/City/telescope-64.png",
+        "48": "/PNG/48/City/telescope-48.png"
       }
     }
   },
