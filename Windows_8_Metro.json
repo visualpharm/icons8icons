@@ -8643,10 +8643,10 @@
     "category": "Printing",
     "created": 1325168663,
     "tags": [
-      "book",
       "library",
       "person",
-      "printed matter"
+      "printed matter",
+      "book"
     ],
     "copyright": false,
     "files": {
