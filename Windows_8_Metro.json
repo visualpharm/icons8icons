@@ -1610,11 +1610,20 @@
       "edit",
       "show",
       "plus",
+      "addition",
+      "lines",
+      "sign",
       "list",
+      "square",
+      "form",
+      "emblem",
+      "circle",
+      "corner",
       "cross shape",
       "add property",
       "properties",
-      "list of properties"
+      "list of properties",
+      "heading"
     ],
     "copyright": false,
     "files": {
@@ -20249,12 +20258,22 @@
       "delete",
       "cross",
       "edit",
+      "paper",
       "show",
+      "document",
+      "lines",
       "list",
+      "square",
+      "circle",
+      "multiplication",
+      "corner",
       "cross shape",
       "properties",
       "list of properties",
-      "delete property"
+      "delete property",
+      "sentences",
+      "heading",
+      "writings"
     ],
     "copyright": false,
     "files": {
@@ -23589,13 +23608,21 @@
     "created": 1369150262,
     "tags": [
       "check",
+      "pencil",
       "edit",
+      "pen",
+      "write",
       "key",
+      "data",
+      "notes",
+      "document",
+      "record",
       "list",
       "speaker",
       "properties",
       "list of properties",
       "edit property",
+      "compile",
       "logging",
       "specker"
     ],
@@ -51967,7 +51994,6 @@
     "tags": [
       "android",
       "cell",
-      "phone",
       "smartphone",
       "device",
       "mail",
@@ -51986,6 +52012,7 @@
       "whatsapp",
       "samsung",
       "lg",
+      "phone",
       "dial"
     ],
     "copyright": false,
@@ -62006,36 +62033,36 @@
     }
   },
   {
-    "id": 5265,
-    "name": "search_properties",
+    "id": 5268,
+    "name": "search_property",
     "platform": "Windows 8/Metro",
     "category": "Programming",
-    "created": 1404226266,
+    "created": 1404233481,
     "tags": [
       "find",
       "search",
       "magnify",
       "zoom",
+      "zoom in",
+      "zoom out",
+      "resize",
+      "expand",
       "enlarge",
-      "pinpoint",
-      "look for",
-      "search engine",
-      "lookup",
-      "magnify glass"
+      "close up"
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Programming/search_properties.svg",
-      "svg.simplified": "/SVG_for_Font/Programming/search_properties.svg",
-      "eps": "/EPS/Programming/search_properties.eps",
+      "svg": "/SVG/Programming/search_property.svg",
+      "svg.simplified": "/SVG_for_Font/Programming/search_property.svg",
+      "eps": "/EPS/Programming/search_property.eps",
       "png": {
-        "32": "/PNG/32/Programming/search_properties-32.png",
-        "128": "/PNG/128/Programming/search_properties-128.png",
-        "26": "/PNG/26/Programming/search_properties-26.png",
-        "256": "/PNG/256/Programming/search_properties-256.png",
-        "512": "/PNG/512/Programming/search_properties-512.png",
-        "64": "/PNG/64/Programming/search_properties-64.png",
-        "48": "/PNG/48/Programming/search_properties-48.png"
+        "32": "/PNG/32/Programming/search_property-32.png",
+        "128": "/PNG/128/Programming/search_property-128.png",
+        "26": "/PNG/26/Programming/search_property-26.png",
+        "256": "/PNG/256/Programming/search_property-256.png",
+        "512": "/PNG/512/Programming/search_property-512.png",
+        "64": "/PNG/64/Programming/search_property-64.png",
+        "48": "/PNG/48/Programming/search_property-48.png"
       }
     }
   },
@@ -63638,13 +63665,23 @@
     "tags": [
       "calculator",
       "show",
+      "line",
+      "length",
+      "round",
       "list",
+      "logo",
+      "rectangle",
       "eye",
+      "dot",
+      "long",
+      "property",
       "model",
+      "colour",
       "back",
       "properties",
       "list of properties",
-      "show property"
+      "show property",
+      "vision"
     ],
     "copyright": false,
     "files": {
@@ -66078,6 +66115,41 @@
     }
   },
   {
+    "id": 5274,
+    "name": "spaghetti",
+    "platform": "Windows 8/Metro",
+    "category": "Food",
+    "created": 1404233481,
+    "tags": [
+      "food",
+      "dinner",
+      "eat",
+      "fork",
+      "taste",
+      "lunch",
+      "utensil",
+      "italian",
+      "pasta",
+      "spaghetti",
+      "italian food"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/spaghetti.svg",
+      "svg.simplified": "/SVG_for_Font/Food/spaghetti.svg",
+      "eps": "/EPS/Food/spaghetti.eps",
+      "png": {
+        "32": "/PNG/32/Food/spaghetti-32.png",
+        "128": "/PNG/128/Food/spaghetti-128.png",
+        "26": "/PNG/26/Food/spaghetti-26.png",
+        "256": "/PNG/256/Food/spaghetti-256.png",
+        "512": "/PNG/512/Food/spaghetti-512.png",
+        "64": "/PNG/64/Food/spaghetti-64.png",
+        "48": "/PNG/48/Food/spaghetti-48.png"
+      }
+    }
+  },
+  {
     "id": 1734,
     "name": "spark_plug",
     "platform": "Windows 8/Metro",
@@ -67707,9 +67779,13 @@
       "meat",
       "lunch",
       "beef",
+      "tender",
       "steak",
       "t-bone steak",
-      "bovine"
+      "bovine",
+      "tbone",
+      "barbeque",
+      "ribeye"
     ],
     "copyright": false,
     "files": {
