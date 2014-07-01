@@ -15314,7 +15314,8 @@
       "assurance",
       "guarantee",
       "warranty",
-      "word of honor"
+      "word of honor",
+      "profil"
     ],
     "copyright": false,
     "files": {
@@ -16492,6 +16493,7 @@
     "tags": [
       "show",
       "genres",
+      "cards",
       "actors",
       "hat",
       "theatre",
@@ -38561,16 +38563,12 @@
     "category": "Military",
     "created": 1346904000,
     "tags": [
-      "cut",
       "military",
-      "mellee",
-      "knife",
       "combat",
       "stab",
       "stabbing",
       "assasination",
       "wound",
-      "weapon",
       "defense",
       "pentagon",
       "guard",
@@ -38580,7 +38578,11 @@
       "navy",
       "war",
       "battle",
-      "warfare"
+      "warfare",
+      "cut",
+      "mellee",
+      "knife",
+      "weapon"
     ],
     "copyright": false,
     "files": {
@@ -49030,6 +49032,7 @@
       "v",
       "checklist",
       "active",
+      "detected",
       "checkmark"
     ],
     "copyright": false,
@@ -62003,6 +62006,40 @@
     }
   },
   {
+    "id": 5265,
+    "name": "search_properties",
+    "platform": "Windows 8/Metro",
+    "category": "Programming",
+    "created": 1404226266,
+    "tags": [
+      "find",
+      "search",
+      "magnify",
+      "zoom",
+      "enlarge",
+      "pinpoint",
+      "look for",
+      "search engine",
+      "lookup",
+      "magnify glass"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Programming/search_properties.svg",
+      "svg.simplified": "/SVG_for_Font/Programming/search_properties.svg",
+      "eps": "/EPS/Programming/search_properties.eps",
+      "png": {
+        "32": "/PNG/32/Programming/search_properties-32.png",
+        "128": "/PNG/128/Programming/search_properties-128.png",
+        "26": "/PNG/26/Programming/search_properties-26.png",
+        "256": "/PNG/256/Programming/search_properties-256.png",
+        "512": "/PNG/512/Programming/search_properties-512.png",
+        "64": "/PNG/64/Programming/search_properties-64.png",
+        "48": "/PNG/48/Programming/search_properties-48.png"
+      }
+    }
+  },
+  {
     "id": 3022,
     "name": "sea_waves",
     "platform": "Windows 8/Metro",
@@ -67653,6 +67690,40 @@
         "512": "/PNG/512/Travel/statue_of_liberty-512.png",
         "64": "/PNG/64/Travel/statue_of_liberty-64.png",
         "48": "/PNG/48/Travel/statue_of_liberty-48.png"
+      }
+    }
+  },
+  {
+    "id": 5266,
+    "name": "steak",
+    "platform": "Windows 8/Metro",
+    "category": "Food",
+    "created": 1404226266,
+    "tags": [
+      "food",
+      "cow",
+      "dinner",
+      "eat",
+      "meat",
+      "lunch",
+      "beef",
+      "steak",
+      "t-bone steak",
+      "bovine"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/steak.svg",
+      "svg.simplified": "/SVG_for_Font/Food/steak.svg",
+      "eps": "/EPS/Food/steak.eps",
+      "png": {
+        "32": "/PNG/32/Food/steak-32.png",
+        "128": "/PNG/128/Food/steak-128.png",
+        "26": "/PNG/26/Food/steak-26.png",
+        "256": "/PNG/256/Food/steak-256.png",
+        "512": "/PNG/512/Food/steak-512.png",
+        "64": "/PNG/64/Food/steak-64.png",
+        "48": "/PNG/48/Food/steak-48.png"
       }
     }
   },
@@ -79229,6 +79300,7 @@
       "text",
       "picture",
       "sign",
+      "fastest",
       "geo",
       "dot",
       "gps",
