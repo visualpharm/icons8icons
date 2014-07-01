@@ -3604,6 +3604,39 @@
     }
   },
   {
+    "id": 3481,
+    "name": "apartment",
+    "platform": "Windows 8/Metro",
+    "category": "Household",
+    "created": 1393523484,
+    "tags": [
+      "edit",
+      "home",
+      "house",
+      "flat",
+      "apartment",
+      "interior",
+      "domestic",
+      "living space",
+      "accommodation"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/apartment.svg",
+      "svg.simplified": "/SVG_for_Font/Household/apartment.svg",
+      "eps": "/EPS/Household/apartment.eps",
+      "png": {
+        "32": "/PNG/32/Household/apartment-32.png",
+        "128": "/PNG/128/Household/apartment-128.png",
+        "26": "/PNG/26/Household/apartment-26.png",
+        "256": "/PNG/256/Household/apartment-256.png",
+        "512": "/PNG/512/Household/apartment-512.png",
+        "64": "/PNG/64/Household/apartment-64.png",
+        "48": "/PNG/48/Household/apartment-48.png"
+      }
+    }
+  },
+  {
     "id": 233,
     "name": "applouse",
     "platform": "Windows 8/Metro",
@@ -13404,6 +13437,7 @@
       "grocery",
       "cart",
       "cashier",
+      "moniter",
       "store"
     ],
     "copyright": false,
@@ -26252,6 +26286,44 @@
         "512": "/PNG/512/Media_Controls/fast_forward-512.png",
         "64": "/PNG/64/Media_Controls/fast_forward-64.png",
         "48": "/PNG/48/Media_Controls/fast_forward-48.png"
+      }
+    }
+  },
+  {
+    "id": 5261,
+    "name": "father",
+    "platform": "Windows 8/Metro",
+    "category": "Baby",
+    "created": 1404175873,
+    "tags": [
+      "family",
+      "hand",
+      "head",
+      "roll",
+      "wheel",
+      "legs",
+      "body",
+      "standing",
+      "shadow",
+      "toy",
+      "dress",
+      "tub",
+      "parent",
+      "gardian"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Baby/father.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/father.svg",
+      "eps": "/EPS/Baby/father.eps",
+      "png": {
+        "32": "/PNG/32/Baby/father-32.png",
+        "128": "/PNG/128/Baby/father-128.png",
+        "26": "/PNG/26/Baby/father-26.png",
+        "256": "/PNG/256/Baby/father-256.png",
+        "512": "/PNG/512/Baby/father-512.png",
+        "64": "/PNG/64/Baby/father-64.png",
+        "48": "/PNG/48/Baby/father-48.png"
       }
     }
   },
@@ -45110,6 +45182,50 @@
     }
   },
   {
+    "id": 5259,
+    "name": "mother",
+    "platform": "Windows 8/Metro",
+    "category": "Baby",
+    "created": 1404175873,
+    "tags": [
+      "love",
+      "security",
+      "round",
+      "safety",
+      "head",
+      "female",
+      "roll",
+      "wheel",
+      "circle",
+      "standing",
+      "affection",
+      "toy",
+      "leg",
+      "dress",
+      "lady",
+      "take care",
+      "child birth",
+      "baby care",
+      "good friend",
+      "parent"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Baby/mother.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/mother.svg",
+      "eps": "/EPS/Baby/mother.eps",
+      "png": {
+        "32": "/PNG/32/Baby/mother-32.png",
+        "128": "/PNG/128/Baby/mother-128.png",
+        "26": "/PNG/26/Baby/mother-26.png",
+        "256": "/PNG/256/Baby/mother-256.png",
+        "512": "/PNG/512/Baby/mother-512.png",
+        "64": "/PNG/64/Baby/mother-64.png",
+        "48": "/PNG/48/Baby/mother-48.png"
+      }
+    }
+  },
+  {
     "id": 2204,
     "name": "motion_detector",
     "platform": "Windows 8/Metro",
@@ -54733,6 +54849,50 @@
         "512": "/PNG/512/Cinema/predator-512.png",
         "64": "/PNG/64/Cinema/predator-64.png",
         "48": "/PNG/48/Cinema/predator-48.png"
+      }
+    }
+  },
+  {
+    "id": 5263,
+    "name": "pregnant",
+    "platform": "Windows 8/Metro",
+    "category": "Baby",
+    "created": 1404175873,
+    "tags": [
+      "heart",
+      "round",
+      "head",
+      "figure",
+      "legs",
+      "circle",
+      "face",
+      "toy",
+      "dress",
+      "carrying",
+      "expectant",
+      "childing",
+      "in family way",
+      "with child",
+      "carrying child",
+      "loaded",
+      "enceinte",
+      "gravid",
+      "heavy with child",
+      "expecting a baby"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Baby/pregnant.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/pregnant.svg",
+      "eps": "/EPS/Baby/pregnant.eps",
+      "png": {
+        "32": "/PNG/32/Baby/pregnant-32.png",
+        "128": "/PNG/128/Baby/pregnant-128.png",
+        "26": "/PNG/26/Baby/pregnant-26.png",
+        "256": "/PNG/256/Baby/pregnant-256.png",
+        "512": "/PNG/512/Baby/pregnant-512.png",
+        "64": "/PNG/64/Baby/pregnant-64.png",
+        "48": "/PNG/48/Baby/pregnant-48.png"
       }
     }
   },
@@ -70806,6 +70966,7 @@
       "key",
       "arrow",
       "screen",
+      "document",
       "way",
       "symbol",
       "clue",

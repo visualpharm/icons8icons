@@ -21209,6 +21209,45 @@
     }
   },
   {
+    "id": 5262,
+    "name": "father",
+    "platform": "iPhone/iOS 7",
+    "category": "Baby",
+    "created": 1404175873,
+    "tags": [
+      "family",
+      "hand",
+      "head",
+      "roll",
+      "wheel",
+      "legs",
+      "body",
+      "standing",
+      "shadow",
+      "toy",
+      "dress",
+      "tub",
+      "parent",
+      "gardian"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Baby/father.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/father.svg",
+      "eps": "/EPS/Baby/father.eps",
+      "png": {
+        "25": "/PNG/25/Baby/father-25.png",
+        "32": "/PNG/32/Baby/father-32.png",
+        "128": "/PNG/128/Baby/father-128.png",
+        "75": "/PNG/75/Baby/father-75.png",
+        "256": "/PNG/256/Baby/father-256.png",
+        "100": "/PNG/100/Baby/father-100.png",
+        "512": "/PNG/512/Baby/father-512.png",
+        "50": "/PNG/50/Baby/father-50.png"
+      }
+    }
+  },
+  {
     "id": 2742,
     "name": "fb2",
     "platform": "iPhone/iOS 7",
@@ -37477,6 +37516,51 @@
     }
   },
   {
+    "id": 5260,
+    "name": "mother",
+    "platform": "iPhone/iOS 7",
+    "category": "Baby",
+    "created": 1404175873,
+    "tags": [
+      "love",
+      "security",
+      "round",
+      "safety",
+      "head",
+      "female",
+      "roll",
+      "wheel",
+      "circle",
+      "standing",
+      "affection",
+      "toy",
+      "leg",
+      "dress",
+      "lady",
+      "take care",
+      "child birth",
+      "baby care",
+      "good friend",
+      "parent"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Baby/mother.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/mother.svg",
+      "eps": "/EPS/Baby/mother.eps",
+      "png": {
+        "25": "/PNG/25/Baby/mother-25.png",
+        "32": "/PNG/32/Baby/mother-32.png",
+        "128": "/PNG/128/Baby/mother-128.png",
+        "75": "/PNG/75/Baby/mother-75.png",
+        "256": "/PNG/256/Baby/mother-256.png",
+        "100": "/PNG/100/Baby/mother-100.png",
+        "512": "/PNG/512/Baby/mother-512.png",
+        "50": "/PNG/50/Baby/mother-50.png"
+      }
+    }
+  },
+  {
     "id": 2205,
     "name": "motion_detector",
     "platform": "iPhone/iOS 7",
@@ -45011,6 +45095,51 @@
         "100": "/PNG/100/Cultures/pranava-100.png",
         "512": "/PNG/512/Cultures/pranava-512.png",
         "50": "/PNG/50/Cultures/pranava-50.png"
+      }
+    }
+  },
+  {
+    "id": 5264,
+    "name": "pregnant",
+    "platform": "iPhone/iOS 7",
+    "category": "Baby",
+    "created": 1404175873,
+    "tags": [
+      "heart",
+      "round",
+      "head",
+      "figure",
+      "legs",
+      "circle",
+      "face",
+      "toy",
+      "dress",
+      "carrying",
+      "expectant",
+      "childing",
+      "in family way",
+      "with child",
+      "carrying child",
+      "loaded",
+      "enceinte",
+      "gravid",
+      "heavy with child",
+      "expecting a baby"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Baby/pregnant.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/pregnant.svg",
+      "eps": "/EPS/Baby/pregnant.eps",
+      "png": {
+        "25": "/PNG/25/Baby/pregnant-25.png",
+        "32": "/PNG/32/Baby/pregnant-32.png",
+        "128": "/PNG/128/Baby/pregnant-128.png",
+        "75": "/PNG/75/Baby/pregnant-75.png",
+        "256": "/PNG/256/Baby/pregnant-256.png",
+        "100": "/PNG/100/Baby/pregnant-100.png",
+        "512": "/PNG/512/Baby/pregnant-512.png",
+        "50": "/PNG/50/Baby/pregnant-50.png"
       }
     }
   },

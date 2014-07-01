@@ -5367,6 +5367,7 @@
       "city",
       "station",
       "bus station",
+      "subway",
       "travel"
     ],
     "copyright": false,
