@@ -3240,7 +3240,6 @@
       "infant",
       "apartment",
       "two",
-      "circle",
       "cute",
       "face",
       "boy",
@@ -44783,7 +44782,6 @@
       "bookmark",
       "favorite",
       "link",
-      "star",
       "talk",
       "speech",
       "winner",
@@ -44800,7 +44798,8 @@
       "bookmarked",
       "important",
       "recommended",
-      "famous"
+      "famous",
+      "star"
     ],
     "copyright": false,
     "files": {
