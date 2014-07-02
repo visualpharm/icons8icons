@@ -13124,7 +13124,6 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
-      "box",
       "shipping",
       "package",
       "send",
@@ -13143,7 +13142,8 @@
       "carton",
       "delivering",
       "packing",
-      "packer"
+      "packer",
+      "box"
     ],
     "copyright": false,
     "files": {
@@ -16085,7 +16085,6 @@
     "created": 1400010681,
     "tags": [
       "ring",
-      "check",
       "empty",
       "zodiac",
       "ball",
@@ -16101,6 +16100,7 @@
       "white",
       "plate",
       "circle",
+      "cylinder",
       "future",
       "on",
       "whole",
