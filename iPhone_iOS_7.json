@@ -1084,11 +1084,13 @@
       "fly",
       "flight",
       "airplane",
+      "bars",
       "checkbox",
       "holiday",
       "shuttle",
       "plane",
-      "chef"
+      "chef",
+      "three horizontal bars"
     ],
     "copyright": false,
     "files": {
@@ -11729,6 +11731,7 @@
     "tags": [
       "music",
       "notes",
+      "settings",
       "support",
       "sun",
       "weather"
@@ -17805,6 +17808,7 @@
     "category": "Very Basic",
     "created": 1401144672,
     "tags": [
+      "camera",
       "cloud"
     ],
     "copyright": false,
@@ -49242,6 +49246,7 @@
     "category": "Healthcare",
     "created": 1402318254,
     "tags": [
+      "boy",
       "ealth"
     ],
     "copyright": false,
@@ -57070,6 +57075,7 @@
     "category": "Users",
     "created": 1367339171,
     "tags": [
+      "work",
       "human",
       "people",
       "education",

@@ -24337,6 +24337,7 @@
       "windows",
       "window",
       "door",
+      "state",
       "flag",
       "city",
       "building",
@@ -24356,7 +24357,10 @@
       "three story",
       "office building",
       "meeting place",
-      "wayfinding"
+      "wayfinding",
+      "parlament",
+      "headquarters",
+      "mayor s office"
     ],
     "copyright": false,
     "files": {
@@ -25953,6 +25957,8 @@
     "category": "Industry",
     "created": 1362481664,
     "tags": [
+      "house",
+      "building",
       "business concepts",
       "china",
       "business",
@@ -26002,6 +26008,7 @@
     "created": 1395348684,
     "tags": [
       "economy",
+      "building",
       "computer",
       "manufacturing",
       "production",
@@ -26035,8 +26042,7 @@
       "disaster",
       "destruction",
       "breakdown",
-      "catastrophe",
-      "chern"
+      "catastro"
     ],
     "copyright": false,
     "files": {
@@ -30685,7 +30691,7 @@
     "category": "Industry",
     "created": 1395935483,
     "tags": [
-      "economy",
+      "building",
       "technology",
       "electricity",
       "environment",
@@ -48348,15 +48354,16 @@
     "category": "Industry",
     "created": 1377683318,
     "tags": [
-      "economy",
       "electric",
       "logo",
       "technology",
       "electricity",
+      "pipe",
       "plant",
       "manufacturing",
       "production",
       "radiation",
+      "smoke",
       "engineering",
       "factory",
       "industrial",
@@ -50453,7 +50460,6 @@
       "prayer",
       "jesus",
       "house of worship",
-      "app",
       "destination",
       "point",
       "building",
@@ -50462,6 +50468,8 @@
       "architecture",
       "simple",
       "town",
+      "china",
+      "chinese",
       "japan",
       "japanese",
       "tower",
