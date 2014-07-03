@@ -5416,6 +5416,42 @@
     }
   },
   {
+    "id": 5276,
+    "name": "back_to_draft",
+    "platform": "Windows 8/Metro",
+    "category": "Programming",
+    "created": 1404413471,
+    "tags": [
+      "mail",
+      "content",
+      "way",
+      "map",
+      "architecture",
+      "waste",
+      "used",
+      "develop",
+      "saved document",
+      "derived",
+      "explained",
+      "acknowledge"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Programming/back_to_draft.svg",
+      "svg.simplified": "/SVG_for_Font/Programming/back_to_draft.svg",
+      "eps": "/EPS/Programming/back_to_draft.eps",
+      "png": {
+        "32": "/PNG/32/Programming/back_to_draft-32.png",
+        "128": "/PNG/128/Programming/back_to_draft-128.png",
+        "26": "/PNG/26/Programming/back_to_draft-26.png",
+        "256": "/PNG/256/Programming/back_to_draft-256.png",
+        "512": "/PNG/512/Programming/back_to_draft-512.png",
+        "64": "/PNG/64/Programming/back_to_draft-64.png",
+        "48": "/PNG/48/Programming/back_to_draft-48.png"
+      }
+    }
+  },
+  {
     "id": 3697,
     "name": "bacon",
     "platform": "Windows 8/Metro",
@@ -7567,6 +7603,31 @@
         "512": "/PNG/512/Household/bell_service-512.png",
         "64": "/PNG/64/Household/bell_service-64.png",
         "48": "/PNG/48/Household/bell_service-48.png"
+      }
+    }
+  },
+  {
+    "id": 5284,
+    "name": "bento",
+    "platform": "Windows 8/Metro",
+    "category": "Food",
+    "created": 1404413471,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/bento.svg",
+      "svg.simplified": "/SVG_for_Font/Food/bento.svg",
+      "eps": "/EPS/Food/bento.eps",
+      "png": {
+        "32": "/PNG/32/Food/bento-32.png",
+        "128": "/PNG/128/Food/bento-128.png",
+        "26": "/PNG/26/Food/bento-26.png",
+        "256": "/PNG/256/Food/bento-256.png",
+        "512": "/PNG/512/Food/bento-512.png",
+        "64": "/PNG/64/Food/bento-64.png",
+        "48": "/PNG/48/Food/bento-48.png"
       }
     }
   },
@@ -38105,6 +38166,31 @@
     }
   },
   {
+    "id": 5281,
+    "name": "kebab",
+    "platform": "Windows 8/Metro",
+    "category": "Food",
+    "created": 1404413471,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/kebab.svg",
+      "svg.simplified": "/SVG_for_Font/Food/kebab.svg",
+      "eps": "/EPS/Food/kebab.eps",
+      "png": {
+        "32": "/PNG/32/Food/kebab-32.png",
+        "128": "/PNG/128/Food/kebab-128.png",
+        "26": "/PNG/26/Food/kebab-26.png",
+        "256": "/PNG/256/Food/kebab-256.png",
+        "512": "/PNG/512/Food/kebab-512.png",
+        "64": "/PNG/64/Food/kebab-64.png",
+        "48": "/PNG/48/Food/kebab-48.png"
+      }
+    }
+  },
+  {
     "id": 2637,
     "name": "keep_dry",
     "platform": "Windows 8/Metro",
@@ -38861,6 +38947,31 @@
         "512": "/PNG/512/Food/ladle-512.png",
         "64": "/PNG/64/Food/ladle-64.png",
         "48": "/PNG/48/Food/ladle-48.png"
+      }
+    }
+  },
+  {
+    "id": 5278,
+    "name": "lamb_rack",
+    "platform": "Windows 8/Metro",
+    "category": "Food",
+    "created": 1404413471,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/lamb_rack.svg",
+      "svg.simplified": "/SVG_for_Font/Food/lamb_rack.svg",
+      "eps": "/EPS/Food/lamb_rack.eps",
+      "png": {
+        "32": "/PNG/32/Food/lamb_rack-32.png",
+        "128": "/PNG/128/Food/lamb_rack-128.png",
+        "26": "/PNG/26/Food/lamb_rack-26.png",
+        "256": "/PNG/256/Food/lamb_rack-256.png",
+        "512": "/PNG/512/Food/lamb_rack-512.png",
+        "64": "/PNG/64/Food/lamb_rack-64.png",
+        "48": "/PNG/48/Food/lamb_rack-48.png"
       }
     }
   },
@@ -47869,6 +47980,31 @@
         "512": "/PNG/512/Files/nmea-512.png",
         "64": "/PNG/64/Files/nmea-64.png",
         "48": "/PNG/48/Files/nmea-48.png"
+      }
+    }
+  },
+  {
+    "id": 5282,
+    "name": "noodles",
+    "platform": "Windows 8/Metro",
+    "category": "Food",
+    "created": 1404413471,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/noodles.svg",
+      "svg.simplified": "/SVG_for_Font/Food/noodles.svg",
+      "eps": "/EPS/Food/noodles.eps",
+      "png": {
+        "32": "/PNG/32/Food/noodles-32.png",
+        "128": "/PNG/128/Food/noodles-128.png",
+        "26": "/PNG/26/Food/noodles-26.png",
+        "256": "/PNG/256/Food/noodles-256.png",
+        "512": "/PNG/512/Food/noodles-512.png",
+        "64": "/PNG/64/Food/noodles-64.png",
+        "48": "/PNG/48/Food/noodles-48.png"
       }
     }
   },
@@ -81667,6 +81803,31 @@
         "512": "/PNG/512/Maps/world_map-512.png",
         "64": "/PNG/64/Maps/world_map-64.png",
         "48": "/PNG/48/Maps/world_map-48.png"
+      }
+    }
+  },
+  {
+    "id": 5280,
+    "name": "wrap",
+    "platform": "Windows 8/Metro",
+    "category": "Food",
+    "created": 1404413471,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/wrap.svg",
+      "svg.simplified": "/SVG_for_Font/Food/wrap.svg",
+      "eps": "/EPS/Food/wrap.eps",
+      "png": {
+        "32": "/PNG/32/Food/wrap-32.png",
+        "128": "/PNG/128/Food/wrap-128.png",
+        "26": "/PNG/26/Food/wrap-26.png",
+        "256": "/PNG/256/Food/wrap-256.png",
+        "512": "/PNG/512/Food/wrap-512.png",
+        "64": "/PNG/64/Food/wrap-64.png",
+        "48": "/PNG/48/Food/wrap-48.png"
       }
     }
   },
