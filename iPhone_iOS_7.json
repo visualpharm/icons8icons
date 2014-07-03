@@ -6113,11 +6113,11 @@
       "homework",
       "ebook",
       "reader",
-      "kindle",
       "ibooks",
       "electronic publishing",
       "moleskine",
-      "book"
+      "book",
+      "kindle"
     ],
     "copyright": false,
     "files": {
@@ -47598,7 +47598,11 @@
       "wet",
       "indoors",
       "mud",
-      "puddle"
+      "puddle",
+      "storm",
+      "cloud",
+      "lighting",
+      "bad weather"
     ],
     "copyright": false,
     "files": {
