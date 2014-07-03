@@ -12102,7 +12102,9 @@
       "supermarket",
       "culinary",
       "lunch",
-      "cafe"
+      "eco",
+      "cafe",
+      "ecofriendly"
     ],
     "copyright": false,
     "files": {
@@ -48559,7 +48561,6 @@
       "transport",
       "economy",
       "motion",
-      "illustration",
       "graphic",
       "signage",
       "point",
@@ -48584,7 +48585,8 @@
       "engineering",
       "factory",
       "industrial",
-      "cur"
+      "curve",
+      "arrow icon"
     ],
     "copyright": false,
     "files": {

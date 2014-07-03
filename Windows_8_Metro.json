@@ -47377,7 +47377,8 @@
       "envelope",
       "forum",
       "post",
-      "letter"
+      "letter",
+      "email"
     ],
     "copyright": false,
     "files": {
