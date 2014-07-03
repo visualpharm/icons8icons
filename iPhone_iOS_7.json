@@ -3462,10 +3462,18 @@
     "tags": [
       "mail",
       "content",
+      "label",
+      "document",
       "way",
+      "notice",
+      "letter",
+      "project",
+      "banner",
+      "stamp",
       "map",
       "architecture",
       "waste",
+      "draft",
       "used",
       "develop",
       "saved document",
@@ -5137,6 +5145,41 @@
         "100": "/PNG/100/Household/bell_service-100.png",
         "512": "/PNG/512/Household/bell_service-512.png",
         "50": "/PNG/50/Household/bell_service-50.png"
+      }
+    }
+  },
+  {
+    "id": 5287,
+    "name": "bento",
+    "platform": "iPhone/iOS 7",
+    "category": "Food",
+    "created": 1404420685,
+    "tags": [
+      "meal",
+      "dish",
+      "recipes",
+      "ash tray",
+      "pencil holder",
+      "frame work",
+      "food item",
+      "japanese cuisine",
+      "cooking dish",
+      "healthy meal"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/bento.svg",
+      "svg.simplified": "/SVG_for_Font/Food/bento.svg",
+      "eps": "/EPS/Food/bento.eps",
+      "png": {
+        "25": "/PNG/25/Food/bento-25.png",
+        "32": "/PNG/32/Food/bento-32.png",
+        "128": "/PNG/128/Food/bento-128.png",
+        "75": "/PNG/75/Food/bento-75.png",
+        "256": "/PNG/256/Food/bento-256.png",
+        "100": "/PNG/100/Food/bento-100.png",
+        "512": "/PNG/512/Food/bento-512.png",
+        "50": "/PNG/50/Food/bento-50.png"
       }
     }
   },
@@ -31516,6 +31559,41 @@
     }
   },
   {
+    "id": 5286,
+    "name": "kebab",
+    "platform": "iPhone/iOS 7",
+    "category": "Food",
+    "created": 1404420685,
+    "tags": [
+      "fire",
+      "eat",
+      "cook",
+      "vegetables",
+      "hotel",
+      "barbeque",
+      "fry",
+      "chicken kebab",
+      "paneer kebab",
+      "iron rod"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/kebab.svg",
+      "svg.simplified": "/SVG_for_Font/Food/kebab.svg",
+      "eps": "/EPS/Food/kebab.eps",
+      "png": {
+        "25": "/PNG/25/Food/kebab-25.png",
+        "32": "/PNG/32/Food/kebab-32.png",
+        "128": "/PNG/128/Food/kebab-128.png",
+        "75": "/PNG/75/Food/kebab-75.png",
+        "256": "/PNG/256/Food/kebab-256.png",
+        "100": "/PNG/100/Food/kebab-100.png",
+        "512": "/PNG/512/Food/kebab-512.png",
+        "50": "/PNG/50/Food/kebab-50.png"
+      }
+    }
+  },
+  {
     "id": 2638,
     "name": "keep_dry",
     "platform": "iPhone/iOS 7",
@@ -32087,7 +32165,27 @@
     "category": "Food",
     "created": 1404413471,
     "tags": [
-
+      "food",
+      "eat",
+      "rack",
+      "meat",
+      "barbecue",
+      "herbs",
+      "piece of meat",
+      "lamb meat",
+      "lamb",
+      "flesh of lamb",
+      "cut of lamb rack",
+      "lamb rack raw",
+      "lamb rack roast",
+      "lamb rack for food",
+      "roast",
+      "ribs",
+      "red meat",
+      "rack of lamb",
+      "raw meat",
+      "lamb chop",
+      "rosemary"
     ],
     "copyright": false,
     "files": {
@@ -39565,7 +39663,27 @@
     "category": "Food",
     "created": 1404413471,
     "tags": [
-
+      "food",
+      "tasty",
+      "spicy",
+      "snack",
+      "meal",
+      "delicious",
+      "cook",
+      "quick",
+      "diet",
+      "juicy",
+      "gourmet",
+      "chinese",
+      "cuisine",
+      "smooth",
+      "bowl",
+      "masala",
+      "springy",
+      "softy",
+      "chubby",
+      "instant noodles",
+      "chopsticks"
     ],
     "copyright": false,
     "files": {
@@ -52777,6 +52895,7 @@
     "created": 1390342414,
     "tags": [
       "new",
+      "refresh",
       "product",
       "glass",
       "housing",
@@ -54051,11 +54170,11 @@
     "created": 1326886315,
     "tags": [
       "image",
-      "photo",
       "slr",
       "slr camera",
       "shot",
       "photography",
+      "photo",
       "camera"
     ],
     "copyright": false,
@@ -68680,6 +68799,47 @@
         "100": "/PNG/100/Sports/world_cup-100.png",
         "512": "/PNG/512/Sports/world_cup-512.png",
         "50": "/PNG/50/Sports/world_cup-50.png"
+      }
+    }
+  },
+  {
+    "id": 5285,
+    "name": "wrap",
+    "platform": "iPhone/iOS 7",
+    "category": "Food",
+    "created": 1404420685,
+    "tags": [
+      "food",
+      "breakfast",
+      "hot",
+      "snack",
+      "meal",
+      "vegetable",
+      "lunch",
+      "sandwich",
+      "beef",
+      "taco",
+      "wrap",
+      "healthy",
+      "peta",
+      "mexican",
+      "tortilla shell",
+      "yum"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/wrap.svg",
+      "svg.simplified": "/SVG_for_Font/Food/wrap.svg",
+      "eps": "/EPS/Food/wrap.eps",
+      "png": {
+        "25": "/PNG/25/Food/wrap-25.png",
+        "32": "/PNG/32/Food/wrap-32.png",
+        "128": "/PNG/128/Food/wrap-128.png",
+        "75": "/PNG/75/Food/wrap-75.png",
+        "256": "/PNG/256/Food/wrap-256.png",
+        "100": "/PNG/100/Food/wrap-100.png",
+        "512": "/PNG/512/Food/wrap-512.png",
+        "50": "/PNG/50/Food/wrap-50.png"
       }
     }
   },
