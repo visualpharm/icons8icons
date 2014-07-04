@@ -751,6 +751,8 @@
     "category": "Transport",
     "created": 1391770248,
     "tags": [
+      "shipping",
+      "envelope",
       "airport",
       "passenger",
       "travel",
@@ -25552,6 +25554,7 @@
     "category": "Very Basic",
     "created": 1397249506,
     "tags": [
+      "book",
       "minus",
       "about",
       "booking",
