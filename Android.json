@@ -1374,15 +1374,12 @@
     "tags": [
       "android",
       "cell",
-      "phone",
-      "smartphone",
       "device",
       "iphone",
       "mobile",
       "touch",
       "gadget",
-      "samsung",
-      "lg"
+      "samsung"
     ],
     "copyright": true,
     "files": {
@@ -4487,13 +4484,12 @@
       "book",
       "mark",
       "book mark",
-      "reading",
       "forgetting",
       "favorite",
       "locate",
       "back",
-      "amazon",
-      "kindle"
+      "kindle",
+      "reading"
     ],
     "copyright": false,
     "files": {
@@ -5518,7 +5514,8 @@
       "square root",
       "calc",
       "numbers",
-      "sum"
+      "sum",
+      "xc"
     ],
     "copyright": false,
     "files": {
@@ -14221,12 +14218,12 @@
       "new file",
       "graph",
       "document",
-      "text",
       "sheet",
       "zero",
       "blank",
       "module",
-      "submit"
+      "submit",
+      "text"
     ],
     "copyright": false,
     "files": {
@@ -18052,6 +18049,7 @@
       "gather",
       "meet",
       "flock",
+      "call",
       "contact",
       "company",
       "brainstorming",
@@ -38566,8 +38564,7 @@
       "recreation",
       "competition",
       "championship",
-      "physical activity",
-      "olympic"
+      "physical activity"
     ],
     "copyright": false,
     "files": {
