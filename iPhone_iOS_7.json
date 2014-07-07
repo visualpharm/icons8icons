@@ -9024,7 +9024,6 @@
       "buttons",
       "symbol",
       "machine",
-      "buying",
       "retail",
       "text",
       "support",
@@ -9047,7 +9046,8 @@
       "element",
       "blue",
       "background",
-      "fro"
+      "front",
+      "shad"
     ],
     "copyright": false,
     "files": {
@@ -28450,6 +28450,7 @@
     "category": "Very Basic",
     "created": 1331453099,
     "tags": [
+      "ambulance",
       "back",
       "help",
       "question mark",
@@ -47965,6 +47966,7 @@
       "weather",
       "contact",
       "computer",
+      "clothes",
       "umbrella",
       "wet",
       "indoors",
