@@ -23891,7 +23891,6 @@
       "gps",
       "geography",
       "navigation",
-      "gis",
       "area",
       "glonass"
     ],
@@ -27664,37 +27663,6 @@
         "24": "/PNG/24/Baby/pacifier-24.png",
         "96": "/PNG/96/Baby/pacifier-96.png",
         "48": "/PNG/48/Baby/pacifier-48.png"
-      }
-    }
-  },
-  {
-    "id": 3949,
-    "name": "padding",
-    "platform": "Android",
-    "category": "Sports",
-    "created": 1397760709,
-    "tags": [
-      "athlete",
-      "competition",
-      "championship",
-      "physical activity",
-      "olympic"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Sports/padding.svg",
-      "svg.simplified": "/SVG_for_Font/Sports/padding.svg",
-      "eps": "/EPS/Sports/padding.eps",
-      "png": {
-        "32": "/PNG/32/Sports/padding-32.png",
-        "128": "/PNG/128/Sports/padding-128.png",
-        "256": "/PNG/256/Sports/padding-256.png",
-        "36": "/PNG/36/Sports/padding-36.png",
-        "512": "/PNG/512/Sports/padding-512.png",
-        "64": "/PNG/64/Sports/padding-64.png",
-        "24": "/PNG/24/Sports/padding-24.png",
-        "96": "/PNG/96/Sports/padding-96.png",
-        "48": "/PNG/48/Sports/padding-48.png"
       }
     }
   },
