@@ -1102,6 +1102,7 @@
     "category": "Very Basic",
     "created": 1327313615,
     "tags": [
+      "battery",
       "show",
       "info",
       "information",
@@ -17095,6 +17096,7 @@
       "wireless",
       "network",
       "listen",
+      "database",
       "wireless connect",
       "disconnect",
       "connected"
@@ -76152,12 +76154,15 @@
       "left",
       "direction",
       "save",
+      "bubble",
       "signal",
       "image",
       "undo",
       "move",
+      "scroll",
       "back",
       "left turn",
+      "scrol",
       "arrow"
     ],
     "copyright": false,
