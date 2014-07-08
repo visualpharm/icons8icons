@@ -11249,6 +11249,51 @@
     }
   },
   {
+    "id": 5310,
+    "name": "clear_filters",
+    "platform": "iPhone/iOS 7",
+    "category": "Data",
+    "created": 1404838276,
+    "tags": [
+      "equipment",
+      "filter",
+      "tube",
+      "process",
+      "clearing",
+      "purity",
+      "clearance",
+      "flow",
+      "analysis",
+      "filtering",
+      "filtration",
+      "tunnel",
+      "filter tip",
+      "filtrate",
+      "crystal clear",
+      "filter clear",
+      "clear up",
+      "clearly",
+      "filteration",
+      "funnel"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Data/clear_filters.svg",
+      "svg.simplified": "/SVG_for_Font/Data/clear_filters.svg",
+      "eps": "/EPS/Data/clear_filters.eps",
+      "png": {
+        "25": "/PNG/25/Data/clear_filters-25.png",
+        "32": "/PNG/32/Data/clear_filters-32.png",
+        "128": "/PNG/128/Data/clear_filters-128.png",
+        "75": "/PNG/75/Data/clear_filters-75.png",
+        "256": "/PNG/256/Data/clear_filters-256.png",
+        "100": "/PNG/100/Data/clear_filters-100.png",
+        "512": "/PNG/512/Data/clear_filters-512.png",
+        "50": "/PNG/50/Data/clear_filters-50.png"
+      }
+    }
+  },
+  {
     "id": 2931,
     "name": "clear_shopping_cart",
     "platform": "iPhone/iOS 7",
@@ -17945,7 +17990,10 @@
     "category": "Very Basic",
     "created": 1401144672,
     "tags": [
+      "file",
       "camera",
+      "cdn",
+      "loading",
       "cloud"
     ],
     "copyright": false,
@@ -33624,6 +33672,52 @@
     }
   },
   {
+    "id": 5308,
+    "name": "lifecycle",
+    "platform": "iPhone/iOS 7",
+    "category": "Users",
+    "created": 1404838276,
+    "tags": [
+      "development",
+      "nature",
+      "biology",
+      "diagram",
+      "humans",
+      "evolution",
+      "life span",
+      "alternations of life",
+      "being alive",
+      "living cycle",
+      "lifetime",
+      "lifespan",
+      "life-support",
+      "life-giving",
+      "lifelong",
+      "lifelike",
+      "true to life",
+      "life-cycle",
+      "metamorphosis",
+      "flow-chart",
+      "reproduce"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Users/lifecycle.svg",
+      "svg.simplified": "/SVG_for_Font/Users/lifecycle.svg",
+      "eps": "/EPS/Users/lifecycle.eps",
+      "png": {
+        "25": "/PNG/25/Users/lifecycle-25.png",
+        "32": "/PNG/32/Users/lifecycle-32.png",
+        "128": "/PNG/128/Users/lifecycle-128.png",
+        "75": "/PNG/75/Users/lifecycle-75.png",
+        "256": "/PNG/256/Users/lifecycle-256.png",
+        "100": "/PNG/100/Users/lifecycle-100.png",
+        "512": "/PNG/512/Users/lifecycle-512.png",
+        "50": "/PNG/50/Users/lifecycle-50.png"
+      }
+    }
+  },
+  {
     "id": 2404,
     "name": "lift_cart_here",
     "platform": "iPhone/iOS 7",
@@ -34203,6 +34297,7 @@
       "page",
       "printed media",
       "literature",
+      "suitcase",
       "quiz",
       "book",
       "opened book"
@@ -42604,6 +42699,48 @@
         "100": "/PNG/100/Transport/passenger-100.png",
         "512": "/PNG/512/Transport/passenger-512.png",
         "50": "/PNG/50/Transport/passenger-50.png"
+      }
+    }
+  },
+  {
+    "id": 5306,
+    "name": "passport",
+    "platform": "iPhone/iOS 7",
+    "category": "Travel",
+    "created": 1404838276,
+    "tags": [
+      "document",
+      "travel",
+      "identification",
+      "tourism",
+      "identity",
+      "visa",
+      "vacation",
+      "passport",
+      "international",
+      "nationality",
+      "photo id",
+      "proof of address",
+      "citizenship",
+      "contains visas",
+      "issued by government",
+      "immigration",
+      "homeland"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Travel/passport.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/passport.svg",
+      "eps": "/EPS/Travel/passport.eps",
+      "png": {
+        "25": "/PNG/25/Travel/passport-25.png",
+        "32": "/PNG/32/Travel/passport-32.png",
+        "128": "/PNG/128/Travel/passport-128.png",
+        "75": "/PNG/75/Travel/passport-75.png",
+        "256": "/PNG/256/Travel/passport-256.png",
+        "100": "/PNG/100/Travel/passport-100.png",
+        "512": "/PNG/512/Travel/passport-512.png",
+        "50": "/PNG/50/Travel/passport-50.png"
       }
     }
   },

@@ -14983,6 +14983,50 @@
     }
   },
   {
+    "id": 5309,
+    "name": "clear_filters",
+    "platform": "Windows 8/Metro",
+    "category": "Data",
+    "created": 1404838276,
+    "tags": [
+      "equipment",
+      "filter",
+      "tube",
+      "process",
+      "clearing",
+      "purity",
+      "clearance",
+      "flow",
+      "analysis",
+      "filtering",
+      "filtration",
+      "tunnel",
+      "filter tip",
+      "filtrate",
+      "crystal clear",
+      "filter clear",
+      "clear up",
+      "clearly",
+      "filteration",
+      "funnel"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Data/clear_filters.svg",
+      "svg.simplified": "/SVG_for_Font/Data/clear_filters.svg",
+      "eps": "/EPS/Data/clear_filters.eps",
+      "png": {
+        "32": "/PNG/32/Data/clear_filters-32.png",
+        "128": "/PNG/128/Data/clear_filters-128.png",
+        "26": "/PNG/26/Data/clear_filters-26.png",
+        "256": "/PNG/256/Data/clear_filters-256.png",
+        "512": "/PNG/512/Data/clear_filters-512.png",
+        "64": "/PNG/64/Data/clear_filters-64.png",
+        "48": "/PNG/48/Data/clear_filters-48.png"
+      }
+    }
+  },
+  {
     "id": 1898,
     "name": "clenched_fist",
     "platform": "Windows 8/Metro",
@@ -40519,6 +40563,51 @@
     }
   },
   {
+    "id": 5307,
+    "name": "lifecycle",
+    "platform": "Windows 8/Metro",
+    "category": "Users",
+    "created": 1404838276,
+    "tags": [
+      "development",
+      "nature",
+      "biology",
+      "diagram",
+      "humans",
+      "evolution",
+      "life span",
+      "alternations of life",
+      "being alive",
+      "living cycle",
+      "lifetime",
+      "lifespan",
+      "life-support",
+      "life-giving",
+      "lifelong",
+      "lifelike",
+      "true to life",
+      "life-cycle",
+      "metamorphosis",
+      "flow-chart",
+      "reproduce"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Users/lifecycle.svg",
+      "svg.simplified": "/SVG_for_Font/Users/lifecycle.svg",
+      "eps": "/EPS/Users/lifecycle.eps",
+      "png": {
+        "32": "/PNG/32/Users/lifecycle-32.png",
+        "128": "/PNG/128/Users/lifecycle-128.png",
+        "26": "/PNG/26/Users/lifecycle-26.png",
+        "256": "/PNG/256/Users/lifecycle-256.png",
+        "512": "/PNG/512/Users/lifecycle-512.png",
+        "64": "/PNG/64/Users/lifecycle-64.png",
+        "48": "/PNG/48/Users/lifecycle-48.png"
+      }
+    }
+  },
+  {
     "id": 2403,
     "name": "lift_cart_here",
     "platform": "Windows 8/Metro",
@@ -51797,6 +51886,47 @@
     }
   },
   {
+    "id": 5305,
+    "name": "passport",
+    "platform": "Windows 8/Metro",
+    "category": "Travel",
+    "created": 1404838276,
+    "tags": [
+      "document",
+      "travel",
+      "identification",
+      "tourism",
+      "identity",
+      "visa",
+      "vacation",
+      "passport",
+      "international",
+      "nationality",
+      "photo id",
+      "proof of address",
+      "citizenship",
+      "contains visas",
+      "issued by government",
+      "immigration",
+      "homeland"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Travel/passport.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/passport.svg",
+      "eps": "/EPS/Travel/passport.eps",
+      "png": {
+        "32": "/PNG/32/Travel/passport-32.png",
+        "128": "/PNG/128/Travel/passport-128.png",
+        "26": "/PNG/26/Travel/passport-26.png",
+        "256": "/PNG/256/Travel/passport-256.png",
+        "512": "/PNG/512/Travel/passport-512.png",
+        "64": "/PNG/64/Travel/passport-64.png",
+        "48": "/PNG/48/Travel/passport-48.png"
+      }
+    }
+  },
+  {
     "id": 2666,
     "name": "password1",
     "platform": "Windows 8/Metro",
@@ -60969,6 +61099,7 @@
     "category": "Sports",
     "created": 1339148179,
     "tags": [
+      "music",
       "sport",
       "speed",
       "athlete",
@@ -69463,7 +69594,8 @@
     "category": "Weather",
     "created": 1331453099,
     "tags": [
-      "weather"
+      "weather",
+      "night"
     ],
     "copyright": false,
     "files": {
@@ -76085,6 +76217,7 @@
       "internet",
       "travel",
       "online",
+      "shop",
       "computer",
       "login",
       "nerd",
