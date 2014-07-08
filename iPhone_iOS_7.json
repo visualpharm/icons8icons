@@ -36407,6 +36407,7 @@
       "check",
       "list",
       "video call",
+      "257CFC",
       "phone",
       "send",
       "mail",
@@ -66077,12 +66078,13 @@
       "microphone",
       "identity",
       "answers",
+      "speak",
       "face",
       "brain",
       "pattern",
       "mouth",
       "recognition",
-      "transcript"
+      "tran"
     ],
     "copyright": false,
     "files": {
