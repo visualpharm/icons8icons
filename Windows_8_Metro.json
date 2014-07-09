@@ -22399,7 +22399,8 @@
       "minus",
       "upload",
       "download",
-      "learn"
+      "learn",
+      "MicroStore"
     ],
     "copyright": false,
     "files": {
@@ -23658,6 +23659,7 @@
       "create",
       "house",
       "tool",
+      "view",
       "share",
       "del",
       "hand writing",
@@ -40354,7 +40356,8 @@
       "pack",
       "toys",
       "minifigures",
-      "easy"
+      "easy",
+      "age"
     ],
     "copyright": true,
     "files": {
@@ -47696,14 +47699,15 @@
     "created": 1323431469,
     "tags": [
       "statistics",
-      "sell",
       "charts",
       "downward",
       "regress",
       "slope",
       "decrease",
       "negative",
-      "negative dynamic"
+      "negative dynamic",
+      "teste",
+      "sell"
     ],
     "copyright": false,
     "files": {
@@ -51910,7 +51914,9 @@
       "contains visas",
       "issued by government",
       "immigration",
-      "homeland"
+      "homeland",
+      "permaculture",
+      "tropical agriculture"
     ],
     "copyright": false,
     "files": {
@@ -66170,7 +66176,6 @@
     "tags": [
       "android",
       "cell",
-      "phone",
       "cellphone",
       "smartphone",
       "device",
@@ -66181,6 +66186,7 @@
       "mobile",
       "touch",
       "gadget",
+      "social",
       "mobile phone",
       "touch screen",
       "samsung",
@@ -74951,6 +74957,7 @@
       "communication",
       "works",
       "lines",
+      "wifi",
       "service",
       "life time value",
       "hanshake"
@@ -78791,6 +78798,7 @@
       "vpn",
       "virtual private network",
       "remote",
+      "cisco",
       "outsourcing"
     ],
     "copyright": false,
@@ -79464,6 +79472,7 @@
       "point",
       "sign",
       "stop",
+      "hand",
       "notice",
       "warning",
       "icons",

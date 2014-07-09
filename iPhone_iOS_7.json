@@ -3577,6 +3577,7 @@
     "created": 1375177615,
     "tags": [
       "pen",
+      "arrow",
       "ink",
       "signature",
       "sign",
@@ -30520,10 +30521,10 @@
       "image",
       "photo",
       "camera",
-      "lens",
       "webcam",
       "shot",
-      "photography"
+      "photography",
+      "lens"
     ],
     "copyright": false,
     "files": {
@@ -33872,6 +33873,7 @@
     "tags": [
       "basket",
       "favourite",
+      "pages",
       "store",
       "emotion",
       "ticker",
@@ -34467,6 +34469,7 @@
     "category": "Very Basic",
     "created": 1371509057,
     "tags": [
+      "design",
       "key",
       "lock",
       "secure",
@@ -36462,6 +36465,7 @@
       "search",
       "photo",
       "camera",
+      "compas",
       "pgotos",
       "line",
       "web",
@@ -63429,6 +63433,7 @@
       "edit",
       "sale",
       "coins",
+      "image",
       "gift",
       "travel",
       "van",
