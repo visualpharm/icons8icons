@@ -80330,7 +80330,6 @@
       "gps",
       "circle",
       "detail",
-      "greeting",
       "geography",
       "navigation",
       "gis",
@@ -80341,7 +80340,8 @@
       "zig-zag",
       "bindi",
       "scrap",
-      "glonass"
+      "glonass",
+      "greeting"
     ],
     "copyright": false,
     "files": {
