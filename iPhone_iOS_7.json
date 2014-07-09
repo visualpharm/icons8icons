@@ -28705,7 +28705,6 @@
     "tags": [
       "information",
       "help",
-      "more",
       "support",
       "ask",
       "question mark",
@@ -46478,7 +46477,6 @@
       "laser",
       "deskjet",
       "laserjet",
-      "paper jam",
       "jammed",
       "beaurocracy",
       "prints",
@@ -46490,6 +46488,7 @@
       "geek",
       "printer",
       "inkjet",
+      "paper jam",
       "paper jammed",
       "printing"
     ],
@@ -53669,7 +53668,6 @@
       "hairdresser",
       "goatee",
       "long beard & short beard",
-      "mustache",
       "hair stylist"
     ],
     "copyright": false,
@@ -54489,7 +54487,6 @@
       "video",
       "online",
       "computer",
-      "wired",
       "telephony"
     ],
     "copyright": true,
@@ -55324,13 +55321,13 @@
       "hill",
       "sun shine",
       "day light",
-      "bw",
       "squares",
       "line drawing",
       "outlines",
       "patterns",
       "multiple pictures",
-      "sequence"
+      "sequence",
+      "bw"
     ],
     "copyright": false,
     "files": {
@@ -56443,10 +56440,10 @@
       "motion",
       "activity",
       "body",
-      "runner",
       "workout",
       "jog",
-      "athletic"
+      "athletic",
+      "runner"
     ],
     "copyright": false,
     "files": {
@@ -68696,13 +68693,13 @@
       "signal",
       "wireless",
       "anywhere",
-      "programs",
       "built in",
       "rss",
       "band",
       "channel",
       "ssid",
-      "next"
+      "next",
+      "programs"
     ],
     "copyright": false,
     "files": {
