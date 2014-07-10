@@ -20130,7 +20130,6 @@
       "click",
       "connection",
       "banner",
-      "rectangle",
       "glass",
       "bar",
       "icon",
@@ -20159,7 +20158,7 @@
       "glassy",
       "front",
       "marker",
-      "na"
+      "navigation p"
     ],
     "copyright": false,
     "files": {
