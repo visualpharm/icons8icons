@@ -34552,9 +34552,9 @@
       "geography",
       "area",
       "glonass",
-      "location",
       "navigation",
-      "gis"
+      "gis",
+      "location"
     ],
     "copyright": false,
     "files": {
