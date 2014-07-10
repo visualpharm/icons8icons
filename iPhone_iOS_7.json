@@ -16484,32 +16484,6 @@
     }
   },
   {
-    "id": 2845,
-    "name": "device_manger",
-    "platform": "iPhone/iOS 7",
-    "category": "Logos",
-    "created": 1390342414,
-    "tags": [
-
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Logos/device_manger.svg",
-      "svg.simplified": "/SVG_for_Font/Logos/device_manger.svg",
-      "eps": "/EPS/Logos/device_manger.eps",
-      "png": {
-        "25": "/PNG/25/Logos/device_manger-25.png",
-        "32": "/PNG/32/Logos/device_manger-32.png",
-        "128": "/PNG/128/Logos/device_manger-128.png",
-        "75": "/PNG/75/Logos/device_manger-75.png",
-        "256": "/PNG/256/Logos/device_manger-256.png",
-        "100": "/PNG/100/Logos/device_manger-100.png",
-        "512": "/PNG/512/Logos/device_manger-512.png",
-        "50": "/PNG/50/Logos/device_manger-50.png"
-      }
-    }
-  },
-  {
     "id": 3011,
     "name": "devil",
     "platform": "iPhone/iOS 7",
