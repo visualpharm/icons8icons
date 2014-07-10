@@ -28133,6 +28133,7 @@
       "orchestra",
       "musician",
       "speakers",
+      "mic",
       "music instrument"
     ],
     "copyright": false,
@@ -66280,7 +66281,6 @@
       "thinking",
       "question",
       "contemplate",
-      "considering",
       "belief",
       "brainstorm",
       "deliberate",
@@ -66289,7 +66289,8 @@
       "pensive",
       "saying",
       "comment",
-      "man"
+      "man",
+      "considering"
     ],
     "copyright": false,
     "files": {
