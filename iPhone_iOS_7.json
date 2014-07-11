@@ -14941,6 +14941,7 @@
       "culinary",
       "lunch",
       "dessert",
+      "beer",
       "chocolate",
       "frosting",
       "cafe",
@@ -34387,6 +34388,7 @@
       "write",
       "paper",
       "education",
+      "store",
       "printed media",
       "literature",
       "suitcase",
@@ -38743,6 +38745,7 @@
     "category": "Photo and Video",
     "created": 1390342414,
     "tags": [
+      "book",
       "movie",
       "image",
       "photo",
