@@ -17852,7 +17852,8 @@
       "move",
       "expand",
       "right arrow",
-      "low priority"
+      "low priority",
+      "dropdown"
     ],
     "copyright": false,
     "files": {
