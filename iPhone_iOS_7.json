@@ -7579,7 +7579,6 @@
     "tags": [
       "calendar",
       "day",
-      "year",
       "business",
       "work",
       "present",
@@ -20965,6 +20964,7 @@
     "category": "Data",
     "created": 1390342413,
     "tags": [
+      "user",
       "exit",
       "quit",
       "arrow",
