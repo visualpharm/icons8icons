@@ -20555,7 +20555,6 @@
     "tags": [
       "add",
       "multiply",
-      "cancel",
       "cross",
       "line",
       "lock",
@@ -32550,7 +32549,8 @@
       "award",
       "university",
       "skills",
-      "talents"
+      "talents",
+      "HS21"
     ],
     "copyright": false,
     "files": {
@@ -32854,6 +32854,7 @@
     "category": "Cinema",
     "created": 1350643690,
     "tags": [
+      "windows",
       "alien",
       "aliens",
       "grey"
@@ -40759,12 +40760,12 @@
       "gps",
       "geography",
       "navigation",
-      "geolocation",
       "gis",
       "tower",
       "lighthouse",
       "area",
-      "glonass"
+      "glonass",
+      "geolocation"
     ],
     "copyright": false,
     "files": {
