@@ -58261,7 +58261,8 @@
       "compression",
       "extract",
       "extraction",
-      "self-extracting"
+      "self-extracting",
+      "winrar"
     ],
     "copyright": false,
     "files": {
