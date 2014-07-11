@@ -11480,7 +11480,6 @@
       "blockade",
       "lull",
       "freeze",
-      "CANCE",
       "what",
       "pending",
       "fechar",
@@ -20802,6 +20801,7 @@
     "category": "User Interface",
     "created": 1382605089,
     "tags": [
+      "save",
       "media",
       "image",
       "photo",
