@@ -11221,7 +11221,6 @@
       "black board",
       "lcd",
       "learning room",
-      "lap top",
       "5 members",
       "listining",
       "preaching",
@@ -11231,7 +11230,8 @@
       "academy",
       "study course",
       "trainee",
-      "university of applied sciences"
+      "university of applied sciences",
+      "lap top"
     ],
     "copyright": false,
     "files": {
@@ -31030,6 +31030,7 @@
       "gadget",
       "samsung",
       "lg",
+      "5c",
       "texting",
       "smartphone",
       "device",
