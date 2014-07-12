@@ -60076,7 +60076,6 @@
       "arrow",
       "direction",
       "indicator",
-      "right",
       "next",
       "previous",
       "thumb",
@@ -60084,6 +60083,8 @@
       "pointer",
       "icons",
       "move",
+      "button right",
+      "right",
       "button"
     ],
     "copyright": false,
