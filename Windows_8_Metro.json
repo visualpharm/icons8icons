@@ -67922,19 +67922,20 @@
       "hosting",
       "storage",
       "rack mountable",
+      "server",
       "cloud",
       "it infrastructure",
       "cdn",
       "terabyte",
       "gigabyte",
-      "rackspace",
       "blade server",
       "hosting provider",
       "hsp",
       "virtual server",
       "data center",
       "network",
-      "rack"
+      "rack",
+      "rackspace"
     ],
     "copyright": false,
     "files": {
