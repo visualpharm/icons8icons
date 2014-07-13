@@ -32937,6 +32937,7 @@
       "gather",
       "meet",
       "couple",
+      "configuration",
       "contact"
     ],
     "copyright": false,
@@ -40342,10 +40343,12 @@
     "category": "Arrows",
     "created": 1341827953,
     "tags": [
+      "user",
       "direction",
       "indicator",
       "internet",
       "search",
+      "configuration",
       "next",
       "pointer",
       "icons",
@@ -50521,6 +50524,8 @@
     "tags": [
       "box",
       "group",
+      "help",
+      "arrow",
       "work",
       "lines",
       "shapes",
@@ -50905,6 +50910,7 @@
     "tags": [
       "mark",
       "calculator",
+      "line",
       "information",
       "outline",
       "bullets",
@@ -51018,7 +51024,10 @@
       "look",
       "chapters",
       "table of contents",
-      "contents"
+      "contents",
+      "report",
+      "reporte",
+      "user"
     ],
     "copyright": false,
     "files": {
