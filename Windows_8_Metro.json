@@ -1745,6 +1745,7 @@
       "application",
       "microsoft",
       "web",
+      "printer",
       "tool",
       "search",
       "options",
@@ -43276,7 +43277,6 @@
     "category": "Programming",
     "created": 1339041600,
     "tags": [
-      "window control",
       "windows controls",
       "program",
       "maximize",
@@ -51026,6 +51026,7 @@
       "table of contents",
       "contents",
       "report",
+      "load",
       "reporte",
       "user"
     ],
@@ -62047,6 +62048,7 @@
       "diskette",
       "1.44",
       "write disk",
+      "consultar",
       "cancel"
     ],
     "copyright": false,
