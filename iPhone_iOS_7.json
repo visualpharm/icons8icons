@@ -15078,6 +15078,43 @@
     }
   },
   {
+    "id": 5335,
+    "name": "customs_officer",
+    "platform": "iPhone/iOS 7",
+    "category": "Travel",
+    "created": 1405363865,
+    "tags": [
+      "book",
+      "read",
+      "travel",
+      "border",
+      "authority",
+      "uniform",
+      "officer",
+      "law",
+      "passport",
+      "patrol",
+      "customs",
+      "customs officer"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Travel/customs_officer.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/customs_officer.svg",
+      "eps": "/EPS/Travel/customs_officer.eps",
+      "png": {
+        "25": "/PNG/25/Travel/customs_officer-25.png",
+        "32": "/PNG/32/Travel/customs_officer-32.png",
+        "128": "/PNG/128/Travel/customs_officer-128.png",
+        "75": "/PNG/75/Travel/customs_officer-75.png",
+        "256": "/PNG/256/Travel/customs_officer-256.png",
+        "100": "/PNG/100/Travel/customs_officer-100.png",
+        "512": "/PNG/512/Travel/customs_officer-512.png",
+        "50": "/PNG/50/Travel/customs_officer-50.png"
+      }
+    }
+  },
+  {
     "id": 32,
     "name": "cut",
     "platform": "iPhone/iOS 7",
@@ -50744,6 +50781,7 @@
       "bug",
       "mobile",
       "touch",
+      "sort",
       "gadget",
       "landscape",
       "samsung",
@@ -59297,6 +59335,32 @@
         "100": "/PNG/100/Sports/swivel-100.png",
         "512": "/PNG/512/Sports/swivel-512.png",
         "50": "/PNG/50/Sports/swivel-50.png"
+      }
+    }
+  },
+  {
+    "id": 5336,
+    "name": "sword",
+    "platform": "iPhone/iOS 7",
+    "category": "Military",
+    "created": 1405363865,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/sword.svg",
+      "svg.simplified": "/SVG_for_Font/Military/sword.svg",
+      "eps": "/EPS/Military/sword.eps",
+      "png": {
+        "25": "/PNG/25/Military/sword-25.png",
+        "32": "/PNG/32/Military/sword-32.png",
+        "128": "/PNG/128/Military/sword-128.png",
+        "75": "/PNG/75/Military/sword-75.png",
+        "256": "/PNG/256/Military/sword-256.png",
+        "100": "/PNG/100/Military/sword-100.png",
+        "512": "/PNG/512/Military/sword-512.png",
+        "50": "/PNG/50/Military/sword-50.png"
       }
     }
   },
@@ -68509,6 +68573,32 @@
         "100": "/PNG/100/Transport/weight_station-100.png",
         "512": "/PNG/512/Transport/weight_station-512.png",
         "50": "/PNG/50/Transport/weight_station-50.png"
+      }
+    }
+  },
+  {
+    "id": 5333,
+    "name": "well",
+    "platform": "iPhone/iOS 7",
+    "category": "Plants",
+    "created": 1405363865,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Plants/well.svg",
+      "svg.simplified": "/SVG_for_Font/Plants/well.svg",
+      "eps": "/EPS/Plants/well.eps",
+      "png": {
+        "25": "/PNG/25/Plants/well-25.png",
+        "32": "/PNG/32/Plants/well-32.png",
+        "128": "/PNG/128/Plants/well-128.png",
+        "75": "/PNG/75/Plants/well-75.png",
+        "256": "/PNG/256/Plants/well-256.png",
+        "100": "/PNG/100/Plants/well-100.png",
+        "512": "/PNG/512/Plants/well-512.png",
+        "50": "/PNG/50/Plants/well-50.png"
       }
     }
   },
