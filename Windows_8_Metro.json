@@ -12537,6 +12537,40 @@
     }
   },
   {
+    "id": 5331,
+    "name": "caustoms_officer",
+    "platform": "Windows 8/Metro",
+    "category": "Travel",
+    "created": 1405356676,
+    "tags": [
+      "protection",
+      "security",
+      "airport",
+      "tax",
+      "checking",
+      "goverment",
+      "smuggling",
+      "seizing",
+      "raid",
+      "cunning"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Travel/caustoms_officer.svg",
+      "svg.simplified": "/SVG_for_Font/Travel/caustoms_officer.svg",
+      "eps": "/EPS/Travel/caustoms_officer.eps",
+      "png": {
+        "32": "/PNG/32/Travel/caustoms_officer-32.png",
+        "128": "/PNG/128/Travel/caustoms_officer-128.png",
+        "26": "/PNG/26/Travel/caustoms_officer-26.png",
+        "256": "/PNG/256/Travel/caustoms_officer-256.png",
+        "512": "/PNG/512/Travel/caustoms_officer-512.png",
+        "64": "/PNG/64/Travel/caustoms_officer-64.png",
+        "48": "/PNG/48/Travel/caustoms_officer-48.png"
+      }
+    }
+  },
+  {
     "id": 1083,
     "name": "cave",
     "platform": "Windows 8/Metro",
@@ -33859,7 +33893,6 @@
       "sport",
       "fitness",
       "name",
-      "athlete",
       "power",
       "competitive sport",
       "human hand",
@@ -33884,7 +33917,7 @@
       "human muscle",
       "hand biceps",
       "jump rope",
-      "jump"
+      "jumping rope"
     ],
     "copyright": false,
     "files": {
@@ -45711,16 +45744,15 @@
     "created": 1326711577,
     "tags": [
       "cash",
-      "bank",
       "time",
       "hair",
       "group",
       "graph",
       "money",
-      "coins",
       "bag money bag",
       "emotions",
-      "withdrawal"
+      "withdrawal",
+      "bank"
     ],
     "copyright": false,
     "files": {
@@ -47295,13 +47327,10 @@
       "photo",
       "computer",
       "ipad",
-      "d",
       "retro",
-      "test",
       "amazing",
       "coolness",
       "itunes",
-      "katy perry",
       "metro",
       "swag",
       "music",
@@ -58219,18 +58248,18 @@
       "play",
       "live",
       "melody",
-      "sound",
       "music set",
       "orchestra",
       "rating",
       "songs",
       "stereo",
-      "broadcast",
       "on-air",
       "antenna",
       "transistor",
       "musician",
-      "music instrument"
+      "music instrument",
+      "sound",
+      "broadcast"
     ],
     "copyright": false,
     "files": {
@@ -70926,6 +70955,40 @@
     }
   },
   {
+    "id": 5332,
+    "name": "sword",
+    "platform": "Windows 8/Metro",
+    "category": "Military",
+    "created": 1405356676,
+    "tags": [
+      "hurt",
+      "stab",
+      "hard",
+      "point",
+      "black",
+      "long",
+      "handle",
+      "sharp",
+      "fight",
+      "kill"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Military/sword.svg",
+      "svg.simplified": "/SVG_for_Font/Military/sword.svg",
+      "eps": "/EPS/Military/sword.eps",
+      "png": {
+        "32": "/PNG/32/Military/sword-32.png",
+        "128": "/PNG/128/Military/sword-128.png",
+        "26": "/PNG/26/Military/sword-26.png",
+        "256": "/PNG/256/Military/sword-256.png",
+        "512": "/PNG/512/Military/sword-512.png",
+        "64": "/PNG/64/Military/sword-64.png",
+        "48": "/PNG/48/Military/sword-48.png"
+      }
+    }
+  },
+  {
     "id": 2479,
     "name": "symbian",
     "platform": "Windows 8/Metro",
@@ -81057,6 +81120,40 @@
         "512": "/PNG/512/Transport/weight_station-512.png",
         "64": "/PNG/64/Transport/weight_station-64.png",
         "48": "/PNG/48/Transport/weight_station-48.png"
+      }
+    }
+  },
+  {
+    "id": 5330,
+    "name": "well",
+    "platform": "Windows 8/Metro",
+    "category": "DIY",
+    "created": 1405356676,
+    "tags": [
+      "fish",
+      "water",
+      "mud",
+      "stone",
+      "liquid",
+      "rope",
+      "bucket",
+      "drinking",
+      "pulley",
+      "irrigation"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/DIY/well.svg",
+      "svg.simplified": "/SVG_for_Font/DIY/well.svg",
+      "eps": "/EPS/DIY/well.eps",
+      "png": {
+        "32": "/PNG/32/DIY/well-32.png",
+        "128": "/PNG/128/DIY/well-128.png",
+        "26": "/PNG/26/DIY/well-26.png",
+        "256": "/PNG/256/DIY/well-256.png",
+        "512": "/PNG/512/DIY/well-512.png",
+        "64": "/PNG/64/DIY/well-64.png",
+        "48": "/PNG/48/DIY/well-48.png"
       }
     }
   },
