@@ -6487,6 +6487,7 @@
       "style",
       "underwear",
       "bra",
+      "tits",
       "cotton",
       "wardrobe",
       "wear",
@@ -11169,6 +11170,7 @@
     "category": "Science",
     "created": 1395442299,
     "tags": [
+      "roster",
       "student",
       "graduation"
     ],
@@ -16482,6 +16484,32 @@
         "100": "/PNG/100/Cinema/detective-100.png",
         "512": "/PNG/512/Cinema/detective-512.png",
         "50": "/PNG/50/Cinema/detective-50.png"
+      }
+    }
+  },
+  {
+    "id": 5324,
+    "name": "device_manager",
+    "platform": "iPhone/iOS 7",
+    "category": "Logos",
+    "created": 1405320679,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Logos/device_manager.svg",
+      "svg.simplified": "/SVG_for_Font/Logos/device_manager.svg",
+      "eps": "/EPS/Logos/device_manager.eps",
+      "png": {
+        "25": "/PNG/25/Logos/device_manager-25.png",
+        "32": "/PNG/32/Logos/device_manager-32.png",
+        "128": "/PNG/128/Logos/device_manager-128.png",
+        "75": "/PNG/75/Logos/device_manager-75.png",
+        "256": "/PNG/256/Logos/device_manager-256.png",
+        "100": "/PNG/100/Logos/device_manager-100.png",
+        "512": "/PNG/512/Logos/device_manager-512.png",
+        "50": "/PNG/50/Logos/device_manager-50.png"
       }
     }
   },
@@ -35793,6 +35821,56 @@
         "100": "/PNG/100/Business/marker_pen-100.png",
         "512": "/PNG/512/Business/marker_pen-512.png",
         "50": "/PNG/50/Business/marker_pen-50.png"
+      }
+    }
+  },
+  {
+    "id": 5318,
+    "name": "market_square",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1405320679,
+    "tags": [
+      "box",
+      "delivery",
+      "fashion",
+      "sale",
+      "shopping",
+      "buy",
+      "sweet",
+      "mall",
+      "store",
+      "present",
+      "gift",
+      "logo",
+      "computer",
+      "mobile",
+      "community",
+      "art",
+      "supermarket",
+      "surprise",
+      "expand",
+      "center",
+      "market",
+      "3d",
+      "handbag",
+      "sales",
+      "shoppingbag"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/market_square.svg",
+      "svg.simplified": "/SVG_for_Font/City/market_square.svg",
+      "eps": "/EPS/City/market_square.eps",
+      "png": {
+        "25": "/PNG/25/City/market_square-25.png",
+        "32": "/PNG/32/City/market_square-32.png",
+        "128": "/PNG/128/City/market_square-128.png",
+        "75": "/PNG/75/City/market_square-75.png",
+        "256": "/PNG/256/City/market_square-256.png",
+        "100": "/PNG/100/City/market_square-100.png",
+        "512": "/PNG/512/City/market_square-512.png",
+        "50": "/PNG/50/City/market_square-50.png"
       }
     }
   },
@@ -63938,6 +64016,7 @@
     "created": 1324900438,
     "tags": [
       "close",
+      "work",
       "contact",
       "social network",
       "Facebook",
