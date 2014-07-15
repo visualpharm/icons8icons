@@ -527,6 +527,7 @@
       "square",
       "form",
       "emblem",
+      "property",
       "circle",
       "corner",
       "heading"
@@ -9770,6 +9771,7 @@
     "category": "Messaging",
     "created": 1395953489,
     "tags": [
+      "add",
       "play",
       "communication",
       "image",
@@ -13266,10 +13268,10 @@
       "contacts",
       "phone book",
       "mail",
+      "chat",
       "profile",
       "dial",
       "phonebook",
-      "email",
       "schedule",
       "friends",
       "agenda",
@@ -22384,6 +22386,7 @@
     "tags": [
       "games",
       "olympics",
+      "start",
       "timer",
       "dash",
       "round",
@@ -26674,6 +26677,7 @@
     "category": "Maps",
     "created": 1345111382,
     "tags": [
+      "settings",
       "location",
       "sign",
       "geo",
@@ -53005,6 +53009,7 @@
     "category": "Very Basic",
     "created": 1323262362,
     "tags": [
+      "contacts",
       "phone",
       "calendar",
       "edit",
@@ -53014,6 +53019,7 @@
       "gear",
       "list",
       "dashboard",
+      "camera",
       "menu",
       "sort",
       "history",
@@ -53025,7 +53031,6 @@
       "add",
       "options",
       "switch",
-      "camera",
       "preferences"
     ],
     "copyright": false,
@@ -65471,6 +65476,7 @@
       "emergency",
       "config",
       "profile",
+      "compass",
       "reports",
       "person",
       "question"
