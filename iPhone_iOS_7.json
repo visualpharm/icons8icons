@@ -15250,6 +15250,32 @@
     }
   },
   {
+    "id": 5346,
+    "name": "dam",
+    "platform": "iPhone/iOS 7",
+    "category": "Industry",
+    "created": 1405457473,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/dam.svg",
+      "svg.simplified": "/SVG_for_Font/Industry/dam.svg",
+      "eps": "/EPS/Industry/dam.eps",
+      "png": {
+        "25": "/PNG/25/Industry/dam-25.png",
+        "32": "/PNG/32/Industry/dam-32.png",
+        "128": "/PNG/128/Industry/dam-128.png",
+        "75": "/PNG/75/Industry/dam-75.png",
+        "256": "/PNG/256/Industry/dam-256.png",
+        "100": "/PNG/100/Industry/dam-100.png",
+        "512": "/PNG/512/Industry/dam-512.png",
+        "50": "/PNG/50/Industry/dam-50.png"
+      }
+    }
+  },
+  {
     "id": 5077,
     "name": "dancing",
     "platform": "iPhone/iOS 7",
@@ -28987,6 +29013,32 @@
     }
   },
   {
+    "id": 5342,
+    "name": "high_priority",
+    "platform": "iPhone/iOS 7",
+    "category": "Business",
+    "created": 1405457473,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/high_priority.svg",
+      "svg.simplified": "/SVG_for_Font/Business/high_priority.svg",
+      "eps": "/EPS/Business/high_priority.eps",
+      "png": {
+        "25": "/PNG/25/Business/high_priority-25.png",
+        "32": "/PNG/32/Business/high_priority-32.png",
+        "128": "/PNG/128/Business/high_priority-128.png",
+        "75": "/PNG/75/Business/high_priority-75.png",
+        "256": "/PNG/256/Business/high_priority-256.png",
+        "100": "/PNG/100/Business/high_priority-100.png",
+        "512": "/PNG/512/Business/high_priority-512.png",
+        "50": "/PNG/50/Business/high_priority-50.png"
+      }
+    }
+  },
+  {
     "id": 2795,
     "name": "high_volume",
     "platform": "iPhone/iOS 7",
@@ -35095,6 +35147,32 @@
     }
   },
   {
+    "id": 5343,
+    "name": "low_priority",
+    "platform": "iPhone/iOS 7",
+    "category": "Business",
+    "created": 1405457473,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/low_priority.svg",
+      "svg.simplified": "/SVG_for_Font/Business/low_priority.svg",
+      "eps": "/EPS/Business/low_priority.eps",
+      "png": {
+        "25": "/PNG/25/Business/low_priority-25.png",
+        "32": "/PNG/32/Business/low_priority-32.png",
+        "128": "/PNG/128/Business/low_priority-128.png",
+        "75": "/PNG/75/Business/low_priority-75.png",
+        "256": "/PNG/256/Business/low_priority-256.png",
+        "100": "/PNG/100/Business/low_priority-100.png",
+        "512": "/PNG/512/Business/low_priority-512.png",
+        "50": "/PNG/50/Business/low_priority-50.png"
+      }
+    }
+  },
+  {
     "id": 2929,
     "name": "low_volume",
     "platform": "iPhone/iOS 7",
@@ -36464,6 +36542,32 @@
     }
   },
   {
+    "id": 5344,
+    "name": "medium_priority",
+    "platform": "iPhone/iOS 7",
+    "category": "Business",
+    "created": 1405457473,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/medium_priority.svg",
+      "svg.simplified": "/SVG_for_Font/Business/medium_priority.svg",
+      "eps": "/EPS/Business/medium_priority.eps",
+      "png": {
+        "25": "/PNG/25/Business/medium_priority-25.png",
+        "32": "/PNG/32/Business/medium_priority-32.png",
+        "128": "/PNG/128/Business/medium_priority-128.png",
+        "75": "/PNG/75/Business/medium_priority-75.png",
+        "256": "/PNG/256/Business/medium_priority-256.png",
+        "100": "/PNG/100/Business/medium_priority-100.png",
+        "512": "/PNG/512/Business/medium_priority-512.png",
+        "50": "/PNG/50/Business/medium_priority-50.png"
+      }
+    }
+  },
+  {
     "id": 2902,
     "name": "medium_volume",
     "platform": "iPhone/iOS 7",
@@ -36476,6 +36580,7 @@
       "audio",
       "cd",
       "video",
+      "share",
       "dvd",
       "ipod",
       "remote control",
@@ -53194,6 +53299,32 @@
         "100": "/PNG/100/Very_Basic/settings_wrench_filled-100.png",
         "512": "/PNG/512/Very_Basic/settings_wrench_filled-512.png",
         "50": "/PNG/50/Very_Basic/settings_wrench_filled-50.png"
+      }
+    }
+  },
+  {
+    "id": 5345,
+    "name": "sewer_cover",
+    "platform": "iPhone/iOS 7",
+    "category": "Industry",
+    "created": 1405457473,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/sewer_cover.svg",
+      "svg.simplified": "/SVG_for_Font/Industry/sewer_cover.svg",
+      "eps": "/EPS/Industry/sewer_cover.eps",
+      "png": {
+        "25": "/PNG/25/Industry/sewer_cover-25.png",
+        "32": "/PNG/32/Industry/sewer_cover-32.png",
+        "128": "/PNG/128/Industry/sewer_cover-128.png",
+        "75": "/PNG/75/Industry/sewer_cover-75.png",
+        "256": "/PNG/256/Industry/sewer_cover-256.png",
+        "100": "/PNG/100/Industry/sewer_cover-100.png",
+        "512": "/PNG/512/Industry/sewer_cover-512.png",
+        "50": "/PNG/50/Industry/sewer_cover-50.png"
       }
     }
   },
