@@ -22298,8 +22298,14 @@
     "category": "Folders",
     "created": 1394020283,
     "tags": [
+      "book",
+      "folder",
+      "catalog",
       "jj",
-      "downlad"
+      "downlad",
+      "folderr",
+      "dessier",
+      "dossier"
     ],
     "copyright": false,
     "files": {
@@ -60360,6 +60366,7 @@
       "pointer",
       "icons",
       "move",
+      "resize",
       "button right",
       "right",
       "button"
@@ -66142,7 +66149,6 @@
     "category": "Photo and Video",
     "created": 1326886315,
     "tags": [
-      "music",
       "settings",
       "image",
       "photo",
