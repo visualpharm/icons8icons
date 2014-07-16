@@ -36119,7 +36119,6 @@
     "tags": [
       "android",
       "cell",
-      "phone",
       "smartphone",
       "device",
       "message",
@@ -36129,7 +36128,8 @@
       "touch",
       "gadget",
       "samsung",
-      "lg"
+      "lg",
+      "phone"
     ],
     "copyright": false,
     "files": {
