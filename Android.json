@@ -12816,7 +12816,8 @@
       "medical examiner",
       "toe tag",
       "barefoot",
-      "footnote"
+      "footnote",
+      "p s"
     ],
     "copyright": false,
     "files": {
@@ -23292,6 +23293,7 @@
       "pay",
       "shop",
       "letter",
+      "dashboard",
       "quote",
       "friend",
       "feed",
@@ -23306,7 +23308,6 @@
       "phon",
       "telephon",
       "main page",
-      "principal",
       "wishlist",
       "birth date",
       "accueil",
@@ -23316,9 +23317,9 @@
       "house",
       "chimney",
       "foreclosure",
-      "dashboard",
-      "index",
-      "home page"
+      "home page",
+      "principal",
+      "index"
     ],
     "copyright": false,
     "files": {
@@ -30710,6 +30711,7 @@
     "category": "Transport",
     "created": 1391770248,
     "tags": [
+      "temperature",
       "limit"
     ],
     "copyright": false,
@@ -40628,7 +40630,6 @@
       "watch",
       "mail",
       "tools",
-      "detect",
       "detective",
       "zoom",
       "view",
@@ -40646,6 +40647,7 @@
       "investigate",
       "seek",
       "look up",
+      "detect",
       "zoom out",
       "details",
       "finder",
@@ -45165,8 +45167,8 @@
       "remote control",
       "podcast",
       "itunes",
-      "media controls",
-      "stop"
+      "stop",
+      "media controls"
     ],
     "copyright": false,
     "files": {
@@ -50289,6 +50291,7 @@
       "dhl",
       "ups",
       "van",
+      "moto",
       "financial services",
       "ASSOSIATE"
     ],
@@ -51050,8 +51053,6 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-      "save",
-      "action",
       "share"
     ],
     "copyright": false,

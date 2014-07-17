@@ -16657,7 +16657,8 @@
       "medical examiner",
       "toe tag",
       "barefoot",
-      "footnote"
+      "footnote",
+      "p s"
     ],
     "copyright": false,
     "files": {
@@ -30874,6 +30875,7 @@
       "pay",
       "shop",
       "letter",
+      "dashboard",
       "quote",
       "friend",
       "feed",
@@ -30888,7 +30890,6 @@
       "phon",
       "telephon",
       "main page",
-      "principal",
       "wishlist",
       "birth date",
       "accueil",
@@ -30898,9 +30899,9 @@
       "house",
       "chimney",
       "foreclosure",
-      "dashboard",
-      "index",
-      "home page"
+      "home page",
+      "principal",
+      "index"
     ],
     "copyright": false,
     "files": {
@@ -35134,6 +35135,7 @@
       "sciences",
       "informatics",
       "judge",
+      "legal",
       "court",
       "tribunal",
       "verdict"
@@ -40878,6 +40880,7 @@
     "category": "Transport",
     "created": 1321553630,
     "tags": [
+      "temperature",
       "limit"
     ],
     "copyright": false,
@@ -54509,12 +54512,10 @@
     "tags": [
       "pencil",
       "save",
-      "save as",
       "floppy",
       "disk",
       "floppy disk",
       "diskette",
-      "write disk",
       "image",
       "1 44"
     ],
@@ -55258,7 +55259,6 @@
       "watch",
       "mail",
       "tools",
-      "detect",
       "detective",
       "zoom",
       "view",
@@ -55276,6 +55276,7 @@
       "investigate",
       "seek",
       "look up",
+      "detect",
       "zoom out",
       "details",
       "finder",
@@ -61083,8 +61084,8 @@
       "remote control",
       "podcast",
       "itunes",
-      "media controls",
-      "stop"
+      "stop",
+      "media controls"
     ],
     "copyright": false,
     "files": {
@@ -67499,6 +67500,7 @@
       "dhl",
       "ups",
       "van",
+      "moto",
       "financial services",
       "ASSOSIATE"
     ],
@@ -68654,8 +68656,6 @@
     "category": "Very Basic",
     "created": 1323361504,
     "tags": [
-      "save",
-      "action",
       "share"
     ],
     "copyright": false,
