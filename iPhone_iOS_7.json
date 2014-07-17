@@ -1002,7 +1002,8 @@
       "north",
       "browser",
       "lead",
-      "safari"
+      "safari",
+      "map"
     ],
     "copyright": false,
     "files": {
@@ -4201,6 +4202,7 @@
       "flowchart",
       "form",
       "best",
+      "bar graph",
       "chart"
     ],
     "copyright": false,
@@ -8596,8 +8598,8 @@
       "finish",
       "stop",
       "no",
-      "break",
-      "close"
+      "close",
+      "break"
     ],
     "copyright": false,
     "files": {
@@ -13925,6 +13927,7 @@
       "user",
       "info",
       "badge",
+      "settings",
       "chat",
       "profile",
       "person",
@@ -23548,6 +23551,8 @@
       "results",
       "filtering",
       "filtration",
+      "funnel chart",
+      "funnel graph",
       "search",
       "parameters"
     ],
@@ -27700,6 +27705,7 @@
     "created": 1390342414,
     "tags": [
       "search",
+      "location",
       "geo",
       "gps",
       "geography",
@@ -42726,10 +42732,9 @@
       "local",
       "trace",
       "trail",
-      "compas",
       "orient",
       "aviation",
-      "ori"
+      "orientate"
     ],
     "copyright": false,
     "files": {
@@ -50068,6 +50073,7 @@
       "car",
       "previous",
       "filter",
+      "one",
       "structure",
       "plugin",
       "property",
@@ -53037,7 +53043,6 @@
     "tags": [
       "medicine",
       "health",
-      "hospital",
       "stick",
       "emergency",
       "doctor",
@@ -53047,14 +53052,15 @@
       "rod",
       "snake",
       "better health",
-      "hippocratic oath",
       "physician",
-      "medical care",
       "asclepius",
       "twisted",
       "ealth",
+      "hospital",
       "improved outcomes",
-      "healthy living"
+      "hippocratic oath",
+      "healthy living",
+      "medical care"
     ],
     "copyright": false,
     "files": {
@@ -55795,6 +55801,7 @@
       "info",
       "setting",
       "work",
+      "profile",
       "account",
       "tune",
       "steam",
