@@ -10985,6 +10985,7 @@
     "tags": [
       "box",
       "basket",
+      "data",
       "ecommerce",
       "sell",
       "shopping",
@@ -11158,6 +11159,40 @@
         "512": "/PNG/512/Finance/CAD-512.png",
         "64": "/PNG/64/Finance/CAD-64.png",
         "48": "/PNG/48/Finance/CAD-48.png"
+      }
+    }
+  },
+  {
+    "id": 5358,
+    "name": "caduceus",
+    "platform": "Windows 8/Metro",
+    "category": "Healthcare",
+    "created": 1405615877,
+    "tags": [
+      "health",
+      "medical",
+      "wings",
+      "doctor",
+      "staff",
+      "healthcare",
+      "snake",
+      "greek",
+      "hermes",
+      "herald"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Healthcare/caduceus.svg",
+      "svg.simplified": "/SVG_for_Font/Healthcare/caduceus.svg",
+      "eps": "/EPS/Healthcare/caduceus.eps",
+      "png": {
+        "32": "/PNG/32/Healthcare/caduceus-32.png",
+        "128": "/PNG/128/Healthcare/caduceus-128.png",
+        "26": "/PNG/26/Healthcare/caduceus-26.png",
+        "256": "/PNG/256/Healthcare/caduceus-256.png",
+        "512": "/PNG/512/Healthcare/caduceus-512.png",
+        "64": "/PNG/64/Healthcare/caduceus-64.png",
+        "48": "/PNG/48/Healthcare/caduceus-48.png"
       }
     }
   },
@@ -37032,6 +37067,7 @@
       "doors",
       "door",
       "info",
+      "settings",
       "people",
       "events",
       "pay",
@@ -44228,6 +44264,40 @@
     }
   },
   {
+    "id": 5354,
+    "name": "lungs",
+    "platform": "Windows 8/Metro",
+    "category": "Healthcare",
+    "created": 1405615877,
+    "tags": [
+      "respiration",
+      "lungs",
+      "body",
+      "breathing",
+      "organs",
+      "lung",
+      "airway",
+      "internal organs",
+      "bronchus",
+      "breath"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Healthcare/lungs.svg",
+      "svg.simplified": "/SVG_for_Font/Healthcare/lungs.svg",
+      "eps": "/EPS/Healthcare/lungs.eps",
+      "png": {
+        "32": "/PNG/32/Healthcare/lungs-32.png",
+        "128": "/PNG/128/Healthcare/lungs-128.png",
+        "26": "/PNG/26/Healthcare/lungs-26.png",
+        "256": "/PNG/256/Healthcare/lungs-256.png",
+        "512": "/PNG/512/Healthcare/lungs-512.png",
+        "64": "/PNG/64/Healthcare/lungs-64.png",
+        "48": "/PNG/48/Healthcare/lungs-48.png"
+      }
+    }
+  },
+  {
     "id": 589,
     "name": "lyre",
     "platform": "Windows 8/Metro",
@@ -46312,6 +46382,7 @@
       "message",
       "sms",
       "address",
+      "download",
       "letter",
       "email",
       "correspondence",
@@ -55949,6 +56020,7 @@
       "office",
       "supplies",
       "paper",
+      "mail",
       "clip",
       "note",
       "memo",
@@ -65089,6 +65161,7 @@
     "category": "Programming",
     "created": 1293858000,
     "tags": [
+      "delete",
       "save",
       "floppy",
       "disk",
@@ -68513,6 +68586,40 @@
         "512": "/PNG/512/Sports/skiing-512.png",
         "64": "/PNG/64/Sports/skiing-64.png",
         "48": "/PNG/48/Sports/skiing-48.png"
+      }
+    }
+  },
+  {
+    "id": 5356,
+    "name": "skin",
+    "platform": "Windows 8/Metro",
+    "category": "Healthcare",
+    "created": 1405615877,
+    "tags": [
+      "cut",
+      "hair",
+      "growth",
+      "stubble",
+      "skin",
+      "infection",
+      "follicle",
+      "shave",
+      "pore",
+      "pluck"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Healthcare/skin.svg",
+      "svg.simplified": "/SVG_for_Font/Healthcare/skin.svg",
+      "eps": "/EPS/Healthcare/skin.eps",
+      "png": {
+        "32": "/PNG/32/Healthcare/skin-32.png",
+        "128": "/PNG/128/Healthcare/skin-128.png",
+        "26": "/PNG/26/Healthcare/skin-26.png",
+        "256": "/PNG/256/Healthcare/skin-256.png",
+        "512": "/PNG/512/Healthcare/skin-512.png",
+        "64": "/PNG/64/Healthcare/skin-64.png",
+        "48": "/PNG/48/Healthcare/skin-48.png"
       }
     }
   },
@@ -78651,6 +78758,7 @@
       "industrial garbage bin",
       "garbage bin",
       "garbage dump",
+      "dollar",
       "tech",
       "machinery",
       "rubbish",
@@ -78735,6 +78843,7 @@
       "sign",
       "list",
       "logo",
+      "computer",
       "five",
       "menu",
       "black",
@@ -80912,7 +81021,8 @@
       "dollar",
       "exchange",
       "forex",
-      "market"
+      "market",
+      "cost"
     ],
     "copyright": false,
     "files": {
@@ -83488,6 +83598,7 @@
       "clothing",
       "wood",
       "apartment",
+      "boot",
       "furniture",
       "interior",
       "domestic",
@@ -83657,6 +83768,7 @@
       "time",
       "watch",
       "heart",
+      "pin",
       "instant",
       "debug",
       "woman",

@@ -7964,6 +7964,41 @@
     }
   },
   {
+    "id": 5359,
+    "name": "caduceus",
+    "platform": "iPhone/iOS 7",
+    "category": "Healthcare",
+    "created": 1405615877,
+    "tags": [
+      "health",
+      "medical",
+      "wings",
+      "doctor",
+      "staff",
+      "healthcare",
+      "snake",
+      "greek",
+      "hermes",
+      "herald"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Healthcare/caduceus.svg",
+      "svg.simplified": "/SVG_for_Font/Healthcare/caduceus.svg",
+      "eps": "/EPS/Healthcare/caduceus.eps",
+      "png": {
+        "25": "/PNG/25/Healthcare/caduceus-25.png",
+        "32": "/PNG/32/Healthcare/caduceus-32.png",
+        "128": "/PNG/128/Healthcare/caduceus-128.png",
+        "75": "/PNG/75/Healthcare/caduceus-75.png",
+        "256": "/PNG/256/Healthcare/caduceus-256.png",
+        "100": "/PNG/100/Healthcare/caduceus-100.png",
+        "512": "/PNG/512/Healthcare/caduceus-512.png",
+        "50": "/PNG/50/Healthcare/caduceus-50.png"
+      }
+    }
+  },
+  {
     "id": 23,
     "name": "calendar",
     "platform": "iPhone/iOS 7",
@@ -30823,6 +30858,7 @@
       "doors",
       "door",
       "info",
+      "settings",
       "people",
       "events",
       "pay",
@@ -37175,6 +37211,41 @@
         "100": "/PNG/100/Transport/luggage_trolley-100.png",
         "512": "/PNG/512/Transport/luggage_trolley-512.png",
         "50": "/PNG/50/Transport/luggage_trolley-50.png"
+      }
+    }
+  },
+  {
+    "id": 5355,
+    "name": "lungs",
+    "platform": "iPhone/iOS 7",
+    "category": "Healthcare",
+    "created": 1405615877,
+    "tags": [
+      "respiration",
+      "lungs",
+      "body",
+      "breathing",
+      "organs",
+      "lung",
+      "airway",
+      "internal organs",
+      "bronchus",
+      "breath"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Healthcare/lungs.svg",
+      "svg.simplified": "/SVG_for_Font/Healthcare/lungs.svg",
+      "eps": "/EPS/Healthcare/lungs.eps",
+      "png": {
+        "25": "/PNG/25/Healthcare/lungs-25.png",
+        "32": "/PNG/32/Healthcare/lungs-32.png",
+        "128": "/PNG/128/Healthcare/lungs-128.png",
+        "75": "/PNG/75/Healthcare/lungs-75.png",
+        "256": "/PNG/256/Healthcare/lungs-256.png",
+        "100": "/PNG/100/Healthcare/lungs-100.png",
+        "512": "/PNG/512/Healthcare/lungs-512.png",
+        "50": "/PNG/50/Healthcare/lungs-50.png"
       }
     }
   },
@@ -46664,6 +46735,7 @@
       "office",
       "supplies",
       "paper",
+      "mail",
       "clip",
       "note",
       "memo",
@@ -57457,6 +57529,41 @@
     }
   },
   {
+    "id": 5357,
+    "name": "skin",
+    "platform": "iPhone/iOS 7",
+    "category": "Healthcare",
+    "created": 1405615877,
+    "tags": [
+      "cut",
+      "hair",
+      "growth",
+      "stubble",
+      "skin",
+      "infection",
+      "follicle",
+      "shave",
+      "pore",
+      "pluck"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Healthcare/skin.svg",
+      "svg.simplified": "/SVG_for_Font/Healthcare/skin.svg",
+      "eps": "/EPS/Healthcare/skin.eps",
+      "png": {
+        "25": "/PNG/25/Healthcare/skin-25.png",
+        "32": "/PNG/32/Healthcare/skin-32.png",
+        "128": "/PNG/128/Healthcare/skin-128.png",
+        "75": "/PNG/75/Healthcare/skin-75.png",
+        "256": "/PNG/256/Healthcare/skin-256.png",
+        "100": "/PNG/100/Healthcare/skin-100.png",
+        "512": "/PNG/512/Healthcare/skin-512.png",
+        "50": "/PNG/50/Healthcare/skin-50.png"
+      }
+    }
+  },
+  {
     "id": 411,
     "name": "skip_to_start",
     "platform": "iPhone/iOS 7",
@@ -60838,6 +60945,34 @@
         "100": "/PNG/100/Healthcare/stethoscope-100.png",
         "512": "/PNG/512/Healthcare/stethoscope-512.png",
         "50": "/PNG/50/Healthcare/stethoscope-50.png"
+      }
+    }
+  },
+  {
+    "id": 5353,
+    "name": "stomach",
+    "platform": "iPhone/iOS 7",
+    "category": "Healthcare",
+    "created": 1405615877,
+    "tags": [
+      "medicine",
+      "medical services",
+      "stomach"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Healthcare/stomach.svg",
+      "svg.simplified": "/SVG_for_Font/Healthcare/stomach.svg",
+      "eps": "/EPS/Healthcare/stomach.eps",
+      "png": {
+        "25": "/PNG/25/Healthcare/stomach-25.png",
+        "32": "/PNG/32/Healthcare/stomach-32.png",
+        "128": "/PNG/128/Healthcare/stomach-128.png",
+        "75": "/PNG/75/Healthcare/stomach-75.png",
+        "256": "/PNG/256/Healthcare/stomach-256.png",
+        "100": "/PNG/100/Healthcare/stomach-100.png",
+        "512": "/PNG/512/Healthcare/stomach-512.png",
+        "50": "/PNG/50/Healthcare/stomach-50.png"
       }
     }
   },
@@ -66576,6 +66711,7 @@
       "industrial garbage bin",
       "garbage bin",
       "garbage dump",
+      "dollar",
       "tech",
       "machinery",
       "rubbish",
@@ -66698,6 +66834,7 @@
       "sign",
       "list",
       "logo",
+      "computer",
       "five",
       "menu",
       "black",
@@ -68715,7 +68852,8 @@
       "dollar",
       "exchange",
       "forex",
-      "market"
+      "market",
+      "cost"
     ],
     "copyright": false,
     "files": {
@@ -70957,6 +71095,7 @@
       "clothing",
       "wood",
       "apartment",
+      "boot",
       "furniture",
       "interior",
       "domestic",
@@ -71130,6 +71269,7 @@
       "time",
       "watch",
       "heart",
+      "pin",
       "instant",
       "debug",
       "woman",
