@@ -37391,7 +37391,7 @@
     "id": 3188,
     "name": "redo",
     "platform": "Android",
-    "category": "Very Basic",
+    "category": "Arrows",
     "created": 1391770248,
     "tags": [
       "mark",
@@ -37426,19 +37426,19 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Very_Basic/redo.svg",
-      "svg.simplified": "/SVG_for_Font/Very_Basic/redo.svg",
-      "eps": "/EPS/Very_Basic/redo.eps",
+      "svg": "/SVG/Arrows/redo.svg",
+      "svg.simplified": "/SVG_for_Font/Arrows/redo.svg",
+      "eps": "/EPS/Arrows/redo.eps",
       "png": {
-        "32": "/PNG/32/Very_Basic/redo-32.png",
-        "128": "/PNG/128/Very_Basic/redo-128.png",
-        "256": "/PNG/256/Very_Basic/redo-256.png",
-        "36": "/PNG/36/Very_Basic/redo-36.png",
-        "512": "/PNG/512/Very_Basic/redo-512.png",
-        "64": "/PNG/64/Very_Basic/redo-64.png",
-        "24": "/PNG/24/Very_Basic/redo-24.png",
-        "96": "/PNG/96/Very_Basic/redo-96.png",
-        "48": "/PNG/48/Very_Basic/redo-48.png"
+        "32": "/PNG/32/Arrows/redo-32.png",
+        "128": "/PNG/128/Arrows/redo-128.png",
+        "256": "/PNG/256/Arrows/redo-256.png",
+        "36": "/PNG/36/Arrows/redo-36.png",
+        "512": "/PNG/512/Arrows/redo-512.png",
+        "64": "/PNG/64/Arrows/redo-64.png",
+        "24": "/PNG/24/Arrows/redo-24.png",
+        "96": "/PNG/96/Arrows/redo-96.png",
+        "48": "/PNG/48/Arrows/redo-48.png"
       }
     }
   },
@@ -40625,7 +40625,6 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-      "google",
       "tick",
       "watch",
       "mail",
@@ -50884,7 +50883,7 @@
     "id": 3183,
     "name": "undo",
     "platform": "Android",
-    "category": "Very Basic",
+    "category": "Arrows",
     "created": 1391770248,
     "tags": [
       "left",
@@ -50909,19 +50908,19 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Very_Basic/undo.svg",
-      "svg.simplified": "/SVG_for_Font/Very_Basic/undo.svg",
-      "eps": "/EPS/Very_Basic/undo.eps",
+      "svg": "/SVG/Arrows/undo.svg",
+      "svg.simplified": "/SVG_for_Font/Arrows/undo.svg",
+      "eps": "/EPS/Arrows/undo.eps",
       "png": {
-        "32": "/PNG/32/Very_Basic/undo-32.png",
-        "128": "/PNG/128/Very_Basic/undo-128.png",
-        "256": "/PNG/256/Very_Basic/undo-256.png",
-        "36": "/PNG/36/Very_Basic/undo-36.png",
-        "512": "/PNG/512/Very_Basic/undo-512.png",
-        "64": "/PNG/64/Very_Basic/undo-64.png",
-        "24": "/PNG/24/Very_Basic/undo-24.png",
-        "96": "/PNG/96/Very_Basic/undo-96.png",
-        "48": "/PNG/48/Very_Basic/undo-48.png"
+        "32": "/PNG/32/Arrows/undo-32.png",
+        "128": "/PNG/128/Arrows/undo-128.png",
+        "256": "/PNG/256/Arrows/undo-256.png",
+        "36": "/PNG/36/Arrows/undo-36.png",
+        "512": "/PNG/512/Arrows/undo-512.png",
+        "64": "/PNG/64/Arrows/undo-64.png",
+        "24": "/PNG/24/Arrows/undo-24.png",
+        "96": "/PNG/96/Arrows/undo-96.png",
+        "48": "/PNG/48/Arrows/undo-48.png"
       }
     }
   },

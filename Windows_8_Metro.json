@@ -15908,27 +15908,27 @@
     }
   },
   {
-    "id": 2677,
-    "name": "cllipboard",
+    "id": 5361,
+    "name": "clipboard",
     "platform": "Windows 8/Metro",
     "category": "Editing",
-    "created": 1390342413,
+    "created": 1405644651,
     "tags": [
-      "clipboard"
+
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Editing/cllipboard.svg",
-      "svg.simplified": "/SVG_for_Font/Editing/cllipboard.svg",
-      "eps": "/EPS/Editing/cllipboard.eps",
+      "svg": "/SVG/Editing/clipboard.svg",
+      "svg.simplified": "/SVG_for_Font/Editing/clipboard.svg",
+      "eps": "/EPS/Editing/clipboard.eps",
       "png": {
-        "32": "/PNG/32/Editing/cllipboard-32.png",
-        "128": "/PNG/128/Editing/cllipboard-128.png",
-        "26": "/PNG/26/Editing/cllipboard-26.png",
-        "256": "/PNG/256/Editing/cllipboard-256.png",
-        "512": "/PNG/512/Editing/cllipboard-512.png",
-        "64": "/PNG/64/Editing/cllipboard-64.png",
-        "48": "/PNG/48/Editing/cllipboard-48.png"
+        "32": "/PNG/32/Editing/clipboard-32.png",
+        "128": "/PNG/128/Editing/clipboard-128.png",
+        "26": "/PNG/26/Editing/clipboard-26.png",
+        "256": "/PNG/256/Editing/clipboard-256.png",
+        "512": "/PNG/512/Editing/clipboard-512.png",
+        "64": "/PNG/64/Editing/clipboard-64.png",
+        "48": "/PNG/48/Editing/clipboard-48.png"
       }
     }
   },
@@ -66104,7 +66104,6 @@
     "category": "Very Basic",
     "created": 1318305600,
     "tags": [
-      "google",
       "tick",
       "watch",
       "mail",
