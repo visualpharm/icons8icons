@@ -7970,16 +7970,25 @@
     "category": "Healthcare",
     "created": 1405615877,
     "tags": [
+      "medicine",
       "health",
       "medical",
+      "symbol",
       "wings",
       "doctor",
       "staff",
       "healthcare",
       "snake",
+      "astrology",
+      "mercury",
       "greek",
+      "america",
       "hermes",
-      "herald"
+      "herald",
+      "commerc e",
+      "medical practise",
+      "medical symbol",
+      "astrological symbol"
     ],
     "copyright": false,
     "files": {
@@ -37221,16 +37230,26 @@
     "category": "Healthcare",
     "created": 1405615877,
     "tags": [
+      "cancer",
+      "medical",
+      "chest",
       "respiration",
       "lungs",
       "body",
+      "health care",
+      "biological",
       "breathing",
+      "cardiovascular",
       "organs",
       "lung",
       "airway",
       "internal organs",
       "bronchus",
-      "breath"
+      "breath",
+      "diagnostic",
+      "colon",
+      "throat",
+      "inhale"
     ],
     "copyright": false,
     "files": {
@@ -43029,7 +43048,11 @@
       "town",
       "settlement",
       "urban",
-      "wayfinding"
+      "wayfinding",
+      "prohibited",
+      "cigarettes",
+      "smoke free",
+      "non-smokers"
     ],
     "copyright": false,
     "files": {
@@ -56718,7 +56741,6 @@
       "menu",
       "bag",
       "accessories",
-      "paper bag",
       "sales",
       "premium",
       "hairband",
@@ -57487,6 +57509,44 @@
     }
   },
   {
+    "id": 5360,
+    "name": "skeleton",
+    "platform": "iPhone/iOS 7",
+    "category": "Healthcare",
+    "created": 1405623073,
+    "tags": [
+      "medicine",
+      "human",
+      "science",
+      "museum",
+      "halloween",
+      "skeleton",
+      "biology",
+      "skull",
+      "skeletal",
+      "examination",
+      "bone",
+      "physiology",
+      "physiotherapy"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Healthcare/skeleton.svg",
+      "svg.simplified": "/SVG_for_Font/Healthcare/skeleton.svg",
+      "eps": "/EPS/Healthcare/skeleton.eps",
+      "png": {
+        "25": "/PNG/25/Healthcare/skeleton-25.png",
+        "32": "/PNG/32/Healthcare/skeleton-32.png",
+        "128": "/PNG/128/Healthcare/skeleton-128.png",
+        "75": "/PNG/75/Healthcare/skeleton-75.png",
+        "256": "/PNG/256/Healthcare/skeleton-256.png",
+        "100": "/PNG/100/Healthcare/skeleton-100.png",
+        "512": "/PNG/512/Healthcare/skeleton-512.png",
+        "50": "/PNG/50/Healthcare/skeleton-50.png"
+      }
+    }
+  },
+  {
     "id": 920,
     "name": "skiing",
     "platform": "iPhone/iOS 7",
@@ -57539,12 +57599,23 @@
       "hair",
       "growth",
       "stubble",
+      "layer",
+      "pointed",
       "skin",
+      "growing",
+      "cells",
+      "inner",
       "infection",
       "follicle",
       "shave",
       "pore",
-      "pluck"
+      "pluck",
+      "epedermis",
+      "sweat",
+      "gland",
+      "depillation",
+      "balding",
+      "shampoo"
     ],
     "copyright": false,
     "files": {
@@ -58836,8 +58907,14 @@
       "living space",
       "wayfinding",
       "accommodation",
-      "presssing",
-      "hrt"
+      "cigarettes",
+      "smoker",
+      "smoking room",
+      "ashtray",
+      "cigarette",
+      "marlboro",
+      "lung cancer",
+      "bad boys"
     ],
     "copyright": false,
     "files": {
@@ -60956,8 +61033,18 @@
     "created": 1405615877,
     "tags": [
       "medicine",
+      "system",
+      "body",
       "medical services",
-      "stomach"
+      "stomach",
+      "tube",
+      "inside",
+      "diseases",
+      "digestion",
+      "bodypart",
+      "enzymes",
+      "indigestion",
+      "gstro"
     ],
     "copyright": false,
     "files": {
@@ -69903,7 +69990,6 @@
       "scandinavian",
       "viking",
       "warrior",
-      "scandinavian culture",
       "viking ship",
       "warship",
       "superhero",
@@ -69912,9 +69998,9 @@
       "landmark",
       "heritage",
       "culture",
-      "anthropology",
       "unesco",
-      "point of attraction"
+      "point of attraction",
+      "scandinavian culture"
     ],
     "copyright": false,
     "files": {
