@@ -26020,7 +26020,6 @@
       "picture",
       "images",
       "camera",
-      "frame",
       "wall",
       "art",
       "gallery",
@@ -69125,6 +69124,7 @@
       "compass",
       "reports",
       "person",
+      "history",
       "question"
     ],
     "copyright": false,

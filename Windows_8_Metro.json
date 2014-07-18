@@ -31307,7 +31307,6 @@
       "picture",
       "images",
       "camera",
-      "frame",
       "wall",
       "art",
       "gallery",
@@ -68481,6 +68480,48 @@
         "512": "/PNG/512/Very_Basic/sinchronize-512.png",
         "64": "/PNG/64/Very_Basic/sinchronize-64.png",
         "48": "/PNG/48/Very_Basic/sinchronize-48.png"
+      }
+    }
+  },
+  {
+    "id": 5362,
+    "name": "siren",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1405702275,
+    "tags": [
+      "alarm",
+      "light",
+      "arm",
+      "emergency",
+      "signal",
+      "loud",
+      "horn",
+      "bell",
+      "accident",
+      "clip art",
+      "whistle",
+      "violence",
+      "blast",
+      "tumbler",
+      "emergency vehicle light",
+      "siren",
+      "whiz",
+      "tootle"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/siren.svg",
+      "svg.simplified": "/SVG_for_Font/City/siren.svg",
+      "eps": "/EPS/City/siren.eps",
+      "png": {
+        "32": "/PNG/32/City/siren-32.png",
+        "128": "/PNG/128/City/siren-128.png",
+        "26": "/PNG/26/City/siren-26.png",
+        "256": "/PNG/256/City/siren-256.png",
+        "512": "/PNG/512/City/siren-512.png",
+        "64": "/PNG/64/City/siren-64.png",
+        "48": "/PNG/48/City/siren-48.png"
       }
     }
   },
