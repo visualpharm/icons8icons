@@ -56433,6 +56433,49 @@
     }
   },
   {
+    "id": 5367,
+    "name": "sheriff",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1405716674,
+    "tags": [
+      "star",
+      "badge",
+      "prison",
+      "function",
+      "police",
+      "art",
+      "officer",
+      "competition",
+      "law",
+      "cop",
+      "crime",
+      "arrest",
+      "law enforcement",
+      "fuzz",
+      "constable",
+      "marshal",
+      "rangoli",
+      "policeman"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/sheriff.svg",
+      "svg.simplified": "/SVG_for_Font/City/sheriff.svg",
+      "eps": "/EPS/City/sheriff.eps",
+      "png": {
+        "25": "/PNG/25/City/sheriff-25.png",
+        "32": "/PNG/32/City/sheriff-32.png",
+        "128": "/PNG/128/City/sheriff-128.png",
+        "75": "/PNG/75/City/sheriff-75.png",
+        "256": "/PNG/256/City/sheriff-256.png",
+        "100": "/PNG/100/City/sheriff-100.png",
+        "512": "/PNG/512/City/sheriff-512.png",
+        "50": "/PNG/50/City/sheriff-50.png"
+      }
+    }
+  },
+  {
     "id": 852,
     "name": "shield",
     "platform": "iPhone/iOS 7",
@@ -57443,6 +57486,49 @@
         "100": "/PNG/100/Mobile/sim_card_chip-100.png",
         "512": "/PNG/512/Mobile/sim_card_chip-512.png",
         "50": "/PNG/50/Mobile/sim_card_chip-50.png"
+      }
+    }
+  },
+  {
+    "id": 5365,
+    "name": "siren",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1405716674,
+    "tags": [
+      "alarm",
+      "light",
+      "arm",
+      "emergency",
+      "signal",
+      "loud",
+      "horn",
+      "bell",
+      "accident",
+      "clip art",
+      "whistle",
+      "violence",
+      "blast",
+      "tumbler",
+      "emergency vehicle light",
+      "siren",
+      "whiz",
+      "tootle"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/siren.svg",
+      "svg.simplified": "/SVG_for_Font/City/siren.svg",
+      "eps": "/EPS/City/siren.eps",
+      "png": {
+        "25": "/PNG/25/City/siren-25.png",
+        "32": "/PNG/32/City/siren-32.png",
+        "128": "/PNG/128/City/siren-128.png",
+        "75": "/PNG/75/City/siren-75.png",
+        "256": "/PNG/256/City/siren-256.png",
+        "100": "/PNG/100/City/siren-100.png",
+        "512": "/PNG/512/City/siren-512.png",
+        "50": "/PNG/50/City/siren-50.png"
       }
     }
   },
@@ -67470,6 +67556,7 @@
       "transport set",
       "moving",
       "truckload",
+      "scale",
       "image",
       "gift",
       "travel",
@@ -68638,6 +68725,7 @@
     "category": "Very Basic",
     "created": 1323361504,
     "tags": [
+      "phone",
       "share"
     ],
     "copyright": false,
@@ -71188,6 +71276,46 @@
         "100": "/PNG/100/Household/wardrobe-100.png",
         "512": "/PNG/512/Household/wardrobe-512.png",
         "50": "/PNG/50/Household/wardrobe-50.png"
+      }
+    }
+  },
+  {
+    "id": 5364,
+    "name": "warehouse",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1405716674,
+    "tags": [
+      "bin",
+      "home",
+      "store",
+      "barn",
+      "stockpile",
+      "shed",
+      "store room",
+      "stash house",
+      "store house",
+      "stock room",
+      "depositary",
+      "establishment",
+      "depot",
+      "stockroom",
+      "depository"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/warehouse.svg",
+      "svg.simplified": "/SVG_for_Font/City/warehouse.svg",
+      "eps": "/EPS/City/warehouse.eps",
+      "png": {
+        "25": "/PNG/25/City/warehouse-25.png",
+        "32": "/PNG/32/City/warehouse-32.png",
+        "128": "/PNG/128/City/warehouse-128.png",
+        "75": "/PNG/75/City/warehouse-75.png",
+        "256": "/PNG/256/City/warehouse-256.png",
+        "100": "/PNG/100/City/warehouse-100.png",
+        "512": "/PNG/512/City/warehouse-512.png",
+        "50": "/PNG/50/City/warehouse-50.png"
       }
     }
   },

@@ -67245,6 +67245,48 @@
     }
   },
   {
+    "id": 5366,
+    "name": "sheriff",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1405716674,
+    "tags": [
+      "star",
+      "badge",
+      "prison",
+      "function",
+      "police",
+      "art",
+      "officer",
+      "competition",
+      "law",
+      "cop",
+      "crime",
+      "arrest",
+      "law enforcement",
+      "fuzz",
+      "constable",
+      "marshal",
+      "rangoli",
+      "policeman"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/sheriff.svg",
+      "svg.simplified": "/SVG_for_Font/City/sheriff.svg",
+      "eps": "/EPS/City/sheriff.eps",
+      "png": {
+        "32": "/PNG/32/City/sheriff-32.png",
+        "128": "/PNG/128/City/sheriff-128.png",
+        "26": "/PNG/26/City/sheriff-26.png",
+        "256": "/PNG/256/City/sheriff-256.png",
+        "512": "/PNG/512/City/sheriff-512.png",
+        "64": "/PNG/64/City/sheriff-64.png",
+        "48": "/PNG/48/City/sheriff-48.png"
+      }
+    }
+  },
+  {
     "id": 851,
     "name": "shield",
     "platform": "Windows 8/Metro",
@@ -79563,6 +79605,7 @@
       "transport set",
       "moving",
       "truckload",
+      "scale",
       "image",
       "gift",
       "travel",
@@ -80713,6 +80756,7 @@
     "category": "Very Basic",
     "created": 1323361504,
     "tags": [
+      "phone",
       "share"
     ],
     "copyright": false,
@@ -83705,6 +83749,45 @@
         "512": "/PNG/512/Household/wardrobe-512.png",
         "64": "/PNG/64/Household/wardrobe-64.png",
         "48": "/PNG/48/Household/wardrobe-48.png"
+      }
+    }
+  },
+  {
+    "id": 5363,
+    "name": "warehouse",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1405716674,
+    "tags": [
+      "bin",
+      "home",
+      "store",
+      "barn",
+      "stockpile",
+      "shed",
+      "store room",
+      "stash house",
+      "store house",
+      "stock room",
+      "depositary",
+      "establishment",
+      "depot",
+      "stockroom",
+      "depository"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/warehouse.svg",
+      "svg.simplified": "/SVG_for_Font/City/warehouse.svg",
+      "eps": "/EPS/City/warehouse.eps",
+      "png": {
+        "32": "/PNG/32/City/warehouse-32.png",
+        "128": "/PNG/128/City/warehouse-128.png",
+        "26": "/PNG/26/City/warehouse-26.png",
+        "256": "/PNG/256/City/warehouse-256.png",
+        "512": "/PNG/512/City/warehouse-512.png",
+        "64": "/PNG/64/City/warehouse-64.png",
+        "48": "/PNG/48/City/warehouse-48.png"
       }
     }
   },
