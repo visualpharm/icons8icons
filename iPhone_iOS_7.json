@@ -20250,7 +20250,6 @@
       "edit",
       "correct",
       "erase",
-      "eraser",
       "pen",
       "write",
       "right handed",
@@ -46154,7 +46153,6 @@
       "web",
       "headset",
       "call",
-      "telephone",
       "calling",
       "talking",
       "talk",
@@ -46169,7 +46167,8 @@
       "email",
       "samsung",
       "lg",
-      "ring"
+      "ring",
+      "telephone"
     ],
     "copyright": false,
     "files": {
