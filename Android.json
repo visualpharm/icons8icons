@@ -19392,6 +19392,7 @@
       "vehicle",
       "garage",
       "mechanic",
+      "management",
       "silhouette",
       "front",
       "interior",
@@ -19402,8 +19403,7 @@
       "car garage",
       "service center",
       "service station",
-      "workshop",
-      "mainte"
+      "work"
     ],
     "copyright": false,
     "files": {
