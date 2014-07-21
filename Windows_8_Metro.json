@@ -5531,7 +5531,6 @@
       "body building",
       "muscular build",
       "human muscle",
-      "perfection",
       "exercising",
       "the human body",
       "competition",
@@ -5543,7 +5542,9 @@
       "championship",
       "physical activity",
       "olympic",
-      "rep"
+      "reply",
+      "left",
+      "dir"
     ],
     "copyright": false,
     "files": {
@@ -52550,7 +52551,6 @@
       "remove",
       "cancel",
       "cross",
-      "status",
       "circle",
       "v",
       "checklist",
@@ -52561,6 +52561,7 @@
       "completed",
       "success",
       "running",
+      "status",
       "active",
       "checkmark"
     ],
