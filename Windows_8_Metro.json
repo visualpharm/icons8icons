@@ -1431,7 +1431,6 @@
       "new",
       "info",
       "plus",
-      "data",
       "settings",
       "table",
       "database",
@@ -1443,10 +1442,10 @@
       "update",
       "sellings",
       "sql",
-      "mysql",
       "postgres",
       "minisql",
-      "ideia"
+      "ideia",
+      "mysql"
     ],
     "copyright": false,
     "files": {
@@ -4773,10 +4772,11 @@
       "sound",
       "orchestra",
       "record",
+      "headphone",
+      "list",
       "technology",
       "editor",
       "musician",
-      "sound recording equipment",
       "arts and entertainment",
       "audio equipment",
       "studio",
@@ -4792,6 +4792,7 @@
       "vocal sound waves",
       "equalizer",
       "music instrument",
+      "sound recording equipment",
       "audio waves"
     ],
     "copyright": false,
@@ -5089,7 +5090,8 @@
       "refresh",
       "symbols",
       "green",
-      "updates"
+      "updates",
+      "return"
     ],
     "copyright": false,
     "files": {
@@ -8650,7 +8652,6 @@
       "app",
       "application",
       "file",
-      "files",
       "set",
       "lock",
       "secure",
@@ -8689,7 +8690,8 @@
       "logo",
       "online",
       "trade",
-      "dig"
+      "digital",
+      "s"
     ],
     "copyright": false,
     "files": {
@@ -13259,7 +13261,6 @@
       "arrow",
       "zoom",
       "round",
-      "money",
       "illustration",
       "organizer",
       "board",
@@ -13301,7 +13302,8 @@
       "bullseye",
       "aspirations",
       "bullet",
-      "victim"
+      "victim",
+      "heads"
     ],
     "copyright": false,
     "files": {
@@ -20193,6 +20195,7 @@
       "report",
       "speedometer",
       "tahometer",
+      "battary",
       "dashboard",
       "gauge"
     ],
@@ -20874,7 +20877,8 @@
       "mathematical symbol",
       "font size",
       "decreasing",
-      "decreasing font"
+      "decreasing font",
+      "keyboar"
     ],
     "copyright": false,
     "files": {
@@ -24851,7 +24855,6 @@
       "add",
       "delete",
       "pencil",
-      "edit",
       "file",
       "paper",
       "files",
@@ -24890,7 +24893,8 @@
       "organizing",
       "journal",
       "pile",
-      "filetype"
+      "filetype",
+      "data "
     ],
     "copyright": false,
     "files": {
@@ -25943,6 +25947,7 @@
       "video",
       "next",
       "rewind",
+      "previous",
       "tv",
       "dvd",
       "ipod",
@@ -29011,6 +29016,7 @@
     "category": "Industry",
     "created": 1380535414,
     "tags": [
+      "excel",
       "fire",
       "system",
       "economy",
@@ -30867,7 +30873,6 @@
       "meal",
       "grocery",
       "menu",
-      "diet",
       "meat",
       "supermarket",
       "food and drink",
@@ -30889,7 +30894,8 @@
       "barbecue",
       "prepared potato",
       "x",
-      "cafe"
+      "cafe",
+      "diet"
     ],
     "copyright": false,
     "files": {
@@ -31389,6 +31395,7 @@
       "columns",
       "cubes",
       "schedule",
+      "risk",
       "kitchen"
     ],
     "copyright": false,
@@ -33002,7 +33009,6 @@
       "wallet",
       "view",
       "maps",
-      "location",
       "travel",
       "log out",
       "man",
@@ -33047,7 +33053,6 @@
     "tags": [
       "write",
       "world",
-      "globe",
       "earth",
       "land",
       "ground",
@@ -33064,6 +33069,7 @@
       "gis",
       "area",
       "glonass",
+      "globe",
       "earthly"
     ],
     "copyright": false,
@@ -38720,6 +38726,7 @@
       "camera",
       "lens",
       "click",
+      "football",
       "filter",
       "nui",
       "instagram",
@@ -43260,10 +43267,10 @@
       "development",
       "clear",
       "source",
-      "code",
       "monitor",
       "profile",
-      "penguin"
+      "penguin",
+      "code"
     ],
     "copyright": false,
     "files": {
@@ -46296,8 +46303,8 @@
     "created": 1371509057,
     "tags": [
       "check",
-      "home",
       "web",
+      "Facebook",
       "list",
       "video call",
       "cel",
@@ -46974,6 +46981,7 @@
     "created": 1358248683,
     "tags": [
       "calculator",
+      "tick",
       "remove",
       "minus",
       "numbers",
@@ -46985,8 +46993,10 @@
       "exam",
       "minus sign",
       "expressing negativity",
+      "f",
       "dnd",
-      "no entry"
+      "no entry",
+      "dfg"
     ],
     "copyright": false,
     "files": {
@@ -52893,7 +52903,6 @@
       "load",
       "debug",
       "browser",
-      "one",
       "chrome",
       "opera",
       "safari",
@@ -57098,7 +57107,6 @@
       "mathematics",
       "plus sign",
       "sum",
-      "male",
       "expand",
       "visit",
       "penicl",
@@ -57107,6 +57115,7 @@
       "plus",
       "mathematical symbol",
       "calculator button",
+      "male",
       "calculator",
       "add"
     ],
@@ -61310,7 +61319,6 @@
       "mail",
       "message",
       "read",
-      "arrow",
       "direction",
       "graph",
       "overview",
@@ -64411,19 +64419,19 @@
     "tags": [
       "fast",
       "music",
-      "work",
       "human",
       "traffic",
       "thumbs up",
       "bike",
       "athlete",
+      "server",
       "competition",
       "walk",
       "ico",
-      "woring",
       "physical activity",
       "olympic",
       "run",
+      "woring",
       "man"
     ],
     "copyright": false,
@@ -76543,6 +76551,7 @@
     "category": "Cinema",
     "created": 1333618099,
     "tags": [
+      "flash",
       "movie",
       "news",
       "shop",
@@ -77602,18 +77611,17 @@
     "category": "Sports",
     "created": 1375785144,
     "tags": [
-      "profit",
+      "activity",
+      "championship",
       "sport",
       "bike",
       "athlete",
-      "activity",
       "competition",
       "cycling",
       "regular biking",
       "mountain biking",
       "time trial biking",
       "sport and activities",
-      "championship",
       "physical activity",
       "olympic"
     ],
@@ -79617,7 +79625,6 @@
       "dhl",
       "ups",
       "van",
-      "moto",
       "financial services",
       "ASSOSIATE"
     ],
@@ -80292,6 +80299,7 @@
     "tags": [
       "time",
       "security",
+      "settings",
       "water",
       "wedding",
       "objects",
@@ -86561,6 +86569,7 @@
       "office",
       "book",
       "writing",
+      "excel",
       "microsoft",
       "word",
       "document",
@@ -86695,7 +86704,8 @@
       "kid",
       "doll",
       "apparatus",
-      "mold"
+      "mold",
+      "proy"
     ],
     "copyright": false,
     "files": {

@@ -2271,10 +2271,11 @@
       "sound",
       "orchestra",
       "record",
+      "headphone",
+      "list",
       "technology",
       "editor",
       "musician",
-      "sound recording equipment",
       "arts and entertainment",
       "audio equipment",
       "studio",
@@ -2290,6 +2291,7 @@
       "vocal sound waves",
       "equalizer",
       "music instrument",
+      "sound recording equipment",
       "audio waves"
     ],
     "copyright": false,
@@ -8041,7 +8043,6 @@
       "arrow",
       "zoom",
       "round",
-      "money",
       "illustration",
       "organizer",
       "board",
@@ -8083,7 +8084,8 @@
       "bullseye",
       "aspirations",
       "bullet",
-      "victim"
+      "victim",
+      "heads"
     ],
     "copyright": false,
     "files": {
@@ -12877,7 +12879,8 @@
       "mathematical symbol",
       "font size",
       "decreasing",
-      "decreasing font"
+      "decreasing font",
+      "keyboar"
     ],
     "copyright": false,
     "files": {
@@ -15815,6 +15818,7 @@
       "video",
       "next",
       "rewind",
+      "previous",
       "tv",
       "dvd",
       "ipod",
@@ -17539,6 +17543,7 @@
     "category": "Industry",
     "created": 1398365517,
     "tags": [
+      "excel",
       "fire",
       "system",
       "economy",
@@ -18965,7 +18970,6 @@
       "meal",
       "grocery",
       "menu",
-      "diet",
       "meat",
       "supermarket",
       "food and drink",
@@ -18987,7 +18991,8 @@
       "barbecue",
       "prepared potato",
       "x",
-      "cafe"
+      "cafe",
+      "diet"
     ],
     "copyright": false,
     "files": {
@@ -20363,7 +20368,6 @@
       "wallet",
       "view",
       "maps",
-      "location",
       "travel",
       "log out",
       "man",
@@ -20410,7 +20414,6 @@
     "tags": [
       "write",
       "world",
-      "globe",
       "earth",
       "land",
       "ground",
@@ -20427,6 +20430,7 @@
       "gis",
       "area",
       "glonass",
+      "globe",
       "earthly"
     ],
     "copyright": false,
@@ -24605,6 +24609,7 @@
       "camera",
       "lens",
       "click",
+      "football",
       "filter",
       "nui",
       "instagram",
@@ -27407,10 +27412,10 @@
       "development",
       "clear",
       "source",
-      "code",
       "monitor",
       "profile",
-      "penguin"
+      "penguin",
+      "code"
     ],
     "copyright": false,
     "files": {
@@ -29262,8 +29267,8 @@
     "created": 1391770248,
     "tags": [
       "check",
-      "home",
       "web",
+      "Facebook",
       "list",
       "video call",
       "cel",
@@ -29819,6 +29824,7 @@
     "created": 1391770248,
     "tags": [
       "calculator",
+      "tick",
       "remove",
       "minus",
       "numbers",
@@ -29830,8 +29836,10 @@
       "exam",
       "minus sign",
       "expressing negativity",
+      "f",
       "dnd",
-      "no entry"
+      "no entry",
+      "dfg"
     ],
     "copyright": false,
     "files": {
@@ -35095,7 +35103,6 @@
       "mathematics",
       "plus sign",
       "sum",
-      "male",
       "expand",
       "visit",
       "penicl",
@@ -35104,6 +35111,7 @@
       "plus",
       "mathematical symbol",
       "calculator button",
+      "male",
       "calculator",
       "add"
     ],
@@ -39408,19 +39416,19 @@
     "tags": [
       "fast",
       "music",
-      "work",
       "human",
       "traffic",
       "thumbs up",
       "bike",
       "athlete",
+      "server",
       "competition",
       "walk",
       "ico",
-      "woring",
       "physical activity",
       "olympic",
       "run",
+      "woring",
       "man"
     ],
     "copyright": false,
@@ -47699,6 +47707,7 @@
     "category": "Cinema",
     "created": 1399402290,
     "tags": [
+      "flash",
       "movie",
       "news",
       "shop",
@@ -48780,18 +48789,17 @@
     "category": "Sports",
     "created": 1397760709,
     "tags": [
-      "profit",
+      "activity",
+      "championship",
       "sport",
       "bike",
       "athlete",
-      "activity",
       "competition",
       "cycling",
       "regular biking",
       "mountain biking",
       "time trial biking",
       "sport and activities",
-      "championship",
       "physical activity",
       "olympic"
     ],
@@ -50279,7 +50287,6 @@
       "dhl",
       "ups",
       "van",
-      "moto",
       "financial services",
       "ASSOSIATE"
     ],
@@ -54855,7 +54862,8 @@
       "kid",
       "doll",
       "apparatus",
-      "mold"
+      "mold",
+      "proy"
     ],
     "copyright": false,
     "files": {
