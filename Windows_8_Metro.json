@@ -22013,7 +22013,7 @@
     "id": 1318,
     "name": "dinghy",
     "platform": "Windows 8/Metro",
-    "category": "Sports",
+    "category": "Transport",
     "created": 1353500067,
     "tags": [
       "sport",
@@ -22033,7 +22033,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Sports/dinghy.svg",
+      "svg": "/SVG/Transport/dinghy.svg",
       "svg.simplified": "/SVG_for_Font/Sports/dinghy.svg",
       "eps": "/EPS/Sports/dinghy.eps",
       "png": {
@@ -37084,6 +37084,7 @@
       "phon",
       "telephon",
       "main page",
+      "principal",
       "wishlist",
       "birth date",
       "accueil",
@@ -37094,7 +37095,6 @@
       "chimney",
       "foreclosure",
       "home page",
-      "principal",
       "index"
     ],
     "copyright": false,
