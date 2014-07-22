@@ -48054,15 +48054,11 @@
     "created": 1395190288,
     "tags": [
       "design",
-      "clock",
       "alarm",
       "add",
       "calendar",
-      "date",
       "month",
-      "time",
       "watch",
-      "hour",
       "second",
       "excel",
       "display",
@@ -48094,7 +48090,6 @@
       "board",
       "square",
       "black",
-      "icon",
       "size",
       "one",
       "module",
@@ -48104,7 +48099,10 @@
       "rate",
       "metal",
       "production",
-      "electronic"
+      "electronic",
+      "schedule",
+      "mathematics",
+      "circl"
     ],
     "copyright": false,
     "files": {
@@ -58467,6 +58465,7 @@
     "category": "Photo and Video",
     "created": 1326886315,
     "tags": [
+      "basket",
       "settings",
       "image",
       "photo",
