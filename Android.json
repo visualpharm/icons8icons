@@ -6331,6 +6331,7 @@
       "subway",
       "car",
       "travel",
+      "cinema",
       "bus stop"
     ],
     "copyright": false,
@@ -10450,69 +10451,29 @@
     }
   },
   {
-    "id": 3151,
-    "name": "collapse",
-    "platform": "Android",
-    "category": "Arrows",
-    "created": 1391770248,
-    "tags": [
-      "edit",
-      "mail",
-      "arrows",
-      "arrow",
-      "direction",
-      "indicator",
-      "zoom out",
-      "up",
-      "increase",
-      "pointer",
-      "move",
-      "collapse",
-      "fold",
-      "scroll up"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Arrows/collapse.svg",
-      "svg.simplified": "/SVG_for_Font/Arrows/collapse.svg",
-      "eps": "/EPS/Arrows/collapse.eps",
-      "png": {
-        "32": "/PNG/32/Arrows/collapse-32.png",
-        "128": "/PNG/128/Arrows/collapse-128.png",
-        "256": "/PNG/256/Arrows/collapse-256.png",
-        "36": "/PNG/36/Arrows/collapse-36.png",
-        "512": "/PNG/512/Arrows/collapse-512.png",
-        "64": "/PNG/64/Arrows/collapse-64.png",
-        "24": "/PNG/24/Arrows/collapse-24.png",
-        "96": "/PNG/96/Arrows/collapse-96.png",
-        "48": "/PNG/48/Arrows/collapse-48.png"
-      }
-    }
-  },
-  {
     "id": 4791,
     "name": "collapse2",
     "platform": "Android",
-    "category": "Editing",
+    "category": "Arrows",
     "created": 1401303074,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Editing/collapse2.svg",
+      "svg": "/SVG/Arrows/collapse2.svg",
       "svg.simplified": "/SVG_for_Font/Editing/collapse2.svg",
-      "eps": "/EPS/Editing/collapse2.eps",
+      "eps": "/EPS/Arrows/collapse2.eps",
       "png": {
-        "32": "/PNG/32/Editing/collapse2-32.png",
-        "128": "/PNG/128/Editing/collapse2-128.png",
-        "256": "/PNG/256/Editing/collapse2-256.png",
-        "36": "/PNG/36/Editing/collapse2-36.png",
-        "512": "/PNG/512/Editing/collapse2-512.png",
-        "64": "/PNG/64/Editing/collapse2-64.png",
-        "24": "/PNG/24/Editing/collapse2-24.png",
-        "96": "/PNG/96/Editing/collapse2-96.png",
-        "48": "/PNG/48/Editing/collapse2-48.png"
+        "32": "/PNG/32/Arrows/collapse2-32.png",
+        "128": "/PNG/128/Arrows/collapse2-128.png",
+        "256": "/PNG/256/Arrows/collapse2-256.png",
+        "36": "/PNG/36/Arrows/collapse2-36.png",
+        "512": "/PNG/512/Arrows/collapse2-512.png",
+        "64": "/PNG/64/Arrows/collapse2-64.png",
+        "24": "/PNG/24/Arrows/collapse2-24.png",
+        "96": "/PNG/96/Arrows/collapse2-96.png",
+        "48": "/PNG/48/Arrows/collapse2-48.png"
       }
     }
   },
@@ -15695,6 +15656,7 @@
     "tags": [
       "shipping",
       "package",
+      "empty",
       "send",
       "ecommerce",
       "sell",
@@ -16185,72 +16147,29 @@
     }
   },
   {
-    "id": 3209,
-    "name": "expand",
-    "platform": "Android",
-    "category": "Arrows",
-    "created": 1391770248,
-    "tags": [
-      "close",
-      "edit",
-      "arrows",
-      "arrow",
-      "direction",
-      "indicator",
-      "graph",
-      "zoom in",
-      "pointer",
-      "move",
-      "email",
-      "expand",
-      "enlarge",
-      "unfold",
-      "100",
-      "stadistic",
-      "expand arrows"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Arrows/expand.svg",
-      "svg.simplified": "/SVG_for_Font/Arrows/expand.svg",
-      "eps": "/EPS/Arrows/expand.eps",
-      "png": {
-        "32": "/PNG/32/Arrows/expand-32.png",
-        "128": "/PNG/128/Arrows/expand-128.png",
-        "256": "/PNG/256/Arrows/expand-256.png",
-        "36": "/PNG/36/Arrows/expand-36.png",
-        "512": "/PNG/512/Arrows/expand-512.png",
-        "64": "/PNG/64/Arrows/expand-64.png",
-        "24": "/PNG/24/Arrows/expand-24.png",
-        "96": "/PNG/96/Arrows/expand-96.png",
-        "48": "/PNG/48/Arrows/expand-48.png"
-      }
-    }
-  },
-  {
     "id": 4792,
     "name": "expand2",
     "platform": "Android",
-    "category": "Editing",
+    "category": "Arrows",
     "created": 1401303074,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Editing/expand2.svg",
+      "svg": "/SVG/Arrows/expand2.svg",
       "svg.simplified": "/SVG_for_Font/Editing/expand2.svg",
-      "eps": "/EPS/Editing/expand2.eps",
+      "eps": "/EPS/Arrows/expand2.eps",
       "png": {
-        "32": "/PNG/32/Editing/expand2-32.png",
-        "128": "/PNG/128/Editing/expand2-128.png",
-        "256": "/PNG/256/Editing/expand2-256.png",
-        "36": "/PNG/36/Editing/expand2-36.png",
-        "512": "/PNG/512/Editing/expand2-512.png",
-        "64": "/PNG/64/Editing/expand2-64.png",
-        "24": "/PNG/24/Editing/expand2-24.png",
-        "96": "/PNG/96/Editing/expand2-96.png",
-        "48": "/PNG/48/Editing/expand2-48.png"
+        "32": "/PNG/32/Arrows/expand2-32.png",
+        "128": "/PNG/128/Arrows/expand2-128.png",
+        "256": "/PNG/256/Arrows/expand2-256.png",
+        "36": "/PNG/36/Arrows/expand2-36.png",
+        "512": "/PNG/512/Arrows/expand2-512.png",
+        "64": "/PNG/64/Arrows/expand2-64.png",
+        "24": "/PNG/24/Arrows/expand2-24.png",
+        "96": "/PNG/96/Arrows/expand2-96.png",
+        "48": "/PNG/48/Arrows/expand2-48.png"
       }
     }
   },
@@ -20177,7 +20096,6 @@
       "snake",
       "description",
       "found",
-      "longitude and latitude",
       "earth point",
       "ocean point",
       "at this place",
@@ -20188,7 +20106,8 @@
       "perform",
       "participate",
       "glonass",
-      "anim"
+      "animal",
+      "enquiry"
     ],
     "copyright": false,
     "files": {
@@ -32787,6 +32706,7 @@
     "category": "Photo and Video",
     "created": 1391770248,
     "tags": [
+      "hospital",
       "film",
       "screen",
       "photos",
