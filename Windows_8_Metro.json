@@ -22035,15 +22035,15 @@
     "files": {
       "svg": "/SVG/Transport/dinghy.svg",
       "svg.simplified": "/SVG_for_Font/Sports/dinghy.svg",
-      "eps": "/EPS/Sports/dinghy.eps",
+      "eps": "/EPS/Transport/dinghy.eps",
       "png": {
-        "32": "/PNG/32/Sports/dinghy-32.png",
-        "128": "/PNG/128/Sports/dinghy-128.png",
-        "26": "/PNG/26/Sports/dinghy-26.png",
-        "256": "/PNG/256/Sports/dinghy-256.png",
-        "512": "/PNG/512/Sports/dinghy-512.png",
-        "64": "/PNG/64/Sports/dinghy-64.png",
-        "48": "/PNG/48/Sports/dinghy-48.png"
+        "32": "/PNG/32/Transport/dinghy-32.png",
+        "128": "/PNG/128/Transport/dinghy-128.png",
+        "26": "/PNG/26/Transport/dinghy-26.png",
+        "256": "/PNG/256/Transport/dinghy-256.png",
+        "512": "/PNG/512/Transport/dinghy-512.png",
+        "64": "/PNG/64/Transport/dinghy-64.png",
+        "48": "/PNG/48/Transport/dinghy-48.png"
       }
     }
   },
@@ -46309,7 +46309,6 @@
       "list",
       "video call",
       "cel",
-      "mc donalds",
       "at",
       "257CFC",
       "phone",
