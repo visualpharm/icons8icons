@@ -1435,7 +1435,8 @@
     "created": 1390342414,
     "tags": [
       "format",
-      "text"
+      "text",
+      "My Lists"
     ],
     "copyright": false,
     "files": {
@@ -3534,7 +3535,6 @@
       "ok",
       "indicator",
       "search",
-      "people",
       "sport",
       "athlete",
       "pointer",
@@ -3564,7 +3564,7 @@
       "olympic",
       "reply",
       "left",
-      "dir"
+      "direction"
     ],
     "copyright": false,
     "files": {
@@ -10268,8 +10268,7 @@
       "touch",
       "gadget",
       "samsung",
-      "lg",
-      "iphone 5"
+      "lg"
     ],
     "copyright": false,
     "files": {
@@ -24196,7 +24195,6 @@
       "orbit",
       "future",
       "horoscope",
-      "astronomy",
       "crescent",
       "moonlight",
       "quarter",
@@ -24210,7 +24208,7 @@
       "waxing gibbous",
       "waxing crescent",
       "lunar phase",
-      "wani"
+      "waning crescen"
     ],
     "copyright": false,
     "files": {
@@ -27294,7 +27292,6 @@
       "longitude and latitude",
       "earth point",
       "ocean point",
-      "this place",
       "at this place",
       "this point",
       "enjoy",
@@ -27302,7 +27299,8 @@
       "tournament",
       "perform",
       "participate",
-      "g"
+      "glonass",
+      "anim"
     ],
     "copyright": false,
     "files": {
@@ -28006,6 +28004,7 @@
       "social network",
       "twitter",
       "google plus",
+      "youtube",
       "instagram",
       "social",
       "google"
@@ -34157,10 +34156,12 @@
     "category": "Very Basic",
     "created": 1328090706,
     "tags": [
+      "door",
       "light",
       "person",
       "accounts",
       "back",
+      "login",
       "key",
       "password"
     ],
@@ -36222,6 +36223,7 @@
     "created": 1325075331,
     "tags": [
       "social network",
+      "twitter",
       "linked in"
     ],
     "copyright": false,
@@ -42205,14 +42207,14 @@
     "created": 1390342414,
     "tags": [
       "phone",
-      "search",
       "geo",
       "gps",
       "geography",
       "navigation",
       "gis",
       "area",
-      "glonass"
+      "glonass",
+      "search"
     ],
     "copyright": false,
     "files": {
@@ -42457,7 +42459,6 @@
       "section",
       "gallery",
       "dvd",
-      "ipod",
       "remote control",
       "career",
       "newsletter",
@@ -55432,7 +55433,6 @@
       "mail",
       "tools",
       "detective",
-      "zoom",
       "view",
       "menu",
       "white",
@@ -56176,7 +56176,6 @@
       "mechanics",
       "notifications",
       "control panel",
-      "folder",
       "arrow",
       "settings",
       "detail",
@@ -56184,6 +56183,7 @@
       "details",
       "stress",
       "cog wheel",
+      "folder",
       "options",
       "gear",
       "cog",
@@ -59775,6 +59775,8 @@
       "expression",
       "profile",
       "hello",
+      "707070",
+      "diapers",
       "message",
       "communication",
       "chat",

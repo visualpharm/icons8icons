@@ -2697,7 +2697,8 @@
     "created": 1401166273,
     "tags": [
       "format",
-      "text"
+      "text",
+      "My Lists"
     ],
     "copyright": false,
     "files": {
@@ -5514,7 +5515,6 @@
       "ok",
       "indicator",
       "search",
-      "people",
       "sport",
       "athlete",
       "pointer",
@@ -5544,7 +5544,7 @@
       "olympic",
       "reply",
       "left",
-      "dir"
+      "direction"
     ],
     "copyright": false,
     "files": {
@@ -29245,7 +29245,6 @@
       "orbit",
       "future",
       "horoscope",
-      "astronomy",
       "crescent",
       "moonlight",
       "quarter",
@@ -29259,7 +29258,7 @@
       "waxing gibbous",
       "waxing crescent",
       "lunar phase",
-      "wani"
+      "waning crescen"
     ],
     "copyright": false,
     "files": {
@@ -32591,7 +32590,6 @@
       "longitude and latitude",
       "earth point",
       "ocean point",
-      "this place",
       "at this place",
       "this point",
       "enjoy",
@@ -32599,7 +32597,8 @@
       "tournament",
       "perform",
       "participate",
-      "g"
+      "glonass",
+      "anim"
     ],
     "copyright": false,
     "files": {
@@ -33637,6 +33636,7 @@
       "social network",
       "twitter",
       "google plus",
+      "youtube",
       "instagram",
       "social",
       "google"
@@ -40804,10 +40804,12 @@
     "category": "Very Basic",
     "created": 1328090706,
     "tags": [
+      "door",
       "light",
       "person",
       "accounts",
       "back",
+      "login",
       "key",
       "password"
     ],
@@ -43198,6 +43200,7 @@
     "created": 1325075331,
     "tags": [
       "social network",
+      "twitter",
       "linked in"
     ],
     "copyright": false,
@@ -45195,7 +45198,6 @@
       "travel",
       "point",
       "go",
-      "reference",
       "clues",
       "clue",
       "geo",
@@ -45203,7 +45205,8 @@
       "geography",
       "navigation",
       "area",
-      "glonass"
+      "glonass",
+      "reference"
     ],
     "copyright": false,
     "files": {
@@ -49922,7 +49925,9 @@
       "database",
       "server",
       "dolphin",
-      "txt"
+      "txt",
+      "My Computer",
+      "start menu"
     ],
     "copyright": false,
     "files": {
@@ -50536,7 +50541,6 @@
       "section",
       "gallery",
       "dvd",
-      "ipod",
       "remote control",
       "career",
       "newsletter",
@@ -54442,13 +54446,13 @@
     "category": "Messaging",
     "created": 1351767195,
     "tags": [
-      "paper",
       "arrow",
       "photos",
       "computer",
+      "paper",
+      "send",
       "social",
-      "paper plane",
-      "send"
+      "paper plane"
     ],
     "copyright": false,
     "files": {
@@ -58921,7 +58925,6 @@
       "cd",
       "video",
       "store",
-      "previous",
       "pointer",
       "move",
       "pager",
@@ -59400,6 +59403,7 @@
       "section",
       "stock",
       "service",
+      "y",
       "merchandise",
       "parcel",
       "product"
@@ -66274,7 +66278,6 @@
       "mail",
       "tools",
       "detective",
-      "zoom",
       "view",
       "menu",
       "white",
@@ -70953,6 +70956,8 @@
       "expression",
       "profile",
       "hello",
+      "707070",
+      "diapers",
       "message",
       "communication",
       "chat",
