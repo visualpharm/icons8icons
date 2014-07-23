@@ -11297,6 +11297,7 @@
       "business",
       "work",
       "present",
+      "category",
       "appointment",
       "product",
       "past",
@@ -17969,21 +17970,21 @@
       "address book",
       "contacts",
       "phone book",
-      "user",
-      "info",
       "badge",
       "settings",
       "chat",
       "profile",
-      "person",
       "list",
       "dial",
       "phonebook",
-      "connection",
-      "schedule",
       "friends",
       "agenda",
-      "phone numbers"
+      "phone numbers",
+      "user",
+      "info",
+      "person",
+      "connection",
+      "schedule"
     ],
     "copyright": false,
     "files": {
@@ -29449,7 +29450,6 @@
     "category": "Military",
     "created": 1351681485,
     "tags": [
-      "new",
       "military",
       "combat",
       "weapon",
@@ -30103,15 +30103,15 @@
     "files": {
       "svg": "/SVG/Very_Basic/folder.svg",
       "svg.simplified": "/SVG_for_Font/Very_Basic/folder.svg",
-      "eps": "/EPS/Folders/folder.eps",
+      "eps": "/EPS/Very_Basic/folder.eps",
       "png": {
-        "32": "/PNG/32/Folders/folder-32.png",
-        "128": "/PNG/128/Folders/folder-128.png",
-        "26": "/PNG/26/Folders/folder-26.png",
-        "256": "/PNG/256/Folders/folder-256.png",
-        "512": "/PNG/512/Folders/folder-512.png",
-        "64": "/PNG/64/Folders/folder-64.png",
-        "48": "/PNG/48/Folders/folder-48.png"
+        "32": "/PNG/32/Very_Basic/folder-32.png",
+        "128": "/PNG/128/Very_Basic/folder-128.png",
+        "26": "/PNG/26/Very_Basic/folder-26.png",
+        "256": "/PNG/256/Very_Basic/folder-256.png",
+        "512": "/PNG/512/Very_Basic/folder-512.png",
+        "64": "/PNG/64/Very_Basic/folder-64.png",
+        "48": "/PNG/48/Very_Basic/folder-48.png"
       }
     }
   },
@@ -39351,13 +39351,13 @@
       "ios",
       "wireless",
       "tablet",
-      "mac",
       "mobile",
       "menu",
       "touch",
       "gadget",
       "lg",
       "5c",
+      "ios 8",
       "phone",
       "texting",
       "smartphone",
@@ -65437,6 +65437,7 @@
       "musical instrument",
       "orchester",
       "winds",
+      "drums",
       "saxophone",
       "musician",
       "music instrument",
@@ -72520,7 +72521,9 @@
     "created": 1326279048,
     "tags": [
       "steam",
-      "logo"
+      "logo",
+      "gaming",
+      "valve"
     ],
     "copyright": true,
     "files": {
@@ -75577,6 +75580,7 @@
       "driver",
       "windshield",
       "car",
+      "hint",
       "travel",
       "euro",
       "yellow"
@@ -81359,6 +81363,7 @@
       "portrait",
       "reader",
       "user search",
+      "asdasd",
       "goup",
       "user",
       "person",
