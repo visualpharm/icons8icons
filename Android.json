@@ -10689,39 +10689,6 @@
     }
   },
   {
-    "id": 3201,
-    "name": "compact_camera",
-    "platform": "Android",
-    "category": "Photo and Video",
-    "created": 1391770248,
-    "tags": [
-      "image",
-      "photo",
-      "camera",
-      "compact camera",
-      "shot",
-      "photography",
-      "point and shoot"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Photo_Video/compact_camera.svg",
-      "svg.simplified": "/SVG_for_Font/Photo_Video/compact_camera.svg",
-      "eps": "/EPS/Photo_Video/compact_camera.eps",
-      "png": {
-        "32": "/PNG/32/Photo_Video/compact_camera-32.png",
-        "128": "/PNG/128/Photo_Video/compact_camera-128.png",
-        "256": "/PNG/256/Photo_Video/compact_camera-256.png",
-        "36": "/PNG/36/Photo_Video/compact_camera-36.png",
-        "512": "/PNG/512/Photo_Video/compact_camera-512.png",
-        "64": "/PNG/64/Photo_Video/compact_camera-64.png",
-        "24": "/PNG/24/Photo_Video/compact_camera-24.png",
-        "96": "/PNG/96/Photo_Video/compact_camera-96.png",
-        "48": "/PNG/48/Photo_Video/compact_camera-48.png"
-      }
-    }
-  },
-  {
     "id": 3772,
     "name": "compass",
     "platform": "Android",

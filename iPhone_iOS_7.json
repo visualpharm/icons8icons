@@ -58498,38 +58498,6 @@
     }
   },
   {
-    "id": 509,
-    "name": "slr_camera2",
-    "platform": "iPhone/iOS 7",
-    "category": "Photo and Video",
-    "created": 1326886315,
-    "tags": [
-      "image",
-      "slr",
-      "slr camera",
-      "shot",
-      "photography",
-      "photo",
-      "camera"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Photo_Video/slr_camera2.svg",
-      "svg.simplified": "/SVG_for_Font/Photo_Video/slr_camera2.svg",
-      "eps": "/EPS/Photo_Video/slr_camera2.eps",
-      "png": {
-        "25": "/PNG/25/Photo_Video/slr_camera2-25.png",
-        "32": "/PNG/32/Photo_Video/slr_camera2-32.png",
-        "128": "/PNG/128/Photo_Video/slr_camera2-128.png",
-        "75": "/PNG/75/Photo_Video/slr_camera2-75.png",
-        "256": "/PNG/256/Photo_Video/slr_camera2-256.png",
-        "100": "/PNG/100/Photo_Video/slr_camera2-100.png",
-        "512": "/PNG/512/Photo_Video/slr_camera2-512.png",
-        "50": "/PNG/50/Photo_Video/slr_camera2-50.png"
-      }
-    }
-  },
-  {
     "id": 2750,
     "name": "slr_camera2_filled",
     "platform": "iPhone/iOS 7",
