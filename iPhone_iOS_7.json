@@ -299,6 +299,7 @@
     "tags": [
       "battery",
       "service",
+      "accommodation",
       "produkts",
       "show",
       "message",
@@ -3023,7 +3024,6 @@
       "economy",
       "motion",
       "graphic",
-      "sign",
       "notice",
       "indication",
       "gear",
@@ -3050,7 +3050,8 @@
       "toothed wheel",
       "rotating machine part",
       "chainwheel",
-      "spoke"
+      "spokes",
+      "pic"
     ],
     "copyright": false,
     "files": {
@@ -5155,7 +5156,8 @@
       "beer",
       "pint glass",
       "alcohol",
-      "cafe"
+      "cafe",
+      "nn"
     ],
     "copyright": false,
     "files": {
@@ -7651,7 +7653,6 @@
       "bus station",
       "subway",
       "car",
-      "travel",
       "cinema",
       "bus stop"
     ],
@@ -8015,6 +8016,7 @@
       "work",
       "present",
       "category",
+      "building",
       "appointment",
       "product",
       "past",
@@ -8104,6 +8106,7 @@
     "category": "Photo and Video",
     "created": 1326970636,
     "tags": [
+      "happy",
       "movie",
       "video",
       "motion",
@@ -8113,7 +8116,8 @@
       "digital",
       "cinema",
       "shot",
-      "photography"
+      "photography",
+      "interesting"
     ],
     "copyright": false,
     "files": {
@@ -13951,6 +13955,7 @@
       "address book",
       "contacts",
       "phone book",
+      "group",
       "badge",
       "settings",
       "chat",
@@ -13961,6 +13966,7 @@
       "friends",
       "agenda",
       "phone numbers",
+      "to do",
       "user",
       "info",
       "person",
@@ -38929,6 +38935,7 @@
     "tags": [
       "box",
       "search",
+      "business",
       "photo",
       "camera",
       "compas",
@@ -41905,13 +41912,16 @@
     "category": "Media Controls",
     "created": 1390342414,
     "tags": [
+      "show",
       "play",
       "mp3",
       "music",
+      "note",
       "audio",
       "cd",
       "video",
       "webcam",
+      "tv",
       "dvd",
       "ipod",
       "remote control",
@@ -43191,7 +43201,17 @@
       "cell phone",
       "taking photos",
       "playing games",
-      "net banking"
+      "net banking",
+      "no mobile",
+      "mobile phone off",
+      "no cellphone",
+      "turn off phone",
+      "phones not allowed",
+      "no phones",
+      "turn off mobile",
+      "power off mobiles",
+      "power off phones",
+      "mobiles not allowed"
     ],
     "copyright": false,
     "files": {
@@ -44648,7 +44668,6 @@
       "clock",
       "phone",
       "calendar",
-      "date",
       "day",
       "month",
       "time",
@@ -44689,7 +44708,8 @@
       "elegance",
       "reminder",
       "front",
-      "deadline"
+      "deadline",
+      "bind"
     ],
     "copyright": false,
     "files": {
@@ -54099,6 +54119,7 @@
     "category": "Sports",
     "created": 1339148179,
     "tags": [
+      "reading",
       "delivery",
       "music",
       "sport",
@@ -56066,18 +56087,16 @@
     "category": "Very Basic",
     "created": 1323262362,
     "tags": [
-      "contacts",
-      "phone",
+      "add",
       "calendar",
       "edit",
       "tools",
       "info",
       "setting",
       "work",
-      "profile",
       "account",
       "tune",
-      "steam",
+      "switch",
       "gear",
       "charts",
       "list",
@@ -56087,22 +56106,16 @@
       "wheel",
       "sort",
       "history",
-      "grid",
-      "login",
-      "x",
       "mechanics",
       "alert",
       "utility",
       "process",
       "cog",
-      "about",
       "import",
       "sign out",
       "machinery",
       "control panel",
-      "add",
       "options",
-      "switch",
       "preferences"
     ],
     "copyright": false,
@@ -58402,14 +58415,18 @@
     "category": "Photo and Video",
     "created": 1379590135,
     "tags": [
+      "user",
       "display",
       "image",
       "photo",
+      "person",
       "camera",
       "shot",
       "photography",
       "video camera",
-      "camera body"
+      "camera body",
+      "vacation",
+      "saun"
     ],
     "copyright": false,
     "files": {
@@ -58631,12 +58648,14 @@
     "category": "Photo and Video",
     "created": 1379590135,
     "tags": [
+      "sea",
       "video",
       "image",
       "photo",
       "camera",
       "slr",
       "lens",
+      "hobby",
       "shot",
       "photography",
       "video camera",
@@ -71206,7 +71225,6 @@
       "payment",
       "money",
       "coins",
-      "purse",
       "pay",
       "wallet",
       "leather",

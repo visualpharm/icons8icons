@@ -2381,7 +2381,6 @@
       "economy",
       "motion",
       "graphic",
-      "sign",
       "notice",
       "indication",
       "gear",
@@ -2408,7 +2407,8 @@
       "toothed wheel",
       "rotating machine part",
       "chainwheel",
-      "spoke"
+      "spokes",
+      "pic"
     ],
     "copyright": false,
     "files": {
@@ -6330,7 +6330,6 @@
       "bus station",
       "subway",
       "car",
-      "travel",
       "cinema",
       "bus stop"
     ],
@@ -6539,6 +6538,7 @@
       "work",
       "present",
       "category",
+      "building",
       "appointment",
       "product",
       "past",
@@ -6635,6 +6635,7 @@
     "category": "Photo and Video",
     "created": 1391770248,
     "tags": [
+      "happy",
       "movie",
       "video",
       "motion",
@@ -6644,7 +6645,8 @@
       "digital",
       "cinema",
       "shot",
-      "photography"
+      "photography",
+      "interesting"
     ],
     "copyright": false,
     "files": {
@@ -11002,6 +11004,7 @@
       "address book",
       "contacts",
       "phone book",
+      "group",
       "badge",
       "settings",
       "chat",
@@ -11012,6 +11015,7 @@
       "friends",
       "agenda",
       "phone numbers",
+      "to do",
       "user",
       "info",
       "person",
@@ -29110,6 +29114,7 @@
     "tags": [
       "box",
       "search",
+      "business",
       "photo",
       "camera",
       "compas",
@@ -32095,10 +32100,12 @@
       "heart",
       "love",
       "genres",
+      "movie",
       "videos",
       "logo",
       "passion",
-      "tears"
+      "tears",
+      "romance"
     ],
     "copyright": false,
     "files": {
@@ -39265,6 +39272,7 @@
     "category": "Sports",
     "created": 1397760709,
     "tags": [
+      "reading",
       "delivery",
       "music",
       "sport",
@@ -40837,18 +40845,16 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-      "contacts",
-      "phone",
+      "add",
       "calendar",
       "edit",
       "tools",
       "info",
       "setting",
       "work",
-      "profile",
       "account",
       "tune",
-      "steam",
+      "switch",
       "gear",
       "charts",
       "list",
@@ -40858,22 +40864,16 @@
       "wheel",
       "sort",
       "history",
-      "grid",
-      "login",
-      "x",
       "mechanics",
       "alert",
       "utility",
       "process",
       "cog",
-      "about",
       "import",
       "sign out",
       "machinery",
       "control panel",
-      "add",
       "options",
-      "switch",
       "preferences"
     ],
     "copyright": false,
@@ -42750,14 +42750,18 @@
     "category": "Photo and Video",
     "created": 1391770248,
     "tags": [
+      "user",
       "display",
       "image",
       "photo",
+      "person",
       "camera",
       "shot",
       "photography",
       "video camera",
-      "camera body"
+      "camera body",
+      "vacation",
+      "saun"
     ],
     "copyright": false,
     "files": {
@@ -51641,7 +51645,8 @@
       "photography",
       "regions",
       "samsung",
-      "lg"
+      "lg",
+      "fridge"
     ],
     "copyright": false,
     "files": {
@@ -51675,6 +51680,8 @@
       "player",
       "movie",
       "video",
+      "archive",
+      "rectangle",
       "audio file",
       "video file",
       "mp3 player",
@@ -52357,7 +52364,6 @@
       "payment",
       "money",
       "coins",
-      "purse",
       "pay",
       "wallet",
       "leather",
