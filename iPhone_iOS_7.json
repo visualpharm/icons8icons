@@ -2257,25 +2257,25 @@
     "id": 2857,
     "name": "application_shield",
     "platform": "iPhone/iOS 7",
-    "category": "Network",
+    "category": "Security",
     "created": 1390342414,
     "tags": [
 
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Network/application_shield.svg",
+      "svg": "/SVG/Security/application_shield.svg",
       "svg.simplified": "/SVG_for_Font/Network/application_shield.svg",
-      "eps": "/EPS/Network/application_shield.eps",
+      "eps": "/EPS/Security/application_shield.eps",
       "png": {
-        "25": "/PNG/25/Network/application_shield-25.png",
-        "32": "/PNG/32/Network/application_shield-32.png",
-        "128": "/PNG/128/Network/application_shield-128.png",
-        "75": "/PNG/75/Network/application_shield-75.png",
-        "256": "/PNG/256/Network/application_shield-256.png",
-        "100": "/PNG/100/Network/application_shield-100.png",
-        "512": "/PNG/512/Network/application_shield-512.png",
-        "50": "/PNG/50/Network/application_shield-50.png"
+        "25": "/PNG/25/Security/application_shield-25.png",
+        "32": "/PNG/32/Security/application_shield-32.png",
+        "128": "/PNG/128/Security/application_shield-128.png",
+        "75": "/PNG/75/Security/application_shield-75.png",
+        "256": "/PNG/256/Security/application_shield-256.png",
+        "100": "/PNG/100/Security/application_shield-100.png",
+        "512": "/PNG/512/Security/application_shield-512.png",
+        "50": "/PNG/50/Security/application_shield-50.png"
       }
     }
   },
@@ -4772,7 +4772,6 @@
       "nature",
       "small",
       "beach",
-      "button",
       "cruise",
       "summer",
       "holiday",
@@ -8951,7 +8950,7 @@
     "id": 3561,
     "name": "captcha",
     "platform": "iPhone/iOS 7",
-    "category": "User Interface",
+    "category": "Security",
     "created": 1394635885,
     "tags": [
       "card",
@@ -9000,18 +8999,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/User_Interface/captcha.svg",
+      "svg": "/SVG/Security/captcha.svg",
       "svg.simplified": "/SVG_for_Font/User_Interface/captcha.svg",
-      "eps": "/EPS/User_Interface/captcha.eps",
+      "eps": "/EPS/Security/captcha.eps",
       "png": {
-        "25": "/PNG/25/User_Interface/captcha-25.png",
-        "32": "/PNG/32/User_Interface/captcha-32.png",
-        "128": "/PNG/128/User_Interface/captcha-128.png",
-        "75": "/PNG/75/User_Interface/captcha-75.png",
-        "256": "/PNG/256/User_Interface/captcha-256.png",
-        "100": "/PNG/100/User_Interface/captcha-100.png",
-        "512": "/PNG/512/User_Interface/captcha-512.png",
-        "50": "/PNG/50/User_Interface/captcha-50.png"
+        "25": "/PNG/25/Security/captcha-25.png",
+        "32": "/PNG/32/Security/captcha-32.png",
+        "128": "/PNG/128/Security/captcha-128.png",
+        "75": "/PNG/75/Security/captcha-75.png",
+        "256": "/PNG/256/Security/captcha-256.png",
+        "100": "/PNG/100/Security/captcha-100.png",
+        "512": "/PNG/512/Security/captcha-512.png",
+        "50": "/PNG/50/Security/captcha-50.png"
       }
     }
   },
@@ -17110,7 +17109,7 @@
     "id": 880,
     "name": "delete_shield",
     "platform": "iPhone/iOS 7",
-    "category": "Network",
+    "category": "Security",
     "created": 1338275524,
     "tags": [
       "remove",
@@ -17128,18 +17127,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Network/delete_shield.svg",
+      "svg": "/SVG/Security/delete_shield.svg",
       "svg.simplified": "/SVG_for_Font/Network/delete_shield.svg",
-      "eps": "/EPS/Network/delete_shield.eps",
+      "eps": "/EPS/Security/delete_shield.eps",
       "png": {
-        "25": "/PNG/25/Network/delete_shield-25.png",
-        "32": "/PNG/32/Network/delete_shield-32.png",
-        "128": "/PNG/128/Network/delete_shield-128.png",
-        "75": "/PNG/75/Network/delete_shield-75.png",
-        "256": "/PNG/256/Network/delete_shield-256.png",
-        "100": "/PNG/100/Network/delete_shield-100.png",
-        "512": "/PNG/512/Network/delete_shield-512.png",
-        "50": "/PNG/50/Network/delete_shield-50.png"
+        "25": "/PNG/25/Security/delete_shield-25.png",
+        "32": "/PNG/32/Security/delete_shield-32.png",
+        "128": "/PNG/128/Security/delete_shield-128.png",
+        "75": "/PNG/75/Security/delete_shield-75.png",
+        "256": "/PNG/256/Security/delete_shield-256.png",
+        "100": "/PNG/100/Security/delete_shield-100.png",
+        "512": "/PNG/512/Security/delete_shield-512.png",
+        "50": "/PNG/50/Security/delete_shield-50.png"
       }
     }
   },
@@ -22424,7 +22423,7 @@
     "id": 2517,
     "name": "face_recognition_scan",
     "platform": "iPhone/iOS 7",
-    "category": "User Interface",
+    "category": "Security",
     "created": 1390342413,
     "tags": [
       "hair",
@@ -22476,18 +22475,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/User_Interface/face_recognition_scan.svg",
+      "svg": "/SVG/Security/face_recognition_scan.svg",
       "svg.simplified": "/SVG_for_Font/User_Interface/face_recognition_scan.svg",
-      "eps": "/EPS/User_Interface/face_recognition_scan.eps",
+      "eps": "/EPS/Security/face_recognition_scan.eps",
       "png": {
-        "25": "/PNG/25/User_Interface/face_recognition_scan-25.png",
-        "32": "/PNG/32/User_Interface/face_recognition_scan-32.png",
-        "128": "/PNG/128/User_Interface/face_recognition_scan-128.png",
-        "75": "/PNG/75/User_Interface/face_recognition_scan-75.png",
-        "256": "/PNG/256/User_Interface/face_recognition_scan-256.png",
-        "100": "/PNG/100/User_Interface/face_recognition_scan-100.png",
-        "512": "/PNG/512/User_Interface/face_recognition_scan-512.png",
-        "50": "/PNG/50/User_Interface/face_recognition_scan-50.png"
+        "25": "/PNG/25/Security/face_recognition_scan-25.png",
+        "32": "/PNG/32/Security/face_recognition_scan-32.png",
+        "128": "/PNG/128/Security/face_recognition_scan-128.png",
+        "75": "/PNG/75/Security/face_recognition_scan-75.png",
+        "256": "/PNG/256/Security/face_recognition_scan-256.png",
+        "100": "/PNG/100/Security/face_recognition_scan-100.png",
+        "512": "/PNG/512/Security/face_recognition_scan-512.png",
+        "50": "/PNG/50/Security/face_recognition_scan-50.png"
       }
     }
   },
@@ -23639,7 +23638,7 @@
     "id": 2456,
     "name": "fingerprint_scan",
     "platform": "iPhone/iOS 7",
-    "category": "User Interface",
+    "category": "Security",
     "created": 1390342413,
     "tags": [
       "access",
@@ -23673,18 +23672,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/User_Interface/fingerprint_scan.svg",
+      "svg": "/SVG/Security/fingerprint_scan.svg",
       "svg.simplified": "/SVG_for_Font/User_Interface/fingerprint_scan.svg",
-      "eps": "/EPS/User_Interface/fingerprint_scan.eps",
+      "eps": "/EPS/Security/fingerprint_scan.eps",
       "png": {
-        "25": "/PNG/25/User_Interface/fingerprint_scan-25.png",
-        "32": "/PNG/32/User_Interface/fingerprint_scan-32.png",
-        "128": "/PNG/128/User_Interface/fingerprint_scan-128.png",
-        "75": "/PNG/75/User_Interface/fingerprint_scan-75.png",
-        "256": "/PNG/256/User_Interface/fingerprint_scan-256.png",
-        "100": "/PNG/100/User_Interface/fingerprint_scan-100.png",
-        "512": "/PNG/512/User_Interface/fingerprint_scan-512.png",
-        "50": "/PNG/50/User_Interface/fingerprint_scan-50.png"
+        "25": "/PNG/25/Security/fingerprint_scan-25.png",
+        "32": "/PNG/32/Security/fingerprint_scan-32.png",
+        "128": "/PNG/128/Security/fingerprint_scan-128.png",
+        "75": "/PNG/75/Security/fingerprint_scan-75.png",
+        "256": "/PNG/256/Security/fingerprint_scan-256.png",
+        "100": "/PNG/100/Security/fingerprint_scan-100.png",
+        "512": "/PNG/512/Security/fingerprint_scan-512.png",
+        "50": "/PNG/50/Security/fingerprint_scan-50.png"
       }
     }
   },
@@ -23859,7 +23858,7 @@
     "id": 854,
     "name": "firewall",
     "platform": "iPhone/iOS 7",
-    "category": "Network",
+    "category": "Security",
     "created": 1337236207,
     "tags": [
       "book",
@@ -23884,18 +23883,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Network/firewall.svg",
+      "svg": "/SVG/Security/firewall.svg",
       "svg.simplified": "/SVG_for_Font/Network/firewall.svg",
-      "eps": "/EPS/Network/firewall.eps",
+      "eps": "/EPS/Security/firewall.eps",
       "png": {
-        "25": "/PNG/25/Network/firewall-25.png",
-        "32": "/PNG/32/Network/firewall-32.png",
-        "128": "/PNG/128/Network/firewall-128.png",
-        "75": "/PNG/75/Network/firewall-75.png",
-        "256": "/PNG/256/Network/firewall-256.png",
-        "100": "/PNG/100/Network/firewall-100.png",
-        "512": "/PNG/512/Network/firewall-512.png",
-        "50": "/PNG/50/Network/firewall-50.png"
+        "25": "/PNG/25/Security/firewall-25.png",
+        "32": "/PNG/32/Security/firewall-32.png",
+        "128": "/PNG/128/Security/firewall-128.png",
+        "75": "/PNG/75/Security/firewall-75.png",
+        "256": "/PNG/256/Security/firewall-256.png",
+        "100": "/PNG/100/Security/firewall-100.png",
+        "512": "/PNG/512/Security/firewall-512.png",
+        "50": "/PNG/50/Security/firewall-50.png"
       }
     }
   },
@@ -29212,7 +29211,7 @@
     "id": 2712,
     "name": "hand_palm_scan",
     "platform": "iPhone/iOS 7",
-    "category": "User Interface",
+    "category": "Security",
     "created": 1390342414,
     "tags": [
       "design",
@@ -29268,18 +29267,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/User_Interface/hand_palm_scan.svg",
+      "svg": "/SVG/Security/hand_palm_scan.svg",
       "svg.simplified": "/SVG_for_Font/User_Interface/hand_palm_scan.svg",
-      "eps": "/EPS/User_Interface/hand_palm_scan.eps",
+      "eps": "/EPS/Security/hand_palm_scan.eps",
       "png": {
-        "25": "/PNG/25/User_Interface/hand_palm_scan-25.png",
-        "32": "/PNG/32/User_Interface/hand_palm_scan-32.png",
-        "128": "/PNG/128/User_Interface/hand_palm_scan-128.png",
-        "75": "/PNG/75/User_Interface/hand_palm_scan-75.png",
-        "256": "/PNG/256/User_Interface/hand_palm_scan-256.png",
-        "100": "/PNG/100/User_Interface/hand_palm_scan-100.png",
-        "512": "/PNG/512/User_Interface/hand_palm_scan-512.png",
-        "50": "/PNG/50/User_Interface/hand_palm_scan-50.png"
+        "25": "/PNG/25/Security/hand_palm_scan-25.png",
+        "32": "/PNG/32/Security/hand_palm_scan-32.png",
+        "128": "/PNG/128/Security/hand_palm_scan-128.png",
+        "75": "/PNG/75/Security/hand_palm_scan-75.png",
+        "256": "/PNG/256/Security/hand_palm_scan-256.png",
+        "100": "/PNG/100/Security/hand_palm_scan-100.png",
+        "512": "/PNG/512/Security/hand_palm_scan-512.png",
+        "50": "/PNG/50/Security/hand_palm_scan-50.png"
       }
     }
   },
@@ -32990,7 +32989,7 @@
     "id": 2555,
     "name": "iris_scan",
     "platform": "iPhone/iOS 7",
-    "category": "User Interface",
+    "category": "Security",
     "created": 1390342413,
     "tags": [
       "health",
@@ -33044,18 +33043,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/User_Interface/iris_scan.svg",
+      "svg": "/SVG/Security/iris_scan.svg",
       "svg.simplified": "/SVG_for_Font/User_Interface/iris_scan.svg",
-      "eps": "/EPS/User_Interface/iris_scan.eps",
+      "eps": "/EPS/Security/iris_scan.eps",
       "png": {
-        "25": "/PNG/25/User_Interface/iris_scan-25.png",
-        "32": "/PNG/32/User_Interface/iris_scan-32.png",
-        "128": "/PNG/128/User_Interface/iris_scan-128.png",
-        "75": "/PNG/75/User_Interface/iris_scan-75.png",
-        "256": "/PNG/256/User_Interface/iris_scan-256.png",
-        "100": "/PNG/100/User_Interface/iris_scan-100.png",
-        "512": "/PNG/512/User_Interface/iris_scan-512.png",
-        "50": "/PNG/50/User_Interface/iris_scan-50.png"
+        "25": "/PNG/25/Security/iris_scan-25.png",
+        "32": "/PNG/32/Security/iris_scan-32.png",
+        "128": "/PNG/128/Security/iris_scan-128.png",
+        "75": "/PNG/75/Security/iris_scan-75.png",
+        "256": "/PNG/256/Security/iris_scan-256.png",
+        "100": "/PNG/100/Security/iris_scan-100.png",
+        "512": "/PNG/512/Security/iris_scan-512.png",
+        "50": "/PNG/50/Security/iris_scan-50.png"
       }
     }
   },
@@ -45569,7 +45568,7 @@
     "id": 2844,
     "name": "password",
     "platform": "iPhone/iOS 7",
-    "category": "User Interface",
+    "category": "Security",
     "created": 1390342414,
     "tags": [
       "design",
@@ -45626,18 +45625,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/User_Interface/password.svg",
+      "svg": "/SVG/Security/password.svg",
       "svg.simplified": "/SVG_for_Font/User_Interface/password.svg",
-      "eps": "/EPS/User_Interface/password.eps",
+      "eps": "/EPS/Security/password.eps",
       "png": {
-        "25": "/PNG/25/User_Interface/password-25.png",
-        "32": "/PNG/32/User_Interface/password-32.png",
-        "128": "/PNG/128/User_Interface/password-128.png",
-        "75": "/PNG/75/User_Interface/password-75.png",
-        "256": "/PNG/256/User_Interface/password-256.png",
-        "100": "/PNG/100/User_Interface/password-100.png",
-        "512": "/PNG/512/User_Interface/password-512.png",
-        "50": "/PNG/50/User_Interface/password-50.png"
+        "25": "/PNG/25/Security/password-25.png",
+        "32": "/PNG/32/Security/password-32.png",
+        "128": "/PNG/128/Security/password-128.png",
+        "75": "/PNG/75/Security/password-75.png",
+        "256": "/PNG/256/Security/password-256.png",
+        "100": "/PNG/100/Security/password-100.png",
+        "512": "/PNG/512/Security/password-512.png",
+        "50": "/PNG/50/Security/password-50.png"
       }
     }
   },
@@ -45645,7 +45644,7 @@
     "id": 1667,
     "name": "password2",
     "platform": "iPhone/iOS 7",
-    "category": "User Interface",
+    "category": "Security",
     "created": 1382696296,
     "tags": [
       "design",
@@ -45697,18 +45696,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/User_Interface/password2.svg",
+      "svg": "/SVG/Security/password2.svg",
       "svg.simplified": "/SVG_for_Font/User_Interface/password2.svg",
-      "eps": "/EPS/User_Interface/password2.eps",
+      "eps": "/EPS/Security/password2.eps",
       "png": {
-        "25": "/PNG/25/User_Interface/password2-25.png",
-        "32": "/PNG/32/User_Interface/password2-32.png",
-        "128": "/PNG/128/User_Interface/password2-128.png",
-        "75": "/PNG/75/User_Interface/password2-75.png",
-        "256": "/PNG/256/User_Interface/password2-256.png",
-        "100": "/PNG/100/User_Interface/password2-100.png",
-        "512": "/PNG/512/User_Interface/password2-512.png",
-        "50": "/PNG/50/User_Interface/password2-50.png"
+        "25": "/PNG/25/Security/password2-25.png",
+        "32": "/PNG/32/Security/password2-32.png",
+        "128": "/PNG/128/Security/password2-128.png",
+        "75": "/PNG/75/Security/password2-75.png",
+        "256": "/PNG/256/Security/password2-256.png",
+        "100": "/PNG/100/Security/password2-100.png",
+        "512": "/PNG/512/Security/password2-512.png",
+        "50": "/PNG/50/Security/password2-50.png"
       }
     }
   },
@@ -46830,6 +46829,7 @@
       "clinic",
       "capsule",
       "pharmacology",
+      "customer",
       "patient"
     ],
     "copyright": false,
@@ -50669,7 +50669,7 @@
     "id": 3718,
     "name": "question_shield",
     "platform": "iPhone/iOS 7",
-    "category": "Network",
+    "category": "Security",
     "created": 1395935483,
     "tags": [
       "access",
@@ -50688,18 +50688,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Network/question_shield.svg",
+      "svg": "/SVG/Security/question_shield.svg",
       "svg.simplified": "/SVG_for_Font/Network/question_shield.svg",
-      "eps": "/EPS/Network/question_shield.eps",
+      "eps": "/EPS/Security/question_shield.eps",
       "png": {
-        "25": "/PNG/25/Network/question_shield-25.png",
-        "32": "/PNG/32/Network/question_shield-32.png",
-        "128": "/PNG/128/Network/question_shield-128.png",
-        "75": "/PNG/75/Network/question_shield-75.png",
-        "256": "/PNG/256/Network/question_shield-256.png",
-        "100": "/PNG/100/Network/question_shield-100.png",
-        "512": "/PNG/512/Network/question_shield-512.png",
-        "50": "/PNG/50/Network/question_shield-50.png"
+        "25": "/PNG/25/Security/question_shield-25.png",
+        "32": "/PNG/32/Security/question_shield-32.png",
+        "128": "/PNG/128/Security/question_shield-128.png",
+        "75": "/PNG/75/Security/question_shield-75.png",
+        "256": "/PNG/256/Security/question_shield-256.png",
+        "100": "/PNG/100/Security/question_shield-100.png",
+        "512": "/PNG/512/Security/question_shield-512.png",
+        "50": "/PNG/50/Security/question_shield-50.png"
       }
     }
   },
@@ -51797,7 +51797,7 @@
     "id": 882,
     "name": "refresh_shield",
     "platform": "iPhone/iOS 7",
-    "category": "Network",
+    "category": "Security",
     "created": 1338275524,
     "tags": [
       "access",
@@ -51818,18 +51818,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Network/refresh_shield.svg",
+      "svg": "/SVG/Security/refresh_shield.svg",
       "svg.simplified": "/SVG_for_Font/Network/refresh_shield.svg",
-      "eps": "/EPS/Network/refresh_shield.eps",
+      "eps": "/EPS/Security/refresh_shield.eps",
       "png": {
-        "25": "/PNG/25/Network/refresh_shield-25.png",
-        "32": "/PNG/32/Network/refresh_shield-32.png",
-        "128": "/PNG/128/Network/refresh_shield-128.png",
-        "75": "/PNG/75/Network/refresh_shield-75.png",
-        "256": "/PNG/256/Network/refresh_shield-256.png",
-        "100": "/PNG/100/Network/refresh_shield-100.png",
-        "512": "/PNG/512/Network/refresh_shield-512.png",
-        "50": "/PNG/50/Network/refresh_shield-50.png"
+        "25": "/PNG/25/Security/refresh_shield-25.png",
+        "32": "/PNG/32/Security/refresh_shield-32.png",
+        "128": "/PNG/128/Security/refresh_shield-128.png",
+        "75": "/PNG/75/Security/refresh_shield-75.png",
+        "256": "/PNG/256/Security/refresh_shield-256.png",
+        "100": "/PNG/100/Security/refresh_shield-100.png",
+        "512": "/PNG/512/Security/refresh_shield-512.png",
+        "50": "/PNG/50/Security/refresh_shield-50.png"
       }
     }
   },
@@ -52434,7 +52434,7 @@
     "id": 878,
     "name": "restriction_shield",
     "platform": "iPhone/iOS 7",
-    "category": "Network",
+    "category": "Security",
     "created": 1338186492,
     "tags": [
       "access",
@@ -52458,18 +52458,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Network/restriction_shield.svg",
+      "svg": "/SVG/Security/restriction_shield.svg",
       "svg.simplified": "/SVG_for_Font/Network/restriction_shield.svg",
-      "eps": "/EPS/Network/restriction_shield.eps",
+      "eps": "/EPS/Security/restriction_shield.eps",
       "png": {
-        "25": "/PNG/25/Network/restriction_shield-25.png",
-        "32": "/PNG/32/Network/restriction_shield-32.png",
-        "128": "/PNG/128/Network/restriction_shield-128.png",
-        "75": "/PNG/75/Network/restriction_shield-75.png",
-        "256": "/PNG/256/Network/restriction_shield-256.png",
-        "100": "/PNG/100/Network/restriction_shield-100.png",
-        "512": "/PNG/512/Network/restriction_shield-512.png",
-        "50": "/PNG/50/Network/restriction_shield-50.png"
+        "25": "/PNG/25/Security/restriction_shield-25.png",
+        "32": "/PNG/32/Security/restriction_shield-32.png",
+        "128": "/PNG/128/Security/restriction_shield-128.png",
+        "75": "/PNG/75/Security/restriction_shield-75.png",
+        "256": "/PNG/256/Security/restriction_shield-256.png",
+        "100": "/PNG/100/Security/restriction_shield-100.png",
+        "512": "/PNG/512/Security/restriction_shield-512.png",
+        "50": "/PNG/50/Security/restriction_shield-50.png"
       }
     }
   },
@@ -55482,7 +55482,7 @@
     "id": 2438,
     "name": "security_aes",
     "platform": "iPhone/iOS 7",
-    "category": "Network",
+    "category": "Security",
     "created": 1390342413,
     "tags": [
       "design",
@@ -55531,18 +55531,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Network/security_aes.svg",
+      "svg": "/SVG/Security/security_aes.svg",
       "svg.simplified": "/SVG_for_Font/Network/security_aes.svg",
-      "eps": "/EPS/Network/security_aes.eps",
+      "eps": "/EPS/Security/security_aes.eps",
       "png": {
-        "25": "/PNG/25/Network/security_aes-25.png",
-        "32": "/PNG/32/Network/security_aes-32.png",
-        "128": "/PNG/128/Network/security_aes-128.png",
-        "75": "/PNG/75/Network/security_aes-75.png",
-        "256": "/PNG/256/Network/security_aes-256.png",
-        "100": "/PNG/100/Network/security_aes-100.png",
-        "512": "/PNG/512/Network/security_aes-512.png",
-        "50": "/PNG/50/Network/security_aes-50.png"
+        "25": "/PNG/25/Security/security_aes-25.png",
+        "32": "/PNG/32/Security/security_aes-32.png",
+        "128": "/PNG/128/Security/security_aes-128.png",
+        "75": "/PNG/75/Security/security_aes-75.png",
+        "256": "/PNG/256/Security/security_aes-256.png",
+        "100": "/PNG/100/Security/security_aes-100.png",
+        "512": "/PNG/512/Security/security_aes-512.png",
+        "50": "/PNG/50/Security/security_aes-50.png"
       }
     }
   },
@@ -55550,7 +55550,7 @@
     "id": 2606,
     "name": "security_checked",
     "platform": "iPhone/iOS 7",
-    "category": "Network",
+    "category": "Security",
     "created": 1390342413,
     "tags": [
       "illustrator",
@@ -55602,18 +55602,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Network/security_checked.svg",
+      "svg": "/SVG/Security/security_checked.svg",
       "svg.simplified": "/SVG_for_Font/Network/security_checked.svg",
-      "eps": "/EPS/Network/security_checked.eps",
+      "eps": "/EPS/Security/security_checked.eps",
       "png": {
-        "25": "/PNG/25/Network/security_checked-25.png",
-        "32": "/PNG/32/Network/security_checked-32.png",
-        "128": "/PNG/128/Network/security_checked-128.png",
-        "75": "/PNG/75/Network/security_checked-75.png",
-        "256": "/PNG/256/Network/security_checked-256.png",
-        "100": "/PNG/100/Network/security_checked-100.png",
-        "512": "/PNG/512/Network/security_checked-512.png",
-        "50": "/PNG/50/Network/security_checked-50.png"
+        "25": "/PNG/25/Security/security_checked-25.png",
+        "32": "/PNG/32/Security/security_checked-32.png",
+        "128": "/PNG/128/Security/security_checked-128.png",
+        "75": "/PNG/75/Security/security_checked-75.png",
+        "256": "/PNG/256/Security/security_checked-256.png",
+        "100": "/PNG/100/Security/security_checked-100.png",
+        "512": "/PNG/512/Security/security_checked-512.png",
+        "50": "/PNG/50/Security/security_checked-50.png"
       }
     }
   },
@@ -55621,7 +55621,7 @@
     "id": 2458,
     "name": "security_ssl",
     "platform": "iPhone/iOS 7",
-    "category": "Network",
+    "category": "Security",
     "created": 1390342413,
     "tags": [
       "key",
@@ -55670,18 +55670,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Network/security_ssl.svg",
+      "svg": "/SVG/Security/security_ssl.svg",
       "svg.simplified": "/SVG_for_Font/Network/security_ssl.svg",
-      "eps": "/EPS/Network/security_ssl.eps",
+      "eps": "/EPS/Security/security_ssl.eps",
       "png": {
-        "25": "/PNG/25/Network/security_ssl-25.png",
-        "32": "/PNG/32/Network/security_ssl-32.png",
-        "128": "/PNG/128/Network/security_ssl-128.png",
-        "75": "/PNG/75/Network/security_ssl-75.png",
-        "256": "/PNG/256/Network/security_ssl-256.png",
-        "100": "/PNG/100/Network/security_ssl-100.png",
-        "512": "/PNG/512/Network/security_ssl-512.png",
-        "50": "/PNG/50/Network/security_ssl-50.png"
+        "25": "/PNG/25/Security/security_ssl-25.png",
+        "32": "/PNG/32/Security/security_ssl-32.png",
+        "128": "/PNG/128/Security/security_ssl-128.png",
+        "75": "/PNG/75/Security/security_ssl-75.png",
+        "256": "/PNG/256/Security/security_ssl-256.png",
+        "100": "/PNG/100/Security/security_ssl-100.png",
+        "512": "/PNG/512/Security/security_ssl-512.png",
+        "50": "/PNG/50/Security/security_ssl-50.png"
       }
     }
   },
@@ -56591,7 +56591,7 @@
     "id": 852,
     "name": "shield",
     "platform": "iPhone/iOS 7",
-    "category": "Network",
+    "category": "Security",
     "created": 1337236207,
     "tags": [
       "deny",
@@ -56618,18 +56618,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Network/shield.svg",
+      "svg": "/SVG/Security/shield.svg",
       "svg.simplified": "/SVG_for_Font/Network/shield.svg",
-      "eps": "/EPS/Network/shield.eps",
+      "eps": "/EPS/Security/shield.eps",
       "png": {
-        "25": "/PNG/25/Network/shield-25.png",
-        "32": "/PNG/32/Network/shield-32.png",
-        "128": "/PNG/128/Network/shield-128.png",
-        "75": "/PNG/75/Network/shield-75.png",
-        "256": "/PNG/256/Network/shield-256.png",
-        "100": "/PNG/100/Network/shield-100.png",
-        "512": "/PNG/512/Network/shield-512.png",
-        "50": "/PNG/50/Network/shield-50.png"
+        "25": "/PNG/25/Security/shield-25.png",
+        "32": "/PNG/32/Security/shield-32.png",
+        "128": "/PNG/128/Security/shield-128.png",
+        "75": "/PNG/75/Security/shield-75.png",
+        "256": "/PNG/256/Security/shield-256.png",
+        "100": "/PNG/100/Security/shield-100.png",
+        "512": "/PNG/512/Security/shield-512.png",
+        "50": "/PNG/50/Security/shield-50.png"
       }
     }
   },
@@ -69349,7 +69349,7 @@
     "id": 887,
     "name": "user_shield",
     "platform": "iPhone/iOS 7",
-    "category": "Network",
+    "category": "Security",
     "created": 1338362404,
     "tags": [
       "access",
@@ -69366,18 +69366,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Network/user_shield.svg",
+      "svg": "/SVG/Security/user_shield.svg",
       "svg.simplified": "/SVG_for_Font/Network/user_shield.svg",
-      "eps": "/EPS/Network/user_shield.eps",
+      "eps": "/EPS/Security/user_shield.eps",
       "png": {
-        "25": "/PNG/25/Network/user_shield-25.png",
-        "32": "/PNG/32/Network/user_shield-32.png",
-        "128": "/PNG/128/Network/user_shield-128.png",
-        "75": "/PNG/75/Network/user_shield-75.png",
-        "256": "/PNG/256/Network/user_shield-256.png",
-        "100": "/PNG/100/Network/user_shield-100.png",
-        "512": "/PNG/512/Network/user_shield-512.png",
-        "50": "/PNG/50/Network/user_shield-50.png"
+        "25": "/PNG/25/Security/user_shield-25.png",
+        "32": "/PNG/32/Security/user_shield-32.png",
+        "128": "/PNG/128/Security/user_shield-128.png",
+        "75": "/PNG/75/Security/user_shield-75.png",
+        "256": "/PNG/256/Security/user_shield-256.png",
+        "100": "/PNG/100/Security/user_shield-100.png",
+        "512": "/PNG/512/Security/user_shield-512.png",
+        "50": "/PNG/50/Security/user_shield-50.png"
       }
     }
   },
@@ -70529,7 +70529,7 @@
     "id": 2672,
     "name": "voice_recognition_scan",
     "platform": "iPhone/iOS 7",
-    "category": "User Interface",
+    "category": "Security",
     "created": 1390342413,
     "tags": [
       "software",
@@ -70581,18 +70581,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/User_Interface/voice_recognition_scan.svg",
+      "svg": "/SVG/Security/voice_recognition_scan.svg",
       "svg.simplified": "/SVG_for_Font/User_Interface/voice_recognition_scan.svg",
-      "eps": "/EPS/User_Interface/voice_recognition_scan.eps",
+      "eps": "/EPS/Security/voice_recognition_scan.eps",
       "png": {
-        "25": "/PNG/25/User_Interface/voice_recognition_scan-25.png",
-        "32": "/PNG/32/User_Interface/voice_recognition_scan-32.png",
-        "128": "/PNG/128/User_Interface/voice_recognition_scan-128.png",
-        "75": "/PNG/75/User_Interface/voice_recognition_scan-75.png",
-        "256": "/PNG/256/User_Interface/voice_recognition_scan-256.png",
-        "100": "/PNG/100/User_Interface/voice_recognition_scan-100.png",
-        "512": "/PNG/512/User_Interface/voice_recognition_scan-512.png",
-        "50": "/PNG/50/User_Interface/voice_recognition_scan-50.png"
+        "25": "/PNG/25/Security/voice_recognition_scan-25.png",
+        "32": "/PNG/32/Security/voice_recognition_scan-32.png",
+        "128": "/PNG/128/Security/voice_recognition_scan-128.png",
+        "75": "/PNG/75/Security/voice_recognition_scan-75.png",
+        "256": "/PNG/256/Security/voice_recognition_scan-256.png",
+        "100": "/PNG/100/Security/voice_recognition_scan-100.png",
+        "512": "/PNG/512/Security/voice_recognition_scan-512.png",
+        "50": "/PNG/50/Security/voice_recognition_scan-50.png"
       }
     }
   },
@@ -71404,7 +71404,7 @@
     "id": 876,
     "name": "warning_shield",
     "platform": "iPhone/iOS 7",
-    "category": "Network",
+    "category": "Security",
     "created": 1338186492,
     "tags": [
       "access",
@@ -71429,18 +71429,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Network/warning_shield.svg",
+      "svg": "/SVG/Security/warning_shield.svg",
       "svg.simplified": "/SVG_for_Font/Network/warning_shield.svg",
-      "eps": "/EPS/Network/warning_shield.eps",
+      "eps": "/EPS/Security/warning_shield.eps",
       "png": {
-        "25": "/PNG/25/Network/warning_shield-25.png",
-        "32": "/PNG/32/Network/warning_shield-32.png",
-        "128": "/PNG/128/Network/warning_shield-128.png",
-        "75": "/PNG/75/Network/warning_shield-75.png",
-        "256": "/PNG/256/Network/warning_shield-256.png",
-        "100": "/PNG/100/Network/warning_shield-100.png",
-        "512": "/PNG/512/Network/warning_shield-512.png",
-        "50": "/PNG/50/Network/warning_shield-50.png"
+        "25": "/PNG/25/Security/warning_shield-25.png",
+        "32": "/PNG/32/Security/warning_shield-32.png",
+        "128": "/PNG/128/Security/warning_shield-128.png",
+        "75": "/PNG/75/Security/warning_shield-75.png",
+        "256": "/PNG/256/Security/warning_shield-256.png",
+        "100": "/PNG/100/Security/warning_shield-100.png",
+        "512": "/PNG/512/Security/warning_shield-512.png",
+        "50": "/PNG/50/Security/warning_shield-50.png"
       }
     }
   },
@@ -72291,7 +72291,7 @@
     "id": 884,
     "name": "web_shield",
     "platform": "iPhone/iOS 7",
-    "category": "Network",
+    "category": "Security",
     "created": 1338275524,
     "tags": [
       "display",
@@ -72312,18 +72312,18 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Network/web_shield.svg",
+      "svg": "/SVG/Security/web_shield.svg",
       "svg.simplified": "/SVG_for_Font/Network/web_shield.svg",
-      "eps": "/EPS/Network/web_shield.eps",
+      "eps": "/EPS/Security/web_shield.eps",
       "png": {
-        "25": "/PNG/25/Network/web_shield-25.png",
-        "32": "/PNG/32/Network/web_shield-32.png",
-        "128": "/PNG/128/Network/web_shield-128.png",
-        "75": "/PNG/75/Network/web_shield-75.png",
-        "256": "/PNG/256/Network/web_shield-256.png",
-        "100": "/PNG/100/Network/web_shield-100.png",
-        "512": "/PNG/512/Network/web_shield-512.png",
-        "50": "/PNG/50/Network/web_shield-50.png"
+        "25": "/PNG/25/Security/web_shield-25.png",
+        "32": "/PNG/32/Security/web_shield-32.png",
+        "128": "/PNG/128/Security/web_shield-128.png",
+        "75": "/PNG/75/Security/web_shield-75.png",
+        "256": "/PNG/256/Security/web_shield-256.png",
+        "100": "/PNG/100/Security/web_shield-100.png",
+        "512": "/PNG/512/Security/web_shield-512.png",
+        "50": "/PNG/50/Security/web_shield-50.png"
       }
     }
   },
