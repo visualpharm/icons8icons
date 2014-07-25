@@ -633,22 +633,20 @@
     "tags": [
       "add user",
       "append user",
-      "create user",
-      "card",
       "add",
       "calendar",
       "remove",
       "help",
       "profile",
       "report",
-      "register",
-      "credit card",
       "tv",
       "patient",
-      "registration",
       "calender",
       "Existing user",
       "add friend",
+      "create user",
+      "register",
+      "registration",
       "add icon"
     ],
     "copyright": false,
@@ -3881,7 +3879,6 @@
       "vector",
       "sea",
       "palm",
-      "water",
       "travel",
       "icon",
       "tree",
@@ -24515,7 +24512,6 @@
       "light",
       "wallet",
       "economy",
-      "lines",
       "equipment",
       "computer",
       "technology",
@@ -24535,7 +24531,8 @@
       "fabric",
       "camp",
       "tech",
-      "machinery"
+      "machinery",
+      "lines"
     ],
     "copyright": false,
     "files": {
@@ -29081,6 +29078,7 @@
       "search",
       "business",
       "photo",
+      "cart",
       "camera",
       "compas",
       "pgotos",
@@ -36273,6 +36271,7 @@
       "extension",
       "mosaic",
       "integration",
+      "sdrgf",
       "interface"
     ],
     "copyright": false,
@@ -37832,7 +37831,6 @@
       "icon",
       "pointer",
       "plant",
-      "shape",
       "manufacturing",
       "production",
       "button",
@@ -37846,7 +37844,8 @@
       "industrial",
       "curve",
       "arrow icon",
-      "navigation"
+      "navigation",
+      "panel"
     ],
     "copyright": false,
     "files": {
