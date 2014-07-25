@@ -5073,12 +5073,12 @@
     "tags": [
       "clock",
       "arrow",
-      "settings",
       "refresh",
       "symbols",
       "green",
       "updates",
-      "return"
+      "return",
+      "settings"
     ],
     "copyright": false,
     "files": {
@@ -5432,9 +5432,9 @@
       "compassion",
       "living space",
       "accommodation",
-      "child",
       "young",
-      "baby"
+      "baby",
+      "child"
     ],
     "copyright": false,
     "files": {
@@ -7035,7 +7035,7 @@
     "category": "Cinema",
     "created": 1398883905,
     "tags": [
-
+      "Super Man"
     ],
     "copyright": false,
     "files": {
@@ -56095,7 +56095,6 @@
       "nature",
       "biology",
       "wildlife",
-      "zoo",
       "zoology"
     ],
     "copyright": false,
@@ -72063,8 +72062,8 @@
       "lamp",
       "ace",
       "etoile",
-      "favorite",
-      "star"
+      "star",
+      "favorite"
     ],
     "copyright": false,
     "files": {
