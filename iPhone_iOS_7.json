@@ -1139,6 +1139,7 @@
       "flight",
       "airplane",
       "bars",
+      "paint",
       "checkbox",
       "holiday",
       "plan",
@@ -2217,6 +2218,7 @@
       "office",
       "edit",
       "family",
+      "building",
       "flat",
       "cottage",
       "realty",
@@ -4089,6 +4091,7 @@
       "cashier",
       "shop",
       "camera",
+      "free",
       "device manager",
       "cash desk"
     ],
@@ -5621,6 +5624,7 @@
     "category": "Very Basic",
     "created": 1394826685,
     "tags": [
+      "optical",
       "find",
       "discovery",
       "search",
@@ -5631,7 +5635,6 @@
       "adventure",
       "focus",
       "looking",
-      "optical",
       "vision",
       "details",
       "expedition",
@@ -9079,11 +9082,11 @@
     "tags": [
       "cubes",
       "nothing",
-      "game",
-      "cards",
       "gamble",
       "poker",
-      "black jack"
+      "game",
+      "black jack",
+      "cards"
     ],
     "copyright": false,
     "files": {
@@ -9390,7 +9393,6 @@
       "cash",
       "bank",
       "graph",
-      "shopping",
       "buy",
       "savings",
       "money",
@@ -11002,7 +11004,8 @@
       "prize",
       "santa",
       "jesus christ",
-      "eve"
+      "eve",
+      "Mr Wisher"
     ],
     "copyright": false,
     "files": {
@@ -18304,7 +18307,6 @@
       "symbol",
       "smile",
       "lines",
-      "park",
       "illustration",
       "graphic",
       "sign",
@@ -18341,7 +18343,8 @@
       "simplified",
       "animal attractive",
       "canine",
-      "animal"
+      "animal",
+      "pet"
     ],
     "copyright": false,
     "files": {
@@ -18967,6 +18970,7 @@
       "save",
       "sync",
       "upload",
+      "export",
       "store",
       "point",
       "learn",
@@ -20782,6 +20786,7 @@
       "microelectronics",
       "tech",
       "machinery",
+      "rj45",
       "equipment",
       "chip",
       "small",
@@ -27257,18 +27262,9 @@
     "category": "Holidays",
     "created": 1384260236,
     "tags": [
-      "spirit",
-      "black",
-      "white",
       "astronaut",
       "eyes",
-      "halloween",
-      "abstract",
-      "simple",
-      "cute",
       "face",
-      "scary",
-      "ghost",
       "halloween image",
       "frightening",
       "face without nose and mouth",
@@ -27276,18 +27272,25 @@
       "creepy figure",
       "white ghost with black eyes",
       "beard",
-      "old man",
-      "hat shaped at the top",
-      "outline like a cup cake",
       "eerie",
-      "big ears",
       "wavy outline",
       "monster",
       "hooded ghost",
-      "spooky",
       "silly",
+      "simplistic",
+      "haunted",
+      "haunting",
+      "spirit",
+      "halloween",
+      "scary",
+      "ghost",
+      "spooky",
       "halloween ghost",
-      "si"
+      "cute ghost",
+      "silly ghost",
+      "simple ghost",
+      "spooky ghost",
+      "scary ghost"
     ],
     "copyright": false,
     "files": {
@@ -31977,6 +31980,7 @@
       "call",
       "settings",
       "hint",
+      "image",
       "like",
       "support",
       "log in",
@@ -32299,6 +32303,7 @@
     "category": "Industry",
     "created": 1372328928,
     "tags": [
+      "add",
       "user",
       "close",
       "new",
@@ -38767,6 +38772,7 @@
       "photo",
       "cart",
       "camera",
+      "male",
       "compas",
       "pgotos",
       "freccia",
@@ -40901,21 +40907,21 @@
       "file types",
       "text",
       "movie",
-      "video",
       "recording",
       "animation",
       "quick-time",
       "quicktime",
       "mov",
-      "atom",
       "extension",
       "effects",
       "filetype",
+      "data format",
       "quick time file format",
       "multimedia format",
       "digitally-encoded media stream",
       "data reference",
-      "hierarchical data structure"
+      "hierarchical data structure",
+      "video"
     ],
     "copyright": false,
     "files": {
@@ -41755,13 +41761,15 @@
       "note",
       "cd",
       "video",
+      "youtube",
       "tv",
       "dvd",
       "ipod",
       "podcast",
       "itunes",
       "mp4",
-      "tv show"
+      "tv show",
+      "mtv"
     ],
     "copyright": false,
     "files": {
@@ -46676,7 +46684,6 @@
       "color",
       "nature",
       "service",
-      "modern",
       "isolated",
       "biology",
       "cartoon",
@@ -46698,7 +46705,7 @@
       "smiling",
       "computer graphic",
       "animal head",
-      "ill"
+      "illustrati"
     ],
     "copyright": false,
     "files": {
@@ -47315,7 +47322,6 @@
       "supermarket",
       "food and drink",
       "culinary",
-      "lunch",
       "tomato",
       "bread",
       "chicken",
@@ -47328,6 +47334,7 @@
       "mexican cuisine",
       "cafe",
       "golf",
+      "lunch",
       "fast food"
     ],
     "copyright": false,
@@ -47771,7 +47778,6 @@
       "minus",
       "rss",
       "finish",
-      "view",
       "log out",
       "triangle",
       "animals",
@@ -47781,6 +47787,7 @@
       "plus sign",
       "sum",
       "expand",
+      "dollar",
       "visit",
       "penicl",
       "add table",
@@ -52300,6 +52307,7 @@
     "category": "City",
     "created": 1331029013,
     "tags": [
+      "contacts",
       "weather",
       "shop",
       "diet",
@@ -52308,6 +52316,7 @@
       "town",
       "settlement",
       "urban",
+      "about",
       "wayfinding",
       "food",
       "knife",
@@ -55973,7 +55982,8 @@
       "instrument",
       "big",
       "description",
-      "throw"
+      "throw",
+      "cog wheel"
     ],
     "copyright": false,
     "files": {
@@ -55999,23 +56009,19 @@
     "category": "Very Basic",
     "created": 1390342414,
     "tags": [
-      "calendar",
-      "logout",
-      "share",
-      "mechanics",
-      "notifications",
-      "control panel",
       "arrow",
+      "folder",
+      "mechanics",
+      "stress",
+      "cog wheel",
+      "control panel",
       "settings",
+      "gear",
       "detail",
       "mechanic",
       "details",
-      "stress",
-      "cog wheel",
-      "folder",
-      "options",
-      "gear",
       "cog",
+      "options",
       "preferences"
     ],
     "copyright": false,
@@ -56589,6 +56595,7 @@
       "footprint",
       "left",
       "right",
+      "car",
       "drinks",
       "fit",
       "size",
@@ -59249,7 +59256,6 @@
       "economy",
       "technology",
       "electricity",
-      "plant",
       "manufacturing",
       "production",
       "energy",
@@ -59260,10 +59266,11 @@
       "renewable energy",
       "green energy",
       "alternative energy",
-      "solar power station",
-      "solar panel",
       "tech",
-      "machinery"
+      "machinery",
+      "plant",
+      "solar power station",
+      "solar panel"
     ],
     "copyright": false,
     "files": {
@@ -64549,6 +64556,7 @@
     "category": "Hands",
     "created": 1390342414,
     "tags": [
+      "comment",
       "like",
       "thumb",
       "vote"
@@ -67160,6 +67168,7 @@
       "gipsum",
       "x-ray",
       "surgery",
+      "prescription",
       "bone",
       "broken arm",
       "limited mobility"
@@ -68153,6 +68162,7 @@
     "created": 1323862193,
     "tags": [
       "time",
+      "skype",
       "security",
       "settings",
       "water",
@@ -68542,22 +68552,22 @@
       "track",
       "tools",
       "lamp",
-      "arrow",
-      "direction",
       "indicator",
       "options",
       "course",
-      "way",
       "down",
       "buttons",
       "traffic",
       "compass",
       "road",
       "north",
-      "up",
       "sideward",
       "pointer",
-      "move"
+      "move",
+      "arrow",
+      "direction",
+      "way",
+      "up"
     ],
     "copyright": false,
     "files": {
@@ -68675,12 +68685,12 @@
     "category": "Very Basic",
     "created": 1390342414,
     "tags": [
-      "forward",
       "settings",
       "photo",
       "general",
       "kilometer",
       "check",
+      "forward",
       "connect",
       "synchronize",
       "synchronization",
@@ -68714,6 +68724,7 @@
     "created": 1323361504,
     "tags": [
       "phone",
+      "xml",
       "share"
     ],
     "copyright": false,
@@ -70326,17 +70337,12 @@
     "category": "Messaging",
     "created": 1341483485,
     "tags": [
-      "trash",
-      "lock",
+      "invisible",
       "view",
       "eye",
       "visible",
-      "invisible",
-      "email",
-      "confirmed",
-      "дщсл",
-      "see",
-      "disabled"
+      "disabled",
+      "see"
     ],
     "copyright": false,
     "files": {
@@ -70664,7 +70670,8 @@
       "virtual private network",
       "remote",
       "cisco",
-      "outsourcing"
+      "outsourcing",
+      "spy"
     ],
     "copyright": false,
     "files": {
@@ -72393,6 +72400,7 @@
       "scale",
       "height",
       "weight",
+      "lb",
       "grams"
     ],
     "copyright": false,
