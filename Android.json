@@ -6343,7 +6343,8 @@
       "public transportation",
       "tour bus",
       "public bus",
-      "charter bus"
+      "charter bus",
+      "bencjh"
     ],
     "copyright": false,
     "files": {
@@ -36104,6 +36105,7 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
+      "delete",
       "people",
       "document",
       "match",
@@ -36113,7 +36115,6 @@
       "filter",
       "one",
       "structure",
-      "plugin",
       "property",
       "puzzle",
       "piece",
@@ -36125,7 +36126,8 @@
       "mosaic",
       "integration",
       "sdrgf",
-      "interface"
+      "interface",
+      "plugin"
     ],
     "copyright": false,
     "files": {
@@ -39597,84 +39599,6 @@
         "24": "/PNG/24/Christmas/santa-24.png",
         "96": "/PNG/96/Christmas/santa-96.png",
         "48": "/PNG/48/Christmas/santa-48.png"
-      }
-    }
-  },
-  {
-    "id": 3814,
-    "name": "satellite2",
-    "platform": "Android",
-    "category": "Maps",
-    "created": 1396615886,
-    "tags": [
-      "wireless",
-      "walking",
-      "geo",
-      "gps",
-      "geography",
-      "navigation",
-      "wireless connect",
-      "satellite",
-      "walks",
-      "sending signal",
-      "satellite signal",
-      "gis",
-      "area",
-      "glonass"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Maps/satellite2.svg",
-      "svg.simplified": "/SVG_for_Font/Maps/satellite2.svg",
-      "eps": "/EPS/Maps/satellite2.eps",
-      "png": {
-        "32": "/PNG/32/Maps/satellite2-32.png",
-        "128": "/PNG/128/Maps/satellite2-128.png",
-        "256": "/PNG/256/Maps/satellite2-256.png",
-        "36": "/PNG/36/Maps/satellite2-36.png",
-        "512": "/PNG/512/Maps/satellite2-512.png",
-        "64": "/PNG/64/Maps/satellite2-64.png",
-        "24": "/PNG/24/Maps/satellite2-24.png",
-        "96": "/PNG/96/Maps/satellite2-96.png",
-        "48": "/PNG/48/Maps/satellite2-48.png"
-      }
-    }
-  },
-  {
-    "id": 3798,
-    "name": "satellite2_sending_signal",
-    "platform": "Android",
-    "category": "Maps",
-    "created": 1396615886,
-    "tags": [
-      "wireless",
-      "geo",
-      "gps",
-      "geography",
-      "navigation",
-      "wireless connect",
-      "satellite",
-      "sending signal",
-      "satellite signal",
-      "gis",
-      "area",
-      "glonass"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Maps/satellite2_sending_signal.svg",
-      "svg.simplified": "/SVG_for_Font/Maps/satellite2_sending_signal.svg",
-      "eps": "/EPS/Maps/satellite2_sending_signal.eps",
-      "png": {
-        "32": "/PNG/32/Maps/satellite2_sending_signal-32.png",
-        "128": "/PNG/128/Maps/satellite2_sending_signal-128.png",
-        "256": "/PNG/256/Maps/satellite2_sending_signal-256.png",
-        "36": "/PNG/36/Maps/satellite2_sending_signal-36.png",
-        "512": "/PNG/512/Maps/satellite2_sending_signal-512.png",
-        "64": "/PNG/64/Maps/satellite2_sending_signal-64.png",
-        "24": "/PNG/24/Maps/satellite2_sending_signal-24.png",
-        "96": "/PNG/96/Maps/satellite2_sending_signal-96.png",
-        "48": "/PNG/48/Maps/satellite2_sending_signal-48.png"
       }
     }
   },
@@ -47483,7 +47407,8 @@
       "schedule",
       "daily life",
       "countdown",
-      "add filter"
+      "add filter",
+      "start"
     ],
     "copyright": false,
     "files": {

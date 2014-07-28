@@ -7655,7 +7655,8 @@
       "public transportation",
       "tour bus",
       "public bus",
-      "charter bus"
+      "charter bus",
+      "bencjh"
     ],
     "copyright": false,
     "files": {
@@ -43869,6 +43870,7 @@
       "application",
       "microsoft",
       "microsoft office",
+      "data",
       "logo",
       "apps",
       "ms office",
@@ -50179,6 +50181,7 @@
     "category": "Very Basic",
     "created": 1366021468,
     "tags": [
+      "delete",
       "people",
       "document",
       "match",
@@ -50188,7 +50191,6 @@
       "filter",
       "one",
       "structure",
-      "plugin",
       "property",
       "puzzle",
       "piece",
@@ -50200,7 +50202,8 @@
       "mosaic",
       "integration",
       "sdrgf",
-      "interface"
+      "interface",
+      "plugin"
     ],
     "copyright": false,
     "files": {
@@ -54371,82 +54374,6 @@
         "100": "/PNG/100/Holidays/santa-100.png",
         "512": "/PNG/512/Holidays/santa-512.png",
         "50": "/PNG/50/Holidays/santa-50.png"
-      }
-    }
-  },
-  {
-    "id": 2240,
-    "name": "satellite2",
-    "platform": "iPhone/iOS 7",
-    "category": "Maps",
-    "created": 1379673291,
-    "tags": [
-      "wireless",
-      "walking",
-      "geo",
-      "gps",
-      "geography",
-      "navigation",
-      "wireless connect",
-      "satellite",
-      "walks",
-      "sending signal",
-      "satellite signal",
-      "gis",
-      "area",
-      "glonass"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Maps/satellite2.svg",
-      "svg.simplified": "/SVG_for_Font/Maps/satellite2.svg",
-      "eps": "/EPS/Maps/satellite2.eps",
-      "png": {
-        "25": "/PNG/25/Maps/satellite2-25.png",
-        "32": "/PNG/32/Maps/satellite2-32.png",
-        "128": "/PNG/128/Maps/satellite2-128.png",
-        "75": "/PNG/75/Maps/satellite2-75.png",
-        "256": "/PNG/256/Maps/satellite2-256.png",
-        "100": "/PNG/100/Maps/satellite2-100.png",
-        "512": "/PNG/512/Maps/satellite2-512.png",
-        "50": "/PNG/50/Maps/satellite2-50.png"
-      }
-    }
-  },
-  {
-    "id": 2242,
-    "name": "satellite2_sending_signal",
-    "platform": "iPhone/iOS 7",
-    "category": "Maps",
-    "created": 1379673291,
-    "tags": [
-      "wireless",
-      "geo",
-      "gps",
-      "geography",
-      "navigation",
-      "wireless connect",
-      "satellite",
-      "sending signal",
-      "satellite signal",
-      "gis",
-      "area",
-      "glonass"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Maps/satellite2_sending_signal.svg",
-      "svg.simplified": "/SVG_for_Font/Maps/satellite2_sending_signal.svg",
-      "eps": "/EPS/Maps/satellite2_sending_signal.eps",
-      "png": {
-        "25": "/PNG/25/Maps/satellite2_sending_signal-25.png",
-        "32": "/PNG/32/Maps/satellite2_sending_signal-32.png",
-        "128": "/PNG/128/Maps/satellite2_sending_signal-128.png",
-        "75": "/PNG/75/Maps/satellite2_sending_signal-75.png",
-        "256": "/PNG/256/Maps/satellite2_sending_signal-256.png",
-        "100": "/PNG/100/Maps/satellite2_sending_signal-100.png",
-        "512": "/PNG/512/Maps/satellite2_sending_signal-512.png",
-        "50": "/PNG/50/Maps/satellite2_sending_signal-50.png"
       }
     }
   },
@@ -64697,7 +64624,8 @@
       "schedule",
       "daily life",
       "countdown",
-      "add filter"
+      "add filter",
+      "start"
     ],
     "copyright": false,
     "files": {
