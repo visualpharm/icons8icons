@@ -11398,7 +11398,6 @@
       "photo",
       "camera",
       "slr",
-      "digital",
       "cinema",
       "lens",
       "shot",
@@ -25557,6 +25556,7 @@
       "technology",
       "mobile",
       "icon",
+      "server",
       "electronic",
       "email",
       "website",
@@ -25571,8 +25571,7 @@
       "information electronic",
       "sparrow",
       "hotmail",
-      "email button",
-      "contac"
+      "email button"
     ],
     "copyright": false,
     "files": {
