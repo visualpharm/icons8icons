@@ -43552,7 +43552,6 @@
       "cell",
       "phone",
       "cellphone",
-      "smartphone",
       "device",
       "message",
       "sms",
@@ -43566,7 +43565,8 @@
       "touch screen",
       "samsung",
       "lg",
-      "OP"
+      "OP",
+      "smartphone"
     ],
     "copyright": false,
     "files": {
