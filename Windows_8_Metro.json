@@ -3697,6 +3697,48 @@
     }
   },
   {
+    "id": 5433,
+    "name": "antivirus_scanner",
+    "platform": "Windows 8/Metro",
+    "category": "Security",
+    "created": 1406825482,
+    "tags": [
+      "good",
+      "protection",
+      "internet",
+      "scan",
+      "system",
+      "scanner",
+      "virus",
+      "safety",
+      "bug",
+      "computer",
+      "smooth",
+      "ANTIVIRUS",
+      "seek",
+      "anti",
+      "trojan",
+      "spyware",
+      "norton",
+      "mcafee"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Security/antivirus_scanner.svg",
+      "svg.simplified": "/SVG_for_Font/Security/antivirus_scanner.svg",
+      "eps": "/EPS/Security/antivirus_scanner.eps",
+      "png": {
+        "32": "/PNG/32/Security/antivirus_scanner-32.png",
+        "128": "/PNG/128/Security/antivirus_scanner-128.png",
+        "26": "/PNG/26/Security/antivirus_scanner-26.png",
+        "256": "/PNG/256/Security/antivirus_scanner-256.png",
+        "512": "/PNG/512/Security/antivirus_scanner-512.png",
+        "64": "/PNG/64/Security/antivirus_scanner-64.png",
+        "48": "/PNG/48/Security/antivirus_scanner-48.png"
+      }
+    }
+  },
+  {
     "id": 1975,
     "name": "anubis",
     "platform": "Windows 8/Metro",
@@ -6546,6 +6588,7 @@
       "shopping",
       "brand",
       "head",
+      "list",
       "clothes",
       "score",
       "game",
@@ -7648,6 +7691,50 @@
         "512": "/PNG/512/Clothing/beeswax2-512.png",
         "64": "/PNG/64/Clothing/beeswax2-64.png",
         "48": "/PNG/48/Clothing/beeswax2-48.png"
+      }
+    }
+  },
+  {
+    "id": 5431,
+    "name": "behavior_blocker",
+    "platform": "Windows 8/Metro",
+    "category": "Security",
+    "created": 1406825482,
+    "tags": [
+      "deny",
+      "restricted",
+      "stop",
+      "block",
+      "not allowed",
+      "no",
+      "ads",
+      "behavior",
+      "denied",
+      "halted",
+      "terminate",
+      "ad-blocker",
+      "no ads",
+      "ad blocking",
+      "ad stop",
+      "blocking ads",
+      "advertisements",
+      "banner blocker",
+      "stop ads",
+      "advertisement blocker"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Security/behavior_blocker.svg",
+      "svg.simplified": "/SVG_for_Font/Security/behavior_blocker.svg",
+      "eps": "/EPS/Security/behavior_blocker.eps",
+      "png": {
+        "32": "/PNG/32/Security/behavior_blocker-32.png",
+        "128": "/PNG/128/Security/behavior_blocker-128.png",
+        "26": "/PNG/26/Security/behavior_blocker-26.png",
+        "256": "/PNG/256/Security/behavior_blocker-256.png",
+        "512": "/PNG/512/Security/behavior_blocker-512.png",
+        "64": "/PNG/64/Security/behavior_blocker-64.png",
+        "48": "/PNG/48/Security/behavior_blocker-48.png"
       }
     }
   },
@@ -11445,6 +11532,31 @@
         "512": "/PNG/512/Photo_Video/camcoder_pro-512.png",
         "64": "/PNG/64/Photo_Video/camcoder_pro-64.png",
         "48": "/PNG/48/Photo_Video/camcoder_pro-48.png"
+      }
+    }
+  },
+  {
+    "id": 5401,
+    "name": "camera",
+    "platform": "Windows 8/Metro",
+    "category": "Photo and Video",
+    "created": 1406825482,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Photo_Video/camera.svg",
+      "svg.simplified": "/SVG_for_Font/Photo_Video/camera.svg",
+      "eps": "/EPS/Photo_Video/camera.eps",
+      "png": {
+        "32": "/PNG/32/Photo_Video/camera-32.png",
+        "128": "/PNG/128/Photo_Video/camera-128.png",
+        "26": "/PNG/26/Photo_Video/camera-26.png",
+        "256": "/PNG/256/Photo_Video/camera-256.png",
+        "512": "/PNG/512/Photo_Video/camera-512.png",
+        "64": "/PNG/64/Photo_Video/camera-64.png",
+        "48": "/PNG/48/Photo_Video/camera-48.png"
       }
     }
   },
@@ -22080,6 +22192,44 @@
     }
   },
   {
+    "id": 1318,
+    "name": "dinghy",
+    "platform": "Windows 8/Metro",
+    "category": "Transport",
+    "created": 1353500067,
+    "tags": [
+      "sport",
+      "travel",
+      "athlete",
+      "boat crew",
+      "leadership",
+      "teamwork",
+      "water sport",
+      "competitive sport",
+      "competition",
+      "championship",
+      "paddle",
+      "canoe",
+      "physical activity",
+      "olympic"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Transport/dinghy.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/dinghy.svg",
+      "eps": "/EPS/Transport/dinghy.eps",
+      "png": {
+        "32": "/PNG/32/Transport/dinghy-32.png",
+        "128": "/PNG/128/Transport/dinghy-128.png",
+        "26": "/PNG/26/Transport/dinghy-26.png",
+        "256": "/PNG/256/Transport/dinghy-256.png",
+        "512": "/PNG/512/Transport/dinghy-512.png",
+        "64": "/PNG/64/Transport/dinghy-64.png",
+        "48": "/PNG/48/Transport/dinghy-48.png"
+      }
+    }
+  },
+  {
     "id": 1631,
     "name": "dining_room",
     "platform": "Windows 8/Metro",
@@ -23721,6 +23871,142 @@
         "512": "/PNG/512/Ecommerce/do_not_expose_to_sunlight-512.png",
         "64": "/PNG/64/Ecommerce/do_not_expose_to_sunlight-64.png",
         "48": "/PNG/48/Ecommerce/do_not_expose_to_sunlight-48.png"
+      }
+    }
+  },
+  {
+    "id": 5428,
+    "name": "do_not_inhale",
+    "platform": "Windows 8/Metro",
+    "category": "Industry",
+    "created": 1406825482,
+    "tags": [
+      "fumes",
+      "bill",
+      "warning",
+      "safety",
+      "gas",
+      "caution",
+      "smoke",
+      "danger",
+      "hazardous",
+      "harmful",
+      "poisonous",
+      "chemical",
+      "nose",
+      "muzzle",
+      "beak",
+      "trunk",
+      "proboscis",
+      "snout",
+      "irritation",
+      "sniffer",
+      "snoot",
+      "schnoz"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/do_not_inhale.svg",
+      "svg.simplified": "/SVG_for_Font/Industry/do_not_inhale.svg",
+      "eps": "/EPS/Industry/do_not_inhale.eps",
+      "png": {
+        "32": "/PNG/32/Industry/do_not_inhale-32.png",
+        "128": "/PNG/128/Industry/do_not_inhale-128.png",
+        "26": "/PNG/26/Industry/do_not_inhale-26.png",
+        "256": "/PNG/256/Industry/do_not_inhale-256.png",
+        "512": "/PNG/512/Industry/do_not_inhale-512.png",
+        "64": "/PNG/64/Industry/do_not_inhale-64.png",
+        "48": "/PNG/48/Industry/do_not_inhale-48.png"
+      }
+    }
+  },
+  {
+    "id": 5430,
+    "name": "do_not_insert",
+    "platform": "Windows 8/Metro",
+    "category": "Industry",
+    "created": 1406825482,
+    "tags": [
+      "arrow",
+      "direction",
+      "pour",
+      "caution",
+      "insert",
+      "lift",
+      "raise",
+      "lid",
+      "vessel",
+      "opened",
+      "closed",
+      "do not fill",
+      "dont use",
+      "check the level before use",
+      "easily damaged stock",
+      "glass items",
+      "dont put",
+      "dont use here",
+      "dont use pan",
+      "avoid use"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/do_not_insert.svg",
+      "svg.simplified": "/SVG_for_Font/Industry/do_not_insert.svg",
+      "eps": "/EPS/Industry/do_not_insert.eps",
+      "png": {
+        "32": "/PNG/32/Industry/do_not_insert-32.png",
+        "128": "/PNG/128/Industry/do_not_insert-128.png",
+        "26": "/PNG/26/Industry/do_not_insert-26.png",
+        "256": "/PNG/256/Industry/do_not_insert-256.png",
+        "512": "/PNG/512/Industry/do_not_insert-512.png",
+        "64": "/PNG/64/Industry/do_not_insert-64.png",
+        "48": "/PNG/48/Industry/do_not_insert-48.png"
+      }
+    }
+  },
+  {
+    "id": 5429,
+    "name": "do_not_mix",
+    "platform": "Windows 8/Metro",
+    "category": "Industry",
+    "created": 1406825482,
+    "tags": [
+      "cross",
+      "arrow",
+      "combine",
+      "label",
+      "stop",
+      "mix",
+      "intersect",
+      "flow",
+      "junction",
+      "interchange",
+      "mix hazard",
+      "do not combine",
+      "reactive",
+      "chemical hazard",
+      "unsafe to mix",
+      "dangerous if mixed",
+      "no mixing",
+      "safety warning",
+      "potentially hazardous",
+      "not for mixing",
+      "use alone",
+      "dont mix"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/do_not_mix.svg",
+      "svg.simplified": "/SVG_for_Font/Industry/do_not_mix.svg",
+      "eps": "/EPS/Industry/do_not_mix.eps",
+      "png": {
+        "32": "/PNG/32/Industry/do_not_mix-32.png",
+        "128": "/PNG/128/Industry/do_not_mix-128.png",
+        "26": "/PNG/26/Industry/do_not_mix-26.png",
+        "256": "/PNG/256/Industry/do_not_mix-256.png",
+        "512": "/PNG/512/Industry/do_not_mix-512.png",
+        "64": "/PNG/64/Industry/do_not_mix-64.png",
+        "48": "/PNG/48/Industry/do_not_mix-48.png"
       }
     }
   },
@@ -34559,6 +34845,7 @@
       "contact",
       "company",
       "brainstorming",
+      "test",
       "todo",
       "purpul",
       "conference",
@@ -35288,6 +35575,47 @@
         "512": "/PNG/512/Sports/handball-512.png",
         "64": "/PNG/64/Sports/handball-64.png",
         "48": "/PNG/48/Sports/handball-48.png"
+      }
+    }
+  },
+  {
+    "id": 5403,
+    "name": "handcuffs",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1406825482,
+    "tags": [
+      "security",
+      "prison",
+      "police",
+      "law",
+      "criminal",
+      "thief",
+      "crime",
+      "arrest",
+      "justice",
+      "jail",
+      "custody",
+      "punishment",
+      "handcuffs",
+      "prisoner",
+      "lockup",
+      "cuff",
+      "suspicious"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/handcuffs.svg",
+      "svg.simplified": "/SVG_for_Font/City/handcuffs.svg",
+      "eps": "/EPS/City/handcuffs.eps",
+      "png": {
+        "32": "/PNG/32/City/handcuffs-32.png",
+        "128": "/PNG/128/City/handcuffs-128.png",
+        "26": "/PNG/26/City/handcuffs-26.png",
+        "256": "/PNG/256/City/handcuffs-256.png",
+        "512": "/PNG/512/City/handcuffs-512.png",
+        "64": "/PNG/64/City/handcuffs-64.png",
+        "48": "/PNG/48/City/handcuffs-48.png"
       }
     }
   },
@@ -40786,6 +41114,53 @@
     }
   },
   {
+    "id": 5419,
+    "name": "keep_away_from_children",
+    "platform": "Windows 8/Metro",
+    "category": "Baby",
+    "created": 1406825482,
+    "tags": [
+      "good",
+      "child",
+      "smile",
+      "safety",
+      "funny",
+      "adult",
+      "wrong",
+      "stay",
+      "away",
+      "parents",
+      "guardian",
+      "for adults only",
+      "not for children",
+      "not child-safe",
+      "not a toy",
+      "ages 18",
+      "adult use only",
+      "not for kids",
+      "not childproof",
+      "age-restricted",
+      "adult use",
+      "18 and over",
+      "parental warning"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Baby/keep_away_from_children.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/keep_away_from_children.svg",
+      "eps": "/EPS/Baby/keep_away_from_children.eps",
+      "png": {
+        "32": "/PNG/32/Baby/keep_away_from_children-32.png",
+        "128": "/PNG/128/Baby/keep_away_from_children-128.png",
+        "26": "/PNG/26/Baby/keep_away_from_children-26.png",
+        "256": "/PNG/256/Baby/keep_away_from_children-256.png",
+        "512": "/PNG/512/Baby/keep_away_from_children-512.png",
+        "64": "/PNG/64/Baby/keep_away_from_children-64.png",
+        "48": "/PNG/48/Baby/keep_away_from_children-48.png"
+      }
+    }
+  },
+  {
     "id": 2637,
     "name": "keep_dry",
     "platform": "Windows 8/Metro",
@@ -41148,6 +41523,52 @@
         "512": "/PNG/512/Household/kitchen-512.png",
         "64": "/PNG/64/Household/kitchen-64.png",
         "48": "/PNG/48/Household/kitchen-48.png"
+      }
+    }
+  },
+  {
+    "id": 5423,
+    "name": "kitesurfing",
+    "platform": "Windows 8/Metro",
+    "category": "Sports",
+    "created": 1406825482,
+    "tags": [
+      "fun",
+      "sport",
+      "speed",
+      "wind",
+      "water",
+      "beach",
+      "energy",
+      "flying",
+      "sailing",
+      "skill",
+      "wave",
+      "dynamic",
+      "athletic",
+      "Surfing",
+      "acrobatic",
+      "watersports",
+      "kiteboard",
+      "kitesurfing",
+      "splashing",
+      "kiteboarding",
+      "kitesurf",
+      "adrenaline"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/kitesurfing.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/kitesurfing.svg",
+      "eps": "/EPS/Sports/kitesurfing.eps",
+      "png": {
+        "32": "/PNG/32/Sports/kitesurfing-32.png",
+        "128": "/PNG/128/Sports/kitesurfing-128.png",
+        "26": "/PNG/26/Sports/kitesurfing-26.png",
+        "256": "/PNG/256/Sports/kitesurfing-256.png",
+        "512": "/PNG/512/Sports/kitesurfing-512.png",
+        "64": "/PNG/64/Sports/kitesurfing-64.png",
+        "48": "/PNG/48/Sports/kitesurfing-48.png"
       }
     }
   },
@@ -51482,6 +51903,54 @@
     }
   },
   {
+    "id": 5417,
+    "name": "not_suitable_for_children_under_age_x",
+    "platform": "Windows 8/Metro",
+    "category": "Baby",
+    "created": 1406825482,
+    "tags": [
+      "label",
+      "restricted",
+      "child",
+      "warning",
+      "baby",
+      "caution",
+      "not allowed",
+      "parenting",
+      "forbidden",
+      "teenager",
+      "reminder",
+      "sticker",
+      "kid",
+      "restriction",
+      "sensitive",
+      "society",
+      "rule",
+      "prohibited",
+      "not permitted",
+      "adults only",
+      "tatoo",
+      "controversial",
+      "anti-child",
+      "regulation"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Baby/not_suitable_for_children_under_age_x.svg",
+      "svg.simplified": "/SVG_for_Font/Baby/not_suitable_for_children_under_age_x.svg",
+      "eps": "/EPS/Baby/not_suitable_for_children_under_age_x.eps",
+      "png": {
+        "32": "/PNG/32/Baby/not_suitable_for_children_under_age_x-32.png",
+        "128": "/PNG/128/Baby/not_suitable_for_children_under_age_x-128.png",
+        "26": "/PNG/26/Baby/not_suitable_for_children_under_age_x-26.png",
+        "256": "/PNG/256/Baby/not_suitable_for_children_under_age_x-256.png",
+        "512": "/PNG/512/Baby/not_suitable_for_children_under_age_x-512.png",
+        "64": "/PNG/64/Baby/not_suitable_for_children_under_age_x-64.png",
+        "48": "/PNG/48/Baby/not_suitable_for_children_under_age_x-48.png"
+      }
+    }
+  },
+  {
     "id": 594,
     "name": "novel",
     "platform": "Windows 8/Metro",
@@ -51603,6 +52072,226 @@
     }
   },
   {
+    "id": 5411,
+    "name": "no_animals",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1406825482,
+    "tags": [
+      "dog",
+      "home",
+      "door",
+      "security",
+      "restricted",
+      "warning",
+      "safety",
+      "animals",
+      "not allowed",
+      "contemporary",
+      "safe",
+      "dangerous",
+      "zone",
+      "prohibition",
+      "regulations",
+      "bite",
+      "no entry",
+      "prevention",
+      "secuere",
+      "treatement",
+      "precaution",
+      "guideline"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/no_animals.svg",
+      "svg.simplified": "/SVG_for_Font/City/no_animals.svg",
+      "eps": "/EPS/City/no_animals.eps",
+      "png": {
+        "32": "/PNG/32/City/no_animals-32.png",
+        "128": "/PNG/128/City/no_animals-128.png",
+        "26": "/PNG/26/City/no_animals-26.png",
+        "256": "/PNG/256/City/no_animals-256.png",
+        "512": "/PNG/512/City/no_animals-512.png",
+        "64": "/PNG/64/City/no_animals-64.png",
+        "48": "/PNG/48/City/no_animals-48.png"
+      }
+    }
+  },
+  {
+    "id": 5406,
+    "name": "no_baggage",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1406825482,
+    "tags": [
+      "briefcase",
+      "bag",
+      "case",
+      "carryall",
+      "suitcase",
+      "luggage",
+      "baggage",
+      "holder",
+      "carry on",
+      "document holder"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/no_baggage.svg",
+      "svg.simplified": "/SVG_for_Font/City/no_baggage.svg",
+      "eps": "/EPS/City/no_baggage.eps",
+      "png": {
+        "32": "/PNG/32/City/no_baggage-32.png",
+        "128": "/PNG/128/City/no_baggage-128.png",
+        "26": "/PNG/26/City/no_baggage-26.png",
+        "256": "/PNG/256/City/no_baggage-256.png",
+        "512": "/PNG/512/City/no_baggage-512.png",
+        "64": "/PNG/64/City/no_baggage-64.png",
+        "48": "/PNG/48/City/no_baggage-48.png"
+      }
+    }
+  },
+  {
+    "id": 5405,
+    "name": "no_beverages",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1406825482,
+    "tags": [
+      "beverage",
+      "drink",
+      "diet",
+      "unhealthy",
+      "ban",
+      "harmful",
+      "no drinks",
+      "no beverages",
+      "no beverage allowed",
+      "no drinks allowed",
+      "no coffee",
+      "do not drink",
+      "dont drink",
+      "no liquids allowed",
+      "no drinking please",
+      "no beverages allowed",
+      "fastfood",
+      "overweight",
+      "cholesterol",
+      "prohibiting",
+      "drink danger label"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/no_beverages.svg",
+      "svg.simplified": "/SVG_for_Font/City/no_beverages.svg",
+      "eps": "/EPS/City/no_beverages.eps",
+      "png": {
+        "32": "/PNG/32/City/no_beverages-32.png",
+        "128": "/PNG/128/City/no_beverages-128.png",
+        "26": "/PNG/26/City/no_beverages-26.png",
+        "256": "/PNG/256/City/no_beverages-256.png",
+        "512": "/PNG/512/City/no_beverages-512.png",
+        "64": "/PNG/64/City/no_beverages-64.png",
+        "48": "/PNG/48/City/no_beverages-48.png"
+      }
+    }
+  },
+  {
+    "id": 5412,
+    "name": "no_camera",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1406825482,
+    "tags": [
+      "image file",
+      "photo",
+      "stop",
+      "warning",
+      "camera",
+      "banner",
+      "caution",
+      "red",
+      "alert",
+      "illegal",
+      "allowed",
+      "restrictions",
+      "missing image",
+      "no photo",
+      "no camera",
+      "broken image",
+      "no picture",
+      "no pictures allowed",
+      "no cameras allowed",
+      "broken camera",
+      "no photography"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/no_camera.svg",
+      "svg.simplified": "/SVG_for_Font/City/no_camera.svg",
+      "eps": "/EPS/City/no_camera.eps",
+      "png": {
+        "32": "/PNG/32/City/no_camera-32.png",
+        "128": "/PNG/128/City/no_camera-128.png",
+        "26": "/PNG/26/City/no_camera-26.png",
+        "256": "/PNG/256/City/no_camera-256.png",
+        "512": "/PNG/512/City/no_camera-512.png",
+        "64": "/PNG/64/City/no_camera-64.png",
+        "48": "/PNG/48/City/no_camera-48.png"
+      }
+    }
+  },
+  {
+    "id": 5404,
+    "name": "no_cash",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1406825482,
+    "tags": [
+      "cash",
+      "bank",
+      "idea",
+      "information",
+      "access",
+      "business",
+      "tablet",
+      "payment",
+      "money",
+      "economy",
+      "warning",
+      "safety",
+      "limit",
+      "finance",
+      "forbidden",
+      "template",
+      "glossy",
+      "ban",
+      "render",
+      "restriction",
+      "transaction",
+      "prohibition",
+      "rupee",
+      "lend",
+      "mandatory",
+      "not-allowed"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/no_cash.svg",
+      "svg.simplified": "/SVG_for_Font/City/no_cash.svg",
+      "eps": "/EPS/City/no_cash.eps",
+      "png": {
+        "32": "/PNG/32/City/no_cash-32.png",
+        "128": "/PNG/128/City/no_cash-128.png",
+        "26": "/PNG/26/City/no_cash-26.png",
+        "256": "/PNG/256/City/no_cash-256.png",
+        "512": "/PNG/512/City/no_cash-512.png",
+        "64": "/PNG/64/City/no_cash-64.png",
+        "48": "/PNG/48/City/no_cash-48.png"
+      }
+    }
+  },
+  {
     "id": 753,
     "name": "no_connection",
     "platform": "Windows 8/Metro",
@@ -51633,6 +52322,77 @@
         "512": "/PNG/512/Network/no_connection-512.png",
         "64": "/PNG/64/Network/no_connection-64.png",
         "48": "/PNG/48/Network/no_connection-48.png"
+      }
+    }
+  },
+  {
+    "id": 5410,
+    "name": "no_credit_cards",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1406825482,
+    "tags": [
+      "cash",
+      "bank",
+      "good",
+      "date",
+      "approved",
+      "check",
+      "paper",
+      "information",
+      "access",
+      "numbers",
+      "data",
+      "documents",
+      "cards",
+      "payment",
+      "bar code",
+      "credit",
+      "loan",
+      "account",
+      "swipe",
+      "report",
+      "store",
+      "error",
+      "balance",
+      "offers",
+      "solutions",
+      "bad",
+      "free",
+      "credit card",
+      "side",
+      "history",
+      "no",
+      "plastic",
+      "visa",
+      "debt",
+      "interest",
+      "black and white",
+      "student",
+      "clip art",
+      "back",
+      "management",
+      "secured",
+      "sensitivity",
+      "annual",
+      "process",
+      "magnetic",
+      "apply",
+      "ra"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/no_credit_cards.svg",
+      "svg.simplified": "/SVG_for_Font/City/no_credit_cards.svg",
+      "eps": "/EPS/City/no_credit_cards.eps",
+      "png": {
+        "32": "/PNG/32/City/no_credit_cards-32.png",
+        "128": "/PNG/128/City/no_credit_cards-128.png",
+        "26": "/PNG/26/City/no_credit_cards-26.png",
+        "256": "/PNG/256/City/no_credit_cards-256.png",
+        "512": "/PNG/512/City/no_credit_cards-512.png",
+        "64": "/PNG/64/City/no_credit_cards-64.png",
+        "48": "/PNG/48/City/no_credit_cards-48.png"
       }
     }
   },
@@ -51774,6 +52534,47 @@
         "512": "/PNG/512/Food/no_eggs-512.png",
         "64": "/PNG/64/Food/no_eggs-64.png",
         "48": "/PNG/48/Food/no_eggs-48.png"
+      }
+    }
+  },
+  {
+    "id": 5407,
+    "name": "no_food",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1406825482,
+    "tags": [
+      "food",
+      "beverage",
+      "drink",
+      "restricted",
+      "eat",
+      "diet",
+      "unhealthy",
+      "forbidden",
+      "forbid",
+      "junk",
+      "prohibit",
+      "prohibited",
+      "fastfood",
+      "overweight",
+      "banned",
+      "cholesterol",
+      "placard"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/no_food.svg",
+      "svg.simplified": "/SVG_for_Font/City/no_food.svg",
+      "eps": "/EPS/City/no_food.eps",
+      "png": {
+        "32": "/PNG/32/City/no_food-32.png",
+        "128": "/PNG/128/City/no_food-128.png",
+        "26": "/PNG/26/City/no_food-26.png",
+        "256": "/PNG/256/City/no_food-256.png",
+        "512": "/PNG/512/City/no_food-512.png",
+        "64": "/PNG/64/City/no_food-64.png",
+        "48": "/PNG/48/City/no_food-48.png"
       }
     }
   },
@@ -51930,6 +52731,79 @@
         "512": "/PNG/512/City/no_smoking-512.png",
         "64": "/PNG/64/City/no_smoking-64.png",
         "48": "/PNG/48/City/no_smoking-48.png"
+      }
+    }
+  },
+  {
+    "id": 5408,
+    "name": "no_weapons",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1406825482,
+    "tags": [
+      "device",
+      "control",
+      "fire",
+      "military",
+      "wound",
+      "weapon",
+      "security",
+      "bullets",
+      "weapons",
+      "conflict",
+      "sale",
+      "sport",
+      "machine",
+      "happy",
+      "safety",
+      "features",
+      "equipment",
+      "peace",
+      "police",
+      "gun",
+      "pistol",
+      "guns",
+      "no",
+      "pressure",
+      "piece",
+      "fist",
+      "law",
+      "trigger",
+      "ban",
+      "target",
+      "automatic",
+      "violence",
+      "pull",
+      "use",
+      "public",
+      "checks",
+      "strap",
+      "harmless",
+      "projectile",
+      "firearm",
+      "muzzle",
+      "carrying",
+      "arms",
+      "campaign",
+      "war",
+      "battle",
+      "enforcement",
+      "crimes",
+      "sho"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/no_weapons.svg",
+      "svg.simplified": "/SVG_for_Font/City/no_weapons.svg",
+      "eps": "/EPS/City/no_weapons.eps",
+      "png": {
+        "32": "/PNG/32/City/no_weapons-32.png",
+        "128": "/PNG/128/City/no_weapons-128.png",
+        "26": "/PNG/26/City/no_weapons-26.png",
+        "256": "/PNG/256/City/no_weapons-256.png",
+        "512": "/PNG/512/City/no_weapons-512.png",
+        "64": "/PNG/64/City/no_weapons-64.png",
+        "48": "/PNG/48/City/no_weapons-48.png"
       }
     }
   },
@@ -53545,7 +54419,8 @@
       "featured",
       "tag",
       "flag",
-      "rating"
+      "rating",
+      "123"
     ],
     "copyright": false,
     "files": {
@@ -55033,6 +55908,97 @@
     }
   },
   {
+    "id": 5415,
+    "name": "paste",
+    "platform": "Windows 8/Metro",
+    "category": "Editing",
+    "created": 1406825482,
+    "tags": [
+      "copy file",
+      "file",
+      "information",
+      "data",
+      "printed",
+      "lines",
+      "rectangle",
+      "large",
+      "double",
+      "short",
+      "copy text",
+      "document copy",
+      "document file",
+      "question and answer",
+      "mail page",
+      "paper copy",
+      "description file",
+      "letter file",
+      "print copy",
+      "exam questionnaire",
+      "copied article",
+      "valuble"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Editing/paste.svg",
+      "svg.simplified": "/SVG_for_Font/Editing/paste.svg",
+      "eps": "/EPS/Editing/paste.eps",
+      "png": {
+        "32": "/PNG/32/Editing/paste-32.png",
+        "128": "/PNG/128/Editing/paste-128.png",
+        "26": "/PNG/26/Editing/paste-26.png",
+        "256": "/PNG/256/Editing/paste-256.png",
+        "512": "/PNG/512/Editing/paste-512.png",
+        "64": "/PNG/64/Editing/paste-64.png",
+        "48": "/PNG/48/Editing/paste-48.png"
+      }
+    }
+  },
+  {
+    "id": 5413,
+    "name": "paste_special",
+    "platform": "Windows 8/Metro",
+    "category": "Editing",
+    "created": 1406825482,
+    "tags": [
+      "file",
+      "star",
+      "private",
+      "save",
+      "personal",
+      "photo",
+      "keep",
+      "clipboard",
+      "special",
+      "unique",
+      "amazing",
+      "greater",
+      "urgent",
+      "tiny",
+      "saved",
+      "copied",
+      "single star",
+      "fair",
+      "dear",
+      "framed",
+      "star rated"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Editing/paste_special.svg",
+      "svg.simplified": "/SVG_for_Font/Editing/paste_special.svg",
+      "eps": "/EPS/Editing/paste_special.eps",
+      "png": {
+        "32": "/PNG/32/Editing/paste_special-32.png",
+        "128": "/PNG/128/Editing/paste_special-128.png",
+        "26": "/PNG/26/Editing/paste_special-26.png",
+        "256": "/PNG/256/Editing/paste_special-256.png",
+        "512": "/PNG/512/Editing/paste_special-512.png",
+        "64": "/PNG/64/Editing/paste_special-64.png",
+        "48": "/PNG/48/Editing/paste_special-48.png"
+      }
+    }
+  },
+  {
     "id": 4125,
     "name": "pastry_bag",
     "platform": "Windows 8/Metro",
@@ -56253,6 +57219,48 @@
         "512": "/PNG/512/Animals/pig2-512.png",
         "64": "/PNG/64/Animals/pig2-64.png",
         "48": "/PNG/48/Animals/pig2-48.png"
+      }
+    }
+  },
+  {
+    "id": 5425,
+    "name": "pilates",
+    "platform": "Windows 8/Metro",
+    "category": "Sports",
+    "created": 1406825482,
+    "tags": [
+      "physical",
+      "fitness",
+      "exercise",
+      "lifestyle",
+      "yoga",
+      "gym",
+      "relaxation",
+      "healthy",
+      "movement",
+      "practice",
+      "aerobics",
+      "gymnastics",
+      "workout",
+      "roman",
+      "breathing",
+      "flexibility",
+      "gymnasium",
+      "rehabilitation"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/pilates.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/pilates.svg",
+      "eps": "/EPS/Sports/pilates.eps",
+      "png": {
+        "32": "/PNG/32/Sports/pilates-32.png",
+        "128": "/PNG/128/Sports/pilates-128.png",
+        "26": "/PNG/26/Sports/pilates-26.png",
+        "256": "/PNG/256/Sports/pilates-256.png",
+        "512": "/PNG/512/Sports/pilates-512.png",
+        "64": "/PNG/64/Sports/pilates-64.png",
+        "48": "/PNG/48/Sports/pilates-48.png"
       }
     }
   },
@@ -58049,6 +59057,46 @@
         "512": "/PNG/512/Users/police-512.png",
         "64": "/PNG/64/Users/police-64.png",
         "48": "/PNG/48/Users/police-48.png"
+      }
+    }
+  },
+  {
+    "id": 5409,
+    "name": "police_badge",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1406825482,
+    "tags": [
+      "protection",
+      "security",
+      "badge",
+      "police",
+      "shield",
+      "uniform",
+      "law",
+      "cop",
+      "justice",
+      "policeman",
+      "official badge",
+      "policemen",
+      "honor",
+      "police badge",
+      "police sign",
+      "special officer badge"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/police_badge.svg",
+      "svg.simplified": "/SVG_for_Font/City/police_badge.svg",
+      "eps": "/EPS/City/police_badge.eps",
+      "png": {
+        "32": "/PNG/32/City/police_badge-32.png",
+        "128": "/PNG/128/City/police_badge-128.png",
+        "26": "/PNG/26/City/police_badge-26.png",
+        "256": "/PNG/256/City/police_badge-256.png",
+        "512": "/PNG/512/City/police_badge-512.png",
+        "64": "/PNG/64/City/police_badge-64.png",
+        "48": "/PNG/48/City/police_badge-48.png"
       }
     }
   },
@@ -61720,6 +62768,51 @@
     }
   },
   {
+    "id": 5432,
+    "name": "realtime_protection",
+    "platform": "Windows 8/Metro",
+    "category": "Security",
+    "created": 1406825482,
+    "tags": [
+      "clock",
+      "day",
+      "tick",
+      "time",
+      "minute",
+      "hour",
+      "second",
+      "protection",
+      "work",
+      "system",
+      "timer",
+      "virus",
+      "safety",
+      "computer",
+      "quick",
+      "countdown",
+      "clock hand",
+      "minute hand",
+      "useful",
+      "realtime",
+      "second hand"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Security/realtime_protection.svg",
+      "svg.simplified": "/SVG_for_Font/Security/realtime_protection.svg",
+      "eps": "/EPS/Security/realtime_protection.eps",
+      "png": {
+        "32": "/PNG/32/Security/realtime_protection-32.png",
+        "128": "/PNG/128/Security/realtime_protection-128.png",
+        "26": "/PNG/26/Security/realtime_protection-26.png",
+        "256": "/PNG/256/Security/realtime_protection-256.png",
+        "512": "/PNG/512/Security/realtime_protection-512.png",
+        "64": "/PNG/64/Security/realtime_protection-64.png",
+        "48": "/PNG/48/Security/realtime_protection-48.png"
+      }
+    }
+  },
+  {
     "id": 401,
     "name": "record",
     "platform": "Windows 8/Metro",
@@ -65339,6 +66432,31 @@
     }
   },
   {
+    "id": 5397,
+    "name": "satellite",
+    "platform": "Windows 8/Metro",
+    "category": "Maps",
+    "created": 1406825482,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Maps/satellite.svg",
+      "svg.simplified": "/SVG_for_Font/Maps/satellite.svg",
+      "eps": "/EPS/Maps/satellite.eps",
+      "png": {
+        "32": "/PNG/32/Maps/satellite-32.png",
+        "128": "/PNG/128/Maps/satellite-128.png",
+        "26": "/PNG/26/Maps/satellite-26.png",
+        "256": "/PNG/256/Maps/satellite-256.png",
+        "512": "/PNG/512/Maps/satellite-512.png",
+        "64": "/PNG/64/Maps/satellite-64.png",
+        "48": "/PNG/48/Maps/satellite-48.png"
+      }
+    }
+  },
+  {
     "id": 2237,
     "name": "satellites",
     "platform": "Windows 8/Metro",
@@ -65407,6 +66525,31 @@
         "512": "/PNG/512/Maps/satellite_in_orbit-512.png",
         "64": "/PNG/64/Maps/satellite_in_orbit-64.png",
         "48": "/PNG/48/Maps/satellite_in_orbit-48.png"
+      }
+    }
+  },
+  {
+    "id": 5399,
+    "name": "satellite_sending_signal",
+    "platform": "Windows 8/Metro",
+    "category": "Maps",
+    "created": 1406825482,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Maps/satellite_sending_signal.svg",
+      "svg.simplified": "/SVG_for_Font/Maps/satellite_sending_signal.svg",
+      "eps": "/EPS/Maps/satellite_sending_signal.eps",
+      "png": {
+        "32": "/PNG/32/Maps/satellite_sending_signal-32.png",
+        "128": "/PNG/128/Maps/satellite_sending_signal-128.png",
+        "26": "/PNG/26/Maps/satellite_sending_signal-26.png",
+        "256": "/PNG/256/Maps/satellite_sending_signal-256.png",
+        "512": "/PNG/512/Maps/satellite_sending_signal-512.png",
+        "64": "/PNG/64/Maps/satellite_sending_signal-64.png",
+        "48": "/PNG/48/Maps/satellite_sending_signal-48.png"
       }
     }
   },
@@ -71441,7 +72584,6 @@
       "human",
       "people",
       "symbol",
-      "run",
       "sport",
       "image",
       "graphic",
@@ -71472,13 +72614,15 @@
       "olympian",
       "work out",
       "jogger",
-      "fitness",
+      "walk",
       "motion",
       "icon",
       "activity",
       "body",
       "workout",
       "athletic",
+      "senthil",
+      "fitness",
       "runner"
     ],
     "copyright": false,
@@ -73494,6 +74638,7 @@
     "category": "Healthcare",
     "created": 1397155911,
     "tags": [
+      "social",
       "dangerous",
       "scary",
       "rope",
@@ -73915,6 +75060,49 @@
         "512": "/PNG/512/Science/surface-512.png",
         "64": "/PNG/64/Science/surface-64.png",
         "48": "/PNG/48/Science/surface-48.png"
+      }
+    }
+  },
+  {
+    "id": 5424,
+    "name": "surfing",
+    "platform": "Windows 8/Metro",
+    "category": "Sports",
+    "created": 1406825482,
+    "tags": [
+      "fun",
+      "surf",
+      "beach",
+      "exercise",
+      "sports",
+      "outdoor",
+      "energy",
+      "adventure",
+      "wave",
+      "holidays",
+      "leisure",
+      "time pass",
+      "waves",
+      "Surfing",
+      "surfboards",
+      "watersports",
+      "surfer",
+      "water sports",
+      "best sports"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/surfing.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/surfing.svg",
+      "eps": "/EPS/Sports/surfing.eps",
+      "png": {
+        "32": "/PNG/32/Sports/surfing-32.png",
+        "128": "/PNG/128/Sports/surfing-128.png",
+        "26": "/PNG/26/Sports/surfing-26.png",
+        "256": "/PNG/256/Sports/surfing-256.png",
+        "512": "/PNG/512/Sports/surfing-512.png",
+        "64": "/PNG/64/Sports/surfing-64.png",
+        "48": "/PNG/48/Sports/surfing-48.png"
       }
     }
   },
@@ -78494,6 +79682,49 @@
         "512": "/PNG/512/Cultures/torii-512.png",
         "64": "/PNG/64/Cultures/torii-64.png",
         "48": "/PNG/48/Cultures/torii-48.png"
+      }
+    }
+  },
+  {
+    "id": 5426,
+    "name": "tornado",
+    "platform": "Windows 8/Metro",
+    "category": "Weather",
+    "created": 1406825482,
+    "tags": [
+      "wind",
+      "pollution",
+      "weather",
+      "air",
+      "storm",
+      "power",
+      "force",
+      "danger",
+      "spiral",
+      "cloud",
+      "dust",
+      "damage",
+      "disaster",
+      "destruction",
+      "destroy",
+      "cyclone",
+      "twister",
+      "gust",
+      "spring time"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Weather/tornado.svg",
+      "svg.simplified": "/SVG_for_Font/Weather/tornado.svg",
+      "eps": "/EPS/Weather/tornado.eps",
+      "png": {
+        "32": "/PNG/32/Weather/tornado-32.png",
+        "128": "/PNG/128/Weather/tornado-128.png",
+        "26": "/PNG/26/Weather/tornado-26.png",
+        "256": "/PNG/256/Weather/tornado-256.png",
+        "512": "/PNG/512/Weather/tornado-512.png",
+        "64": "/PNG/64/Weather/tornado-64.png",
+        "48": "/PNG/48/Weather/tornado-48.png"
       }
     }
   },
@@ -85697,6 +86928,50 @@
         "512": "/PNG/512/Healthcare/wheelchair-512.png",
         "64": "/PNG/64/Healthcare/wheelchair-64.png",
         "48": "/PNG/48/Healthcare/wheelchair-48.png"
+      }
+    }
+  },
+  {
+    "id": 5421,
+    "name": "whistle",
+    "platform": "Windows 8/Metro",
+    "category": "Sports",
+    "created": 1406825482,
+    "tags": [
+      "alarm",
+      "hear",
+      "signal",
+      "timer",
+      "attention",
+      "bell",
+      "gym",
+      "whistle",
+      "race",
+      "urgent",
+      "blow",
+      "referee",
+      "buzzer",
+      "timed",
+      "to call",
+      "to give permission",
+      "shrill",
+      "screech",
+      "hoot",
+      "toot"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/whistle.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/whistle.svg",
+      "eps": "/EPS/Sports/whistle.eps",
+      "png": {
+        "32": "/PNG/32/Sports/whistle-32.png",
+        "128": "/PNG/128/Sports/whistle-128.png",
+        "26": "/PNG/26/Sports/whistle-26.png",
+        "256": "/PNG/256/Sports/whistle-256.png",
+        "512": "/PNG/512/Sports/whistle-512.png",
+        "64": "/PNG/64/Sports/whistle-64.png",
+        "48": "/PNG/48/Sports/whistle-48.png"
       }
     }
   },
