@@ -2163,6 +2163,49 @@
     }
   },
   {
+    "id": 5395,
+    "name": "antivirus_scanner",
+    "platform": "iPhone/iOS 7",
+    "category": "Security",
+    "created": 1406818275,
+    "tags": [
+      "good",
+      "protection",
+      "internet",
+      "scan",
+      "system",
+      "scanner",
+      "virus",
+      "safety",
+      "bug",
+      "computer",
+      "smooth",
+      "ANTIVIRUS",
+      "seek",
+      "anti",
+      "trojan",
+      "spyware",
+      "norton",
+      "mcafee"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Security/antivirus_scanner.svg",
+      "svg.simplified": "/SVG_for_Font/Security/antivirus_scanner.svg",
+      "eps": "/EPS/Security/antivirus_scanner.eps",
+      "png": {
+        "25": "/PNG/25/Security/antivirus_scanner-25.png",
+        "32": "/PNG/32/Security/antivirus_scanner-32.png",
+        "128": "/PNG/128/Security/antivirus_scanner-128.png",
+        "75": "/PNG/75/Security/antivirus_scanner-75.png",
+        "256": "/PNG/256/Security/antivirus_scanner-256.png",
+        "100": "/PNG/100/Security/antivirus_scanner-100.png",
+        "512": "/PNG/512/Security/antivirus_scanner-512.png",
+        "50": "/PNG/50/Security/antivirus_scanner-50.png"
+      }
+    }
+  },
+  {
     "id": 1976,
     "name": "anubis",
     "platform": "iPhone/iOS 7",
@@ -2273,7 +2316,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Security/application_shield.svg",
-      "svg.simplified": "/SVG_for_Font/Network/application_shield.svg",
+      "svg.simplified": "/SVG_for_Font/Security/application_shield.svg",
       "eps": "/EPS/Security/application_shield.eps",
       "png": {
         "25": "/PNG/25/Security/application_shield-25.png",
@@ -5251,6 +5294,51 @@
     }
   },
   {
+    "id": 5393,
+    "name": "behavior_blocker",
+    "platform": "iPhone/iOS 7",
+    "category": "Security",
+    "created": 1406818275,
+    "tags": [
+      "deny",
+      "restricted",
+      "stop",
+      "block",
+      "not allowed",
+      "no",
+      "ads",
+      "behavior",
+      "denied",
+      "halted",
+      "terminate",
+      "ad-blocker",
+      "no ads",
+      "ad blocking",
+      "ad stop",
+      "blocking ads",
+      "advertisements",
+      "banner blocker",
+      "stop ads",
+      "advertisement blocker"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Security/behavior_blocker.svg",
+      "svg.simplified": "/SVG_for_Font/Security/behavior_blocker.svg",
+      "eps": "/EPS/Security/behavior_blocker.eps",
+      "png": {
+        "25": "/PNG/25/Security/behavior_blocker-25.png",
+        "32": "/PNG/32/Security/behavior_blocker-32.png",
+        "128": "/PNG/128/Security/behavior_blocker-128.png",
+        "75": "/PNG/75/Security/behavior_blocker-75.png",
+        "256": "/PNG/256/Security/behavior_blocker-256.png",
+        "100": "/PNG/100/Security/behavior_blocker-100.png",
+        "512": "/PNG/512/Security/behavior_blocker-512.png",
+        "50": "/PNG/50/Security/behavior_blocker-50.png"
+      }
+    }
+  },
+  {
     "id": 1686,
     "name": "belayer",
     "platform": "iPhone/iOS 7",
@@ -8189,6 +8277,32 @@
     }
   },
   {
+    "id": 5376,
+    "name": "camera",
+    "platform": "iPhone/iOS 7",
+    "category": "Photo and Video",
+    "created": 1406818275,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Photo_Video/camera.svg",
+      "svg.simplified": "/SVG_for_Font/Photo_Video/camera.svg",
+      "eps": "/EPS/Photo_Video/camera.eps",
+      "png": {
+        "25": "/PNG/25/Photo_Video/camera-25.png",
+        "32": "/PNG/32/Photo_Video/camera-32.png",
+        "128": "/PNG/128/Photo_Video/camera-128.png",
+        "75": "/PNG/75/Photo_Video/camera-75.png",
+        "256": "/PNG/256/Photo_Video/camera-256.png",
+        "100": "/PNG/100/Photo_Video/camera-100.png",
+        "512": "/PNG/512/Photo_Video/camera-512.png",
+        "50": "/PNG/50/Photo_Video/camera-50.png"
+      }
+    }
+  },
+  {
     "id": 2114,
     "name": "camera_addon",
     "platform": "iPhone/iOS 7",
@@ -8956,7 +9070,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Security/captcha.svg",
-      "svg.simplified": "/SVG_for_Font/User_Interface/captcha.svg",
+      "svg.simplified": "/SVG_for_Font/Security/captcha.svg",
       "eps": "/EPS/Security/captcha.eps",
       "png": {
         "25": "/PNG/25/Security/captcha-25.png",
@@ -10860,10 +10974,10 @@
       "wax",
       "flame",
       "decoration",
+      "occasion",
       "festival",
       "christ",
       "eve",
-      "occassion",
       "tabletop"
     ],
     "copyright": false,
@@ -11020,12 +11134,12 @@
       "holiday",
       "event",
       "cultural",
+      "occasion",
       "sparks",
       "religious",
       "festival",
       "santa",
-      "eve",
-      "occassion"
+      "eve"
     ],
     "copyright": false,
     "files": {
@@ -11272,11 +11386,11 @@
       "holiday",
       "seasonal",
       "pattern",
+      "occasion",
       "crystal",
       "festival",
       "santa",
       "eve",
-      "occassion",
       "motif"
     ],
     "copyright": false,
@@ -11343,11 +11457,11 @@
       "christmas",
       "holiday",
       "bag",
+      "occasion",
       "festival",
       "prize",
       "santa",
       "gifts",
-      "occassion",
       "christmas stocking",
       "empty sock",
       "sock",
@@ -17201,7 +17315,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Security/delete_shield.svg",
-      "svg.simplified": "/SVG_for_Font/Network/delete_shield.svg",
+      "svg.simplified": "/SVG_for_Font/Security/delete_shield.svg",
       "eps": "/EPS/Security/delete_shield.eps",
       "png": {
         "25": "/PNG/25/Security/delete_shield-25.png",
@@ -19425,6 +19539,145 @@
         "100": "/PNG/100/Ecommerce/do_not_expose_to_sunlight-100.png",
         "512": "/PNG/512/Ecommerce/do_not_expose_to_sunlight-512.png",
         "50": "/PNG/50/Ecommerce/do_not_expose_to_sunlight-50.png"
+      }
+    }
+  },
+  {
+    "id": 5390,
+    "name": "do_not_inhale",
+    "platform": "iPhone/iOS 7",
+    "category": "Industry",
+    "created": 1406818275,
+    "tags": [
+      "fumes",
+      "bill",
+      "warning",
+      "safety",
+      "gas",
+      "caution",
+      "smoke",
+      "danger",
+      "hazardous",
+      "harmful",
+      "poisonous",
+      "chemical",
+      "nose",
+      "muzzle",
+      "beak",
+      "trunk",
+      "proboscis",
+      "snout",
+      "irritation",
+      "sniffer",
+      "snoot",
+      "schnoz"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/do_not_inhale.svg",
+      "svg.simplified": "/SVG_for_Font/Industry/do_not_inhale.svg",
+      "eps": "/EPS/Industry/do_not_inhale.eps",
+      "png": {
+        "25": "/PNG/25/Industry/do_not_inhale-25.png",
+        "32": "/PNG/32/Industry/do_not_inhale-32.png",
+        "128": "/PNG/128/Industry/do_not_inhale-128.png",
+        "75": "/PNG/75/Industry/do_not_inhale-75.png",
+        "256": "/PNG/256/Industry/do_not_inhale-256.png",
+        "100": "/PNG/100/Industry/do_not_inhale-100.png",
+        "512": "/PNG/512/Industry/do_not_inhale-512.png",
+        "50": "/PNG/50/Industry/do_not_inhale-50.png"
+      }
+    }
+  },
+  {
+    "id": 5392,
+    "name": "do_not_insert",
+    "platform": "iPhone/iOS 7",
+    "category": "Industry",
+    "created": 1406818275,
+    "tags": [
+      "arrow",
+      "direction",
+      "pour",
+      "caution",
+      "insert",
+      "lift",
+      "raise",
+      "lid",
+      "vessel",
+      "opened",
+      "closed",
+      "do not fill",
+      "dont use",
+      "check the level before use",
+      "easily damaged stock",
+      "glass items",
+      "dont put",
+      "dont use here",
+      "dont use pan",
+      "avoid use"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/do_not_insert.svg",
+      "svg.simplified": "/SVG_for_Font/Industry/do_not_insert.svg",
+      "eps": "/EPS/Industry/do_not_insert.eps",
+      "png": {
+        "25": "/PNG/25/Industry/do_not_insert-25.png",
+        "32": "/PNG/32/Industry/do_not_insert-32.png",
+        "128": "/PNG/128/Industry/do_not_insert-128.png",
+        "75": "/PNG/75/Industry/do_not_insert-75.png",
+        "256": "/PNG/256/Industry/do_not_insert-256.png",
+        "100": "/PNG/100/Industry/do_not_insert-100.png",
+        "512": "/PNG/512/Industry/do_not_insert-512.png",
+        "50": "/PNG/50/Industry/do_not_insert-50.png"
+      }
+    }
+  },
+  {
+    "id": 5391,
+    "name": "do_not_mix",
+    "platform": "iPhone/iOS 7",
+    "category": "Industry",
+    "created": 1406818275,
+    "tags": [
+      "cross",
+      "arrow",
+      "combine",
+      "label",
+      "stop",
+      "mix",
+      "intersect",
+      "flow",
+      "junction",
+      "interchange",
+      "mix hazard",
+      "do not combine",
+      "reactive",
+      "chemical hazard",
+      "unsafe to mix",
+      "dangerous if mixed",
+      "no mixing",
+      "safety warning",
+      "potentially hazardous",
+      "not for mixing",
+      "use alone",
+      "dont mix"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Industry/do_not_mix.svg",
+      "svg.simplified": "/SVG_for_Font/Industry/do_not_mix.svg",
+      "eps": "/EPS/Industry/do_not_mix.eps",
+      "png": {
+        "25": "/PNG/25/Industry/do_not_mix-25.png",
+        "32": "/PNG/32/Industry/do_not_mix-32.png",
+        "128": "/PNG/128/Industry/do_not_mix-128.png",
+        "75": "/PNG/75/Industry/do_not_mix-75.png",
+        "256": "/PNG/256/Industry/do_not_mix-256.png",
+        "100": "/PNG/100/Industry/do_not_mix-100.png",
+        "512": "/PNG/512/Industry/do_not_mix-512.png",
+        "50": "/PNG/50/Industry/do_not_mix-50.png"
       }
     }
   },
@@ -22547,7 +22800,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Security/face_recognition_scan.svg",
-      "svg.simplified": "/SVG_for_Font/User_Interface/face_recognition_scan.svg",
+      "svg.simplified": "/SVG_for_Font/Security/face_recognition_scan.svg",
       "eps": "/EPS/Security/face_recognition_scan.eps",
       "png": {
         "25": "/PNG/25/Security/face_recognition_scan-25.png",
@@ -22587,7 +22840,6 @@
       "production",
       "energy",
       "smoke",
-      "engineering",
       "factory",
       "industrial",
       "fuel and power generation",
@@ -22597,7 +22849,8 @@
       "tech",
       "machinery",
       "emission",
-      "industrialisation"
+      "industrialisation",
+      "engineering"
     ],
     "copyright": false,
     "files": {
@@ -23747,7 +24000,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Security/fingerprint_scan.svg",
-      "svg.simplified": "/SVG_for_Font/User_Interface/fingerprint_scan.svg",
+      "svg.simplified": "/SVG_for_Font/Security/fingerprint_scan.svg",
       "eps": "/EPS/Security/fingerprint_scan.eps",
       "png": {
         "25": "/PNG/25/Security/fingerprint_scan-25.png",
@@ -23958,7 +24211,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Security/firewall.svg",
-      "svg.simplified": "/SVG_for_Font/Network/firewall.svg",
+      "svg.simplified": "/SVG_for_Font/Security/firewall.svg",
       "eps": "/EPS/Security/firewall.eps",
       "png": {
         "25": "/PNG/25/Security/firewall-25.png",
@@ -28602,7 +28855,6 @@
       "discussion",
       "discuss",
       "world",
-      "group",
       "teaming",
       "gather",
       "artists",
@@ -28620,14 +28872,15 @@
       "purpul",
       "conference",
       "grouping",
+      "group",
       "multiple",
       "crowd",
       "meet",
+      "meeting",
+      "team",
       "people",
       "friends",
-      "meeting",
-      "users",
-      "team"
+      "users"
     ],
     "copyright": false,
     "files": {
@@ -29168,6 +29421,48 @@
     }
   },
   {
+    "id": 5377,
+    "name": "handcuffs",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1406818275,
+    "tags": [
+      "security",
+      "prison",
+      "police",
+      "law",
+      "criminal",
+      "thief",
+      "crime",
+      "arrest",
+      "justice",
+      "jail",
+      "custody",
+      "punishment",
+      "handcuffs",
+      "prisoner",
+      "lockup",
+      "cuff",
+      "suspicious"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/handcuffs.svg",
+      "svg.simplified": "/SVG_for_Font/City/handcuffs.svg",
+      "eps": "/EPS/City/handcuffs.eps",
+      "png": {
+        "25": "/PNG/25/City/handcuffs-25.png",
+        "32": "/PNG/32/City/handcuffs-32.png",
+        "128": "/PNG/128/City/handcuffs-128.png",
+        "75": "/PNG/75/City/handcuffs-75.png",
+        "256": "/PNG/256/City/handcuffs-256.png",
+        "100": "/PNG/100/City/handcuffs-100.png",
+        "512": "/PNG/512/City/handcuffs-512.png",
+        "50": "/PNG/50/City/handcuffs-50.png"
+      }
+    }
+  },
+  {
     "id": 2688,
     "name": "handle_with_care",
     "platform": "iPhone/iOS 7",
@@ -29359,7 +29654,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Security/hand_palm_scan.svg",
-      "svg.simplified": "/SVG_for_Font/User_Interface/hand_palm_scan.svg",
+      "svg.simplified": "/SVG_for_Font/Security/hand_palm_scan.svg",
       "eps": "/EPS/Security/hand_palm_scan.eps",
       "png": {
         "25": "/PNG/25/Security/hand_palm_scan-25.png",
@@ -30934,11 +31229,11 @@
       "accueil",
       "slae",
       "initial",
-      "home",
-      "house",
       "chimney",
       "foreclosure",
       "door",
+      "home",
+      "house",
       "index"
     ],
     "copyright": false,
@@ -33121,7 +33416,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Security/iris_scan.svg",
-      "svg.simplified": "/SVG_for_Font/User_Interface/iris_scan.svg",
+      "svg.simplified": "/SVG_for_Font/Security/iris_scan.svg",
       "eps": "/EPS/Security/iris_scan.eps",
       "png": {
         "25": "/PNG/25/Security/iris_scan-25.png",
@@ -34441,6 +34736,53 @@
         "100": "/PNG/100/Household/kitchen-100.png",
         "512": "/PNG/512/Household/kitchen-512.png",
         "50": "/PNG/50/Household/kitchen-50.png"
+      }
+    }
+  },
+  {
+    "id": 5387,
+    "name": "kitesurfing",
+    "platform": "iPhone/iOS 7",
+    "category": "Sports",
+    "created": 1406818275,
+    "tags": [
+      "fun",
+      "sport",
+      "speed",
+      "wind",
+      "water",
+      "beach",
+      "energy",
+      "flying",
+      "sailing",
+      "skill",
+      "wave",
+      "dynamic",
+      "athletic",
+      "Surfing",
+      "acrobatic",
+      "watersports",
+      "kiteboard",
+      "kitesurfing",
+      "splashing",
+      "kiteboarding",
+      "kitesurf",
+      "adrenaline"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/kitesurfing.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/kitesurfing.svg",
+      "eps": "/EPS/Sports/kitesurfing.eps",
+      "png": {
+        "25": "/PNG/25/Sports/kitesurfing-25.png",
+        "32": "/PNG/32/Sports/kitesurfing-32.png",
+        "128": "/PNG/128/Sports/kitesurfing-128.png",
+        "75": "/PNG/75/Sports/kitesurfing-75.png",
+        "256": "/PNG/256/Sports/kitesurfing-256.png",
+        "100": "/PNG/100/Sports/kitesurfing-100.png",
+        "512": "/PNG/512/Sports/kitesurfing-512.png",
+        "50": "/PNG/50/Sports/kitesurfing-50.png"
       }
     }
   },
@@ -40943,6 +41285,7 @@
       "time trial biking",
       "sport and activities",
       "championship",
+      "fax",
       "physical activity",
       "olympic",
       "sport"
@@ -42966,6 +43309,303 @@
     }
   },
   {
+    "id": 5385,
+    "name": "no_animals",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1406818275,
+    "tags": [
+      "dog",
+      "home",
+      "door",
+      "security",
+      "restricted",
+      "warning",
+      "safety",
+      "animals",
+      "not allowed",
+      "contemporary",
+      "safe",
+      "dangerous",
+      "zone",
+      "prohibition",
+      "regulations",
+      "bite",
+      "no entry",
+      "prevention",
+      "secuere",
+      "treatement",
+      "precaution",
+      "guideline"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/no_animals.svg",
+      "svg.simplified": "/SVG_for_Font/City/no_animals.svg",
+      "eps": "/EPS/City/no_animals.eps",
+      "png": {
+        "25": "/PNG/25/City/no_animals-25.png",
+        "32": "/PNG/32/City/no_animals-32.png",
+        "128": "/PNG/128/City/no_animals-128.png",
+        "75": "/PNG/75/City/no_animals-75.png",
+        "256": "/PNG/256/City/no_animals-256.png",
+        "100": "/PNG/100/City/no_animals-100.png",
+        "512": "/PNG/512/City/no_animals-512.png",
+        "50": "/PNG/50/City/no_animals-50.png"
+      }
+    }
+  },
+  {
+    "id": 5380,
+    "name": "no_baggage",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1406818275,
+    "tags": [
+      "briefcase",
+      "bag",
+      "case",
+      "carryall",
+      "suitcase",
+      "luggage",
+      "baggage",
+      "holder",
+      "carry on",
+      "document holder"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/no_baggage.svg",
+      "svg.simplified": "/SVG_for_Font/City/no_baggage.svg",
+      "eps": "/EPS/City/no_baggage.eps",
+      "png": {
+        "25": "/PNG/25/City/no_baggage-25.png",
+        "32": "/PNG/32/City/no_baggage-32.png",
+        "128": "/PNG/128/City/no_baggage-128.png",
+        "75": "/PNG/75/City/no_baggage-75.png",
+        "256": "/PNG/256/City/no_baggage-256.png",
+        "100": "/PNG/100/City/no_baggage-100.png",
+        "512": "/PNG/512/City/no_baggage-512.png",
+        "50": "/PNG/50/City/no_baggage-50.png"
+      }
+    }
+  },
+  {
+    "id": 5379,
+    "name": "no_beverages",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1406818275,
+    "tags": [
+      "beverage",
+      "drink",
+      "diet",
+      "unhealthy",
+      "ban",
+      "harmful",
+      "no drinks",
+      "no beverages",
+      "no beverage allowed",
+      "no drinks allowed",
+      "no coffee",
+      "do not drink",
+      "dont drink",
+      "no liquids allowed",
+      "no drinking please",
+      "no beverages allowed",
+      "fastfood",
+      "overweight",
+      "cholesterol",
+      "prohibiting",
+      "drink danger label"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/no_beverages.svg",
+      "svg.simplified": "/SVG_for_Font/City/no_beverages.svg",
+      "eps": "/EPS/City/no_beverages.eps",
+      "png": {
+        "25": "/PNG/25/City/no_beverages-25.png",
+        "32": "/PNG/32/City/no_beverages-32.png",
+        "128": "/PNG/128/City/no_beverages-128.png",
+        "75": "/PNG/75/City/no_beverages-75.png",
+        "256": "/PNG/256/City/no_beverages-256.png",
+        "100": "/PNG/100/City/no_beverages-100.png",
+        "512": "/PNG/512/City/no_beverages-512.png",
+        "50": "/PNG/50/City/no_beverages-50.png"
+      }
+    }
+  },
+  {
+    "id": 5386,
+    "name": "no_camera",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1406818275,
+    "tags": [
+      "image file",
+      "photo",
+      "stop",
+      "warning",
+      "camera",
+      "banner",
+      "caution",
+      "red",
+      "alert",
+      "illegal",
+      "allowed",
+      "restrictions",
+      "missing image",
+      "no photo",
+      "no camera",
+      "broken image",
+      "no picture",
+      "no pictures allowed",
+      "no cameras allowed",
+      "broken camera",
+      "no photography"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/no_camera.svg",
+      "svg.simplified": "/SVG_for_Font/City/no_camera.svg",
+      "eps": "/EPS/City/no_camera.eps",
+      "png": {
+        "25": "/PNG/25/City/no_camera-25.png",
+        "32": "/PNG/32/City/no_camera-32.png",
+        "128": "/PNG/128/City/no_camera-128.png",
+        "75": "/PNG/75/City/no_camera-75.png",
+        "256": "/PNG/256/City/no_camera-256.png",
+        "100": "/PNG/100/City/no_camera-100.png",
+        "512": "/PNG/512/City/no_camera-512.png",
+        "50": "/PNG/50/City/no_camera-50.png"
+      }
+    }
+  },
+  {
+    "id": 5378,
+    "name": "no_cash",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1406818275,
+    "tags": [
+      "cash",
+      "bank",
+      "idea",
+      "information",
+      "access",
+      "business",
+      "tablet",
+      "payment",
+      "money",
+      "economy",
+      "warning",
+      "safety",
+      "limit",
+      "finance",
+      "forbidden",
+      "template",
+      "glossy",
+      "ban",
+      "render",
+      "restriction",
+      "transaction",
+      "prohibition",
+      "rupee",
+      "lend",
+      "mandatory",
+      "not-allowed"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/no_cash.svg",
+      "svg.simplified": "/SVG_for_Font/City/no_cash.svg",
+      "eps": "/EPS/City/no_cash.eps",
+      "png": {
+        "25": "/PNG/25/City/no_cash-25.png",
+        "32": "/PNG/32/City/no_cash-32.png",
+        "128": "/PNG/128/City/no_cash-128.png",
+        "75": "/PNG/75/City/no_cash-75.png",
+        "256": "/PNG/256/City/no_cash-256.png",
+        "100": "/PNG/100/City/no_cash-100.png",
+        "512": "/PNG/512/City/no_cash-512.png",
+        "50": "/PNG/50/City/no_cash-50.png"
+      }
+    }
+  },
+  {
+    "id": 5384,
+    "name": "no_credit_cards",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1406818275,
+    "tags": [
+      "cash",
+      "bank",
+      "good",
+      "date",
+      "approved",
+      "check",
+      "paper",
+      "information",
+      "access",
+      "numbers",
+      "data",
+      "documents",
+      "cards",
+      "payment",
+      "bar code",
+      "credit",
+      "loan",
+      "account",
+      "swipe",
+      "report",
+      "store",
+      "error",
+      "balance",
+      "offers",
+      "solutions",
+      "bad",
+      "free",
+      "credit card",
+      "side",
+      "history",
+      "no",
+      "plastic",
+      "visa",
+      "debt",
+      "interest",
+      "black and white",
+      "student",
+      "clip art",
+      "back",
+      "management",
+      "secured",
+      "sensitivity",
+      "annual",
+      "process",
+      "magnetic",
+      "apply",
+      "ra"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/no_credit_cards.svg",
+      "svg.simplified": "/SVG_for_Font/City/no_credit_cards.svg",
+      "eps": "/EPS/City/no_credit_cards.eps",
+      "png": {
+        "25": "/PNG/25/City/no_credit_cards-25.png",
+        "32": "/PNG/32/City/no_credit_cards-32.png",
+        "128": "/PNG/128/City/no_credit_cards-128.png",
+        "75": "/PNG/75/City/no_credit_cards-75.png",
+        "256": "/PNG/256/City/no_credit_cards-256.png",
+        "100": "/PNG/100/City/no_credit_cards-100.png",
+        "512": "/PNG/512/City/no_credit_cards-512.png",
+        "50": "/PNG/50/City/no_credit_cards-50.png"
+      }
+    }
+  },
+  {
     "id": 5371,
     "name": "no_drugs",
     "platform": "iPhone/iOS 7",
@@ -43105,6 +43745,48 @@
         "100": "/PNG/100/Food/no_eggs-100.png",
         "512": "/PNG/512/Food/no_eggs-512.png",
         "50": "/PNG/50/Food/no_eggs-50.png"
+      }
+    }
+  },
+  {
+    "id": 5381,
+    "name": "no_food",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1406818275,
+    "tags": [
+      "food",
+      "beverage",
+      "drink",
+      "restricted",
+      "eat",
+      "diet",
+      "unhealthy",
+      "forbidden",
+      "forbid",
+      "junk",
+      "prohibit",
+      "prohibited",
+      "fastfood",
+      "overweight",
+      "banned",
+      "cholesterol",
+      "placard"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/no_food.svg",
+      "svg.simplified": "/SVG_for_Font/City/no_food.svg",
+      "eps": "/EPS/City/no_food.eps",
+      "png": {
+        "25": "/PNG/25/City/no_food-25.png",
+        "32": "/PNG/32/City/no_food-32.png",
+        "128": "/PNG/128/City/no_food-128.png",
+        "75": "/PNG/75/City/no_food-75.png",
+        "256": "/PNG/256/City/no_food-256.png",
+        "100": "/PNG/100/City/no_food-100.png",
+        "512": "/PNG/512/City/no_food-512.png",
+        "50": "/PNG/50/City/no_food-50.png"
       }
     }
   },
@@ -43264,6 +43946,80 @@
         "100": "/PNG/100/City/no_smoking-100.png",
         "512": "/PNG/512/City/no_smoking-512.png",
         "50": "/PNG/50/City/no_smoking-50.png"
+      }
+    }
+  },
+  {
+    "id": 5382,
+    "name": "no_weapons",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1406818275,
+    "tags": [
+      "device",
+      "control",
+      "fire",
+      "military",
+      "wound",
+      "weapon",
+      "security",
+      "bullets",
+      "weapons",
+      "conflict",
+      "sale",
+      "sport",
+      "machine",
+      "happy",
+      "safety",
+      "features",
+      "equipment",
+      "peace",
+      "police",
+      "gun",
+      "pistol",
+      "guns",
+      "no",
+      "pressure",
+      "piece",
+      "fist",
+      "law",
+      "trigger",
+      "ban",
+      "target",
+      "automatic",
+      "violence",
+      "pull",
+      "use",
+      "public",
+      "checks",
+      "strap",
+      "harmless",
+      "projectile",
+      "firearm",
+      "muzzle",
+      "carrying",
+      "arms",
+      "campaign",
+      "war",
+      "battle",
+      "enforcement",
+      "crimes",
+      "sho"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/no_weapons.svg",
+      "svg.simplified": "/SVG_for_Font/City/no_weapons.svg",
+      "eps": "/EPS/City/no_weapons.eps",
+      "png": {
+        "25": "/PNG/25/City/no_weapons-25.png",
+        "32": "/PNG/32/City/no_weapons-32.png",
+        "128": "/PNG/128/City/no_weapons-128.png",
+        "75": "/PNG/75/City/no_weapons-75.png",
+        "256": "/PNG/256/City/no_weapons-256.png",
+        "100": "/PNG/100/City/no_weapons-100.png",
+        "512": "/PNG/512/City/no_weapons-512.png",
+        "50": "/PNG/50/City/no_weapons-50.png"
       }
     }
   },
@@ -45724,7 +46480,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Security/password.svg",
-      "svg.simplified": "/SVG_for_Font/User_Interface/password.svg",
+      "svg.simplified": "/SVG_for_Font/Security/password.svg",
       "eps": "/EPS/Security/password.eps",
       "png": {
         "25": "/PNG/25/Security/password-25.png",
@@ -45795,7 +46551,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Security/password2.svg",
-      "svg.simplified": "/SVG_for_Font/User_Interface/password2.svg",
+      "svg.simplified": "/SVG_for_Font/Security/password2.svg",
       "eps": "/EPS/Security/password2.eps",
       "png": {
         "25": "/PNG/25/Security/password2-25.png",
@@ -46907,6 +47663,49 @@
         "100": "/PNG/100/Animals/pig-100.png",
         "512": "/PNG/512/Animals/pig-512.png",
         "50": "/PNG/50/Animals/pig-50.png"
+      }
+    }
+  },
+  {
+    "id": 5389,
+    "name": "pilates",
+    "platform": "iPhone/iOS 7",
+    "category": "Sports",
+    "created": 1406818275,
+    "tags": [
+      "physical",
+      "fitness",
+      "exercise",
+      "lifestyle",
+      "yoga",
+      "gym",
+      "relaxation",
+      "healthy",
+      "movement",
+      "practice",
+      "aerobics",
+      "gymnastics",
+      "workout",
+      "roman",
+      "breathing",
+      "flexibility",
+      "gymnasium",
+      "rehabilitation"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/pilates.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/pilates.svg",
+      "eps": "/EPS/Sports/pilates.eps",
+      "png": {
+        "25": "/PNG/25/Sports/pilates-25.png",
+        "32": "/PNG/32/Sports/pilates-32.png",
+        "128": "/PNG/128/Sports/pilates-128.png",
+        "75": "/PNG/75/Sports/pilates-75.png",
+        "256": "/PNG/256/Sports/pilates-256.png",
+        "100": "/PNG/100/Sports/pilates-100.png",
+        "512": "/PNG/512/Sports/pilates-512.png",
+        "50": "/PNG/50/Sports/pilates-50.png"
       }
     }
   },
@@ -48411,6 +49210,47 @@
         "100": "/PNG/100/Users/policeman-100.png",
         "512": "/PNG/512/Users/policeman-512.png",
         "50": "/PNG/50/Users/policeman-50.png"
+      }
+    }
+  },
+  {
+    "id": 5383,
+    "name": "police_badge",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1406818275,
+    "tags": [
+      "protection",
+      "security",
+      "badge",
+      "police",
+      "shield",
+      "uniform",
+      "law",
+      "cop",
+      "justice",
+      "policeman",
+      "official badge",
+      "policemen",
+      "honor",
+      "police badge",
+      "police sign",
+      "special officer badge"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/police_badge.svg",
+      "svg.simplified": "/SVG_for_Font/City/police_badge.svg",
+      "eps": "/EPS/City/police_badge.eps",
+      "png": {
+        "25": "/PNG/25/City/police_badge-25.png",
+        "32": "/PNG/32/City/police_badge-32.png",
+        "128": "/PNG/128/City/police_badge-128.png",
+        "75": "/PNG/75/City/police_badge-75.png",
+        "256": "/PNG/256/City/police_badge-256.png",
+        "100": "/PNG/100/City/police_badge-100.png",
+        "512": "/PNG/512/City/police_badge-512.png",
+        "50": "/PNG/50/City/police_badge-50.png"
       }
     }
   },
@@ -50803,7 +51643,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Security/question_shield.svg",
-      "svg.simplified": "/SVG_for_Font/Network/question_shield.svg",
+      "svg.simplified": "/SVG_for_Font/Security/question_shield.svg",
       "eps": "/EPS/Security/question_shield.eps",
       "png": {
         "25": "/PNG/25/Security/question_shield-25.png",
@@ -51616,6 +52456,52 @@
     }
   },
   {
+    "id": 5394,
+    "name": "realtime_protection",
+    "platform": "iPhone/iOS 7",
+    "category": "Security",
+    "created": 1406818275,
+    "tags": [
+      "clock",
+      "day",
+      "tick",
+      "time",
+      "minute",
+      "hour",
+      "second",
+      "protection",
+      "work",
+      "system",
+      "timer",
+      "virus",
+      "safety",
+      "computer",
+      "quick",
+      "countdown",
+      "clock hand",
+      "minute hand",
+      "useful",
+      "realtime",
+      "second hand"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Security/realtime_protection.svg",
+      "svg.simplified": "/SVG_for_Font/Security/realtime_protection.svg",
+      "eps": "/EPS/Security/realtime_protection.eps",
+      "png": {
+        "25": "/PNG/25/Security/realtime_protection-25.png",
+        "32": "/PNG/32/Security/realtime_protection-32.png",
+        "128": "/PNG/128/Security/realtime_protection-128.png",
+        "75": "/PNG/75/Security/realtime_protection-75.png",
+        "256": "/PNG/256/Security/realtime_protection-256.png",
+        "100": "/PNG/100/Security/realtime_protection-100.png",
+        "512": "/PNG/512/Security/realtime_protection-512.png",
+        "50": "/PNG/50/Security/realtime_protection-50.png"
+      }
+    }
+  },
+  {
     "id": 4720,
     "name": "receipt",
     "platform": "iPhone/iOS 7",
@@ -51933,7 +52819,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Security/refresh_shield.svg",
-      "svg.simplified": "/SVG_for_Font/Network/refresh_shield.svg",
+      "svg.simplified": "/SVG_for_Font/Security/refresh_shield.svg",
       "eps": "/EPS/Security/refresh_shield.eps",
       "png": {
         "25": "/PNG/25/Security/refresh_shield-25.png",
@@ -52575,7 +53461,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Security/restriction_shield.svg",
-      "svg.simplified": "/SVG_for_Font/Network/restriction_shield.svg",
+      "svg.simplified": "/SVG_for_Font/Security/restriction_shield.svg",
       "eps": "/EPS/Security/restriction_shield.eps",
       "png": {
         "25": "/PNG/25/Security/restriction_shield-25.png",
@@ -54580,6 +55466,32 @@
     }
   },
   {
+    "id": 5374,
+    "name": "satellite",
+    "platform": "iPhone/iOS 7",
+    "category": "Maps",
+    "created": 1406818275,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Maps/satellite.svg",
+      "svg.simplified": "/SVG_for_Font/Maps/satellite.svg",
+      "eps": "/EPS/Maps/satellite.eps",
+      "png": {
+        "25": "/PNG/25/Maps/satellite-25.png",
+        "32": "/PNG/32/Maps/satellite-32.png",
+        "128": "/PNG/128/Maps/satellite-128.png",
+        "75": "/PNG/75/Maps/satellite-75.png",
+        "256": "/PNG/256/Maps/satellite-256.png",
+        "100": "/PNG/100/Maps/satellite-100.png",
+        "512": "/PNG/512/Maps/satellite-512.png",
+        "50": "/PNG/50/Maps/satellite-50.png"
+      }
+    }
+  },
+  {
     "id": 2238,
     "name": "satellites",
     "platform": "iPhone/iOS 7",
@@ -54650,6 +55562,32 @@
         "100": "/PNG/100/Maps/satellite_in_orbit-100.png",
         "512": "/PNG/512/Maps/satellite_in_orbit-512.png",
         "50": "/PNG/50/Maps/satellite_in_orbit-50.png"
+      }
+    }
+  },
+  {
+    "id": 5375,
+    "name": "satellite_sending_signal",
+    "platform": "iPhone/iOS 7",
+    "category": "Maps",
+    "created": 1406818275,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Maps/satellite_sending_signal.svg",
+      "svg.simplified": "/SVG_for_Font/Maps/satellite_sending_signal.svg",
+      "eps": "/EPS/Maps/satellite_sending_signal.eps",
+      "png": {
+        "25": "/PNG/25/Maps/satellite_sending_signal-25.png",
+        "32": "/PNG/32/Maps/satellite_sending_signal-32.png",
+        "128": "/PNG/128/Maps/satellite_sending_signal-128.png",
+        "75": "/PNG/75/Maps/satellite_sending_signal-75.png",
+        "256": "/PNG/256/Maps/satellite_sending_signal-256.png",
+        "100": "/PNG/100/Maps/satellite_sending_signal-100.png",
+        "512": "/PNG/512/Maps/satellite_sending_signal-512.png",
+        "50": "/PNG/50/Maps/satellite_sending_signal-50.png"
       }
     }
   },
@@ -55579,7 +56517,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Security/security_aes.svg",
-      "svg.simplified": "/SVG_for_Font/Network/security_aes.svg",
+      "svg.simplified": "/SVG_for_Font/Security/security_aes.svg",
       "eps": "/EPS/Security/security_aes.eps",
       "png": {
         "25": "/PNG/25/Security/security_aes-25.png",
@@ -55650,7 +56588,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Security/security_checked.svg",
-      "svg.simplified": "/SVG_for_Font/Network/security_checked.svg",
+      "svg.simplified": "/SVG_for_Font/Security/security_checked.svg",
       "eps": "/EPS/Security/security_checked.eps",
       "png": {
         "25": "/PNG/25/Security/security_checked-25.png",
@@ -55718,7 +56656,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Security/security_ssl.svg",
-      "svg.simplified": "/SVG_for_Font/Network/security_ssl.svg",
+      "svg.simplified": "/SVG_for_Font/Security/security_ssl.svg",
       "eps": "/EPS/Security/security_ssl.eps",
       "png": {
         "25": "/PNG/25/Security/security_ssl-25.png",
@@ -56664,7 +57602,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Security/shield.svg",
-      "svg.simplified": "/SVG_for_Font/Network/shield.svg",
+      "svg.simplified": "/SVG_for_Font/Security/shield.svg",
       "eps": "/EPS/Security/shield.eps",
       "png": {
         "25": "/PNG/25/Security/shield-25.png",
@@ -58377,6 +59315,7 @@
       "zoom",
       "image",
       "photo",
+      "picture",
       "camera",
       "slr",
       "shot",
@@ -62271,6 +63210,50 @@
         "100": "/PNG/100/Science/surface-100.png",
         "512": "/PNG/512/Science/surface-512.png",
         "50": "/PNG/50/Science/surface-50.png"
+      }
+    }
+  },
+  {
+    "id": 5388,
+    "name": "surfing",
+    "platform": "iPhone/iOS 7",
+    "category": "Sports",
+    "created": 1406818275,
+    "tags": [
+      "fun",
+      "surf",
+      "beach",
+      "exercise",
+      "sports",
+      "outdoor",
+      "energy",
+      "adventure",
+      "wave",
+      "holidays",
+      "leisure",
+      "time pass",
+      "waves",
+      "Surfing",
+      "surfboards",
+      "watersports",
+      "surfer",
+      "water sports",
+      "best sports"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Sports/surfing.svg",
+      "svg.simplified": "/SVG_for_Font/Sports/surfing.svg",
+      "eps": "/EPS/Sports/surfing.eps",
+      "png": {
+        "25": "/PNG/25/Sports/surfing-25.png",
+        "32": "/PNG/32/Sports/surfing-32.png",
+        "128": "/PNG/128/Sports/surfing-128.png",
+        "75": "/PNG/75/Sports/surfing-75.png",
+        "256": "/PNG/256/Sports/surfing-256.png",
+        "100": "/PNG/100/Sports/surfing-100.png",
+        "512": "/PNG/512/Sports/surfing-512.png",
+        "50": "/PNG/50/Sports/surfing-50.png"
       }
     }
   },
@@ -69443,7 +70426,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Security/user_shield.svg",
-      "svg.simplified": "/SVG_for_Font/Network/user_shield.svg",
+      "svg.simplified": "/SVG_for_Font/Security/user_shield.svg",
       "eps": "/EPS/Security/user_shield.eps",
       "png": {
         "25": "/PNG/25/Security/user_shield-25.png",
@@ -70370,7 +71353,7 @@
     "category": "Network",
     "created": 1393984295,
     "tags": [
-
+      "chrome"
     ],
     "copyright": false,
     "files": {
@@ -70653,7 +71636,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Security/voice_recognition_scan.svg",
-      "svg.simplified": "/SVG_for_Font/User_Interface/voice_recognition_scan.svg",
+      "svg.simplified": "/SVG_for_Font/Security/voice_recognition_scan.svg",
       "eps": "/EPS/Security/voice_recognition_scan.eps",
       "png": {
         "25": "/PNG/25/Security/voice_recognition_scan-25.png",
@@ -71505,7 +72488,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Security/warning_shield.svg",
-      "svg.simplified": "/SVG_for_Font/Network/warning_shield.svg",
+      "svg.simplified": "/SVG_for_Font/Security/warning_shield.svg",
       "eps": "/EPS/Security/warning_shield.eps",
       "png": {
         "25": "/PNG/25/Security/warning_shield-25.png",
@@ -72376,7 +73359,7 @@
     "copyright": false,
     "files": {
       "svg": "/SVG/Security/web_shield.svg",
-      "svg.simplified": "/SVG_for_Font/Network/web_shield.svg",
+      "svg.simplified": "/SVG_for_Font/Security/web_shield.svg",
       "eps": "/EPS/Security/web_shield.eps",
       "png": {
         "25": "/PNG/25/Security/web_shield-25.png",
@@ -72523,9 +73506,11 @@
       "wedding",
       "marriage",
       "bond",
+      "bride",
       "jewellery",
       "engaged",
-      "wedding band"
+      "wedding band",
+      "broom"
     ],
     "copyright": false,
     "files": {
