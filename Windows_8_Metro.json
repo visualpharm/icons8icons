@@ -1719,7 +1719,6 @@
     "created": 1381342874,
     "tags": [
       "add user",
-      "append user",
       "add",
       "calendar",
       "remove",
@@ -1732,6 +1731,7 @@
       "calender",
       "Existing user",
       "add friend",
+      "append user",
       "create user",
       "register",
       "registration",
@@ -3467,6 +3467,7 @@
       "good",
       "light",
       "category",
+      "sun",
       "emoticons",
       "smileys",
       "white",
@@ -11822,7 +11823,6 @@
       "x",
       "wrong",
       "clip-art",
-      "stay",
       "ending",
       "discard",
       "layoff",
@@ -11838,6 +11838,7 @@
       "finish",
       "stop",
       "no",
+      "stay",
       "closing",
       "remove",
       "break",
@@ -13396,20 +13397,25 @@
     "category": "Holidays",
     "created": 1332840395,
     "tags": [
+      "date",
       "celebration",
       "love",
-      "settings",
       "drinks",
       "memories",
       "engagement",
       "glass",
       "bar",
-      "university",
+      "wine",
       "event",
       "celebrate",
       "diamond",
+      "marriage",
+      "sherry",
       "make up",
       "launch",
+      "sparkling wine",
+      "bubbly",
+      "wine glass",
       "party"
     ],
     "copyright": false,
@@ -14448,13 +14454,9 @@
       "santa",
       "jesus christ",
       "eve",
-      "christmas ornaments",
-      "christmas tree",
-      "decoration piece",
       "festoon",
-      "round ball",
       "ornaments",
-      "christmas bauble"
+      "bauble"
     ],
     "copyright": false,
     "files": {
@@ -14482,15 +14484,13 @@
       "light",
       "christmas",
       "wax",
+      "flame",
       "decoration",
       "festival",
       "christ",
       "eve",
       "occassion",
-      "red object",
-      "provide light",
-      "tabletop",
-      "candle flame"
+      "tabletop"
     ],
     "copyright": false,
     "files": {
@@ -14594,13 +14594,12 @@
       "tour",
       "holiday",
       "treat",
+      "occasion",
       "comet",
       "dancer",
       "festival",
       "santa",
       "eve",
-      "occassion",
-      "sleigh pulling",
       "reindeer",
       "Dasher",
       "Prancer",
@@ -14608,7 +14607,7 @@
       "Cupid",
       "Donner",
       "Blitzen",
-      "eight reindeer"
+      "sleigh"
     ],
     "copyright": false,
     "files": {
@@ -14633,13 +14632,13 @@
     "category": "Holidays",
     "created": 1390342413,
     "tags": [
+      "device",
       "display",
       "devices",
       "light",
       "star",
       "noise",
       "winter",
-      "smoke",
       "holiday",
       "event",
       "cultural",
@@ -14648,12 +14647,7 @@
       "festival",
       "santa",
       "eve",
-      "occassion",
-      "magic star",
-      "shooting star",
-      "explosive pyrotechnic",
-      "floating materials",
-      "burn with flames"
+      "occassion"
     ],
     "copyright": false,
     "files": {
@@ -14695,8 +14689,7 @@
       "Mr Wisher",
       "father christmas",
       "saint nicholas",
-      "Christkind",
-      "christmas custom"
+      "Christkind"
     ],
     "copyright": false,
     "files": {
@@ -14724,14 +14717,13 @@
       "children",
       "hat",
       "christmas",
+      "cap",
       "winter",
+      "occasion",
       "festival",
       "santa",
       "eve",
-      "occassion",
-      "santa hat",
-      "red and white hat",
-      "santa s wear"
+      "santa hat"
     ],
     "copyright": false,
     "files": {
@@ -14761,13 +14753,12 @@
       "winter",
       "shoe",
       "holiday",
+      "occasion",
       "indoor",
       "leisure",
       "festival",
       "skate",
-      "santa",
-      "occassion",
-      "snow season"
+      "santa"
     ],
     "copyright": false,
     "files": {
@@ -14792,18 +14783,15 @@
     "category": "Holidays",
     "created": 1390342413,
     "tags": [
+      "cold",
       "hand",
       "thumb",
       "snow",
       "winter",
-      "warm",
-      "gloves",
-      "festival",
-      "occassion",
-      "protective clothing",
-      "cover the hand",
-      "cold temperature",
-      "extreme cold"
+      "glove",
+      "occasion",
+      "finger",
+      "festival"
     ],
     "copyright": false,
     "files": {
@@ -14833,9 +14821,8 @@
       "winter",
       "holiday",
       "festival",
-      "eve",
-      "occassion",
-      "penguin parade"
+      "parade",
+      "eve"
     ],
     "copyright": false,
     "files": {
@@ -14860,19 +14847,17 @@
     "category": "Holidays",
     "created": 1390342413,
     "tags": [
-      "fun",
       "transport",
       "travel",
       "christmas",
       "tour",
       "winter",
+      "occasion",
       "festival",
       "santa",
       "eve",
-      "occassion",
       "reindeer",
-      "deer",
-      "light vehicle"
+      "deer"
     ],
     "copyright": false,
     "files": {
@@ -14900,14 +14885,13 @@
       "ice",
       "winter",
       "holiday",
+      "seasonal",
       "pattern",
       "crystal",
       "festival",
       "santa",
       "eve",
       "occassion",
-      "ice crystal",
-      "seasonal image",
       "motif"
     ],
     "copyright": false,
@@ -14933,19 +14917,17 @@
     "category": "Holidays",
     "created": 1390342413,
     "tags": [
+      "round",
+      "smile",
       "cold",
       "ice",
       "hat",
       "wet",
       "snow",
+      "sculpture",
       "festival",
-      "santa",
-      "snow sculpture",
-      "smiley face",
-      "carrot nose",
-      "human clothing",
-      "rounded snow",
-      "snow ball"
+      "carrot",
+      "santa"
     ],
     "copyright": false,
     "files": {
@@ -14975,17 +14957,15 @@
       "holiday",
       "bag",
       "festival",
-      "small gift",
+      "prize",
       "santa",
       "gifts",
       "occassion",
-      "red and white bag",
-      "mini bag",
-      "sock-shaped bag",
       "christmas stocking",
       "empty sock",
       "sock",
-      "stocking fillers"
+      "stocking",
+      "sock-shaped"
     ],
     "copyright": false,
     "files": {
@@ -15019,6 +14999,7 @@
       "holiday",
       "christian",
       "decoration",
+      "occasion",
       "december",
       "new year",
       "religious",
@@ -15026,9 +15007,7 @@
       "Noten",
       "santa",
       "jesus christ",
-      "eve",
-      "occassion",
-      "christmas tree"
+      "eve"
     ],
     "copyright": false,
     "files": {
@@ -15067,10 +15046,8 @@
       "festival",
       "santa",
       "eve",
-      "decorated tree",
-      "christmas ball",
-      "jingle bell",
-      "christmas star"
+      "sock",
+      "chime"
     ],
     "copyright": false,
     "files": {
@@ -15172,13 +15149,23 @@
     "category": "Holidays",
     "created": 1330940674,
     "tags": [
+      "god",
+      "jesus",
       "house of worship",
       "group",
       "city",
       "gospel",
       "bible",
       "priest",
-      "saints"
+      "saints",
+      "holy",
+      "mass",
+      "religion",
+      "christian",
+      "belief",
+      "faith",
+      "sacrament",
+      "holy place"
     ],
     "copyright": false,
     "files": {
@@ -17821,6 +17808,7 @@
       "briefcase icon",
       "member",
       "queue",
+      "chevron",
       "user",
       "chat",
       "gardening"
@@ -32938,18 +32926,13 @@
       "holiday",
       "christian",
       "december",
-      "new year",
       "religious",
       "festival",
       "biscuit",
       "cookie",
       "santa",
       "jesus christ",
-      "eve",
-      "stylized human",
-      "seasonal themes",
-      "figural biscuit",
-      "annual festival"
+      "eve"
     ],
     "copyright": false,
     "files": {
@@ -35211,7 +35194,6 @@
       "holiday",
       "lollypop",
       "festival",
-      "yearly celebration",
       "remembering the dead",
       "pagan roots",
       "trick-or-treating",
@@ -36358,15 +36340,15 @@
       "rip",
       "tombstone",
       "tomb",
-      "headstone",
       "graveyard",
-      "landscape",
       "decoration",
       "phobia",
       "corpse",
       "family history",
       "gravestone",
-      "decease"
+      "deceased",
+      "epitaph",
+      "inscriptio"
     ],
     "copyright": false,
     "files": {
@@ -40185,7 +40167,6 @@
       "santa",
       "jesus christ",
       "eve",
-      "decoration piece",
       "tinkling"
     ],
     "copyright": false,
@@ -49466,14 +49447,11 @@
       "look",
       "expression",
       "round",
-      "sad",
       "image",
-      "photo",
       "mask",
       "horror",
       "icon",
       "art",
-      "horizontal",
       "eyes",
       "halloween",
       "zombie",
@@ -49491,8 +49469,6 @@
       "non-verbal",
       "description",
       "mood",
-      "deceased human",
-      "embalmed with chemicals",
       "mummy egypt"
     ],
     "copyright": false,
@@ -51744,10 +51720,10 @@
       "compound",
       "chemical",
       "treatment",
+      "illegal",
       "poison",
       "crime",
-      "campaign",
-      "ecs"
+      "camp"
     ],
     "copyright": false,
     "files": {
@@ -60004,6 +59980,7 @@
       "natural",
       "heavy",
       "organic",
+      "fruit",
       "vegetables",
       "healthy food",
       "watery",
@@ -60033,7 +60010,8 @@
       "Cucurbita pepo",
       "squash vine",
       "veggie",
-      "deep-yellow round"
+      "pulpy",
+      "ornam"
     ],
     "copyright": false,
     "files": {
@@ -63559,15 +63537,24 @@
     "category": "Holidays",
     "created": 1332840395,
     "tags": [
+      "box",
       "celebration",
       "heart",
       "love",
+      "band",
+      "party",
+      "round",
       "silver",
       "gold",
       "store",
       "wedding",
       "memories",
-      "engagement"
+      "engagement",
+      "circle",
+      "ornament",
+      "kiss",
+      "circular object",
+      "jewellery"
     ],
     "copyright": false,
     "files": {
@@ -80369,12 +80356,14 @@
     "created": 1390342413,
     "tags": [
       "date",
+      "love",
       "couple",
+      "like",
       "holiday",
+      "marriage",
       "decoration",
       "champagne",
       "short story",
-      "decoration piece",
       "novel"
     ],
     "copyright": false,
@@ -84994,10 +84983,17 @@
     "tags": [
       "date",
       "church",
+      "celebration",
       "food",
+      "love",
+      "couple",
+      "party",
       "events",
       "wedding",
-      "gifts"
+      "marriage",
+      "bride",
+      "gifts",
+      "bridecake"
     ],
     "copyright": false,
     "files": {
@@ -85023,10 +85019,16 @@
     "created": 1332752646,
     "tags": [
       "date",
+      "day",
       "church",
+      "celebration",
+      "love",
       "note",
       "events",
-      "wedding"
+      "wedding",
+      "marriage",
+      "wedding anniversary",
+      "wed"
     ],
     "copyright": false,
     "files": {
@@ -85054,12 +85056,19 @@
       "celebration",
       "heart",
       "love",
+      "couple",
       "image",
+      "photograph",
       "wedding",
+      "like",
       "memories",
       "engagement",
       "border",
       "frame",
+      "portrait",
+      "marriage",
+      "representation",
+      "snap",
       "photo booth"
     ],
     "copyright": false,
@@ -85085,10 +85094,19 @@
     "category": "Holidays",
     "created": 1332752646,
     "tags": [
+      "ring",
       "date",
       "church",
+      "love",
+      "couple",
+      "band",
       "events",
-      "wedding"
+      "wedding",
+      "marriage",
+      "bond",
+      "jewellery",
+      "engaged",
+      "wedding band"
     ],
     "copyright": false,
     "files": {
