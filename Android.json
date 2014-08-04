@@ -21039,8 +21039,7 @@
       "comunication",
       "unated nations",
       "un",
-      "glonass",
-      "globe"
+      "glonass"
     ],
     "copyright": false,
     "files": {
@@ -51514,8 +51513,10 @@
       "mobile phone",
       "touch screen",
       "desktop",
+      "gsm",
       "samsung",
       "lg",
+      "gs",
       "classic"
     ],
     "copyright": false,
@@ -53545,7 +53546,8 @@
       "pointer",
       "move",
       "diversity",
-      "turn right"
+      "turn right",
+      "prefer"
     ],
     "copyright": false,
     "files": {
