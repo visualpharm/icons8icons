@@ -24552,6 +24552,7 @@
     "category": "Food",
     "created": 1402095073,
     "tags": [
+      "draw",
       "nutrition",
       "restaurant",
       "dinner",
@@ -24586,8 +24587,7 @@
       "mustard",
       "cafe",
       "mcdonalds",
-      "junk food",
-      "foo"
+      "junk foo"
     ],
     "copyright": false,
     "files": {
@@ -36202,6 +36202,7 @@
     "created": 1391770248,
     "tags": [
       "calendar",
+      "user",
       "check",
       "delete",
       "cancel",
@@ -42048,10 +42049,10 @@
       "detect",
       "details",
       "finder",
-      "magnify",
       "magnified",
       "zoom in",
       "scan",
+      "magnify",
       "search",
       "find"
     ],
@@ -43002,6 +43003,7 @@
       "account",
       "mall",
       "retail",
+      "cart",
       "white",
       "yoga",
       "restaurants",
