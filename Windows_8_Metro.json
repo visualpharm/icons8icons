@@ -22611,19 +22611,24 @@
     "created": 1381398244,
     "tags": [
       "device",
+      "windows",
+      "control",
       "microsoft",
-      "shopping",
-      "commerce",
-      "barcode",
-      "cashier",
-      "gear",
-      "shop",
+      "hardware",
+      "data",
+      "settings",
+      "operating system",
+      "support",
       "computer",
       "gadget",
-      "device manager",
-      "cash desk",
-      "geek",
-      "dummy"
+      "locate",
+      "management",
+      "utility",
+      "errors",
+      "control panel",
+      "drivers",
+      "troubleshooting",
+      "update drivers"
     ],
     "copyright": false,
     "files": {
@@ -27058,6 +27063,48 @@
     }
   },
   {
+    "id": 5450,
+    "name": "energy_calorie",
+    "platform": "Windows 8/Metro",
+    "category": "Food",
+    "created": 1407250287,
+    "tags": [
+      "food",
+      "protein",
+      "nutrition",
+      "label",
+      "meal",
+      "fitness",
+      "logo",
+      "diet",
+      "energy",
+      "calories",
+      "txt",
+      "description",
+      "healthy",
+      "carbohydrates",
+      "fats",
+      "calorie",
+      "kilocalorie",
+      "kilo"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/energy_calorie.svg",
+      "svg.simplified": "/SVG_for_Font/Food/energy_calorie.svg",
+      "eps": "/EPS/Food/energy_calorie.eps",
+      "png": {
+        "32": "/PNG/32/Food/energy_calorie-32.png",
+        "128": "/PNG/128/Food/energy_calorie-128.png",
+        "26": "/PNG/26/Food/energy_calorie-26.png",
+        "256": "/PNG/256/Food/energy_calorie-256.png",
+        "512": "/PNG/512/Food/energy_calorie-512.png",
+        "64": "/PNG/64/Food/energy_calorie-64.png",
+        "48": "/PNG/48/Food/energy_calorie-48.png"
+      }
+    }
+  },
+  {
     "id": 1730,
     "name": "engine",
     "platform": "Windows 8/Metro",
@@ -29259,6 +29306,49 @@
         "512": "/PNG/512/Transport/ferry-512.png",
         "64": "/PNG/64/Transport/ferry-64.png",
         "48": "/PNG/48/Transport/ferry-48.png"
+      }
+    }
+  },
+  {
+    "id": 5452,
+    "name": "fiber",
+    "platform": "Windows 8/Metro",
+    "category": "Food",
+    "created": 1407250287,
+    "tags": [
+      "textile",
+      "paper",
+      "earth",
+      "water",
+      "garden",
+      "wood",
+      "leaf",
+      "green",
+      "plant",
+      "dirt",
+      "natural",
+      "biology",
+      "cotton",
+      "rope",
+      "foliage",
+      "cellulose",
+      "polyethylene",
+      "dietary",
+      "photosynthesis"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/fiber.svg",
+      "svg.simplified": "/SVG_for_Font/Food/fiber.svg",
+      "eps": "/EPS/Food/fiber.eps",
+      "png": {
+        "32": "/PNG/32/Food/fiber-32.png",
+        "128": "/PNG/128/Food/fiber-128.png",
+        "26": "/PNG/26/Food/fiber-26.png",
+        "256": "/PNG/256/Food/fiber-256.png",
+        "512": "/PNG/512/Food/fiber-512.png",
+        "64": "/PNG/64/Food/fiber-64.png",
+        "48": "/PNG/48/Food/fiber-48.png"
       }
     }
   },
@@ -33367,17 +33457,27 @@
     "category": "Computer Hardware",
     "created": 1379409064,
     "tags": [
+      "bus",
       "device",
+      "control",
       "hardware",
+      "driver",
       "gear",
+      "click",
       "computer",
+      "pointer",
+      "usb",
       "gadget",
       "scrollwheel",
       "right click",
       "mouse",
       "scrolling",
       "left click",
-      "geek"
+      "movement",
+      "select",
+      "mouse pad",
+      "trackball",
+      "rollover"
     ],
     "copyright": false,
     "files": {
@@ -47111,12 +47211,26 @@
     "created": 1380100024,
     "tags": [
       "device",
+      "windows",
+      "control",
+      "microsoft",
+      "communication",
+      "hardware",
+      "settings",
+      "system",
       "gear",
       "computer",
+      "server",
       "gadget",
-      "relation",
-      "master",
-      "geek"
+      "model",
+      "hard drive",
+      "slave",
+      "crown",
+      "primary",
+      "geek",
+      "client",
+      "drivers",
+      "BIOS"
     ],
     "copyright": false,
     "files": {
@@ -72523,13 +72637,26 @@
     "created": 1380100024,
     "tags": [
       "device",
+      "windows",
+      "control",
+      "microsoft",
+      "communication",
+      "hardware",
+      "chain",
+      "drive",
+      "settings",
+      "system",
       "gear",
       "computer",
+      "server",
       "gadget",
-      "relation",
+      "model",
+      "hard drive",
       "master",
-      "slave",
-      "geek"
+      "secondary",
+      "geek",
+      "client",
+      "BIOS"
     ],
     "copyright": false,
     "files": {
@@ -73744,6 +73871,40 @@
         "512": "/PNG/512/Food/soda_bottle-512.png",
         "64": "/PNG/64/Food/soda_bottle-64.png",
         "48": "/PNG/48/Food/soda_bottle-48.png"
+      }
+    }
+  },
+  {
+    "id": 5448,
+    "name": "sodium",
+    "platform": "Windows 8/Metro",
+    "category": "Food",
+    "created": 1407250287,
+    "tags": [
+      "science",
+      "chemistry",
+      "powder",
+      "elements",
+      "salt",
+      "chemical",
+      "na",
+      "sodium",
+      "periodic table",
+      "chloride"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/sodium.svg",
+      "svg.simplified": "/SVG_for_Font/Food/sodium.svg",
+      "eps": "/EPS/Food/sodium.eps",
+      "png": {
+        "32": "/PNG/32/Food/sodium-32.png",
+        "128": "/PNG/128/Food/sodium-128.png",
+        "26": "/PNG/26/Food/sodium-26.png",
+        "256": "/PNG/256/Food/sodium-256.png",
+        "512": "/PNG/512/Food/sodium-512.png",
+        "64": "/PNG/64/Food/sodium-64.png",
+        "48": "/PNG/48/Food/sodium-48.png"
       }
     }
   },

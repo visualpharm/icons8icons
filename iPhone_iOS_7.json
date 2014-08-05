@@ -18195,19 +18195,24 @@
     "created": 1405320679,
     "tags": [
       "device",
+      "windows",
+      "control",
       "microsoft",
-      "shopping",
-      "commerce",
-      "barcode",
-      "cashier",
-      "gear",
-      "shop",
+      "hardware",
+      "data",
+      "settings",
+      "operating system",
+      "support",
       "computer",
       "gadget",
-      "device manager",
-      "cash desk",
-      "geek",
-      "dummy"
+      "locate",
+      "management",
+      "utility",
+      "errors",
+      "control panel",
+      "drivers",
+      "troubleshooting",
+      "update drivers"
     ],
     "copyright": false,
     "files": {
@@ -22098,6 +22103,49 @@
     }
   },
   {
+    "id": 5451,
+    "name": "energy_calorie",
+    "platform": "iPhone/iOS 7",
+    "category": "Food",
+    "created": 1407250287,
+    "tags": [
+      "food",
+      "protein",
+      "nutrition",
+      "label",
+      "meal",
+      "fitness",
+      "logo",
+      "diet",
+      "energy",
+      "calories",
+      "txt",
+      "description",
+      "healthy",
+      "carbohydrates",
+      "fats",
+      "calorie",
+      "kilocalorie",
+      "kilo"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/energy_calorie.svg",
+      "svg.simplified": "/SVG_for_Font/Food/energy_calorie.svg",
+      "eps": "/EPS/Food/energy_calorie.eps",
+      "png": {
+        "25": "/PNG/25/Food/energy_calorie-25.png",
+        "32": "/PNG/32/Food/energy_calorie-32.png",
+        "128": "/PNG/128/Food/energy_calorie-128.png",
+        "75": "/PNG/75/Food/energy_calorie-75.png",
+        "256": "/PNG/256/Food/energy_calorie-256.png",
+        "100": "/PNG/100/Food/energy_calorie-100.png",
+        "512": "/PNG/512/Food/energy_calorie-512.png",
+        "50": "/PNG/50/Food/energy_calorie-50.png"
+      }
+    }
+  },
+  {
     "id": 2942,
     "name": "engagement_ring",
     "platform": "iPhone/iOS 7",
@@ -24180,6 +24228,50 @@
         "100": "/PNG/100/Transport/ferry-100.png",
         "512": "/PNG/512/Transport/ferry-512.png",
         "50": "/PNG/50/Transport/ferry-50.png"
+      }
+    }
+  },
+  {
+    "id": 5453,
+    "name": "fiber",
+    "platform": "iPhone/iOS 7",
+    "category": "Food",
+    "created": 1407250287,
+    "tags": [
+      "textile",
+      "paper",
+      "earth",
+      "water",
+      "garden",
+      "wood",
+      "leaf",
+      "green",
+      "plant",
+      "dirt",
+      "natural",
+      "biology",
+      "cotton",
+      "rope",
+      "foliage",
+      "cellulose",
+      "polyethylene",
+      "dietary",
+      "photosynthesis"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/fiber.svg",
+      "svg.simplified": "/SVG_for_Font/Food/fiber.svg",
+      "eps": "/EPS/Food/fiber.eps",
+      "png": {
+        "25": "/PNG/25/Food/fiber-25.png",
+        "32": "/PNG/32/Food/fiber-32.png",
+        "128": "/PNG/128/Food/fiber-128.png",
+        "75": "/PNG/75/Food/fiber-75.png",
+        "256": "/PNG/256/Food/fiber-256.png",
+        "100": "/PNG/100/Food/fiber-100.png",
+        "512": "/PNG/512/Food/fiber-512.png",
+        "50": "/PNG/50/Food/fiber-50.png"
       }
     }
   },
@@ -39537,12 +39629,26 @@
     "created": 1380100024,
     "tags": [
       "device",
+      "windows",
+      "control",
+      "microsoft",
+      "communication",
+      "hardware",
+      "settings",
+      "system",
       "gear",
       "computer",
+      "server",
       "gadget",
-      "relation",
-      "master",
-      "geek"
+      "model",
+      "hard drive",
+      "slave",
+      "crown",
+      "primary",
+      "geek",
+      "client",
+      "drivers",
+      "BIOS"
     ],
     "copyright": false,
     "files": {
@@ -60830,13 +60936,26 @@
     "created": 1380100024,
     "tags": [
       "device",
+      "windows",
+      "control",
+      "microsoft",
+      "communication",
+      "hardware",
+      "chain",
+      "drive",
+      "settings",
+      "system",
       "gear",
       "computer",
+      "server",
       "gadget",
-      "relation",
+      "model",
+      "hard drive",
       "master",
-      "slave",
-      "geek"
+      "secondary",
+      "geek",
+      "client",
+      "BIOS"
     ],
     "copyright": false,
     "files": {
@@ -62105,6 +62224,41 @@
         "100": "/PNG/100/Clothing/socks-100.png",
         "512": "/PNG/512/Clothing/socks-512.png",
         "50": "/PNG/50/Clothing/socks-50.png"
+      }
+    }
+  },
+  {
+    "id": 5449,
+    "name": "sodium",
+    "platform": "iPhone/iOS 7",
+    "category": "Food",
+    "created": 1407250287,
+    "tags": [
+      "science",
+      "chemistry",
+      "powder",
+      "elements",
+      "salt",
+      "chemical",
+      "na",
+      "sodium",
+      "periodic table",
+      "chloride"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/sodium.svg",
+      "svg.simplified": "/SVG_for_Font/Food/sodium.svg",
+      "eps": "/EPS/Food/sodium.eps",
+      "png": {
+        "25": "/PNG/25/Food/sodium-25.png",
+        "32": "/PNG/32/Food/sodium-32.png",
+        "128": "/PNG/128/Food/sodium-128.png",
+        "75": "/PNG/75/Food/sodium-75.png",
+        "256": "/PNG/256/Food/sodium-256.png",
+        "100": "/PNG/100/Food/sodium-100.png",
+        "512": "/PNG/512/Food/sodium-512.png",
+        "50": "/PNG/50/Food/sodium-50.png"
       }
     }
   },
