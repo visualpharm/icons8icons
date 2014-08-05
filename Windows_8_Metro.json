@@ -18859,7 +18859,6 @@
       "flat",
       "menu",
       "diet",
-      "apartment",
       "supermarket",
       "culinary",
       "lunch",
@@ -74924,6 +74923,7 @@
     "created": 1378899931,
     "tags": [
       "food",
+      "barcode",
       "plant",
       "nature",
       "drill",
@@ -84334,7 +84334,6 @@
       "human thumb",
       "human finger",
       "tapping",
-      "two finger tap",
       "two finger double tap"
     ],
     "copyright": false,

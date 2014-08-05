@@ -11717,7 +11717,6 @@
       "flat",
       "menu",
       "diet",
-      "apartment",
       "supermarket",
       "culinary",
       "lunch",
@@ -31589,11 +31588,11 @@
       "shopping",
       "savings",
       "coin",
-      "piggy bank",
-      "pig",
       "financial",
       "savings account",
-      "mony box"
+      "mony box",
+      "piggy bank",
+      "pig"
     ],
     "copyright": false,
     "files": {
@@ -46331,6 +46330,7 @@
     "created": 1401454261,
     "tags": [
       "food",
+      "barcode",
       "plant",
       "nature",
       "drill",
@@ -53278,7 +53278,6 @@
       "human thumb",
       "human finger",
       "tapping",
-      "two finger tap",
       "two finger double tap"
     ],
     "copyright": false,
