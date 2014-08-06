@@ -5870,7 +5870,8 @@
       "sell",
       "retail",
       "store",
-      "shop"
+      "shop",
+      "truck"
     ],
     "copyright": false,
     "files": {
@@ -33397,6 +33398,7 @@
       "war",
       "battle",
       "warfare",
+      "spy",
       "scotopic",
       "twilight vision",
       "Infrared vision",
@@ -43320,7 +43322,6 @@
       "silk",
       "wear",
       "outfit",
-      "t shirt",
       "fashion retail",
       "bamboo",
       "garment",
@@ -43330,7 +43331,8 @@
       "cuffs",
       "v-neck",
       "ramie",
-      "soya"
+      "soya",
+      "t shirt"
     ],
     "copyright": false,
     "files": {

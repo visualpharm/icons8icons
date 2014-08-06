@@ -59776,7 +59776,6 @@
       "silk",
       "wear",
       "outfit",
-      "t shirt",
       "fashion retail",
       "bamboo",
       "garment",
@@ -59786,7 +59785,8 @@
       "cuffs",
       "v-neck",
       "ramie",
-      "soya"
+      "soya",
+      "t shirt"
     ],
     "copyright": false,
     "files": {
@@ -79324,8 +79324,6 @@
       "arrow",
       "plus",
       "magnifier",
-      "zoom",
-      "settings",
       "photos",
       "scale",
       "image",

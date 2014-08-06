@@ -10041,7 +10041,8 @@
       "sell",
       "retail",
       "store",
-      "shop"
+      "shop",
+      "truck"
     ],
     "copyright": false,
     "files": {
@@ -29269,6 +29270,40 @@
     }
   },
   {
+    "id": 5455,
+    "name": "favourite_file",
+    "platform": "Windows 8/Metro",
+    "category": "Files",
+    "created": 1407343904,
+    "tags": [
+      "bookmark",
+      "file",
+      "paper",
+      "favorite",
+      "save",
+      "document",
+      "starred",
+      "webpage",
+      "stored",
+      "read later"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/favourite_file.svg",
+      "svg.simplified": "/SVG_for_Font/Files/favourite_file.svg",
+      "eps": "/EPS/Files/favourite_file.eps",
+      "png": {
+        "32": "/PNG/32/Files/favourite_file-32.png",
+        "128": "/PNG/128/Files/favourite_file-128.png",
+        "26": "/PNG/26/Files/favourite_file-26.png",
+        "256": "/PNG/256/Files/favourite_file-256.png",
+        "512": "/PNG/512/Files/favourite_file-512.png",
+        "64": "/PNG/64/Files/favourite_file-64.png",
+        "48": "/PNG/48/Files/favourite_file-48.png"
+      }
+    }
+  },
+  {
     "id": 3486,
     "name": "feed_in",
     "platform": "Windows 8/Metro",
@@ -38975,6 +39010,79 @@
     }
   },
   {
+    "id": 3460,
+    "name": "horse",
+    "platform": "Windows 8/Metro",
+    "category": "Animals",
+    "created": 1393235476,
+    "tags": [
+      "design",
+      "vector",
+      "animal",
+      "pet",
+      "zodiac",
+      "set",
+      "line",
+      "west",
+      "outline",
+      "contour",
+      "clip",
+      "drawing",
+      "profile",
+      "symbol",
+      "sport",
+      "speed",
+      "image",
+      "illustration",
+      "sign",
+      "head",
+      "fate",
+      "black",
+      "stars",
+      "white",
+      "icon",
+      "nature",
+      "wild",
+      "shape",
+      "style",
+      "art",
+      "freedom",
+      "chess",
+      "horse",
+      "beautiful",
+      "isolated",
+      "abstract",
+      "simple",
+      "strong",
+      "elements",
+      "silhouette",
+      "horseback",
+      "farm",
+      "future",
+      "domestic",
+      "aggressive",
+      "horoscope",
+      "stylized",
+      "race",
+      "mammal"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Animals/horse.svg",
+      "svg.simplified": "/SVG_for_Font/Animals/horse.svg",
+      "eps": "/EPS/Animals/horse.eps",
+      "png": {
+        "32": "/PNG/32/Animals/horse-32.png",
+        "128": "/PNG/128/Animals/horse-128.png",
+        "26": "/PNG/26/Animals/horse-26.png",
+        "256": "/PNG/256/Animals/horse-256.png",
+        "512": "/PNG/512/Animals/horse-512.png",
+        "64": "/PNG/64/Animals/horse-64.png",
+        "48": "/PNG/48/Animals/horse-48.png"
+      }
+    }
+  },
+  {
     "id": 3014,
     "name": "horseshoe",
     "platform": "Windows 8/Metro",
@@ -47503,6 +47611,31 @@
     }
   },
   {
+    "id": 5454,
+    "name": "mark_as_favourite",
+    "platform": "Windows 8/Metro",
+    "category": "Files",
+    "created": 1407343904,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Files/mark_as_favourite.svg",
+      "svg.simplified": "/SVG_for_Font/Files/mark_as_favourite.svg",
+      "eps": "/EPS/Files/mark_as_favourite.eps",
+      "png": {
+        "32": "/PNG/32/Files/mark_as_favourite-32.png",
+        "128": "/PNG/128/Files/mark_as_favourite-128.png",
+        "26": "/PNG/26/Files/mark_as_favourite-26.png",
+        "256": "/PNG/256/Files/mark_as_favourite-256.png",
+        "512": "/PNG/512/Files/mark_as_favourite-512.png",
+        "64": "/PNG/64/Files/mark_as_favourite-64.png",
+        "48": "/PNG/48/Files/mark_as_favourite-48.png"
+      }
+    }
+  },
+  {
     "id": 1260,
     "name": "martian",
     "platform": "Windows 8/Metro",
@@ -53439,6 +53572,7 @@
       "war",
       "battle",
       "warfare",
+      "spy",
       "scotopic",
       "twilight vision",
       "Infrared vision",
@@ -71474,7 +71608,6 @@
       "silk",
       "wear",
       "outfit",
-      "t shirt",
       "fashion retail",
       "bamboo",
       "garment",
@@ -71484,7 +71617,8 @@
       "cuffs",
       "v-neck",
       "ramie",
-      "soya"
+      "soya",
+      "t shirt"
     ],
     "copyright": false,
     "files": {
@@ -82797,6 +82931,7 @@
     "tags": [
       "checkmark",
       "completed",
+      "help",
       "business",
       "list",
       "task",
@@ -93880,8 +94015,6 @@
       "arrow",
       "plus",
       "magnifier",
-      "zoom",
-      "settings",
       "photos",
       "scale",
       "image",
