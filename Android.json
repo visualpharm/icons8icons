@@ -363,12 +363,18 @@
       "phone",
       "smartphone",
       "device",
+      "electrical",
       "iphone",
+      "charge",
       "mobile",
       "touch",
+      "power",
       "gadget",
+      "ac",
+      "charger",
       "samsung",
       "lg",
+      "recharge",
       "Battery percent"
     ],
     "copyright": false,
@@ -16902,6 +16908,7 @@
     "created": 1391770248,
     "tags": [
       "close",
+      "delete",
       "edit",
       "arrows",
       "arrow",
@@ -38654,8 +38661,13 @@
       "tower",
       "radio tower",
       "question",
+      "edge",
       "tech",
-      "machinery"
+      "cellular",
+      "3g",
+      "machinery",
+      "cell tower",
+      "LTE"
     ],
     "copyright": false,
     "files": {
@@ -57293,6 +57305,7 @@
       "ssid",
       "next",
       "podcast",
+      "cell tower",
       "programs"
     ],
     "copyright": false,

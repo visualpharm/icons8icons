@@ -22977,6 +22977,7 @@
     "created": 1363367623,
     "tags": [
       "close",
+      "delete",
       "edit",
       "arrows",
       "arrow",
@@ -53885,8 +53886,13 @@
       "tower",
       "radio tower",
       "question",
+      "edge",
       "tech",
-      "machinery"
+      "cellular",
+      "3g",
+      "machinery",
+      "cell tower",
+      "LTE"
     ],
     "copyright": false,
     "files": {
@@ -77435,6 +77441,7 @@
       "ssid",
       "next",
       "podcast",
+      "cell tower",
       "programs"
     ],
     "copyright": false,
