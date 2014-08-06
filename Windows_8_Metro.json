@@ -35327,7 +35327,6 @@
       "programming",
       "search",
       "code",
-      "monitor",
       "rest",
       "magnifying glass",
       "scholar",
@@ -35335,7 +35334,8 @@
       "google web search",
       "google code",
       "google scholar",
-      "scholarly papers"
+      "scholarly papers",
+      "monitor"
     ],
     "copyright": true,
     "files": {
