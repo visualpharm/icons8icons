@@ -6256,7 +6256,6 @@
       "business",
       "party",
       "kitchen set",
-      "cooking",
       "recipe",
       "meal",
       "candles",
@@ -6269,7 +6268,8 @@
       "supermarket",
       "culinary",
       "lunch",
-      "cafe"
+      "cafe",
+      "cooking"
     ],
     "copyright": false,
     "files": {
@@ -7769,7 +7769,8 @@
       "wind instrument",
       "instrument",
       "orhcestra",
-      "music instrument"
+      "music instrument",
+      "Brass instrument"
     ],
     "copyright": false,
     "files": {
@@ -27466,7 +27467,8 @@
       "gallery",
       "shot",
       "frames",
-      "photography"
+      "photography",
+      "contact us"
     ],
     "copyright": false,
     "files": {
@@ -44918,7 +44920,8 @@
       "itunes",
       "blogger",
       "alerts",
-      "viber"
+      "viber",
+      "galler"
     ],
     "copyright": false,
     "files": {
@@ -58436,7 +58439,9 @@
       "play",
       "music",
       "sound",
+      "pitch",
       "orchestra",
+      "opera",
       "musical instrument",
       "orchester",
       "winds",
@@ -58444,24 +58449,27 @@
       "saxophone",
       "musician",
       "mouthpiece",
+      "classical music",
       "woodwind instrument",
+      "jazz",
       "tube",
       "music instrument",
       "as",
       "octave",
+      "symphony orchestra",
       "treble clef",
       "chorus",
+      "saxophonist",
       "chamber music",
       "sax",
       "tenor",
+      "altissimo register",
+      "military band",
+      "marching band",
       "single-reed",
       "alto",
       "baritone",
-      "reed quintet",
-      "boehm system",
-      "leaf springs",
-      "grafton plastic",
-      "reed clipper"
+      "reed quinte"
     ],
     "copyright": false,
     "files": {
@@ -59201,6 +59209,7 @@
       "zoom",
       "zoom in",
       "zoom out",
+      "barcode",
       "resize",
       "expand",
       "enlarge",
@@ -79457,15 +79466,38 @@
     "tags": [
       "play",
       "music",
+      "melody",
+      "tone",
       "sound",
+      "voice",
       "orchestra",
+      "tune",
+      "rhythm",
       "wooden",
+      "bell",
+      "bars",
       "musical instrument",
       "orchester",
       "xylophone",
       "musician",
+      "bass",
+      "tube",
+      "octaves",
+      "mallets",
       "mallet",
-      "music instrument"
+      "music instrument",
+      "resonator",
+      "octave",
+      "tubing",
+      "harmonic",
+      "idiophone",
+      "musical scale",
+      "chromatic",
+      "metal bars",
+      "resonators",
+      "gourds",
+      "xylophonist",
+      "concert xylophone"
     ],
     "copyright": false,
     "files": {
