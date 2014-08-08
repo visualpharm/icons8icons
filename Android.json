@@ -3547,13 +3547,13 @@
       "sell",
       "payment methods",
       "scanner",
-      "identift",
       "id",
       "prison",
       "retail",
       "store",
       "shop",
       "professor",
+      "identift",
       "barcode",
       "bar code"
     ],
@@ -46166,6 +46166,7 @@
     "created": 1401137474,
     "tags": [
       "home",
+      "group",
       "house",
       "flat",
       "living room",
