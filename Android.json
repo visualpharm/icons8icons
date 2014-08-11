@@ -20586,7 +20586,7 @@
     "id": 5054,
     "name": "fridge",
     "platform": "Android",
-    "category": "Food",
+    "category": "Household",
     "created": 1403052665,
     "tags": [
       "pencil",
@@ -20629,7 +20629,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Food/fridge.svg",
+      "svg": "/SVG/Household/fridge.svg",
       "svg.simplified": "/SVG_for_Font/Food/fridge.svg",
       "eps": "/EPS/Food/fridge.eps",
       "png": {
@@ -31909,7 +31909,7 @@
     "id": 5048,
     "name": "microwave",
     "platform": "Android",
-    "category": "Food",
+    "category": "Household",
     "created": 1403052665,
     "tags": [
       "home",
@@ -31944,7 +31944,7 @@
     ],
     "copyright": false,
     "files": {
-      "svg": "/SVG/Food/microwave.svg",
+      "svg": "/SVG/Household/microwave.svg",
       "svg.simplified": "/SVG_for_Font/Food/microwave.svg",
       "eps": "/EPS/Food/microwave.eps",
       "png": {
