@@ -24941,6 +24941,95 @@
     }
   },
   {
+    "id": 5468,
+    "name": "donate",
+    "platform": "Windows 8/Metro",
+    "category": "Business",
+    "created": 1407783082,
+    "tags": [
+      "banking",
+      "savings",
+      "money",
+      "coin",
+      "flip",
+      "future",
+      "insurance",
+      "income",
+      "deposit",
+      "toss",
+      "salary",
+      "mutual fund",
+      "coin insert",
+      "coin flip",
+      "take coin",
+      "give coin",
+      "donate coin",
+      "zip a coin",
+      "toss a coin",
+      "toss design"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/donate.svg",
+      "svg.simplified": "/SVG_for_Font/Business/donate.svg",
+      "eps": "/EPS/Business/donate.eps",
+      "png": {
+        "32": "/PNG/32/Business/donate-32.png",
+        "128": "/PNG/128/Business/donate-128.png",
+        "26": "/PNG/26/Business/donate-26.png",
+        "256": "/PNG/256/Business/donate-256.png",
+        "512": "/PNG/512/Business/donate-512.png",
+        "64": "/PNG/64/Business/donate-64.png",
+        "48": "/PNG/48/Business/donate-48.png"
+      }
+    }
+  },
+  {
+    "id": 5472,
+    "name": "door",
+    "platform": "Windows 8/Metro",
+    "category": "Household",
+    "created": 1407783082,
+    "tags": [
+      "close",
+      "exit",
+      "house",
+      "door",
+      "key",
+      "lock",
+      "locked",
+      "way",
+      "safety",
+      "wood",
+      "entrance",
+      "entry",
+      "shut",
+      "closed",
+      "close the door",
+      "shut the door",
+      "knock",
+      "slam",
+      "door knob",
+      "knock before entering",
+      "dont disturb"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/door.svg",
+      "svg.simplified": "/SVG_for_Font/Household/door.svg",
+      "eps": "/EPS/Household/door.eps",
+      "png": {
+        "32": "/PNG/32/Household/door-32.png",
+        "128": "/PNG/128/Household/door-128.png",
+        "26": "/PNG/26/Household/door-26.png",
+        "256": "/PNG/256/Household/door-256.png",
+        "512": "/PNG/512/Household/door-512.png",
+        "64": "/PNG/64/Household/door-64.png",
+        "48": "/PNG/48/Household/door-48.png"
+      }
+    }
+  },
+  {
     "id": 895,
     "name": "dos",
     "platform": "Windows 8/Metro",
@@ -25186,7 +25275,6 @@
       "minus",
       "save",
       "sync",
-      "upload",
       "export",
       "store",
       "point",
@@ -25195,6 +25283,7 @@
       "binary data",
       "downloaded content",
       "MicroStore",
+      "upload",
       "download"
     ],
     "copyright": false,
@@ -29792,6 +29881,50 @@
     }
   },
   {
+    "id": 5470,
+    "name": "faq",
+    "platform": "Windows 8/Metro",
+    "category": "Business",
+    "created": 1407783082,
+    "tags": [
+      "help",
+      "speech",
+      "support",
+      "answer",
+      "question",
+      "faq",
+      "interaction",
+      "quiz",
+      "clarification",
+      "question and answer",
+      "doubt",
+      "quality assurance",
+      "qa",
+      "question asked",
+      "question answered",
+      "quality answer",
+      "quality achived",
+      "quality attain",
+      "quality assured",
+      "question answerable"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/faq.svg",
+      "svg.simplified": "/SVG_for_Font/Business/faq.svg",
+      "eps": "/EPS/Business/faq.eps",
+      "png": {
+        "32": "/PNG/32/Business/faq-32.png",
+        "128": "/PNG/128/Business/faq-128.png",
+        "26": "/PNG/26/Business/faq-26.png",
+        "256": "/PNG/256/Business/faq-256.png",
+        "512": "/PNG/512/Business/faq-512.png",
+        "64": "/PNG/64/Business/faq-64.png",
+        "48": "/PNG/48/Business/faq-48.png"
+      }
+    }
+  },
+  {
     "id": 5292,
     "name": "farm",
     "platform": "Windows 8/Metro",
@@ -29976,6 +30109,50 @@
         "512": "/PNG/512/Files/favourite_file-512.png",
         "64": "/PNG/64/Files/favourite_file-64.png",
         "48": "/PNG/48/Files/favourite_file-48.png"
+      }
+    }
+  },
+  {
+    "id": 5466,
+    "name": "feedback",
+    "platform": "Windows 8/Metro",
+    "category": "Business",
+    "created": 1407783082,
+    "tags": [
+      "paper",
+      "cover",
+      "mail",
+      "message",
+      "envelope",
+      "reply",
+      "read",
+      "note",
+      "document",
+      "comment",
+      "inbox",
+      "comments",
+      "post",
+      "letter",
+      "response",
+      "mailbox",
+      "answer",
+      "draft",
+      "open letter",
+      "sent message"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/feedback.svg",
+      "svg.simplified": "/SVG_for_Font/Business/feedback.svg",
+      "eps": "/EPS/Business/feedback.eps",
+      "png": {
+        "32": "/PNG/32/Business/feedback-32.png",
+        "128": "/PNG/128/Business/feedback-128.png",
+        "26": "/PNG/26/Business/feedback-26.png",
+        "256": "/PNG/256/Business/feedback-256.png",
+        "512": "/PNG/512/Business/feedback-512.png",
+        "64": "/PNG/64/Business/feedback-64.png",
+        "48": "/PNG/48/Business/feedback-48.png"
       }
     }
   },
@@ -42057,6 +42234,49 @@
         "512": "/PNG/512/Messaging/invisible-512.png",
         "64": "/PNG/64/Messaging/invisible-64.png",
         "48": "/PNG/48/Messaging/invisible-48.png"
+      }
+    }
+  },
+  {
+    "id": 5464,
+    "name": "invite",
+    "platform": "Windows 8/Metro",
+    "category": "Business",
+    "created": 1407783082,
+    "tags": [
+      "postal",
+      "write",
+      "cover",
+      "mail",
+      "message",
+      "read",
+      "letter",
+      "stamp",
+      "call for",
+      "invitation",
+      "greeting card",
+      "polite request",
+      "invoke",
+      "encourage",
+      "induce",
+      "ask for",
+      "tempt",
+      "formal request",
+      "appeal for"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/invite.svg",
+      "svg.simplified": "/SVG_for_Font/Business/invite.svg",
+      "eps": "/EPS/Business/invite.eps",
+      "png": {
+        "32": "/PNG/32/Business/invite-32.png",
+        "128": "/PNG/128/Business/invite-128.png",
+        "26": "/PNG/26/Business/invite-26.png",
+        "256": "/PNG/256/Business/invite-256.png",
+        "512": "/PNG/512/Business/invite-512.png",
+        "64": "/PNG/64/Business/invite-64.png",
+        "48": "/PNG/48/Business/invite-48.png"
       }
     }
   },

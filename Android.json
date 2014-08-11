@@ -15634,7 +15634,6 @@
       "minus",
       "save",
       "sync",
-      "upload",
       "export",
       "store",
       "point",
@@ -15643,6 +15642,7 @@
       "binary data",
       "downloaded content",
       "MicroStore",
+      "upload",
       "download"
     ],
     "copyright": false,

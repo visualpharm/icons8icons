@@ -19903,6 +19903,97 @@
     }
   },
   {
+    "id": 5469,
+    "name": "donate",
+    "platform": "iPhone/iOS 7",
+    "category": "Business",
+    "created": 1407783082,
+    "tags": [
+      "banking",
+      "savings",
+      "money",
+      "coin",
+      "flip",
+      "future",
+      "insurance",
+      "income",
+      "deposit",
+      "toss",
+      "salary",
+      "mutual fund",
+      "coin insert",
+      "coin flip",
+      "take coin",
+      "give coin",
+      "donate coin",
+      "zip a coin",
+      "toss a coin",
+      "toss design"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/donate.svg",
+      "svg.simplified": "/SVG_for_Font/Business/donate.svg",
+      "eps": "/EPS/Business/donate.eps",
+      "png": {
+        "25": "/PNG/25/Business/donate-25.png",
+        "32": "/PNG/32/Business/donate-32.png",
+        "128": "/PNG/128/Business/donate-128.png",
+        "75": "/PNG/75/Business/donate-75.png",
+        "256": "/PNG/256/Business/donate-256.png",
+        "100": "/PNG/100/Business/donate-100.png",
+        "512": "/PNG/512/Business/donate-512.png",
+        "50": "/PNG/50/Business/donate-50.png"
+      }
+    }
+  },
+  {
+    "id": 5473,
+    "name": "door",
+    "platform": "iPhone/iOS 7",
+    "category": "Household",
+    "created": 1407783082,
+    "tags": [
+      "close",
+      "exit",
+      "house",
+      "door",
+      "key",
+      "lock",
+      "locked",
+      "way",
+      "safety",
+      "wood",
+      "entrance",
+      "entry",
+      "shut",
+      "closed",
+      "close the door",
+      "shut the door",
+      "knock",
+      "slam",
+      "door knob",
+      "knock before entering",
+      "dont disturb"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Household/door.svg",
+      "svg.simplified": "/SVG_for_Font/Household/door.svg",
+      "eps": "/EPS/Household/door.eps",
+      "png": {
+        "25": "/PNG/25/Household/door-25.png",
+        "32": "/PNG/32/Household/door-32.png",
+        "128": "/PNG/128/Household/door-128.png",
+        "75": "/PNG/75/Household/door-75.png",
+        "256": "/PNG/256/Household/door-256.png",
+        "100": "/PNG/100/Household/door-100.png",
+        "512": "/PNG/512/Household/door-512.png",
+        "50": "/PNG/50/Household/door-50.png"
+      }
+    }
+  },
+  {
     "id": 1855,
     "name": "double_tap",
     "platform": "iPhone/iOS 7",
@@ -20189,7 +20280,6 @@
       "minus",
       "save",
       "sync",
-      "upload",
       "export",
       "store",
       "point",
@@ -20198,6 +20288,7 @@
       "binary data",
       "downloaded content",
       "MicroStore",
+      "upload",
       "download"
     ],
     "copyright": false,
@@ -24199,6 +24290,51 @@
     }
   },
   {
+    "id": 5471,
+    "name": "faq",
+    "platform": "iPhone/iOS 7",
+    "category": "Business",
+    "created": 1407783082,
+    "tags": [
+      "help",
+      "speech",
+      "support",
+      "answer",
+      "question",
+      "faq",
+      "interaction",
+      "quiz",
+      "clarification",
+      "question and answer",
+      "doubt",
+      "quality assurance",
+      "qa",
+      "question asked",
+      "question answered",
+      "quality answer",
+      "quality achived",
+      "quality attain",
+      "quality assured",
+      "question answerable"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/faq.svg",
+      "svg.simplified": "/SVG_for_Font/Business/faq.svg",
+      "eps": "/EPS/Business/faq.eps",
+      "png": {
+        "25": "/PNG/25/Business/faq-25.png",
+        "32": "/PNG/32/Business/faq-32.png",
+        "128": "/PNG/128/Business/faq-128.png",
+        "75": "/PNG/75/Business/faq-75.png",
+        "256": "/PNG/256/Business/faq-256.png",
+        "100": "/PNG/100/Business/faq-100.png",
+        "512": "/PNG/512/Business/faq-512.png",
+        "50": "/PNG/50/Business/faq-50.png"
+      }
+    }
+  },
+  {
     "id": 5293,
     "name": "farm",
     "platform": "iPhone/iOS 7",
@@ -24445,6 +24581,51 @@
         "100": "/PNG/100/Files/fb2-100.png",
         "512": "/PNG/512/Files/fb2-512.png",
         "50": "/PNG/50/Files/fb2-50.png"
+      }
+    }
+  },
+  {
+    "id": 5467,
+    "name": "feedback",
+    "platform": "iPhone/iOS 7",
+    "category": "Business",
+    "created": 1407783082,
+    "tags": [
+      "paper",
+      "cover",
+      "mail",
+      "message",
+      "envelope",
+      "reply",
+      "read",
+      "note",
+      "document",
+      "comment",
+      "inbox",
+      "comments",
+      "post",
+      "letter",
+      "response",
+      "mailbox",
+      "answer",
+      "draft",
+      "open letter",
+      "sent message"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/feedback.svg",
+      "svg.simplified": "/SVG_for_Font/Business/feedback.svg",
+      "eps": "/EPS/Business/feedback.eps",
+      "png": {
+        "25": "/PNG/25/Business/feedback-25.png",
+        "32": "/PNG/32/Business/feedback-32.png",
+        "128": "/PNG/128/Business/feedback-128.png",
+        "75": "/PNG/75/Business/feedback-75.png",
+        "256": "/PNG/256/Business/feedback-256.png",
+        "100": "/PNG/100/Business/feedback-100.png",
+        "512": "/PNG/512/Business/feedback-512.png",
+        "50": "/PNG/50/Business/feedback-50.png"
       }
     }
   },
@@ -34894,6 +35075,50 @@
         "100": "/PNG/100/Messaging/invisible-100.png",
         "512": "/PNG/512/Messaging/invisible-512.png",
         "50": "/PNG/50/Messaging/invisible-50.png"
+      }
+    }
+  },
+  {
+    "id": 5465,
+    "name": "invite",
+    "platform": "iPhone/iOS 7",
+    "category": "Business",
+    "created": 1407783082,
+    "tags": [
+      "postal",
+      "write",
+      "cover",
+      "mail",
+      "message",
+      "read",
+      "letter",
+      "stamp",
+      "call for",
+      "invitation",
+      "greeting card",
+      "polite request",
+      "invoke",
+      "encourage",
+      "induce",
+      "ask for",
+      "tempt",
+      "formal request",
+      "appeal for"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/invite.svg",
+      "svg.simplified": "/SVG_for_Font/Business/invite.svg",
+      "eps": "/EPS/Business/invite.eps",
+      "png": {
+        "25": "/PNG/25/Business/invite-25.png",
+        "32": "/PNG/32/Business/invite-32.png",
+        "128": "/PNG/128/Business/invite-128.png",
+        "75": "/PNG/75/Business/invite-75.png",
+        "256": "/PNG/256/Business/invite-256.png",
+        "100": "/PNG/100/Business/invite-100.png",
+        "512": "/PNG/512/Business/invite-512.png",
+        "50": "/PNG/50/Business/invite-50.png"
       }
     }
   },
