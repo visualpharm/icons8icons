@@ -49280,7 +49280,6 @@
       "code",
       "symbol",
       "network",
-      "money",
       "currency",
       "cart",
       "sign",
@@ -49299,7 +49298,8 @@
       "pound",
       "finance",
       "isolated",
-      "object"
+      "object",
+      "simple"
     ],
     "copyright": false,
     "files": {
@@ -49895,6 +49895,41 @@
         "100": "/PNG/100/Business/pencil_sharpener-100.png",
         "512": "/PNG/512/Business/pencil_sharpener-512.png",
         "50": "/PNG/50/Business/pencil_sharpener-50.png"
+      }
+    }
+  },
+  {
+    "id": 5474,
+    "name": "penis",
+    "platform": "iPhone/iOS 7",
+    "category": "Cinema",
+    "created": 1407790287,
+    "tags": [
+      "long",
+      "sex",
+      "male",
+      "soft",
+      "stretch",
+      "skin",
+      "organ",
+      "reproduction",
+      "mastrubation",
+      "urine"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Cinema/penis.svg",
+      "svg.simplified": "/SVG_for_Font/Cinema/penis.svg",
+      "eps": "/EPS/Cinema/penis.eps",
+      "png": {
+        "25": "/PNG/25/Cinema/penis-25.png",
+        "32": "/PNG/32/Cinema/penis-32.png",
+        "128": "/PNG/128/Cinema/penis-128.png",
+        "75": "/PNG/75/Cinema/penis-75.png",
+        "256": "/PNG/256/Cinema/penis-256.png",
+        "100": "/PNG/100/Cinema/penis-100.png",
+        "512": "/PNG/512/Cinema/penis-512.png",
+        "50": "/PNG/50/Cinema/penis-50.png"
       }
     }
   },
