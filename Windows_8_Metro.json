@@ -21702,12 +21702,12 @@
     "category": "Sports",
     "created": 1403268663,
     "tags": [
+      "as",
       "performance",
       "fun",
       "communication",
       "group",
       "music",
-      "entertainment",
       "expression",
       "party",
       "classical",
@@ -21722,7 +21722,6 @@
       "competition",
       "tap",
       "gestures",
-      "swing",
       "movement",
       "street",
       "flow",
@@ -21737,13 +21736,15 @@
       "dance lessons",
       "play list",
       "choreographs",
-      "ballroom",
       "tango",
       "waltz",
-      "hip-hop",
       "boogie-woogie",
       "foxtrot",
-      "cha-ch"
+      "cha-cha-cha",
+      "salsa",
+      "grace",
+      "breakdancing",
+      "tec"
     ],
     "copyright": false,
     "files": {
@@ -64390,6 +64391,7 @@
       "paper",
       "printer",
       "work",
+      "project",
       "office stuff",
       "job",
       "outlook web app"
@@ -81964,6 +81966,7 @@
     "tags": [
       "iphone",
       "tablet",
+      "bar code",
       "swipe",
       "ipad",
       "ipod",

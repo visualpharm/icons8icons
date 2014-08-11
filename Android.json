@@ -13766,12 +13766,12 @@
     "category": "Sports",
     "created": 1403311877,
     "tags": [
+      "as",
       "performance",
       "fun",
       "communication",
       "group",
       "music",
-      "entertainment",
       "expression",
       "party",
       "classical",
@@ -13786,7 +13786,6 @@
       "competition",
       "tap",
       "gestures",
-      "swing",
       "movement",
       "street",
       "flow",
@@ -13801,13 +13800,15 @@
       "dance lessons",
       "play list",
       "choreographs",
-      "ballroom",
       "tango",
       "waltz",
-      "hip-hop",
       "boogie-woogie",
       "foxtrot",
-      "cha-ch"
+      "cha-cha-cha",
+      "salsa",
+      "grace",
+      "breakdancing",
+      "tec"
     ],
     "copyright": false,
     "files": {
@@ -20631,17 +20632,17 @@
     "files": {
       "svg": "/SVG/Household/fridge.svg",
       "svg.simplified": "/SVG_for_Font/Food/fridge.svg",
-      "eps": "/EPS/Food/fridge.eps",
+      "eps": "/EPS/Household/fridge.eps",
       "png": {
-        "32": "/PNG/32/Food/fridge-32.png",
-        "128": "/PNG/128/Food/fridge-128.png",
-        "256": "/PNG/256/Food/fridge-256.png",
-        "36": "/PNG/36/Food/fridge-36.png",
-        "512": "/PNG/512/Food/fridge-512.png",
-        "64": "/PNG/64/Food/fridge-64.png",
-        "24": "/PNG/24/Food/fridge-24.png",
-        "96": "/PNG/96/Food/fridge-96.png",
-        "48": "/PNG/48/Food/fridge-48.png"
+        "32": "/PNG/32/Household/fridge-32.png",
+        "128": "/PNG/128/Household/fridge-128.png",
+        "256": "/PNG/256/Household/fridge-256.png",
+        "36": "/PNG/36/Household/fridge-36.png",
+        "512": "/PNG/512/Household/fridge-512.png",
+        "64": "/PNG/64/Household/fridge-64.png",
+        "24": "/PNG/24/Household/fridge-24.png",
+        "96": "/PNG/96/Household/fridge-96.png",
+        "48": "/PNG/48/Household/fridge-48.png"
       }
     }
   },
@@ -31946,17 +31947,17 @@
     "files": {
       "svg": "/SVG/Household/microwave.svg",
       "svg.simplified": "/SVG_for_Font/Food/microwave.svg",
-      "eps": "/EPS/Food/microwave.eps",
+      "eps": "/EPS/Household/microwave.eps",
       "png": {
-        "32": "/PNG/32/Food/microwave-32.png",
-        "128": "/PNG/128/Food/microwave-128.png",
-        "256": "/PNG/256/Food/microwave-256.png",
-        "36": "/PNG/36/Food/microwave-36.png",
-        "512": "/PNG/512/Food/microwave-512.png",
-        "64": "/PNG/64/Food/microwave-64.png",
-        "24": "/PNG/24/Food/microwave-24.png",
-        "96": "/PNG/96/Food/microwave-96.png",
-        "48": "/PNG/48/Food/microwave-48.png"
+        "32": "/PNG/32/Household/microwave-32.png",
+        "128": "/PNG/128/Household/microwave-128.png",
+        "256": "/PNG/256/Household/microwave-256.png",
+        "36": "/PNG/36/Household/microwave-36.png",
+        "512": "/PNG/512/Household/microwave-512.png",
+        "64": "/PNG/64/Household/microwave-64.png",
+        "24": "/PNG/24/Household/microwave-24.png",
+        "96": "/PNG/96/Household/microwave-96.png",
+        "48": "/PNG/48/Household/microwave-48.png"
       }
     }
   },
@@ -50865,6 +50866,7 @@
     "tags": [
       "iphone",
       "tablet",
+      "bar code",
       "swipe",
       "ipad",
       "ipod",
