@@ -5896,14 +5896,15 @@
     "tags": [
       "girl",
       "child",
-      "kindergarten",
       "kids",
       "baby",
+      "infant",
       "newborn",
       "parenting",
       "bib",
       "boy",
       "birth",
+      "napkin",
       "nanny",
       "child care"
     ],
@@ -7564,11 +7565,13 @@
       "kids",
       "baby",
       "parenting",
-      "brik",
       "boy",
+      "toddler",
       "birth",
       "nanny",
       "child care",
+      "building block",
+      "alphabet block",
       "newborn"
     ],
     "copyright": false,
@@ -13887,6 +13890,7 @@
     "tags": [
       "morning",
       "office",
+      "book",
       "home",
       "food",
       "favorite",
@@ -15074,6 +15078,7 @@
     "created": 1342780370,
     "tags": [
       "food",
+      "cooking",
       "snack",
       "drinks",
       "cook",
@@ -15230,7 +15235,6 @@
       "cheese",
       "cooking",
       "recipe",
-      "meal",
       "grocery",
       "menu",
       "diet",
@@ -15256,7 +15260,8 @@
       "butterscotch",
       "chocolate chip",
       "cheese cake",
-      "fortune cookies"
+      "fortune cookies",
+      "meal"
     ],
     "copyright": false,
     "files": {
@@ -16163,9 +16168,14 @@
       "parenting",
       "crib",
       "boy",
+      "baby bed",
       "birth",
+      "bunk",
       "nanny",
-      "child care"
+      "child care",
+      "cot",
+      "cradle",
+      "bassinet"
     ],
     "copyright": false,
     "files": {
@@ -24565,6 +24575,7 @@
       "head",
       "wheel",
       "legs",
+      "stroller",
       "body",
       "standing",
       "toy",
@@ -24577,7 +24588,8 @@
       "daddy",
       "pa",
       "father figure",
-      "poppa"
+      "poppa",
+      "perambulator"
     ],
     "copyright": false,
     "files": {
@@ -26774,17 +26786,13 @@
     "category": "Very Basic",
     "created": 1337067591,
     "tags": [
-      "office",
       "files",
       "folders",
-      "profile",
-      "database",
       "organization",
       "portfolio",
       "clearbook",
       "sort",
       "cardboard",
-      "archives",
       "itunes"
     ],
     "copyright": false,
@@ -33129,7 +33137,7 @@
     "category": "Very Basic",
     "created": 1390342414,
     "tags": [
-
+      "homeIcon"
     ],
     "copyright": false,
     "files": {
@@ -34862,6 +34870,7 @@
       "vehicle part",
       "fabric",
       "tech",
+      "effect",
       "machinery",
       "lines",
       "engineering",
@@ -42229,13 +42238,13 @@
       "studio",
       "press",
       "pic",
-      "siri",
       "voice over",
       "singer",
       "micro",
       "geek",
       "microphone",
-      "mic"
+      "mic",
+      "siri"
     ],
     "copyright": false,
     "files": {
@@ -48433,12 +48442,17 @@
       "growing up",
       "boy",
       "suck",
+      "piece",
       "latex",
       "birth",
       "chew",
       "sucking",
       "nanny",
-      "child care"
+      "child care",
+      "baby device",
+      "comforter",
+      "baby s dummy",
+      "binky"
     ],
     "copyright": false,
     "files": {
@@ -50034,14 +50048,21 @@
       "sex",
       "male",
       "soft",
-      "stretch",
-      "skin",
       "nudity",
       "nude",
       "organ",
       "reproduction",
       "mastrubation",
-      "urine"
+      "urine",
+      "Rude thing",
+      "Private part",
+      "Poo",
+      "XD",
+      "stretch",
+      "skin",
+      "Lol",
+      "Minecraft",
+      "LIKE LOOOOOL"
     ],
     "copyright": false,
     "files": {
@@ -52734,7 +52755,6 @@
       "head",
       "female",
       "woman",
-      "camera",
       "figure",
       "young",
       "icon",
@@ -53007,7 +53027,10 @@
       "boy",
       "birth",
       "nanny",
-      "child care"
+      "child care",
+      "talc",
+      "deodorant",
+      "diaper rash"
     ],
     "copyright": false,
     "files": {
@@ -55642,13 +55665,18 @@
       "kindergarten",
       "kids",
       "baby",
+      "infant",
       "newborn",
       "parenting",
       "rattle",
       "boy",
+      "toy",
       "birth",
       "nanny",
-      "child care"
+      "child care",
+      "jiggle",
+      "rattling",
+      "Handbell"
     ],
     "copyright": false,
     "files": {
@@ -66708,7 +66736,12 @@
       "boy",
       "birth",
       "nanny",
-      "child care"
+      "child care",
+      "baby buggy",
+      "perambulator",
+      "pram",
+      "baby carriage",
+      "baby ride"
     ],
     "copyright": false,
     "files": {
@@ -77128,6 +77161,7 @@
     "category": "Sports",
     "created": 1379673291,
     "tags": [
+      "walk",
       "olympics",
       "cup",
       "location",
