@@ -7210,6 +7210,7 @@
       "work",
       "present",
       "category",
+      "Facebook",
       "building",
       "appointment",
       "product",
@@ -7400,6 +7401,7 @@
     "category": "Photo and Video",
     "created": 1406825482,
     "tags": [
+      "people",
       "switch",
       "camera",
       "Lol"
@@ -25576,12 +25578,18 @@
     "category": "Objects",
     "created": 1397177504,
     "tags": [
+      "bookmark",
       "paper",
-      "new",
       "fire",
+      "favorite",
       "document",
       "news",
-      "burning"
+      "web page",
+      "burning",
+      "newsworthy",
+      "headlines",
+      "significant matter",
+      "relevant"
     ],
     "copyright": false,
     "files": {
@@ -25926,48 +25934,6 @@
         "24": "/PNG/24/Measurement_Units/humidity-24.png",
         "96": "/PNG/96/Measurement_Units/humidity-96.png",
         "48": "/PNG/48/Measurement_Units/humidity-48.png"
-      }
-    }
-  },
-  {
-    "id": 4967,
-    "name": "hunburger",
-    "platform": "Android",
-    "category": "Food",
-    "created": 1402095073,
-    "tags": [
-      "nutrition",
-      "restaurant",
-      "dinner",
-      "eat",
-      "breakfast",
-      "cooking",
-      "recipe",
-      "meal",
-      "grocery",
-      "menu",
-      "diet",
-      "supermarket",
-      "culinary",
-      "lunch",
-      "cafe",
-      "eiffel"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Food/hunburger.svg",
-      "svg.simplified": "/SVG_for_Font/Food/hunburger.svg",
-      "eps": "/EPS/Food/hunburger.eps",
-      "png": {
-        "32": "/PNG/32/Food/hunburger-32.png",
-        "128": "/PNG/128/Food/hunburger-128.png",
-        "256": "/PNG/256/Food/hunburger-256.png",
-        "36": "/PNG/36/Food/hunburger-36.png",
-        "512": "/PNG/512/Food/hunburger-512.png",
-        "64": "/PNG/64/Food/hunburger-64.png",
-        "24": "/PNG/24/Food/hunburger-24.png",
-        "96": "/PNG/96/Food/hunburger-96.png",
-        "48": "/PNG/48/Food/hunburger-48.png"
       }
     }
   },
@@ -35889,7 +35855,6 @@
       "sms",
       "information",
       "computer",
-      "mobile",
       "service",
       "map",
       "cloud",
@@ -35901,6 +35866,7 @@
       "GPS location",
       "paper",
       "send",
+      "mobile",
       "social",
       "paper plane"
     ],
@@ -44910,6 +44876,7 @@
       "basket",
       "fashion",
       "more",
+      "internet",
       "ecommerce",
       "sell",
       "retail",
@@ -56779,7 +56746,6 @@
       "sport",
       "palm",
       "athlete",
-      "reception",
       "game",
       "hands",
       "beach",
@@ -56811,7 +56777,9 @@
       "jump float",
       "topspin",
       "underarm pass",
-      "dig"
+      "dig",
+      "setters",
+      "l"
     ],
     "copyright": false,
     "files": {
