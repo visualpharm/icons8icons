@@ -2480,14 +2480,19 @@
     "created": 1395003082,
     "tags": [
       "good",
-      "chat",
+      "granted",
+      "loan",
+      "accept",
+      "action",
       "project",
       "success",
       "approve",
-      "decisions",
+      "decision",
       "solution",
-      "make a decision",
-      "real estat"
+      "plan",
+      "legal",
+      "sanction",
+      "agree"
     ],
     "copyright": false,
     "files": {
@@ -3961,7 +3966,18 @@
       "decision",
       "no",
       "make a decision",
-      "bad decision"
+      "bad decision",
+      "loss",
+      "profit losing",
+      "flat headed",
+      "weak reasoning",
+      "faulty screening process",
+      "no test",
+      "limited test",
+      "bad choice",
+      "wrong choice",
+      "not productive",
+      "imperfect"
     ],
     "copyright": false,
     "files": {
@@ -10076,6 +10092,41 @@
         "100": "/PNG/100/Transport/car_battery-100.png",
         "512": "/PNG/512/Transport/car_battery-512.png",
         "50": "/PNG/50/Transport/car_battery-50.png"
+      }
+    }
+  },
+  {
+    "id": 5477,
+    "name": "car_theft",
+    "platform": "iPhone/iOS 7",
+    "category": "City",
+    "created": 1407977504,
+    "tags": [
+      "car",
+      "crime",
+      "automobiles",
+      "theft",
+      "car thefts",
+      "stealing cars",
+      "auto theft",
+      "culprit",
+      "police case",
+      "stealing"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/car_theft.svg",
+      "svg.simplified": "/SVG_for_Font/City/car_theft.svg",
+      "eps": "/EPS/City/car_theft.eps",
+      "png": {
+        "25": "/PNG/25/City/car_theft-25.png",
+        "32": "/PNG/32/City/car_theft-32.png",
+        "128": "/PNG/128/City/car_theft-128.png",
+        "75": "/PNG/75/City/car_theft-75.png",
+        "256": "/PNG/256/City/car_theft-256.png",
+        "100": "/PNG/100/City/car_theft-100.png",
+        "512": "/PNG/512/City/car_theft-512.png",
+        "50": "/PNG/50/City/car_theft-50.png"
       }
     }
   },
@@ -17794,8 +17845,11 @@
     "created": 1355745297,
     "tags": [
       "ideas",
-      "paper",
+      "right",
       "choice",
+      "positive",
+      "negative",
+      "option",
       "decision",
       "yes",
       "no",
@@ -17803,9 +17857,12 @@
       "decisions",
       "solution",
       "questionnaire",
-      "election",
       "maybe",
-      "yes or no"
+      "yes or no",
+      "wrong",
+      "confusion",
+      "profitable",
+      "uncertain"
     ],
     "copyright": false,
     "files": {
@@ -18998,7 +19055,14 @@
       "no",
       "decisions",
       "make a decision",
-      "disapprove"
+      "disapprove",
+      "manipulation",
+      "management",
+      "illegal",
+      "faulty",
+      "immoral",
+      "non environment friendly",
+      "non profit making"
     ],
     "copyright": false,
     "files": {
@@ -23612,7 +23676,34 @@
     "category": "Business",
     "created": 1385373697,
     "tags": [
+      "bank",
+      "mortgage",
+      "upload",
+      "loan",
+      "export",
+      "environment",
+      "law",
+      "budget",
       "outward",
+      "financial",
+      "regulations",
+      "government",
+      "stock holders",
+      "debt holders",
+      "interest groups",
+      "influence",
+      "CSR",
+      "divident",
+      "control group",
+      "trade union",
+      "fiscal policy",
+      "amendment",
+      "embargo",
+      "move out",
+      "move over",
+      "offload",
+      "lease",
+      "expense",
       "arrow",
       "direction",
       "up",
@@ -29602,11 +29693,17 @@
       "good",
       "positive",
       "success",
+      "portfolio",
       "decision",
       "yes",
       "decisions",
       "make a decision",
-      "good decision"
+      "good decision",
+      "useful",
+      "productive",
+      "right choice",
+      "perfect choice",
+      "better decision"
     ],
     "copyright": false,
     "files": {
@@ -34742,6 +34839,7 @@
       "committee",
       "within the premise",
       "organogram",
+      "retained earnings",
       "enter",
       "arrow",
       "direction",
@@ -34859,6 +34957,32 @@
         "100": "/PNG/100/Transport/interstate_truck-100.png",
         "512": "/PNG/512/Transport/interstate_truck-512.png",
         "50": "/PNG/50/Transport/interstate_truck-50.png"
+      }
+    }
+  },
+  {
+    "id": 5481,
+    "name": "invert_selection",
+    "platform": "iPhone/iOS 7",
+    "category": "Editing",
+    "created": 1407977505,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Editing/invert_selection.svg",
+      "svg.simplified": "/SVG_for_Font/Editing/invert_selection.svg",
+      "eps": "/EPS/Editing/invert_selection.eps",
+      "png": {
+        "25": "/PNG/25/Editing/invert_selection-25.png",
+        "32": "/PNG/32/Editing/invert_selection-32.png",
+        "128": "/PNG/128/Editing/invert_selection-128.png",
+        "75": "/PNG/75/Editing/invert_selection-75.png",
+        "256": "/PNG/256/Editing/invert_selection-256.png",
+        "100": "/PNG/100/Editing/invert_selection-100.png",
+        "512": "/PNG/512/Editing/invert_selection-512.png",
+        "50": "/PNG/50/Editing/invert_selection-50.png"
       }
     }
   },
@@ -41407,7 +41531,6 @@
     "category": "Time And Date",
     "created": 1385041282,
     "tags": [
-      "office",
       "calendar",
       "date",
       "conference",
@@ -41444,7 +41567,8 @@
       "collaboration",
       "entrepreneurs",
       "businessmen",
-      "negotiatio"
+      "negotiations",
+      "work"
     ],
     "copyright": false,
     "files": {
@@ -55309,18 +55433,24 @@
       "upward",
       "score",
       "success",
+      "rank",
       "company",
       "finance",
       "calculating",
+      "hierarchy",
       "standard",
       "economics",
       "calculation",
       "result",
       "consumer",
+      "imdb",
       "assessment",
       "steady rating",
       "contractor",
       "market condition",
+      "point system",
+      "chart system",
+      "alexa",
       "chart",
       "statistics",
       "report"
@@ -60138,6 +60268,32 @@
         "100": "/PNG/100/Finance/SEK-100.png",
         "512": "/PNG/512/Finance/SEK-512.png",
         "50": "/PNG/50/Finance/SEK-50.png"
+      }
+    }
+  },
+  {
+    "id": 5479,
+    "name": "select_all",
+    "platform": "iPhone/iOS 7",
+    "category": "Editing",
+    "created": 1407977505,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Editing/select_all.svg",
+      "svg.simplified": "/SVG_for_Font/Editing/select_all.svg",
+      "eps": "/EPS/Editing/select_all.eps",
+      "png": {
+        "25": "/PNG/25/Editing/select_all-25.png",
+        "32": "/PNG/32/Editing/select_all-32.png",
+        "128": "/PNG/128/Editing/select_all-128.png",
+        "75": "/PNG/75/Editing/select_all-75.png",
+        "256": "/PNG/256/Editing/select_all-256.png",
+        "100": "/PNG/100/Editing/select_all-100.png",
+        "512": "/PNG/512/Editing/select_all-512.png",
+        "50": "/PNG/50/Editing/select_all-50.png"
       }
     }
   },
@@ -67260,7 +67416,8 @@
       "set question",
       "survey paper",
       "easy question",
-      "understandable q"
+      "respondent",
+      "usabi"
     ],
     "copyright": false,
     "files": {

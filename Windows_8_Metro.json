@@ -4382,14 +4382,30 @@
     "tags": [
       "approved",
       "check mark",
+      "security",
       "business",
+      "granted",
+      "loan",
       "sign",
+      "support",
       "success",
-      "walking",
       "stamp",
-      "return",
+      "permission",
       "business symbols",
-      "approvals"
+      "approvals",
+      "plan",
+      "upwards",
+      "complete",
+      "tender",
+      "accepted",
+      "appreciate",
+      "favour",
+      "tested version",
+      "management decision",
+      "recuisition",
+      "final decision",
+      "sanction",
+      "conclusive"
     ],
     "copyright": false,
     "files": {
@@ -4415,14 +4431,19 @@
     "created": 1355827382,
     "tags": [
       "good",
-      "chat",
+      "granted",
+      "loan",
+      "accept",
+      "action",
       "project",
       "success",
       "approve",
-      "decisions",
+      "decision",
       "solution",
-      "make a decision",
-      "real estat"
+      "plan",
+      "legal",
+      "sanction",
+      "agree"
     ],
     "copyright": false,
     "files": {
@@ -6284,7 +6305,18 @@
       "decision",
       "no",
       "make a decision",
-      "bad decision"
+      "bad decision",
+      "loss",
+      "profit losing",
+      "flat headed",
+      "weak reasoning",
+      "faulty screening process",
+      "no test",
+      "limited test",
+      "bad choice",
+      "wrong choice",
+      "not productive",
+      "imperfect"
     ],
     "copyright": false,
     "files": {
@@ -22729,8 +22761,11 @@
     "created": 1355745297,
     "tags": [
       "ideas",
-      "paper",
+      "right",
       "choice",
+      "positive",
+      "negative",
+      "option",
       "decision",
       "yes",
       "no",
@@ -22738,9 +22773,12 @@
       "decisions",
       "solution",
       "questionnaire",
-      "election",
       "maybe",
-      "yes or no"
+      "yes or no",
+      "wrong",
+      "confusion",
+      "profitable",
+      "uncertain"
     ],
     "copyright": false,
     "files": {
@@ -24056,18 +24094,21 @@
     "created": 1359380290,
     "tags": [
       "ecommerce",
-      "sell",
       "document",
       "education",
-      "retail",
-      "store",
       "ribbon",
-      "shop",
+      "project",
       "success",
       "diploma",
       "certificate",
       "rubber stamp",
       "university",
+      "seal",
+      "recognition",
+      "professional certification",
+      "global recognition",
+      "formal recognition",
+      "nobel laureate",
       "award"
     ],
     "copyright": false,
@@ -24109,6 +24150,8 @@
       "prize",
       "achiever",
       "academic award",
+      "academic qualification",
+      "education qualification",
       "education",
       "diploma"
     ],
@@ -24141,7 +24184,14 @@
       "no",
       "decisions",
       "make a decision",
-      "disapprove"
+      "disapprove",
+      "manipulation",
+      "management",
+      "illegal",
+      "faulty",
+      "immoral",
+      "non environment friendly",
+      "non profit making"
     ],
     "copyright": false,
     "files": {
@@ -29430,7 +29480,34 @@
     "category": "Business",
     "created": 1385373697,
     "tags": [
+      "bank",
+      "mortgage",
+      "upload",
+      "loan",
+      "export",
+      "environment",
+      "law",
+      "budget",
       "outward",
+      "financial",
+      "regulations",
+      "government",
+      "stock holders",
+      "debt holders",
+      "interest groups",
+      "influence",
+      "CSR",
+      "divident",
+      "control group",
+      "trade union",
+      "fiscal policy",
+      "amendment",
+      "embargo",
+      "move out",
+      "move over",
+      "offload",
+      "lease",
+      "expense",
       "arrow",
       "direction",
       "up",
@@ -36043,11 +36120,17 @@
       "good",
       "positive",
       "success",
+      "portfolio",
       "decision",
       "yes",
       "decisions",
       "make a decision",
-      "good decision"
+      "good decision",
+      "useful",
+      "productive",
+      "right choice",
+      "perfect choice",
+      "better decision"
     ],
     "copyright": false,
     "files": {
@@ -36922,7 +37005,8 @@
       "scholer",
       "tassel",
       "golden tassel",
-      "doctorate"
+      "doctorate",
+      "red tassel"
     ],
     "copyright": false,
     "files": {
@@ -42241,6 +42325,7 @@
       "committee",
       "within the premise",
       "organogram",
+      "retained earnings",
       "enter",
       "arrow",
       "direction",
@@ -42354,6 +42439,31 @@
         "512": "/PNG/512/Transport/interstate_truck-512.png",
         "64": "/PNG/64/Transport/interstate_truck-64.png",
         "48": "/PNG/48/Transport/interstate_truck-48.png"
+      }
+    }
+  },
+  {
+    "id": 5480,
+    "name": "invert_selection",
+    "platform": "Windows 8/Metro",
+    "category": "Editing",
+    "created": 1407977505,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Editing/invert_selection.svg",
+      "svg.simplified": "/SVG_for_Font/Editing/invert_selection.svg",
+      "eps": "/EPS/Editing/invert_selection.eps",
+      "png": {
+        "32": "/PNG/32/Editing/invert_selection-32.png",
+        "128": "/PNG/128/Editing/invert_selection-128.png",
+        "26": "/PNG/26/Editing/invert_selection-26.png",
+        "256": "/PNG/256/Editing/invert_selection-256.png",
+        "512": "/PNG/512/Editing/invert_selection-512.png",
+        "64": "/PNG/64/Editing/invert_selection-64.png",
+        "48": "/PNG/48/Editing/invert_selection-48.png"
       }
     }
   },
@@ -49922,7 +50032,6 @@
     "category": "Time",
     "created": 1385041282,
     "tags": [
-      "office",
       "calendar",
       "date",
       "conference",
@@ -49959,7 +50068,8 @@
       "collaboration",
       "entrepreneurs",
       "businessmen",
-      "negotiatio"
+      "negotiations",
+      "work"
     ],
     "copyright": false,
     "files": {
@@ -59613,12 +59723,20 @@
     "created": 1359114988,
     "tags": [
       "organisation",
+      "group",
       "business",
       "success",
+      "organization",
+      "unit",
       "planning",
       "business abstract",
       "business symbols",
-      "parallel tasks"
+      "parallel tasks",
+      "management",
+      "supervisor",
+      "workers",
+      "disintegration",
+      "managing labourforce"
     ],
     "copyright": false,
     "files": {
@@ -67170,18 +67288,24 @@
       "upward",
       "score",
       "success",
+      "rank",
       "company",
       "finance",
       "calculating",
+      "hierarchy",
       "standard",
       "economics",
       "calculation",
       "result",
       "consumer",
+      "imdb",
       "assessment",
       "steady rating",
       "contractor",
       "market condition",
+      "point system",
+      "chart system",
+      "alexa",
       "chart",
       "statistics",
       "report"
@@ -72938,6 +73062,31 @@
     }
   },
   {
+    "id": 5478,
+    "name": "select_all",
+    "platform": "Windows 8/Metro",
+    "category": "Editing",
+    "created": 1407977505,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Editing/select_all.svg",
+      "svg.simplified": "/SVG_for_Font/Editing/select_all.svg",
+      "eps": "/EPS/Editing/select_all.eps",
+      "png": {
+        "32": "/PNG/32/Editing/select_all-32.png",
+        "128": "/PNG/128/Editing/select_all-128.png",
+        "26": "/PNG/26/Editing/select_all-26.png",
+        "256": "/PNG/256/Editing/select_all-256.png",
+        "512": "/PNG/512/Editing/select_all-512.png",
+        "64": "/PNG/64/Editing/select_all-64.png",
+        "48": "/PNG/48/Editing/select_all-48.png"
+      }
+    }
+  },
+  {
     "id": 5104,
     "name": "self_destruct_button",
     "platform": "Windows 8/Metro",
@@ -73250,7 +73399,19 @@
       "planning",
       "business abstract",
       "business symbols",
-      "serial tasks"
+      "serial tasks",
+      "factory",
+      "management",
+      "process",
+      "motivation",
+      "chain reaction",
+      "shackled",
+      "one after another",
+      "job order",
+      "process costing",
+      "managerial decision",
+      "manufacturing process",
+      "controlling"
     ],
     "copyright": false,
     "files": {
@@ -80920,7 +81081,8 @@
       "set question",
       "survey paper",
       "easy question",
-      "understandable q"
+      "respondent",
+      "usabi"
     ],
     "copyright": false,
     "files": {
