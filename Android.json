@@ -8855,7 +8855,6 @@
       "mark",
       "arrow",
       "zoom",
-      "round",
       "illustration",
       "organizer",
       "board",
@@ -8898,7 +8897,8 @@
       "aspirations",
       "bullet",
       "victim",
-      "heads"
+      "headshot",
+      "fi"
     ],
     "copyright": false,
     "files": {
@@ -14730,19 +14730,21 @@
     "created": 1391770248,
     "tags": [
       "ecommerce",
-      "sell",
       "business",
       "document",
-      "retail",
-      "store",
       "ribbon",
-      "shop",
+      "degree",
       "certificate",
       "award",
       "rubber stamp",
       "university",
       "scroll",
       "parchment",
+      "folded paper",
+      "graduate",
+      "prize",
+      "achiever",
+      "academic award",
       "education",
       "diploma"
     ],
@@ -29315,6 +29317,7 @@
     "category": "Data",
     "created": 1402491083,
     "tags": [
+      "graphical",
       "chart",
       "display",
       "line",
@@ -36231,6 +36234,7 @@
     "created": 1402095073,
     "tags": [
       "health",
+      "paper",
       "food",
       "nutrition",
       "restaurant",
@@ -37037,7 +37041,6 @@
       "album",
       "sound",
       "video",
-      "image",
       "illustration",
       "photo",
       "gif",
@@ -48082,7 +48085,8 @@
       "vegetarian",
       "vegan",
       "growing",
-      "moist"
+      "moist",
+      "agricultura"
     ],
     "copyright": false,
     "files": {
