@@ -9345,13 +9345,13 @@
       "legal",
       "proper",
       "true",
-      "justifiable",
       "rightful",
       "done",
       "completed",
       "yes",
       "v",
       "checklist",
+      "justifiable",
       "todo",
       "correct",
       "right",
@@ -14288,6 +14288,7 @@
       "close",
       "edit",
       "erase",
+      "folder",
       "city",
       "illustration",
       "spam",
@@ -26175,7 +26176,9 @@
       "opinion",
       "light",
       "discovery",
-      "bright"
+      "letters",
+      "bright",
+      "letyters"
     ],
     "copyright": false,
     "files": {
@@ -26477,8 +26480,7 @@
       "infrared",
       "sending",
       "beam sending",
-      "tech",
-      "machinery"
+      "tech"
     ],
     "copyright": false,
     "files": {
@@ -26645,6 +26647,8 @@
       "light",
       "wallet",
       "economy",
+      "video",
+      "news",
       "equipment",
       "computer",
       "technology",
@@ -27044,7 +27048,6 @@
       "smart phone",
       "check",
       "sms",
-      "apple",
       "call",
       "internet",
       "os",
@@ -27073,7 +27076,8 @@
       "texting",
       "smartphone",
       "device",
-      "iphone"
+      "iphone",
+      "apple"
     ],
     "copyright": true,
     "files": {
@@ -30720,7 +30724,6 @@
       "distance",
       "address",
       "city",
-      "maps",
       "signage",
       "symbols",
       "travel",
@@ -30748,6 +30751,7 @@
       "street map",
       "garmin",
       "glonass",
+      "maps",
       "build"
     ],
     "copyright": false,
@@ -33478,7 +33482,6 @@
       "device",
       "team",
       "iphone",
-      "mechanism",
       "tool",
       "ram",
       "tablet",
@@ -33516,7 +33519,9 @@
       "fablet",
       "2D",
       "CDSM",
-      "HTC"
+      "HTC",
+      "4G",
+      "smartp"
     ],
     "copyright": false,
     "files": {
@@ -33831,6 +33836,7 @@
       "play buttom",
       "music instrument",
       "im freak",
+      "Musicas",
       "swag",
       "tunes",
       "yoloswag",
@@ -36863,6 +36869,7 @@
       "cell",
       "smartphone",
       "device",
+      "user",
       "mail",
       "sms",
       "iphone",
@@ -36899,8 +36906,7 @@
       "cradle",
       "landline",
       "webphone",
-      "phone",
-      "dia"
+      "phon"
     ],
     "copyright": false,
     "files": {
@@ -49291,7 +49297,6 @@
       "plant",
       "worker",
       "manufacturing",
-      "production",
       "social",
       "unit",
       "engineering",
@@ -49312,7 +49317,9 @@
       "poster",
       "violence",
       "tech",
-      "financi"
+      "financial",
+      "public",
+      "d"
     ],
     "copyright": false,
     "files": {
@@ -60714,7 +60721,8 @@
       "horoscope",
       "psychic reading",
       "spiritual",
-      "astrometry"
+      "astrometry",
+      "licorn"
     ],
     "copyright": false,
     "files": {
