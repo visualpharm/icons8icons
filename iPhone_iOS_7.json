@@ -358,20 +358,22 @@
     "category": "Cinema",
     "created": 1330073859,
     "tags": [
-      "kick",
       "genres",
-      "down",
+      "film",
       "police",
       "moves",
       "fly",
       "bombs",
       "death",
-      "black",
       "gun",
       "punch",
       "murder",
-      "investigations",
-      "fbi"
+      "fbi",
+      "fight",
+      "imdb",
+      "special effect",
+      "visual effect",
+      "star wars"
     ],
     "copyright": false,
     "files": {
@@ -607,7 +609,18 @@
     "category": "Cinema",
     "created": 1395798690,
     "tags": [
-      "ticket"
+      "ticket",
+      "movie",
+      "entry",
+      "actor",
+      "actress",
+      "booking",
+      "celebrity",
+      "film ticket",
+      "usher",
+      "cinema hall",
+      "matinee show",
+      "evening show"
     ],
     "copyright": false,
     "files": {
@@ -1024,13 +1037,17 @@
     "tags": [
       "direction",
       "genres",
-      "south",
+      "film",
       "compass",
-      "north",
-      "browser",
-      "lead",
-      "safari",
-      "map"
+      "jumper",
+      "peter pan",
+      "the adventures of tintin",
+      "star wars",
+      "deep blue sea",
+      "ice age",
+      "sinbad",
+      "national treasure",
+      "city of ember"
     ],
     "copyright": false,
     "files": {
@@ -3061,23 +3078,25 @@
     "category": "Cinema",
     "created": 1401979876,
     "tags": [
-      "stadium",
       "group",
       "crowd",
+      "film",
+      "screen",
       "human",
       "people",
       "audience",
       "men",
-      "sign",
+      "movie",
       "person",
+      "theatre",
       "women",
       "circle",
-      "press",
       "group of people",
-      "medium group of people",
       "public",
-      "stage",
-      "citizen"
+      "citizen",
+      "cinema hall",
+      "human head",
+      "movie theatre"
     ],
     "copyright": false,
     "files": {
@@ -18347,8 +18366,11 @@
     "tags": [
       "pass",
       "entrance",
-      "pointer",
-      "tear"
+      "tear",
+      "tear apart",
+      "ticket cancelled",
+      "booking cancelled",
+      "no movie"
     ],
     "copyright": false,
     "files": {
@@ -18580,13 +18602,13 @@
     "created": 1330421997,
     "tags": [
       "discussion",
-      "group",
-      "plus",
       "genres",
+      "film",
       "stories",
-      "pipe",
-      "map",
-      "survey",
+      "shakespeare",
+      "x-files",
+      "police academy",
+      "the blue parrot",
       "look",
       "view",
       "eye"
@@ -19488,10 +19510,13 @@
     "category": "Cinema",
     "created": 1330421997,
     "tags": [
-      "files",
-      "genres",
-      "video",
-      "stories"
+      "film",
+      "stories",
+      "imdb",
+      "rotten tomatoes",
+      "life story",
+      "famous people",
+      "real life documentation"
     ],
     "copyright": false,
     "files": {
@@ -24226,14 +24251,24 @@
     "tags": [
       "wishes",
       "genres",
-      "setting",
       "stories",
       "fairies",
       "mermaids",
       "girls",
+      "young",
       "magic",
       "genie",
-      "young"
+      "supernatural",
+      "cinderella",
+      "alladin",
+      "the adventures of alladin",
+      "wand",
+      "snow queen",
+      "peter pan",
+      "harry poter",
+      "the chronicles of narnia",
+      "tinker bell",
+      "magic wand"
     ],
     "copyright": false,
     "files": {
@@ -33077,9 +33112,18 @@
     "created": 1330073859,
     "tags": [
       "genres",
-      "police",
       "death",
-      "murder"
+      "murder",
+      "halloween",
+      "saw",
+      "kill",
+      "a nightmare on elm street",
+      "psycho",
+      "horror flim",
+      "the scream",
+      "the punishment",
+      "the black water",
+      "horror night"
     ],
     "copyright": false,
     "files": {
@@ -44802,7 +44846,14 @@
     "tags": [
       "music",
       "note",
-      "shopping"
+      "film",
+      "chicago",
+      "imdb",
+      "high school musical",
+      "walking on sunshine",
+      "rotten tomatoes",
+      "mamma mia",
+      "the little mermaid"
     ],
     "copyright": false,
     "files": {
@@ -52700,6 +52751,7 @@
       "hairstyle",
       "photography",
       "daughter",
+      "dance",
       "friends",
       "youth",
       "lady",
@@ -61523,7 +61575,6 @@
     "created": 1326798938,
     "tags": [
       "office",
-      "shipping",
       "user",
       "call",
       "ecommerce",
@@ -61553,6 +61604,7 @@
       "variety store",
       "chain shop",
       "departmental store",
+      "shipping",
       "shop",
       "bar",
       "store"
@@ -69933,15 +69985,18 @@
     "category": "Cinema",
     "created": 1395798690,
     "tags": [
-      "flash",
+      "film",
       "movie",
-      "news",
-      "shop",
+      "theatre",
       "pass",
       "entrance",
       "holiday",
+      "time pass",
+      "booking",
       "free time",
-      "membership card"
+      "cinema hall",
+      "short film",
+      "documentary"
     ],
     "copyright": false,
     "files": {
@@ -73181,10 +73236,26 @@
     "category": "Cinema",
     "created": 1330510494,
     "tags": [
+      "hurt",
+      "knife",
+      "action",
       "death",
+      "murder",
       "darkness",
       "horror",
       "scream",
+      "halloween",
+      "dangerous",
+      "afraid",
+      "saw",
+      "axe",
+      "kill",
+      "shout",
+      "poison",
+      "villain",
+      "punishment",
+      "psycho",
+      "horror drama",
       "scull"
     ],
     "copyright": false,
