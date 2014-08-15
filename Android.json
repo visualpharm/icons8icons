@@ -37046,6 +37046,7 @@
       "earphone",
       "telecommunicate",
       "tel",
+      "news",
       "mobile",
       "touch",
       "gadget",
@@ -37326,53 +37327,6 @@
         "24": "/PNG/24/Folders/pictures-24.png",
         "96": "/PNG/96/Folders/pictures-96.png",
         "48": "/PNG/48/Folders/pictures-48.png"
-      }
-    }
-  },
-  {
-    "id": 4990,
-    "name": "pie",
-    "platform": "Android",
-    "category": "Data",
-    "created": 1402491083,
-    "tags": [
-      "chart",
-      "graph",
-      "statistics",
-      "analytics",
-      "data",
-      "percentage",
-      "illustration",
-      "portion",
-      "reports",
-      "pie chart",
-      "structure",
-      "slice",
-      "diagram",
-      "circular",
-      "representation",
-      "quantity",
-      "visualization",
-      "values",
-      "divided",
-      "proportional",
-      "plots"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Data/pie.svg",
-      "svg.simplified": "/SVG_for_Font/Data/pie.svg",
-      "eps": "/EPS/Data/pie.eps",
-      "png": {
-        "32": "/PNG/32/Data/pie-32.png",
-        "128": "/PNG/128/Data/pie-128.png",
-        "256": "/PNG/256/Data/pie-256.png",
-        "36": "/PNG/36/Data/pie-36.png",
-        "512": "/PNG/512/Data/pie-512.png",
-        "64": "/PNG/64/Data/pie-64.png",
-        "24": "/PNG/24/Data/pie-24.png",
-        "96": "/PNG/96/Data/pie-96.png",
-        "48": "/PNG/48/Data/pie-48.png"
       }
     }
   },

@@ -50250,6 +50250,7 @@
       "earphone",
       "telecommunicate",
       "tel",
+      "news",
       "mobile",
       "touch",
       "gadget",
@@ -74773,6 +74774,7 @@
     "created": 1390342414,
     "tags": [
       "settings",
+      "synchronization",
       "photo",
       "general",
       "kilometer",
@@ -74780,7 +74782,6 @@
       "forward",
       "connect",
       "synchronize",
-      "synchronization",
       "verify",
       "sync",
       "refresh",
