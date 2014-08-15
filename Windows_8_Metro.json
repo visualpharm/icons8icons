@@ -1190,6 +1190,7 @@
       "alphabet",
       "font",
       "character",
+      "competition",
       "latin",
       "abc",
       "alphanumeric"
@@ -3238,6 +3239,7 @@
     "category": "Data",
     "created": 1360675694,
     "tags": [
+      "search",
       "arrow",
       "data",
       "text",
@@ -17730,7 +17732,8 @@
       "exit application",
       "program",
       "quit",
-      "cancel"
+      "cancel",
+      "insert"
     ],
     "copyright": false,
     "files": {
@@ -19411,6 +19414,7 @@
       "internet",
       "chat",
       "video",
+      "map",
       "telecommunications equipment",
       "brainstorming",
       "department",
@@ -22039,7 +22043,22 @@
     "category": "Cinema",
     "created": 1398883905,
     "tags": [
-
+      "combat",
+      "film",
+      "movie",
+      "action",
+      "cinema",
+      "shot",
+      "superhero",
+      "fight",
+      "criminal",
+      "justice",
+      "imdb",
+      "marvel",
+      "ben affleck",
+      "fisk",
+      "elektra",
+      "man without fear"
     ],
     "copyright": false,
     "files": {
@@ -22095,6 +22114,7 @@
     "category": "Data",
     "created": 1333010975,
     "tags": [
+      "calendr",
       "program",
       "application",
       "information",
@@ -28158,6 +28178,7 @@
     "created": 1329818067,
     "tags": [
       "flag",
+      "report",
       "sign",
       "geo",
       "gps",
@@ -38159,6 +38180,7 @@
     "tags": [
       "home",
       "house",
+      "sale",
       "tool",
       "comment",
       "flat",
@@ -43768,7 +43790,11 @@
     "category": "Cinema",
     "created": 1398883905,
     "tags": [
-
+      "ABC warriors",
+      "hammerstein",
+      "comrade",
+      "gothic empire",
+      "elite x-terminators"
     ],
     "copyright": false,
     "files": {
@@ -45506,6 +45532,7 @@
       "genie",
       "cartoon",
       "chinese",
+      "sorcerer",
       "alladin",
       "jasmine",
       "magic carpet",
@@ -45514,7 +45541,9 @@
       "three wishes",
       "wonder lamp",
       "fable",
-      "arabian nights"
+      "arabian nights",
+      "kerosine lamp",
+      "mustapha"
     ],
     "copyright": false,
     "files": {
@@ -48690,7 +48719,20 @@
     "category": "Cinema",
     "created": 1400086347,
     "tags": [
-
+      "games",
+      "film",
+      "movie",
+      "genie",
+      "oil lamp",
+      "chinese",
+      "alladin",
+      "jasmine",
+      "magic carpet",
+      "three wishes",
+      "arabian nights",
+      "mustapha",
+      "carosine lamp",
+      "maghreb"
     ],
     "copyright": false,
     "files": {
@@ -55386,7 +55428,20 @@
     "category": "Cinema",
     "created": 1398883905,
     "tags": [
-
+      "film",
+      "movie",
+      "cinema",
+      "sci fi",
+      "imdb",
+      "federation",
+      "nero",
+      "star trek",
+      "captain kirk",
+      "mr data",
+      "spock",
+      "wesley crusher",
+      "science fiction",
+      "united federation of planets"
     ],
     "copyright": false,
     "files": {
@@ -58927,6 +58982,7 @@
       "timer",
       "page",
       "organizer",
+      "industry",
       "white",
       "schedule",
       "countdown",
@@ -61188,7 +61244,13 @@
     "category": "Cinema",
     "created": 1398883905,
     "tags": [
-
+      "star trek",
+      "ray gun",
+      "directed energy weapon",
+      "star fleet academy",
+      "phase pistol",
+      "laser pistol",
+      "stun"
     ],
     "copyright": false,
     "files": {
@@ -71513,6 +71575,7 @@
     "category": "Ecommerce",
     "created": 1326798938,
     "tags": [
+      "people",
       "percent",
       "ecommerce",
       "offer",
@@ -78281,7 +78344,24 @@
     "category": "Cinema",
     "created": 1398883905,
     "tags": [
-
+      "film",
+      "movie",
+      "mask",
+      "spider web",
+      "rope",
+      "comics",
+      "dc",
+      "marvel",
+      "peter parker",
+      "gotham",
+      "super hero",
+      "dr octopus",
+      "green goblin",
+      "ben parker",
+      "mary parker",
+      "gwen stacy",
+      "the daily bugle",
+      "photographer"
     ],
     "copyright": false,
     "files": {
@@ -79435,7 +79515,18 @@
     "category": "Cinema",
     "created": 1398883905,
     "tags": [
-
+      "film",
+      "movie",
+      "cinema",
+      "v",
+      "salute",
+      "spock",
+      "science fiction",
+      "vulcan salute",
+      "live long and prosper",
+      "vulcan greetings",
+      "vulcan fairwell",
+      "leonard nimoy"
     ],
     "copyright": false,
     "files": {
@@ -83785,7 +83876,20 @@
     "category": "Cinema",
     "created": 1398883905,
     "tags": [
-
+      "film",
+      "speed",
+      "movie",
+      "mask",
+      "shield",
+      "justice league",
+      "flash gordon",
+      "ming",
+      "telepathic communication",
+      "king of the impossible",
+      "defenders of the earth",
+      "izzy",
+      "james",
+      "mongo"
     ],
     "copyright": false,
     "files": {
@@ -88148,7 +88252,6 @@
       "dvd",
       "television",
       "ipod",
-      "remote control",
       "retro",
       "interior",
       "domestic",
