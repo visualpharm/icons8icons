@@ -22038,6 +22038,7 @@
       "perform",
       "participate",
       "glonass",
+      "geofence",
       "animal",
       "enquiry"
     ],
@@ -27845,6 +27846,7 @@
     "category": "Objects",
     "created": 1397249506,
     "tags": [
+      "q",
       "device",
       "play",
       "hardware",

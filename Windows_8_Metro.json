@@ -35878,6 +35878,7 @@
       "perform",
       "participate",
       "glonass",
+      "geofence",
       "animal",
       "enquiry"
     ],
@@ -44555,6 +44556,7 @@
     "category": "Computer Hardware",
     "created": 1338968438,
     "tags": [
+      "q",
       "device",
       "play",
       "hardware",
