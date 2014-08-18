@@ -10342,6 +10342,33 @@
     }
   },
   {
+    "id": 5498,
+    "name": "city_railway_station",
+    "platform": "Android",
+    "category": "City",
+    "created": 1408409488,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/city_railway_station.svg",
+      "svg.simplified": "/SVG_for_Font/City/city_railway_station.svg",
+      "eps": "/EPS/City/city_railway_station.eps",
+      "png": {
+        "32": "/PNG/32/City/city_railway_station-32.png",
+        "128": "/PNG/128/City/city_railway_station-128.png",
+        "256": "/PNG/256/City/city_railway_station-256.png",
+        "36": "/PNG/36/City/city_railway_station-36.png",
+        "512": "/PNG/512/City/city_railway_station-512.png",
+        "64": "/PNG/64/City/city_railway_station-64.png",
+        "24": "/PNG/24/City/city_railway_station-24.png",
+        "96": "/PNG/96/City/city_railway_station-96.png",
+        "48": "/PNG/48/City/city_railway_station-48.png"
+      }
+    }
+  },
+  {
     "id": 3328,
     "name": "clapperboard",
     "platform": "Android",
@@ -33701,7 +33728,6 @@
       "phone",
       "cellphone",
       "device",
-      "team",
       "iphone",
       "tool",
       "ram",
@@ -33742,7 +33768,7 @@
       "CDSM",
       "HTC",
       "4G",
-      "smartp"
+      "smartphone"
     ],
     "copyright": false,
     "files": {
@@ -58089,6 +58115,7 @@
     "category": "DIY",
     "created": 1401454261,
     "tags": [
+      "home",
       "food",
       "nature",
       "biology",

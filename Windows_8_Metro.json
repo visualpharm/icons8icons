@@ -54211,7 +54211,6 @@
       "phone",
       "cellphone",
       "device",
-      "team",
       "iphone",
       "tool",
       "ram",
@@ -54252,7 +54251,7 @@
       "CDSM",
       "HTC",
       "4G",
-      "smartp"
+      "smartphone"
     ],
     "copyright": false,
     "files": {
@@ -68055,64 +68054,6 @@
         "512": "/PNG/512/Transport/railroad_car-512.png",
         "64": "/PNG/64/Transport/railroad_car-64.png",
         "48": "/PNG/48/Transport/railroad_car-48.png"
-      }
-    }
-  },
-  {
-    "id": 3579,
-    "name": "railway_station",
-    "platform": "Windows 8/Metro",
-    "category": "Transport",
-    "created": 1394754704,
-    "tags": [
-      "school",
-      "station",
-      "railroad station",
-      "hotel",
-      "bus stop",
-      "public transport",
-      "terminus",
-      "railroad terminal",
-      "train depot",
-      "passenger express",
-      "passenger station",
-      "railway line",
-      "vehical parking",
-      "atm center",
-      "lanch home",
-      "shops",
-      "home on rent",
-      "power house",
-      "post offise",
-      "track",
-      "line",
-      "booth",
-      "city",
-      "transportation",
-      "subway",
-      "passenger",
-      "ticket",
-      "travel",
-      "train",
-      "service",
-      "town",
-      "express",
-      "platform",
-      "sett"
-    ],
-    "copyright": false,
-    "files": {
-      "svg": "/SVG/Transport/railway_station.svg",
-      "svg.simplified": "/SVG_for_Font/City/railway_station.svg",
-      "eps": "/EPS/City/railway_station.eps",
-      "png": {
-        "32": "/PNG/32/City/railway_station-32.png",
-        "128": "/PNG/128/City/railway_station-128.png",
-        "26": "/PNG/26/City/railway_station-26.png",
-        "256": "/PNG/256/City/railway_station-256.png",
-        "512": "/PNG/512/City/railway_station-512.png",
-        "64": "/PNG/64/City/railway_station-64.png",
-        "48": "/PNG/48/City/railway_station-48.png"
       }
     }
   },
@@ -93937,6 +93878,7 @@
     "category": "DIY",
     "created": 1380618805,
     "tags": [
+      "home",
       "food",
       "nature",
       "biology",
