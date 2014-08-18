@@ -2493,7 +2493,6 @@
       "home",
       "house",
       "flat",
-      "living room",
       "household",
       "chair",
       "comfort",
@@ -2510,7 +2509,8 @@
       "support the arms",
       "support the arms or elbows",
       "side supports",
-      "support for back"
+      "support for back",
+      "living room"
     ],
     "copyright": false,
     "files": {
@@ -4690,7 +4690,6 @@
       "overnight",
       "hilton",
       "sheraton",
-      "radisson",
       "bedroom",
       "airbnb",
       "booking",
@@ -4703,7 +4702,8 @@
       "headboard",
       "footboards",
       "bed frame",
-      "blanket"
+      "blanket",
+      "radisson"
     ],
     "copyright": false,
     "files": {
@@ -6036,6 +6036,7 @@
     "created": 1398905484,
     "tags": [
       "line",
+      "link",
       "setting",
       "text",
       "formatting",
@@ -10708,7 +10709,6 @@
     "category": "Very Basic",
     "created": 1391770248,
     "tags": [
-      "clock",
       "calendar",
       "watch",
       "wall clock",
@@ -10732,6 +10732,7 @@
       "countdown",
       "complete",
       "docs",
+      "clock",
       "time",
       "hours",
       "ready",
@@ -21030,7 +21031,6 @@
       "stars",
       "white",
       "plate",
-      "circle",
       "cylinder",
       "future",
       "on",
@@ -21043,7 +21043,8 @@
       "psychic reading",
       "spiritual",
       "astrometry",
-      "zero"
+      "zero",
+      "circle"
     ],
     "copyright": false,
     "files": {
@@ -22111,12 +22112,12 @@
       "celebrations",
       "birthday",
       "freebies",
-      "ribbon",
       "present",
       "shop",
       "T-Shirt",
       "gift wrap",
-      "complimentary"
+      "complimentary",
+      "ribbon"
     ],
     "copyright": false,
     "files": {
@@ -26084,6 +26085,70 @@
         "24": "/PNG/24/Travel/human_footprints-24.png",
         "96": "/PNG/96/Travel/human_footprints-96.png",
         "48": "/PNG/48/Travel/human_footprints-48.png"
+      }
+    }
+  },
+  {
+    "id": 5483,
+    "name": "humburger",
+    "platform": "Android",
+    "category": "Food",
+    "created": 1408402287,
+    "tags": [
+      "food",
+      "nutrition",
+      "restaurant",
+      "dinner",
+      "eating",
+      "eat",
+      "breakfast",
+      "cheese",
+      "speed",
+      "cooking",
+      "recipe",
+      "snack",
+      "meal",
+      "vegetable",
+      "grocery",
+      "portion",
+      "menu",
+      "diet",
+      "meat",
+      "supermarket",
+      "food and drink",
+      "culinary",
+      "lunch",
+      "tomato",
+      "bread",
+      "chicken",
+      "take out food",
+      "fast food",
+      "junk food/fast food",
+      "mayonnaise",
+      "corn",
+      "hamburger",
+      "burger",
+      "cheeseburger",
+      "sandwich",
+      "beef",
+      "white meat",
+      "cafe"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Food/humburger.svg",
+      "svg.simplified": "/SVG_for_Font/Food/humburger.svg",
+      "eps": "/EPS/Food/humburger.eps",
+      "png": {
+        "32": "/PNG/32/Food/humburger-32.png",
+        "128": "/PNG/128/Food/humburger-128.png",
+        "256": "/PNG/256/Food/humburger-256.png",
+        "36": "/PNG/36/Food/humburger-36.png",
+        "512": "/PNG/512/Food/humburger-512.png",
+        "64": "/PNG/64/Food/humburger-64.png",
+        "24": "/PNG/24/Food/humburger-24.png",
+        "96": "/PNG/96/Food/humburger-96.png",
+        "48": "/PNG/48/Food/humburger-48.png"
       }
     }
   },
@@ -37405,6 +37470,33 @@
         "24": "/PNG/24/Folders/pictures-24.png",
         "96": "/PNG/96/Folders/pictures-96.png",
         "48": "/PNG/48/Folders/pictures-48.png"
+      }
+    }
+  },
+  {
+    "id": 5484,
+    "name": "pie_chart",
+    "platform": "Android",
+    "category": "Data",
+    "created": 1408402287,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Data/pie_chart.svg",
+      "svg.simplified": "/SVG_for_Font/Data/pie_chart.svg",
+      "eps": "/EPS/Data/pie_chart.eps",
+      "png": {
+        "32": "/PNG/32/Data/pie_chart-32.png",
+        "128": "/PNG/128/Data/pie_chart-128.png",
+        "256": "/PNG/256/Data/pie_chart-256.png",
+        "36": "/PNG/36/Data/pie_chart-36.png",
+        "512": "/PNG/512/Data/pie_chart-512.png",
+        "64": "/PNG/64/Data/pie_chart-64.png",
+        "24": "/PNG/24/Data/pie_chart-24.png",
+        "96": "/PNG/96/Data/pie_chart-96.png",
+        "48": "/PNG/48/Data/pie_chart-48.png"
       }
     }
   },

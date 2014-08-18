@@ -127,8 +127,6 @@
     "category": "Alphabet",
     "created": 1328869775,
     "tags": [
-      "numbers",
-      "kindergarten",
       "counting",
       "mathematics",
       "two",
@@ -4892,7 +4890,6 @@
       "home",
       "house",
       "flat",
-      "living room",
       "household",
       "chair",
       "comfort",
@@ -4909,7 +4906,8 @@
       "support the arms",
       "support the arms or elbows",
       "side supports",
-      "support for back"
+      "support for back",
+      "living room"
     ],
     "copyright": false,
     "files": {
@@ -6774,6 +6772,50 @@
     }
   },
   {
+    "id": 5492,
+    "name": "bank_robbery",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1408402287,
+    "tags": [
+      "bank",
+      "locker",
+      "men",
+      "mask",
+      "gun",
+      "scared",
+      "criminal",
+      "thief",
+      "crime",
+      "fruad",
+      "bank attack",
+      "stealing money",
+      "having weapon",
+      "stealing valuables",
+      "robbery",
+      "threatening",
+      "stealling",
+      "flitch",
+      "hands up",
+      "kidnap"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/bank_robbery.svg",
+      "svg.simplified": "/SVG_for_Font/City/bank_robbery.svg",
+      "eps": "/EPS/City/bank_robbery.eps",
+      "png": {
+        "32": "/PNG/32/City/bank_robbery-32.png",
+        "128": "/PNG/128/City/bank_robbery-128.png",
+        "26": "/PNG/26/City/bank_robbery-26.png",
+        "256": "/PNG/256/City/bank_robbery-256.png",
+        "512": "/PNG/512/City/bank_robbery-512.png",
+        "64": "/PNG/64/City/bank_robbery-64.png",
+        "48": "/PNG/48/City/bank_robbery-48.png"
+      }
+    }
+  },
+  {
     "id": 370,
     "name": "bar",
     "platform": "Windows 8/Metro",
@@ -8240,7 +8282,6 @@
       "overnight",
       "hilton",
       "sheraton",
-      "radisson",
       "bedroom",
       "airbnb",
       "booking",
@@ -8253,7 +8294,8 @@
       "headboard",
       "footboards",
       "bed frame",
-      "blanket"
+      "blanket",
+      "radisson"
     ],
     "copyright": false,
     "files": {
@@ -10448,6 +10490,7 @@
     "created": 1337587889,
     "tags": [
       "line",
+      "link",
       "setting",
       "text",
       "formatting",
@@ -17146,6 +17189,31 @@
     }
   },
   {
+    "id": 5482,
+    "name": "city_railway_station",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1408402287,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/city_railway_station.svg",
+      "svg.simplified": "/SVG_for_Font/City/city_railway_station.svg",
+      "eps": "/EPS/City/city_railway_station.eps",
+      "png": {
+        "32": "/PNG/32/City/city_railway_station-32.png",
+        "128": "/PNG/128/City/city_railway_station-128.png",
+        "26": "/PNG/26/City/city_railway_station-26.png",
+        "256": "/PNG/256/City/city_railway_station-256.png",
+        "512": "/PNG/512/City/city_railway_station-512.png",
+        "64": "/PNG/64/City/city_railway_station-64.png",
+        "48": "/PNG/48/City/city_railway_station-48.png"
+      }
+    }
+  },
+  {
     "id": 1425,
     "name": "clapperboard",
     "platform": "Windows 8/Metro",
@@ -17713,7 +17781,6 @@
     "category": "Very Basic",
     "created": 1318305600,
     "tags": [
-      "clock",
       "calendar",
       "watch",
       "wall clock",
@@ -17737,6 +17804,7 @@
       "countdown",
       "complete",
       "docs",
+      "clock",
       "time",
       "hours",
       "ready",
@@ -33820,6 +33888,45 @@
     }
   },
   {
+    "id": 5493,
+    "name": "fraud",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1408402287,
+    "tags": [
+      "duplicate",
+      "thief",
+      "fake",
+      "dupe",
+      "racket",
+      "forgery",
+      "cheat",
+      "gaff",
+      "hoax",
+      "scam",
+      "trickery",
+      "cheater",
+      "lier",
+      "humbug",
+      "dishonest"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/fraud.svg",
+      "svg.simplified": "/SVG_for_Font/City/fraud.svg",
+      "eps": "/EPS/City/fraud.eps",
+      "png": {
+        "32": "/PNG/32/City/fraud-32.png",
+        "128": "/PNG/128/City/fraud-128.png",
+        "26": "/PNG/26/City/fraud-26.png",
+        "256": "/PNG/256/City/fraud-256.png",
+        "512": "/PNG/512/City/fraud-512.png",
+        "64": "/PNG/64/City/fraud-64.png",
+        "48": "/PNG/48/City/fraud-48.png"
+      }
+    }
+  },
+  {
     "id": 4232,
     "name": "freddy_krueger",
     "platform": "Windows 8/Metro",
@@ -34245,7 +34352,6 @@
       "stars",
       "white",
       "plate",
-      "circle",
       "cylinder",
       "future",
       "on",
@@ -34258,7 +34364,8 @@
       "psychic reading",
       "spiritual",
       "astrometry",
-      "zero"
+      "zero",
+      "circle"
     ],
     "copyright": false,
     "files": {
@@ -35963,12 +36070,12 @@
       "celebrations",
       "birthday",
       "freebies",
-      "ribbon",
       "present",
       "shop",
       "T-Shirt",
       "gift wrap",
-      "complimentary"
+      "complimentary",
+      "ribbon"
     ],
     "copyright": false,
     "files": {
@@ -38183,6 +38290,56 @@
     }
   },
   {
+    "id": 5495,
+    "name": "hacking",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1408402287,
+    "tags": [
+      "protection",
+      "security",
+      "internet",
+      "virus",
+      "firewall",
+      "threat",
+      "privacy",
+      "hack",
+      "malware",
+      "spy",
+      "spyware",
+      "theft",
+      "confidential",
+      "surveillance",
+      "stealing",
+      "unsecured",
+      "hacked",
+      "computer hacker",
+      "computer spy",
+      "hackers",
+      "identity threat",
+      "computer threat",
+      "robbing",
+      "phishing",
+      "anonymity",
+      "secrecy"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/hacking.svg",
+      "svg.simplified": "/SVG_for_Font/City/hacking.svg",
+      "eps": "/EPS/City/hacking.eps",
+      "png": {
+        "32": "/PNG/32/City/hacking-32.png",
+        "128": "/PNG/128/City/hacking-128.png",
+        "26": "/PNG/26/City/hacking-26.png",
+        "256": "/PNG/256/City/hacking-256.png",
+        "512": "/PNG/512/City/hacking-512.png",
+        "64": "/PNG/64/City/hacking-64.png",
+        "48": "/PNG/48/City/hacking-48.png"
+      }
+    }
+  },
+  {
     "id": 894,
     "name": "haiku",
     "platform": "Windows 8/Metro",
@@ -40040,7 +40197,6 @@
       "forums",
       "learn",
       "about",
-      "query",
       "Windows Support",
       "topics",
       "ask the community",
@@ -40048,7 +40204,8 @@
       "getting started",
       "help",
       "question mark",
-      "question"
+      "question",
+      "query"
     ],
     "copyright": false,
     "files": {
@@ -41354,6 +41511,48 @@
     }
   },
   {
+    "id": 5494,
+    "name": "house_burglary",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1408402287,
+    "tags": [
+      "box",
+      "window",
+      "enter",
+      "person",
+      "man",
+      "climb",
+      "climbing",
+      "sit",
+      "movement",
+      "edge",
+      "sitting",
+      "burglary",
+      "burglar",
+      "on top",
+      "coming in",
+      "charater",
+      "coming",
+      "boxed in"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/house_burglary.svg",
+      "svg.simplified": "/SVG_for_Font/City/house_burglary.svg",
+      "eps": "/EPS/City/house_burglary.eps",
+      "png": {
+        "32": "/PNG/32/City/house_burglary-32.png",
+        "128": "/PNG/128/City/house_burglary-128.png",
+        "26": "/PNG/26/City/house_burglary-26.png",
+        "256": "/PNG/256/City/house_burglary-256.png",
+        "512": "/PNG/512/City/house_burglary-512.png",
+        "64": "/PNG/64/City/house_burglary-64.png",
+        "48": "/PNG/48/City/house_burglary-48.png"
+      }
+    }
+  },
+  {
     "id": 1042,
     "name": "html",
     "platform": "Windows 8/Metro",
@@ -41944,6 +42143,42 @@
         "512": "/PNG/512/Very_Basic/idea-512.png",
         "64": "/PNG/64/Very_Basic/idea-64.png",
         "48": "/PNG/48/Very_Basic/idea-48.png"
+      }
+    }
+  },
+  {
+    "id": 5496,
+    "name": "identity_theft",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1408402287,
+    "tags": [
+      "card",
+      "id",
+      "picture",
+      "identification",
+      "credit card",
+      "drivers license",
+      "bank card",
+      "theft",
+      "stealing",
+      "steal",
+      "ssn",
+      "picture id"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/identity_theft.svg",
+      "svg.simplified": "/SVG_for_Font/City/identity_theft.svg",
+      "eps": "/EPS/City/identity_theft.eps",
+      "png": {
+        "32": "/PNG/32/City/identity_theft-32.png",
+        "128": "/PNG/128/City/identity_theft-128.png",
+        "26": "/PNG/26/City/identity_theft-26.png",
+        "256": "/PNG/256/City/identity_theft-256.png",
+        "512": "/PNG/512/City/identity_theft-512.png",
+        "64": "/PNG/64/City/identity_theft-64.png",
+        "48": "/PNG/48/City/identity_theft-48.png"
       }
     }
   },
@@ -61352,10 +61587,10 @@
       "male",
       "gender",
       "soft",
+      "skin",
       "nudity",
       "nude",
       "organ",
-      "sperm",
       "mastrubation",
       "urine",
       "Private part",
@@ -61367,9 +61602,7 @@
       "coitus",
       "intercourse",
       "erection",
-      "stretch",
-      "skin",
-      "LIKE LOOOOOL"
+      "stretch"
     ],
     "copyright": false,
     "files": {
@@ -62023,6 +62256,40 @@
     }
   },
   {
+    "id": 5497,
+    "name": "pickpocketing",
+    "platform": "Windows 8/Metro",
+    "category": "City",
+    "created": 1408402287,
+    "tags": [
+      "criminal",
+      "robber",
+      "thief",
+      "bullying",
+      "fruad",
+      "cutpurse",
+      "bag snatching",
+      "miscreant",
+      "snatching",
+      "pocket picking"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/City/pickpocketing.svg",
+      "svg.simplified": "/SVG_for_Font/City/pickpocketing.svg",
+      "eps": "/EPS/City/pickpocketing.eps",
+      "png": {
+        "32": "/PNG/32/City/pickpocketing-32.png",
+        "128": "/PNG/128/City/pickpocketing-128.png",
+        "26": "/PNG/26/City/pickpocketing-26.png",
+        "256": "/PNG/256/City/pickpocketing-256.png",
+        "512": "/PNG/512/City/pickpocketing-512.png",
+        "64": "/PNG/64/City/pickpocketing-64.png",
+        "48": "/PNG/48/City/pickpocketing-48.png"
+      }
+    }
+  },
+  {
     "id": 1540,
     "name": "pickup",
     "platform": "Windows 8/Metro",
@@ -62138,6 +62405,31 @@
         "512": "/PNG/512/Folders/pictures_folder-512.png",
         "64": "/PNG/64/Folders/pictures_folder-64.png",
         "48": "/PNG/48/Folders/pictures_folder-48.png"
+      }
+    }
+  },
+  {
+    "id": 5485,
+    "name": "pie_chart",
+    "platform": "Windows 8/Metro",
+    "category": "Data",
+    "created": 1408402287,
+    "tags": [
+
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Data/pie_chart.svg",
+      "svg.simplified": "/SVG_for_Font/Data/pie_chart.svg",
+      "eps": "/EPS/Data/pie_chart.eps",
+      "png": {
+        "32": "/PNG/32/Data/pie_chart-32.png",
+        "128": "/PNG/128/Data/pie_chart-128.png",
+        "26": "/PNG/26/Data/pie_chart-26.png",
+        "256": "/PNG/256/Data/pie_chart-256.png",
+        "512": "/PNG/512/Data/pie_chart-512.png",
+        "64": "/PNG/64/Data/pie_chart-64.png",
+        "48": "/PNG/48/Data/pie_chart-48.png"
       }
     }
   },
@@ -64001,6 +64293,132 @@
         "512": "/PNG/512/Travel/pocket_lantern-512.png",
         "64": "/PNG/64/Travel/pocket_lantern-64.png",
         "48": "/PNG/48/Travel/pocket_lantern-48.png"
+      }
+    }
+  },
+  {
+    "id": 5486,
+    "name": "podium_without_speaker",
+    "platform": "Windows 8/Metro",
+    "category": "Business",
+    "created": 1408402287,
+    "tags": [
+      "empty",
+      "presentation",
+      "booth",
+      "speech",
+      "speaking",
+      "speaker",
+      "microphone",
+      "stand",
+      "platform",
+      "bench",
+      "debate",
+      "podium",
+      "conductor",
+      "mic",
+      "stage",
+      "presenter",
+      "speaker phone"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/podium_without_speaker.svg",
+      "svg.simplified": "/SVG_for_Font/Business/podium_without_speaker.svg",
+      "eps": "/EPS/Business/podium_without_speaker.eps",
+      "png": {
+        "32": "/PNG/32/Business/podium_without_speaker-32.png",
+        "128": "/PNG/128/Business/podium_without_speaker-128.png",
+        "26": "/PNG/26/Business/podium_without_speaker-26.png",
+        "256": "/PNG/256/Business/podium_without_speaker-256.png",
+        "512": "/PNG/512/Business/podium_without_speaker-512.png",
+        "64": "/PNG/64/Business/podium_without_speaker-64.png",
+        "48": "/PNG/48/Business/podium_without_speaker-48.png"
+      }
+    }
+  },
+  {
+    "id": 5488,
+    "name": "podium_with_audience",
+    "platform": "Windows 8/Metro",
+    "category": "Business",
+    "created": 1408402287,
+    "tags": [
+      "conference",
+      "meeting",
+      "crowd",
+      "speech",
+      "microphone",
+      "podium",
+      "mic",
+      "stage",
+      "gathering",
+      "rally",
+      "speaker stand",
+      "speaking platform",
+      "audience listening",
+      "lecture podium",
+      "public speaking forum",
+      "lecture platform",
+      "podium with audience",
+      "group lecture"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/podium_with_audience.svg",
+      "svg.simplified": "/SVG_for_Font/Business/podium_with_audience.svg",
+      "eps": "/EPS/Business/podium_with_audience.eps",
+      "png": {
+        "32": "/PNG/32/Business/podium_with_audience-32.png",
+        "128": "/PNG/128/Business/podium_with_audience-128.png",
+        "26": "/PNG/26/Business/podium_with_audience-26.png",
+        "256": "/PNG/256/Business/podium_with_audience-256.png",
+        "512": "/PNG/512/Business/podium_with_audience-512.png",
+        "64": "/PNG/64/Business/podium_with_audience-64.png",
+        "48": "/PNG/48/Business/podium_with_audience-48.png"
+      }
+    }
+  },
+  {
+    "id": 5490,
+    "name": "podium_with_speaker",
+    "platform": "Windows 8/Metro",
+    "category": "Business",
+    "created": 1408402287,
+    "tags": [
+      "meeting",
+      "announcement",
+      "speech",
+      "man",
+      "speaker",
+      "microphone",
+      "stand",
+      "podium",
+      "mic",
+      "interview",
+      "lecturer",
+      "stage",
+      "briefing",
+      "public speaking",
+      "podium with speaker",
+      "validvictorian",
+      "meeting speech",
+      "speech giver",
+      "speaker with podium"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/podium_with_speaker.svg",
+      "svg.simplified": "/SVG_for_Font/Business/podium_with_speaker.svg",
+      "eps": "/EPS/Business/podium_with_speaker.eps",
+      "png": {
+        "32": "/PNG/32/Business/podium_with_speaker-32.png",
+        "128": "/PNG/128/Business/podium_with_speaker-128.png",
+        "26": "/PNG/26/Business/podium_with_speaker-26.png",
+        "256": "/PNG/256/Business/podium_with_speaker-256.png",
+        "512": "/PNG/512/Business/podium_with_speaker-512.png",
+        "64": "/PNG/64/Business/podium_with_speaker-64.png",
+        "48": "/PNG/48/Business/podium_with_speaker-48.png"
       }
     }
   },
@@ -74048,6 +74466,7 @@
       "options",
       "item",
       "services",
+      "contact us",
       "auto",
       "partner",
       "administration",
@@ -91331,6 +91750,7 @@
     "category": "Files",
     "created": 1401886258,
     "tags": [
+      "edit",
       "read",
       "search",
       "magnify",

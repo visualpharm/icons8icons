@@ -2847,7 +2847,6 @@
       "home",
       "house",
       "flat",
-      "living room",
       "household",
       "chair",
       "comfort",
@@ -2864,7 +2863,8 @@
       "support the arms",
       "support the arms or elbows",
       "side supports",
-      "support for back"
+      "support for back",
+      "living room"
     ],
     "copyright": false,
     "files": {
@@ -5434,7 +5434,6 @@
       "overnight",
       "hilton",
       "sheraton",
-      "radisson",
       "bedroom",
       "airbnb",
       "booking",
@@ -5447,7 +5446,8 @@
       "headboard",
       "footboards",
       "bed frame",
-      "blanket"
+      "blanket",
+      "radisson"
     ],
     "copyright": false,
     "files": {
@@ -7055,6 +7055,7 @@
     "created": 1337587889,
     "tags": [
       "line",
+      "link",
       "setting",
       "text",
       "formatting",
@@ -13201,7 +13202,6 @@
     "category": "Time And Date",
     "created": 1318305600,
     "tags": [
-      "clock",
       "calendar",
       "watch",
       "wall clock",
@@ -13225,6 +13225,7 @@
       "countdown",
       "complete",
       "docs",
+      "clock",
       "time",
       "hours",
       "ready",
@@ -25095,6 +25096,7 @@
       "film",
       "image",
       "photo",
+      "videos",
       "camera",
       "tv",
       "shot",
@@ -27646,7 +27648,6 @@
       "stars",
       "white",
       "plate",
-      "circle",
       "cylinder",
       "future",
       "on",
@@ -27659,7 +27660,8 @@
       "psychic reading",
       "spiritual",
       "astrometry",
-      "zero"
+      "zero",
+      "circle"
     ],
     "copyright": false,
     "files": {
@@ -29245,12 +29247,12 @@
       "celebrations",
       "birthday",
       "freebies",
-      "ribbon",
       "present",
       "shop",
       "T-Shirt",
       "gift wrap",
-      "complimentary"
+      "complimentary",
+      "ribbon"
     ],
     "copyright": false,
     "files": {
@@ -32318,7 +32320,6 @@
       "forums",
       "learn",
       "about",
-      "query",
       "Windows Support",
       "topics",
       "ask the community",
@@ -32326,7 +32327,8 @@
       "getting started",
       "help",
       "question mark",
-      "question"
+      "question",
+      "query"
     ],
     "copyright": false,
     "files": {
@@ -49841,10 +49843,10 @@
       "male",
       "gender",
       "soft",
+      "skin",
       "nudity",
       "nude",
       "organ",
-      "sperm",
       "mastrubation",
       "urine",
       "Private part",
@@ -49856,9 +49858,7 @@
       "coitus",
       "intercourse",
       "erection",
-      "stretch",
-      "skin",
-      "LIKE LOOOOOL"
+      "stretch"
     ],
     "copyright": false,
     "files": {
@@ -52099,6 +52099,135 @@
         "100": "/PNG/100/Files/png-100.png",
         "512": "/PNG/512/Files/png-512.png",
         "50": "/PNG/50/Files/png-50.png"
+      }
+    }
+  },
+  {
+    "id": 5487,
+    "name": "podium_without_speaker",
+    "platform": "iPhone/iOS 7",
+    "category": "Business",
+    "created": 1408402287,
+    "tags": [
+      "empty",
+      "presentation",
+      "booth",
+      "speech",
+      "speaking",
+      "speaker",
+      "microphone",
+      "stand",
+      "platform",
+      "bench",
+      "debate",
+      "podium",
+      "conductor",
+      "mic",
+      "stage",
+      "presenter",
+      "speaker phone"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/podium_without_speaker.svg",
+      "svg.simplified": "/SVG_for_Font/Business/podium_without_speaker.svg",
+      "eps": "/EPS/Business/podium_without_speaker.eps",
+      "png": {
+        "25": "/PNG/25/Business/podium_without_speaker-25.png",
+        "32": "/PNG/32/Business/podium_without_speaker-32.png",
+        "128": "/PNG/128/Business/podium_without_speaker-128.png",
+        "75": "/PNG/75/Business/podium_without_speaker-75.png",
+        "256": "/PNG/256/Business/podium_without_speaker-256.png",
+        "100": "/PNG/100/Business/podium_without_speaker-100.png",
+        "512": "/PNG/512/Business/podium_without_speaker-512.png",
+        "50": "/PNG/50/Business/podium_without_speaker-50.png"
+      }
+    }
+  },
+  {
+    "id": 5489,
+    "name": "podium_with_audience",
+    "platform": "iPhone/iOS 7",
+    "category": "Business",
+    "created": 1408402287,
+    "tags": [
+      "conference",
+      "meeting",
+      "crowd",
+      "speech",
+      "microphone",
+      "podium",
+      "mic",
+      "stage",
+      "gathering",
+      "rally",
+      "speaker stand",
+      "speaking platform",
+      "audience listening",
+      "lecture podium",
+      "public speaking forum",
+      "lecture platform",
+      "podium with audience",
+      "group lecture"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/podium_with_audience.svg",
+      "svg.simplified": "/SVG_for_Font/Business/podium_with_audience.svg",
+      "eps": "/EPS/Business/podium_with_audience.eps",
+      "png": {
+        "25": "/PNG/25/Business/podium_with_audience-25.png",
+        "32": "/PNG/32/Business/podium_with_audience-32.png",
+        "128": "/PNG/128/Business/podium_with_audience-128.png",
+        "75": "/PNG/75/Business/podium_with_audience-75.png",
+        "256": "/PNG/256/Business/podium_with_audience-256.png",
+        "100": "/PNG/100/Business/podium_with_audience-100.png",
+        "512": "/PNG/512/Business/podium_with_audience-512.png",
+        "50": "/PNG/50/Business/podium_with_audience-50.png"
+      }
+    }
+  },
+  {
+    "id": 5491,
+    "name": "podium_with_speaker",
+    "platform": "iPhone/iOS 7",
+    "category": "Business",
+    "created": 1408402287,
+    "tags": [
+      "meeting",
+      "announcement",
+      "speech",
+      "man",
+      "speaker",
+      "microphone",
+      "stand",
+      "podium",
+      "mic",
+      "interview",
+      "lecturer",
+      "stage",
+      "briefing",
+      "public speaking",
+      "podium with speaker",
+      "validvictorian",
+      "meeting speech",
+      "speech giver",
+      "speaker with podium"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Business/podium_with_speaker.svg",
+      "svg.simplified": "/SVG_for_Font/Business/podium_with_speaker.svg",
+      "eps": "/EPS/Business/podium_with_speaker.eps",
+      "png": {
+        "25": "/PNG/25/Business/podium_with_speaker-25.png",
+        "32": "/PNG/32/Business/podium_with_speaker-32.png",
+        "128": "/PNG/128/Business/podium_with_speaker-128.png",
+        "75": "/PNG/75/Business/podium_with_speaker-75.png",
+        "256": "/PNG/256/Business/podium_with_speaker-256.png",
+        "100": "/PNG/100/Business/podium_with_speaker-100.png",
+        "512": "/PNG/512/Business/podium_with_speaker-512.png",
+        "50": "/PNG/50/Business/podium_with_speaker-50.png"
       }
     }
   },
@@ -75774,6 +75903,7 @@
     "category": "Files",
     "created": 1401893468,
     "tags": [
+      "edit",
       "read",
       "search",
       "magnify",
