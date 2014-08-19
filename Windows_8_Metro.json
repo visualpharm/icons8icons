@@ -47452,8 +47452,6 @@
       "favourite",
       "pages",
       "comment",
-      "store",
-      "like",
       "life",
       "emotion",
       "hearbeat",
@@ -47461,11 +47459,12 @@
       "alive",
       "ticker",
       "anatomy",
+      "like",
       "love",
       "dating",
       "favorite",
-      "heart",
-      "heart beat"
+      "heart beat",
+      "heart"
     ],
     "copyright": false,
     "files": {
