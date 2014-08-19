@@ -51125,6 +51125,7 @@
       "camera",
       "male",
       "back",
+      "marker",
       "pgotos",
       "freccia",
       "yutube",
@@ -65660,7 +65661,6 @@
     "tags": [
       "play",
       "left",
-      "arrow",
       "indicator",
       "mp3",
       "music",
@@ -65676,6 +65676,7 @@
       "remote control",
       "podcast",
       "itunes",
+      "arrow",
       "direction",
       "pointer",
       "pager",
