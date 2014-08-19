@@ -3686,6 +3686,7 @@
     "category": "Shopping",
     "created": 1391770248,
     "tags": [
+      "price",
       "numbers",
       "ecommerce",
       "tag",
@@ -3701,7 +3702,6 @@
       "store",
       "purchase",
       "shop",
-      "price",
       "item code",
       "machine-readable representation"
     ],
@@ -14326,6 +14326,7 @@
     "category": "Measurement Units",
     "created": 1397249506,
     "tags": [
+      "new",
       "forward",
       "centimeter",
       "inch",
@@ -15097,6 +15098,7 @@
       "paperclip",
       "file",
       "paper",
+      "arrow",
       "film",
       "search",
       "business",
@@ -30871,7 +30873,6 @@
       "direction",
       "guide",
       "address",
-      "maps",
       "signage",
       "symbols",
       "location",
@@ -30888,7 +30889,8 @@
       "navigation",
       "gis",
       "area",
-      "glonass"
+      "glonass",
+      "maps"
     ],
     "copyright": false,
     "files": {

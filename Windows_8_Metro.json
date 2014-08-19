@@ -7041,6 +7041,7 @@
     "category": "Ecommerce",
     "created": 1319251300,
     "tags": [
+      "price",
       "numbers",
       "ecommerce",
       "tag",
@@ -7056,7 +7057,6 @@
       "store",
       "purchase",
       "shop",
-      "price",
       "item code",
       "machine-readable representation"
     ],
@@ -23300,6 +23300,7 @@
     "category": "Science",
     "created": 1356437137,
     "tags": [
+      "new",
       "forward",
       "centimeter",
       "inch",
@@ -25101,6 +25102,7 @@
       "paperclip",
       "file",
       "paper",
+      "arrow",
       "film",
       "search",
       "business",
@@ -49627,7 +49629,6 @@
       "direction",
       "guide",
       "address",
-      "maps",
       "signage",
       "symbols",
       "location",
@@ -49644,7 +49645,8 @@
       "navigation",
       "gis",
       "area",
-      "glonass"
+      "glonass",
+      "maps"
     ],
     "copyright": false,
     "files": {
@@ -97385,6 +97387,7 @@
     "category": "Files",
     "created": 1394776288,
     "tags": [
+      "pdf",
       "spreadsheet",
       "file",
       "data",
