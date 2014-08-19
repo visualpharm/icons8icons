@@ -5473,7 +5473,6 @@
       "signature",
       "music set",
       "orchestra",
-      "scribble",
       "autograph",
       "self-signed",
       "handwriting",
@@ -31303,7 +31302,6 @@
       "sell",
       "goods",
       "storage",
-      "retail",
       "export",
       "store",
       "shop",
@@ -31316,7 +31314,8 @@
       "products",
       "inventory",
       "purchases",
-      "open box"
+      "open box",
+      "retail"
     ],
     "copyright": false,
     "files": {
@@ -31465,7 +31464,6 @@
     "created": 1326970636,
     "tags": [
       "play",
-      "movie",
       "video",
       "image",
       "photo",
@@ -31477,6 +31475,7 @@
       "video player",
       "photography",
       "film",
+      "movie",
       "cinema",
       "frame"
     ],
@@ -95304,6 +95303,7 @@
     "created": 1334215905,
     "tags": [
       "mail",
+      "hand",
       "five",
       "touch",
       "hands",

@@ -18605,7 +18605,6 @@
       "sell",
       "goods",
       "storage",
-      "retail",
       "export",
       "store",
       "shop",
@@ -18618,7 +18617,8 @@
       "products",
       "inventory",
       "purchases",
-      "open box"
+      "open box",
+      "retail"
     ],
     "copyright": false,
     "files": {
@@ -18775,7 +18775,6 @@
     "created": 1391770248,
     "tags": [
       "play",
-      "movie",
       "video",
       "image",
       "photo",
@@ -18787,6 +18786,7 @@
       "video player",
       "photography",
       "film",
+      "movie",
       "cinema",
       "frame"
     ],
@@ -59204,6 +59204,7 @@
     "created": 1403830274,
     "tags": [
       "mail",
+      "hand",
       "five",
       "touch",
       "hands",

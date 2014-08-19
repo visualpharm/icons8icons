@@ -25083,7 +25083,6 @@
       "sell",
       "goods",
       "storage",
-      "retail",
       "export",
       "store",
       "shop",
@@ -25096,7 +25095,8 @@
       "products",
       "inventory",
       "purchases",
-      "open box"
+      "open box",
+      "retail"
     ],
     "copyright": false,
     "files": {
@@ -72060,7 +72060,7 @@
     "category": "Very Basic",
     "created": 1390342414,
     "tags": [
-
+      "flash"
     ],
     "copyright": false,
     "files": {
@@ -79508,6 +79508,7 @@
     "created": 1334215905,
     "tags": [
       "mail",
+      "hand",
       "five",
       "touch",
       "hands",
