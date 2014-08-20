@@ -30846,7 +30846,6 @@
       "internet",
       "virus",
       "spam",
-      "firewall",
       "threat",
       "privacy",
       "hack",
@@ -42130,7 +42129,6 @@
       "reply",
       "comms",
       "information",
-      "web",
       "note",
       "word",
       "text",
@@ -72549,9 +72547,9 @@
       "destruction",
       "destroy",
       "cyclone",
-      "twister",
       "gust",
-      "spring time"
+      "spring time",
+      "twister"
     ],
     "copyright": false,
     "files": {

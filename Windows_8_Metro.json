@@ -6,7 +6,18 @@
     "category": "Alphabet",
     "created": 1390342413,
     "tags": [
-
+      "calculator",
+      "keyboard",
+      "symbol",
+      "sign",
+      "counting",
+      "maths",
+      "calculation",
+      "binary",
+      "numeric",
+      "hexa decimal",
+      "decimal",
+      "octal"
     ],
     "copyright": false,
     "files": {
@@ -27097,9 +27108,13 @@
       "alphabet",
       "font",
       "character",
+      "capital letter",
       "latin",
       "abc",
-      "alphanumeric"
+      "alphanumeric",
+      "caps lock",
+      "upper case letter",
+      "caps lock on"
     ],
     "copyright": false,
     "files": {
@@ -30099,9 +30114,16 @@
       "alphabet",
       "font",
       "character",
+      "english",
+      "capital letter",
       "latin",
       "abc",
-      "alphanumeric"
+      "type face",
+      "alphanumeric",
+      "caps lock",
+      "latin script",
+      "upper case letter",
+      "caps lock on"
     ],
     "copyright": false,
     "files": {
@@ -34590,9 +34612,15 @@
       "alphabet",
       "font",
       "character",
+      "english",
+      "capital letter",
       "latin",
       "abc",
-      "alphanumeric"
+      "alphanumeric",
+      "caps lock",
+      "latin script",
+      "upper case letter",
+      "caps lock on"
     ],
     "copyright": false,
     "files": {
@@ -38414,9 +38442,15 @@
       "alphabet",
       "font",
       "character",
+      "english",
+      "capital letter",
       "latin",
       "abc",
-      "alphanumeric"
+      "alphanumeric",
+      "caps lock",
+      "latin script",
+      "upper case letter",
+      "caps lock on"
     ],
     "copyright": false,
     "files": {
@@ -38446,7 +38480,6 @@
       "internet",
       "virus",
       "spam",
-      "firewall",
       "threat",
       "privacy",
       "hack",
@@ -42103,14 +42136,22 @@
     "tags": [
       "keyboard",
       "language",
+      "iso",
       "letter",
       "type",
       "alphabet",
       "font",
+      "typography",
       "character",
+      "english",
       "latin",
       "abc",
-      "alphanumeric"
+      "small letter",
+      "alphanumeric",
+      "caps lock",
+      "caps lock off",
+      "latin script",
+      "small script"
     ],
     "copyright": false,
     "files": {
@@ -42142,9 +42183,16 @@
       "alphabet",
       "font",
       "character",
+      "english",
+      "capital letter",
       "latin",
       "abc",
-      "alphanumeric"
+      "type face",
+      "alphanumeric",
+      "caps lock",
+      "latin script",
+      "upper case letter",
+      "caps lock on"
     ],
     "copyright": false,
     "files": {
@@ -44078,9 +44126,16 @@
       "alphabet",
       "font",
       "character",
+      "english",
+      "capital letter",
       "latin",
       "abc",
-      "alphanumeric"
+      "type face",
+      "alphanumeric",
+      "caps lock",
+      "latin script",
+      "upper case letter",
+      "caps lock on"
     ],
     "copyright": false,
     "files": {
@@ -45086,10 +45141,17 @@
       "alphabet",
       "font",
       "character",
+      "english",
       "k",
+      "capital letter",
       "latin",
       "abc",
-      "alphanumeric"
+      "type face",
+      "alphanumeric",
+      "caps lock",
+      "latin script",
+      "upper case letter",
+      "caps lock on"
     ],
     "copyright": false,
     "files": {
@@ -46045,9 +46107,18 @@
       "alphabet",
       "font",
       "character",
+      "english",
+      "capital letter",
       "latin",
       "abc",
-      "alphanumeric"
+      "type face",
+      "alphanumeric",
+      "caps lock",
+      "latin script",
+      "upper case letter",
+      "caps lock on",
+      "large scale",
+      "large script"
     ],
     "copyright": false,
     "files": {
@@ -49214,9 +49285,18 @@
       "alphabet",
       "font",
       "character",
+      "english",
+      "capital letter",
       "latin",
       "abc",
-      "alphanumeric"
+      "type face",
+      "alphanumeric",
+      "caps lock",
+      "latin script",
+      "upper case letter",
+      "caps lock on",
+      "large scale",
+      "upper case"
     ],
     "copyright": false,
     "files": {
@@ -51364,7 +51444,6 @@
       "reply",
       "comms",
       "information",
-      "web",
       "note",
       "word",
       "text",
@@ -55452,9 +55531,16 @@
       "alphabet",
       "font",
       "character",
+      "english",
+      "capital letter",
       "latin",
       "abc",
-      "alphanumeric"
+      "alphanumeric",
+      "caps lock",
+      "latin script",
+      "upper case letter",
+      "caps lock on",
+      "large scale"
     ],
     "copyright": false,
     "files": {
@@ -58332,9 +58418,18 @@
       "alphabet",
       "font",
       "character",
+      "english",
+      "case",
+      "capital letter",
       "latin",
       "abc",
-      "alphanumeric"
+      "type face",
+      "alphanumeric",
+      "caps lock",
+      "latin script",
+      "upper case letter",
+      "caps lock on",
+      "large scale"
     ],
     "copyright": false,
     "files": {
@@ -87641,9 +87736,9 @@
       "destruction",
       "destroy",
       "cyclone",
-      "twister",
       "gust",
-      "spring time"
+      "spring time",
+      "twister"
     ],
     "copyright": false,
     "files": {
