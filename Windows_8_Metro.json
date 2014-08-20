@@ -34403,6 +34403,7 @@
       "voltage",
       "lithium",
       "mobile phone",
+      "100",
       "samsung",
       "lg",
       "cell phone",
@@ -81211,6 +81212,52 @@
     }
   },
   {
+    "id": 5515,
+    "name": "stop_train",
+    "platform": "Windows 8/Metro",
+    "category": "Transport",
+    "created": 1408575078,
+    "tags": [
+      "stop",
+      "train stop",
+      "rail stop",
+      "rail sign",
+      "train sign",
+      "railway sign",
+      "train signal",
+      "railway signal",
+      "rail signal",
+      "railway notice",
+      "train information",
+      "signal information",
+      "red light",
+      "red cloth",
+      "red signal",
+      "brake",
+      "railway guard",
+      "red flag",
+      "station master",
+      "pulling chain",
+      "emergency alarm",
+      "engine driver"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Transport/stop_train.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/stop_train.svg",
+      "eps": "/EPS/Transport/stop_train.eps",
+      "png": {
+        "32": "/PNG/32/Transport/stop_train-32.png",
+        "128": "/PNG/128/Transport/stop_train-128.png",
+        "26": "/PNG/26/Transport/stop_train-26.png",
+        "256": "/PNG/256/Transport/stop_train-256.png",
+        "512": "/PNG/512/Transport/stop_train-512.png",
+        "64": "/PNG/64/Transport/stop_train-64.png",
+        "48": "/PNG/48/Transport/stop_train-48.png"
+      }
+    }
+  },
+  {
     "id": 1157,
     "name": "stork",
     "platform": "Windows 8/Metro",
@@ -82454,13 +82501,12 @@
       "business data",
       "business information",
       "mailsurvey",
-      "telephone survey",
       "personal interview",
       "set question",
       "survey paper",
       "easy question",
       "respondent",
-      "usabi"
+      "usability review"
     ],
     "copyright": false,
     "files": {
@@ -88085,6 +88131,48 @@
         "512": "/PNG/512/Clothing/trainers-512.png",
         "64": "/PNG/64/Clothing/trainers-64.png",
         "48": "/PNG/48/Clothing/trainers-48.png"
+      }
+    }
+  },
+  {
+    "id": 5514,
+    "name": "train_ticket",
+    "platform": "Windows 8/Metro",
+    "category": "Transport",
+    "created": 1408575078,
+    "tags": [
+      "sale",
+      "concert",
+      "transportation",
+      "ticket",
+      "travel",
+      "rectangle",
+      "train",
+      "tear",
+      "counter",
+      "reservation",
+      "queue",
+      "venue",
+      "checker",
+      "long line",
+      "waiting list",
+      "railway station",
+      "stub",
+      "billet"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Transport/train_ticket.svg",
+      "svg.simplified": "/SVG_for_Font/Transport/train_ticket.svg",
+      "eps": "/EPS/Transport/train_ticket.eps",
+      "png": {
+        "32": "/PNG/32/Transport/train_ticket-32.png",
+        "128": "/PNG/128/Transport/train_ticket-128.png",
+        "26": "/PNG/26/Transport/train_ticket-26.png",
+        "256": "/PNG/256/Transport/train_ticket-256.png",
+        "512": "/PNG/512/Transport/train_ticket-512.png",
+        "64": "/PNG/64/Transport/train_ticket-64.png",
+        "48": "/PNG/48/Transport/train_ticket-48.png"
       }
     }
   },
