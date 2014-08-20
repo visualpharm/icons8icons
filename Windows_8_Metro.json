@@ -12404,13 +12404,22 @@
       "keyboard",
       "language",
       "letter",
+      "bold",
       "type",
       "alphabet",
       "font",
+      "html",
       "character",
+      "english",
       "latin",
       "abc",
-      "alphanumeric"
+      "small letter",
+      "alphanumeric",
+      "caps lock",
+      "caps lock off",
+      "latin script",
+      "font weight",
+      "b tag"
     ],
     "copyright": false,
     "files": {
@@ -22176,14 +22185,22 @@
     "tags": [
       "keyboard",
       "language",
+      "iso",
       "letter",
       "type",
       "alphabet",
       "font",
       "character",
+      "english",
       "latin",
       "abc",
-      "alphanumeric"
+      "typographic",
+      "small letter",
+      "alphanumeric",
+      "caps lock",
+      "caps lock off",
+      "latin script",
+      "small script"
     ],
     "copyright": false,
     "files": {
@@ -22437,6 +22454,7 @@
     "created": 1333010975,
     "tags": [
       "calendr",
+      "bears",
       "program",
       "application",
       "information",
@@ -26977,9 +26995,14 @@
       "alphabet",
       "font",
       "character",
+      "english",
       "latin",
       "abc",
-      "alphanumeric"
+      "small letter",
+      "alphanumeric",
+      "caps lock",
+      "caps lock off",
+      "latin script"
     ],
     "copyright": false,
     "files": {
@@ -29974,9 +29997,14 @@
       "alphabet",
       "font",
       "character",
+      "english",
       "latin",
       "abc",
-      "alphanumeric"
+      "small letter",
+      "alphanumeric",
+      "caps lock",
+      "caps lock off",
+      "latin script"
     ],
     "copyright": false,
     "files": {
@@ -38261,14 +38289,23 @@
     "tags": [
       "keyboard",
       "language",
+      "iso",
       "letter",
       "type",
       "alphabet",
       "font",
       "character",
+      "english",
       "latin",
       "abc",
-      "alphanumeric"
+      "typographic",
+      "small letter",
+      "alphanumeric",
+      "caps lock",
+      "caps lock off",
+      "latin script",
+      "seventh letter",
+      "small script"
     ],
     "copyright": false,
     "files": {
@@ -54132,6 +54169,9 @@
       "magnetic field",
       "permittivity",
       "permittivity of magnets",
+      "biort savart",
+      "magnetic flux density",
+      "magnetic power",
       "math",
       "letter",
       "utorrent",
@@ -55256,7 +55296,10 @@
       "character",
       "latin",
       "abc",
-      "alphanumeric"
+      "small letter",
+      "alphanumeric",
+      "caps lock",
+      "caps lock off"
     ],
     "copyright": false,
     "files": {
@@ -62148,12 +62191,17 @@
       "math",
       "letter",
       "science",
+      "chemistry",
       "formula",
       "alphabet",
       "mathematics",
+      "circle",
+      "engineering",
+      "physics",
       "character",
       "radius",
       "study",
+      "area",
       "rays",
       "constant",
       "greek",
@@ -62161,7 +62209,13 @@
       "particle",
       "maths",
       "academic",
-      "pion"
+      "pion",
+      "pythagoras",
+      "3 1416",
+      "infinite number",
+      "irrational number",
+      "22 7",
+      "radian"
     ],
     "copyright": false,
     "files": {
@@ -62313,7 +62367,8 @@
       "bag snatching",
       "miscreant",
       "snatching",
-      "pocket picking"
+      "pocket picking",
+      "wiping ass"
     ],
     "copyright": false,
     "files": {
@@ -67100,9 +67155,14 @@
       "alphabet",
       "font",
       "character",
+      "english",
       "latin",
       "abc",
-      "alphanumeric"
+      "small letter",
+      "alphanumeric",
+      "caps lock",
+      "caps lock off",
+      "latin script"
     ],
     "copyright": false,
     "files": {
@@ -76212,18 +76272,24 @@
       "calculate",
       "math",
       "letter",
+      "series",
       "science",
       "formula",
       "alphabet",
+      "tip",
       "mathematics",
       "sum",
+      "physics",
       "character",
       "study",
       "greek",
       "maths",
       "academic",
       "total",
-      "tip"
+      "summation",
+      "integration",
+      "upper-case",
+      "greek numerals"
     ],
     "copyright": false,
     "files": {
@@ -84244,6 +84310,7 @@
     "created": 1376389487,
     "tags": [
       "girl",
+      "sale",
       "child",
       "kids",
       "bear",
@@ -89656,9 +89723,14 @@
       "alphabet",
       "font",
       "character",
+      "english",
       "latin",
       "abc",
-      "alphanumeric"
+      "small letter",
+      "alphanumeric",
+      "caps lock",
+      "caps lock off",
+      "latin script"
     ],
     "copyright": false,
     "files": {
@@ -92927,14 +92999,22 @@
     "tags": [
       "keyboard",
       "language",
+      "iso",
       "letter",
       "type",
       "alphabet",
       "font",
       "character",
+      "english",
       "latin",
       "abc",
-      "alphanumeric"
+      "typographic",
+      "small letter",
+      "alphanumeric",
+      "caps lock",
+      "caps lock off",
+      "latin script",
+      "small script"
     ],
     "copyright": false,
     "files": {
@@ -97400,13 +97480,13 @@
       "canada",
       "portrait",
       "vacation",
-      "colorado",
       "vermont",
       "rockies",
       "alps",
       "Outbound sales icon",
       "green",
-      "mount"
+      "mountains",
+      "snow"
     ],
     "copyright": false,
     "files": {
@@ -97616,7 +97696,10 @@
       "character",
       "latin",
       "abc",
-      "alphanumeric"
+      "small letter",
+      "alphanumeric",
+      "basic modern alphabet",
+      "caps lock off"
     ],
     "copyright": false,
     "files": {
@@ -98335,7 +98418,13 @@
       "character",
       "latin",
       "abc",
-      "alphanumeric"
+      "small letter",
+      "alphanumeric",
+      "caps lock",
+      "basic modern alphabet",
+      "caps lock off",
+      "english alphabet",
+      "twenty-fifth letter"
     ],
     "copyright": false,
     "files": {
