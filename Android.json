@@ -15099,6 +15099,7 @@
     "created": 1391770248,
     "tags": [
       "paperclip",
+      "close",
       "file",
       "paper",
       "arrow",
@@ -15112,6 +15113,7 @@
       "blank",
       "email",
       "eyes",
+      "reload",
       "street",
       "governance",
       "files",
@@ -25870,7 +25872,6 @@
       "grocery",
       "menu",
       "coffee",
-      "diet",
       "hot beverages",
       "early",
       "latte",
@@ -25887,7 +25888,8 @@
       "supermarket",
       "culinary",
       "lunch",
-      "cafe"
+      "cafe",
+      "diet"
     ],
     "copyright": false,
     "files": {
@@ -55999,6 +56001,9 @@
     "created": 1391770248,
     "tags": [
       "phone",
+      "upload",
+      "load",
+      "upgrade",
       "email",
       "xml",
       "share"
