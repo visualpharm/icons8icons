@@ -59063,8 +59063,8 @@
     "tags": [
       "phone",
       "swipe",
-      "uno",
       "pose",
+      "uno",
       "finger"
     ],
     "copyright": false,
@@ -60198,9 +60198,17 @@
       "alphabet",
       "font",
       "character",
+      "english",
+      "case",
       "latin",
       "abc",
-      "alphanumeric"
+      "type face",
+      "alphanumeric",
+      "caps lock",
+      "latin script",
+      "caps lock on",
+      "large scale",
+      "uppercase letter"
     ],
     "copyright": false,
     "files": {
@@ -67428,9 +67436,16 @@
       "alphabet",
       "font",
       "character",
+      "english",
+      "capital letter",
       "latin",
       "abc",
-      "alphanumeric"
+      "type face",
+      "alphanumeric",
+      "caps lock",
+      "latin script",
+      "caps lock on",
+      "uppercase letter"
     ],
     "copyright": false,
     "files": {
@@ -67963,9 +67978,17 @@
       "alphabet",
       "font",
       "character",
+      "english",
+      "case",
+      "capital letter",
       "latin",
       "abc",
-      "alphanumeric"
+      "type face",
+      "alphanumeric",
+      "caps lock",
+      "latin script",
+      "upper case letter",
+      "caps lock on"
     ],
     "copyright": false,
     "files": {
@@ -72487,9 +72510,17 @@
       "alphabet",
       "font",
       "character",
+      "english",
+      "case",
+      "capital letter",
       "latin",
       "abc",
-      "alphanumeric"
+      "type face",
+      "alphanumeric",
+      "caps lock",
+      "caps lock on",
+      "large scale",
+      "uppercase letter"
     ],
     "copyright": false,
     "files": {
@@ -83661,9 +83692,16 @@
       "alphabet",
       "font",
       "character",
+      "english",
       "latin",
       "abc",
-      "alphanumeric"
+      "type face",
+      "alphanumeric",
+      "caps lock",
+      "latin script",
+      "caps lock on",
+      "large scale",
+      "uppercase letter"
     ],
     "copyright": false,
     "files": {
@@ -90111,9 +90149,18 @@
       "alphabet",
       "font",
       "character",
+      "english",
+      "case",
+      "capital letter",
       "latin",
       "abc",
-      "alphanumeric"
+      "type face",
+      "alphanumeric",
+      "caps lock",
+      "latin script",
+      "caps lock on",
+      "large scale",
+      "uppercase letter"
     ],
     "copyright": false,
     "files": {
@@ -91427,9 +91474,18 @@
       "alphabet",
       "font",
       "character",
+      "english",
+      "case",
+      "capital letter",
       "latin",
       "abc",
-      "alphanumeric"
+      "type face",
+      "alphanumeric",
+      "caps lock",
+      "latin script",
+      "upper case letter",
+      "caps lock on",
+      "large scale"
     ],
     "copyright": false,
     "files": {
@@ -93410,9 +93466,17 @@
       "alphabet",
       "font",
       "character",
+      "english",
+      "capital letter",
       "latin",
       "abc",
-      "alphanumeric"
+      "type face",
+      "alphanumeric",
+      "caps lock",
+      "latin script",
+      "caps lock on",
+      "large scale",
+      "uppercase letter"
     ],
     "copyright": false,
     "files": {
