@@ -13041,7 +13041,6 @@
     "category": "Photo and Video",
     "created": 1382346941,
     "tags": [
-      "vector",
       "drawing",
       "search",
       "zoom",
@@ -13061,12 +13060,12 @@
       "magnifying glass",
       "aiming",
       "focal",
-      "optic",
       "optical",
       "projection",
       "realistic",
       "reflection",
-      "shutter"
+      "shutter",
+      "vector"
     ],
     "copyright": false,
     "files": {
@@ -60828,6 +60827,7 @@
       "service",
       "map",
       "cloud",
+      "x",
       "e-mail",
       "cell phone",
       "notofication",
