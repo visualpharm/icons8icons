@@ -12473,7 +12473,10 @@
       "character",
       "latin",
       "abc",
-      "alphanumeric"
+      "alphanumeric",
+      "caps lock",
+      "upper case letter",
+      "caps lock on"
     ],
     "copyright": false,
     "files": {
@@ -22305,9 +22308,18 @@
       "alphabet",
       "font",
       "character",
+      "english",
+      "capital letter",
       "latin",
       "abc",
-      "alphanumeric"
+      "type face",
+      "alphanumeric",
+      "caps lock",
+      "latin script",
+      "upper case letter",
+      "caps lock on",
+      "large scale",
+      "font height"
     ],
     "copyright": false,
     "files": {
@@ -40986,7 +40998,6 @@
       "accueil",
       "slae",
       "initial",
-      "inicio",
       "casa",
       "chimney",
       "foreclosure",
@@ -54997,7 +55008,6 @@
       "note",
       "film",
       "chicago",
-      "imdb",
       "high school musical",
       "walking on sunshine",
       "rotten tomatoes",
@@ -65556,7 +65566,6 @@
     "created": 1376905569,
     "tags": [
       "economy",
-      "technology",
       "electronics",
       "plant",
       "manufacturing",
@@ -65567,8 +65576,10 @@
       "industrial",
       "electronic devices",
       "potentiometer",
+      "logistics",
       "tech",
-      "machinery"
+      "machinery",
+      "technology"
     ],
     "copyright": false,
     "files": {
@@ -97669,9 +97680,17 @@
       "alphabet",
       "font",
       "character",
+      "english",
+      "capital letter",
       "latin",
       "abc",
-      "alphanumeric"
+      "type face",
+      "alphanumeric",
+      "caps lock",
+      "latin script",
+      "upper case letter",
+      "caps lock on",
+      "large scale"
     ],
     "copyright": false,
     "files": {
@@ -98211,9 +98230,17 @@
       "alphabet",
       "font",
       "character",
+      "english",
+      "capital letter",
       "latin",
       "abc",
-      "alphanumeric"
+      "type face",
+      "alphanumeric",
+      "caps lock",
+      "latin script",
+      "upper case letter",
+      "caps lock on",
+      "font height"
     ],
     "copyright": false,
     "files": {
@@ -98896,9 +98923,18 @@
       "alphabet",
       "font",
       "character",
+      "english",
+      "capital letter",
       "latin",
       "abc",
-      "alphanumeric"
+      "type face",
+      "alphanumeric",
+      "caps lock",
+      "latin script",
+      "upper case letter",
+      "caps lock on",
+      "large scale",
+      "last alphabet"
     ],
     "copyright": false,
     "files": {

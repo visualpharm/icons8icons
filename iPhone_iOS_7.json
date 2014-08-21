@@ -33147,7 +33147,6 @@
       "accueil",
       "slae",
       "initial",
-      "inicio",
       "casa",
       "chimney",
       "foreclosure",
@@ -45057,7 +45056,6 @@
       "note",
       "film",
       "chicago",
-      "imdb",
       "high school musical",
       "walking on sunshine",
       "rotten tomatoes",
@@ -53291,7 +53289,6 @@
     "created": 1376905569,
     "tags": [
       "economy",
-      "technology",
       "electronics",
       "plant",
       "manufacturing",
@@ -53302,8 +53299,10 @@
       "industrial",
       "electronic devices",
       "potentiometer",
+      "logistics",
       "tech",
-      "machinery"
+      "machinery",
+      "technology"
     ],
     "copyright": false,
     "files": {
