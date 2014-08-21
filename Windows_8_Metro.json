@@ -24557,7 +24557,6 @@
       "ribbon",
       "project",
       "success",
-      "diploma",
       "certificate",
       "rubber stamp",
       "university",
@@ -40964,6 +40963,7 @@
       "shop",
       "letter",
       "dashboard",
+      "event",
       "furniture",
       "quote",
       "friend",
@@ -41430,6 +41430,7 @@
     "category": "City",
     "created": 1330940674,
     "tags": [
+      "swimming pool",
       "business",
       "events",
       "luxury",
@@ -41468,7 +41469,6 @@
       "conference hall",
       "chambermaid",
       "VIP",
-      "swimming pool",
       "full s"
     ],
     "copyright": false,
@@ -57095,7 +57095,6 @@
       "albums",
       "artist",
       "album",
-      "cd",
       "entertainment",
       "sound",
       "pitch",
@@ -57112,7 +57111,8 @@
       "key signature",
       "duration",
       "clef",
-      "song"
+      "song",
+      "cd"
     ],
     "copyright": false,
     "files": {
@@ -71189,6 +71189,8 @@
     "category": "Transport",
     "created": 1390342413,
     "tags": [
+      "info",
+      "information",
       "travel",
       "solar",
       "cleaner",

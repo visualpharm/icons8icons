@@ -33124,6 +33124,7 @@
       "shop",
       "letter",
       "dashboard",
+      "event",
       "furniture",
       "quote",
       "friend",
@@ -33652,6 +33653,7 @@
     "category": "City",
     "created": 1395867095,
     "tags": [
+      "swimming pool",
       "business",
       "events",
       "luxury",
@@ -33690,7 +33692,6 @@
       "conference hall",
       "chambermaid",
       "VIP",
-      "swimming pool",
       "full s"
     ],
     "copyright": false,
@@ -57947,6 +57948,8 @@
     "category": "Transport",
     "created": 1390342413,
     "tags": [
+      "info",
+      "information",
       "travel",
       "solar",
       "cleaner",
