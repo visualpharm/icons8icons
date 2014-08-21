@@ -19649,6 +19649,7 @@
       "ram",
       "monitor",
       "scanner",
+      "songs",
       "mac",
       "database",
       "pc",
@@ -19676,7 +19677,7 @@
       "serial port",
       "pci express",
       "vram",
-      "programm"
+      "pr"
     ],
     "copyright": false,
     "files": {
@@ -26052,7 +26053,6 @@
       "learn",
       "update",
       "binary data",
-      "downloaded content",
       "MicroStore",
       "upload",
       "download"
@@ -29576,7 +29576,6 @@
       "close",
       "option",
       "Salir",
-      "icon of quit",
       "quit",
       "arrow",
       "right",
@@ -65297,7 +65296,6 @@
       "frame",
       "art",
       "gallery",
-      "photography",
       "subject",
       "painting",
       "pattern",
@@ -65305,7 +65303,8 @@
       "head shot",
       "sculpture",
       "Mona lisa",
-      "self-portrait"
+      "self-portrait",
+      "photography"
     ],
     "copyright": false,
     "files": {
