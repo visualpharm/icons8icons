@@ -44,10 +44,10 @@
     "tags": [
       "chart",
       "numbers",
-      "school",
       "last",
-      "teacher",
-      "fundamentals"
+      "fundamentals",
+      "octal",
+      "hex formatted"
     ],
     "copyright": false,
     "files": {
@@ -72,14 +72,20 @@
     "category": "Alphabet",
     "created": 1328869775,
     "tags": [
-      "kindergarten",
+      "calculate",
+      "calculator",
+      "count",
       "counting",
       "one",
       "mathematics",
-      "i",
+      "calculation",
+      "binary",
+      "numeric",
       "2",
-      "any",
       "1 2 3 4 5 6 7 8 9 0",
+      "hexa decimal",
+      "decimal",
+      "octal",
       "numbers",
       "1 2 3 4 5 6 7 8 9"
     ],
@@ -107,13 +113,14 @@
     "created": 1328628248,
     "tags": [
       "calculator",
-      "keyboard",
       "numbers",
-      "pad",
-      "top",
-      "first",
-      "keypad",
-      "single"
+      "code",
+      "binary",
+      "numeric",
+      "hexa decimal",
+      "decimal",
+      "octal",
+      "hex formatted"
     ],
     "copyright": false,
     "files": {
@@ -138,10 +145,17 @@
     "category": "Alphabet",
     "created": 1328869775,
     "tags": [
+      "calculator",
+      "numbers",
       "counting",
       "mathematics",
       "two",
-      "2"
+      "calculation",
+      "numeric",
+      "2",
+      "hexa decimal",
+      "decimal",
+      "octal"
     ],
     "copyright": false,
     "files": {
@@ -398,14 +412,14 @@
     "category": "Alphabet",
     "created": 1328628248,
     "tags": [
-      "calculator",
-      "second",
       "keyboard",
       "numbers",
-      "pad",
-      "keypad",
-      "place",
-      "marathon"
+      "code",
+      "numeric",
+      "hexa decimal",
+      "decimal",
+      "octal",
+      "hex formatted"
     ],
     "copyright": false,
     "files": {
@@ -430,12 +444,17 @@
     "category": "Alphabet",
     "created": 1328869775,
     "tags": [
+      "calculator",
       "numbers",
-      "kindergarten",
+      "count",
       "three",
       "counting",
       "mathematics",
-      "4",
+      "calculation",
+      "numeric",
+      "hexa decimal",
+      "decimal",
+      "octal",
       "computer"
     ],
     "copyright": false,
@@ -550,16 +569,12 @@
     "category": "Alphabet",
     "created": 1328628248,
     "tags": [
-      "calculator",
-      "keyboard",
       "numbers",
-      "pad",
-      "keypad",
-      "place",
-      "marathon",
-      "third",
-      "contest",
-      "4 c"
+      "code",
+      "numeric",
+      "hexa decimal",
+      "decimal",
+      "hex formatted"
     ],
     "copyright": false,
     "files": {
@@ -585,11 +600,23 @@
     "created": 1329131573,
     "tags": [
       "calculate",
+      "calculator",
+      "add",
+      "multiply",
       "numbers",
+      "symbol",
       "accounting",
+      "sign",
       "count",
       "four",
-      "calculation"
+      "division",
+      "calculation",
+      "numeral",
+      "numeric",
+      "substract",
+      "hexa decimal",
+      "decimal",
+      "octal"
     ],
     "copyright": false,
     "files": {
@@ -614,11 +641,12 @@
     "category": "Alphabet",
     "created": 1328783917,
     "tags": [
-      "line",
       "numbers",
-      "scale",
-      "section",
-      "chapter"
+      "code",
+      "numeric",
+      "hexa decimal",
+      "decimal",
+      "hex formatted"
     ],
     "copyright": false,
     "files": {
@@ -647,8 +675,6 @@
       "keyboard",
       "numbers",
       "accounting",
-      "credit",
-      "amount",
       "count",
       "pentagon",
       "numerals",
@@ -744,11 +770,11 @@
     "category": "Alphabet",
     "created": 1328783917,
     "tags": [
-      "line",
-      "row",
-      "scale",
-      "section",
-      "chapter"
+      "code",
+      "numeric",
+      "hexa decimal",
+      "decimal",
+      "hex formatted"
     ],
     "copyright": false,
     "files": {
@@ -860,13 +886,13 @@
     "category": "Alphabet",
     "created": 1328783917,
     "tags": [
-      "line",
       "numbers",
-      "contents",
-      "scale",
-      "section",
-      "chapter",
-      "episode"
+      "code",
+      "numeric",
+      "fundamental",
+      "hexa decimal",
+      "decimal",
+      "hex formatted"
     ],
     "copyright": false,
     "files": {
@@ -1032,9 +1058,14 @@
     "created": 1328784145,
     "tags": [
       "chart",
-      "school",
-      "teacher",
-      "fundamentals"
+      "code",
+      "fundamentals",
+      "digit",
+      "numeric",
+      "hexa decimal",
+      "decimal",
+      "octal",
+      "hex formatted"
     ],
     "copyright": false,
     "files": {
@@ -1100,10 +1131,12 @@
     "tags": [
       "chart",
       "numbers",
-      "school",
-      "teacher",
+      "code",
       "fundamentals",
-      "assignment"
+      "hexa decimal",
+      "decimal",
+      "octal",
+      "hex formatted"
     ],
     "copyright": false,
     "files": {
@@ -1166,9 +1199,13 @@
     "tags": [
       "chart",
       "numbers",
-      "teacher",
+      "code",
       "fundamentals",
-      "fraction"
+      "fraction",
+      "numeric",
+      "hexa decimal",
+      "decimal",
+      "hex formatted"
     ],
     "copyright": false,
     "files": {
@@ -50065,7 +50102,6 @@
       "mail",
       "direction",
       "minus",
-      "guide",
       "telephone",
       "distance",
       "address",
@@ -50098,6 +50134,7 @@
       "street map",
       "garmin",
       "glonass",
+      "guide",
       "maps",
       "build"
     ],
@@ -78297,7 +78334,6 @@
       "army",
       "bomb",
       "explosion",
-      "explosions",
       "smoke",
       "armed forces",
       "air force",
@@ -78308,7 +78344,8 @@
       "battle",
       "warfare",
       "smoke grenade",
-      "firefighting"
+      "firefighting",
+      "explosions"
     ],
     "copyright": false,
     "files": {

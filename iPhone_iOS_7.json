@@ -40895,7 +40895,6 @@
       "mail",
       "direction",
       "minus",
-      "guide",
       "telephone",
       "distance",
       "address",
@@ -40928,6 +40927,7 @@
       "street map",
       "garmin",
       "glonass",
+      "guide",
       "maps",
       "build"
     ],
@@ -64300,7 +64300,6 @@
       "army",
       "bomb",
       "explosion",
-      "explosions",
       "smoke",
       "armed forces",
       "air force",
@@ -64311,7 +64310,8 @@
       "battle",
       "warfare",
       "smoke grenade",
-      "firefighting"
+      "firefighting",
+      "explosions"
     ],
     "copyright": false,
     "files": {
