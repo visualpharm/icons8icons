@@ -642,6 +642,7 @@
       "calendar",
       "remove",
       "help",
+      "password",
       "profile",
       "report",
       "tv",
@@ -65812,6 +65813,7 @@
     "category": "Photo and Video",
     "created": 1390342414,
     "tags": [
+      "printer",
       "image",
       "photo",
       "camera",
