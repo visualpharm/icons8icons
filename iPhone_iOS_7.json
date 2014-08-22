@@ -9159,6 +9159,7 @@
       "hot",
       "heat",
       "sign",
+      "briefcase",
       "icon",
       "outdoors",
       "art",
@@ -9186,8 +9187,7 @@
       "building a fire",
       "around a camp fire",
       "outline of a camp fire",
-      "black and white campfire",
-      "simple "
+      "black and white campfi"
     ],
     "copyright": false,
     "files": {
@@ -16434,6 +16434,7 @@
     "created": 1376042694,
     "tags": [
       "church",
+      "jesus",
       "cross",
       "religion",
       "christian",
@@ -16442,9 +16443,9 @@
       "landmark",
       "heritage",
       "culture",
-      "anthropology",
-      "unesco",
-      "point of attraction"
+      "angel",
+      "point of attraction",
+      "cemetry"
     ],
     "copyright": false,
     "files": {
@@ -28650,12 +28651,8 @@
       "geisha",
       "japanese woman",
       "japanese culture",
-      "landmark",
       "heritage",
-      "culture",
-      "anthropology",
-      "unesco",
-      "point of attraction"
+      "culture"
     ],
     "copyright": false,
     "files": {
@@ -48289,6 +48286,7 @@
     "tags": [
       "bird",
       "building",
+      "art",
       "japan",
       "japanese",
       "japanese culture",
@@ -48297,9 +48295,8 @@
       "landmark",
       "heritage",
       "culture",
-      "anthropology",
-      "unesco",
-      "point of attraction"
+      "paper sculpture",
+      "paper bird"
     ],
     "copyright": false,
     "files": {
@@ -66215,6 +66212,7 @@
     "tags": [
       "symbol",
       "islam",
+      "point of attraction",
       "Pakistan",
       "turkey",
       "libya",
@@ -66223,8 +66221,7 @@
       "religion",
       "muslim",
       "heritage",
-      "culture",
-      "point of attraction"
+      "culture"
     ],
     "copyright": false,
     "files": {
@@ -68026,9 +68023,8 @@
     "category": "Cultures",
     "created": 1395003082,
     "tags": [
-      "crab",
+      "fish",
       "food",
-      "vegetable",
       "rolled up",
       "food and drink",
       "seafood",
@@ -68037,22 +68033,18 @@
       "japanese culture",
       "rice",
       "sushi",
-      "wasabi",
-      "sake",
       "maki sushi",
-      "dishware",
-      "omelet",
       "nori",
       "salmon",
       "sashimi",
-      "prepared fish",
-      "landmark",
       "heritage",
       "culture",
-      "pasta",
-      "anthropology",
-      "unesco",
-      "point of attraction"
+      "chop stick",
+      "mahi mahi sushi",
+      "sushi rice",
+      "uncooked food",
+      "sushi roll",
+      "thai sushi"
     ],
     "copyright": false,
     "files": {
@@ -70213,9 +70205,13 @@
     "category": "Cultures",
     "created": 1374748103,
     "tags": [
+      "god",
       "north",
+      "storm",
       "thunder",
+      "power",
       "hammer",
+      "strength",
       "europe",
       "european culture",
       "heroes",
@@ -70228,9 +70224,9 @@
       "landmark",
       "heritage",
       "culture",
-      "anthropology",
-      "unesco",
-      "point of attraction"
+      "fertility",
+      "point of attraction",
+      "smash evil"
     ],
     "copyright": false,
     "files": {
@@ -76574,6 +76570,7 @@
     "created": 1374748103,
     "tags": [
       "helmet",
+      "shield",
       "thunderstorm",
       "period costume",
       "europe",
@@ -76581,23 +76578,17 @@
       "heroes",
       "scandinavian",
       "viking",
-      "viking helmet",
       "warrior",
       "headwear",
       "stage costume",
       "scandinavian culture",
-      "viking ship",
-      "warship",
       "superhero",
       "celtic culture",
       "landmark",
       "heritage",
       "culture",
       "anthropology",
-      "unesco",
-      "point of attraction",
-      "hum",
-      "YOOOOOOOO",
+      "protector",
       "lolfuckno"
     ],
     "copyright": false,
@@ -76643,7 +76634,6 @@
       "landmark",
       "heritage",
       "culture",
-      "unesco",
       "point of attraction",
       "scandinavian culture"
     ],
