@@ -10337,9 +10337,7 @@
       "bookmark",
       "mark",
       "book mark",
-      "forgetting",
       "edit",
-      "file",
       "position",
       "favorite",
       "notes",
@@ -10347,7 +10345,6 @@
       "locate",
       "notebook",
       "back",
-      "homework",
       "ebook",
       "reader",
       "ibooks",
@@ -12804,14 +12801,14 @@
       "gtd",
       "time management",
       "schedule 1",
-      "month",
       "time",
       "hours",
-      "schedule",
       "week",
       "event",
-      "plan",
-      "survey"
+      "survey",
+      "month",
+      "schedule",
+      "plan"
     ],
     "copyright": false,
     "files": {
@@ -29858,7 +29855,6 @@
       "warning",
       "equipment",
       "glass",
-      "counting",
       "caution",
       "limit",
       "countdown",
@@ -52518,6 +52514,7 @@
       "organizer",
       "end",
       "list",
+      "post",
       "blank",
       "wall",
       "modern",
@@ -52544,8 +52541,7 @@
       "to do",
       "tour plan",
       "work break",
-      "recess",
-      "ti"
+      "rece"
     ],
     "copyright": false,
     "files": {
@@ -62298,7 +62294,6 @@
       "touch",
       "gadget",
       "email",
-      "website",
       "speaker",
       "receiver",
       "3g",
@@ -62316,7 +62311,8 @@
       "cradle",
       "landline",
       "webphone",
-      "phon"
+      "phone",
+      "dial"
     ],
     "copyright": false,
     "files": {

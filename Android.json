@@ -5877,9 +5877,7 @@
       "bookmark",
       "mark",
       "book mark",
-      "forgetting",
       "edit",
-      "file",
       "position",
       "favorite",
       "notes",
@@ -5887,7 +5885,6 @@
       "locate",
       "notebook",
       "back",
-      "homework",
       "ebook",
       "reader",
       "ibooks",
@@ -7307,14 +7304,14 @@
       "gtd",
       "time management",
       "schedule 1",
-      "month",
       "time",
       "hours",
-      "schedule",
       "week",
       "event",
-      "plan",
-      "survey"
+      "survey",
+      "month",
+      "schedule",
+      "plan"
     ],
     "copyright": false,
     "files": {
@@ -37158,7 +37155,6 @@
       "touch",
       "gadget",
       "email",
-      "website",
       "speaker",
       "receiver",
       "3g",
@@ -37176,7 +37172,8 @@
       "cradle",
       "landline",
       "webphone",
-      "phon"
+      "phone",
+      "dial"
     ],
     "copyright": false,
     "files": {
