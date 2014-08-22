@@ -58870,7 +58870,6 @@
     "tags": [
       "close",
       "remove",
-      "cancel",
       "cross",
       "v",
       "checklist",
@@ -88169,9 +88168,9 @@
       "helper",
       "priorities",
       "chores",
-      "task management",
       "today",
       "to-do list",
+      "task management",
       "list"
     ],
     "copyright": false,
@@ -89176,6 +89175,7 @@
       "trigonometry",
       "geometry",
       "angle",
+      "maths",
       "triangle"
     ],
     "copyright": false,
