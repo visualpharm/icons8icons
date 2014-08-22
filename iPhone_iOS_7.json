@@ -13485,9 +13485,9 @@
       "stop",
       "circle",
       "close",
-      "x",
       "cease",
-      "fatal error"
+      "fatal error",
+      "x"
     ],
     "copyright": false,
     "files": {
@@ -18922,13 +18922,7 @@
     "category": "Gaming",
     "created": 1329728803,
     "tags": [
-      "games",
-      "play",
-      "cards",
-      "gamble",
-      "casino",
-      "solitaire",
-      "poker"
+      "heart"
     ],
     "copyright": false,
     "files": {
@@ -28655,8 +28649,18 @@
       "geisha",
       "japanese woman",
       "japanese culture",
+      "educated",
+      "long hair",
       "heritage",
-      "culture"
+      "culture",
+      "kimono",
+      "high society",
+      "make over",
+      "dark eyes",
+      "black hair",
+      "blunt nose",
+      "heavy make up",
+      "memoirs of a geisha"
     ],
     "copyright": false,
     "files": {
@@ -30493,8 +30497,8 @@
     "category": "Cultures",
     "created": 1374488853,
     "tags": [
+      "north",
       "wall",
-      "philosophy",
       "china",
       "chinese",
       "great wall",
@@ -30504,7 +30508,18 @@
       "culture",
       "anthropology",
       "unesco",
-      "point of attraction"
+      "point of attraction",
+      "ming dynasty",
+      "yang dynasty",
+      "longest wall",
+      "fortress",
+      "pathwalk",
+      "garrison",
+      "watch towers",
+      "hun warriors",
+      "savages",
+      "stone walk",
+      "northern warriors"
     ],
     "copyright": false,
     "files": {
@@ -41986,12 +42001,13 @@
       "jewish",
       "menorah",
       "candlestick holder",
-      "landmark",
       "heritage",
       "culture",
-      "anthropology",
-      "unesco",
-      "point of attraction"
+      "ritual",
+      "rabbi",
+      "saturday meal",
+      "sabbath",
+      "sabbatical"
     ],
     "copyright": false,
     "files": {
@@ -66268,15 +66284,10 @@
       "holiday symbols",
       "hope",
       "jewish",
-      "landmark",
       "heritage",
       "culture",
       "israel",
-      "anthropology",
-      "unesco",
-      "point of attraction",
-      "ghg",
-      "vbv"
+      "anthropology"
     ],
     "copyright": false,
     "files": {
@@ -72491,10 +72502,23 @@
     "category": "Cultures",
     "created": 1374225903,
     "tags": [
-      "filter",
-      "law",
+      "calculator",
+      "religion",
+      "jewish",
+      "manuscript",
+      "israel",
+      "rabbi",
       "магазин",
-      "calculator"
+      "taurat",
+      "moses",
+      "jew",
+      "old testament",
+      "code of life",
+      "semitic life",
+      "religious books",
+      "jerujalem",
+      "Al-Aqsa",
+      "scribs"
     ],
     "copyright": false,
     "files": {
@@ -81612,6 +81636,7 @@
       "china",
       "chinese",
       "yin yang sign",
+      "meditation",
       "landmark",
       "heritage",
       "culture",
@@ -81619,8 +81644,11 @@
       "oposite",
       "69",
       "anthropology",
-      "unesco",
       "point of attraction",
+      "flipside",
+      "home science",
+      "feng-shui",
+      "spiritual belief",
       "yin yang"
     ],
     "copyright": false,
