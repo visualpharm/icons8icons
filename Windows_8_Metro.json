@@ -2993,8 +2993,18 @@
     "created": 1401166273,
     "tags": [
       "format",
+      "document",
       "text",
-      "middle"
+      "paragraph",
+      "middle",
+      "contract",
+      "papers",
+      "ms excel",
+      "MS Word",
+      "ms power point",
+      "laws",
+      "centered",
+      "merge and center"
     ],
     "copyright": false,
     "files": {
@@ -3019,9 +3029,21 @@
     "category": "Editing",
     "created": 1401166273,
     "tags": [
+      "editing",
       "format",
+      "work",
+      "document",
+      "doc",
+      "table",
       "text",
-      "My Lists"
+      "abstract",
+      "importance",
+      "important",
+      "My Lists",
+      "ms excel",
+      "MS Word",
+      "listing",
+      "research paper"
     ],
     "copyright": false,
     "files": {
@@ -3047,7 +3069,15 @@
     "created": 1401166273,
     "tags": [
       "format",
-      "text"
+      "text",
+      "paragraph",
+      "ms office",
+      "ms excel",
+      "MS Word",
+      "Left sided",
+      "English language",
+      "built in button",
+      "in built system"
     ],
     "copyright": false,
     "files": {
@@ -17893,13 +17923,22 @@
     "created": 1405644651,
     "tags": [
       "writing",
+      "file",
+      "paper",
       "arrow",
       "clip",
+      "data",
       "pad",
+      "work",
+      "document",
       "form",
+      "assignment",
+      "importance",
       "back",
+      "important",
       "clipboard",
       "paste",
+      "holder",
       "filling out",
       "gdg"
     ],
@@ -18804,7 +18843,6 @@
       "early",
       "latte",
       "espresso",
-      "aroma",
       "supermarket",
       "culinary",
       "lunch",
@@ -18813,7 +18851,8 @@
       "spa",
       "you tube",
       "patent",
-      "time"
+      "time",
+      "aroma"
     ],
     "copyright": false,
     "files": {
@@ -33442,6 +33481,7 @@
     "tags": [
       "files",
       "folders",
+      "report",
       "organization",
       "portfolio",
       "clearbook",
@@ -60771,17 +60811,15 @@
       "colorful",
       "studio",
       "red",
-      "blue",
+      "painting",
       "glossy",
       "sketch",
       "texture",
       "creativity",
       "pots",
       "imagination",
-      "shine",
       "pastel",
       "markers",
-      "experience",
       "colorless",
       "sparkle",
       "glitter",
@@ -60792,7 +60830,11 @@
       "budding",
       "crayons",
       "watercolors",
-      "cups"
+      "cups",
+      "van gogh",
+      "da vinci",
+      "salvador dali",
+      "paint too"
     ],
     "copyright": false,
     "files": {
@@ -61708,11 +61750,14 @@
     "category": "Editing",
     "created": 1406825482,
     "tags": [
+      "excel",
       "file",
       "star",
+      "powerpoint",
       "private",
       "save",
       "personal",
+      "doc",
       "photo",
       "keep",
       "clipboard",

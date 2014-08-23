@@ -1315,8 +1315,18 @@
     "created": 1401166273,
     "tags": [
       "format",
+      "document",
       "text",
-      "middle"
+      "paragraph",
+      "middle",
+      "contract",
+      "papers",
+      "ms excel",
+      "MS Word",
+      "ms power point",
+      "laws",
+      "centered",
+      "merge and center"
     ],
     "copyright": false,
     "files": {
@@ -1343,9 +1353,21 @@
     "category": "Editing",
     "created": 1401166273,
     "tags": [
+      "editing",
       "format",
+      "work",
+      "document",
+      "doc",
+      "table",
       "text",
-      "My Lists"
+      "abstract",
+      "importance",
+      "important",
+      "My Lists",
+      "ms excel",
+      "MS Word",
+      "listing",
+      "research paper"
     ],
     "copyright": false,
     "files": {
@@ -1373,7 +1395,15 @@
     "created": 1401166273,
     "tags": [
       "format",
-      "text"
+      "text",
+      "paragraph",
+      "ms office",
+      "ms excel",
+      "MS Word",
+      "Left sided",
+      "English language",
+      "built in button",
+      "in built system"
     ],
     "copyright": false,
     "files": {
@@ -11276,7 +11306,6 @@
       "early",
       "latte",
       "espresso",
-      "aroma",
       "supermarket",
       "culinary",
       "lunch",
@@ -11285,7 +11314,8 @@
       "spa",
       "you tube",
       "patent",
-      "time"
+      "time",
+      "aroma"
     ],
     "copyright": false,
     "files": {
@@ -20176,6 +20206,7 @@
     "tags": [
       "files",
       "folders",
+      "report",
       "organization",
       "portfolio",
       "clearbook",
