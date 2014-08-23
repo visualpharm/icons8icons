@@ -35080,7 +35080,6 @@
       "audio",
       "hear",
       "hearing",
-      "sing",
       "genre",
       "albums",
       "artist",
@@ -35089,8 +35088,6 @@
       "sound",
       "pitch",
       "orchestra",
-      "photo",
-      "musician",
       "bit",
       "frequency",
       "music instrument",
@@ -35099,10 +35096,12 @@
       "solfege",
       "Do Re Mi",
       "key signature",
-      "duration",
       "clef",
+      "sing",
       "song",
-      "cd"
+      "cd",
+      "photo",
+      "musician"
     ],
     "copyright": false,
     "files": {
