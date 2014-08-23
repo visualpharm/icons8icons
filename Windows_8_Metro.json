@@ -44927,7 +44927,6 @@
       "gadget",
       "electronic",
       "handle",
-      "input",
       "controller",
       "gaming",
       "control column",
@@ -44939,7 +44938,8 @@
       "game",
       "video game",
       "playstation",
-      "xbox"
+      "xbox",
+      "input"
     ],
     "copyright": false,
     "files": {
