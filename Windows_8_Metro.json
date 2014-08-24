@@ -41231,7 +41231,6 @@
       "tabbed",
       "general",
       "phon",
-      "telephon",
       "main page",
       "principal",
       "wishlist",
@@ -41243,6 +41242,7 @@
       "chimney",
       "foreclosure",
       "door",
+      "telephon",
       "home",
       "house",
       "index"
@@ -60566,7 +60566,6 @@
     "tags": [
       "box",
       "package",
-      "delivery",
       "protection",
       "arrow",
       "sell",
@@ -60585,7 +60584,8 @@
       "packaged product",
       "packaged management",
       "packed",
-      "supplier"
+      "supplier",
+      "delivery"
     ],
     "copyright": false,
     "files": {
