@@ -2992,10 +2992,16 @@
     "category": "Editing",
     "created": 1401166273,
     "tags": [
+      "design",
+      "graphics",
+      "php",
       "format",
+      "work",
       "document",
+      "doc",
       "text",
       "paragraph",
+      "image",
       "middle",
       "contract",
       "papers",
@@ -3004,7 +3010,9 @@
       "ms power point",
       "laws",
       "centered",
-      "merge and center"
+      "merge and center",
+      "text wrapping",
+      "designing"
     ],
     "copyright": false,
     "files": {
@@ -3030,12 +3038,17 @@
     "created": 1401166273,
     "tags": [
       "editing",
+      "php",
       "format",
       "work",
       "document",
       "doc",
       "table",
       "text",
+      "website",
+      "html",
+      "css",
+      "horizontal",
       "abstract",
       "importance",
       "important",
@@ -3043,7 +3056,8 @@
       "ms excel",
       "MS Word",
       "listing",
-      "research paper"
+      "research paper",
+      "text wrapping"
     ],
     "copyright": false,
     "files": {
@@ -3068,16 +3082,27 @@
     "category": "Editing",
     "created": 1401166273,
     "tags": [
+      "design",
+      "software",
+      "graphics",
       "format",
+      "work",
+      "document",
+      "doc",
       "text",
       "paragraph",
+      "images",
+      "text align",
       "ms office",
+      "fonts",
       "ms excel",
       "MS Word",
       "Left sided",
       "English language",
       "built in button",
-      "in built system"
+      "in built system",
+      "text wrapping",
+      "designing"
     ],
     "copyright": false,
     "files": {
