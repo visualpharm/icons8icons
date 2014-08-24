@@ -25508,6 +25508,7 @@
     "category": "Folders",
     "created": 1394020283,
     "tags": [
+      "options",
       "storage"
     ],
     "copyright": false,
@@ -33537,6 +33538,7 @@
     "created": 1337067591,
     "tags": [
       "files",
+      "folder",
       "folders",
       "report",
       "organization",
@@ -40779,8 +40781,14 @@
     "created": 1375439267,
     "tags": [
       "hexagon",
+      "points",
       "shape",
-      "image editing"
+      "image editing",
+      "geometry",
+      "greek",
+      "hexa",
+      "six sides",
+      "six points"
     ],
     "copyright": false,
     "files": {
@@ -58885,9 +58893,19 @@
     "tags": [
       "tools",
       "shapes",
+      "points",
+      "size",
       "shape",
+      "polygon",
       "image editing",
-      "octagon"
+      "octagon",
+      "geometry",
+      "corners",
+      "greek",
+      "octahedral",
+      "eight sides",
+      "eight points",
+      "octa"
     ],
     "copyright": false,
     "files": {
@@ -75958,6 +75976,7 @@
       "restricted",
       "private",
       "network",
+      "defense",
       "allow",
       "shield",
       "firewall",
@@ -90030,6 +90049,7 @@
       "sound",
       "pitch",
       "orchestra",
+      "list",
       "tuba",
       "musical instrument",
       "orchester",
@@ -98148,17 +98168,24 @@
     "category": "Maps",
     "created": 1345200595,
     "tags": [
+      "globe",
+      "earth",
       "direction",
       "west",
       "north",
+      "trip",
       "geo",
+      "tour",
       "map",
       "gps",
       "equator",
+      "cruise",
+      "journey",
       "geography",
       "navigation",
       "gis",
       "area",
+      "voyage",
       "glonass"
     ],
     "copyright": false,
