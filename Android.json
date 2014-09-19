@@ -88285,7 +88285,6 @@
       "digital mapping",
       "axis",
       "pencil",
-      "edit",
       "draw",
       "pen",
       "writing",
@@ -88293,7 +88292,8 @@
       "brochure",
       "drawing",
       "geography",
-      "google maps"
+      "google maps",
+      "edit"
     ],
     "copyright": false,
     "files": {
@@ -126492,8 +126492,8 @@
       "web crawler",
       "magnify",
       "zoom in",
-      "magnified",
       "scan",
+      "magnified",
       "find",
       "search"
     ],
@@ -140117,7 +140117,6 @@
       "icon",
       "share",
       "important",
-      "popular",
       "very popular",
       "lamp",
       "settings",
