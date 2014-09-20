@@ -172144,7 +172144,9 @@
       "glonass",
       "digital mapping",
       "google map",
-      "red pointer"
+      "red pointer",
+      "my location",
+      "current location"
     ],
     "copyright": false,
     "files": {
