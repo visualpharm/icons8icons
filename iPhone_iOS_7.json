@@ -128699,10 +128699,10 @@
       "envelop",
       "send",
       "tell",
-      "communicate",
       "mail",
       "message",
-      "envelope"
+      "envelope",
+      "communicate"
     ],
     "copyright": false,
     "files": {
@@ -160862,7 +160862,8 @@
       "gis",
       "area",
       "segment",
-      "glonass"
+      "glonass",
+      "path"
     ],
     "copyright": false,
     "files": {
