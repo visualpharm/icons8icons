@@ -109268,7 +109268,6 @@
       "sensor",
       "lg",
       "5c",
-      "ios 8",
       "proximity",
       "accelerometer",
       "multi-touch",
@@ -109283,7 +109282,8 @@
       "device",
       "iphone",
       "apple",
-      "code"
+      "code",
+      "ios 8"
     ],
     "copyright": true,
     "files": {

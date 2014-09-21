@@ -7392,7 +7392,8 @@
       "steam",
       "audio file",
       "mp3 player",
-      "multimedia"
+      "multimedia",
+      "pdf"
     ],
     "copyright": false,
     "files": {
@@ -45213,7 +45214,8 @@
       3904,
       4878,
       5080,
-      3245
+      3245,
+      3143
     ]
   },
   {
@@ -77976,7 +77978,6 @@
       "sensor",
       "lg",
       "5c",
-      "ios 8",
       "proximity",
       "accelerometer",
       "multi-touch",
@@ -77991,7 +77992,8 @@
       "device",
       "iphone",
       "apple",
-      "code"
+      "code",
+      "ios 8"
     ],
     "copyright": true,
     "files": {
@@ -84925,6 +84927,7 @@
       5081,
       3233,
       3188,
+      3143,
       4161,
       4179,
       4980,
@@ -172405,6 +172408,7 @@
       "location",
       "travel",
       "point",
+      "filter",
       "pointer",
       "geo",
       "tour",
