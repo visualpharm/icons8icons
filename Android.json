@@ -91571,7 +91571,6 @@
       "audio",
       "sing",
       "song",
-      "talk",
       "sound",
       "announcement",
       "voice",
@@ -91595,6 +91594,7 @@
       "dedicado",
       "servidor",
       "habbo",
+      "talk",
       "mic"
     ],
     "copyright": false,
