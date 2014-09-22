@@ -40717,8 +40717,8 @@
       "timezone",
       "goal",
       "objective",
-      "glonass",
-      "central point"
+      "central point",
+      "glonass"
     ],
     "copyright": false,
     "files": {
@@ -134143,7 +134143,6 @@
       "long shot",
       "night portrait",
       "image effect",
-      "close up mode",
       "camera",
       "photography"
     ],
