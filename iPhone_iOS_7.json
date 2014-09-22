@@ -176743,9 +176743,9 @@
       "campsite",
       "shoe sole",
       "travelling",
-      "deep step",
       "deepstep",
-      "travellingshoe"
+      "travellingshoe",
+      "deep step"
     ],
     "copyright": false,
     "files": {
@@ -204319,7 +204319,6 @@
       "mail",
       "message",
       "asterisk",
-      "feature",
       "featured",
       "symbol",
       "rating",
@@ -204333,6 +204332,7 @@
       "important",
       "very popular",
       "lamp",
+      "feature",
       "settings",
       "etoile",
       "star",
@@ -204449,12 +204449,12 @@
       3726,
       5316,
       6377,
-      944,
-      1678,
-      2191,
-      2789,
-      2940,
-      172
+      172,
+      224,
+      470,
+      472,
+      474,
+      821
     ]
   },
   {
