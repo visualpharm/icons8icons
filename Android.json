@@ -32643,7 +32643,6 @@
       "seminar",
       "co-worker",
       "collegue",
-      "user identification",
       "office assistant",
       "team mate"
     ],
@@ -88759,7 +88758,6 @@
       "point",
       "reference",
       "clues",
-      "clue",
       "camera",
       "pointer",
       "geo",
@@ -88771,7 +88769,8 @@
       "google earth",
       "glonass",
       "google map",
-      "place marker"
+      "place marker",
+      "clue"
     ],
     "copyright": false,
     "files": {
