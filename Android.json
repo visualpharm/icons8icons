@@ -24057,7 +24057,6 @@
       "coins",
       "amount",
       "currency",
-      "collect",
       "begging",
       "hand",
       "receive",
@@ -24070,6 +24069,7 @@
       "wage",
       "grant",
       "palm",
+      "collect",
       "beggar",
       "charity"
     ],

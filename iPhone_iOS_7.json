@@ -31454,7 +31454,6 @@
       "coins",
       "amount",
       "currency",
-      "collect",
       "begging",
       "hand",
       "receive",
@@ -31467,6 +31466,7 @@
       "wage",
       "grant",
       "palm",
+      "collect",
       "beggar",
       "charity"
     ],
@@ -54728,6 +54728,41 @@
       174,
       2888
     ]
+  },
+  {
+    "id": 6425,
+    "name": "day_camera",
+    "platform": "iPhone/iOS 7",
+    "category": "Security",
+    "created": 1411577489,
+    "tags": [
+      "good",
+      "calendar",
+      "day",
+      "month",
+      "year",
+      "fun",
+      "sheet",
+      "life",
+      "winter",
+      "summer"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Security/day_camera.svg",
+      "png": {
+        "25": "/PNG/25/Security/day_camera-25.png",
+        "32": "/PNG/32/Security/day_camera-32.png",
+        "128": "/PNG/128/Security/day_camera-128.png",
+        "75": "/PNG/75/Security/day_camera-75.png",
+        "256": "/PNG/256/Security/day_camera-256.png",
+        "100": "/PNG/100/Security/day_camera-100.png",
+        "512": "/PNG/512/Security/day_camera-512.png",
+        "50": "/PNG/50/Security/day_camera-50.png"
+      },
+      "eps": "/EPS/Security/day_camera.eps",
+      "svg.simplified": "/SVG_for_Font/Security/day_camera.svg"
+    }
   },
   {
     "id": 1907,
@@ -106288,6 +106323,41 @@
     ]
   },
   {
+    "id": 6427,
+    "name": "indoor_camera",
+    "platform": "iPhone/iOS 7",
+    "category": "Security",
+    "created": 1411577489,
+    "tags": [
+      "fun",
+      "play",
+      "eat",
+      "water",
+      "tired",
+      "game",
+      "indoor",
+      "enjoy",
+      "fruits",
+      "common wealth"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Security/indoor_camera.svg",
+      "png": {
+        "25": "/PNG/25/Security/indoor_camera-25.png",
+        "32": "/PNG/32/Security/indoor_camera-32.png",
+        "128": "/PNG/128/Security/indoor_camera-128.png",
+        "75": "/PNG/75/Security/indoor_camera-75.png",
+        "256": "/PNG/256/Security/indoor_camera-256.png",
+        "100": "/PNG/100/Security/indoor_camera-100.png",
+        "512": "/PNG/512/Security/indoor_camera-512.png",
+        "50": "/PNG/50/Security/indoor_camera-50.png"
+      },
+      "eps": "/EPS/Security/indoor_camera.eps",
+      "svg.simplified": "/SVG_for_Font/Security/indoor_camera.svg"
+    }
+  },
+  {
     "id": 6399,
     "name": "infinity",
     "platform": "iPhone/iOS 7",
@@ -140532,6 +140602,41 @@
     ]
   },
   {
+    "id": 6429,
+    "name": "night_camera",
+    "platform": "iPhone/iOS 7",
+    "category": "Security",
+    "created": 1411577489,
+    "tags": [
+      "world",
+      "star",
+      "night",
+      "sun",
+      "moon",
+      "dark",
+      "million",
+      "half moon",
+      "full moon",
+      "blink"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Security/night_camera.svg",
+      "png": {
+        "25": "/PNG/25/Security/night_camera-25.png",
+        "32": "/PNG/32/Security/night_camera-32.png",
+        "128": "/PNG/128/Security/night_camera-128.png",
+        "75": "/PNG/75/Security/night_camera-75.png",
+        "256": "/PNG/256/Security/night_camera-256.png",
+        "100": "/PNG/100/Security/night_camera-100.png",
+        "512": "/PNG/512/Security/night_camera-512.png",
+        "50": "/PNG/50/Security/night_camera-50.png"
+      },
+      "eps": "/EPS/Security/night_camera.eps",
+      "svg.simplified": "/SVG_for_Font/Security/night_camera.svg"
+    }
+  },
+  {
     "id": 2484,
     "name": "night_landscape",
     "platform": "iPhone/iOS 7",
@@ -147749,6 +147854,41 @@
       1871,
       1873
     ]
+  },
+  {
+    "id": 6423,
+    "name": "outdoor_camera",
+    "platform": "iPhone/iOS 7",
+    "category": "Security",
+    "created": 1411577489,
+    "tags": [
+      "fun",
+      "play",
+      "group",
+      "green",
+      "game",
+      "forest",
+      "outdoor",
+      "funny",
+      "summer",
+      "enjoy"
+    ],
+    "copyright": false,
+    "files": {
+      "svg": "/SVG/Security/outdoor_camera.svg",
+      "png": {
+        "25": "/PNG/25/Security/outdoor_camera-25.png",
+        "32": "/PNG/32/Security/outdoor_camera-32.png",
+        "128": "/PNG/128/Security/outdoor_camera-128.png",
+        "75": "/PNG/75/Security/outdoor_camera-75.png",
+        "256": "/PNG/256/Security/outdoor_camera-256.png",
+        "100": "/PNG/100/Security/outdoor_camera-100.png",
+        "512": "/PNG/512/Security/outdoor_camera-512.png",
+        "50": "/PNG/50/Security/outdoor_camera-50.png"
+      },
+      "eps": "/EPS/Security/outdoor_camera.eps",
+      "svg.simplified": "/SVG_for_Font/Security/outdoor_camera.svg"
+    }
   },
   {
     "id": 2142,
