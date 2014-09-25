@@ -126622,7 +126622,6 @@
       "merchandise",
       "handbag",
       "sales",
-      "shopping bag",
       "shopping centre",
       "stalls",
       "market place",
@@ -126630,7 +126629,8 @@
       "food halls",
       "public market",
       "wet market",
-      "vendor"
+      "vendor",
+      "shopping bag"
     ],
     "copyright": false,
     "files": {

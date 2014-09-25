@@ -91229,7 +91229,6 @@
     "created": 1391770248,
     "tags": [
       "mail",
-      "message",
       "sms",
       "address",
       "chat",
@@ -91244,6 +91243,7 @@
       "envelop",
       "new message",
       "new mail",
+      "message",
       "communication"
     ],
     "copyright": false,
