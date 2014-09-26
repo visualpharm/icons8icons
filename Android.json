@@ -2159,6 +2159,7 @@
       "password",
       "forum",
       "groups",
+      "signin",
       "add icon",
       "suggestions",
       "add to group",
@@ -7108,12 +7109,12 @@
       "indicator",
       "right",
       "increase",
-      "next",
       "filter",
       "pointer",
       "move",
       "navigation",
-      "arrow"
+      "arrow",
+      "next"
     ],
     "copyright": false,
     "files": {
@@ -7208,10 +7209,6 @@
       3927,
       4317,
       4326,
-      4176,
-      3844,
-      3882,
-      3212,
       3919,
       3923,
       3868,
@@ -7232,7 +7229,11 @@
       3952,
       3785,
       3807,
-      3793
+      3793,
+      3820,
+      3775,
+      3776,
+      3787
     ]
   },
   {
@@ -49875,7 +49876,6 @@
       "service",
       "engineering",
       "factory",
-      "construction",
       "engineer",
       "machine part",
       "industrial",
@@ -49886,7 +49886,8 @@
       "contrive",
       "devise",
       "invent",
-      "applied science"
+      "applied science",
+      "construction"
     ],
     "copyright": false,
     "files": {
