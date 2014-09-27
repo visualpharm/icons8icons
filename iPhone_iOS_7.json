@@ -187396,6 +187396,7 @@
       "keyword",
       "1",
       "explore",
+      "goal",
       "look for",
       "investigate",
       "seek",
@@ -209831,6 +209832,7 @@
       3649,
       3651,
       59,
+      132,
       1304,
       5067,
       6344,
@@ -209862,8 +209864,7 @@
       626,
       821,
       1617,
-      1623,
-      2339
+      1623
     ]
   },
   {
@@ -249200,7 +249201,6 @@
       "messaging",
       "communication",
       "web",
-      "tone",
       "chat",
       "comment",
       "text",
@@ -249216,7 +249216,8 @@
       "flirt",
       "sarcasm",
       "left eye",
-      "pic upload"
+      "pic upload",
+      "tone"
     ],
     "copyright": false,
     "files": {
