@@ -2693,6 +2693,7 @@
       2027,
       2778,
       2940,
+      6434,
       1583,
       1695,
       2805,
@@ -34903,7 +34904,6 @@
     "tags": [
       "good",
       "d",
-      "appropriate",
       "fitting",
       "requisite",
       "messages",
@@ -38571,6 +38571,7 @@
       "disk",
       "setting",
       "power",
+      "editor",
       "curve",
       "diagram",
       "result",
@@ -38686,13 +38687,13 @@
       5064,
       5346,
       5427,
-      3060,
-      3483,
-      2620,
-      2656,
-      2665,
-      2905,
-      3116
+      49,
+      1048,
+      1893,
+      1895,
+      2023,
+      2025,
+      2027
     ]
   },
   {
@@ -83463,6 +83464,7 @@
       "american football",
       "footbal",
       "futbal",
+      "BEING SPORTS",
       "games",
       "ball",
       "stadium",
@@ -83496,8 +83498,7 @@
       "ESPN",
       "futsal",
       "association football",
-      "midfielder",
-      "kick-off"
+      "midfie"
     ],
     "copyright": false,
     "files": {
@@ -241654,7 +241655,6 @@
       "payment",
       "money",
       "pay",
-      "wallet",
       "currency",
       "store",
       "shop",
@@ -241664,6 +241664,7 @@
       "money carrier",
       "check book",
       "money bag",
+      "wallet",
       "shopping"
     ],
     "copyright": false,
