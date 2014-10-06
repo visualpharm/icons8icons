@@ -63580,7 +63580,8 @@
       "latitude",
       "longitude",
       "glonass",
-      "world clock"
+      "world clock",
+      "nearby"
     ],
     "copyright": false,
     "files": {
@@ -106557,6 +106558,8 @@
       "landscape",
       "snap",
       "canvas",
+      "1",
+      "2",
       "graphic object",
       "album",
       "painting"
