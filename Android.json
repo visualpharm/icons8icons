@@ -13755,6 +13755,7 @@
       "pantry",
       "chafing",
       "assisting guest",
+      "main course",
       "color",
       "bowl"
     ],
@@ -40831,7 +40832,6 @@
       "coordinates",
       "adventure",
       "place",
-      "geography",
       "navigation",
       "gis",
       "area",
@@ -40840,6 +40840,7 @@
       "goal",
       "objective",
       "central point",
+      "geography",
       "glonass"
     ],
     "copyright": false,
