@@ -1494,7 +1494,6 @@
       "hierarchy",
       "partition",
       "shortcut",
-      "schema",
       "replication",
       "external",
       "partitions",
@@ -1507,7 +1506,8 @@
       "directory service",
       "schema object",
       "Organizational Unit",
-      "flat-file m"
+      "flat-file method",
+      "f"
     ],
     "copyright": false,
     "files": {
