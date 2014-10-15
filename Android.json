@@ -71111,6 +71111,7 @@
       "suits",
       "decks",
       "128",
+      "mana",
       "games",
       "web",
       "red"
@@ -94643,7 +94644,6 @@
       "storage",
       "coins",
       "purse",
-      "currency",
       "store",
       "safety",
       "bag",
@@ -94651,12 +94651,14 @@
       "dollar",
       "rich",
       "withdrawal",
+      "sword",
       "dd",
       "sack",
       "zyan6688 126.com",
       "cash",
       "bank",
-      "money"
+      "money",
+      "currency"
     ],
     "copyright": false,
     "files": {
