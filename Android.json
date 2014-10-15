@@ -5083,6 +5083,7 @@
       "svg.simplified": "/SVG_for_Font/Sports/anchor.svg"
     },
     "similar": [
+      3347,
       4868,
       5180,
       3312,
@@ -5181,8 +5182,7 @@
       3307,
       3346,
       5244,
-      4302,
-      4319
+      4302
     ]
   },
   {
@@ -26764,6 +26764,7 @@
       "account",
       "register",
       "payment method",
+      "anchor",
       "withdrawal",
       "withdraw",
       "serial number",
@@ -26789,6 +26790,7 @@
     "similar": [
       3170,
       3273,
+      3987,
       4290,
       4736,
       3236,
@@ -26843,6 +26845,8 @@
       3865,
       3862,
       3323,
+      4868,
+      5180,
       4306
     ]
   },
@@ -69541,13 +69545,13 @@
       "glad",
       "joyous",
       "lovely",
-      "thrilled",
       "upbeat",
       "entertainment",
       "laugh",
       "recreation",
       "good news",
-      "pleasure"
+      "pleasure",
+      "thrilled"
     ],
     "copyright": false,
     "files": {
