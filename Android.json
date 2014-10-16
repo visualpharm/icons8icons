@@ -127875,7 +127875,6 @@
       "cloud computing",
       "blade server",
       "dedicated server",
-      "colocation",
       "mini tower",
       "nas",
       "Internet Protocol",
@@ -127888,7 +127887,8 @@
       "web server",
       "Apache HTTP server",
       "RAS",
-      "computer appl"
+      "computer appliance",
+      "switc"
     ],
     "copyright": false,
     "files": {
@@ -134500,13 +134500,13 @@
       "resolution",
       "digital photography",
       "std",
-      "18 to 55",
       "sports photography",
       "photoshoot",
       "long shot",
       "night portrait",
       "image effect",
       "photographer",
+      "18 to 55",
       "15 to 135",
       "camera"
     ],
