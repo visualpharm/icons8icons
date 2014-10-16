@@ -3046,6 +3046,7 @@
     "category": "City",
     "created": 1401166273,
     "tags": [
+      "aviation",
       "package",
       "security",
       "city",
@@ -3067,7 +3068,6 @@
       "luggage",
       "passport",
       "international",
-      "aviation",
       "aircraft",
       "airline",
       "terminal",
@@ -32003,7 +32003,6 @@
       "drink",
       "nutrition",
       "music",
-      "restaurant",
       "breakfast",
       "cooking",
       "recipe",
@@ -32025,6 +32024,7 @@
       "baked seed",
       "brewed beverage",
       "cold coffee",
+      "restaurant",
       "cup",
       "aroma"
     ],
