@@ -79746,10 +79746,10 @@
       "gaming",
       "arrow keys",
       "analog stick",
-      "right",
       "down",
       "computer",
       "control column",
+      "right",
       "game",
       "video game",
       "playstation",
@@ -138006,7 +138006,6 @@
       "measurement",
       "distance",
       "drive",
-      "timer",
       "gauge",
       "speedometer",
       "instrument of measurement",
@@ -138022,6 +138021,7 @@
       "drift",
       "watch",
       "meter",
+      "timer",
       "speed"
     ],
     "copyright": false,
@@ -138113,9 +138113,6 @@
       4149,
       3238,
       5095,
-      3955,
-      5048,
-      5043,
       4861,
       3907,
       3905,
@@ -138127,7 +138124,10 @@
       3825,
       3159,
       4391,
-      3230
+      3230,
+      3955,
+      5048,
+      5043
     ]
   },
   {
