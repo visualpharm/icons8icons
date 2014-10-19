@@ -9772,11 +9772,11 @@
       "pound",
       "dollar",
       "euro",
-      "stuff",
       "inflation",
       "taka",
       "legal notes",
-      "two notes"
+      "two notes",
+      "stuff"
     ],
     "copyright": false,
     "files": {
