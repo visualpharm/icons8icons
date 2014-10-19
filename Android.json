@@ -21324,7 +21324,6 @@
       "sign",
       "briefcase",
       "icon",
-      "outdoors",
       "art",
       "caution",
       "identification",
@@ -21350,7 +21349,8 @@
       "building a fire",
       "around a camp fire",
       "outline of a camp fire",
-      "black and white campfi"
+      "black and white campfire",
+      "match "
     ],
     "copyright": false,
     "files": {
