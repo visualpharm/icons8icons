@@ -57694,6 +57694,7 @@
       "user folder",
       "report",
       "videos",
+      "drawer",
       "computer",
       "portfolio",
       "sort",
@@ -119172,7 +119173,8 @@
       "indicator",
       "right",
       "down",
-      "move"
+      "move",
+      "translate"
     ],
     "copyright": false,
     "files": {
@@ -119273,7 +119275,8 @@
       4618,
       4553,
       4556,
-      4569
+      4569,
+      4427
     ]
   },
   {
