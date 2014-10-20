@@ -67578,7 +67578,6 @@
       "links",
       "hands",
       "company",
-      "schedule",
       "map",
       "conversation",
       "circle",
@@ -67595,6 +67594,7 @@
       "syndicate",
       "gossip",
       "tall tales",
+      "schedule",
       "mates"
     ],
     "copyright": false,
@@ -67712,9 +67712,9 @@
       3946,
       5180,
       4115,
-      3268,
-      3344,
-      3939
+      3156,
+      3791,
+      4737
     ]
   },
   {
