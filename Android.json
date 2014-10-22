@@ -108241,7 +108241,6 @@
       "menu",
       "meat",
       "supermarket",
-      "food and drink",
       "culinary",
       "tomato",
       "bread",
@@ -108263,7 +108262,8 @@
       "crust",
       "cheese crust",
       "snack",
-      "l"
+      "lunch",
+      "fast food"
     ],
     "copyright": false,
     "files": {
@@ -123013,6 +123013,7 @@
     "tags": [
       "time",
       "edit",
+      "education",
       "running",
       "olympic",
       "track",
