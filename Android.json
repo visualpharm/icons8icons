@@ -53276,9 +53276,9 @@
       "cube",
       "items",
       "products",
-      "inventory",
       "purchases",
       "retail",
+      "inventory",
       "open box"
     ],
     "copyright": false,
@@ -63401,6 +63401,7 @@
     "created": 1391770248,
     "tags": [
       "android",
+      "celebrations",
       "gift",
       "regalo",
       "card",
@@ -63411,7 +63412,6 @@
       "store",
       "purchase",
       "wedding",
-      "celebrations",
       "birthday",
       "present",
       "shop",
@@ -72835,13 +72835,13 @@
       "cafe",
       "glucose",
       "herbal",
-      "jam",
       "hive",
       "amber",
       "apiculture",
       "ayurvedic",
       "glares",
-      "honey loops"
+      "honey loops",
+      "jam"
     ],
     "copyright": false,
     "files": {
