@@ -83950,7 +83950,8 @@
       "digit",
       "cm",
       "kilometer",
-      "measurement tape"
+      "measurement tape",
+      "gdfgdfg"
     ],
     "copyright": false,
     "files": {
@@ -94433,12 +94434,12 @@
       "stand",
       "court",
       "formal",
-      "jury",
       "lord",
       "chairperson",
       "chairmen",
       "arbitrator",
-      "his majesty"
+      "his majesty",
+      "jury"
     ],
     "copyright": false,
     "files": {
@@ -106090,7 +106091,6 @@
       "voice mail",
       "ringtone",
       "whatsapp",
-      "samsung",
       "lg",
       "voice call",
       "4G",
@@ -150101,7 +150101,6 @@
       "schedule",
       "countdown",
       "stopwatch",
-      "diary",
       "timepiece",
       "hourglass",
       "chronometer",
