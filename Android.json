@@ -20448,7 +20448,6 @@
       "business",
       "work",
       "notification",
-      "present",
       "appointment",
       "holiday",
       "organize",
@@ -20472,6 +20471,7 @@
       "day",
       "time",
       "hours",
+      "present",
       "week",
       "event",
       "survey",
@@ -105189,6 +105189,7 @@
       "international",
       "income",
       "debit card",
+      "donate",
       "withdrawal",
       "international currency"
     ],
