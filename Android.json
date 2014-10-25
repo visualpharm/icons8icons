@@ -44473,7 +44473,6 @@
       "led",
       "a",
       "mosaic",
-      "internets",
       "DNS",
       "FQDN",
       "url",
@@ -44491,7 +44490,10 @@
       "Geodomain",
       "ICANN",
       "Reverse domain name notation",
-      "Public Suffix List"
+      "Public Suffix List",
+      "web",
+      "http",
+      "w"
     ],
     "copyright": false,
     "files": {
