@@ -20438,7 +20438,6 @@
       4325,
       4314,
       4323,
-      4310,
       4327,
       4307,
       4318,
@@ -24904,7 +24903,6 @@
       "mobile",
       "touch",
       "electronics",
-      "battery",
       "gadget",
       "speaker",
       "keypad",
@@ -24928,7 +24926,7 @@
       "call barring",
       "call waiting",
       "2G",
-      "s"
+      "single ba"
     ],
     "copyright": false,
     "files": {
@@ -57817,6 +57815,7 @@
       "removable disc drive",
       "received",
       "obb",
+      "kolo",
       "disc drive"
     ],
     "copyright": false,
@@ -109523,7 +109522,6 @@
       4325,
       4314,
       4323,
-      4310,
       4327,
       4307,
       4318,
@@ -109560,6 +109558,7 @@
       4321,
       4755,
       4730,
+      4310,
       4349,
       4735,
       3772,
