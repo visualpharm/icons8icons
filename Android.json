@@ -6074,10 +6074,10 @@
       "housing block",
       "luxury condominiums",
       "home unit",
+      "home",
       "house",
-      "apartment",
       "tower block",
-      "home"
+      "apartment"
     ],
     "copyright": false,
     "files": {
@@ -6196,7 +6196,7 @@
       4016,
       4596,
       4040,
-      4745
+      3199
     ]
   },
   {
