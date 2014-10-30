@@ -128305,11 +128305,11 @@
       "client server",
       "file server",
       "mail server",
-      "web server",
       "Apache HTTP server",
       "RAS",
       "computer appliance",
-      "switc"
+      "switches",
+      "gateway"
     ],
     "copyright": false,
     "files": {
@@ -128440,7 +128440,6 @@
     "tags": [
       "add",
       "bulb",
-      "settings",
       "work",
       "gear",
       "charts",
@@ -128451,9 +128450,10 @@
       "cog",
       "edit",
       "tools",
+      "settings",
       "menu",
-      "options",
       "setting",
+      "options",
       "preferences"
     ],
     "copyright": false,
