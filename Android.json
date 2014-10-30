@@ -34401,12 +34401,14 @@
       "menu",
       "icon",
       "leader",
+      "transfer",
       "gardening",
       "people icons",
       "congress",
       "debate",
       "convocation",
       "summit",
+      "re tweet",
       "team",
       "human",
       "people",
@@ -88968,6 +88970,7 @@
     "tags": [
       "direction",
       "distance",
+      "settings",
       "address",
       "city",
       "symbols",
@@ -109059,7 +109062,6 @@
       "soft",
       "itunes",
       "resume",
-      "play button",
       "buldding",
       "Iniciar",
       "mp3"
@@ -114289,7 +114291,8 @@
       "shelve",
       "amplifier rack",
       "soundbox rack",
-      "cpu rack"
+      "cpu rack",
+      "Establecimientos"
     ],
     "copyright": false,
     "files": {
@@ -161437,6 +161440,7 @@
       3771,
       3359,
       4736,
+      3191,
       3265,
       4172,
       4160,
@@ -166202,6 +166206,7 @@
       "clothes washer",
       "wash cycle",
       "heavy object",
+      "universit",
       "accommodation"
     ],
     "copyright": false,
