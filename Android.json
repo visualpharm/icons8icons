@@ -29704,11 +29704,9 @@
     "tags": [
       "paw",
       "hand",
-      "punch",
       "power",
       "pound",
       "fist",
-      "clenched fist",
       "aggression",
       "finger",
       "insult",
@@ -29727,7 +29725,9 @@
       "non verbal",
       "squeeze",
       "closed fist",
-      "clenched"
+      "clenched",
+      "punch",
+      "clenched fist"
     ],
     "copyright": false,
     "files": {
@@ -29767,7 +29767,6 @@
       4108,
       5094,
       5236,
-      4378,
       4080,
       4329,
       4325,
@@ -29813,7 +29812,8 @@
       3995,
       3992,
       4002,
-      4001
+      4001,
+      4378
     ]
   },
   {
