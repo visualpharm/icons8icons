@@ -51578,7 +51578,6 @@
       "technology",
       "power",
       "plant",
-      "manufacturing",
       "production",
       "energy",
       "smoke",
@@ -51590,7 +51589,8 @@
       "smoke stack",
       "tech",
       "emission",
-      "industri"
+      "industrialisation",
+      "fact"
     ],
     "copyright": false,
     "files": {
